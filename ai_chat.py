@@ -9,33 +9,35 @@ from pathlib import Path
 from pprint import pprint
 from typing import NamedTuple, Union
 # import rasa
-from aiohttp import ClientSession, TCPConnector
+import requests
+from bs4 import BeautifulSoup
+from aiohttp import ClientSession, TCPConnector, client_exceptions
 from ascii_graph import Pyasciigraph
 from nested_lookup import nested_lookup as nested
 from rapidfuzz import fuzz, process
 from typing import Literal, List
 from unidecode import unidecode
+from pydantic import BaseModel
 
-class ConfigInfo(NamedTuple):
-    quran_host: str=None
-    quran_url: str=None
-    quran_api: str=None
-    hadith_url: str=None
+class ConfigInfo:
+    _config = None
     
+    def __init__(self):
+        config = self._get_config()
+        for key, value in config.items():
+            setattr(self, key, value)
+
     @classmethod
     @lru_cache(maxsize=None)
-    def _get_config(cls):
-        config_parser = ConfigParser()
-        config_parser.read(Path(__file__).parent.absolute() / 'config.ini')
-        config = ConfigInfo(*[val for _, val in config_parser.items('Database')])
-        return config
-    
-    @classmethod
-    def config(cls):
-        return cls._get_config()
+    def _get_config(cls, key='Database'):
+        if cls._config is None:
+            config_parser = ConfigParser()
+            config_parser.read(Path(__file__).parent.absolute() / 'config.ini')
+            cls._config = dict(config_parser[key])
+        return cls._config
 
 class QuranAPI:
-    config = ConfigInfo.config()
+    config = ConfigInfo()
     path = Path(__file__).parent.absolute() / 'islamic_data'
     
     def __init__(self):
@@ -50,9 +52,12 @@ class QuranAPI:
         range_, keyword, slash, url = tuple(map(lambda i: params.get(i, ''), ('range_', 'keyword', 'slash', 'url')))
         slash = '/' if slash else ''
         full_endpoint = '{}{}{}'.format(self.url if not url else url, f'{slash+endpoint}', range_ or keyword)
-        async with ClientSession(connector=TCPConnector(ssl=False), raise_for_status=True) as session:
-            async with session.get(full_endpoint, headers=self.headers) as response:
-                return await response.json()
+        try:
+            async with ClientSession(connector=TCPConnector(ssl=False), raise_for_status=True) as session:
+                async with session.get(full_endpoint, headers=self.headers) as response:
+                    return await response.json()
+        except (client_exceptions.ContentTypeError) as e:
+            return await response.text()
     
     async def parse_surah(self, surah_id: Union[int, str, None]='', **params):
         '''
@@ -120,7 +125,7 @@ class QuranAPI:
         if values_ and not isinstance(values_, (dict, OrderedDict, defaultdict)):
             values_ = {value: key for value, key in enumerate(values_)}
         match_ = process.extractOne(string.lower(), list(map(str.lower, values_.values())), scorer=fuzz.ratio)
-        matched = match_[0].upper() if all(i.isupper() for i in values_.values()) else match_[0].lower()
+        matched = match_[0].upper() if all(i.isupper() for i in values_.values()) else match_[0].title()
         return matched
     
     async def minimize_surah(self, **params):
@@ -177,7 +182,35 @@ class HadithAPI(QuranAPI):
     
     async def minimize_hadith(self, **params):
         ...
+
+
+class IslamFacts(QuranAPI):    
+    facts = set()
+    def __init__(self):
+        super().__init__()
+        self.url = self.config.islam_facts
+        self.headers = None
     
+    def _request_contents(self):
+        return requests.get(self.url).text
+    
+    def fun_fact(self, **params):
+        limit = params.get('limit', 1)
+        for _ in range(limit):
+            html_content = self._request_contents()
+            soup = BeautifulSoup(html_content, 'html.parser')
+            fun_fact = soup.find_all('h2')[0].text
+            formatted = re.sub(r'\((Religion > Islam )\)', '', fun_fact).strip()
+            self.facts.add(formatted)
+        fun_facts = dict.fromkeys(self.facts)
+        file_mode = 'a' if Path(self.path / 'islam_facts.json').exists() else 'w'
+        with open(self.path / 'islam_facts.json', mode=file_mode, encoding='utf-8') as file:
+            json.dump(fun_facts, file, indent=4)
+        return formatted
+    
+    @property
+    def get_all_facts(self):
+        return self.facts
 
 
 #!> QuranAPI Class
@@ -199,8 +232,11 @@ class HadithAPI(QuranAPI):
         #? https://fungenerators.com/random/facts/religion/islam
 
 async def main():
-    a = HadithAPI()
-    pprint(await a.get_hadith(author='nasai'))
+    # a = HadithAPI()
+    # pprint(await a.get_hadith(author='nasai'))
+    b = IslamFacts()
+    print(b.fun_fact(limit=100))
+    pprint(b.get_all_facts, indent=4)
     
 if __name__ == '__main__':
     asyncio.run(main())
