@@ -96,7 +96,7 @@ pip install -r requirements.txt
 - [] Deployment
 
 ## Contributing
-- There is another project, much similar to IslamAI, that shares my passion for advancing Islamic knowledge through AI technology. We maintain an active Discord channel where contributors from both projects collaborate, share ideas, and support each other's initiatives. This collaborative spirit allows us to collectively improve AI-driven Islamic knowledge platforms for the benefit of users worldwide.
+- There is another project, much similar to IslamAI, that shares my passion for advancing Islamic knowledge through AI technology. The owner, Ali, maintains an active Discord channel where contributors collaborate, share ideas, and support each other's initiatives. This collaborative spirit allows us to collectively improve AI-driven Islamic knowledge platforms for the benefit of users worldwide.
 
 - Feel free to join Ali Zahid Raja's Discord channel to participate in this collaborative effort and contribute to the development of cutting-edge solutions for Islamic education and information dissemination. Together, we can make a substantial impact on the way people access and learn about Islam.
 ---
@@ -105,6 +105,7 @@ pip install -r requirements.txt
 
 | Platform | Link                                         |
 |----------|----------------------------------------------|
-| Discord  | [Discord](https://discord.gg/HhGaJan3Xj) |
-| GitHub   | [GitHub Repository](https://github.com/islamAndAi/QURAN-NLP) |
+| Ali's website  | [Portfolio](https://alizahidraja.com/) |
+| Discord  | [Islam & AI](https://discord.gg/HhGaJan3Xj) |
+| GitHub   | [QURAN-NLP](https://github.com/islamAndAi/QURAN-NLP) |
 
