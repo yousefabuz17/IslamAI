@@ -1,0 +1,1160 @@
+{
+    "1": {
+        "Country": "Afghanistan",
+        "latitude": 33.7680065,
+        "longitutde": 66.2385139,
+        "qibla_dir": 58.50816668110658
+    },
+    "2": {
+        "Country": "Albania",
+        "latitude": 41.000028,
+        "longitutde": 19.9999619,
+        "qibla_dir": 58.50816668110658
+    },
+    "3": {
+        "Country": "Algeria",
+        "latitude": 28.0000272,
+        "longitutde": 2.9999825,
+        "qibla_dir": 58.50816668110658
+    },
+    "4": {
+        "Country": "Andorra",
+        "latitude": 42.5407167,
+        "longitutde": 1.5732033,
+        "qibla_dir": 58.50816668110658
+    },
+    "5": {
+        "Country": "Angola",
+        "latitude": -11.8775768,
+        "longitutde": 17.5691241,
+        "qibla_dir": 58.50816668110658
+    },
+    "6": {
+        "Country": "Antigua and Barbuda",
+        "latitude": 17.2234721,
+        "longitutde": -61.9554608,
+        "qibla_dir": 58.50816668110658
+    },
+    "7": {
+        "Country": "Argentina",
+        "latitude": -34.9964963,
+        "longitutde": -64.9672817,
+        "qibla_dir": 58.50816668110658
+    },
+    "8": {
+        "Country": "Armenia",
+        "latitude": 40.7696272,
+        "longitutde": 44.6736646,
+        "qibla_dir": 58.50816668110658
+    },
+    "9": {
+        "Country": "Austria",
+        "latitude": 47.59397,
+        "longitutde": 14.12456,
+        "qibla_dir": 58.50816668110658
+    },
+    "10": {
+        "Country": "Azerbaijan",
+        "latitude": 40.3936294,
+        "longitutde": 47.7872508,
+        "qibla_dir": 58.50816668110658
+    },
+    "11": {
+        "Country": "Bahrain",
+        "latitude": 26.1551249,
+        "longitutde": 50.5344606,
+        "qibla_dir": 58.50816668110658
+    },
+    "12": {
+        "Country": "Bangladesh",
+        "latitude": 24.4769288,
+        "longitutde": 90.2934413,
+        "qibla_dir": 58.50816668110658
+    },
+    "13": {
+        "Country": "Barbados",
+        "latitude": 13.1500331,
+        "longitutde": -59.5250305,
+        "qibla_dir": 58.50816668110658
+    },
+    "14": {
+        "Country": "Belarus",
+        "latitude": 53.4250605,
+        "longitutde": 27.6971358,
+        "qibla_dir": 58.50816668110658
+    },
+    "15": {
+        "Country": "Belgium",
+        "latitude": 50.6402809,
+        "longitutde": 4.6667145,
+        "qibla_dir": 58.50816668110658
+    },
+    "16": {
+        "Country": "Belize",
+        "latitude": 16.8259793,
+        "longitutde": -88.7600927,
+        "qibla_dir": 58.50816668110658
+    },
+    "17": {
+        "Country": "Benin",
+        "latitude": 9.5293472,
+        "longitutde": 2.2584408,
+        "qibla_dir": 58.50816668110658
+    },
+    "18": {
+        "Country": "Bhutan",
+        "latitude": 27.549511,
+        "longitutde": 90.5119273,
+        "qibla_dir": 58.50816668110658
+    },
+    "19": {
+        "Country": "Bolivia",
+        "latitude": -17.0568696,
+        "longitutde": -64.9912286,
+        "qibla_dir": 58.50816668110658
+    },
+    "20": {
+        "Country": "Bosnia and Herzegovina",
+        "latitude": 44.3053476,
+        "longitutde": 17.5961467,
+        "qibla_dir": 58.50816668110658
+    },
+    "21": {
+        "Country": "Botswana",
+        "latitude": -23.1681782,
+        "longitutde": 24.5928742,
+        "qibla_dir": 58.50816668110658
+    },
+    "22": {
+        "Country": "Brazil",
+        "latitude": -10.3333333,
+        "longitutde": -53.2,
+        "qibla_dir": 58.50816668110658
+    },
+    "23": {
+        "Country": "Brunei",
+        "latitude": 4.4137155,
+        "longitutde": 114.5653908,
+        "qibla_dir": 58.50816668110658
+    },
+    "24": {
+        "Country": "Bulgaria",
+        "latitude": 42.6073975,
+        "longitutde": 25.4856617,
+        "qibla_dir": 58.50816668110658
+    },
+    "25": {
+        "Country": "Burkina Faso",
+        "latitude": 12.0753083,
+        "longitutde": -1.6880314,
+        "qibla_dir": 58.50816668110658
+    },
+    "26": {
+        "Country": "Burundi",
+        "latitude": -3.426449,
+        "longitutde": 29.9324519,
+        "qibla_dir": 58.50816668110658
+    },
+    "27": {
+        "Country": "Cabo Verde",
+        "latitude": 16.0000552,
+        "longitutde": -24.0083947,
+        "qibla_dir": 58.50816668110658
+    },
+    "28": {
+        "Country": "Cambodia",
+        "latitude": 12.5433216,
+        "longitutde": 104.8144914,
+        "qibla_dir": 58.50816668110658
+    },
+    "29": {
+        "Country": "Cameroon",
+        "latitude": 4.6125522,
+        "longitutde": 13.1535811,
+        "qibla_dir": 58.50816668110658
+    },
+    "30": {
+        "Country": "Canada",
+        "latitude": 61.0666922,
+        "longitutde": -107.991707,
+        "qibla_dir": 58.50816668110658
+    },
+    "31": {
+        "Country": "Central African Republic",
+        "latitude": 7.0323598,
+        "longitutde": 19.9981227,
+        "qibla_dir": 58.50816668110658
+    },
+    "32": {
+        "Country": "Chad",
+        "latitude": 15.6134137,
+        "longitutde": 19.0156172,
+        "qibla_dir": 58.50816668110658
+    },
+    "33": {
+        "Country": "Channel Islands",
+        "latitude": 49.21230655,
+        "longitutde": -2.1255999596428845,
+        "qibla_dir": 58.50816668110658
+    },
+    "34": {
+        "Country": "Chile",
+        "latitude": -31.7613365,
+        "longitutde": -71.3187697,
+        "qibla_dir": 58.50816668110658
+    },
+    "35": {
+        "Country": "China",
+        "latitude": 35.000074,
+        "longitutde": 104.999927,
+        "qibla_dir": 58.50816668110658
+    },
+    "36": {
+        "Country": "Colombia",
+        "latitude": 4.099917,
+        "longitutde": -72.9088133,
+        "qibla_dir": 58.50816668110658
+    },
+    "37": {
+        "Country": "Comoros",
+        "latitude": -12.2045176,
+        "longitutde": 44.2832964,
+        "qibla_dir": 58.50816668110658
+    },
+    "38": {
+        "Country": "Congo",
+        "latitude": -2.9814344,
+        "longitutde": 23.8222636,
+        "qibla_dir": 58.50816668110658
+    },
+    "39": {
+        "Country": "Costa Rica",
+        "latitude": 9.536456900000001,
+        "longitutde": -84.17566257468567,
+        "qibla_dir": 58.50816668110658
+    },
+    "40": {
+        "Country": "C\u00f4te d'Ivoire",
+        "latitude": 7.9897371,
+        "longitutde": -5.5679458,
+        "qibla_dir": 58.50816668110658
+    },
+    "41": {
+        "Country": "Croatia",
+        "latitude": 45.3658443,
+        "longitutde": 15.6575209,
+        "qibla_dir": 58.50816668110658
+    },
+    "42": {
+        "Country": "Cuba",
+        "latitude": 23.0131338,
+        "longitutde": -80.8328748,
+        "qibla_dir": 58.50816668110658
+    },
+    "43": {
+        "Country": "Cyprus",
+        "latitude": 34.9823018,
+        "longitutde": 33.1451285,
+        "qibla_dir": 58.50816668110658
+    },
+    "44": {
+        "Country": "Czech Republic",
+        "latitude": 49.7439047,
+        "longitutde": 15.3381061,
+        "qibla_dir": 58.50816668110658
+    },
+    "45": {
+        "Country": "Denmark",
+        "latitude": 55.670249,
+        "longitutde": 10.3333283,
+        "qibla_dir": 58.50816668110658
+    },
+    "46": {
+        "Country": "Djibouti",
+        "latitude": 11.8145966,
+        "longitutde": 42.8453061,
+        "qibla_dir": 58.50816668110658
+    },
+    "47": {
+        "Country": "Dominica",
+        "latitude": 19.0974031,
+        "longitutde": -70.3028026,
+        "qibla_dir": 58.50816668110658
+    },
+    "48": {
+        "Country": "Dominican Republic",
+        "latitude": 19.0974031,
+        "longitutde": -70.3028026,
+        "qibla_dir": 58.50816668110658
+    },
+    "49": {
+        "Country": "DR Congo",
+        "latitude": -2.9814344,
+        "longitutde": 23.8222636,
+        "qibla_dir": 58.50816668110658
+    },
+    "50": {
+        "Country": "Ecuador",
+        "latitude": -1.3397668,
+        "longitutde": -79.3666965,
+        "qibla_dir": 58.50816668110658
+    },
+    "51": {
+        "Country": "Egypt",
+        "latitude": 26.2540493,
+        "longitutde": 29.2675469,
+        "qibla_dir": 58.50816668110658
+    },
+    "52": {
+        "Country": "El Salvador",
+        "latitude": 13.8000382,
+        "longitutde": -88.9140683,
+        "qibla_dir": 58.50816668110658
+    },
+    "53": {
+        "Country": "Equatorial Guinea",
+        "latitude": 1.613172,
+        "longitutde": 10.5170357,
+        "qibla_dir": 58.50816668110658
+    },
+    "54": {
+        "Country": "Eritrea",
+        "latitude": 15.9500319,
+        "longitutde": 37.9999668,
+        "qibla_dir": 58.50816668110658
+    },
+    "55": {
+        "Country": "Estonia",
+        "latitude": 58.7523778,
+        "longitutde": 25.3319078,
+        "qibla_dir": 58.50816668110658
+    },
+    "56": {
+        "Country": "Eswatini",
+        "latitude": -26.5624806,
+        "longitutde": 31.3991317,
+        "qibla_dir": 58.50816668110658
+    },
+    "57": {
+        "Country": "Ethiopia",
+        "latitude": 10.2116702,
+        "longitutde": 38.6521203,
+        "qibla_dir": 58.50816668110658
+    },
+    "58": {
+        "Country": "Faeroe Islands",
+        "latitude": 62.0448724,
+        "longitutde": -7.0322972,
+        "qibla_dir": 58.50816668110658
+    },
+    "59": {
+        "Country": "Finland",
+        "latitude": 63.2467777,
+        "longitutde": 25.9209164,
+        "qibla_dir": 58.50816668110658
+    },
+    "60": {
+        "Country": "France",
+        "latitude": 46.603354,
+        "longitutde": 1.8883335,
+        "qibla_dir": 58.50816668110658
+    },
+    "61": {
+        "Country": "French Guiana",
+        "latitude": 3.94396215,
+        "longitutde": -53.037301540206464,
+        "qibla_dir": 58.50816668110658
+    },
+    "62": {
+        "Country": "Gabon",
+        "latitude": -0.8999695,
+        "longitutde": 11.6899699,
+        "qibla_dir": 58.50816668110658
+    },
+    "63": {
+        "Country": "Gambia",
+        "latitude": 13.470062,
+        "longitutde": -15.4900464,
+        "qibla_dir": 58.50816668110658
+    },
+    "64": {
+        "Country": "Georgia",
+        "latitude": 41.6809707,
+        "longitutde": 44.0287382,
+        "qibla_dir": 58.50816668110658
+    },
+    "65": {
+        "Country": "Germany",
+        "latitude": 51.1638175,
+        "longitutde": 10.4478313,
+        "qibla_dir": 58.50816668110658
+    },
+    "66": {
+        "Country": "Ghana",
+        "latitude": 8.0300284,
+        "longitutde": -1.0800271,
+        "qibla_dir": 58.50816668110658
+    },
+    "67": {
+        "Country": "Gibraltar",
+        "latitude": 36.1285933,
+        "longitutde": -5.3474761,
+        "qibla_dir": 58.50816668110658
+    },
+    "68": {
+        "Country": "Greece",
+        "latitude": 38.9953683,
+        "longitutde": 21.9877132,
+        "qibla_dir": 58.50816668110658
+    },
+    "69": {
+        "Country": "Grenada",
+        "latitude": 12.1360374,
+        "longitutde": -61.6904045,
+        "qibla_dir": 58.50816668110658
+    },
+    "70": {
+        "Country": "Guatemala",
+        "latitude": 15.5855545,
+        "longitutde": -90.345759,
+        "qibla_dir": 58.50816668110658
+    },
+    "71": {
+        "Country": "Guinea",
+        "latitude": 10.7226226,
+        "longitutde": -10.7083587,
+        "qibla_dir": 58.50816668110658
+    },
+    "72": {
+        "Country": "Guinea-Bissau",
+        "latitude": 11.815215,
+        "longitutde": -15.2351044,
+        "qibla_dir": 58.50816668110658
+    },
+    "73": {
+        "Country": "Guyana",
+        "latitude": 4.8417097,
+        "longitutde": -58.6416891,
+        "qibla_dir": 58.50816668110658
+    },
+    "74": {
+        "Country": "Haiti",
+        "latitude": 19.1399952,
+        "longitutde": -72.3570972,
+        "qibla_dir": 58.50816668110658
+    },
+    "75": {
+        "Country": "Holy See",
+        "latitude": 38.9247244,
+        "longitutde": -77.06572732690151,
+        "qibla_dir": 58.50816668110658
+    },
+    "76": {
+        "Country": "Honduras",
+        "latitude": 15.2572432,
+        "longitutde": -86.0755145,
+        "qibla_dir": 58.50816668110658
+    },
+    "77": {
+        "Country": "Hong Kong",
+        "latitude": 22.350627,
+        "longitutde": 114.1849161,
+        "qibla_dir": 58.50816668110658
+    },
+    "78": {
+        "Country": "Hungary",
+        "latitude": 47.1817585,
+        "longitutde": 19.5060937,
+        "qibla_dir": 58.50816668110658
+    },
+    "79": {
+        "Country": "Iceland",
+        "latitude": 64.9841821,
+        "longitutde": -18.1059013,
+        "qibla_dir": 58.50816668110658
+    },
+    "80": {
+        "Country": "India",
+        "latitude": 22.3511148,
+        "longitutde": 78.6677428,
+        "qibla_dir": 58.50816668110658
+    },
+    "81": {
+        "Country": "Indonesia",
+        "latitude": -2.4833826,
+        "longitutde": 117.8902853,
+        "qibla_dir": 58.50816668110658
+    },
+    "82": {
+        "Country": "Iran",
+        "latitude": 32.6475314,
+        "longitutde": 54.5643516,
+        "qibla_dir": 58.50816668110658
+    },
+    "83": {
+        "Country": "Iraq",
+        "latitude": 33.0955793,
+        "longitutde": 44.1749775,
+        "qibla_dir": 58.50816668110658
+    },
+    "84": {
+        "Country": "Ireland",
+        "latitude": 52.865196,
+        "longitutde": -7.9794599,
+        "qibla_dir": 58.50816668110658
+    },
+    "85": {
+        "Country": "Isle of Man",
+        "latitude": 54.1936805,
+        "longitutde": -4.5591148,
+        "qibla_dir": 58.50816668110658
+    },
+    "86": {
+        "Country": "Israel",
+        "latitude": 30.8124247,
+        "longitutde": 34.8594762,
+        "qibla_dir": 58.50816668110658
+    },
+    "87": {
+        "Country": "Italy",
+        "latitude": 42.6384261,
+        "longitutde": 12.674297,
+        "qibla_dir": 58.50816668110658
+    },
+    "88": {
+        "Country": "Jamaica",
+        "latitude": 18.1850507,
+        "longitutde": -77.3947693,
+        "qibla_dir": 58.50816668110658
+    },
+    "89": {
+        "Country": "Japan",
+        "latitude": 36.5748441,
+        "longitutde": 139.2394179,
+        "qibla_dir": 58.50816668110658
+    },
+    "90": {
+        "Country": "Jordan",
+        "latitude": 31.1667049,
+        "longitutde": 36.941628,
+        "qibla_dir": 58.50816668110658
+    },
+    "91": {
+        "Country": "Kazakhstan",
+        "latitude": 48.1012954,
+        "longitutde": 66.7780818,
+        "qibla_dir": 58.50816668110658
+    },
+    "92": {
+        "Country": "Kenya",
+        "latitude": 1.4419683,
+        "longitutde": 38.4313975,
+        "qibla_dir": 58.50816668110658
+    },
+    "93": {
+        "Country": "Kuwait",
+        "latitude": 29.2733964,
+        "longitutde": 47.4979476,
+        "qibla_dir": 58.50816668110658
+    },
+    "94": {
+        "Country": "Kyrgyzstan",
+        "latitude": 41.5089324,
+        "longitutde": 74.724091,
+        "qibla_dir": 58.50816668110658
+    },
+    "95": {
+        "Country": "Laos",
+        "latitude": 20.0171109,
+        "longitutde": 103.378253,
+        "qibla_dir": 58.50816668110658
+    },
+    "96": {
+        "Country": "Latvia",
+        "latitude": 56.8406494,
+        "longitutde": 24.7537645,
+        "qibla_dir": 58.50816668110658
+    },
+    "97": {
+        "Country": "Lebanon",
+        "latitude": 33.8750629,
+        "longitutde": 35.843409,
+        "qibla_dir": 58.50816668110658
+    },
+    "98": {
+        "Country": "Lesotho",
+        "latitude": -29.6039267,
+        "longitutde": 28.3350193,
+        "qibla_dir": 58.50816668110658
+    },
+    "99": {
+        "Country": "Liberia",
+        "latitude": 5.7499721,
+        "longitutde": -9.3658524,
+        "qibla_dir": 58.50816668110658
+    },
+    "100": {
+        "Country": "Libya",
+        "latitude": 26.8234472,
+        "longitutde": 18.1236723,
+        "qibla_dir": 58.50816668110658
+    },
+    "101": {
+        "Country": "Liechtenstein",
+        "latitude": 47.1416307,
+        "longitutde": 9.5531527,
+        "qibla_dir": 58.50816668110658
+    },
+    "102": {
+        "Country": "Lithuania",
+        "latitude": 55.3500003,
+        "longitutde": 23.7499997,
+        "qibla_dir": 58.50816668110658
+    },
+    "103": {
+        "Country": "Luxembourg",
+        "latitude": 49.8158683,
+        "longitutde": 6.1296751,
+        "qibla_dir": 58.50816668110658
+    },
+    "104": {
+        "Country": "Macao",
+        "latitude": 22.1757605,
+        "longitutde": 113.5514142,
+        "qibla_dir": 58.50816668110658
+    },
+    "105": {
+        "Country": "Madagascar",
+        "latitude": -18.9249604,
+        "longitutde": 46.4416422,
+        "qibla_dir": 58.50816668110658
+    },
+    "106": {
+        "Country": "Malawi",
+        "latitude": -13.2687204,
+        "longitutde": 33.9301963,
+        "qibla_dir": 58.50816668110658
+    },
+    "107": {
+        "Country": "Malaysia",
+        "latitude": 4.5693754,
+        "longitutde": 102.2656823,
+        "qibla_dir": 58.50816668110658
+    },
+    "108": {
+        "Country": "Maldives",
+        "latitude": 3.7203503,
+        "longitutde": 73.2244152,
+        "qibla_dir": 58.50816668110658
+    },
+    "109": {
+        "Country": "Mali",
+        "latitude": 16.3700359,
+        "longitutde": -2.2900239,
+        "qibla_dir": 58.50816668110658
+    },
+    "110": {
+        "Country": "Malta",
+        "latitude": 35.8885993,
+        "longitutde": 14.4476911,
+        "qibla_dir": 58.50816668110658
+    },
+    "111": {
+        "Country": "Mauritania",
+        "latitude": 20.2540382,
+        "longitutde": -9.2399263,
+        "qibla_dir": 58.50816668110658
+    },
+    "112": {
+        "Country": "Mauritius",
+        "latitude": -20.2759451,
+        "longitutde": 57.5703566,
+        "qibla_dir": 58.50816668110658
+    },
+    "113": {
+        "Country": "Mayotte",
+        "latitude": -12.823048,
+        "longitutde": 45.1520755,
+        "qibla_dir": 58.50816668110658
+    },
+    "114": {
+        "Country": "Mexico",
+        "latitude": 23.6585116,
+        "longitutde": -102.0077097,
+        "qibla_dir": 58.50816668110658
+    },
+    "115": {
+        "Country": "Moldova",
+        "latitude": 47.2879608,
+        "longitutde": 28.5670941,
+        "qibla_dir": 58.50816668110658
+    },
+    "116": {
+        "Country": "Monaco",
+        "latitude": 48.1371079,
+        "longitutde": 11.5753822,
+        "qibla_dir": 58.50816668110658
+    },
+    "117": {
+        "Country": "Mongolia",
+        "latitude": 46.8250388,
+        "longitutde": 103.8499736,
+        "qibla_dir": 58.50816668110658
+    },
+    "118": {
+        "Country": "Montenegro",
+        "latitude": 42.9868853,
+        "longitutde": 19.5180992,
+        "qibla_dir": 58.50816668110658
+    },
+    "119": {
+        "Country": "Morocco",
+        "latitude": 31.1728205,
+        "longitutde": -7.3362482,
+        "qibla_dir": 58.50816668110658
+    },
+    "120": {
+        "Country": "Mozambique",
+        "latitude": -19.302233,
+        "longitutde": 34.9144977,
+        "qibla_dir": 58.50816668110658
+    },
+    "121": {
+        "Country": "Myanmar",
+        "latitude": 17.1750495,
+        "longitutde": 95.9999652,
+        "qibla_dir": 58.50816668110658
+    },
+    "122": {
+        "Country": "Namibia",
+        "latitude": -23.2335499,
+        "longitutde": 17.3231107,
+        "qibla_dir": 58.50816668110658
+    },
+    "123": {
+        "Country": "Nepal",
+        "latitude": 28.1083929,
+        "longitutde": 84.0917139,
+        "qibla_dir": 58.50816668110658
+    },
+    "124": {
+        "Country": "Netherlands",
+        "latitude": 52.2434979,
+        "longitutde": 5.6343227,
+        "qibla_dir": 58.50816668110658
+    },
+    "125": {
+        "Country": "Nicaragua",
+        "latitude": 12.6090157,
+        "longitutde": -85.2936911,
+        "qibla_dir": 58.50816668110658
+    },
+    "126": {
+        "Country": "Niger",
+        "latitude": 17.7356214,
+        "longitutde": 9.3238432,
+        "qibla_dir": 58.50816668110658
+    },
+    "127": {
+        "Country": "Nigeria",
+        "latitude": 9.6000359,
+        "longitutde": 7.9999721,
+        "qibla_dir": 58.50816668110658
+    },
+    "128": {
+        "Country": "North Korea",
+        "latitude": 40.3736611,
+        "longitutde": 127.0870417,
+        "qibla_dir": 58.50816668110658
+    },
+    "129": {
+        "Country": "North Macedonia",
+        "latitude": 41.6171214,
+        "longitutde": 21.7168387,
+        "qibla_dir": 58.50816668110658
+    },
+    "130": {
+        "Country": "Norway",
+        "latitude": 61.1529386,
+        "longitutde": 8.7876653,
+        "qibla_dir": 58.50816668110658
+    },
+    "131": {
+        "Country": "Oman",
+        "latitude": 21.0000287,
+        "longitutde": 57.0036901,
+        "qibla_dir": 58.50816668110658
+    },
+    "132": {
+        "Country": "Pakistan",
+        "latitude": 30.3308401,
+        "longitutde": 71.247499,
+        "qibla_dir": 58.50816668110658
+    },
+    "133": {
+        "Country": "Panama",
+        "latitude": 8.559559,
+        "longitutde": -81.1308434,
+        "qibla_dir": 58.50816668110658
+    },
+    "134": {
+        "Country": "Paraguay",
+        "latitude": -23.3165935,
+        "longitutde": -58.1693445,
+        "qibla_dir": 58.50816668110658
+    },
+    "135": {
+        "Country": "Peru",
+        "latitude": -6.8699697,
+        "longitutde": -75.0458515,
+        "qibla_dir": 58.50816668110658
+    },
+    "136": {
+        "Country": "Philippines",
+        "latitude": 12.7503486,
+        "longitutde": 122.7312101,
+        "qibla_dir": 58.50816668110658
+    },
+    "137": {
+        "Country": "Poland",
+        "latitude": 52.215933,
+        "longitutde": 19.134422,
+        "qibla_dir": 58.50816668110658
+    },
+    "138": {
+        "Country": "Portugal",
+        "latitude": 39.6621648,
+        "longitutde": -8.1353519,
+        "qibla_dir": 58.50816668110658
+    },
+    "139": {
+        "Country": "Qatar",
+        "latitude": 25.3336984,
+        "longitutde": 51.2295295,
+        "qibla_dir": 58.50816668110658
+    },
+    "140": {
+        "Country": "R\u00e9union",
+        "latitude": -21.130737949999997,
+        "longitutde": 55.536480112992315,
+        "qibla_dir": 58.50816668110658
+    },
+    "141": {
+        "Country": "Romania",
+        "latitude": 45.9852129,
+        "longitutde": 24.6859225,
+        "qibla_dir": 58.50816668110658
+    },
+    "142": {
+        "Country": "Russia",
+        "latitude": 64.6863136,
+        "longitutde": 97.7453061,
+        "qibla_dir": 58.50816668110658
+    },
+    "143": {
+        "Country": "Rwanda",
+        "latitude": -1.9646631,
+        "longitutde": 30.0644358,
+        "qibla_dir": 58.50816668110658
+    },
+    "144": {
+        "Country": "Saint Helena",
+        "latitude": -37.2465,
+        "longitutde": -12.4870384875,
+        "qibla_dir": 58.50816668110658
+    },
+    "145": {
+        "Country": "Saint Kitts and Nevis",
+        "latitude": 17.250512,
+        "longitutde": -62.6725973,
+        "qibla_dir": 58.50816668110658
+    },
+    "146": {
+        "Country": "Saint Lucia",
+        "latitude": 13.8250489,
+        "longitutde": -60.975036,
+        "qibla_dir": 58.50816668110658
+    },
+    "147": {
+        "Country": "Saint Vincent and the Grenadines",
+        "latitude": 12.90447,
+        "longitutde": -61.2765569,
+        "qibla_dir": 58.50816668110658
+    },
+    "148": {
+        "Country": "San Marino",
+        "latitude": 43.9458623,
+        "longitutde": 12.458306,
+        "qibla_dir": 58.50816668110658
+    },
+    "149": {
+        "Country": "Sao Tome & Principe",
+        "latitude": -11.705617,
+        "longitutde": -63.854835,
+        "qibla_dir": 58.50816668110658
+    },
+    "150": {
+        "Country": "Saudi Arabia",
+        "latitude": 25.6242618,
+        "longitutde": 42.3528328,
+        "qibla_dir": 58.50816668110658
+    },
+    "151": {
+        "Country": "Senegal",
+        "latitude": 14.4750607,
+        "longitutde": -14.4529612,
+        "qibla_dir": 58.50816668110658
+    },
+    "152": {
+        "Country": "Serbia",
+        "latitude": 44.1534121,
+        "longitutde": 20.55144,
+        "qibla_dir": 58.50816668110658
+    },
+    "153": {
+        "Country": "Seychelles",
+        "latitude": -4.6574977,
+        "longitutde": 55.4540146,
+        "qibla_dir": 58.50816668110658
+    },
+    "154": {
+        "Country": "Sierra Leone",
+        "latitude": 8.6400349,
+        "longitutde": -11.8400269,
+        "qibla_dir": 58.50816668110658
+    },
+    "155": {
+        "Country": "Singapore",
+        "latitude": 1.357107,
+        "longitutde": 103.8194992,
+        "qibla_dir": 58.50816668110658
+    },
+    "156": {
+        "Country": "Slovakia",
+        "latitude": 48.7411522,
+        "longitutde": 19.4528646,
+        "qibla_dir": 58.50816668110658
+    },
+    "157": {
+        "Country": "Slovenia",
+        "latitude": 46.1199444,
+        "longitutde": 14.8153333,
+        "qibla_dir": 58.50816668110658
+    },
+    "158": {
+        "Country": "Somalia",
+        "latitude": 8.3676771,
+        "longitutde": 49.083416,
+        "qibla_dir": 58.50816668110658
+    },
+    "159": {
+        "Country": "South Africa",
+        "latitude": -28.8166236,
+        "longitutde": 24.991639,
+        "qibla_dir": 58.50816668110658
+    },
+    "160": {
+        "Country": "South Korea",
+        "latitude": 36.638392,
+        "longitutde": 127.6961188,
+        "qibla_dir": 58.50816668110658
+    },
+    "161": {
+        "Country": "South Sudan",
+        "latitude": 7.8699431,
+        "longitutde": 29.6667897,
+        "qibla_dir": 58.50816668110658
+    },
+    "162": {
+        "Country": "Spain",
+        "latitude": 39.3260685,
+        "longitutde": -4.8379791,
+        "qibla_dir": 58.50816668110658
+    },
+    "163": {
+        "Country": "Sri Lanka",
+        "latitude": 7.5554942,
+        "longitutde": 80.7137847,
+        "qibla_dir": 58.50816668110658
+    },
+    "164": {
+        "Country": "State of Palestine",
+        "latitude": 31.462420950000002,
+        "longitutde": 34.262716572130714,
+        "qibla_dir": 58.50816668110658
+    },
+    "165": {
+        "Country": "Sudan",
+        "latitude": 14.5844444,
+        "longitutde": 29.4917691,
+        "qibla_dir": 58.50816668110658
+    },
+    "166": {
+        "Country": "Suriname",
+        "latitude": 4.1413025,
+        "longitutde": -56.0771187,
+        "qibla_dir": 58.50816668110658
+    },
+    "167": {
+        "Country": "Sweden",
+        "latitude": 59.6749712,
+        "longitutde": 14.5208584,
+        "qibla_dir": 58.50816668110658
+    },
+    "168": {
+        "Country": "Switzerland",
+        "latitude": 46.7985624,
+        "longitutde": 8.2319736,
+        "qibla_dir": 58.50816668110658
+    },
+    "169": {
+        "Country": "Syria",
+        "latitude": 34.6401861,
+        "longitutde": 39.0494106,
+        "qibla_dir": 58.50816668110658
+    },
+    "170": {
+        "Country": "Taiwan",
+        "latitude": 23.9739374,
+        "longitutde": 120.9820179,
+        "qibla_dir": 58.50816668110658
+    },
+    "171": {
+        "Country": "Tajikistan",
+        "latitude": 38.6281733,
+        "longitutde": 70.8156541,
+        "qibla_dir": 58.50816668110658
+    },
+    "172": {
+        "Country": "Tanzania",
+        "latitude": -6.5247123,
+        "longitutde": 35.7878438,
+        "qibla_dir": 58.50816668110658
+    },
+    "173": {
+        "Country": "Thailand",
+        "latitude": 14.8971921,
+        "longitutde": 100.83273,
+        "qibla_dir": 58.50816668110658
+    },
+    "174": {
+        "Country": "The Bahamas",
+        "latitude": 24.7736546,
+        "longitutde": -78.0000547,
+        "qibla_dir": 58.50816668110658
+    },
+    "175": {
+        "Country": "Timor-Leste",
+        "latitude": -8.7443169,
+        "longitutde": 126.063482,
+        "qibla_dir": 58.50816668110658
+    },
+    "176": {
+        "Country": "Togo",
+        "latitude": 8.7800265,
+        "longitutde": 1.0199765,
+        "qibla_dir": 58.50816668110658
+    },
+    "177": {
+        "Country": "Trinidad and Tobago",
+        "latitude": 10.7466905,
+        "longitutde": -61.0840075,
+        "qibla_dir": 58.50816668110658
+    },
+    "178": {
+        "Country": "Tunisia",
+        "latitude": 33.8439408,
+        "longitutde": 9.400138,
+        "qibla_dir": 58.50816668110658
+    },
+    "179": {
+        "Country": "Turkey",
+        "latitude": 38.9597594,
+        "longitutde": 34.9249653,
+        "qibla_dir": 58.50816668110658
+    },
+    "180": {
+        "Country": "Turkmenistan",
+        "latitude": 39.3763807,
+        "longitutde": 59.3924609,
+        "qibla_dir": 58.50816668110658
+    },
+    "181": {
+        "Country": "Uganda",
+        "latitude": 1.5333554,
+        "longitutde": 32.2166578,
+        "qibla_dir": 58.50816668110658
+    },
+    "182": {
+        "Country": "Ukraine",
+        "latitude": 49.4871968,
+        "longitutde": 31.2718321,
+        "qibla_dir": 58.50816668110658
+    },
+    "183": {
+        "Country": "United Arab Emirates",
+        "latitude": 24.0002488,
+        "longitutde": 53.9994829,
+        "qibla_dir": 58.50816668110658
+    },
+    "184": {
+        "Country": "United Kingdom",
+        "latitude": 54.7023545,
+        "longitutde": -3.2765753,
+        "qibla_dir": 58.50816668110658
+    },
+    "185": {
+        "Country": "United States",
+        "latitude": 39.7837304,
+        "longitutde": -100.445882,
+        "qibla_dir": 58.50816668110658
+    },
+    "186": {
+        "Country": "Uruguay",
+        "latitude": -32.8755548,
+        "longitutde": -56.0201525,
+        "qibla_dir": 58.50816668110658
+    },
+    "187": {
+        "Country": "Uzbekistan",
+        "latitude": 41.32373,
+        "longitutde": 63.9528098,
+        "qibla_dir": 58.50816668110658
+    },
+    "188": {
+        "Country": "Venezuela",
+        "latitude": 8.0018709,
+        "longitutde": -66.1109318,
+        "qibla_dir": 58.50816668110658
+    },
+    "189": {
+        "Country": "Vietnam",
+        "latitude": 15.9266657,
+        "longitutde": 107.9650855,
+        "qibla_dir": 58.50816668110658
+    },
+    "190": {
+        "Country": "Western Sahara",
+        "latitude": 24.1797324,
+        "longitutde": -13.7667848,
+        "qibla_dir": 58.50816668110658
+    },
+    "191": {
+        "Country": "Yemen",
+        "latitude": 16.3471243,
+        "longitutde": 47.8915271,
+        "qibla_dir": 58.50816668110658
+    },
+    "192": {
+        "Country": "Zambia",
+        "latitude": -14.5189121,
+        "longitutde": 27.5589884,
+        "qibla_dir": 58.50816668110658
+    },
+    "193": {
+        "Country": "Zimbabwe",
+        "latitude": -18.4554963,
+        "longitutde": 29.7468414,
+        "qibla_dir": 58.50816668110658
+    }
+}

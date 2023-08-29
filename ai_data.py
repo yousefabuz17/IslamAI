@@ -5,7 +5,7 @@ import asyncio
 import json
 import re
 import threading
-from collections import OrderedDict
+from collections import OrderedDict, namedtuple
 from configparser import ConfigParser
 from copy import deepcopy
 from dataclasses import dataclass
@@ -17,15 +17,17 @@ from time import time
 from typing import Literal, Union
 from pdfminer.high_level import extract_pages
 # import rasa
-import tensorflow as tf
+# import tensorflow as tf
 from aiohttp import (ClientSession, TCPConnector, client_exceptions)
 from ascii_graph import Pyasciigraph
 from bs4 import BeautifulSoup
 from nested_lookup import nested_lookup as nested
 from rapidfuzz import (fuzz, process)
 from tqdm import tqdm
-from transformers import MarianConfig, MarianMTModel, MarianTokenizer, pipeline
+# from transformers import MarianConfig, MarianMTModel, MarianTokenizer, pipeline
 from unidecode import unidecode
+from geocoder import location
+from pdfminer.high_level import extract_text, extract_pages
 
 
 class ConfigInfo:
@@ -58,20 +60,20 @@ class SingletonMeta(type):
 
 class Translate:
     
-    @classmethod
-    @lru_cache(maxsize=1)
-    def _translate_text(cls, *args):
-        text, src_lang, tgt_lang = args
-        model_name = f'Helsinki-NLP/opus-mt-{src_lang}-{tgt_lang}'
-        config = MarianConfig.from_pretrained(model_name, revision="main")
-        model = MarianMTModel.from_pretrained(model_name, config=config)
-        tokenizer = MarianTokenizer.from_pretrained(model_name, config=config)
-        translation = pipeline("translation", model=model, tokenizer=tokenizer)
-        translated_text = translation(text, max_length=512, return_text=True)[0]
-        return translated_text.get('translation_text')
+    # @classmethod
+    # @lru_cache(maxsize=1)
+    # def _translate_text(cls, *args):
+    #     text, src_lang, tgt_lang = args
+    #     model_name = f'Helsinki-NLP/opus-mt-{src_lang}-{tgt_lang}'
+    #     config = MarianConfig.from_pretrained(model_name, revision="main")
+    #     model = MarianMTModel.from_pretrained(model_name, config=config)
+    #     tokenizer = MarianTokenizer.from_pretrained(model_name, config=config)
+    #     translation = pipeline("translation", model=model, tokenizer=tokenizer)
+    #     translated_text = translation(text, max_length=512, return_text=True)[0]
+    #     return translated_text.get('translation_text')
 
-    def translate(self, *args):
-        return self._translate_text(*args)
+    # def translate(self, *args):
+    #     return self._translate_text(*args)
 
     @staticmethod
     def best_match(string, **kwargs):
@@ -156,13 +158,11 @@ class QuranAPI(BaseAPI, metaclass=SingletonMeta):
     async def _extract_surahs(self, export=False):
         async def _fix_surah_contents():
             async def _parse_myislam(name):
-                main_response = await self._request(endpoint='quran-transliteration', slash=True, url=self.url.myislam, headers=None)
-                soup = BeautifulSoup(main_response, 'html.parser')
+                soup = await self._extract_contents(endpoint='quran-transliteration', slash=True, url=self.url.myislam, headers=None)
                 parsed_links = [re.search(r'<a\s+href="([^"]+)">', str(i)).group() for i in soup.find_all('a') if re.search(r'<a\s+href="([^"]+)">', str(i))]
                 all_endpoints = [i[:-3].split('/')[-1] for i in parsed_links if re.findall(r'at|surah\-\w+\-?\w+?', i)][2:-2]
                 string = process.extractOne(name.lower(), all_endpoints, scorer=fuzz.ratio)[0]
-                new_response = await self._request(endpoint=string, slash=True, url=self.url.myislam, headers=None)
-                soup_ = BeautifulSoup(new_response, 'html.parser')
+                soup_ = await self._extract_contents(endpoint=string, slash=True, url=self.url.myislam, headers=None)
                 reverse_nums = [i.text for i in soup_.find_all('a', class_='ayat-number-style')]
                 ayat_nums = sorted([':'.join(i.split(':')[::-1]) for i in reverse_nums], key=lambda i: int(i.split(':')[0]))
                 main_ = [soup_.find_all('div', class_=f'translation-style translation-{i}', limit=len(ayat_nums)+1) for i in range(1, len(ayat_nums)+1)]
@@ -212,7 +212,7 @@ class QuranAPI(BaseAPI, metaclass=SingletonMeta):
             all_contents = await _fix_surah_contents()
             surahs[response.pop('id')] = all_contents
         if export:
-            with open(self.path / 'list_of_surahs.json', mode='w', encoding='utf-8') as file:
+            with open(self.path / 'jsons' / 'list_of_surahs.json', mode='w', encoding='utf-8') as file:
                 json.dump(surahs, file, indent=4)
         return surahs
 
@@ -228,117 +228,11 @@ class QuranAPI(BaseAPI, metaclass=SingletonMeta):
     
     @classmethod
     def _list_surahs(cls):
-        _json_file = cls._load_file(path=cls.path, name='list_of_surahs', mode='r')
+        _json_file = cls._load_file(path=cls.path, name='list_of_surahs', mode='r', folder='jsons')
         modified = {int(key): unidecode(re.sub(' ', '-', value['surah_name'])) for key, value in _json_file.items()}
         sort_json = sorted(modified.items(), key=lambda i: i[0])
         surahs = OrderedDict(sort_json)
         return surahs, _json_file
-    
-    @lru_cache(maxsize=1)
-    @staticmethod
-    def _load_file(path, name, mode='r', encoding='utf-8', type_='json'):
-        #!> Modify for flexibility
-        return json.load(open(path / f'{name}.{type_}', mode=mode, encoding=encoding))
-    
-    @classmethod
-    def get_instance(cls):
-        return cls()
-
-class HadithAPI(QuranAPI):
-    def __init__(self):
-        super().__init__()
-        self.url = self.config
-        self.headers = None
-
-    async def _extract_urls(self, **kwargs):
-        async def _parser(contents):
-            for book, link in tqdm(contents.items(), total=len(contents), desc='Processing Hadiths', colour='green', unit='MB'):
-                with open(self.path / f'book_{book}.json', mode='w', encoding='utf-8') as file2:
-                    hadith_json = await self._request('', slash=False, url=link)
-                    json.dump(hadith_json, file2, indent=4)
-            return file2
-        default_values = (False, Literal[True], 'English')
-        parser, _, lang = (kwargs.get(key, default_values[i]) for i,key in enumerate(('parser', 'export', 'lang')))
-        json_file = await self._request('', slash=False, url=self.url.hadith_url)
-        contents_ = [(nested('book', j, wild=True), nested('link', j, wild=True)) for i in json_file.values() for j in i['collection'] if j.get('language') == lang]
-        contents = {key[0][0]: key[1][0] for key in contents_}
-        path = Path(deepcopy(self.path))
-        file = open(path / 'hadith_api_links.json', mode='w', encoding='utf-8')
-        json.dump(contents, file, indent=4)
-        file.close()
-        if parser:
-            json_file = json.load(open(path / 'hadith_api_links.json', encoding='utf-8'))
-            await _parser(json_file)
-            return contents
-        else:
-            return contents
-        
-    async def _get_hadiths(self, **kwargs):
-        return await self._extract_urls(**kwargs)
-    
-    async def get_hadith(self, **kwargs):
-        contents = await self._get_hadiths(parser=True)
-        book_authors = contents.keys()
-        default_values = ['', False]
-        author, _  = [kwargs.get(key, default_values[i]) for i, key in enumerate(('author', ''))]
-        if author:
-            author = self.best_match(author, values_=book_authors)[0]
-            book_json = json.loads((self.path / f'book_{author}.json').read_text(encoding='utf-8'))
-            return book_json
-        else:
-            return contents
-
-class IslamFacts(QuranAPI):
-    facts = set()
-    allah_names = dict()
-    
-    def __init__(self):
-        super().__init__()
-        self.url = self.config
-        self.headers = None
-    
-    @classmethod
-    def _update_facts(cls, facts: set):
-        file2 = cls._load_file(path=cls.path, name='islam_facts', mode='r')
-        fun_facts = dict.fromkeys(file2)
-        fun_facts.update(facts)
-        cls.facts.update(facts)
-        file3 = open(cls.path / 'islam_facts.json', mode='w', encoding='utf-8')
-        json.dump(fun_facts, file3, indent=4)
-        file3.close()
-        return fun_facts
-    
-    @staticmethod
-    def _randomizer(dict_):
-        #?>Modify for more flexibily to show a random content for each method
-        new_dict = tuple(dict_.keys())
-        rand_fact = choice(new_dict)
-        # pprint(f'Random fact about Islam:\n{rand_fact}')
-        return rand_fact
-    
-    async def fun_fact(self, **kwargs):
-        limit = kwargs.get('limit', 2)
-        formatted = ''
-        if len(self.facts) == 0:
-            #!> FunFact generator website only allows ~18 free SAME random facts
-            while len(self.facts) <= 18:
-                for _ in range(limit):
-                    html_content = await self._request('', slash=False, url=self.url.islam_facts)
-                    soup = BeautifulSoup(html_content, 'html.parser')
-                    fun_fact = soup.find_all('h2')[0].text
-                    formatted = re.sub(r'\((Religion > Islam )\)', '', fun_fact).strip()
-                    self.facts.add(formatted)
-        # print('All fun facts parsed and saved')
-        fun_facts = dict.fromkeys(self.facts)
-        if not Path(self.path / 'islamic_facts.json').is_file():
-            with open(self.path / 'islam_facts.json', mode='w', encoding='utf-8') as file1:
-                json.dump(fun_facts, file1, indent=4)
-            rand_fact = self._randomizer(fun_facts)
-            return rand_fact
-        else:
-            new_facts = self._update_facts(fun_facts)
-            rand_fact = self._randomizer(new_facts)
-            return rand_fact
     
     async def _extract_contents(self, **kwargs):
         default_values = ['']*2+['99-names-of-allah', True, self.url.myislam]
@@ -359,6 +253,120 @@ class IslamFacts(QuranAPI):
             contents = soup.find_all(tag_, **params)
             return contents
         return soup
+    
+    # def _export(**kwargs):
+    #     default_values = (Path(__file__).parent.absolute(), 'list_allah_names.json', 'w', 'utf-8')
+    #     export = kwargs.get('export', True)
+    #     if export:
+    #         with open(self.path / 'list_allah_names.json', mode='w', encoding='utf-8') as file:
+    #             json.dump(merged_contents, file, indent=4)
+    
+    #!>Merge these methods
+    
+    @lru_cache(maxsize=1)
+    @staticmethod
+    def _load_file(path, name, mode='r', encoding='utf-8', type_='json', folder='jsons'):
+        #!> Modify for flexibility
+        return json.load(open(path / folder / f'{name}.{type_}', mode=mode, encoding=encoding))
+    
+    @classmethod
+    def get_instance(cls):
+        return cls()
+
+class HadithAPI(QuranAPI):
+    def __init__(self):
+        super().__init__()
+        self.url = self.config
+        self.headers = None
+
+    async def _extract_urls(self, **kwargs):
+        async def _parser(contents):
+            for book, link in tqdm(contents.items(), total=len(contents), desc='Processing Hadiths', colour='green', unit='MB'):
+                with open(self.path / 'jsons' / f'book_{book}.json', mode='w', encoding='utf-8') as file2:
+                    hadith_json = await self._request('', slash=False, url=link)
+                    json.dump(hadith_json, file2, indent=4)
+            return file2
+        default_values = (False, Literal[True], 'English')
+        parser, _, lang = (kwargs.get(key, default_values[i]) for i,key in enumerate(('parser', 'export', 'lang')))
+        json_file = await self._request('', slash=False, url=self.url.hadith_url)
+        contents_ = [(nested('book', j, wild=True), nested('link', j, wild=True)) for i in json_file.values() for j in i['collection'] if j.get('language') == lang]
+        contents = {key[0][0]: key[1][0] for key in contents_}
+        path = Path(deepcopy(self.path))
+        file = open(path / 'jsons' / 'hadith_api_links.json', mode='w', encoding='utf-8')
+        json.dump(contents, file, indent=4)
+        file.close()
+        if parser:
+            json_file = json.load(open(path / 'jsons' / 'hadith_api_links.json', encoding='utf-8'))
+            await _parser(json_file)
+            return contents
+        else:
+            return contents
+        
+    async def _get_hadiths(self, **kwargs):
+        return await self._extract_urls(**kwargs)
+    
+    async def get_hadith(self, **kwargs):
+        contents = await self._get_hadiths(parser=True)
+        book_authors = contents.keys()
+        default_values = ['', False]
+        author, _  = [kwargs.get(key, default_values[i]) for i, key in enumerate(('author', ''))]
+        if author:
+            author = self.best_match(author, values_=book_authors)[0]
+            book_json = json.loads((self.path / 'jsons' / f'book_{author}.json').read_text(encoding='utf-8'))
+            return book_json
+        else:
+            return contents
+
+class IslamFacts(QuranAPI):
+    facts = set()
+    allah_names = dict()
+    
+    def __init__(self):
+        super().__init__()
+        self.url = self.config
+        self.headers = None
+    
+    @classmethod
+    def _update_facts(cls, facts: set):
+        file2 = cls._load_file(path=cls.path, name='islam_facts', mode='r', folder='jsons')
+        fun_facts = dict.fromkeys(file2)
+        fun_facts.update(facts)
+        cls.facts.update(facts)
+        file3 = open(cls.path / 'jsons' / 'islam_facts.json', mode='w', encoding='utf-8')
+        json.dump(fun_facts, file3, indent=4)
+        file3.close()
+        return fun_facts
+    
+    @staticmethod
+    def _randomizer(dict_):
+        #?>Modify for more flexibily to show a random content for each method
+        new_dict = tuple(dict_.keys())
+        rand_fact = choice(new_dict)
+        # pprint(f'Random fact about Islam:\n{rand_fact}')
+        return rand_fact
+    
+    async def fun_fact(self, **kwargs):
+        limit = kwargs.get('limit', 2)
+        formatted = ''
+        if len(self.facts) == 0:
+            #!> FunFact generator website only allows ~18 free SAME random facts
+            while len(self.facts) <= 18:
+                for _ in range(limit):
+                    soup = await self._extract_contents(endpoint='', slash=False, url=self.url.islam_facts, tag_='h2')
+                    fun_fact = soup[0].text
+                    formatted = re.sub(r'\((Religion > Islam )\)', '', fun_fact).strip()
+                    self.facts.add(formatted)
+        # print('All fun facts parsed and saved')
+        fun_facts = dict.fromkeys(self.facts)
+        if not Path(self.path / 'jsons' / 'islamic_facts.json').is_file():
+            with open(self.path / 'jsons' / 'islam_facts.json', mode='w', encoding='utf-8') as file1:
+                json.dump(fun_facts, file1, indent=4)
+            rand_fact = self._randomizer(fun_facts)
+            return rand_fact
+        else:
+            new_facts = self._update_facts(fun_facts)
+            rand_fact = self._randomizer(new_facts)
+            return rand_fact
     
     async def _get_name_contents(self):
         async def extract_content(**kwargs):
@@ -404,7 +412,7 @@ class IslamFacts(QuranAPI):
         names_copied = list(all_en_names.values())
         all_names = _fixer(False)
         all_name_contents = {}
-        for ar_name_idx, name in enumerate(all_names):
+        for ar_name_idx, name in tqdm(enumerate(all_names), total=len(all_names), desc='Processing Names of Allah', colour='green', unit='MB'):
             html_contents = await asyncio.gather(
                             *[extract_content(endpoint=name, slash=True, class_=i) for i in ('name-meaning', 'summary', 'column-section', 'second-section')]
                             )
@@ -415,11 +423,11 @@ class IslamFacts(QuranAPI):
     async def extract_allah_contents(self, export=False):
         all_contents = await self._get_name_contents()
         merged_contents = {}
-        for idx, (name, information) in tqdm(enumerate(all_contents.items(), start=1), total=len(all_contents), desc='Processing Names of Allah', colour='green', unit='MB'):
+        for idx, (name, information) in enumerate(all_contents.items(), start=1):
             merged_contents[idx] = {'Name': name,
                                     'Information': {**information}}
         if export:
-            with open(self.path / 'list_allah_names.json', mode='w', encoding='utf-8') as file:
+            with open(self.path / 'jsons' / 'list_allah_names.json', mode='w', encoding='utf-8') as file:
                 json.dump(merged_contents, file, indent=4)
         return merged_contents
     
@@ -434,18 +442,73 @@ class IslamFacts(QuranAPI):
     def get_all_facts(cls):
         return cls.facts
 
+
+class PrayerAPI(QuranAPI):
+    def __init__(self):
+        super().__init__()
+        self.url = self.config
+        self.headers = None
+    
+    async def extract_qibla_data(self, **kwargs):
+        async def _get_qibla(**kwargs):
+            @lru_cache(maxsize=1)
+            def _get_coords():
+                Coords = namedtuple('Coords', ['lat', 'long', 'qibla'], defaults=['25.4106386', '51.1846025', None])
+                loc = location(place)
+                coords_qib = Coords(lat=loc.lat, long=loc.lng)
+                return coords_qib
+            
+            place = kwargs.get('place', 'Saudia Arabia')
+            coords_qib = _get_coords()
+            endpoint = f'qibla/:{coords_qib.lat}/:{coords_qib.long}'
+            url = self.url.aladhan
+            response = await self._request(endpoint=endpoint, slash=True, url=url)
+            qibla_dir = response['data'].get('direction') if response['status']=='OK' else 68.92406695044804
+            coords_qib = coords_qib._replace(qibla=qibla_dir)
+            return coords_qib
+        
+        @lru_cache(maxsize=1)
+        def _extract_countries():
+            pdf_contents = extract_pages(pdf_file)
+            countries = ''.join([j.get_text() for i in pdf_contents for j in i])
+            all_countries_ = countries.split('\n')[:-1]
+            all_countries_.sort(key=lambda i: i[0])
+            all_countries = dict.fromkeys(all_countries_, {})
+            return all_countries
+        
+        export = kwargs.get('export', False)
+        pdf_file = self.path / 'pdfs' / 'all_countries.pdf'
+        all_countries = _extract_countries()
+        
+        qibla_data = {}
+        for idx, (country, _) in tqdm(enumerate(all_countries.items(), start=1), total=len(all_countries), desc='Processing Qibla Data', unit='MB', colour='green'):
+            lat, long, qibla_dir = await _get_qibla(place=country)
+            qibla_data[idx] = {'Country': country,
+                                'latitude': lat,
+                                'longitutde': long,
+                                'qibla_dir': qibla_dir}
+        if export:
+            with open(self.path / 'jsons' / 'qibla_data.json', mode='w', encoding='utf-8') as file:
+                json.dump(qibla_data, file, indent=4)
+                file.close()
+            return qibla_data
+        else:
+            return qibla_data
+
 async def main():
     a = QuranAPI()
     b = HadithAPI()
     c = IslamFacts()
+    d = PrayerAPI()
     
     async def run_all():
         tasks = [asyncio.create_task(task) for task in [
-                a._extract_surahs(export=True),
-                b.get_hadith(parser=True),
-                c.extract_allah_contents(export=True),
-                c.fun_fact(limit=18)
-                ]]
+                    a._extract_surahs(export=True),
+                    b.get_hadith(parser=True),
+                    c.extract_allah_contents(export=True),
+                    d.extract_qibla_data(export=True),
+                    c.fun_fact(limit=18)
+                    ]]
         results = await asyncio.gather(*tasks)
         return results
     
