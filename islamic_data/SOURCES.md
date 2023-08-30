@@ -44,7 +44,7 @@ This document provides a list of authentic websites that are parsed for Islamic 
     </tr>
     <tr>
         <td>Calendar</td>
-        <td rowspan="4">Islamic calendar data, including months, prayer and ramadan times, and holidays.</td>
+        <td rowspan="4">Islamic calendar data, including months, prayer and ramadan times, qibla direction for any country and holidays.</td>
         <td>[ ]</td>
     </tr>
     <tr>
