@@ -41,10 +41,11 @@
 
 | Library/Framework | Description |
 |-------------------|-------------|
-| TensorFlow        | TensorFlow is a widely adopted machine learning framework that powers the AI capabilities of this project. |
-| Transformers      | The Transformers library, known for its natural language processing capabilities, plays a key role in enhancing the chatbot's language understanding. |
-| aiohttp           | aiohttp is used for asynchronous HTTP requests, optimizing performance and responsiveness. |
-| BeautifulSoup     | BeautifulSoup aids in web scraping and data extraction, ensuring accurate and up-to-date information. |
+| `TensorFlow`        | TensorFlow is a widely adopted machine learning framework that powers the AI capabilities of this project. |
+| `Transformers`      | The Transformers library, known for its natural language processing capabilities, plays a key role in enhancing the chatbot's language understanding. |
+| `aiohttp`           | aiohttp is used for asynchronous HTTP requests, optimizing performance and responsiveness. |
+| `bs4 (BeautifulSoup)`     | BeautifulSoup aids in web scraping and data extraction, ensuring accurate and up-to-date information. |
+| `concurrent.futures (ThreadPoolExtractor)`    | Provides a high-level interface for asynchronously executing functions.       |
 
 ## **Data Collection**
 
@@ -64,7 +65,7 @@
 ## **Model Training**
 - **``Conversational AI with Rasa``**: The model training process utilizes Rasa, an open-source conversational AI framework. Rasa enables the creation of a powerful AI model from scratch, capable of understanding user queries and generating context-aware responses tailored to Quranic and Islamic knowledge.
 
-- **``NOTE``**: Data collection still in progress. Model training will be done after data collection is complete.
+- **``NOTE``**: Data collection still in progress. Model training will be done after majority of data is successfully collected and structured
 
 ## Configuration
 
@@ -92,12 +93,13 @@ pip install -r requirements.txt
 ```bash
 IslamAI
 ├── islamic_data
+│   ├── htmls
+│   │   ├── *.html
 │   ├── jsons
 │   │   ├── *.json
 │   ├── pdfs
 │   │   ├── *.pdf
 │   └── SOURCES.md
-├── ai_env
 ├── ai_data.py
 ├── ai_model.py
 ├── config.ini
@@ -115,7 +117,7 @@ IslamAI
 - [ ] Deployment
 
 ## Contributing
-- There is another project, much similar to IslamAI, that shares my passion for advancing Islamic knowledge through AI technology. The owner, **``Ali``**, maintains an active Discord channel where contributors collaborate, share ideas, and support each other's initiatives. This collaborative spirit allows us to collectively improve AI-driven Islamic knowledge platforms for the benefit of users worldwide.
+- There is another project, much similar to IslamAI, that shares my passion for advancing Islamic knowledge through AI technology. The founder, **``Ali``**, maintains an active Discord channel where contributors collaborate, share ideas, and support each other's initiatives. This collaborative spirit allows us to collectively improve AI-driven Islamic knowledge platforms for the benefit of users worldwide.
 
 - Feel free to join Ali Zahid Raja's Discord channel to participate in this collaborative effort and contribute to the development of cutting-edge solutions for Islamic education and information dissemination. Together, we can make a substantial impact on the way people access and learn about Islam.
 ---
@@ -127,4 +129,5 @@ IslamAI
 | Website  | [Portfolio](https://alizahidraja.com/) |
 | Discord  | [Islam & AI](https://discord.gg/HhGaJan3Xj) |
 | GitHub   | [QURAN-NLP](https://github.com/islamAndAi/QURAN-NLP) |
+| Project   | [IslamAndAI](https://islamandai.com/) |
 
