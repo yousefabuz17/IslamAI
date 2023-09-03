@@ -577,8 +577,7 @@ class Prophets(QuranAPI):
                 empty_stories = {'About Prophets': prophet_intro}
                 for idx, (story, (_, prophet)) in enumerate(zip(main_stories, all_prophets.items()), start=1):
                     intro_story = _fix_intros(story, prophet)
-                    empty_stories[idx] = {prophet: {'Intro': intro_story,
-                                                    'Complete Story': {}}}
+                    empty_stories[idx] = {prophet: {'Intro': intro_story}}
                 return empty_stories
             
             def _prophet_endpoints():
@@ -587,32 +586,43 @@ class Prophets(QuranAPI):
                 prophet_endpoints = [i.a['href'].split('/')[-2] for i in links if re.search(pattern, i.get_text())]
                 return prophet_endpoints
             
-            contents = _prophet_endpoints(), _get_empty()
-            return contents
-        prophet_endpoints, empty_stories = await _get_prophets()
-        return (prophet_endpoints, empty_stories)
+            return (_prophet_endpoints(), _get_empty())
+        
+        #** prophet_endpoints, empty_stories
+        contents = await _get_prophets()
+        return contents
     
     async def _extract_stories(self):
         prophets, empty_stories = await self._empty_stories()
-        prophets = [prophets[2]]
-        with ThreadPoolExecutor(max_workers=cpu_count()//2) as executor:
+        with ThreadPoolExecutor(max_workers=cpu_count() // 2) as executor:
             loop = asyncio.get_event_loop()
             tasks = [await loop.run_in_executor(executor, self._match_func, prophet) for prophet in prophets]
-            completed_stories = await asyncio.gather(*tasks)
-        return completed_stories
+
+            # Create a tqdm progress bar for the tasks
+            tasks_description = "Processing Prophets"
+            with tqdm(total=len(tasks), desc=tasks_description, colour='green', unit='MB') as pbar:
+                async def run_task(task):
+                    result = await task
+                    pbar.update(1)  # Update the progress bar
+                    return result
+
+                completed_stories = await asyncio.gather(*[run_task(task) for task in tasks])
+
+        return completed_stories, empty_stories
     
     async def _match_func(self, prophet):
+        #** Generic methods: Propets Yunus, Yasa, Yusuf, Saleh, Sulaiman
         method_map = {
             'prophet-ayyub': self._fix_ayyub,
-            'prophet-yunus': self._fix_yunus,
+            'prophet-yunus': self._fix_generics,
             'story-of-prophet-lut': self._fix_lut,
             'prophet-idris': self._fix_idris,
             'prophet-dhul-kifl': self._fix_kifl,
             'prophet-nuh': self._fix_nuh,
             'prophet-al-yasa': self._fix_yasa,
-            'prophet-yusuf': self._fix_yusuf,
+            'prophet-yusuf': self._fix_generics,
             'prophet-saleh-story': self._fix_saleh,
-            'story-prophet-sulaiman': self._fix_sulaiman,
+            'story-prophet-sulaiman': self._fix_generics,
             'prophet-adam': self._fix_adam,
         }
         method = method_map.get(prophet, None)
@@ -621,80 +631,183 @@ class Prophets(QuranAPI):
         else:
             return None
     
+    
     @staticmethod
     def _fix_name(prophet):
-        new_name = re.findall(r'(?:story-)?(?:of-)?(?:prophet-)?(.+)', prophet)[0].title()
-        return new_name
+        return re.findall(r'(?:story-)?(?:of-)?(?:prophet-)?(.+)', prophet)[0].title()
     
-    async def _extract_all(self, prophet, soup=False):
-        response = await self._extract_contents(endpoint=prophet, slash=True,
+    async def _parse_html(self, prophet, soup=False, class_=None):
+        response = await self._extract_contents(
+                                            endpoint=prophet, slash=True,
                                             url=self.url.myislam,
-                                            class_='et_pb_section et_pb_section_1 et_section_regular')
+                                            class_=class_)
         if not soup:
             return response
         else:
             return [i.text for i in response]
     
+    async def _fix_generics(self, prophet):
+        name = self._fix_name(prophet)
+        dict_name = f'Prophet {name}'
+        all_contents = dict.fromkeys([dict_name], {})
+        soup = await self._parse_html(prophet, soup=True)
+        clean_contents_ = ' '.join(soup).split('\n')
+        clean_contents = [i.replace('\xa0','') for i in clean_contents_ if i and not re.search(r'Prophet Stories', i)]
+        pattern = re.compile(r'The Story (?:Of\s)?Prophet (\w+)(?: \((PBUH)\))?', re.IGNORECASE)
+        first_key = pattern.search(''.join(clean_contents)).group()
+        first_index = clean_contents.index(first_key)
+        end_index = clean_contents.index('Support the site?')
+        all_contents[dict_name] = {first_key: clean_contents[first_index:end_index-2][1:]}
+        return all_contents
+    
     async def _fix_ayyub(self, prophet):
         name = self._fix_name(prophet)
-        all_contents = dict.fromkeys([name], {})
-        soup = await self._extract_all(prophet, soup=False)
+        dict_name = f'Prophet {name}'
+        all_contents = dict.fromkeys([dict_name], {})
+        soup = await self._parse_html(prophet, soup=False, class_='et_pb_section et_pb_section_1 et_section_regular')
         fam_tree_key = [i.div.strong.get_text() for i in soup][0]
         html_contents = [i.text for i in soup]
         cleaned_contents = [i.replace('\xa0', '') for i in ' '.join(html_contents).split('\n') if i and not re.search(rf'{fam_tree_key}|Back To Prophet Stories', i)]
         verse_mentions_key, verse_section = re.findall(rf'Quranic Verses Mentioning\s\w+', ''.join(html_contents))[0], cleaned_contents.index('Quranic Verses Mentioning Ayyub')
         fam_tree_contents, verse_contents = cleaned_contents[:verse_section], cleaned_contents[verse_section+1:]
-        all_contents[name] = {fam_tree_key: fam_tree_contents,
+        all_contents[dict_name] = {
+                            fam_tree_key: fam_tree_contents,
                             verse_mentions_key: verse_contents}
-        return all_contents
-    
-    async def _fix_yunus(self, prophet):
-        name = self._fix_name(prophet)
-        all_contents = dict.fromkeys([name], {})
-        soup = await self._extract_all(prophet, soup=True)
-        clean_contents_ = ' '.join(soup).split('\n')
-        clean_contents = [i for i in clean_contents_ if i and not re.search(r'Prophet Stories', i)]
-        all_contents[name] = clean_contents
         return all_contents
     
     async def _fix_lut(self, prophet):
         name = self._fix_name(prophet)
-        all_contents = dict.fromkeys([name], {})
-        soup = await self._extract_all(prophet, soup=False)
+        dict_name = f'Prophet {name}'
+        all_contents = dict.fromkeys([dict_name], {})
+        soup = await self._parse_html(prophet, soup=False)
         html_contents = [i.text for i in soup]
-        return html_contents
+        clean_contents_ = ' '.join(html_contents).split('\n')
+        clean_contents = [i.replace('\xa0', '') for i in clean_contents_ if i and not re.search(r'Return To Prophet Stories', i)]
+        first_key = 'The Story Of Prophet Lut in Islam'
+        first_index = clean_contents.index(first_key)
+        second_section_key = 'Quran Verses That Mention The Story Of Prophet Lut'
+        second_index = clean_contents.index(second_section_key)
+        end_index = clean_contents.index('Support the site?')
+        first_section_contents, second_section_contents = clean_contents[first_index:second_index][1:], clean_contents[second_index+1:end_index-2]
+        all_contents[dict_name] = {
+                            first_key: first_section_contents,
+                            second_section_key: second_section_contents
+                            }
+        
+        return all_contents
     
     async def _fix_idris(self, prophet):
         name = self._fix_name(prophet)
-        return name
+        dict_name = f'Prophet {name}'
+        all_contents = dict.fromkeys([dict_name], {})
+        soup = await self._parse_html(prophet, soup=True)
+        clean_contents_ = ' '.join(soup).split('\n')
+        clean_contents = [i.replace('\xa0', '') for i in clean_contents_ if i and not re.search(r'List Of Prophets In Islam', i)]
+        first_key = 'Story of Prophet Idris In Islam'
+        first_index = clean_contents.index(first_key)
+        second_key = 'Prophet Idris Story'
+        second_index = clean_contents.index(second_key)
+        end_index = clean_contents.index('Support the site?')
+        first_contents, second_contents = clean_contents[first_index:second_index][1:], clean_contents[second_index+1:end_index-2]
+        all_contents[dict_name] = {
+                        first_key: first_contents,
+                        second_key: second_contents
+        }
+        return all_contents
     
     async def _fix_kifl(self, prophet):
         name = self._fix_name(prophet)
-        return name
+        dict_name = f'Prophet {name}'
+        all_contents = dict.fromkeys([dict_name], {})
+        soup = await self._parse_html(prophet, soup=True)
+        clean_contents_ = ' '.join(soup).split('\n')
+        clean_contents = [i.replace('\xa0','') for i in clean_contents_ if i and not re.search(r'List Of Prophets In Islam', i) and not i==' ']
+        first_key = 'Prophet Dhul Kifl'
+        first_index = clean_contents.index('Prophet Dhul Kifl')
+        second_key = 'Story Of Prophet Dhul-Kifl by Ibn jarir'
+        second_index = clean_contents.index(second_key)
+        end_index = clean_contents.index('Support the site?')
+        first_contents, second_contents = clean_contents[first_index:second_index][2:], clean_contents[second_index+1:end_index-1]
+        all_contents[dict_name] = {
+                        first_key: first_contents,
+                        second_key: second_contents
+        }
+        return all_contents
     
     async def _fix_nuh(self, prophet):
         name = self._fix_name(prophet)
-        return name
-    
-    async def _fix_yasa(self, prophet):
-        name = self._fix_name(prophet)
-        return name
-    
-    async def _fix_yusuf(self, prophet):
-        name = self._fix_name(prophet)
-        return name
-    
-    async def _fix_saleh(self, prophet):
-        name = self._fix_name(prophet)
-        return name
-    
-    async def _fix_sulaiman(self, prophet):
-        name = self._fix_name(prophet)
-        return name
+        dict_name = f'Prophet {name}'
+        all_contents = dict.fromkeys([dict_name], {})
+        soup = await self._parse_html(prophet, soup=True)
+        clean_contents_ = ' '.join(soup).split('\n')
+        clean_contents = [i.replace('\xa0','') for i in clean_contents_ if i and not re.search(r'Prophet Stories', i)]
+        first_key = re.search(rf'Prophet {name}', ''.join(clean_contents)).group()
+        first_index = clean_contents.index(first_key)
+        second_key = 'References that refer to Prophet Noah'
+        second_index = clean_contents.index('Imran (3:33)')
+        end_index = clean_contents.index('Support the site?')
+        first_contents, second_contents = clean_contents[first_index:second_index-1][1:-1], clean_contents[second_index-1:end_index-2]
+        all_contents[dict_name] = {
+                    first_key: first_contents,
+                    second_key: second_contents
+        }
+        return all_contents
     
     async def _fix_adam(self, prophet):
         name = self._fix_name(prophet)
-        return name
+        dict_name = f'Prophet {name}'
+        all_contents = dict.fromkeys([dict_name], {})
+        soup = await self._parse_html(prophet, soup=True, class_='et_pb_module et_pb_code et_pb_code_0')
+        clean_contents_ = ''.join(soup).split('\n')
+        clean_contents = [i.replace('\xa0','') for i in clean_contents_ if i]
+        first_key = 'STORY OF PROPHET ADAM (AS) IN ISLAM'.title()
+        second_key = 'Adam (PBUH) learns the names of everything:'
+        second_index = clean_contents.index(second_key)
+        first_contents, second_contents = clean_contents[:second_index], clean_contents[second_index+1:]
+        all_contents[dict_name] = {
+                    first_key: first_contents,
+                    second_key.strip(':'): second_contents
+        }
+        return all_contents
+    
+    async def _fix_yasa(self, prophet):
+        name = self._fix_name(prophet)
+        dict_name = f'Prophet {name}'
+        all_contents = dict.fromkeys([dict_name], {})
+        soup = await self._parse_html(prophet, soup=True)
+        clean_contents_ = ' '.join(soup).split('\n')
+        clean_contents = [i.replace('\xa0','') for i in clean_contents_ if i and not re.search(r'Prophet Stories', i)]
+        first_key = re.search(r'Story of Al-Yasa \(Elisha\)', ''.join(clean_contents)).group()
+        first_index = clean_contents.index(first_key)
+        end_index = clean_contents.index('Support the site?')
+        all_contents[dict_name] = {first_key: clean_contents[first_index:end_index-2]}
+        return all_contents
+    
+    async def _fix_saleh(self, prophet):
+        name = self._fix_name(prophet)
+        dict_name = f'Prophet {name.rstrip("-Story")}'
+        all_contents = dict.fromkeys([dict_name], {})
+        soup = await self._parse_html(prophet, soup=True)
+        clean_contents_ = ' '.join(soup).split('\n')
+        clean_contents = [i.replace('\xa0','') for i in clean_contents_ if i and not re.search(r'Prophet Stories', i)]
+        pattern = re.compile(r'Story (?:Of\s)?Prophet (\w+)', re.IGNORECASE)
+        first_key = pattern.search(''.join(clean_contents)).group()
+        first_index = clean_contents.index(first_key)
+        end_index = clean_contents.index('Support the site?')
+        all_contents[dict_name] = {first_key: clean_contents[first_index:end_index-2][1:]}
+        return all_contents
+    
+    async def extract_all_prophets(self, export=False):
+        completed_stories, empty_stories = await self._extract_stories()
+        all_contents = {idx: {j: {'Full Story': k, 'Intro': empty_stories[idx].get(j)['Intro']}} 
+                            for idx, name in enumerate(completed_stories, start=1) 
+                            for j, k in name.items()}
+
+        if export:
+            with open(self.path / 'jsons' / 'prophet_stories.json', mode='w', encoding='utf-8') as file:
+                json.dump(all_contents, file, indent=4)
+            return all_contents
+        return all_contents
 
 
 async def main():
@@ -712,7 +825,7 @@ async def main():
                     # d.extract_qibla_data(export=True),
                     # c.fun_fact(limit=18),
                     # c.good_manners(),
-                    e._extract_stories()
+                    e.extract_all_prophets(export=True)
                     ]]
         results = await asyncio.gather(*tasks)
         return results
@@ -720,7 +833,7 @@ async def main():
     start = time()
     results = await run_all()
     end = time()
-    pprint(results)
+    # pprint(results)
     timer = (end-start)
     minutes, seconds = divmod(timer, 60) 
     print(f"Execution Time: {minutes:.0f} minutes and {seconds:.5f} seconds")
