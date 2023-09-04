@@ -32,7 +32,7 @@ from tqdm import tqdm
 from unidecode import unidecode
 from geocoder import location
 from pdfminer.high_level import extract_pages
-from multiprocessing import Pool, cpu_count
+from multiprocessing import cpu_count
 from concurrent.futures import ThreadPoolExecutor
 
 
@@ -809,13 +809,162 @@ class Prophets(QuranAPI):
             return all_contents
         return all_contents
 
+class IslamHindi(QuranAPI):
+    def __init__(self):
+        super().__init__()
+    
+    def _get_volume(self, file):
+        pdf = open(self.path / 'pdfs' / f'{file}.pdf', mode='rb')
+        return pdf
+    
+    @staticmethod
+    def extractor(pdf, **kwargs):
+        default_values = (0, None)
+        maxpages, page_numbers = tuple(kwargs.get(key, default_values[i]) for i, key in enumerate(('maxpages', 'page_numbers')))
+        if kwargs:
+            pdf_file = extract_pages(pdf, maxpages=maxpages, page_numbers=page_numbers)
+            clean_pdf = ''.join([j.get_text() for i in pdf_file for j in i if hasattr(j, 'get_text')]).split('\n')
+            return clean_pdf
+        else:
+            pdf_file = extract_pages(pdf)
+            clean_pdf = ''.join([j.get_text() for i in pdf_file for j in i if hasattr(j, 'get_text')]).split('\n')
+            return clean_pdf
+    
+    
+    async def volume_1(self):
+        def _get_page_index(contents, search=False, text=False):
+            if search:
+                return [idx for idx, i in enumerate(contents) if len(i)==1 and re.search(r'\d{1}', i)]
+            if text:
+                return [idx if not text else (idx, i) for idx, i in enumerate(contents) if re.match(r'(?:\d{1}\s\w+)|(?:\d{1,2}th\s\w+)', i)]
+        
+        def _cleaner(contents, finisher=False, index=None):
+            left, right = index if index else (None, None)
+            if not finisher:
+                return ' '.join([contents.pop(idx) if re.match(r'\d{1}', i) else i.strip() for idx, i in enumerate(contents)])
+            else:
+                updated_contents_ = contents[left[0]+1: right[0]]
+                cleaned_contents = _cleaner(updated_contents_)
+                completed_contents = {left[1]: cleaned_contents}
+                return completed_contents
+        
+        #**Table of Contents
+        async def _get_toc():
+            toc_pdf = self.extractor(pdf)
+            toc_contents = {idx: element for (idx, element) in enumerate([i for i in
+                                                                        toc_pdf[toc_pdf.index('Contents')+1:toc_pdf.index('ROODAD OF FIRST IJTEMA')-1]
+                                                                        if not i.startswith('(')], start=1)}
+            return toc_contents
+        
+        async def _title_page():
+            title_page_ = self.extractor(pdf, maxpages=1)
+            title_page = [i for i in title_page_ if re.search(r'^[a-zA-Z]', i)]
+            return title_page
+        
+        async def _first_chap():
+            def _first_sec():
+                first_sec_contents = self.extractor(pdf, page_numbers=[2,3])
+                left, right = _get_page_index(first_sec_contents, search=True)
+                roodad_of_first_ijtema = ' '.join(first_sec_contents[left+1:right])
+                key_ = ''.join(roodad_of_first_ijtema[:21])
+                roodad_of_first_ijtema = roodad_of_first_ijtema.replace(key_, '')
+                first_sec = {key_: roodad_of_first_ijtema}
+                #?> Return tuple instead and convert all to dictionary later?
+                return first_sec
+            
+            def _second_sec():
+                def _sec_first_section():
+                    second_first_contents = self.extractor(pdf, page_numbers=range(3, 12))
+                    left, right = _get_page_index(second_first_contents, search=True)[:2]
+                    proceedings_contents = second_first_contents[left+1:right]
+                    proceedings = proceedings_contents[0].rstrip()
+                    left, right = _get_page_index(proceedings_contents, text=True)
+                    updated_contents_ = proceedings_contents[left[0]:right[0]]
+                    sec_sub_section = updated_contents_.pop(0)
+                    second_first_contents = {proceedings: {sec_sub_section: ''.join(updated_contents_)}}
+                    return second_first_contents
+                
+                def _sec_second_section():
+                    second_sec_contents = self.extractor(pdf, page_numbers=range(3, 10))
+                    indexes = _get_page_index(second_sec_contents, search=False, text=True)[1:]
+                    second_second_contents = _cleaner(second_sec_contents, finisher=True, index=indexes)
+                    return second_second_contents
+                
+                def _sec_third_section():
+                    second_third_contents = self.extractor(pdf, page_numbers=range(9, 18))
+                    indexes = _get_page_index(second_third_contents, search=False, text=True)
+                    second_third_contents = _cleaner(second_third_contents, finisher=True, index=indexes)
+                    return second_third_contents
+                
+                def _sec_fourth_section():
+                    second_fourth_contents = self.extractor(pdf, page_numbers=range(17, 29))
+                    #** indexes: [[(21, '4 Shabaan'), (434, '5th SHABAAN')]]
+                    #** numerals: [[(27, 'DIVISION OF WORK'),
+                    #**             (30, 'I) Department of ILM and TAALIM (Knowledge and Education)'),
+                    #**             (66, 'II) Department of NASHR o ISHAAT   (PRESS & PUBLICITY)'),
+                    #**             (90, 'III)  Department  of  TANZEEM  E  JAMAAT  (Organization of '),
+                    #**             (127, '(IV) Department of FINANCE'),
+                    #**             (214, '(V)  Department  of  DAWAT  &  TABLIGH  (Preaching  and Propagation)')]]
+                    indexes = _get_page_index(second_fourth_contents, search=False, text=True)
+                    shabaa_index = indexes[0]
+                    numerals = [(idx, i) for idx, i in enumerate(second_fourth_contents) if re.search(r'(?:I{1,3}\))|(?:I?V)', i)]
+                    div_work = second_fourth_contents[numerals[0][0]:numerals[0][0]+3][1:]
+                    shabaan_contents = ''.join(second_fourth_contents[shabaa_index[0]+1:shabaa_index[0]+6]+[' ']+div_work+['.'])
+                    first_numeral_contents = second_fourth_contents[numerals[1][0]:numerals[2][0]]
+                    first_numeral_key = first_numeral_contents.pop(0)
+                    second_numeral_contents = second_fourth_contents[numerals[2][0]:numerals[3][0]]
+                    second_numeral_key = second_numeral_contents.pop(0)
+                    third_numeral_contents = second_fourth_contents[numerals[3][0]:numerals[4][0]]
+                    third_numeral_key = third_numeral_contents.pop(0)
+                    fourth_numeral_contents = second_fourth_contents[numerals[4][0]:numerals[5][0]-1]
+                    fourth_numeral_key = fourth_numeral_contents.pop(0)
+                    fourth_numeral_middle = fourth_numeral_contents[:fourth_numeral_contents.index('22')+5]
+                    fourth_numeral_last = [fourth_numeral_contents.pop(-i) for i in range(4,0,-1)]
+                    fourth_numeral_merged = [i for i in fourth_numeral_middle + fourth_numeral_last if not re.match(r'\d{2}',i)]
+                    fifth_numeral_contents = second_fourth_contents[numerals[-1][0]:numerals[-1][0]+30]
+                    fifth_numeral_key = fifth_numeral_contents.pop(0) + fifth_numeral_contents.pop(0)
+                    guidance_contents = second_fourth_contents[numerals[-1][0]+31:][:-2]
+                    guidance_key = guidance_contents.pop(0)
+                    _ = [guidance_contents.pop(idx) for idx, i in enumerate(guidance_contents) if re.match(r'\d{2}', i)]
+                    fifth_shabaan = second_fourth_contents[indexes[-1][0]:][:-2]
+                    fifth_shabaan_key = fifth_shabaan.pop(0)
+                    
+                    shabaan = {shabaa_index[1]:
+                                                {
+                                                'Intro':shabaan_contents,
+                                                first_numeral_key: first_numeral_contents,
+                                                second_numeral_key: second_numeral_contents,
+                                                third_numeral_key: third_numeral_contents,
+                                                fourth_numeral_key: fourth_numeral_merged,
+                                                fifth_numeral_key: fifth_numeral_contents,
+                                                guidance_key: guidance_contents,
+                                                fifth_shabaan_key: fifth_shabaan
+                                                }}
+                    return shabaan
+                return (_sec_first_section(), _sec_second_section(), _sec_third_section(), _sec_fourth_section())
+            return (_first_sec(), _second_sec())
+
+        
+        
+        pdf = self._get_volume('En-Roodad-Vol1')
+        toc, title, first_chap = await asyncio.gather(
+                        _get_toc(),
+                        _title_page(),
+                        _first_chap()
+                        )
+        
+        # first_chap = await _first_chap()
+        # toc_contents = _get_toc()
+        # title_page = _title_page()
+        return title
 
 async def main():
     # a = QuranAPI()
     # b = HadithAPI()
     # c = IslamFacts()
     # d = PrayerAPI()
-    e = Prophets()
+    # e = Prophets()
+    f = IslamHindi()
     
     async def run_all():
         tasks = [asyncio.create_task(task) for task in [
@@ -825,7 +974,8 @@ async def main():
                     # d.extract_qibla_data(export=True),
                     # c.fun_fact(limit=18),
                     # c.good_manners(),
-                    e.extract_all_prophets(export=True)
+                    # e.extract_all_prophets(export=False)
+                    f.volume_1()
                     ]]
         results = await asyncio.gather(*tasks)
         return results
@@ -833,7 +983,7 @@ async def main():
     start = time()
     results = await run_all()
     end = time()
-    # pprint(results)
+    pprint(results)
     timer = (end-start)
     minutes, seconds = divmod(timer, 60) 
     print(f"Execution Time: {minutes:.0f} minutes and {seconds:.5f} seconds")
