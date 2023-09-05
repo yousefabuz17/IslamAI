@@ -33,7 +33,7 @@ from unidecode import unidecode
 from geocoder import location
 from pdfminer.high_level import extract_pages
 from multiprocessing import cpu_count
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor
 
 
 class ConfigInfo:
@@ -548,7 +548,7 @@ class PrayerAPI(QuranAPI):
             return qibla_data
 
 
-class Prophets(QuranAPI):
+class ProphetStories(QuranAPI):
     def __init__(self):
         super().__init__()
     
@@ -597,13 +597,11 @@ class Prophets(QuranAPI):
         with ThreadPoolExecutor(max_workers=cpu_count() // 2) as executor:
             loop = asyncio.get_event_loop()
             tasks = [await loop.run_in_executor(executor, self._match_func, prophet) for prophet in prophets]
-
-            # Create a tqdm progress bar for the tasks
-            tasks_description = "Processing Prophets"
-            with tqdm(total=len(tasks), desc=tasks_description, colour='green', unit='MB') as pbar:
+            
+            with tqdm(total=len(tasks), desc="Processing Prophets", colour='green', unit='MB') as pbar:
                 async def run_task(task):
                     result = await task
-                    pbar.update(1)  # Update the progress bar
+                    pbar.update(1)
                     return result
 
                 completed_stories = await asyncio.gather(*[run_task(task) for task in tasks])
@@ -809,16 +807,17 @@ class Prophets(QuranAPI):
             return all_contents
         return all_contents
 
-class IslamHindi(QuranAPI):
+class ProphetMuhammad(BaseAPI):
     def __init__(self):
-        super().__init__()
+        self.name = 'The Life of the Prophet Muhammad (Peace and blessings of Allah be upon him)'
+        self.title = 'The-Life-of-The-Prophet-Muhammad'
     
-    def _get_volume(self, file):
+    def _get_pdf(self, file):
         pdf = open(self.path / 'pdfs' / f'{file}.pdf', mode='rb')
         return pdf
     
     @staticmethod
-    def extractor(pdf, **kwargs):
+    def _extractor(pdf, **kwargs):
         default_values = (0, None)
         maxpages, page_numbers = tuple(kwargs.get(key, default_values[i]) for i, key in enumerate(('maxpages', 'page_numbers')))
         if kwargs:
@@ -830,141 +829,162 @@ class IslamHindi(QuranAPI):
             clean_pdf = ''.join([j.get_text() for i in pdf_file for j in i if hasattr(j, 'get_text')]).split('\n')
             return clean_pdf
     
-    
-    async def volume_1(self):
-        def _get_page_index(contents, search=False, text=False):
-            if search:
-                return [idx for idx, i in enumerate(contents) if len(i)==1 and re.search(r'\d{1}', i)]
-            if text:
-                return [idx if not text else (idx, i) for idx, i in enumerate(contents) if re.match(r'(?:\d{1}\s\w+)|(?:\d{1,2}th\s\w+)', i)]
-        
-        def _cleaner(contents, finisher=False, index=None):
-            left, right = index if index else (None, None)
-            if not finisher:
-                return ' '.join([contents.pop(idx) if re.match(r'\d{1}', i) else i.strip() for idx, i in enumerate(contents)])
-            else:
-                updated_contents_ = contents[left[0]+1: right[0]]
-                cleaned_contents = _cleaner(updated_contents_)
-                completed_contents = {left[1]: cleaned_contents}
-                return completed_contents
-        
-        #**Table of Contents
-        async def _get_toc():
-            toc_pdf = self.extractor(pdf)
-            toc_contents = {idx: element for (idx, element) in enumerate([i for i in
-                                                                        toc_pdf[toc_pdf.index('Contents')+1:toc_pdf.index('ROODAD OF FIRST IJTEMA')-1]
-                                                                        if not i.startswith('(')], start=1)}
-            return toc_contents
+    async def _content_parser(self):
+        def _cleaner(contents):
+        #** Removes page numbers and header: 'The Life of the Prophet Muhammad (Peace and blessings of Allah be upon him)'
+            header_pattern = re.escape(self.name)
+            pattern = fr'\d{{1,2}}|{header_pattern}'
+            fixed_contents = [re.sub(pattern, '', i) if re.match(pattern, i) else i for i in contents]
+            cleaned_contents_ = ' '.join([i.strip() for i in fixed_contents if i]).strip()
+            cleaned_contents = '{}{}'.format(cleaned_contents_, '.' if not cleaned_contents_.endswith('.') else '')
+            return cleaned_contents
         
         async def _title_page():
-            title_page_ = self.extractor(pdf, maxpages=1)
-            title_page = [i for i in title_page_ if re.search(r'^[a-zA-Z]', i)]
-            return title_page
-        
-        async def _first_chap():
-            def _first_sec():
-                first_sec_contents = self.extractor(pdf, page_numbers=[2,3])
-                left, right = _get_page_index(first_sec_contents, search=True)
-                roodad_of_first_ijtema = ' '.join(first_sec_contents[left+1:right])
-                key_ = ''.join(roodad_of_first_ijtema[:21])
-                roodad_of_first_ijtema = roodad_of_first_ijtema.replace(key_, '')
-                first_sec = {key_: roodad_of_first_ijtema}
-                #?> Return tuple instead and convert all to dictionary later?
-                return first_sec
+            def _get_toc():
+                #** Table of Contents
+                toc_page = self._extractor(pdf, page_numbers=[3])
+                toc_contents = [i.split('.', 1)[0].rstrip() for i in toc_page[3:-1]]
+                updated_toc = {idx: content for idx, content in enumerate(toc_contents, start=1)}
+                return updated_toc
             
-            def _second_sec():
-                def _sec_first_section():
-                    second_first_contents = self.extractor(pdf, page_numbers=range(3, 12))
-                    left, right = _get_page_index(second_first_contents, search=True)[:2]
-                    proceedings_contents = second_first_contents[left+1:right]
-                    proceedings = proceedings_contents[0].rstrip()
-                    left, right = _get_page_index(proceedings_contents, text=True)
-                    updated_contents_ = proceedings_contents[left[0]:right[0]]
-                    sec_sub_section = updated_contents_.pop(0)
-                    second_first_contents = {proceedings: {sec_sub_section: ''.join(updated_contents_)}}
-                    return second_first_contents
-                
-                def _sec_second_section():
-                    second_sec_contents = self.extractor(pdf, page_numbers=range(3, 10))
-                    indexes = _get_page_index(second_sec_contents, search=False, text=True)[1:]
-                    second_second_contents = _cleaner(second_sec_contents, finisher=True, index=indexes)
-                    return second_second_contents
-                
-                def _sec_third_section():
-                    second_third_contents = self.extractor(pdf, page_numbers=range(9, 18))
-                    indexes = _get_page_index(second_third_contents, search=False, text=True)
-                    second_third_contents = _cleaner(second_third_contents, finisher=True, index=indexes)
-                    return second_third_contents
-                
-                def _sec_fourth_section():
-                    second_fourth_contents = self.extractor(pdf, page_numbers=range(17, 29))
-                    #** indexes: [[(21, '4 Shabaan'), (434, '5th SHABAAN')]]
-                    #** numerals: [[(27, 'DIVISION OF WORK'),
-                    #**             (30, 'I) Department of ILM and TAALIM (Knowledge and Education)'),
-                    #**             (66, 'II) Department of NASHR o ISHAAT   (PRESS & PUBLICITY)'),
-                    #**             (90, 'III)  Department  of  TANZEEM  E  JAMAAT  (Organization of '),
-                    #**             (127, '(IV) Department of FINANCE'),
-                    #**             (214, '(V)  Department  of  DAWAT  &  TABLIGH  (Preaching  and Propagation)')]]
-                    indexes = _get_page_index(second_fourth_contents, search=False, text=True)
-                    shabaa_index = indexes[0]
-                    numerals = [(idx, i) for idx, i in enumerate(second_fourth_contents) if re.search(r'(?:I{1,3}\))|(?:I?V)', i)]
-                    div_work = second_fourth_contents[numerals[0][0]:numerals[0][0]+3][1:]
-                    shabaan_contents = ''.join(second_fourth_contents[shabaa_index[0]+1:shabaa_index[0]+6]+[' ']+div_work+['.'])
-                    first_numeral_contents = second_fourth_contents[numerals[1][0]:numerals[2][0]]
-                    first_numeral_key = first_numeral_contents.pop(0)
-                    second_numeral_contents = second_fourth_contents[numerals[2][0]:numerals[3][0]]
-                    second_numeral_key = second_numeral_contents.pop(0)
-                    third_numeral_contents = second_fourth_contents[numerals[3][0]:numerals[4][0]]
-                    third_numeral_key = third_numeral_contents.pop(0)
-                    fourth_numeral_contents = second_fourth_contents[numerals[4][0]:numerals[5][0]-1]
-                    fourth_numeral_key = fourth_numeral_contents.pop(0)
-                    fourth_numeral_middle = fourth_numeral_contents[:fourth_numeral_contents.index('22')+5]
-                    fourth_numeral_last = [fourth_numeral_contents.pop(-i) for i in range(4,0,-1)]
-                    fourth_numeral_merged = [i for i in fourth_numeral_middle + fourth_numeral_last if not re.match(r'\d{2}',i)]
-                    fifth_numeral_contents = second_fourth_contents[numerals[-1][0]:numerals[-1][0]+30]
-                    fifth_numeral_key = fifth_numeral_contents.pop(0) + fifth_numeral_contents.pop(0)
-                    guidance_contents = second_fourth_contents[numerals[-1][0]+31:][:-2]
-                    guidance_key = guidance_contents.pop(0)
-                    _ = [guidance_contents.pop(idx) for idx, i in enumerate(guidance_contents) if re.match(r'\d{2}', i)]
-                    fifth_shabaan = second_fourth_contents[indexes[-1][0]:][:-2]
-                    fifth_shabaan_key = fifth_shabaan.pop(0)
-                    
-                    shabaan = {shabaa_index[1]:
-                                                {
-                                                'Intro':shabaan_contents,
-                                                first_numeral_key: first_numeral_contents,
-                                                second_numeral_key: second_numeral_contents,
-                                                third_numeral_key: third_numeral_contents,
-                                                fourth_numeral_key: fourth_numeral_merged,
-                                                fifth_numeral_key: fifth_numeral_contents,
-                                                guidance_key: guidance_contents,
-                                                fifth_shabaan_key: fifth_shabaan
-                                                }}
-                    return shabaan
-                return (_sec_first_section(), _sec_second_section(), _sec_third_section(), _sec_fourth_section())
-            return (_first_sec(), _second_sec())
-
+            title_page = self._extractor(pdf, maxpages=2)
+            title_contents = list(map(lambda i: i.strip(), title_page))[:-8]
+            title = ' '.join([title_contents.pop(0) for _ in range(3)])
+            translation_ar, translation_en = [title_contents.pop(0) for _ in range(2)]
+            toc_contents = _get_toc()
+            updated_title = {title: {
+                                    'introduction': ''.join(title_contents),
+                                    'transliteration_ar': translation_ar,
+                                    'transliteration_en': translation_en,
+                                    'table_of_contents': {**toc_contents}
+                                    }}
+            del title_page
+            return updated_title
         
+        async def _parse_chap(start_page, end_page):
+            chap_page = self._extractor(pdf, page_numbers=range(start_page, end_page + 1))[3:]
+            chap_contents = _cleaner(chap_page)
+            return chap_contents
         
-        pdf = self._get_volume('En-Roodad-Vol1')
-        toc, title, first_chap = await asyncio.gather(
-                        _get_toc(),
-                        _title_page(),
-                        _first_chap()
-                        )
+        async def _parse_gloss():
+            def _clean_gloss():
+                glossery_page = self._extractor(pdf, page_numbers=range(85, 91))[3:]
+                header_pattern = re.escape(self.name)
+                pattern = fr'{header_pattern}'
+                glossery_contents = [i.strip() for i in glossery_page if not re.match(pattern, i)]
+                cleaned_contents = [i for i in glossery_contents if i and not re.match(r'\d{2}', i)]
+                return cleaned_contents
+            
+            
+            gloss_contents = _clean_gloss()
+            abd_allah = gloss_contents[0], ' '.join(gloss_contents[1:3])
+            abd_ibn_1 = gloss_contents[3].split('   ')[0]+'-1', gloss_contents[3].split('   ')[1]
+            ubayy = gloss_contents[4], ' '.join(gloss_contents[5:8])
+            abd_al = gloss_contents[8], gloss_contents[9]
+            muttalib = gloss_contents[10], ' '.join(gloss_contents[11:13])
+            abd_ibn_2 = gloss_contents[13].split('   ')[0]+'-2', gloss_contents[13].split('   ')[1]
+            abu_rabiah = gloss_contents[14].split('   ')[0], gloss_contents[14].split('   ')[1]
+            abdu_manaf = gloss_contents[15].split('   ')[0], gloss_contents[15].split('   ')[1]+gloss_contents[16]
+            abrahah = gloss_contents[17], ' '.join(gloss_contents[18:20])
+            abraham_ib = ' '.join(gloss_contents[20:22]), ' '.join(gloss_contents[22:29])
+            abo_bakr = gloss_contents[29], ' '.join(gloss_contents[30:34])
+            abu_dujanah = gloss_contents[34].split('   ')[0], gloss_contents[34].split('   ')[1]+ ' '.join(gloss_contents[35:37])
+            abujahl = gloss_contents[37], ' '.join(gloss_contents[39:46])
+            abu_sufyan = gloss_contents[38], ' '.join(gloss_contents[46:50])
+            abo_talib = gloss_contents[50], ' '.join(gloss_contents[51:55])
+            addas = gloss_contents[55], ' '.join(gloss_contents[56:60])
+            adhan = gloss_contents[60], gloss_contents[61]
+            aisah = gloss_contents[62], ' '.join(gloss_contents[63:65])
+            al_abbas = gloss_contents[65], ' '.join(gloss_contents[66: 69])
+            ali = gloss_contents[69], ' '.join(gloss_contents[70:73])
+            allahu_akar = gloss_contents[73].split('   ')[0], gloss_contents[73].split('   ')[1]
+            alms = gloss_contents[74], gloss_contents[75]
+            aminah = gloss_contents[76], gloss_contents[77]
+            amro_ibun = gloss_contents[78].split('   ')[0], gloss_contents[78].split('   ')[1]
+            al_ass = gloss_contents[79], ' '.join(gloss_contents[81:84])
+            ansar = gloss_contents[80], '{} {} {}'.format(' '.join(gloss_contents[84:86]), gloss_contents[87], gloss_contents[86])
+            apostle = gloss_contents[88], gloss_contents[89]
+            
+            #! Finish glossery
+            updated_gloss = OrderedDict({
+                            abd_allah[0]: abd_allah[1],
+                            abd_ibn_1[0]: abd_ibn_1[1],
+                            ubayy[0]: ubayy[1],
+                            abd_al[0]: abd_al[1],
+                            muttalib[0]: muttalib[1],
+                            abd_ibn_2[0]: abd_ibn_2[1],
+                            abu_rabiah[0]: abu_rabiah[1],
+                            abdu_manaf[0]: abdu_manaf[1],
+                            abrahah[0]: abrahah[1],
+                            abraham_ib[0]: abraham_ib[1],
+                            abo_bakr[0]: abo_bakr[1],
+                            abu_dujanah[0]: abu_dujanah[1],
+                            abujahl[0]: abujahl[1],
+                            abu_sufyan[0]: abu_sufyan[1],
+                            abo_talib[0]: abo_talib[1],
+                            addas[0]: addas[1],
+                            adhan[0]: adhan[1],
+                            aisah[0]: aisah[1],
+                            al_abbas[0]: al_abbas[1],
+                            ali[0]: ali[1],
+                            allahu_akar[0]: allahu_akar[1],
+                            alms[0]: alms[1],
+                            aminah[0]: aminah[1],
+                            amro_ibun[0]: amro_ibun[1],
+                            al_ass[0]: al_ass[1],
+                            ansar[0]: ansar[1],
+                            apostle[0]: apostle[1]
+                            })
+            del gloss_contents
+            return updated_gloss
         
-        # first_chap = await _first_chap()
-        # toc_contents = _get_toc()
-        # title_page = _title_page()
-        return title
+        pdf = self._get_pdf(self.title)
+        title_page, glossery = await asyncio.gather(
+                                    _title_page(),
+                                    _parse_gloss()
+                                    )
+        
+        chapters = {
+                    1: (4, 8), 2: (8, 10), 3: (10, 11), 
+                    4: (12, 13), 5: (14, 15), 6: (16, 17),
+                    7: (18, 19), 8: (20, 22), 9: (23, 24),
+                    10: (25, 27), 11: (28, 29), 12: (30, 32),
+                    13: (33, 35), 14: (36, 37), 15: (38, 39),
+                    16: (40, 41), 17: (42, 44), 18: (45, 46),
+                    19: (47, 50), 20: (51, 54), 21: (55, 59),
+                    22: (60, 63), 23: (64, 68), 24: (69, 72),
+                    25: (73, 75), 26: (76, 78), 27: (79, 82),
+                    28: (83, 84)
+                }
+        with ThreadPoolExecutor(max_workers=cpu_count()) as executor:
+            loop = asyncio.get_event_loop()
+            tasks = [await loop.run_in_executor(executor, _parse_chap, *chap) for chap in chapters.values()]
+            chapters = await asyncio.gather(*tasks)
+        chapters = {idx: contents for (idx, contents) in enumerate(chapters, start=1)}
+        return (title_page, chapters, glossery)
+    
+    async def proph_muhammeds_life(self, export=False):
+        title_page, chapters, glossery = await self._content_parser()
+        toc_contents = nested('table_of_contents', title_page)[0]
+        toc_and_chaps = {idx: {chap: chapters.get(idx) if idx!=29 else glossery} for idx, chap in enumerate(toc_contents.values(), start=1)}
+        title_page[self.name]['table_of_contents'] = toc_and_chaps
+        full_book = deepcopy(title_page)
+        del title_page, chapters, glossery
+        
+        if export:
+            with open(self.path / 'jsons' / 'life_of_prophet_muhammad.json', mode='w', encoding='utf-8') as file:
+                json.dump(full_book, file, indent=4)
+            return full_book
+        return full_book
+        
 
 async def main():
     # a = QuranAPI()
     # b = HadithAPI()
     # c = IslamFacts()
     # d = PrayerAPI()
-    # e = Prophets()
-    f = IslamHindi()
+    # e = ProphetStories()
+    f = ProphetMuhammad()
     
     async def run_all():
         tasks = [asyncio.create_task(task) for task in [
@@ -974,8 +994,8 @@ async def main():
                     # d.extract_qibla_data(export=True),
                     # c.fun_fact(limit=18),
                     # c.good_manners(),
-                    # e.extract_all_prophets(export=False)
-                    f.volume_1()
+                    # e.extract_all_prophets(export=False),
+                    f.proph_muhammeds_life(export=True)
                     ]]
         results = await asyncio.gather(*tasks)
         return results
@@ -983,7 +1003,7 @@ async def main():
     start = time()
     results = await run_all()
     end = time()
-    pprint(results)
+    # pprint(results)
     timer = (end-start)
     minutes, seconds = divmod(timer, 60) 
     print(f"Execution Time: {minutes:.0f} minutes and {seconds:.5f} seconds")
