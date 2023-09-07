@@ -33,7 +33,9 @@ from unidecode import unidecode
 from geocoder import location
 from pdfminer.high_level import extract_pages
 from multiprocessing import cpu_count
-from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from docx import Document
+# import tracemalloc
 
 
 class ConfigInfo:
@@ -421,7 +423,7 @@ class IslamFacts(QuranAPI):
         names_copied = list(all_en_names.values())
         all_names = _fixer(False)
         all_name_contents = {}
-        for ar_name_idx, name in tqdm(enumerate(all_names), total=len(all_names), desc='Processing Names of Allah', colour='green', unit='MB'):
+        for ar_name_idx, name in tqdm(enumerate(all_names), total=len(all_names), desc='Processing Names of Allah', colour='green', unit='MB', leave=True):
             html_contents = await asyncio.gather(
                             *[extract_content(endpoint=name, 
                                             slash=True, class_=i) 
@@ -443,27 +445,8 @@ class IslamFacts(QuranAPI):
         if export:
             with open(self.path / 'jsons' / 'list_allah_names.json', mode='w', encoding='utf-8') as file:
                 json.dump(merged_contents, file, indent=4)
+            return merged_contents
         return merged_contents
-    
-    # async def get_islamic_history(self):
-    #     #?> Obtain contents for each chapter/book separately then merge
-    #     #?> Make one class that does it all with given parameters (index, page) to parse all chapters at once
-    #     #?> Experiment with each first for accurate results
-    #     #**Book 1
-    #     file = open(self.path / 'pdfs' / 'The Venture of Islam (Vol. 1).pdf', mode='rb')
-    #     pdf_file = extract_pages(file)
-    #     pdf_contents_ = ' '.join([j.get_text() for i in pdf_file for j in i if hasattr(j, 'get_text')])
-    #     # chapter = re.escape(f'Chapter 1: {pdf_contents_[0]}# ')
-    #     # pdf_contents = ' '.join(pdf_contents_)
-    #     token_ = [word_tokenize(i.lower()) for i in pdf_contents_.split(' ')]
-    #     model = Word2Vec(sentences=token_, vector_size=50, window=5, min_count=1, sg=0)
-    #     find_word = 'islam'
-    #     similar_words = model.wv.most_similar_cosmul(find_word)
-
-    #     # Print similar words
-    #     print(f"Similar words to '{find_word}':")
-    #     for word, score in similar_words:
-    #         print(f"{word}: {score}")
     
     async def good_manners(self):
         async def _get_all_manners():
@@ -485,6 +468,91 @@ class IslamFacts(QuranAPI):
         all_manners = await _get_all_manners()
         queries = 'quransearch/index.php?q='        
         return all_manners
+    
+    async def islamic_timeline(self, export=False):
+        async def _get_timeline():
+            timeline_data = [i.text for i in soup.find_all('p')]
+            centuries = [(idx, i) for idx, i in enumerate(timeline_data) if re.search(r'\d{1,2}(?:th) Century', i)]
+            return (centuries, timeline_data)
+        
+        def _get_contents(contents, start, end):
+            contents = contents[start+1:end]
+            updated_contents = [i.replace('\n','').strip() for i in contents][:-1]
+            return updated_contents
+        
+        async def _get_credits():
+            return soup.find('h3').text
+            
+        async def _parse_timeline():
+            time_data, credentials = await asyncio.gather(
+                                                    _get_timeline(),
+                                                    _get_credits()
+                                                    )
+            centuries, timeline_data = time_data
+            grouped_cent = [(centuries[i], centuries[i + 1]) for i in range(0, len(centuries)-1, 1)]
+            all_contents = OrderedDict()
+            for _, idx_century in tqdm(enumerate(grouped_cent), total=len(grouped_cent), desc='Processing Islamic Timeline', colour='green', unit='MB'):
+                key = idx_century[0][1].replace('\n', '').strip()
+                indexes = (idx_century[0][0], idx_century[1][0])
+                all_contents[key] = _get_contents(timeline_data, indexes[0], indexes[1])
+            all_contents['Credits'] = credentials
+            
+            if export:
+                with open(self.path / 'jsons' / 'islamic_timeline.json', mode='w', encoding='utf-8') as file:
+                    json.dump(all_contents, file, indent=4)
+                return all_contents
+            return all_contents
+        
+        html_file = open(self.path / 'htmls' / 'Timeline (History of Islam).html', mode='r', encoding='utf-8').read()
+        soup = BeautifulSoup(html_file, 'html.parser')
+        return await _parse_timeline()
+    
+    async def get_islam_laws(self, export=False):
+        
+        @lru_cache(maxsize=1)
+        async def _get_docx():
+            return Document(self.path / 'docxs' / 'islam-laws.docx')
+        
+        def _table_extractor(table_index=0, columns=False):
+            if table_index < len(docx.tables):
+                table = docx.tables[table_index]
+                table_data = []
+                
+                for row in table.rows:
+                    row_data = []
+                    for cell in row.cells:
+                        cell_text = ''
+                        for paragraph in cell.paragraphs:
+                            cell_text += paragraph.text.strip() + '\n'
+                        row_data.append(cell_text.strip())
+                    table_data.append(row_data)
+                if columns:
+                    return _table_extractor()[0]
+                return table_data
+            else:
+                return None
+        
+        def _content_extractor():
+            all_contents = {}
+            for i in tqdm(range(2), desc='Processing Islamic Laws', unit='MB', colour='green'):
+                for j in _table_extractor(i)[1:]:
+                    j = list(map(lambda i: i.replace('\n',''), j))
+                    all_contents[f'Category-({j[0]})'] = {
+                                            'Prohibited (Haram)': j[1],
+                                            'Lawful (Halal)': j[2],
+                                            'Comments': j[3]
+                                            }
+            all_contents = {idx: content for idx, content in enumerate(all_contents.items(), start=1)}
+            return all_contents
+        
+        docx = await _get_docx()
+        structured_contents = _content_extractor()
+        if export:
+            with open(self.path / 'jsons' / 'islamic-laws.json', mode='w', encoding='utf-8') as file:
+                json.dump(structured_contents, file, indent=4)
+            return structured_contents
+        return structured_contents
+        
     
     @classmethod
     @property
@@ -812,9 +880,9 @@ class ProphetMuhammad(BaseAPI):
         self.name = 'The Life of the Prophet Muhammad (Peace and blessings of Allah be upon him)'
         self.title = 'The-Life-of-The-Prophet-Muhammad'
     
-    def _get_pdf(self, file):
-        pdf = open(self.path / 'pdfs' / f'{file}.pdf', mode='rb')
-        return pdf
+    def _get_file(self, file, type_='pdfs', mode='rb', ext='pdf'):
+        file = open(self.path / type_ / f'{file}.{ext}', mode=mode)
+        return file
     
     @staticmethod
     def _extractor(pdf, **kwargs):
@@ -829,7 +897,7 @@ class ProphetMuhammad(BaseAPI):
             clean_pdf = ''.join([j.get_text() for i in pdf_file for j in i if hasattr(j, 'get_text')]).split('\n')
             return clean_pdf
     
-    async def _content_parser(self):
+    async def _pdf_parser(self):
         def _cleaner(contents):
         #** Removes page numbers and header: 'The Life of the Prophet Muhammad (Peace and blessings of Allah be upon him)'
             header_pattern = re.escape(self.name)
@@ -868,11 +936,11 @@ class ProphetMuhammad(BaseAPI):
         
         async def _parse_gloss():
             def _clean_gloss():
-                glossery_page = self._extractor(pdf, page_numbers=range(85, 91))[3:]
+                glossary_page = self._extractor(pdf, page_numbers=range(85, 91))[3:]
                 header_pattern = re.escape(self.name)
                 pattern = fr'{header_pattern}'
-                glossery_contents = [i.strip() for i in glossery_page if not re.match(pattern, i)]
-                cleaned_contents = [i for i in glossery_contents if i and not re.match(r'\d{2}', i)]
+                glossary_contents = [i.strip() for i in glossary_page if not re.match(pattern, i)]
+                cleaned_contents = [i for i in glossary_contents if i and not re.match(r'\d{2}', i)]
                 return cleaned_contents
             
             
@@ -900,12 +968,13 @@ class ProphetMuhammad(BaseAPI):
             allahu_akar = gloss_contents[73].split('   ')[0], gloss_contents[73].split('   ')[1]
             alms = gloss_contents[74], gloss_contents[75]
             aminah = gloss_contents[76], gloss_contents[77]
-            amro_ibun = gloss_contents[78].split('   ')[0], gloss_contents[78].split('   ')[1]
+            amro_ibun_ = gloss_contents[78].split('   ')
+            amro_ibun = f'{amro_ibun_[0]} {amro_ibun_[1]}', ' '.join(amro_ibun_[2:])
             al_ass = gloss_contents[79], ' '.join(gloss_contents[81:84])
             ansar = gloss_contents[80], '{} {} {}'.format(' '.join(gloss_contents[84:86]), gloss_contents[87], gloss_contents[86])
             apostle = gloss_contents[88], gloss_contents[89]
             
-            #! Finish glossery
+            #!> FINISH GLOSSARY
             updated_gloss = OrderedDict({
                             abd_allah[0]: abd_allah[1],
                             abd_ibn_1[0]: abd_ibn_1[1],
@@ -938,16 +1007,16 @@ class ProphetMuhammad(BaseAPI):
             del gloss_contents
             return updated_gloss
         
-        pdf = self._get_pdf(self.title)
-        title_page, glossery = await asyncio.gather(
+        pdf = self._get_file(self.title)
+        title_page, glossary = await asyncio.gather(
                                     _title_page(),
                                     _parse_gloss()
                                     )
         
         chapters = {
-                    1: (4, 8), 2: (8, 10), 3: (10, 11), 
-                    4: (12, 13), 5: (14, 15), 6: (16, 17),
-                    7: (18, 19), 8: (20, 22), 9: (23, 24),
+                    1: (4, 8),    2: (8, 10),   3: (10, 11), 
+                    4: (12, 13),  5: (14, 15),  6: (16, 17),
+                    7: (18, 19),  8: (20, 22),  9: (23, 24),
                     10: (25, 27), 11: (28, 29), 12: (30, 32),
                     13: (33, 35), 14: (36, 37), 15: (38, 39),
                     16: (40, 41), 17: (42, 44), 18: (45, 46),
@@ -956,51 +1025,77 @@ class ProphetMuhammad(BaseAPI):
                     25: (73, 75), 26: (76, 78), 27: (79, 82),
                     28: (83, 84)
                 }
-        with ThreadPoolExecutor(max_workers=cpu_count()) as executor:
+        
+        # loop = asyncio.get_event_loop()
+        # with ThreadPoolExecutor(max_workers=cpu_count()) as executor:
+        #     chapter_contents = []
+        #     for chap in tqdm(chapters.values(), total=len(chapters.values()), desc="Processing Life-of-Prophet-Muhammad PDF", colour='green', unit='MB'):
+        #         chap_contents = await loop.run_in_executor(executor, lambda: asyncio.run(_parse_chap(*chap)))
+        #         chapter_contents.append(chap_contents)
+
+        # chapters = {idx: contents for idx, contents in enumerate(chapter_contents, start=1)}
+        # return (title_page, chapters, glossary)
+        
+        with ThreadPoolExecutor(max_workers=cpu_count() // 2) as executor:
             loop = asyncio.get_event_loop()
             tasks = [await loop.run_in_executor(executor, _parse_chap, *chap) for chap in chapters.values()]
             chapters = await asyncio.gather(*tasks)
         chapters = {idx: contents for (idx, contents) in enumerate(chapters, start=1)}
-        return (title_page, chapters, glossery)
+        return (title_page, chapters, glossary)
     
-    async def proph_muhammeds_life(self, export=False):
-        title_page, chapters, glossery = await self._content_parser()
+    async def proph_muhammads_life(self, export=False):
+        title_page, chapters, glossary = await self._pdf_parser()
         toc_contents = nested('table_of_contents', title_page)[0]
-        toc_and_chaps = {idx: {chap: chapters.get(idx) if idx!=29 else glossery} for idx, chap in enumerate(toc_contents.values(), start=1)}
+        toc_and_chaps = {idx: {chap: chapters.get(idx) if idx!=29 else glossary}
+                            for idx, chap in tqdm(enumerate(toc_contents.values(), start=1),
+                                                total=len(toc_contents.values()),
+                                                desc='Processing Life-of-Prophet-Muhammad PDF',
+                                                unit='MB',
+                                                colour='green')}
         title_page[self.name]['table_of_contents'] = toc_and_chaps
         full_book = deepcopy(title_page)
-        del title_page, chapters, glossery
+        
+        del (title_page, chapters, glossary)
         
         if export:
             with open(self.path / 'jsons' / 'life_of_prophet_muhammad.json', mode='w', encoding='utf-8') as file:
                 json.dump(full_book, file, indent=4)
             return full_book
         return full_book
-        
 
 async def main():
+    # tracemalloc.start()
+
     # a = QuranAPI()
     # b = HadithAPI()
-    # c = IslamFacts()
+    c = IslamFacts()
     # d = PrayerAPI()
     # e = ProphetStories()
-    f = ProphetMuhammad()
+    # f = ProphetMuhammad()
     
     async def run_all():
         tasks = [asyncio.create_task(task) for task in [
                     # a.extract_surahs(export=True),
-                    # b.get_hadith(parser=True),
-                    # c.extract_allah_contents(export=True),
-                    # d.extract_qibla_data(export=True),
-                    # c.fun_fact(limit=18),
+                    # b.get_hadith(parser=False),
+                    # c.extract_allah_contents(export=False),
+                    # d.extract_qibla_data(export=False),
+                    # c.fun_fact(limit=5),
                     # c.good_manners(),
+                    # c.islamic_timeline(export=True),
+                    c.get_islam_laws(export=True)
                     # e.extract_all_prophets(export=False),
-                    f.proph_muhammeds_life(export=True)
+                    # f.proph_muhammads_life(export=False)
                     ]]
         results = await asyncio.gather(*tasks)
         return results
     
     start = time()
+    # try:
+    #     results = await run_all()
+    #     # pprint(results)
+    # except Exception as e:
+    #     traceback = tracemalloc.get_object_traceback(e)
+    #     print(traceback)
     results = await run_all()
     end = time()
     # pprint(results)

@@ -1,0 +1,162 @@
+{
+    "1": [
+        "Category-(Belief in One God)",
+        {
+            "Prohibited (Haram)": "Associating partners to Allah (Shirk), asking their help.",
+            "Lawful (Halal)": "Worship Allah alone (Tauheed), ask His help.",
+            "Comments": "Allah has no Parent, Children."
+        }
+    ],
+    "2": [
+        "Category-(Belief in Angels)",
+        {
+            "Prohibited (Haram)": "Considering Angels Daughter of Allah or as Intercessors.",
+            "Lawful (Halal)": "Belief in Angels - Gabriel, Michael, Azrael, Israfeel..",
+            "Comments": "Satan among Djinn of Smoke."
+        }
+    ],
+    "3": [
+        "Category-(Belief in Holy Books)",
+        {
+            "Prohibited (Haram)": "Considering human written book as divine book from God.",
+            "Lawful (Halal)": "Belief in revealed books -Torah, Zabur, Injeel, Quran.",
+            "Comments": "Final Revealed Book is Quran."
+        }
+    ],
+    "4": [
+        "Category-(Belief in Prophets)",
+        {
+            "Prohibited (Haram)": "Worshiping or Asking help from Dead Prophets, Saints or Ancestors. Ascribe Divinity to Prophets. Pretend as Prophet.",
+            "Lawful (Halal)": "Belief in All Prophets. Adam, Noah, Abraham, Moses, David, Ezekiel, Jesus, Muhammad.",
+            "Comments": "Final Prophet is Muhammad (Peace be upon him)."
+        }
+    ],
+    "5": [
+        "Category-(Belief in Hereafter)",
+        {
+            "Prohibited (Haram)": "Disbelief in the Hereafter (Akhirat). Birth Cycles.",
+            "Lawful (Halal)": "Belief in the Day of Judgement, Heaven, Hell.",
+            "Comments": "Life of Hereafter is Everlasting."
+        }
+    ],
+    "6": [
+        "Category-(Testimony of Faith)",
+        {
+            "Prohibited (Haram)": "Associating Partners with Allah. Disbelief in Allah, Angels, Prophets, Books & Hereafter. Hypocrisy.",
+            "Lawful (Halal)": "Testimony of Faith in Allah and Muhammad.La ilaha illallah Muhammadur Rasoolullah",
+            "Comments": "Obey Allah and His Messenger.Follow the Quran and the Sunnah1."
+        }
+    ],
+    "7": [
+        "Category-(Salah - Daily Five Payers)",
+        {
+            "Prohibited (Haram)": "Neglecting or Give up Prayers. Laziness & Showoff in Prayers.",
+            "Lawful (Halal)": "Fajar, Zuhr, Asr, Maghrib, Isha. Jummah, Eid.",
+            "Comments": "Perform Prayer at Fixed Times."
+        }
+    ],
+    "8": [
+        "Category-(Zakat-Annual Poor Due)",
+        {
+            "Prohibited (Haram)": "Give up Zakat. Find reasons to evade Zakat.",
+            "Lawful (Halal)": "Zakat on Wealth - Income Gold, Silver, Cattle, Crops.",
+            "Comments": "Neglect of Zakat is Disbelief (Kufr)"
+        }
+    ],
+    "9": [
+        "Category-(Saum - Fasting)",
+        {
+            "Prohibited (Haram)": "Not Fasting even with good health.",
+            "Lawful (Halal)": "Do Fasting in month of Ramadan Dawn to Dusk.",
+            "Comments": "Do Fast & Recite Quran for Taqwa"
+        }
+    ],
+    "10": [
+        "Category-(Hajj - Pilgrimage)",
+        {
+            "Prohibited (Haram)": "Ignoring Hajj when sufficient money available to perform the Hajj Pilgrimage.",
+            "Lawful (Halal)": "Performing Hajj at the first opportunity when money is available.",
+            "Comments": "Manasik2 - Tawaf, Saee, Maqam Ibrahim, Arafat."
+        }
+    ],
+    "11": [
+        "Category-(Morals Acts)",
+        {
+            "Prohibited (Haram)": "Disrespect to Parents. Lying, Cheating, Abusing, Backbite. Lewd Acts. Peeping. Slander. Troubling, Disorder, Murder.",
+            "Lawful (Halal)": "Respecting the Parents. Care of Spouse, Children.Humble, Being Selfless. Helping, Removing Harm.",
+            "Comments": "Allah accepts Good Deeds for Success. Encourage good, and forbid evil."
+        }
+    ],
+    "12": [
+        "Category-(Food)",
+        {
+            "Prohibited (Haram)": "Dead Animal, Swine, Blood, Slaughtered without Allah\u2019s name. Predator animals with fangs. Intoxicants. Wine.",
+            "Lawful (Halal)": "Vegetables, Fruits, Grains, Cereals. Milk. Egg.Slaughtered with Allah\u2019s name - Camel, Cattle, Sheep, Birds. Fish.",
+            "Comments": "Horses allowed. Donkey was not allowed. Liver is allowed."
+        }
+    ],
+    "13": [
+        "Category-(Marriage)",
+        {
+            "Prohibited (Haram)": "Mothers, Daughters, Sisters, Paternal & Maternal Aunts, Nieces (Daughter of Brother or Sister)3. Same Gender, Live-in, Polytheist, Polyandry, Mutah4.",
+            "Lawful (Halal)": "Max four wives of faith. If justice cannot be done, then stick to One Wife.Marriage to Women of the People of the Book.",
+            "Comments": "Talaq after three intervals, not three divorces in one say. Khula5 in one say."
+        }
+    ],
+    "14": [
+        "Category-(Business Transactions)",
+        {
+            "Prohibited (Haram)": "Riba - Usury, Taking Interest. Gambling. Hoarding.",
+            "Lawful (Halal)": "Buying and Selling. Write Loans with Witnesses.",
+            "Comments": "Transparency is recommended."
+        }
+    ],
+    "15": [
+        "Category-(Inheritance)",
+        {
+            "Prohibited (Haram)": "Not sharing the Inheritance.",
+            "Lawful (Halal)": "As per Quran and Sunnah.",
+            "Comments": "Max 1/3 to Charity"
+        }
+    ],
+    "16": [
+        "Category-(Momin & Protection)",
+        {
+            "Prohibited (Haram)": "Trouble people on the road. Evict people from homes.",
+            "Lawful (Halal)": "Trust, Promises, Honesty. Safety, Security to People",
+            "Comments": "Trust Allah, People. Praise Allah. Firm."
+        }
+    ],
+    "17": [
+        "Category-(Muslim & Health)",
+        {
+            "Prohibited (Haram)": "Prevent Worship, Intellectal, Spiritual, Physical, Social.",
+            "Lawful (Halal)": "Worship, Skills-Intellectual, Spiritual, Physical, Social.",
+            "Comments": "Efforts, Constancy. Worship, Output."
+        }
+    ],
+    "18": [
+        "Category-(Muttaqi & Education)",
+        {
+            "Prohibited (Haram)": "Disregard to the teachings of Quran, Hadith, Law of Land.",
+            "Lawful (Halal)": "Research in Quran, Hadith, Sciences and Law of Land.",
+            "Comments": "Rules, Compliance to Islam. Justice."
+        }
+    ],
+    "19": [
+        "Category-(Muhsin & Welfare)",
+        {
+            "Prohibited (Haram)": "Ignore People\u2019s Welfare. Put Hardship on People, Environs.",
+            "Lawful (Halal)": "Develop People Wealth, Prosperity, Happiness.",
+            "Comments": "Perfect, Elegance. Excellence in Deed."
+        }
+    ],
+    "20": [
+        "Category-(Ansar & Administer)",
+        {
+            "Prohibited (Haram)": "Corruption in Administration. Misuse of Resources, Position.",
+            "Lawful (Halal)": "Planning, Organizing, Leading, Controlling.",
+            "Comments": "Plan & Establish. System of Allah."
+        }
+    ]
+}
