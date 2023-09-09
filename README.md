@@ -67,23 +67,7 @@
 
 - **``NOTE``**: Data collection still in progress. Model training will be done after majority of data is successfully collected and structured
 
-## Configuration
-
-```ini
-[Database]
-quran_host = al-quran1.p.rapidapi.com
-quran_url = https://al-quran1.p.rapidapi.com
-quran_api = <rapidapi key>
-hadith_url = https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions.min.json
-islam_facts = https://fungenerators.com/random/facts/religion/islam
-myislam = https://myislam.org
-allah_names = https://99namesofallah.name/
-translate_api = <huggingface api>
-aladhan = http://api.aladhan.com/v1
-```
-
 ## Requirements
-
 ```bash
 pip install -r requirements.txt
 ```
@@ -108,8 +92,8 @@ IslamAI
 ```
 
 ## Progress
-- [ ] Data Collection
-    - [ ] Data Processing
+- [x] Data Collection
+    - [x] Data Processing
 - [ ] Model Training
 - [ ] Model Deployment
 - [ ] ChatBot Interface
