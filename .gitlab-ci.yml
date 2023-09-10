@@ -4,15 +4,12 @@ stages:
 
 build:
   stage: build
-  script:
-    - pip install -r requirements.txt
   only:
     - main
 
 deploy:
   stage: deploy
   script:
-    - pip install -r requirements.txt
     - gunicorn -b 0.0.0.0:8000 ai_app:app
   only:
     - main
