@@ -2,6 +2,14 @@ stages:
   - build
   - deploy
 
+variables:
+  PIP_CACHE_DIR: "$CI_PROJECT_DIR/.pip_cache"
+  PORT: 5000
+
+cache:
+  paths:
+    - .pip_cache/
+
 before_script:
   - python -m ensurepip --upgrade
   - pip install --upgrade pip
@@ -23,12 +31,7 @@ deploy:
     - pip install -r requirements.txt
     - pip install gunicorn
     - gunicorn -b 0.0.0.0:$PORT ai_app:app
-  ports:
-    - "5000:5000"
   only:
     - main
   tags:
     - islamai_runner
-
-variables:
-  PORT: 5000
