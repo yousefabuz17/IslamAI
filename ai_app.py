@@ -3,7 +3,7 @@ from flask import Flask, jsonify
 app = Flask(__name__)
 
 @app.route('/')
-def hello_world():
+def home():
     return 'Test Run'
 
 @app.route('/api/data', methods=['GET'])
