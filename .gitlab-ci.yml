@@ -7,6 +7,7 @@ stages:
 build:
   stage: build
   script:
+    - apt-get update && apt-get install -y python3-pip
     - pip install -r requirements.txt
   only:
     - main
@@ -14,6 +15,7 @@ build:
 deploy:
   stage: deploy
   script:
+    - apt-get update && apt-get install -y python3-pip
     - pip install -r requirements.txt
     - gunicorn -b 0.0.0.0:8000 ai_app:app
   only:
