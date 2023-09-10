@@ -29,6 +29,6 @@ deploy:
     - apt-get update && apt-get install -y python3-pip
     - pip install -r requirements.txt
     - pip install gunicorn
-    - gunicorn -b 0.0.0.0:5000 ai_app:app
+    - gunicorn -b 0.0.0.0:5000 ai_app.py:app
   only:
     - main
