@@ -92,14 +92,14 @@ class QuranAPI(BaseAPI):
         try:
             async with ClientSession(connector=TCPConnector(ssl=False, enable_cleanup_closed=True,
                                                             force_close=True, ttl_dns_cache=300),
-                                    raise_for_status=True, 
+                                    raise_for_status=True,
                                     headers=headers) as session:
                 async with session.get(full_endpoint) as response:
                     return await response.json()
         except (client_exceptions.ContentTypeError):
             return await response.text()
-        except (client_exceptions.ServerDisconnectedError) as e:
-            raise e
+        except (client_exceptions.ServerDisconnectedError):
+            return ''
     
     async def _parse_surah(self, surah_id: Union[int, str, None]='', **kwargs):
         '''
@@ -197,7 +197,7 @@ class QuranAPI(BaseAPI):
             return updated_contents
         
         surahs = {}
-        for i in tqdm(range(1, 115), desc='Processing Surahs', colour='green', unit='MB', leave=False):
+        for i in tqdm(range(1, 115), desc='Processing Surahs', colour='green', unit='MB'):
             response = await self._parse_surah(i, url=self.url.quran_url, headers=self.headers)
             all_contents = await _fix_surah_contents()
             surahs[response.pop('id')] = all_contents
@@ -392,11 +392,9 @@ class IslamFacts(QuranAPI):
             names_copied = list(all_en_names.values())
             all_names = _fixer(False)
             all_name_contents = {}
-            for ar_name_idx, name in tqdm(enumerate(all_names),
-                                        total=len(all_names), desc='Processing Names of Allah',
-                                        colour='green', unit='MB', leave=False):
+            for ar_name_idx, name in enumerate(all_names):
                 html_contents = await asyncio.gather(
-                                *[extract_content(endpoint=name, 
+                                *[extract_content(endpoint=name,   
                                                 slash=True, class_=i) 
                                 for i in ('name-meaning', 'summary', 
                                         'column-section', 'second-section')]
@@ -409,7 +407,9 @@ class IslamFacts(QuranAPI):
         
         all_contents = await _get_name_contents()
         merged_contents = {}
-        for idx, (name, information) in enumerate(all_contents.items(), start=1):
+        for idx, (name, information) in tqdm(enumerate(all_contents.items(), start=1),
+                                        total=len(all_contents), desc='Processing Names of Allah',
+                                        colour='green', unit='MB'):
             merged_contents[idx] = {
                                     'Name': name,
                                     'Information': {**information}
@@ -1145,27 +1145,27 @@ class IslamHistory(QuranAPI):
 async def main():
     # tracemalloc.start()
 
-    # a = QuranAPI()
-    # b = HadithAPI()
+    a = QuranAPI()
+    b = HadithAPI()
     c = IslamFacts()
-    # d = PrayerAPI()
-    # e = ProphetStories()
-    # f = ProphetMuhammad()
-    # g = IslamicStudies()
+    d = PrayerAPI()
+    e = ProphetStories()
+    f = ProphetMuhammad()
+    g = IslamicStudies()
     
     async def run_all():
         tasks = [asyncio.create_task(task) for task in [
-                    # d.extract_qibla_data(False),
-                    # a.extract_surahs(False),
-                    # b.get_all_hadiths(parser=False),
-                    # c.extract_allah_contents(False),
-                    # c.fun_fact(limit=18),
-                    # e.extract_all_prophets(False),
-                    # f.proph_muhammads_life(False),
-                    # g.islamic_timeline(False),
-                    # g.get_islam_laws(False),
-                    # g.road_peace_html(False),
-                    c.islamic_terms(True)
+                    d.extract_qibla_data(False),
+                    a.extract_surahs(False),
+                    b.get_all_hadiths(parser=False),
+                    c.extract_allah_contents(False),
+                    c.fun_fact(limit=18),
+                    e.extract_all_prophets(False),
+                    f.proph_muhammads_life(False),
+                    g.islamic_timeline(False),
+                    g.get_islam_laws(False),
+                    g.road_peace_html(False),
+                    c.islamic_terms(False)
                     ]]
         results = await asyncio.gather(*tasks)
         return results
@@ -1179,7 +1179,7 @@ async def main():
     #     print(traceback)
     results = await run_all()
     end = time()
-    pprint(results)
+    # pprint(results)
     # pprint(c.facts)
     timer = (end-start)
     minutes, seconds = divmod(timer, 60) 
