@@ -1,3 +1,5 @@
+image: python:3.10
+
 stages:
   - build
   - deploy
