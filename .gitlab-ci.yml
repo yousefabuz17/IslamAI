@@ -14,12 +14,12 @@ cache:
 
 before_script:
   - apt-get update && apt-get install -y python3-pip
-  - pip install --upgrade pip
+  - pip3 install --upgrade pip
 
 build:
   stage: build
   script:
-    - pip install -r requirements.txt
+    - pip3 install -r requirements.txt
   tags:
     - docker
     - flask
@@ -29,8 +29,8 @@ build:
 deploy:
   stage: deploy
   script:
-    - python -m compileall .
-    - python ai_app.py
+    - python3 -m compileall .
+    - python3 ai_app.py
   tags:
     - docker
     - flask
