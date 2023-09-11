@@ -16,6 +16,7 @@ cache:
 before_script:
   - apt-get update && apt-get install -y python3-pip wget
   - wget -qO- https://get.docker.com | sh
+  - sh get-docker.sh
   - service docker start
   - pip install --upgrade pip
   - pip install -r requirements.txt
@@ -25,6 +26,8 @@ setup:
   tags:
     - docker
   script:
+    - systemctl status docker.service
+    - ls -l /var/run/docker.sock
     - docker info
   only:
     - main
