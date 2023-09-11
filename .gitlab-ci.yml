@@ -34,4 +34,4 @@ deploy:
   only:
     - main
   tags:
-    - islamai_runner
+    - docker,flask,islamai_runner
