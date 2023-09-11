@@ -20,7 +20,7 @@ build:
   services:
     - docker:dind
   script:
-    - docker build -t gitlab-runner-config:latest .
+    - docker build -t ai_app:latest .
   only:
     - main
 

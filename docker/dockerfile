@@ -1,0 +1,14 @@
+FROM python:3.10
+
+WORKDIR /app
+
+COPY . /app
+
+RUN pip install -r requirements.txt
+
+EXPOSE 5000
+
+ENV FLASK_ENV=production
+
+# Run the Flask application when the container launches
+CMD ["gunicorn", "-b", "0.0.0.0:5000", "ai_app:app"]
