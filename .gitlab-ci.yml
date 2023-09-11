@@ -1,4 +1,4 @@
-image: python:3.10-slim
+image: python:3.11-slim
 
 stages:
   - build
@@ -22,10 +22,8 @@ build:
   tags:
     - docker
     - flask
-  image: python:3.10-slim
-  services:
-    - docker:24.0.5-dind
   script:
+    - docker info
     - docker build -t ai_app:latest .
   only:
     - main
@@ -35,9 +33,6 @@ deploy:
   tags:
     - docker
     - flask
-  image: docker:24.0.5
-  services:
-    - name: dind
   script:
     - docker run -d --name gitlab-runner-config -p 5000:5000 ai_app:latest
   only:
