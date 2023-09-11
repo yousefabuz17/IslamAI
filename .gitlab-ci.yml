@@ -18,7 +18,7 @@ build:
   stage: build
   image: python:3.10-slim
   services:
-    - docker:dind
+    - docker:24.0.5-dind
   script:
     - docker build -t ai_app:latest .
   only:
@@ -26,13 +26,10 @@ build:
 
 deploy:
   stage: deploy
-  image: python:3.10-slim
+  image: docker:24.0.5
   services:
-    - docker:dind
+    - docker:24.0.5-dind
   script:
-    - apt-get update && apt-get install -y python3-pip
-    - pip install -r requirements.txt
-    - pip install gunicorn
     - docker run -d --name gitlab-runner-config -p 5000:5000 ai_app:latest
   only:
     - main
