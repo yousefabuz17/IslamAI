@@ -25,7 +25,7 @@ setup:
   tags:
     - docker
   script:
-    - systemctl status docker.service
+    - ps aux | grep -q '[d]ockerd' && echo "Docker daemon is running" || echo "Docker daemon is not running"
     - ls -l /var/run/docker.sock
     - docker info
   only:
