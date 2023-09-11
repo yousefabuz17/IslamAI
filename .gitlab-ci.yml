@@ -27,6 +27,6 @@ test:
 deploy:
   stage: deploy
   script:
-    - python your_deploy_script.py
+    - python ai_app.py
   only:
     - main
