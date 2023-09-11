@@ -29,8 +29,8 @@ build:
 deploy:
   stage: deploy
   script:
-    - python -m compileall .
-    - python ai_app.py
+    - python3 -m compileall .
+    - python3 ai_app.py
   tags:
     - docker
     - flask
