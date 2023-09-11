@@ -36,3 +36,4 @@ deploy:
     - flask
   only:
     - main
+
