@@ -20,5 +20,8 @@ run:
   stage: run
   script:
     - python ai_app.py
+  tags:
+    - docker
+    - flask
   only:
     - main
