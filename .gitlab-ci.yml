@@ -16,6 +16,9 @@ before_script:
 
 build:
   stage: build
+  tags:
+    - docker
+    - flask
   image: python:3.10-slim
   services:
     - docker:24.0.5-dind
@@ -26,12 +29,13 @@ build:
 
 deploy:
   stage: deploy
+  tags:
+    - docker
+    - flask
   image: docker:24.0.5
   services:
-    - docker:24.0.5-dind
+    - name: dind
   script:
     - docker run -d --name gitlab-runner-config -p 5000:5000 ai_app:latest
   only:
     - main
-  tags:
-    - docker,flask,islamai_runner

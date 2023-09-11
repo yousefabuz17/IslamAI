@@ -2,13 +2,12 @@ FROM python:3.10-slim
 
 WORKDIR /app
 
-COPY . /app
-
+COPY requirements.txt requirements.txt
 RUN pip install -r requirements.txt
+
+COPY ../ai_app.py .
 
 EXPOSE 5000
 
-ENV FLASK_ENV=production
+CMD ["python", "ai_app.py"]
 
-# Run the Flask application when the container launches
-CMD ["gunicorn", "-b", "0.0.0.0:5000", "ai_app:app"]
