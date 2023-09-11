@@ -1,6 +1,7 @@
 image: python:3.11-slim
 
 stages:
+  - setup
   - build
   - deploy
 
@@ -14,19 +15,37 @@ cache:
 
 before_script:
   - apt-get update && apt-get install -y python3-pip
+  - curl -fsSL https://get.docker.com -o get-docker.sh
+  - sh get-docker.sh
+  - service docker start
   - pip install --upgrade pip
   - pip install -r requirements.txt
 
+setup:
+  stage: setup
+  tags:
+    - docker
+  script:
+    - docker info
+  only:
+    - main
+
 build:
   stage: build
+  tags:
+    - docker
+    - flask
   script:
-    - python -m unittest discover
+    - docker build -t ai_app:latest .
   only:
     - main
 
 deploy:
   stage: deploy
+  tags:
+    - docker
+    - flask
   script:
-    - - docker run -d --name gitlab-runner-config -p 5000:5000 ai_app:latest
+    - docker run -d --name gitlab-runner-config -p 5000:5000 ai_app:latest
   only:
     - main
