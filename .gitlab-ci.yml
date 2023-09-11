@@ -1,5 +1,3 @@
-image: python:3.10
-
 stages:
   - build
   - deploy
@@ -12,12 +10,18 @@ cache:
   paths:
     - .pip_cache/
 
+before_script:
+  - python -m ensurepip --upgrade
+  - pip install --upgrade pip
+
 build:
   stage: build
   image: docker:latest
   services:
     - docker:dind
   script:
+    # Update the base image to python:3.10-slim
+    - sed -i 's|python:3.10|python:3.10-slim|' Dockerfile
     - docker build -t ai_app:latest .
   only:
     - main
