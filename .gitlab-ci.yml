@@ -16,21 +16,21 @@ before_script:
 
 build:
   stage: build
-  image: python:3.10
+  image: docker:latest
+  services:
+    - docker:dind
   script:
-    - pip install -r requirements.txt
-    - python -m compileall .
+    - docker build -t gitlab-runner-config:latest .
   only:
     - main
 
 deploy:
   stage: deploy
-  image: python:3.10
+  image: docker:latest
+  services:
+    - docker:dind
   script:
-    - apt-get update && apt-get install -y python3-pip
-    - pip install -r requirements.txt
-    - pip install gunicorn
-    - gunicorn -b 0.0.0.0:$PORT ai_app:app
+    - docker run -d --name gitlab-runner-config -p 5000:5000 ai_app:latest
   only:
     - main
   tags:
