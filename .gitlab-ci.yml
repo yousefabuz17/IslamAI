@@ -1,7 +1,7 @@
 image: python:3.11-slim
 
 stages:
-  - build
+  - test
   - deploy
 
 variables:
@@ -13,27 +13,20 @@ cache:
     - .pip_cache/
 
 before_script:
-  - apt-get update && apt-get install -y python3-pip  # Install pip
+  - apt-get update && apt-get install -y python3-pip
   - pip install --upgrade pip
   - pip install -r requirements.txt
 
-build:
-  stage: build
-  tags:
-    - docker
-    - flask
+test:
+  stage: test
   script:
-    - docker info
-    - docker build -t ai_app:latest .
+    - python -m unittest discover
   only:
     - main
 
 deploy:
   stage: deploy
-  tags:
-    - docker
-    - flask
   script:
-    - docker run -d --name gitlab-runner-config -p 5000:5000 ai_app:latest
+    - python your_deploy_script.py
   only:
     - main
