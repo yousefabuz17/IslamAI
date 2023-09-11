@@ -13,8 +13,7 @@ cache:
     - .pip_cache/
 
 before_script:
-  - python3 -m ensurepip --upgrade
-  - pip3 install --upgrade pip
+  - pip install --upgrade pip
 
 build:
   stage: build
