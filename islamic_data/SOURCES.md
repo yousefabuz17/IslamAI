@@ -1,6 +1,12 @@
-# Sources for Islamic Content
+# Islamic Content Dataset
+This dataset is a comprehensive resource for accessing a wide range of Islamic knowledge and data. In this repository, I have curated a collection of authentic sources and data categories to facilitate your exploration and understanding of various aspects of Islam. Whether you are conducting research, developing applications, or seeking to enrich your knowledge, you will find valuable information here.
 
-This document provides a list of authentic websites that are parsed for Islamic content in the project. These sources serve as valuable references for obtaining Islamic knowledge and data.
+## Sources for Islamic Content
+
+My dataset draws from a selection of reputable sources that provide authentic Islamic content. These sources have been carefully chosen to ensure the accuracy and reliability of the data they offer. Feel free to explore and utilize these sources for your specific needs.
+
+**Kaggle Dataset** -> [Link](https://kaggle.com/datasets/yousefabuz17/islamic-data)
+
 
 ---
 
@@ -13,10 +19,12 @@ This document provides a list of authentic websites that are parsed for Islamic 
 | 3. Islamic Facts     | Fun Generator                               | [Link](https://fungenerators.com/random/facts/religion/islam)        |
 | 4. BYU Scholars      | The Five Pillars of Islam                   | [Link](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1017&context=studiaantiqua#:~:text=Whether%20one%20is%20Sunni%20or,are%20fully%20defined%20and%20detailed.)  |
 | 5. Islamic Calendar  | Aladhan                                      | [Link](https://aladhan.com/) |
+| 6. Prophets  | Islamic-Studies/Alim                                      | [Link](https://islamicstudies.info/) [ Link-2](https://alim.org/history)|
+
 ---
 
 
-<table border="1">
+<table border="5">
     <tr>
         <th>Data Category</th>
         <th>Purpose and Description</th>
@@ -36,6 +44,11 @@ This document provides a list of authentic websites that are parsed for Islamic 
         <td>Islamic Facts</td>
         <td>General Islamic facts for informative responses.</td>
         <td>[ ]</td>
+    </tr>
+    <tr>
+        <td>Prophets</td>
+        <td>Prophet Muhammad and Prophet Stories.</td>
+        <td>[-]</td>
     </tr>
     <tr>
         <td>History</td>
