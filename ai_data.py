@@ -203,7 +203,7 @@ class QuranAPI(BaseAPI):
             surahs[response.pop('id')] = all_contents
         if export:
             with open(self.path / 'jsons' / 'list_of_surahs.json', mode='w', encoding='utf-8') as file:
-                json.dump(surahs, file, indent=4)
+                json.dump(surahs, file, indent=4, ensure_ascii=False)
         return surahs
 
     @classmethod
@@ -310,7 +310,7 @@ class IslamFacts(QuranAPI):
         fun_facts.update(facts)
         cls.facts.update(facts)
         file3 = open(cls.path / 'jsons' / 'islam_facts.json', mode='w', encoding='utf-8')
-        json.dump(fun_facts, file3, indent=4)
+        json.dump(fun_facts, file3, indent=4, ensure_ascii=False)
         file3.close()
         return fun_facts
     
@@ -333,7 +333,7 @@ class IslamFacts(QuranAPI):
                         self.facts.add(formatted)
             fun_facts = dict.fromkeys(self.facts)
             with open(self.path / 'jsons' / 'islam_facts.json', mode='w', encoding='utf-8') as file1:
-                json.dump(fun_facts, file1, indent=4)
+                json.dump(fun_facts, file1, indent=4, ensure_ascii=False)
             return fun_facts
         
         limit = kwargs.get('limit', 2)
@@ -417,7 +417,7 @@ class IslamFacts(QuranAPI):
         del all_contents
         if export:
             with open(self.path / 'jsons' / 'list_allah_names.json', mode='w', encoding='utf-8') as file:
-                json.dump(merged_contents, file, indent=4)
+                json.dump(merged_contents, file, indent=4, ensure_ascii=False)
             return merged_contents
         return merged_contents
     
@@ -459,7 +459,7 @@ class IslamFacts(QuranAPI):
         full_dictionary = await _extract_all()
         if export:
             with open(self.path / 'jsons' / 'islamic-terms.json', mode='w', encoding='utf-8') as file:
-                json.dump(full_dictionary, file, indent=4)
+                json.dump(full_dictionary, file, indent=4, ensure_ascii=False)
             return full_dictionary
         return full_dictionary
         
@@ -518,7 +518,7 @@ class PrayerAPI(QuranAPI):
                                 'qibla_dir': qibla_dir}
         if export:
             with open(self.path / 'jsons' / 'qibla_data.json', mode='w', encoding='utf-8') as file:
-                json.dump(qibla_data, file, indent=4)
+                json.dump(qibla_data, file, indent=4, ensure_ascii=False)
                 file.close()
             return qibla_data
         else:
@@ -779,7 +779,7 @@ class ProphetStories(QuranAPI):
 
         if export:
             with open(self.path / 'jsons' / 'prophet_stories.json', mode='w', encoding='utf-8') as file:
-                json.dump(all_contents, file, indent=4)
+                json.dump(all_contents, file, indent=4, ensure_ascii=False)
             return all_contents
         return all_contents
 
@@ -957,7 +957,7 @@ class ProphetMuhammad(BaseAPI):
         
         if export:
             with open(self.path / 'jsons' / 'life_of_prophet_muhammad.json', mode='w', encoding='utf-8') as file:
-                json.dump(full_book, file, indent=4)
+                json.dump(full_book, file, indent=4, ensure_ascii=False)
             return full_book
         return full_book
 
@@ -995,7 +995,7 @@ class IslamicStudies(QuranAPI):
             
             if export:
                 with open(self.path / 'jsons' / 'islamic_timeline.json', mode='w', encoding='utf-8') as file:
-                    json.dump(all_contents, file, indent=4)
+                    json.dump(all_contents, file, indent=4, ensure_ascii=False)
                 return all_contents
             return all_contents
         
@@ -1047,7 +1047,7 @@ class IslamicStudies(QuranAPI):
         
         if export:
             with open(self.path / 'jsons' / 'islamic-laws.json', mode='w', encoding='utf-8') as file:
-                json.dump(structured_contents, file, indent=4)
+                json.dump(structured_contents, file, indent=4, ensure_ascii=False)
             return structured_contents
         return structured_contents
     
@@ -1129,7 +1129,7 @@ class IslamicStudies(QuranAPI):
             
             if export:
                 with open(self.path / 'jsons' / 'road_to_peace_salvation.json', mode='w', encoding='utf-8') as file:
-                    json.dump(all_contents, file, indent=4)
+                    json.dump(all_contents, file, indent=4, ensure_ascii=False)
                 return all_contents
             return all_contents
         
@@ -1145,27 +1145,27 @@ class IslamHistory(QuranAPI):
 async def main():
     # tracemalloc.start()
 
-    a = QuranAPI()
-    b = HadithAPI()
-    c = IslamFacts()
-    d = PrayerAPI()
-    e = ProphetStories()
-    f = ProphetMuhammad()
-    g = IslamicStudies()
+    # a = QuranAPI()
+    # b = HadithAPI()
+    # c = IslamFacts()
+    # d = PrayerAPI()
+    # e = ProphetStories()
+    # f = ProphetMuhammad()
+    # g = IslamicStudies()
     
     async def run_all():
         tasks = [asyncio.create_task(task) for task in [
-                    d.extract_qibla_data(False),
-                    a.extract_surahs(False),
-                    b.get_all_hadiths(parser=False),
-                    c.extract_allah_contents(False),
-                    c.fun_fact(limit=18),
-                    e.extract_all_prophets(False),
-                    f.proph_muhammads_life(False),
-                    g.islamic_timeline(False),
-                    g.get_islam_laws(False),
-                    g.road_peace_html(False),
-                    c.islamic_terms(False)
+                    # d.extract_qibla_data(False),
+                    # a.extract_surahs(False),
+                    # b.get_all_hadiths(parser=False),
+                    # c.extract_allah_contents(False),
+                    # c.fun_fact(limit=18),
+                    # e.extract_all_prophets(False),
+                    # f.proph_muhammads_life(False),
+                    # g.islamic_timeline(False),
+                    # g.get_islam_laws(False),
+                    # g.road_peace_html(False),
+                    # c.islamic_terms(False)
                     ]]
         results = await asyncio.gather(*tasks)
         return results
