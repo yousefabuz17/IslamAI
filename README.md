@@ -47,6 +47,16 @@
 | `bs4 (BeautifulSoup)`     | BeautifulSoup aids in web scraping and data extraction, ensuring accurate and up-to-date information. |
 | `concurrent.futures (ThreadPoolExtractor)`    | Provides a high-level interface for asynchronously executing functions.       |
 
+
+## Source Selection
+
+- **``Reputation``**: We prioritized sources with established reputations within the Islamic community. These sources are recognized for their commitment to providing accurate and reliable information about Islam.
+
+- **``Scholarly Validation``**: Sources that have been reviewed and endorsed by reputable Islamic scholars were given preference. Scholarly validation adds a layer of authenticity to the information they provide.
+
+- **``Community Trust``**: We considered the trust and confidence that the Islamic community places in these sources. Feedback and recommendations from the community played a crucial role in our selection process.
+
+- **``Historical Significance``**: Sources with a history of preserving and disseminating Islamic knowledge over time were considered valuable. Their historical significance indicates a commitment to accuracy.
 ## **Data Collection**
 
 - **``Structured Data``**: The project excels in collecting and structuring data from various sources. This structured data is easily accessible, facilitating accurate responses to user queries. If the data sources or structures evolve over time, adapting the code to accommodate these changes is straightforward, thanks to the meticulous data handling approach.
@@ -56,6 +66,7 @@
 - **``Data Integrity``**: The project is designed to ensure data integrity. For example, the Quranic content is extracted from multiple sources and cross-checked to ensure accuracy and consistency. This approach guarantees that the chatbot provides reliable and trustworthy information.
 
 - **``Data Storage``**: The project uses JSON files to store data. This choice enhances data integrity and portability. Should there be a need to change data storage formats or structures, the transition process remains straightforward.
+
 
 ## **Data Processing**
 
@@ -84,10 +95,13 @@ IslamAI
 │   ├── pdfs
 │   │   ├── *.pdf
 │   └── SOURCES.md
+├── blueprints
+│   ├── *blueprint.py
 ├── ai_data.py
 ├── ai_model.py
 ├── config.ini
 ├── README.md
+├── LICENSE.md
 └── requirements.txt
 ```
 
