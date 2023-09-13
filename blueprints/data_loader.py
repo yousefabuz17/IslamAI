@@ -9,7 +9,7 @@ class DataLoader:
         self.data_files = self.path.rglob('*.json')
 
     def load_data(self, file_path):
-        def _load_and_map(file_name):
+        def _load_and_map():
             try:
                 with open(self.path / f'{file_name}.json',
                             mode='r', encoding='utf-8') as file:
@@ -20,7 +20,7 @@ class DataLoader:
             except json.JSONDecodeError as e:
                 raise ValueError(f"Error decoding JSON in {file_name}: {e}")
         file_name = file_path.stem 
-        data = _load_and_map(file_name)
+        data = _load_and_map()
         return file_name, data
     
     @property

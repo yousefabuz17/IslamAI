@@ -1,20 +1,30 @@
 
-#** All App modules
-from flask import (Blueprint, Flask, jsonify, redirect, render_template, url_for)
-from flask_restful import Api, Resource, reqparse, abort
-
+#** All modules for Blueprints will be stored here
+from flask import (Blueprint, Flask, jsonify, redirect, render_template, url_for, request, make_response)
+from flask_restful import (Api, Resource, abort)
+from nested_lookup import nested_lookup as nested
+from rapidfuzz import (fuzz, process)
+from marshmallow import Schema, fields
+from webargs.flaskparser import use_args
 #** (pathlib, json, concurrent)
 from .data_loader import *
 
-main_endpoint, api_endpoint = '/ai/v1/data', '/api'
+main_endpoint, api_endpoint = '/islam-ai/v1/data', '/api/v1'
 ai_bp = Blueprint('ai_blueprint', __name__, url_prefix=main_endpoint)
 ai_api = Api(ai_bp)
 
 islamic_data = {
+    f'Main Endpoint for all (/api/v1)': {
     1: {
         "api": "Quran",
         "desc": "Quran verses/translations/keywords",
-        'endpoint': '/quran'},
+        'main-endpoint': '/quran',
+        'endpoints': [
+                    '/index',
+                    '/stats',
+                    '/search?surah_id=None&author=None',
+                    '/translate?surah_id=None&lang=None'
+                    ]},
     2: {
         "api": "All Hadiths",
         "desc": "List of hadiths by author",
@@ -47,12 +57,7 @@ islamic_data = {
         "api": "Books",
         "desc": "Islamic Books",
         "endpoint": "/islamic-books"}
-}
-
-# parser = reqparse.RequestParser()
-# parser.add_argument('api', type=str, required=True, help='Name of the api')
-# parser.add_argument('desc', type=str, required=True, help='Description for the item')
-# parser.add_argument('endpoint', type=str, required=False, help='API Endpoint for the item')
+}}
 
 class AIResource(Resource):
     def get(self):
