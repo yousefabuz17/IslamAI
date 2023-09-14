@@ -3,7 +3,7 @@ import json
 import re
 import threading
 from collections import (OrderedDict, namedtuple)
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, wait
 from configparser import ConfigParser
 from copy import deepcopy
 from dataclasses import dataclass
@@ -73,6 +73,36 @@ class BaseAPI(metaclass=SingletonMeta):
         match_ = process.extractOne(string.lower(), [i.lower() for i in values_.values()], scorer=fuzz.ratio)
         matched = match_[0].upper() if all(i.isupper() for i in values_.values()) else match_[0].title()
         return matched, match_
+    
+    @staticmethod
+    def _get_file(path, file_name, type_='pdfs', mode='rb', ext='pdf'):
+        file = open(path / type_ / f'{file_name}.{ext}', mode=mode)
+        return file
+    
+    @staticmethod
+    def _extractor(pdf, **kwargs):
+        #^ PDF Files only
+        '''
+        pdf: 
+        kwargs: maxpages, page_numbers
+        '''
+        default_values = (0, None)
+        maxpages, page_numbers = tuple(kwargs.get(key, default_values[i]) for i, key in enumerate(('maxpages', 'page_numbers')))
+        if kwargs:
+            pdf_file = extract_pages(pdf, maxpages=maxpages, page_numbers=page_numbers)
+            clean_pdf = ''.join([j.get_text() for i in pdf_file for j in i if hasattr(j, 'get_text')]).split('\n')
+            return clean_pdf
+        else:
+            pdf_file = extract_pages(pdf)
+            clean_pdf = ''.join([j.get_text() for i in pdf_file for j in i if hasattr(j, 'get_text')]).split('\n')
+            return clean_pdf
+    
+    @lru_cache(maxsize=1)
+    @staticmethod
+    def _load_file(path, name, mode='r', encoding='utf-8', type_='json', folder='jsons'):
+        #!> Modify for flexibility
+        return json.load(open(path / folder / f'{name}.{type_}', mode=mode, encoding=encoding))
+
 
 class QuranAPI(BaseAPI):
     def __init__(self):
@@ -83,6 +113,7 @@ class QuranAPI(BaseAPI):
         }
     
     async def _request(self, endpoint: Union[int, str], **kwargs):
+        '''range_, keyword, slash, url, headers'''
         default_values = ['']*4 + [{}]
         range_, keyword, slash, url, headers = tuple(kwargs.get(key, default_values[i]) for i,key in enumerate(('range_', 'keyword', 'slash', 'url', 'headers')))
         slash = '/' if slash else ''
@@ -101,16 +132,16 @@ class QuranAPI(BaseAPI):
         except (client_exceptions.ServerDisconnectedError):
             return ''
     
-    async def _parse_surah(self, surah_id: Union[int, str, None]='', **kwargs):
+    async def _parse_surah(self, surahID: Union[int, str, None]='', **kwargs):
         '''
-        surah_id: Union[int, str, None]
+        surahID: Union[int, str, None]
         range_: List[int, int] -> str(int-int)
         keyword: /keyword
         '''
         range_, keyword = tuple(kwargs.get(i, '') for i in ('range_', 'keyword'))
         if range_:
             range_ = f"/{'-'.join(list(map(str, range_)))}"
-        endpoint = 'corpus/' if (not surah_id and keyword) else str(surah_id)
+        endpoint = 'corpus/' if (not surahID and keyword) else str(surahID)
         request = await self._request(endpoint=endpoint, headers=self.headers, range_=range_, keyword=keyword, slash=True)
         return request
     
@@ -129,15 +160,19 @@ class QuranAPI(BaseAPI):
             return stats
 
     async def get_stats(self, **kwargs):
-        stats = await self._request(endpoint='', **kwargs)
-        default_values = (False, 1)
-        display, format_ = tuple(kwargs.get(key, default_values[i]) for i, key in enumerate(('display', 'format_')))
+        stats = await self._request(endpoint='', headers=self.headers)
+        updated_stats = self._format_stats(stats, type_=dict)
+        default_values = (False, 1, False)
+        display, format_, export = tuple(kwargs.get(key, default_values[i]) for i, key in enumerate(('display', 'format_', 'export')))
         try:
             if display:
                 stats = self._format_stats(stats, type_=list, display=True, format_=format_)
                 chart = Pyasciigraph(titlebar='-')
                 for stat in chart.graph(label='\t\t\t\t Quran Statistics',data=stats):
                     print(stat)
+            if export:
+                with open(self.path / 'jsons' / 'quran_stats.json', mode='w', encoding='utf-8') as file:
+                    json.dump(updated_stats, file, indent=4, ensure_ascii=False)
             else:
                 new_stats = self._format_stats(stats, type_=dict, format_=1)
                 return new_stats
@@ -146,12 +181,12 @@ class QuranAPI(BaseAPI):
     
     async def extract_surahs(self, export=False):
         async def _fix_surah_contents():
-            async def _parse_myislam(surah_id):
+            async def _parse_myislam(surahID):
                 soup = await self._extract_contents(endpoint='quran-transliteration', slash=True, url=self.url.myislam, headers=None)
                 parsed_links = [re.search(r'<a\s+href="([^"]+)">', str(i)).group() for i in soup.find_all('a') if re.search(r'<a\s+href="([^"]+)">', str(i))]
                 main_endpoints = [i[:-3].split('/')[-1] for i in parsed_links if re.findall(r'at|surah\-\w+\-?\w+?', i)][2:-2]
                 all_endpoints = {idx: key for idx,key in enumerate(main_endpoints, start=1)}
-                surah_endpoint = all_endpoints.get(surah_id)
+                surah_endpoint = all_endpoints.get(surahID)
                 soup_ = await self._extract_contents(endpoint=surah_endpoint, slash=True, url=self.url.myislam, headers=None)
                 ayat_nums = [i.text for i in soup_.find_all('a', class_='ayat-number-style')]
                 main_ = [soup_.find_all('div', class_=f'translation-style translation-{i}', limit=len(ayat_nums)+1) for i in range(1, len(ayat_nums)+1)]
@@ -165,7 +200,7 @@ class QuranAPI(BaseAPI):
                         if i[0]==name_:
                             all_authors[name_] += f'{i[1]}\n'
                 all_contents = {key: value.split('\n')[:-1] for key, value in all_authors.items()}
-                enum_param = 1 if surah_id==1 else 0
+                enum_param = 1 if surahID==1 else 0
                 for _, (name_, info) in enumerate(all_contents.items()):
                     if len(info) == len(ayat_nums):
                         data = {}
@@ -180,10 +215,10 @@ class QuranAPI(BaseAPI):
                         all_contents[name_] = data
                 return all_contents
             
-            surah_id = response['id']
+            surahID = response['id']
             response['surah_name_ar'] = response['surah_name_ar'][::-1]
             transliteration, content = zip(*[(j['transliteration'], j['content'][::-1]) for _, j in response['verses'].items()])
-            myislam_contents = await _parse_myislam(surah_id)
+            myislam_contents = await _parse_myislam(surahID)
             
             def _merge_all():
                 modified_dict = {
@@ -207,13 +242,13 @@ class QuranAPI(BaseAPI):
         return surahs
 
     @classmethod
-    def get_surah(cls, surah_id: str=None):
+    def get_surah(cls, surahID: str=None):
         list_surahs, _json_file = cls._list_surahs()
-        if surah_id is None:
+        if surahID is None:
             pprint(list_surahs)
             return 'Choose a surah ID'
         else:
-            return _json_file[str(surah_id)]
+            return _json_file[str(surahID)]
     
     @classmethod
     def _list_surahs(cls):
@@ -243,19 +278,11 @@ class QuranAPI(BaseAPI):
             return contents
         return soup
     
-    @lru_cache(maxsize=1)
-    @staticmethod
-    def _load_file(path, name, mode='r', encoding='utf-8', type_='json', folder='jsons'):
-        #!> Modify for flexibility
-        return json.load(open(path / folder / f'{name}.{type_}', mode=mode, encoding=encoding))
-    
     @classmethod
     def get_instance(cls):
         return cls()
 
 class HadithAPI(QuranAPI):
-    def __init__(self):
-        super().__init__()
     
     async def get_all_hadiths(self, **kwargs):
         '''Fetch all hadiths or specify `author`: str'''
@@ -299,9 +326,6 @@ class HadithAPI(QuranAPI):
 class IslamFacts(QuranAPI):
     facts = set()
     allah_names = dict()
-    
-    def __init__(self):
-        super().__init__()
     
     @classmethod
     def _update_facts(cls, facts: set):
@@ -476,8 +500,6 @@ class IslamFacts(QuranAPI):
         return cls.facts
 
 class PrayerAPI(QuranAPI):
-    def __init__(self):
-        super().__init__()
     
     async def extract_qibla_data(self, export=False):
         async def _get_qibla(**kwargs):
@@ -525,8 +547,6 @@ class PrayerAPI(QuranAPI):
             return qibla_data
 
 class ProphetStories(QuranAPI):
-    def __init__(self):
-        super().__init__()
     
     async def _empty_stories(self):
         async def _get_prophets():
@@ -604,7 +624,6 @@ class ProphetStories(QuranAPI):
             return await method(prophet)
         else:
             return None
-    
     
     @staticmethod
     def _fix_name(prophet):
@@ -783,27 +802,10 @@ class ProphetStories(QuranAPI):
             return all_contents
         return all_contents
 
-class ProphetMuhammad(BaseAPI):
+class ProphetMuhammad(QuranAPI):
     def __init__(self):
         self.name = 'The Life of the Prophet Muhammad (Peace and blessings of Allah be upon him)'
         self.title = 'The-Life-of-The-Prophet-Muhammad'
-    
-    def _get_file(self, file, type_='pdfs', mode='rb', ext='pdf'):
-        file = open(self.path / type_ / f'{file}.{ext}', mode=mode)
-        return file
-    
-    @staticmethod
-    def _extractor(pdf, **kwargs):
-        default_values = (0, None)
-        maxpages, page_numbers = tuple(kwargs.get(key, default_values[i]) for i, key in enumerate(('maxpages', 'page_numbers')))
-        if kwargs:
-            pdf_file = extract_pages(pdf, maxpages=maxpages, page_numbers=page_numbers)
-            clean_pdf = ''.join([j.get_text() for i in pdf_file for j in i if hasattr(j, 'get_text')]).split('\n')
-            return clean_pdf
-        else:
-            pdf_file = extract_pages(pdf)
-            clean_pdf = ''.join([j.get_text() for i in pdf_file for j in i if hasattr(j, 'get_text')]).split('\n')
-            return clean_pdf
     
     async def _pdf_parser(self):
         def _cleaner(contents):
@@ -915,7 +917,7 @@ class ProphetMuhammad(BaseAPI):
             del gloss_contents
             return updated_gloss
         
-        pdf = self._get_file(self.title)
+        pdf = self._get_file(path=self.path, file_name=self.title)
         title_page, glossary = await asyncio.gather(
                                     _title_page(),
                                     _parse_gloss()
@@ -962,8 +964,6 @@ class ProphetMuhammad(BaseAPI):
         return full_book
 
 class IslamicStudies(QuranAPI):
-    def __init__(self):
-        super().__init__()
     
     async def islamic_timeline(self, export=False):
         async def _get_timeline():
@@ -1135,12 +1135,100 @@ class IslamicStudies(QuranAPI):
         
         return await _structured_contents()
 
-class IslamHistory(QuranAPI):
-    def __init__(self):
-        super().__init__()
+class IslamPrayer(QuranAPI):
     
-    #? Parse Alims history endpoint?
+    @staticmethod
+    def _get_indexes(page, pattern):
+        norm_indexes = [(idx, i) for idx,i in enumerate(page) if re.search(pattern, i)]
+        grouped_index = [(norm_indexes[i], norm_indexes[i + 1]) for i in range(0, len(norm_indexes)-1)]
+        norm_indexes.append(((norm_indexes[-1]), (len(page),norm_indexes[-1][-1])))
+        grouped_index.append(((grouped_index[-1][-1]), (len(page),grouped_index[-1][-1][-1])))
+        return grouped_index, norm_indexes
+    
+    async def wudu_guide(self, export=False):
+        def _get_page(file, start=None, end=None):
+            page_contents = self._extractor(file, maxpages=start) if not end else self._extractor(file, page_numbers=range(start,end))
+            cleaned_page = [i for i in page_contents if re.search(r'\w+', i) and not re.match(r'(?:\d{1,2})|(?:How to Perform Wudu\’ \(Step-by-Step\))', i)]
+            return cleaned_page
+        
+        async def _title_contents():
+            page = _get_page(wudu_guide, 11, 12)
+            wudu_title_contents = [page.pop(0).rstrip() for _ in range(3)][::2]
+            return wudu_title_contents
+        
+        def _get_contents(*args):
+            contents, start, end = args
+            old_contents = ' '.join(contents[start+1:end]).rstrip()
+            return old_contents
+        
+        def _format_page(page, g_index):
+            '''g_index: grouped_indexes'''
+            steps = {}
+            for i, j in g_index:
+                start, end = i[0], j[0] if j[0] != len(page) else len(page)
+                step_name = i[1]
+                contents = _get_contents(page, start, end)
+                steps[step_name] = contents
+            return steps
+        
+        async def _wudu_contents():
+            pages = [_get_page(wudu_guide, *i) for _,i in enumerate(((11,14), (14, 15)))]
+            first_six, nine_ten = pages
+            step_sev = first_six.index('Step 7 - Head')
+            
+            def _sev_eight():
+                sev = first_six[step_sev:len(first_six)]
+                sev_key, eight_key = [sev.pop(0) for _ in range(2)]
+                sev_cont, eight_cont = sev[:4], sev[4:]
+                sev_eight = {
+                            sev_key: sev_cont,
+                            eight_key: eight_cont
+                            }
+                updated_both = {idx: {key:value} for idx, (key,value) in enumerate(sev_eight.items(), start=7)}
+                return updated_both
+            
+            def _fix_ten():
+                label = 'Step 10 - Closing Du’a/Invocation'
+                ten = both_fixed[-1].get(label)
+                ten_idx = ten.find(label)
+                ten_cont = ten[ten_idx+len(label)+1:]
+                both_fixed[-1][label] = ten_cont
+                both_fixed[-1] = {idx: {key:value} for idx,(key,value) in enumerate(both_fixed[-1].items(), start=9)}
+                return both_fixed[-1]
+            
+            updated_six = first_six[3:step_sev]
+            merged_pages = updated_six + nine_ten
+            both_indexes = [self._get_indexes(i, r'Step \d{1,2}')[0] for _,i in enumerate((updated_six, nine_ten))]
+            both_fixed = [_format_page(merged_pages, i) for i in both_indexes]
+            both_fixed[-1] = _fix_ten()
+            both_fixed[0] = {idx: {key:value} for idx,(key,value) in enumerate(both_fixed[0].items(), start=1)}
+            both_fixed[0].update(both_fixed[-1])
+            both_fixed[0].update(_sev_eight())
+            wudu_contents = both_fixed[0]
+            return wudu_contents
+        
+        wudu_guide = self._get_file(path=self.path, file_name='salah-guide')
+        title_contents, wudu_contents = await asyncio.gather(
+                                        _title_contents(),
+                                        _wudu_contents()
+        )
+        wudu_contents = OrderedDict({**wudu_contents})
+        
+        def merge_all():
+            title, desc = title_contents
+            all_merged = {title: {desc: {**wudu_contents}}}
+            return all_merged
+        
+        all_contents = merge_all()
+        if export:
+            with open(self.path / 'jsons' / 'wudu-guide.json', mode='w', encoding='utf-8') as file:
+                json.dump(all_contents, file, indent=4, ensure_ascii=False)
+                print('Exported Wudu-Guide')
+            return all_contents
+        return all_contents
 
+#^ Wudu JSON Structure
+#? {'How to perform wudu': {'THE FOLLOWING STEPS MUST BE OBSERVED IN ORDER (TARTEEB).': 'steps'}}
 
 async def main():
     # tracemalloc.start()
@@ -1152,6 +1240,7 @@ async def main():
     # e = ProphetStories()
     # f = ProphetMuhammad()
     # g = IslamicStudies()
+    h = IslamPrayer()
     
     async def run_all():
         tasks = [asyncio.create_task(task) for task in [
@@ -1165,7 +1254,8 @@ async def main():
                     # g.islamic_timeline(False),
                     # g.get_islam_laws(False),
                     # g.road_peace_html(False),
-                    # c.islamic_terms(False)
+                    # c.islamic_terms(False),
+                    h.wudu_guide(True)
                     ]]
         results = await asyncio.gather(*tasks)
         return results
@@ -1179,8 +1269,7 @@ async def main():
     #     print(traceback)
     results = await run_all()
     end = time()
-    # pprint(results)
-    # pprint(c.facts)
+    pprint(results)
     timer = (end-start)
     minutes, seconds = divmod(timer, 60) 
     print(f"Execution Time: {minutes:.0f} minutes and {seconds:.5f} seconds")
