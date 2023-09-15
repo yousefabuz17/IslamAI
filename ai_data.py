@@ -44,7 +44,6 @@ Notes:
     ~ tqdm slows the extraction process
     ~ Did not leave any memorable comments for help. File is not for showcasing.
 
-This file stands as a testament to the unwavering commitment of both myself and all collaborators and contributors involved.
 It signifies the first step towards building a robust and intelligent system for our users.
 
 All data parsed at once average time:
@@ -1188,6 +1187,7 @@ class IslamPrayer(QuranAPI):
                         elif current_key is not None:
                             structured_dict[current_key] += f'{item} '
                     foundation[title_contents][idx] = {key: structured_dict}
+            del (page, indexes)
             return foundation
         
         async def _title_contents():
@@ -1247,6 +1247,7 @@ class IslamPrayer(QuranAPI):
             both_fixed[0].update(sev_eight)
             both_fixed[0].update(both_fixed[-1])
             wudu_contents = OrderedDict(both_fixed[0])
+            del (merged_pages, sev_eight, both_indexes, both_fixed)
             return wudu_contents
         
         wudu_guide = self._get_file(path=self.path, file_name='salah-guide')
@@ -1267,6 +1268,8 @@ class IslamPrayer(QuranAPI):
             return all_merged
         
         all_contents = merge_all()
+        
+        del (wudu_guide, title_contents, wudu_contents, foundation)
         if export:
             return self._exporter(all_contents, 'wudu-guide')
         return all_contents
@@ -1293,13 +1296,13 @@ async def main():
                     # b.get_all_hadiths(parser=default),
                     # c.extract_allah_contents(default),
                     # c.fun_fact(limit=18),
-                    # e.extract_all_prophets(False),
-                    # f.proph_muhammads_life(False),
+                    # e.extract_all_prophets(default),
+                    # f.proph_muhammads_life(default),
                     # g.islamic_timeline(default),
                     # g.get_islam_laws(default),
-                    # g.road_peace_html(False),
+                    # g.road_peace_html(default),
                     # c.islamic_terms(default),
-                    h.get_wudu(True)
+                    h.get_wudu(default)
                     ]]
         results = await asyncio.gather(*tasks)
         return results
@@ -1311,9 +1314,9 @@ async def main():
     # except Exception as e:
     #     traceback = tracemalloc.get_object_traceback(e)
     #     print(traceback)
-    results = await run_all(True)
+    results = await run_all(False)
     end = time()
-    pprint(results)
+    # pprint(results)
     timer = (end-start)
     minutes, seconds = divmod(timer, 60) 
     print(f"Execution Time: {minutes:.0f} minutes and {seconds:.5f} seconds")
