@@ -1175,7 +1175,7 @@ class IslamPrayer(QuranAPI):
                 start, end = i[0], j[0] if j[0] != len(page) else len(page)
                 key = i[1].title()
                 contents = _get_contents(page, start, end)
-                foundation[title_contents][idx] = {key: list(contents.split('  '))}
+                foundation[title_contents][key] = list(contents.split('  '))
                 if idx==3:
                     structured_dict = {}
                     current_key = None
@@ -1186,7 +1186,7 @@ class IslamPrayer(QuranAPI):
                             structured_dict[current_key] = ''
                         elif current_key is not None:
                             structured_dict[current_key] += f'{item} '
-                    foundation[title_contents][idx] = {key: structured_dict}
+                    foundation[title_contents][key] = structured_dict
             del (page, indexes)
             return foundation
         
@@ -1250,11 +1250,42 @@ class IslamPrayer(QuranAPI):
             del (merged_pages, sev_eight, both_indexes, both_fixed)
             return wudu_contents
         
+        async def _wudu_rules():
+            page = self._get_page(wudu_guide, 15, 16)[:-3]
+            title = ''.join([page.pop(0) for _ in range(2)])
+            page[page.index('MUSLIM')] = 'NOTE'
+            rules = page[:12]
+            
+            def _fix_rules():
+                tip1 = page[12:17]
+                tip2 = page[17:21]
+                proph_message = page[21:page.index('NOTE')]
+                merged_rules = [tip1, tip2, proph_message]
+                rule_contents = {contents[0] if re.match(r'(?:Wudu Tip - \w+)', contents[0]) \
+                                else ''.join(contents[:2]): \
+                                    contents[1:] if re.search(r'(?:Wudu Tip - \w+)', contents[0]) \
+                                    else ''.join(contents[2:]) for contents in merged_rules}
+                del (merged_rules)
+                return rule_contents
+                
+            rule_contents = _fix_rules()
+            note = page[page.index('NOTE'):]
+            structured = OrderedDict({
+                        title: {
+                            'Rules':rules,
+                            note[0]: note[1:],
+                            'Tips': rule_contents
+                            }})
+            del (page, rule_contents)
+            return structured
+        
+        
         wudu_guide = self._get_file(path=self.path, file_name='salah-guide')
-        title_contents, wudu_contents, foundation = await asyncio.gather(
+        title_contents, wudu_contents, foundation, rules = await asyncio.gather(
                                                                 _title_contents(),
                                                                 _wudu_contents(),
-                                                                _wudu_foundations()
+                                                                _wudu_foundations(),
+                                                                _wudu_rules()
                                                                 )
         
         def merge_all():
@@ -1262,6 +1293,7 @@ class IslamPrayer(QuranAPI):
             all_merged = {
                 'Wudu-Guide': {
                             'Introduction': {**foundation},
+                            'Mandatory-Rules': {**rules},
                             title: {desc: {**wudu_contents}}
                             }
                         }
@@ -1314,9 +1346,9 @@ async def main():
     # except Exception as e:
     #     traceback = tracemalloc.get_object_traceback(e)
     #     print(traceback)
-    results = await run_all(False)
+    results = await run_all(True)
     end = time()
-    # pprint(results)
+    pprint(results)
     timer = (end-start)
     minutes, seconds = divmod(timer, 60) 
     print(f"Execution Time: {minutes:.0f} minutes and {seconds:.5f} seconds")
