@@ -1,4 +1,4 @@
-<img src='logo/logo.png'>
+<img src='logo/logo.png' width='300' height='200'>
 
 # IslamAI - Quran and Islamic Knowledge AI Chatbot
 `IslamAI` is an AI chatbot project designed to provide accurate and reliable information about the Quran and Islamic teachings. Unlike general-purpose chatbots, IslamAI is focused solely on answering questions related to the Quran and the Islamic religion. It utilizes data from the Quran and other Islamic sources to provide accurate and insightful answers to user queries.
