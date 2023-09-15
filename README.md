@@ -74,9 +74,9 @@
 
 
 ## **Model Training**
-- **``Conversational AI with Rasa``**: The model training process utilizes Rasa, an open-source conversational AI framework. Rasa enables the creation of a powerful AI model from scratch, capable of understanding user queries and generating context-aware responses tailored to Quranic and Islamic knowledge.
+- **``Conversational AI Framework Selection``**: The model training phase will leverage advanced conversational AI technology. Currently still exploring various options, including Rasa, an open-source conversational AI framework, and other cutting-edge frameworks like those developed by OpenAI. My goal is to select the most suitable framework that aligns with the complexity and unique requirements for this project.
 
-- **``NOTE``**: Data collection still in progress. Model training will be done after majority of data is successfully collected and structured
+- **``NOTE``**: Data collection still in progress. Model training will be start after majority of data is successfully collected and structured.
 
 ## Requirements
 ```bash
@@ -88,6 +88,8 @@ pip install -r requirements.txt
 ```bash
 IslamAI
 ├── islamic_data
+│   ├── docxs
+│   │   ├── *.docx
 │   ├── htmls
 │   │   ├── *.html
 │   ├── jsons
@@ -97,9 +99,12 @@ IslamAI
 │   └── SOURCES.md
 ├── blueprints
 │   ├── *blueprint.py
+│   ├── data_loader.py
+├── logo
+│   ├── logo.png
 ├── ai_data.py
 ├── ai_model.py
-├── config.ini
+├── database.ini
 ├── README.md
 ├── LICENSE.md
 └── requirements.txt
@@ -108,6 +113,10 @@ IslamAI
 ## Progress
 - [x] Data Collection
     - [x] Data Processing
+- [ ] RESTful API Data Endpoints
+    - [x] Quran
+    - [ ] Hadiths
+    - [ ] Other
 - [ ] Model Training
 - [ ] Model Deployment
 - [ ] ChatBot Interface
