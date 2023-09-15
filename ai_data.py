@@ -63,7 +63,7 @@ class ConfigInfo:
     @lru_cache(maxsize=1)
     def _get_config(cls, key='Database'):
         config_parser = ConfigParser()
-        config_parser.read(Path(__file__).parent.absolute() / 'config.ini')
+        config_parser.read(Path(__file__).parent.absolute() / 'database.ini')
         config = dict(config_parser[key])
         if cls._config is None:
             cls._config = config
@@ -1186,7 +1186,7 @@ class IslamPrayer(QuranAPI):
                             current_key = item.strip('.')
                             structured_dict[current_key] = ''
                         elif current_key is not None:
-                            structured_dict[current_key] += f' {item}'
+                            structured_dict[current_key] += f'{item} '
                     foundation[title_contents][idx] = {key: structured_dict}
             return foundation
         
