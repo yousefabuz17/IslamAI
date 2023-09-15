@@ -3,7 +3,7 @@ import json
 import re
 import threading
 from collections import (OrderedDict, namedtuple)
-from concurrent.futures import ThreadPoolExecutor, wait
+from concurrent.futures import ThreadPoolExecutor
 from configparser import ConfigParser
 from copy import deepcopy
 from dataclasses import dataclass
@@ -26,9 +26,30 @@ from rapidfuzz import (fuzz, process)
 from tqdm import tqdm
 from unidecode import unidecode
 from string import ascii_lowercase
-
 # import tracemalloc
 
+'''
+IslamAI - Data Collection Module
+
+This file, ai_data.py, serves as the backbone of my `IslamAI` project's data collection process.
+It houses a diverse set of structured classes, each tailored to interact with specific, authentic data sources.
+While these classes won't directly participate in the core functionality of my program, they play a crucial role in gathering and organizing data.
+
+My comprehensive toolset includes asynchronous data fetching, text processing, and even advanced string matching algorithms.
+Employs multi-threading for efficiency, ensuring that data retrieval remains swift and scalable.
+The configuration and caching mechanisms optimize performance, while the progress tracking with tqdm keeps us informed of the process.
+
+Notes:
+    ~ It's worth noting that the inclusion of tqdm serves as a temporary debugging aid to track the process's progress.
+    ~ tqdm slows the extraction process
+    ~ Did not leave any memorable comments for help. File is not for showcasing.
+
+This file stands as a testament to the unwavering commitment of both myself and all collaborators and contributors involved.
+It signifies the first step towards building a robust and intelligent system for our users.
+
+All data parsed at once average time:
+    ~5-6 minutes
+'''
 
 class ConfigInfo:
     _config = None
@@ -39,7 +60,7 @@ class ConfigInfo:
             setattr(self, key, value)
 
     @classmethod
-    @lru_cache(maxsize=None)
+    @lru_cache(maxsize=1)
     def _get_config(cls, key='Database'):
         config_parser = ConfigParser()
         config_parser.read(Path(__file__).parent.absolute() / 'config.ini')
@@ -61,6 +82,7 @@ class SingletonMeta(type):
 
 @dataclass
 class BaseAPI(metaclass=SingletonMeta):
+    '''Class for flexible methods'''
     config: None=ConfigInfo('Database')
     path: None=Path(__file__).parent.absolute() / 'islamic_data'
     
@@ -83,8 +105,8 @@ class BaseAPI(metaclass=SingletonMeta):
     def _extractor(pdf, **kwargs):
         #^ PDF Files only
         '''
-        pdf: 
-        kwargs: maxpages, page_numbers
+        :pdf: PDF file name as str
+        :kwargs: maxpages, page_numbers -> range(start,end)
         '''
         default_values = (0, None)
         maxpages, page_numbers = tuple(kwargs.get(key, default_values[i]) for i, key in enumerate(('maxpages', 'page_numbers')))
@@ -97,12 +119,19 @@ class BaseAPI(metaclass=SingletonMeta):
             clean_pdf = ''.join([j.get_text() for i in pdf_file for j in i if hasattr(j, 'get_text')]).split('\n')
             return clean_pdf
     
+    def _get_page(self, file, start=None, end=None):
+        return self._extractor(file, maxpages=start) if not end else self._extractor(file, page_numbers=range(start,end))
+    
     @lru_cache(maxsize=1)
     @staticmethod
     def _load_file(path, name, mode='r', encoding='utf-8', type_='json', folder='jsons'):
         #!> Modify for flexibility
         return json.load(open(path / folder / f'{name}.{type_}', mode=mode, encoding=encoding))
-
+    
+    @classmethod
+    def _exporter(cls, contents, name, e_string=False):
+        with open(cls.path / 'jsons' / f'{name}.json', mode='w', encoding='utf-8') as file:
+            json.dump(contents, file, indent=4, ensure_ascii=False)
 
 class QuranAPI(BaseAPI):
     def __init__(self):
@@ -171,8 +200,7 @@ class QuranAPI(BaseAPI):
                 for stat in chart.graph(label='\t\t\t\t Quran Statistics',data=stats):
                     print(stat)
             if export:
-                with open(self.path / 'jsons' / 'quran_stats.json', mode='w', encoding='utf-8') as file:
-                    json.dump(updated_stats, file, indent=4, ensure_ascii=False)
+                return self._exporter(updated_stats, 'quran_stats')
             else:
                 new_stats = self._format_stats(stats, type_=dict, format_=1)
                 return new_stats
@@ -237,8 +265,7 @@ class QuranAPI(BaseAPI):
             all_contents = await _fix_surah_contents()
             surahs[response.pop('id')] = all_contents
         if export:
-            with open(self.path / 'jsons' / 'list_of_surahs.json', mode='w', encoding='utf-8') as file:
-                json.dump(surahs, file, indent=4, ensure_ascii=False)
+            return self._exporter(surahs, 'list_of_surahs')
         return surahs
 
     @classmethod
@@ -440,9 +467,7 @@ class IslamFacts(QuranAPI):
                                     }
         del all_contents
         if export:
-            with open(self.path / 'jsons' / 'list_allah_names.json', mode='w', encoding='utf-8') as file:
-                json.dump(merged_contents, file, indent=4, ensure_ascii=False)
-            return merged_contents
+            return self._exporter(merged_contents, 'list_allah_names')
         return merged_contents
     
     async def islamic_terms(self, export=False):
@@ -482,9 +507,7 @@ class IslamFacts(QuranAPI):
         
         full_dictionary = await _extract_all()
         if export:
-            with open(self.path / 'jsons' / 'islamic-terms.json', mode='w', encoding='utf-8') as file:
-                json.dump(full_dictionary, file, indent=4, ensure_ascii=False)
-            return full_dictionary
+            return self._exporter(full_dictionary, 'islamic-terms')
         return full_dictionary
         
 
@@ -539,10 +562,7 @@ class PrayerAPI(QuranAPI):
                                 'longitutde': long,
                                 'qibla_dir': qibla_dir}
         if export:
-            with open(self.path / 'jsons' / 'qibla_data.json', mode='w', encoding='utf-8') as file:
-                json.dump(qibla_data, file, indent=4, ensure_ascii=False)
-                file.close()
-            return qibla_data
+            return self._exporter(qibla_data, 'qibla_data')
         else:
             return qibla_data
 
@@ -853,7 +873,6 @@ class ProphetMuhammad(QuranAPI):
                 cleaned_contents = [i for i in glossary_contents if i and not re.match(r'\d{2}', i)]
                 return cleaned_contents
             
-            
             gloss_contents = _clean_gloss()
             abd_allah = gloss_contents[0], ' '.join(gloss_contents[1:3])
             abd_ibn_1 = gloss_contents[3].split('   ')[0]+'-1', gloss_contents[3].split('   ')[1]
@@ -958,9 +977,7 @@ class ProphetMuhammad(QuranAPI):
         del (title_page, chapters, glossary)
         
         if export:
-            with open(self.path / 'jsons' / 'life_of_prophet_muhammad.json', mode='w', encoding='utf-8') as file:
-                json.dump(full_book, file, indent=4, ensure_ascii=False)
-            return full_book
+            return self._exporter(full_book, 'life_of_prophet_muhammad')
         return full_book
 
 class IslamicStudies(QuranAPI):
@@ -994,9 +1011,7 @@ class IslamicStudies(QuranAPI):
             all_contents['Credits'] = credentials
             
             if export:
-                with open(self.path / 'jsons' / 'islamic_timeline.json', mode='w', encoding='utf-8') as file:
-                    json.dump(all_contents, file, indent=4, ensure_ascii=False)
-                return all_contents
+                return self._exporter(all_contents, 'islamic_timeline')
             return all_contents
         
         html_file = open(self.path / 'htmls' / 'Timeline (History of Islam).html', mode='r', encoding='utf-8').read()
@@ -1046,9 +1061,7 @@ class IslamicStudies(QuranAPI):
         del docx
         
         if export:
-            with open(self.path / 'jsons' / 'islamic-laws.json', mode='w', encoding='utf-8') as file:
-                json.dump(structured_contents, file, indent=4, ensure_ascii=False)
-            return structured_contents
+            return self._exporter(structured_contents, 'islamic-laws')
         return structured_contents
     
     async def road_peace_html(self, export=False):
@@ -1138,21 +1151,48 @@ class IslamicStudies(QuranAPI):
 class IslamPrayer(QuranAPI):
     
     @staticmethod
-    def _get_indexes(page, pattern):
-        norm_indexes = [(idx, i) for idx,i in enumerate(page) if re.search(pattern, i)]
-        grouped_index = [(norm_indexes[i], norm_indexes[i + 1]) for i in range(0, len(norm_indexes)-1)]
+    def _get_indexes(page, pattern=None, found=False):
+        if pattern:
+            norm_indexes = [(idx, i) for idx,i in enumerate(page) if re.search(pattern, i)]
+            grouped_index = [(norm_indexes[i], norm_indexes[i + 1]) for i in range(0, len(norm_indexes)-1)]
+        if found:
+            '''Mainly for wudu-foundations'''
+            norm_indexes = [(idx, i) for idx,i in enumerate(page) if i.isupper()]
+            grouped_index = [(norm_indexes[i], norm_indexes[i + 1]) for i in range(0, len(norm_indexes)-1)]
         norm_indexes.append(((norm_indexes[-1]), (len(page),norm_indexes[-1][-1])))
         grouped_index.append(((grouped_index[-1][-1]), (len(page),grouped_index[-1][-1][-1])))
         return grouped_index, norm_indexes
     
-    async def wudu_guide(self, export=False):
-        def _get_page(file, start=None, end=None):
-            page_contents = self._extractor(file, maxpages=start) if not end else self._extractor(file, page_numbers=range(start,end))
-            cleaned_page = [i for i in page_contents if re.search(r'\w+', i) and not re.match(r'(?:\d{1,2})|(?:How to Perform Wudu\’ \(Step-by-Step\))', i)]
-            return cleaned_page
+    async def get_wudu(self, export=False):
+        def _cleaner(page_contents):
+            return [i for i in page_contents if re.search(r'\w+', i) and not re.match(r'(?:\d{1,2})|(?:How to Perform Wudu\’ \(Step-by-Step\))', i)]
+        
+        async def _wudu_foundations():
+            page = self._get_page(wudu_guide, 10, 11)[:-1]
+            title_contents = page.pop(0)
+            indexes = self._get_indexes(page, found=True)[0]
+            foundation = {title_contents: {}}
+            for idx, (i,j) in enumerate(indexes, start=1):
+                start, end = i[0], j[0] if j[0] != len(page) else len(page)
+                key = i[1].title()
+                contents = _get_contents(page, start, end)
+                foundation[title_contents][idx] = {key: list(contents.split('  '))}
+                if idx==3:
+                    structured_dict = {}
+                    current_key = None
+                    contents = list(contents.split()[:-1])[:-2]
+                    for item in contents:
+                        if re.match(r'(?:\d{1})\.', item):
+                            current_key = item.strip('.')
+                            structured_dict[current_key] = ''
+                        elif current_key is not None:
+                            structured_dict[current_key] += f' {item}'
+                    foundation[title_contents][idx] = {key: structured_dict}
+            return foundation
         
         async def _title_contents():
-            page = _get_page(wudu_guide, 11, 12)
+            page_ = self._get_page(wudu_guide, 11, 12)
+            page = _cleaner(page_)
             wudu_title_contents = [page.pop(0).rstrip() for _ in range(3)][::2]
             return wudu_title_contents
         
@@ -1172,7 +1212,8 @@ class IslamPrayer(QuranAPI):
             return steps
         
         async def _wudu_contents():
-            pages = [_get_page(wudu_guide, *i) for _,i in enumerate(((11,14), (14, 15)))]
+            pages_ = [self._get_page(wudu_guide, *i) for _,i in enumerate(((11,14), (14, 15)))]
+            pages = [_cleaner(i) for i in pages_]
             first_six, nine_ten = pages
             step_sev = first_six.index('Step 7 - Head')
             
@@ -1193,43 +1234,45 @@ class IslamPrayer(QuranAPI):
                 ten_idx = ten.find(label)
                 ten_cont = ten[ten_idx+len(label)+1:]
                 both_fixed[-1][label] = ten_cont
-                both_fixed[-1] = {idx: {key:value} for idx,(key,value) in enumerate(both_fixed[-1].items(), start=9)}
+                both_fixed[-1] = {idx: {key:list(value.split('  '))} for idx,(key,value) in enumerate(both_fixed[-1].items(), start=9)}
                 return both_fixed[-1]
             
             updated_six = first_six[3:step_sev]
             merged_pages = updated_six + nine_ten
+            sev_eight = _sev_eight()
             both_indexes = [self._get_indexes(i, r'Step \d{1,2}')[0] for _,i in enumerate((updated_six, nine_ten))]
             both_fixed = [_format_page(merged_pages, i) for i in both_indexes]
             both_fixed[-1] = _fix_ten()
-            both_fixed[0] = {idx: {key:value} for idx,(key,value) in enumerate(both_fixed[0].items(), start=1)}
+            both_fixed[0] = {idx: {key: list(value.split('  '))} for idx,(key,value) in enumerate(both_fixed[0].items(), start=1)}
+            both_fixed[0].update(sev_eight)
             both_fixed[0].update(both_fixed[-1])
-            both_fixed[0].update(_sev_eight())
-            wudu_contents = both_fixed[0]
+            wudu_contents = OrderedDict(both_fixed[0])
             return wudu_contents
         
         wudu_guide = self._get_file(path=self.path, file_name='salah-guide')
-        title_contents, wudu_contents = await asyncio.gather(
-                                        _title_contents(),
-                                        _wudu_contents()
-        )
-        wudu_contents = OrderedDict({**wudu_contents})
+        title_contents, wudu_contents, foundation = await asyncio.gather(
+                                                                _title_contents(),
+                                                                _wudu_contents(),
+                                                                _wudu_foundations()
+                                                                )
         
         def merge_all():
             title, desc = title_contents
-            all_merged = {title: {desc: {**wudu_contents}}}
+            all_merged = {
+                'Wudu-Guide': {
+                            'Introduction': {**foundation},
+                            title: {desc: {**wudu_contents}}
+                            }
+                        }
             return all_merged
         
         all_contents = merge_all()
         if export:
-            with open(self.path / 'jsons' / 'wudu-guide.json', mode='w', encoding='utf-8') as file:
-                json.dump(all_contents, file, indent=4, ensure_ascii=False)
-                print('Exported Wudu-Guide')
-            return all_contents
+            return self._exporter(all_contents, 'wudu-guide')
         return all_contents
 
-#^ Wudu JSON Structure
-#? {'How to perform wudu': {'THE FOLLOWING STEPS MUST BE OBSERVED IN ORDER (TARTEEB).': 'steps'}}
 
+    
 async def main():
     # tracemalloc.start()
 
@@ -1242,20 +1285,21 @@ async def main():
     # g = IslamicStudies()
     h = IslamPrayer()
     
-    async def run_all():
+    async def run_all(default):
         tasks = [asyncio.create_task(task) for task in [
-                    # d.extract_qibla_data(False),
-                    # a.extract_surahs(False),
-                    # b.get_all_hadiths(parser=False),
-                    # c.extract_allah_contents(False),
+                    # d.extract_qibla_data(default),
+                    # a.extract_surahs(default),
+                    # a.get_stats(export=default),
+                    # b.get_all_hadiths(parser=default),
+                    # c.extract_allah_contents(default),
                     # c.fun_fact(limit=18),
                     # e.extract_all_prophets(False),
                     # f.proph_muhammads_life(False),
-                    # g.islamic_timeline(False),
-                    # g.get_islam_laws(False),
+                    # g.islamic_timeline(default),
+                    # g.get_islam_laws(default),
                     # g.road_peace_html(False),
-                    # c.islamic_terms(False),
-                    h.wudu_guide(True)
+                    # c.islamic_terms(default),
+                    h.get_wudu(True)
                     ]]
         results = await asyncio.gather(*tasks)
         return results
@@ -1267,7 +1311,7 @@ async def main():
     # except Exception as e:
     #     traceback = tracemalloc.get_object_traceback(e)
     #     print(traceback)
-    results = await run_all()
+    results = await run_all(True)
     end = time()
     pprint(results)
     timer = (end-start)

@@ -1,78 +1,109 @@
 {
-    "How to Perform Wudu’": {
-        "THE FOLLOWING STEPS MUST BE OBSERVED IN ORDER (TARTEEB).": {
-            "1": {
-                "Step 1 - Bismillah": [
-                    "BEFORE WUDU’: Intention of making wudu’ should",
-                    "be done in the heart, then say: Bismillah (In the name of Allah) ِللها",
-                    "ِم ْسِب"
-                ]
-            },
-            "2": {
-                "Step 2 - Hands": [
-                    "Repeat 3 Times Completely wash the",
-                    "hands, including the",
-                    "wrists and between the",
-                    "fingers"
-                ]
-            },
-            "3": {
-                "Step 3 - Mouth": [
-                    "Repeat 3 Times Rinse the mouth. Using the right hand",
-                    "put a small amount of water into the",
-                    "mouth, swirl around, then expel."
-                ]
-            },
-            "4": {
-                "Step 4 - Nose": [
-                    "Repeat 3 Times Sniff water into the nostrils as far",
-                    "as possible with the right hand, and",
-                    "then sniff it out with left hand."
-                ]
-            },
-            "5": {
-                "Step 5 - Face": [
-                    "Repeat 3 Times Wash the face from forehead",
-                    "to chin, left earlobe to the right",
-                    "earlobe making sure the whole",
-                    "face is washed."
-                ]
-            },
-            "6": {
-                "Step 6 - Arms": [
-                    "Repeat 3 Times Wash the two arms up to and including",
-                    "the elbows, hand and between the",
-                    "fingers. Begin with the right arm."
-                ]
-            },
-            "9": {
-                "Step 9 – Feet": [
-                    "BEFORE WUDU’: Intention of making wudu’ should",
-                    "be done in the heart, then say: Bismillah (In the name of Allah)"
-                ]
-            },
-            "10": {
-                "Step 10 - Closing Du’a/Invocation": [
-                    "AFTER WUDU’: Say: Ash-hadu anllaa ilaaha illallaah wa ash-hadu",
-                    "anna Muhammadan ‘abduhu wa rasooluh (I bear witness that there is no God worthy of worship",
-                    "except Allah. And I bear witness that Muhammad is His",
-                    "slave and Messenger.) ُلو س ر و هُدْب"
-                ]
-            },
-            "7": {
-                "Step 7 - Head": [
-                    "Wipe the head with wet fingers ",
-                    "starting at the fringe to the back ",
-                    "hairline and back the same way all ",
-                    "in one movement. "
-                ]
-            },
-            "8": {
-                "Step 8 – Ears": [
-                    "Simultaneously wipe the insides of ",
-                    "both ears with index finger, and the ",
-                    "back of the ears with the thumbs "
-                ]
+    "Wudu-Guide": {
+        "Introduction": {
+            "Wudu’ Foundations": {
+                "1": {
+                    "The Importance Of Wudu": [
+                        "The Prophet Muhammad s said: “Salah (prayer) of",
+                        "anyone of you who has invalidated his/her purification",
+                        "is not accepted unless he/she makes wudu’’. (Bukhari)"
+                    ]
+                },
+                "2": {
+                    "The Virtues Of Wudu’": [
+                        "The Prophet Muhammad s said: “When the Muslim",
+                        "or believing servant performs ablution and washes",
+                        "his/her face, each sin he/she has committed by his/ her eyes washes away with the water. When he/she",
+                        "washes his/her hands, each sin his/her hands have",
+                        "committed washes away with the water – or with the",
+                        "last drop of water until he/she becomes free of sin.”",
+                        "(Malik and others)."
+                    ]
+                },
+                "3": {
+                    "Before Doing Wudu’": {
+                        "1": " Go to the toilet first (if required). You should use the toilet and then wash the private parts before performing wudu’.",
+                        "2": " It is good practice to clean the teeth with siwak (toothstick) or a toothbrush before performing wudu’ as taught by the Prophet Muhammad s.",
+                        "3": " Before starting the actions of wudu’, it is necessary to make your intention of washing to be for the purpose of wudu’ only."
+                    }
+                }
+            }
+        },
+        "How to Perform Wudu’": {
+            "THE FOLLOWING STEPS MUST BE OBSERVED IN ORDER (TARTEEB).": {
+                "1": {
+                    "Step 1 - Bismillah": [
+                        "BEFORE WUDU’: Intention of making wudu’ should",
+                        "be done in the heart, then say: Bismillah (In the name of Allah) ِللها",
+                        "ِم ْسِب"
+                    ]
+                },
+                "2": {
+                    "Step 2 - Hands": [
+                        "Repeat 3 Times Completely wash the",
+                        "hands, including the",
+                        "wrists and between the",
+                        "fingers"
+                    ]
+                },
+                "3": {
+                    "Step 3 - Mouth": [
+                        "Repeat 3 Times Rinse the mouth. Using the right hand",
+                        "put a small amount of water into the",
+                        "mouth, swirl around, then expel."
+                    ]
+                },
+                "4": {
+                    "Step 4 - Nose": [
+                        "Repeat 3 Times Sniff water into the nostrils as far",
+                        "as possible with the right hand, and",
+                        "then sniff it out with left hand."
+                    ]
+                },
+                "5": {
+                    "Step 5 - Face": [
+                        "Repeat 3 Times Wash the face from forehead",
+                        "to chin, left earlobe to the right",
+                        "earlobe making sure the whole",
+                        "face is washed."
+                    ]
+                },
+                "6": {
+                    "Step 6 - Arms": [
+                        "Repeat 3 Times Wash the two arms up to and including",
+                        "the elbows, hand and between the",
+                        "fingers. Begin with the right arm."
+                    ]
+                },
+                "7": {
+                    "Step 7 - Head": [
+                        "Wipe the head with wet fingers ",
+                        "starting at the fringe to the back ",
+                        "hairline and back the same way all ",
+                        "in one movement. "
+                    ]
+                },
+                "8": {
+                    "Step 8 – Ears": [
+                        "Simultaneously wipe the insides of ",
+                        "both ears with index finger, and the ",
+                        "back of the ears with the thumbs "
+                    ]
+                },
+                "9": {
+                    "Step 9 – Feet": [
+                        "BEFORE WUDU’: Intention of making wudu’ should",
+                        "be done in the heart, then say: Bismillah (In the name of Allah)"
+                    ]
+                },
+                "10": {
+                    "Step 10 - Closing Du’a/Invocation": [
+                        "AFTER WUDU’: Say: Ash-hadu anllaa ilaaha illallaah wa ash-hadu",
+                        "anna Muhammadan ‘abduhu wa rasooluh (I bear witness that there is no God worthy of worship",
+                        "except Allah. And I bear witness that Muhammad is His",
+                        "slave and Messenger.) ُلو س ر و هُدْب"
+                    ]
+                }
             }
         }
     }
