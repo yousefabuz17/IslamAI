@@ -9,12 +9,12 @@ from webargs.flaskparser import use_args
 #** (pathlib, json, concurrent)
 from .data_loader import *
 
-main_endpoint, api_endpoint = '/islam-ai/v1/data', '/api/v1'
+main_endpoint, api_endpoint = '/islam-ai/v1/index', '/api/v1'
 ai_bp = Blueprint('ai_blueprint', __name__, url_prefix=main_endpoint)
 ai_api = Api(ai_bp)
 
 islamic_data = {
-    f'Main Endpoint for all (/api/v1)': {
+    f'Primary Endpoint `/api/v1`': {
     1: {
         "api": "Quran",
         "desc": "Quran verses/translations/keywords",
@@ -22,9 +22,11 @@ islamic_data = {
         'endpoints': [
                     '/index',
                     '/stats',
-                    '/search?surah_id=None&author=None',
-                    '/translate?surah_id=None&lang=None'
-                    ]},
+                    '/search?surahID=None&author=None',
+                    '/translate?surahID=None&lang=None',
+                    #^ Keyword: Find total count of given keyword
+                    ]
+        },
     2: {
         "api": "All Hadiths",
         "desc": "List of hadiths by author",
@@ -73,10 +75,10 @@ ai_api.add_resource(AIResource, '/')
 #!>  Main Quran API Endpoint (/quran)
 #**     - url_prefix for all quran=(/quran)
 #?      - JSON of all 114 surahs
-#!      Quran Verse (/<int: surah_id>)
+#!      Quran Verse (/<int: surahID>)
 #?          - JSON of surahs full contents
 #!      Quran Translate Only (/translate/<str: language>)
-#**         - url_prefix = (/<int: surah_id>/translate/<str: language>)
+#**         - url_prefix = (/<int: surahID>/translate/<str: language>)
 #**         - languages only for now: ['ar', 'en']
 #?          - JSON or str of the surah in specified language
 #!      Quran Authors (/authors)

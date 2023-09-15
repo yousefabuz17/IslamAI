@@ -7,37 +7,39 @@ quran_api = Api(quran_bp, prefix='/quran')
 quran_file = all_files['list_of_surahs']
 quran_stats = all_files['quran_stats']
 
-surah_ids = {str(values['id']): values['surah_name'] for _, (_keys, values) in enumerate(quran_file.items(), start=1)}
+surahIDs = {str(values['id']): values['surah_name'] for _, (_keys, values) in enumerate(quran_file.items(), start=1)}
 surah_authors = list(nested('verses', quran_file['1'])[0].keys())
 
 quran_index = {
-                'message': 'Redirect to `/api/quran/index` endpoint for more reference',
+                'message': 'Redirect to `/index` endpoint for more reference',
                 'status': 302,
-                'location': '/api/quran/index',
-                'quran-endpoints': [
-                                    '/index',
-                                    '/stats',
-                                    '/search?surah_id=None&author=None',
-                                    '/translate?surah_id=None&lang=None'
-                                    ]
+                'location': '/api/quran/index'
             }, 302
 
 class QuranIndex(Resource):
     def get(self):
         return {
-                'message': 'Quran Index Page',
-                'status': '200',
-                'all-endpoints': '',
+                'message': 'Quran API Reference Page',
+                'status': 200,
+                'api_endpoint': '/api/quran',
+                'quran-endpoints': [
+                                    '/index',
+                                    '/stats',
+                                    '/search?surahID=None&author=None',
+                                    '/translate?surahID=None&lang=None',
+                                    '/keyword'
+                                    ],
                 'author-translators': surah_authors,
-                'languages': {
+                'supported_languages': {
                             'Arabic': 'ar',
                             'English': 'en',
-                            'Transliteration': 'trans'
+                            'Transliteration': 'translit'
                             },
-                'surah-id': surah_ids
+                'surah-ids': surahIDs
                 }
+
 class SurahRequestSchema(Schema):
-    surah_id = fields.Int(required=False)
+    surahID = fields.Int(required=False)
     author = fields.Str(required=False)
     lang = fields.Str(requires=False)
 
@@ -45,16 +47,16 @@ class SurahContentsResource(Resource):
     @use_args(SurahRequestSchema(), location="query")
     def get(self, args):
         
-        surah_id = str(args.get('surah_id'))
+        surahID = str(args.get('surahID'))
         author = args.get('author')
         
         if args is None:
             return quran_index
         try:
-            if surah_id not in surah_ids.keys():
+            if surahID not in surahIDs.keys():
                 return quran_index
             
-            surah_content = quran_file.get(surah_id)
+            surah_content = quran_file.get(surahID)
             if not author:
                 return surah_content
             else:
@@ -71,30 +73,40 @@ class SurahLangResource(Resource):
     @use_args(SurahRequestSchema(), location="query")
     def get(self, args):
         #** Available at the moment for only Sahih International
+        #** Other authors only has translations in EN for now.
         #^ 'ar', 'en', 'trans'
-        surah_id = str(args.get('surah_id'))
+        surahID = str(args.get('surahID'))
         lang = args.get('lang')
-        
-        def grabber(key):
-            return nested(key, nested('Sahih International', surah_content)[0])[:]
         
         if args is None:
             return quran_index
+        
+        def grabber(key, extractor=False):
+            if not extractor:
+                return {key: nested(key, surah_content)[0]}
+            return {key: nested(key, nested('Sahih International', surah_content)[0])}
+        
         try:
-            surah_content = quran_file.get(surah_id)
+            surah_content = quran_file.get(surahID)
             match lang:
                 case 'ar':
-                    return grabber('translation_ar')
+                    return grabber('full_surah_ar')
                 case 'en':
-                    return grabber('translation_eng')
-                case 'trans':
-                    return grabber('transliteration')
+                    return grabber('full_surah_en')
+                case 'translit':
+                    return grabber('translation_eng', extractor=True)
         except ValueError:
             abort(400, message="Invalid paramters")
 
 class QuranStatsResource(Resource):
     def get(self):
         return quran_stats
+
+class QuranKeywordResource(Resource):
+    @use_args(SurahRequestSchema(), location="query")
+    def get(self, args):
+        keyword = args.get('keyword')
+        total = args.get('total')
 
 class CustomJSONEncoder(json.JSONEncoder):
     def __init__(self, *args, **kwargs):
@@ -115,3 +127,4 @@ quran_api.add_resource(QuranIndex, '/index')
 quran_api.add_resource(SurahContentsResource, '/search')
 quran_api.add_resource(QuranStatsResource, '/stats')
 quran_api.add_resource(SurahLangResource, '/translate')
+# quran_api.add_resource(SurahLangResource, '/keyword')

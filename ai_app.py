@@ -16,7 +16,8 @@ app.register_blueprint(quran_bp)
 def ai_index():
     return {
             'message': 'API is running',
-            'status': 200
+            'status': 200,
+            'api-index': '/islam-ai/v1/index'
             }
 
 class MyHandler(FileSystemEventHandler):
@@ -30,5 +31,5 @@ if __name__ == '__main__':
     observer.schedule(MyHandler(), path='.', recursive=True)
     observer.start()
     
-    app.run(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 5000)), use_reloader=True)
+    app.run(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
 
