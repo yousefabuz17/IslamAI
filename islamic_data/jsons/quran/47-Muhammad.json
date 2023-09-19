@@ -283,7 +283,46 @@
             "czech": {
                 "translators": {
                     "1": {
-                        "null": {}
+                        "null": {
+                            "verse 47:1": "Těm, kdož neuvěřili a odchylují jiné z cesty Boží, nechá Bůh díla jejich zbloudit.",
+                            "verse 47:2": "Avšak těm, kdož uvěřili a zbožné skutky konali a uvěřili v to, co bylo sesláno Muhammadovi - a to pravda je od Boha pocházející - těm Bůh vymaže špatné činy jejich a napraví myšlení jejich.",
+                            "verse 47:3": "A to proto, že ti, kdož neuvěřili, následovali nicotné, zatímco ti, kdož uvěřili, následovali pravdu od Pána jejich pocházející.",
+                            "verse 47:4": "A když se střetnete s nevěřícími, udeřte je do šíjí, a až jim způsobíte úplnou porážku, pevně je spoutejte! A potom je buď omilostněte, anebo je propusťte za výkupné, pokud válka neodloží své břímě.",
+                            "verse 47:5": "On správnou cestou je povede a napraví jejich myšlení",
+                            "verse 47:6": "a uvede je do zahrady rajské, o níž jim dal již vědění.",
+                            "verse 47:7": "Vy, kteří věříte! Pomůžete-li Bohu, On zajisté pomůže vám a upevní paty vaše!",
+                            "verse 47:8": "Na ty však, kdož neuvěřili, nechť padne neštěstí a nechť Bůh dá zbloudit dílům jejich!",
+                            "verse 47:9": "A to proto, že nenáviděli to, co seslal Bůh, a marné bude jejich konání.",
+                            "verse 47:10": "Což necestovali po zemi a neviděli, jaký byl konec těch, kdož před nimi byli? Bůh je zahubil a podobně se stane i nevěřícím.",
+                            "verse 47:11": "A to proto, že Bůh je ochráncem těch, kdož uvěřili, zatímco nevěřící nebudou mít ochránce žádného.",
+                            "verse 47:12": "Bůh věru uvede ty, kdož uvěřili a zbožné skutky konali, do zahrad, pod nimiž řeky tekou, zatímco nevěřící, kteří si užívají a jako dobytek se přecpávají, oheň pekelný budou mít za útulek.",
+                            "verse 47:13": "A kolik měst, jež byla mocnější silou, než je město tvé, které tě vyhnalo, jsme již zahubili, a neměla pomocníka žádného.",
+                            "verse 47:14": "Což je ten, jenž důkaz jasný má od Pána svého, roven tomu, jemuž byla zkrášlena špatnost činů jeho, a těm, kdož vášně své následují?",
+                            "verse 47:15": "Obraz zahrady rajské, jež přislíbena byla bohabojným: v ní řeky jsou s vodou, jež nezahnívá, a řeky mléka, jehož chuť je neměnná, a řeky vína, jež rozkoší je pijícím, a řeky medu očištěného.",
+                            "verse 47:16": "A jsou mezi nimi někteří, kdož ti naslouchají, avšak když od tebe odejdou, ptají se těch, jimž dostalo se vědění: \"Co to vlastně před chvílí povídal?\" A to jsou ti, jichž srdce Bůh zapečetil a kteří následují učení svá scestná.",
+                            "verse 47:17": "Však těm, kdož po cestě správné jsou vedeni, těm Bůh posílí jejich vedení a dá jim bázeň Boží.",
+                            "verse 47:18": "Což mohou očekávat něco jiného, než že Hodina k nim znenadání přikvačí, když již se objevily její příznaky? K čemu bude jim dobré její připomínání, až na ně udeří?",
+                            "verse 47:19": "Věz tedy, že není božstva kromě Boha, a pros za odpuštění vin svých i vin mužů a žen věřících! Bůh dobře ví o přecházení vašem a zná i konečný příbytek váš.",
+                            "verse 47:20": "A říkají ti, kdož uvěřili: \"Proč nebyla seslána nějaká súra?\" A když je seslána súra moudře stanovená a je v ní zmíněn boj, tu vidíš ty, v jichž srdcích je choroba, dívat se na tebe pohledem člověka obestřeného mrákotami předsmrtnými.",
+                            "verse 47:21": "poslušnost a řeč vhodná.",
+                            "verse 47:22": "A je možné, že obrátíte-li se zády, budete šířit pohoršení na zemi a narušíte pokrevní svazky své.",
+                            "verse 47:23": "Toto jsou ti, jež Bůh proklel, hluchými je učinil a zraky jejich oslepil.",
+                            "verse 47:24": "Což nebudou uvažovat o Koránu či jsou snad na srdcích jejich zámky?",
+                            "verse 47:25": "Věru ty, kdož kroky své nazpět obrátili poté, co objasněno jim bylo správné vedení, ty satan svedl a našeptal jim jejich počínání.",
+                            "verse 47:26": "A to proto, že říkají těm, kterým se hnusí to, co Bůh seslal: \"Budeme vás poslouchat ve věcech některých.",
+                            "verse 47:27": "A jak jim bude, až andělé je povolají, bijíce je po tvářích a po zádech jejich!",
+                            "verse 47:28": "A to proto, že následovali to, co hněvá Boha, a nenáviděli to, co se Mu líbí; a učinil marnými skutky jejich.",
+                            "verse 47:29": "Či se domnívají ti, v jichž srdcích je choroba, že Bůh nenávist jejich neodkryje?",
+                            "verse 47:30": "Kdybychom chtěli, ukázali bychom ti je a věru bys je poznal podle známek jejich; avšak ty poznáš je určitě podle popletené řeči jejich.",
+                            "verse 47:31": "A věru vás budeme zkoušet, abychom rozpoznali mezi vámi ty, kdož usilovně se snaží a jsou trpěliví, a abychom prozkoumali zprávy o vás.",
+                            "verse 47:32": "Věru ti, kdož neuvěřili a od cesty Boží se odvrátili a od posla se odloučili, když už jim bylo objasněno správné vedení, neuškodí v ničem Bohu, jenž marnými učiní skutky jejich.",
+                            "verse 47:33": "Vy, kteří věříte! Poslouchejte Boha a poslouchejte posla jeho a nečiňte nicotným konání své!",
+                            "verse 47:34": "Věru těm, kdož neuvěřili a od cesty Boží jiné odvraceli a potom jako nevěřící zemřou, Bůh neodpustí.",
+                            "verse 47:35": "Neochabujte a nevybízejte k míru, když máte převahu, vždyť Bůh je s vámi a On neošidí vás o dobré skutky vaše.",
+                            "verse 47:36": "Život pozemský je pouze hra a zábava; jestliže věříte a bojíte se Boha, On dá vám odměny vaše a nebude žádat na vás majetky vaše.",
+                            "verse 47:37": "A kdyby je na vás žádal a nutil vás, stali byste se lakotnými a On odkryl by zlobu vaši.",
+                            "verse 47:38": "Hle, takoví jste - jste vyzýváni, abyste rozdávali na cestě Boží, avšak mezi vámi jsou lakomci."
+                        }
                     }
                 }
             },
