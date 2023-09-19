@@ -1,5 +1,23 @@
 {
-    "surah_name": "Al-Fâtihah",
+    "id": 1,
+    "name_simple": "Al-Fatihah",
+    "revelation_place": "makkah",
+    "revelation_order": 5,
+    "bismillah_pre": false,
+    "verses_count": 7,
+    "source": "Sayyid Abul Ala Maududi - Tafhim al-Qur'an - The Meaning of the Quran",
+    "short_text": "This Surah is named Al-Fatihah because of its subject matter. Fatihah is that which opens a subject or a book or any other thing. In other words, Al-Fatihah is a sort of preface.",
+    "text": [
+        "This Surah is named Al-Fatihah because of its subject matter. Fatihah is that which opens a subject or a book or any other thing. In other words, Al-Fatihah is a sort of preface.",
+        "Period of Revelation",
+        "Surah Al-Fatihah is one of the very earliest Revelations to the Holy Prophet. As a matter of fact, we learn from authentic traditions that it was the first complete Surah that was revealed to Muhammad (Allah's peace be upon him). Before this, only a few miscellaneous verses were revealed which form parts of Alaq, Muzzammil, Muddaththir, etc.",
+        "Theme",
+        "This Surah is in fact a prayer that Allah has taught to all those who want to make a study of His book. It has been placed at the very beginning of the Quran to teach this lesson to the reader: if you sincerely want to benefit from the Quran, you should offer this prayer to the Lord of the Universe.",
+        "This preface is meant to create a strong desire in the heart of the reader to seek guidance from the Lord of the Universe Who alone can grant it. Thus Al-Fatihah indirectly teaches that the best thing for a man is to pray for guidance to the straight path, to study the Quran with the mental attitude of a seeker searching for the truth, and to recognize the fact that the Lord of the Universe is the source of all knowledge. He should, therefore, begin the study of the Quran with a prayer to Him for guidance.",
+        "From this theme, it becomes clear that the real relation between Al-Fatihah and the Quran is not that of an introduction to a book but that of a prayer and its answer. Al-Fatihah is the prayer from the servant and the Quran is the answer from the Master to the servant's prayer. The servant prays to Allah to show him guidance and the Master places the whole of the Quran before him in answer to his prayer, as if to say, \"This is the Guidance you begged from Me.\""
+    ],
+    "description": "The surah that is The Opening to the Quran and the straight way of God. Another common name of the surah is The [Lord’s] Praise (al-Ḥamd). It is seen to be a precise table of contents of the Quranic message and is important in Islamic worship, being an obligatory part of the daily prayer, repeated several times during the day.The surah is also known as: The Exordium, The Opening Chapter, The Opening of the Book, The Prologue.",
+    "name_complex": "Al-Fâtihah",
     "surah_name_ar": "الفاتحة",
     "verses": {
         "languages": {

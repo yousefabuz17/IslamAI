@@ -1,5 +1,21 @@
 {
-    "surah_name": "Al-‘Asr",
+    "id": 103,
+    "name_simple": "Al-'Asr",
+    "revelation_place": "makkah",
+    "revelation_order": 13,
+    "bismillah_pre": true,
+    "verses_count": 3,
+    "source": "Sayyid Abul Ala Maududi - Tafhim al-Qur'an - The Meaning of the Quran",
+    "short_text": "The Surah takes its name from the word al-'asr occurring in the first verse.",
+    "text": [
+        "The Surah takes its name from the word al-'asr occurring in the  first verse .",
+        "Period of Revelation",
+        "Although Mujahid, Qatadah and Muqatil regard Surah Al-'Asr as a Madani Surah, a great majority of the commentators opine that it is Makki; its subject matter also testifies that it must have been sent down in the earliest stage in Makkah, when the message of Islam was being presented in brief but highly impressive sentences so that the listeners who heard them once could not forget them even if they wanted to, for they were automatically committed to memory.",
+        "Theme and Subject Matter",
+        "This Surah is a inimitable specimen of comprehensiveness and brevity. A whole world of meaning has been compressed into its few brief words, which is too vast in content to be fully expressed even in a book. In the surah, in a clear and plain way, the way to true success for man and the way to ruin and destruction for him have both been stated. Imam Ash Shafi'i has very rightly said that if the people only considered this Surah well, it alone would suffice them for their guidance. How important this Surah was in the sight of the Companions can be judged from the tradition cited from Hadrat Abdullah bin Hisn ad-Darimi Abu Madinah, according to which whenever any two of them met, they would not part company until they had recited Surah Al-Asr to each other. (Tabarani)"
+    ],
+    "description": "The surah that opens with the oath of the Divine One swearing by the decline of Time and humankind’s absolute loss of every single thing but righteousness, truth, patience, and faith. It takes its name from the phrase “by time” (wal- ʿāṣr) as mentioned in verse 1. The surah shows the way to salvation. The image of a declining day suggests the stage in the day, or in life, when only a short while is left for those wishing to make up for lost time.The surah is also known as: Afternoon, The Decline of Time, The Declining Day, The Epoch, The Late Afternoon, Time and Age, Time through the Ages.",
+    "name_complex": "Al-‘Asr",
     "surah_name_ar": "العصر",
     "verses": {
         "languages": {

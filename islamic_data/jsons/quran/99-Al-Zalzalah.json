@@ -1,5 +1,21 @@
 {
-    "surah_name": "Al-Zalzalah",
+    "id": 99,
+    "name_simple": "Az-Zalzalah",
+    "revelation_place": "madinah",
+    "revelation_order": 93,
+    "bismillah_pre": true,
+    "verses_count": 8,
+    "source": "Sayyid Abul Ala Maududi - Tafhim al-Qur'an - The Meaning of the Quran",
+    "short_text": "The name of this surah is derived from the word zilzal in the first verse.",
+    "text": [
+        "It is derived from the word zilzal in the first verse.",
+        "Period of Revelation",
+        "Whether or not Surah Az-Zalzalah was revealed in Makkah or Madinah is disputed. Ibn Masud, Ata, Jabir, and Mjahid say that it is a Makki Surah and a statement of Ibn Abbas also supports this view. On the contrary, Qatadah and Muqatil say that it is Madani and another statement of Ibn Abbas also has been cited in support of this view. That it is a Madani Surah is reasoned from a tradition from Hadrat Abu Said Khudri, which Ibn Abi Hatim has related from him. He says: \"When the verse 'Fa-man ya mal mithqala dharratin khairan yarah, wa man ya mal mithqala dharratin sharran yarah', was revealed, I said: 'O Messenger of Allah, shall I really see my deeds?' The Holy Messenger replied in the affirmative. I submitted: 'And every major sin?' He replied 'yes.' I said: 'And the minor sins too?' He replied 'yes.' Thereupon I exclaimed that I would then be ruined. The Holy Prophet said: Rejoice, O Abu Sa'id, for each good act will be equal to ten good acts like it.\" The basis of the argument for this Surah being Madani is that Hadrat Abu Sa'ld Khudri was an inhabitant of Madinah and reached maturity after the Battle of Uhud. Therefore, if this Surah was revealed in his presence, as is apparent from his statement, it must be a Madani Surah. However, the practice that the Companions and their immediate successors followed in respect of the occasion of the revelation of the verses and Surahs, has already been explained in the Introduction to Surah Ad-Dahr above. Therefore, a Companion's saying that a verse was sent down on this or that particular occasion is no proof that it was sent down on that very occasion. It may well be that after coming of age, Hadrat Abu Sa'id heard this Surah for the first time from the Holy Prophet, terrified by its last portion, might have asked the Holy Prophet the questions which we have cited above, and he might have narrated the incident saying that when this verse was revealed he put this and this question to the Holy Prophet. In the absence of this tradition every reader who reads the Quran with understandings will feel that it is a Makki Surah. In addition, from its theme and style one would feel that it must have been sent down in the earliest stage at Makkah when the fundamental principles and beliefs of Islam were being presented before the people in a concise but highly effective manner.",
+        "Theme and Subject Matter",
+        "The surah's theme is the second life after death and presentation in it before man of the full record of the deeds done by him in the world. In the first three sentences it has been told briefly how the second life after death will take place and how confounding it will be for man. In the next two sentences it has been said that this very earth on which man has lived and performed all kinds of deeds thoughtlessly, and about which he never could imagine that this lifeless thing would at some point in the future bear witness to his deeds, will speak out on that Day by Allah's command and will state in respect of each individual person, what act he had committed at a particular time and place. Then, it has been said that men on that Day, rising from their graves, will come out in their varied groups from all corners of the earth, to be shown their deeds and works, and their presentation of the deeds will be so complete and detailed that not an atom's weight of any good or evil act will be left unnoticed or hidden from his eyes."
+    ],
+    "description": "The surah that opens with the mention of The Quake of the earth in utter destruction at the end of the world. It takes its name from “the quake” (al-zalzalah) mentioned in verse 1. The surah deals with scenes from the Day of Judgement.The surah is also known as: The Convulsion, The Earthquake, The Quaking, The Shaking, The Shock.",
+    "name_complex": "Al-Zalzalah",
     "surah_name_ar": "الزلزلة",
     "verses": {
         "languages": {
