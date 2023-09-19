@@ -1,0 +1,581 @@
+{
+    "surah_name": "At-Takâthur",
+    "surah_name_ar": "التكاثر",
+    "verses": {
+        "languages": {
+            "albanian": {
+                "translators": {
+                    "1": {
+                        "Efendi Nahi": {
+                            "verse 102:1": "Juve, u ka hutuar vrapimi (garimi), për pasuri (e fëmijë)",
+                            "verse 102:2": "deri sa të varroseni (vdisni).",
+                            "verse 102:3": "Gjithsesi, ju do ta kuptoni (këtë gabim)!",
+                            "verse 102:4": "E, madje edhe një herë, ju, me siguri, do ta kuptoni (këtë gabim)!",
+                            "verse 102:5": "Jo, jo! Mashtroheni, sikur ta dini ju mirë, (nuk do të mburreshit me kotësi).",
+                            "verse 102:6": "Ju do ta shihni skëterrën!",
+                            "verse 102:7": "E, (madje) edhe një herë, me të vërtetë, do ta shihni skëterrën konkretisht (qartë)!",
+                            "verse 102:8": "Pastaj, atë Ditë, do t’ju pyesin për kënaqësitë (e kësaj bote)! (qartë)!"
+                        }
+                    }
+                }
+            },
+            "azerbaijani": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "(Ey qafil insanlar!) Coxluq (mal-dövlət, oğul-uşaq və qohum-əqraba çoxluğu) ilə öyünmək sizi o qədər şirnikləndirdi (başınızı o qədər qatdı) ki,",
+                            "verse 102:2": "Hətta (məzarlarda yatan ölülərinizi sayıb, onların da çoxluğu ilə fəxr etməyiniz üçün) qəbirləri ziyarət etdiniz.",
+                            "verse 102:3": "Xeyr! (Belə yaramaz!).",
+                            "verse 102:4": "Xeyr, xeyr! (Belə yaramaz).",
+                            "verse 102:5": "Xeyr, əgər (qiyamət günü sizə nə ediləcəyini) tam yəqinliklə bilsəydiniz (fani dünya malına uymazdınız)!",
+                            "verse 102:6": "(Ey müşriklər! Qiyamət günü) siz o Cəhənnəmi mütləq görəcəksiniz!",
+                            "verse 102:7": "Bəli, siz (Cəhənnəmə vasil olduqdan sonra) onu mütləq öz gözünüzlə görəcəksiniz!",
+                            "verse 102:8": "Sonra da həmin gün (Allahın dünyada sizə əta etdiyi) ne'mətlər barəsində mütləq sorğu-sual olunacaqsınız!"
+                        }
+                    }
+                }
+            },
+            "bosnian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "Zaokuplja vas nastojanje da što imućniji budete",
+                            "verse 102:2": "sve dok grobove ne naselite.",
+                            "verse 102:3": "A ne valja tako, saznaćete svakako!",
+                            "verse 102:4": "i još jednom, ne valja tako! Saznaćete sigurno!",
+                            "verse 102:5": "Ne valja tako, neka znate pouzdano,",
+                            "verse 102:6": "Džehennem ćete vidjeti jasno!",
+                            "verse 102:7": "I još jednom, doista ćete ga vidjeti očigledno!",
+                            "verse 102:8": "Zatim ćete toga dana za sladak život biti pitani sigurno! očigledno!"
+                        }
+                    }
+                }
+            },
+            "bengali": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "প্রাচুর্যের লালসা তোমাদেরকে গাফেল রাখে,",
+                            "verse 102:2": "এমনকি, তোমরা কবরস্থানে পৌছে যাও।",
+                            "verse 102:3": "এটা কখনও উচিত নয়। তোমরা সত্ত্বরই জেনে নেবে।",
+                            "verse 102:4": "অতঃপর এটা কখনও উচিত নয়। তোমরা সত্ত্বরই জেনে নেবে।",
+                            "verse 102:5": "কখনই নয়; যদি তোমরা নিশ্চিত জানতে।",
+                            "verse 102:6": "তোমরা অবশ্যই জাহান্নাম দেখবে,",
+                            "verse 102:7": "অতঃপর তোমরা তা অবশ্যই দেখবে দিব্য প্রত্যয়ে,",
+                            "verse 102:8": "এরপর অবশ্যই সেদিন তোমরা নেয়ামত সম্পর্কে জিজ্ঞাসিত হবে। প্রত্যয়ে,"
+                        }
+                    }
+                }
+            },
+            "bulgarian": {
+                "translators": {
+                    "1": {
+                        "Tzvetan Theophanov": {
+                            "verse 102:1": "Увлича ви преумножаването,",
+                            "verse 102:2": "додето легнете в гробовете.",
+                            "verse 102:3": "Ала не! Ще узнаете.",
+                            "verse 102:4": "И пак не! Ще узнаете.",
+                            "verse 102:5": "Ала не, ако знаете с достоверното знание -",
+                            "verse 102:6": "ще видите Ада.",
+                            "verse 102:7": "После ще го видите с достоверен поглед.",
+                            "verse 102:8": "После ще бъдете питани в този Ден за насладите [на земята]."
+                        }
+                    }
+                }
+            },
+            "chinese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "競賽富庶 ,已使你們疏忽 ,",
+                            "verse 102:2": "直到你們去遊墳地。",
+                            "verse 102:3": "真的 ,你們將來就知道了。",
+                            "verse 102:4": "真的 ,你們將來就知道了。",
+                            "verse 102:5": "真的 ,假若你們有真知灼見 ,(你們必不疏忽) ,",
+                            "verse 102:6": "你們必定看見火獄 ,",
+                            "verse 102:7": "然後 ,你們必親眼看見它。",
+                            "verse 102:8": "在那日 ,你們必為恩澤而被審問。 ,你們必親眼看見它。"
+                        }
+                    }
+                }
+            },
+            "czech": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "Vy rádi v rozmnožování jmění soupeříte,",
+                            "verse 102:2": "pokud hroby nenavštívíte.",
+                            "verse 102:3": "Však pozor! Brzy poznáte!",
+                            "verse 102:4": "A znovu pozor! Brzy poznáte!",
+                            "verse 102:5": "Však pozor! Kéž zřetelným poznáním poznáte,",
+                            "verse 102:6": "a věru oheň planoucí uzříte",
+                            "verse 102:7": "a potom vskutku okem jistým jej spatříte",
+                            "verse 102:8": "a posléze v ten den na blahobyt tázáni budete! spatříte"
+                        }
+                    }
+                }
+            },
+            "dutch": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "Jacht naar vermeerdering van rijkdom (en kinderen) maakt u onachtzaam,",
+                            "verse 102:2": "Totdat u in uw graven nederdaalt.",
+                            "verse 102:3": "Neen - u zult weldra te weten komen,",
+                            "verse 102:4": "Nogmaals neen! U zult weldra te weten komen.",
+                            "verse 102:5": "Waarlijk, indien je de zekerheid van kennis bezit -",
+                            "verse 102:6": "Zul je zeker de hel zien.",
+                            "verse 102:7": "Ja, dan zul je haar met zekerheid van blik zien.",
+                            "verse 102:8": "Op die Dag zul je ondervraagd worden over de gaven."
+                        }
+                    }
+                }
+            },
+            "english": {
+                "translators": {
+                    "1": {
+                        "Marmaduke Pickthall": {
+                            "verse 102:1": "Rivalry in worldly increase distracteth you",
+                            "verse 102:2": "Until ye come to the graves.",
+                            "verse 102:3": "Nay, but ye will come to know!",
+                            "verse 102:4": "Nay, but ye will come to know!",
+                            "verse 102:5": "Nay, would that ye knew (now) with a sure knowledge!",
+                            "verse 102:6": "For ye will behold hell-fire.",
+                            "verse 102:7": "Aye, ye will behold it with sure vision.",
+                            "verse 102:8": "Then, on that day, ye will be asked concerning pleasure."
+                        }
+                    },
+                    "2": {
+                        "Abdullah Yusuf Ali": {
+                            "verse 102:1": "The mutual rivalry for piling up (the good things of this world) diverts you (from the more serious things),",
+                            "verse 102:2": "Until ye visit the graves.",
+                            "verse 102:3": "But nay, ye soon shall know (the reality).",
+                            "verse 102:4": "Again, ye soon shall know!",
+                            "verse 102:5": "Nay, were ye to know with certainty of mind, (ye would beware!)",
+                            "verse 102:6": "Ye shall certainly see Hell-Fire!",
+                            "verse 102:7": "Again, ye shall see it with certainty of sight!",
+                            "verse 102:8": "Then, shall ye be questioned that Day about the joy (ye indulged in!)."
+                        }
+                    },
+                    "3": {
+                        "Arthur J. Arberry": {
+                            "verse 102:1": "Gross rivalry diverts you,",
+                            "verse 102:2": "even till you visit the tombs.",
+                            "verse 102:3": "No indeed; but soon you shall know.",
+                            "verse 102:4": "Again, no indeed; but soon you shall know.",
+                            "verse 102:5": "No indeed; did you know with the knowledge of certainty,",
+                            "verse 102:6": "you shall surely see Hell;",
+                            "verse 102:7": "Again, you shall surely see it with the eye of certainty",
+                            "verse 102:8": "then you shall be questioned that day concerning true bliss."
+                        }
+                    },
+                    "4": {
+                        "Muhammad Asad": {
+                            "verse 102:1": "YOU ARE OBSESSED by greed for more and more",
+                            "verse 102:2": "until you go down to your graves.",
+                            "verse 102:3": "Nay, in time you will come to understand!",
+                            "verse 102:4": "And once again: Nay, in time you will come to understand!",
+                            "verse 102:5": "Nay, if you could but understand",
+                            "verse 102:6": "with an understanding",
+                            "verse 102:7": "of certainty,",
+                            "verse 102:8": "you would indeed, most surely, behold the blazing fire [of hell]!",
+                            "verse 102:9": "In the end you will indeed, most surely, behold it with the eye of certainty:",
+                            "verse 102:10": "and on that Day you will most surely be called to account for [what you did with] the boon of life!"
+                        }
+                    },
+                    "5": {
+                        "Martin Lings": {}
+                    },
+                    "6": {
+                        "Mufti Muhammad Taqi Uthmani": {
+                            "verse 102:1": "You are distracted by mutual competition in amassing (worldly benefits),",
+                            "verse 102:2": "until you reach the graves.",
+                            "verse 102:3": "No! (This is not a correct attitude.",
+                            "verse 102:4": "Again, you will soon know.",
+                            "verse 102:5": "No! Only if you knew (it) with a sure knowledge!",
+                            "verse 102:6": "You will certainly see the Hell,",
+                            "verse 102:7": "then you will see it with full certitude.",
+                            "verse 102:8": "Then you will be asked about all the pleasures (you enjoyed in the world)."
+                        }
+                    },
+                    "7": {
+                        "Royal Aal al-Bayt Institute Translation": {
+                            "verse 102:1": "Rivalry [in worldly things] distracts you",
+                            "verse 102:2": "until you visit the graves.",
+                            "verse 102:3": "No indeed! You will come to know!",
+                            "verse 102:4": "Again, no indeed! You will come to know.",
+                            "verse 102:5": "No indeed! Were you to know with certain knowledge",
+                            "verse 102:6": "you would surely see hell-fire.",
+                            "verse 102:7": "Again, you will surely see it with the eye of certainty.",
+                            "verse 102:8": "Then, on that day, you will assuredly be questioned about the comforts [of the world]."
+                        }
+                    },
+                    "8": {
+                        "Recitations of Ibrahim walk from saheeh international": {
+                            "verse 102:1": "Your greed for massive wealth and the superiority complex has made you negligent (of the Hereafter),",
+                            "verse 102:2": "Until you go down to the graves.",
+                            "verse 102:3": "No indeed! You will soon learn (this reality that wealth and riches will avail you nothing).",
+                            "verse 102:4": "Again (you are warned.",
+                            "verse 102:5": "Yes indeed! Would that you knew with the knowledge of certitude (the consequence of greed for wealth and riches and your negligence! Then, lost in the worldly pleasures, you would never forget the Hereafter like this).",
+                            "verse 102:6": "(Consequent on your greed) you will surely see Hell.",
+                            "verse 102:7": "Then you will certainly see it with the eye of certitude.",
+                            "verse 102:8": "Then on that Day, you will certainly be questioned about the bounties (given to you by Allah and the way you consumed them)."
+                        }
+                    }
+                }
+            },
+            "finnish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "Rikkauksien kartuttaminen vieroittaa mielenne (uskosta)",
+                            "verse 102:2": "aina siihen saakka, kunnes eteenne avautuu hauta.",
+                            "verse 102:3": "Totisesti saatte sen nähdä!",
+                            "verse 102:4": "Ja vieläkin kerran te saatte sen nähdä.",
+                            "verse 102:5": "Jospa olisitte sen varmuudella tietäneet,",
+                            "verse 102:6": "olisitte ilmielävästi nähneet helvetin.",
+                            "verse 102:7": "Vielä kerran, totisesti saatte nähdä sen omin silmin.",
+                            "verse 102:8": "Silloin, tuona päivänä, teiltä toden totta vaaditaan (aikanaan) annettuja almuja."
+                        }
+                    }
+                }
+            },
+            "french": {
+                "translators": {
+                    "1": {
+                        "Jean-Louis Michon": {
+                            "verse 102:1": "Vous vous préoccupez d'accumuler,",
+                            "verse 102:2": "jusqu'à ce que vous visitiez les tombes.",
+                            "verse 102:3": "Mais non ! Quelque jour vous saurez !",
+                            "verse 102:4": "Une fois encore : quelque jour vous saurez !",
+                            "verse 102:5": "Ah, si vous pouviez savoir de science certaine :",
+                            "verse 102:6": "vous verrez la Fournaise ;",
+                            "verse 102:7": "puis vous la verrez avec l'œil de la certitude ;",
+                            "verse 102:8": "puis on vous interrogera, ce Jour-là, sur les plaisirs éphémères."
+                        }
+                    },
+                    "2": {
+                        "Muhammad Hamidullah ": {
+                            "verse 102:1": "La course aux richesses vous distrait,",
+                            "verse 102:2": "jusqu’à ce que vous visitiez les tombes .",
+                            "verse 102:3": "Mais non ! Vous saurez bientôt !",
+                            "verse 102:4": "(Encore une fois) ! Vous saurez bientôt !",
+                            "verse 102:5": "Sûrement ! Si vous saviez de science certaine .",
+                            "verse 102:6": "Vous verrez, certes, la Fournaise.",
+                            "verse 102:7": "Puis, vous la verrez certes, avec l’oeil de certitude.",
+                            "verse 102:8": "Puis, assurément, vous serez interrogés, ce jour-là, sur les délices."
+                        }
+                    }
+                }
+            },
+            "german": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "Der Wettstreit um die Mehrung lenkt euch ab,",
+                            "verse 102:2": "Bis ihr die Gräber erreicht.",
+                            "verse 102:3": "Nein! ihr werdet es bald erfahren.",
+                            "verse 102:4": "Wiederum nein! ihr werdet es bald erfahren.",
+                            "verse 102:5": "Nein! wüßtet ihr's nur mit gewissem Wissen,",
+                            "verse 102:6": "Ihr müßtet die Hölle (schon in diesem Leben) sehen.",
+                            "verse 102:7": "Ja doch, ihr sollt sie sicherlich sehen mit dem Auge der Gewißheit.",
+                            "verse 102:8": "Dann, an jenem Tage, werdet ihr über die Glücksgüter befragt werden."
+                        }
+                    }
+                }
+            },
+            "hindi": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "dqy o eky dh cgqrk;r us rqe yksxksa dks x+kfQ+y j[kk",
+                            "verse 102:2": ";gk¡ rd fd rqe yksxksa us dczsa ns[kh ¼ej x,½",
+                            "verse 102:3": "ns[kks rqedks vud+jhc gh ekyqe gks tk,xk",
+                            "verse 102:4": "fQj ns[kks rqEgsa vud+jhc gh ekywe gks tk,xk",
+                            "verse 102:5": "ns[kks vxj rqedks ;d+huh rkSj ij ekywe gksrk ¼rks gjfxt+ x+kfQy u gksrs½",
+                            "verse 102:6": "rqe yksx t+:j nkst+[+k dks ns[kksxs",
+                            "verse 102:7": "fQj rqe yksx ;d+huh ns[kuk ns[kksxs",
+                            "verse 102:8": "fQj rqels usverksa ds ckjsa t+:j ckt+ iqlZ dh tk,xh"
+                        }
+                    }
+                }
+            },
+            "indonesian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "Bermegah-megahan telah melalaikan kamu,",
+                            "verse 102:2": "sampai kamu masuk ke dalam kubur.",
+                            "verse 102:3": "Janganlah begitu, kelak kamu akan mengetahui (akibat perbuatanmu itu),",
+                            "verse 102:4": "dan janganlah begitu, kelak kamu akan mengetahui.",
+                            "verse 102:5": "Janganlah begitu, jika kamu mengetahui dengan pengetahuan yang yakin,",
+                            "verse 102:6": "niscaya kamu benar-benar akan melihat neraka Jahiim,",
+                            "verse 102:7": "dan sesungguhnya kamu benar-benar akan melihatnya dengan ’ainul yaqin,",
+                            "verse 102:8": "kemudian kamu pasti akan ditanyai pada hari itu tentang keni’matan (yang kamu megah-megahkan di dunia itu)."
+                        }
+                    }
+                }
+            },
+            "italian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "Il rivaleggiare vi distrarrà,",
+                            "verse 102:2": "finché visiterete le tombe .",
+                            "verse 102:3": "Invece no! Ben presto saprete.",
+                            "verse 102:4": "E ancora no! Ben presto saprete.",
+                            "verse 102:5": "No! Se solo sapeste con certezza.",
+                            "verse 102:6": "Vedrete certamente la Fornace .",
+                            "verse 102:7": "Lo vedrete con l'occhio della certezza,",
+                            "verse 102:8": "quindi in quel Giorno, sarete interrogati sulla delizia ."
+                        }
+                    }
+                }
+            },
+            "japanese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "あなたがたは（財産や息子などの）多いことを張り合って，現を抜かす。",
+                            "verse 102:2": "墓に追い立てられるまでも。",
+                            "verse 102:3": "いや，やがて（死後）あなたがたは（その真実を）知ろう。",
+                            "verse 102:4": "もう一度言おうか，いや，やがてあなたがたは知ろう。",
+                            "verse 102:5": "いや，あなたがたは（今に）はっきり知るとよいのである。",
+                            "verse 102:6": "あなたがたは必ず獄火を見よう。",
+                            "verse 102:7": "その時あなたがたはそれを明確に目で見ることであろう。",
+                            "verse 102:8": "その日あなたがたは，（現を抜かしていた）享楽に就いて，必ず問われるであろう。 その時あなたがたはそれを明確に目で見ることであろう。"
+                        }
+                    }
+                }
+            },
+            "korean": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "축적한 것들이 너희를 벗어나게 하리니",
+                            "verse 102:2": "너희가 무덤으로 갈 때 까지 오만하려 하느뇨",
+                            "verse 102:3": "그러나 너희는 곧 알게 되리 라",
+                            "verse 102:4": "실로 너희는 곧 알게 되리라",
+                            "verse 102:5": "너희가 분명한 지식을 갖고 있다면 너희는 알게 되리니",
+                            "verse 102:6": "너희는 지옥의 불을 볼 것이 라",
+                            "verse 102:7": "실로 너희는 분명히 눈으로서 목격할 것이라",
+                            "verse 102:8": "그런 후 너희는 너희가 탐닉 했던 향락에 관하여 힐문을 받을 것이라"
+                        }
+                    }
+                }
+            },
+            "kurdish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "(خه‌ڵکینه‌!!) هه‌ڵپه‌کردن و پێشبڕکێتان بۆ زۆر کردنی (ماڵ و منداڵ و سامان و کۆشك و ته‌لارو.",
+                            "verse 102:2": "تا ئه‌و کاته‌ی که ده‌مرن و ده‌برێنه گۆڕستان (ده‌خرێنه ناو گۆڕێکی ته‌نگ و ته‌سك و تاریکه‌وه‌).",
+                            "verse 102:3": "واز بهێنن، له‌مه‌ودوا ده‌زانن چ (قوڕێکتان بۆ خۆتان گرتۆته‌وه‌، چ به‌ڵایه‌کتان به‌سه‌ر خۆتان هێناوه‌).",
+                            "verse 102:4": "دیسانه‌وه ده‌ڵێم: واز بهێنن.",
+                            "verse 102:5": "واز بهێنن، ئه‌گه‌ر ئێوه ده‌تانزانی، به‌زانین و دڵنیایه‌کی ته‌واوه‌وه (وا بێ ئاگا نه‌ده‌بوون له خواناسی).",
+                            "verse 102:6": "سوێند به‌خوا بێگومان دۆزه‌خ ده‌بینن (دۆزه‌خێکی تۆقێنه‌رو پڕ له ئازارو ناسۆره‌).",
+                            "verse 102:7": "دووباره سوێند به‌خوا دۆزه‌خ به‌چاوی سه‌رتان ده‌یبینن به ئاشکراو دڵنیا ده‌بن (که چه‌نده سامناکه‌).",
+                            "verse 102:8": "پاشان سوێند به‌خوا له‌و ڕۆژه‌دا پرسیارتان لێ ده‌کرێت ده‌رباره‌ی هه‌موو نازو نیعمه‌ته‌کانی دنیا (چۆنتان په‌یدا کردووه‌و له چیدا به‌کارتان هێناوه‌)."
+                        }
+                    }
+                }
+            },
+            "malay": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "Kamu telah dilalaikan (daripada mengerjakan amal bakti) oleh perbuatan berlumba-lumba untuk mendapat dengan sebanyak-banyaknya (harta benda, anak-pinak pangkat dan pengaruh),",
+                            "verse 102:2": "Sehingga kamu masuk kubur.",
+                            "verse 102:3": "Jangan sekali-kali (bersikap demikian)! Kamu akan mengetahui kelak (akibatnya yang buruk semasa hendak mati)!",
+                            "verse 102:4": "Sekali lagi (diingatkan): Jangan sekali-kali (kamu bersikap demikian)! Kamu akan mengetahui kelak akibatnya yang buruk pada hari kiamat)!",
+                            "verse 102:5": "Demi sesungguhnya! Kalaulah kamu mengetahui (apa yang kamu akan hadapi) dengan pengetahuan yang yakin, (tentulah kamu akan mengerjakan perkara-perkara yang menjadi bekalan kamu untuk hari akhirat).",
+                            "verse 102:6": "(Ingatlah) demi sesungguhnya! Kamu akan melihat Neraka yang marak menjulang.",
+                            "verse 102:7": "Selepas itu, demi sesungguhnya! Kamu (wahai orang-orang yang derhaka) akan melihatnya dengan penglihatan yang yakin (semasa kamu dilemparkan ke dalamnya)!",
+                            "verse 102:8": "Selain dari itu, sesungguhnya kamu akan ditanya pada hari itu, tentang segala nikmat (yang kamu telah menikmatinya)!"
+                        }
+                    }
+                }
+            },
+            "persian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "افزون طلبى (و تفاخر) شما را به خود مشغول داشته (و از خدا غافل نموده) است",
+                            "verse 102:2": "تا آنجا كه به ديدار قبرها رفتيد (و قبور مردگان خود را برشمرديد و به آن افتخار كرديد)!",
+                            "verse 102:3": "چنين نيست كه مى‏پنداريد، (آرى) بزودى خواهيد دانست!",
+                            "verse 102:4": "باز چنان نيست كه شما مى‏پنداريد; بزودى خواهيد دانست!",
+                            "verse 102:5": "چنان نيست كه شما خيال مى‏كنيد; اگر شما علم اليقين (به آخرت) داشتيد (افزون طلبى شما را از خدا غافل نمى‏كرد)!",
+                            "verse 102:6": "قطعا شما جهنم را خواهيد ديد!",
+                            "verse 102:7": "سپس (با ورود در آن) آن را به عين اليقين خواهيد ديد",
+                            "verse 102:8": "سپس در آن روز (همه شما) از نعمتهايى كه داشته‏ايد بازپرسى خواهيد شد!"
+                        }
+                    }
+                }
+            },
+            "portuguese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "A cobiça vos entreterá,",
+                            "verse 102:2": "Até que desçais aos sepulcros.",
+                            "verse 102:3": "Qual! Logo o sabereis!",
+                            "verse 102:4": "Novamente, qual! Logo o sabereis!",
+                            "verse 102:5": "Qual! Se soubésseis da ciência certa!",
+                            "verse 102:6": "Verdadeiramente, então, havíeis de ver a fogueira do inferno!",
+                            "verse 102:7": "Logo a vereis claramente.",
+                            "verse 102:8": "Então, sereis interrogados, nesse dia, a respeito dos prazeres (mundanos)."
+                        }
+                    }
+                }
+            },
+            "romanian": {
+                "translators": {
+                    "1": {
+                        "Lucrarea (traducere úi editare) a fost realizată de către": {
+                            "verse 102:1": "Vã abate goana dupã înmulțire ,",
+                            "verse 102:2": "Pânã când veți vizita mormintele.",
+                            "verse 102:3": "Nu! Voi veți ști curând!",
+                            "verse 102:4": "Și încã o datã: Nu! Voi veți ști curând!",
+                            "verse 102:5": "Nu! Dacã ați ști cu siguranțã!",
+                            "verse 102:6": "Voi veți vedea Iadul!",
+                            "verse 102:7": "Încã o datã: Îl veți vedea, cu siguranțã!",
+                            "verse 102:8": "Apoi veți fi întrebați, în Ziua aceea, despre plãceri! siguranțã!"
+                        }
+                    },
+                    "2": {
+                        "George Grigore, Coranul": {
+                            "verse 102:1": "Mirajul bogăţiei vă ia în stăpânire",
+                            "verse 102:2": "până când la morminte veţi merge în ospeţie!",
+                            "verse 102:3": "Ba nu! Curând veţi afla ştire!",
+                            "verse 102:4": "Şi iarăşi nu! Curând veţi avea ştire!",
+                            "verse 102:5": "De-aţi avea ştirea în chip neîndoios,",
+                            "verse 102:6": "aţi vedea Iadul cu prisos.",
+                            "verse 102:7": "L-aţi vedea cu ochiul neîndolielii,",
+                            "verse 102:8": "în ziua aceea, când veţi fi întrebaţi de-ale plăcerii."
+                        }
+                    }
+                }
+            },
+            "russian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "Страсть к накоплению добраВас отвлекает от деяний должных",
+                            "verse 102:2": "До самой гробовой доски.",
+                            "verse 102:3": "Но нет, познаете вы скоро!",
+                            "verse 102:4": "И вновь, познаете вы скоро!",
+                            "verse 102:5": "Но нет же! Если бы вы знали знаньемдостоверным,",
+                            "verse 102:6": "Узрели бы вы пламя Ада.",
+                            "verse 102:7": "Поистине, вы оком достовернымУвидите его!",
+                            "verse 102:8": "Поистине,В тот ДеньСполна с вас спросят за греховныеуслады,(Что вы вкусили на земле)."
+                        }
+                    }
+                }
+            },
+            "spanish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "El afán de lucro os distrae",
+                            "verse 102:2": "hasta la hora de la muerte.",
+                            "verse 102:3": "¡No! ¡Ya veréis.",
+                            "verse 102:4": "¡No y no! ¡Ya veréis.",
+                            "verse 102:5": "¡No! Si supierais a ciencia cierta.",
+                            "verse 102:6": "¡Veréis, de seguro, el fuego de la gehena!",
+                            "verse 102:7": "¡Sí, lo veréis con ojos de certeza!",
+                            "verse 102:8": "Luego, ese día, se os preguntará, ciertamente, por la delicia."
+                        }
+                    }
+                }
+            },
+            "tamil": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "செல்வத்தைப் பெருக்கும் ஆசை உங்களை (அல்லாஹ்வை விட்டும்) பராக்காக்கி விட்டது-",
+                            "verse 102:2": "நீங்கள் கப்றுகளைச் சந்திக்கும் வரை.",
+                            "verse 102:3": "அவ்வாறில்லை, விரைவில் (அதன் பலனை) நீங்கள் அறிந்து கொள்வீர்கள்.",
+                            "verse 102:4": "பின்னர் அவ்வாறல்ல, விரைவில் (அதன் பலனை) நீங்கள் அறிந்து கொள்வீர்கள்.",
+                            "verse 102:5": "அவ்வாறல்ல - மெய்யான அறிவைக் கொண்டறிந்திருப்பீர்களானால் (அந்த ஆசை உங்களைப் பராக்காக்காது).",
+                            "verse 102:6": "நிச்சயமாக (அவ்வாசையால்) நீங்கள் நரகத்தைப் பார்ப்பீர்கள்.",
+                            "verse 102:7": "பின்னும், நீங்கள் அதை உறுதியாகக் கண்ணால் பார்ப்பீர்கள்.",
+                            "verse 102:8": "பின்னர் அந்நாளில் (இம்மையில் உங்களுக்கு அளிக்கப்பட்டிருந்த) அருட் கொடைகளைப் பற்றி நிச்சயமாக நீங்கள் கேட்கப்படுவீர்கள்."
+                        }
+                    }
+                }
+            },
+            "thai": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "การสะสมทรัพย์สมบัติเพื่ออวดอ้างได้ทำให้พวกเจ้า เพลิดเพลิน",
+                            "verse 102:2": "จนกระทั่งพวกเจ้าได้เข้าไปเยือนหลุมฝังศพ",
+                            "verse 102:3": "เปล่าเลย พวกเจ้าจะได้รู้",
+                            "verse 102:4": "แล้วก็เปล่าเลย พวกเจ้าจะได้รู้",
+                            "verse 102:5": "มิใช่เช่นนั้น ถ้าพวกเจ้าได้รู้อย่างแท้จริง",
+                            "verse 102:6": "แล้วแน่นอน พวกเจ้าจะเห็นไฟที่ลุกโชน",
+                            "verse 102:7": "แล้วแน่นอนพวกเจ้าจะได้เห็นมันด้วยสายตาที่แน่ชัด",
+                            "verse 102:8": "แล้วในวันนั้นพวกเจ้าจะถูกสอบถามเกี่ยวกับความโปรดปราน ที่ได้รับ (ในโลกดุนยา)"
+                        }
+                    }
+                }
+            },
+            "turkish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "Çokluk kuruntusu sizi o derece oyaladı ki,",
+                            "verse 102:2": "Nihayet kabirleri ziyaret ettiniz.",
+                            "verse 102:3": "Hayır! Yakında bileceksiniz!",
+                            "verse 102:4": "Elbette yakında bileceksiniz!",
+                            "verse 102:5": "Gerçek öyle değil! Kesin bilgi ile bilmiş olsaydınız,",
+                            "verse 102:6": "Mutlaka cehennem ateşini görürdünüz.",
+                            "verse 102:7": "Sonra ahirette onu çıplak gözle göreceksiniz.",
+                            "verse 102:8": "Nihayet o gün (dünyada yararlandığınız) nimetlerden elbette ve elbette hesaba çekileceksiniz."
+                        }
+                    }
+                }
+            },
+            "urdu": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "(لوگو) تم کو(مال کی) بہت سی طلب نے غافل کر دیا",
+                            "verse 102:2": "تمہيں کثرتِ مال کي ہوس اور فخر نے (آخرت سے) غافل کر دياo",
+                            "verse 102:3": "يہاں تک کہ تم قبروں ميں جا پہنچےo",
+                            "verse 102:4": "یہاں تک کہ تم نے قبریں جا دیکھیں",
+                            "verse 102:5": "دیکھو تمہیں عنقریب معلوم ہو جائے گا",
+                            "verse 102:6": "ہرگز نہيں! (مال و دولت تمہارے کام نہيں آئيں گے) تم عنقريب (اس حقيقت کو) جان لو گےo",
+                            "verse 102:7": "پھر (آگاہ کيا جاتا ہے:) ہرگز نہيں! عنقريب تمہيں (اپنا انجام) معلوم ہو جائے گاo",
+                            "verse 102:8": "پھر دیکھو تمہیں عنقریب معلوم ہو جائے گا",
+                            "verse 102:9": "دیکھو اگر تم جانتے (یعنی) علم الیقین (رکھتے تو غفلت نہ کرتے)",
+                            "verse 102:10": "ہاں ہاں! کاش تم (مال و زَر کي ہوس اور اپني غفلت کے انجام کو) يقيني علم کے ساتھ جانتے (تو دنيا ميں کھو کر آخرت کو اس طرح نہ بھولتے)o",
+                            "verse 102:11": "تم (اپني حرص کے نتيجے ميں) دوزخ کو ضرور ديکھ کر رہو گےo",
+                            "verse 102:12": "تم ضرور دوزخ کو دیکھو گے",
+                            "verse 102:13": "پھر اس کو (ایسا) دیکھو گے (کہ) عین الیقین (آ جائے گا )",
+                            "verse 102:14": "پھر تم اسے ضرور يقين کي آنکھ سے ديکھ لو گےo",
+                            "verse 102:15": "پھر اس دن تم سے (ا? کي) نعمتوں کے بارے ميں ضرور پوچھا جائے گا (کہ تم نے انہيں کہاں کہاں اور کيسے کيسے خرچ کيا تھا)o",
+                            "verse 102:16": "پھر اس روز تم سے (شکر) نعمت کے بارے میں پرسش ہو گی تھا)o"
+                        }
+                    }
+                }
+            },
+            "uzbek": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 102:1": "Кимники кўп сизни машғул қилди.",
+                            "verse 102:2": "То қабрларни зиёрат қилгунингизча",
+                            "verse 102:3": "Йўқ! Сизлар тезда биласизлар.",
+                            "verse 102:4": "Яна йўқ! Сизлар тезда биласизлар.",
+                            "verse 102:5": "Йўқ! Агар сизлар аниқ илм ила билганингизда эди.",
+                            "verse 102:6": "Албатта, жаҳаннамни кўрасизлар.",
+                            "verse 102:7": "Ва яна, албатта, уни ишонч кўзи билан кўрасизлар.",
+                            "verse 102:8": "Сўнгра ўша кунда, албатта, берилган неъматлардан сўраласизлар."
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
