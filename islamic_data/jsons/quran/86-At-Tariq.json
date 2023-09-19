@@ -1,0 +1,961 @@
+{
+    "surah_name": "At-Târiq",
+    "surah_name_ar": "الطارق",
+    "verses": {
+        "languages": {
+            "albanian": {
+                "translators": {
+                    "1": {
+                        "Efendi Nahi": {
+                            "verse 86:1": "Betohem në qiellin dhe yllin e natës.",
+                            "verse 86:2": "E, a e di ti se ç’është ylli i natës?",
+                            "verse 86:3": "Ai është ylli që shpon terrin (me dritën e vet).",
+                            "verse 86:4": "Për çdo njeri ka mbikëqyrës (ndaj tij)!",
+                            "verse 86:5": "Le të shikojë njeriu prej çkahjes është krijuar:",
+                            "verse 86:6": "është krijuar nga lëngu që kullon (hudhet),",
+                            "verse 86:7": "i cili del nga kurrizi (i mashkullit) dhe krahërori,",
+                            "verse 86:8": "dhe, me të vërtetë, Ai (Perëndia) është i pushtetshëm – për ta kthyer (ringjallë) atë,",
+                            "verse 86:9": "në Ditën kur do të zbulohen sekretet",
+                            "verse 86:10": "kur njeriu nuk do të ketë as fuqi, as ndihmës.",
+                            "verse 86:11": "Betohem në qiellin, shëndrues i (plot) gjendjeve",
+                            "verse 86:12": "dhe Tokën që plasaritet për të mbirë bimët, -",
+                            "verse 86:13": "Kur’ani, me të vërtetë, është fjalë që ndanë të vërtetën prej të pavërtetës,",
+                            "verse 86:14": "ai nuk është kurrfarë burleske (tregim i kotë)!",
+                            "verse 86:15": "Me të vërtetë, at shërbehen me dinakëri (të mëdha),",
+                            "verse 86:16": "e, Unë i ndëshkojë për dinakërinë, e tyre –",
+                            "verse 86:17": "andaj, caktoju pak afat jobesimtarëve, lëri në qetësi ata edhe për një çast."
+                        }
+                    }
+                }
+            },
+            "azerbaijani": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "And olsun göyə və gecə gələnə! (Gecə peyda olub gündüz qeyb olana!)",
+                            "verse 86:2": "(Ya Peyğəmbər!) Sən nə bilirsən (haradan bilirsən) ki, gecə gələn nədir?!",
+                            "verse 86:3": "(O, zülməti yaran) parlaq ulduzdur!",
+                            "verse 86:4": "Elə bir kimsə yoxdur ki, onun üstündə bir gözətçi (mələk) olmasın!",
+                            "verse 86:5": "Elə isə insan nədən yaradıldığına (bəsirət gözü ilə) bir baxsın!",
+                            "verse 86:6": "O, axıb tökülən bir sudan (nütfədən) yaradılmışdır.",
+                            "verse 86:7": "(O su kişilərin) bel sümüyündən, (qadınların isə) köks sümüyündən çıxar!",
+                            "verse 86:8": "Həqiqətən, (Allah) insanı (öləndən sonra) yenidən diriltməyə qadirdir! -",
+                            "verse 86:9": "Bütün sirlərin aşkar olacağı o qiyamət günü;",
+                            "verse 86:10": "(O gün) insanın nə (əzabı dəf edəcək) bir qüvəsi, nə də bir köməkçisi olar!",
+                            "verse 86:11": "And olsun yağış sahibi olan göyə;",
+                            "verse 86:12": "And olsun (növbənöv bitkilər yetirmək üçün) yarılan yerə ki,",
+                            "verse 86:13": "Bu (Qur'an haqla nahaqqı) ayırd edən kəlamdır!",
+                            "verse 86:14": "O, oyun-oyuncaq (əyləncə) deyildir!",
+                            "verse 86:15": "Həqiqətən, (Məkkə müşrikləri Qur'anın nurunu söndürmək üçün) hiylə qurdular.",
+                            "verse 86:16": "Mən də (hiylələrinə qarşı) onlara cəza verirəm.",
+                            "verse 86:17": "Elə isə (ya Peyğəmbər!) kafirlərə möhlət ver! Onlara azacıq möhlət ver!"
+                        }
+                    }
+                }
+            },
+            "bosnian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "Tako mi neba i Danice!",
+                            "verse 86:2": "A znaš li ti šta je Danica?",
+                            "verse 86:3": "Zvijezda blistava!",
+                            "verse 86:4": "Nema čovjeka nad kojim neko ne bdije.",
+                            "verse 86:5": "Nek čovjek pogleda od čega je stvoren!",
+                            "verse 86:6": "Stvoren je od tekućine koja se izbaci,",
+                            "verse 86:7": "koja između kičme i grudi izlazi,",
+                            "verse 86:8": "i On je, zaista, kadar da ga ponovo stvori",
+                            "verse 86:9": "onoga Dana kada budu ispitivane savjesti,",
+                            "verse 86:10": "kada čovjek ni snage ni branioca neće imati.",
+                            "verse 86:11": "I tako mi neba puna kiše",
+                            "verse 86:12": "i Zemlje koja se otvara kada rastinje nikne,",
+                            "verse 86:13": "Kur’an je, doista, govor koji rastavlja istinu od neistine,",
+                            "verse 86:14": "lakrdija nikakva on nije!",
+                            "verse 86:15": "Oni se služe spletkama,",
+                            "verse 86:16": "a Ja ih uništavam -",
+                            "verse 86:17": "zato nevjernicima još vremena dadni, još koji trenutak ih ostavi."
+                        }
+                    }
+                }
+            },
+            "bengali": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "শপথ আকাশের এবং রাত্রিতে আগমনকারীর।",
+                            "verse 86:2": "আপনি জানেন, যে রাত্রিতে আসে সেটা কি?",
+                            "verse 86:3": "সেটা এক উজ্জ্বল নক্ষত্র।",
+                            "verse 86:4": "প্রত্যেকের উপর একজন তত্ত্বাবধায়ক রয়েছে।",
+                            "verse 86:5": "অতএব, মানুষের দেখা উচিত কি বস্তু থেকে সে সৃজিত হয়েছে।",
+                            "verse 86:6": "সে সৃজিত হয়েছে সবেগে স্খলিত পানি থেকে।",
+                            "verse 86:7": "এটা নির্গত হয় মেরুদন্ড ও বক্ষপাজরের মধ্য থেকে।",
+                            "verse 86:8": "নিশ্চয় তিনি তাকে ফিরিয়ে নিতে সক্ষম।",
+                            "verse 86:9": "যেদিন গোপন বিষয়াদি পরীক্ষিত হবে,",
+                            "verse 86:10": "সেদিন তার কোন শক্তি থাকবে না এবং সাহায্যকারীও থাকবে না।",
+                            "verse 86:11": "শপথ চক্রশীল আকাশের",
+                            "verse 86:12": "এবং বিদারনশীল পৃথিবীর",
+                            "verse 86:13": "নিশ্চয় কোরআন সত্য-মিথ্যার ফয়সালা।",
+                            "verse 86:14": "এবং এটা উপহাস নয়।",
+                            "verse 86:15": "তারা ভীষণ চক্রান্ত করে,",
+                            "verse 86:16": "আর আমিও কৌশল করি।",
+                            "verse 86:17": "অতএব, কাফেরদেরকে অবকাশ দিন, তাদেরকে অবকাশ দিন, কিছু দিনের জন্যে। করি।"
+                        }
+                    }
+                }
+            },
+            "bulgarian": {
+                "translators": {
+                    "1": {
+                        "Tzvetan Theophanov": {
+                            "verse 86:1": "Кълна се в небето и във Вечерницата!",
+                            "verse 86:2": "А откъде да знаеш ти какво е Вечерницата?",
+                            "verse 86:3": "Звездата с пронизваща светлина.",
+                            "verse 86:4": "Над всяка душа има надзорник.",
+                            "verse 86:5": "И да погледне човекът от какво бе сътворен!",
+                            "verse 86:6": "Бе сътворен от изтласкваща се вода,",
+                            "verse 86:7": "която излиза измежду гръбнака и ребрата.",
+                            "verse 86:8": "Способен е Той да го върне -",
+                            "verse 86:9": "в Деня, когато ще бъдат изявени тайните",
+                            "verse 86:10": "и не ще има той нито сила, нито избавител.",
+                            "verse 86:11": "Кълна се в небето, от което вали,",
+                            "verse 86:12": "и в земята, която се разпуква,",
+                            "verse 86:13": "че това е слово-разграничение.",
+                            "verse 86:14": "А не е шега.",
+                            "verse 86:15": "Те замислят с умисъл.",
+                            "verse 86:16": "И Аз замислям с умисъл.",
+                            "verse 86:17": "И дай отсрочка на неверниците, отсрочи ги за кратко! умисъл."
+                        }
+                    }
+                }
+            },
+            "chinese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "以窮蒼和啟明星盟誓，",
+                            "verse 86:2": "你怎能知道啟明星是什麼？",
+                            "verse 86:3": "是那燦爛的明星。",
+                            "verse 86:4": "每個人，都有一個保護者。",
+                            "verse 86:5": "人應當想一想，他自己是用什麼造成的？",
+                            "verse 86:6": "他是射出的精液造成的。",
+                            "verse 86:7": "那精液是從脊柱和肋骨之間發出的。",
+                            "verse 86:8": "真主確是能使他復原的，",
+                            "verse 86:9": "那是在一切秘密被揭穿之日。",
+                            "verse 86:10": "他絕沒有能力，也沒有援助者。",
+                            "verse 86:11": "以含雨的雲",
+                            "verse 86:12": "和有縫的地發誓，",
+                            "verse 86:13": "這確是分別真偽的言辭，",
+                            "verse 86:14": "這不是笑話。",
+                            "verse 86:15": "他們必定要用計謀，",
+                            "verse 86:16": "我也要用計謀。",
+                            "verse 86:17": "所以你當寬限不信道的人們，你當寬限他們一下。 我也要用計謀。"
+                        }
+                    }
+                }
+            },
+            "czech": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "Při nebi a hvězdě nocí putující!",
+                            "verse 86:2": "Víš ty vůbec, co je to hvězda nocí putující?",
+                            "verse 86:3": "Hvězda pronikavě zářící.",
+                            "verse 86:4": "A věru duše každá nad sebou strážce má!",
+                            "verse 86:5": "Z čeho byl stvořen, nechť člověk posoudí!",
+                            "verse 86:6": "Stvořen byl z vystříknuté tekutiny,",
+                            "verse 86:7": "jež z místa mezi bedry a žebry proudí.",
+                            "verse 86:8": "Bůh zajisté je schopen k životu jej navrátit",
+                            "verse 86:9": "v den, kdy taje budou zkoumány",
+                            "verse 86:10": "a kdy člověk nebude ani sílu, ani pomocníka mít.",
+                            "verse 86:11": "Při nebi návratů plném,",
+                            "verse 86:12": "při zemi rozpuklin plné!",
+                            "verse 86:13": "Věru že toto je slovo rozhodné",
+                            "verse 86:14": "a není řečeno jen žertem.",
+                            "verse 86:15": "Tito lidé věru strojí úklad,",
+                            "verse 86:16": "však já rovněž chystám lest!",
+                            "verse 86:17": "Jen poshov nevěřícím a krátký jim popřej odklad! lest!"
+                        }
+                    }
+                }
+            },
+            "dutch": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "Bij de hemel en bij de morgenster.",
+                            "verse 86:2": "En wat weet gij (er van) wat de morgenster is?",
+                            "verse 86:3": "Het is een ster van doordringende helderheid.",
+                            "verse 86:4": "Er is geen ziel waarover geen wachter is.",
+                            "verse 86:5": "Laat de mens derhalve overwegen waaruit hij geschapen werd.",
+                            "verse 86:6": "Hij werd uit een stromende vloeistof geschapen,",
+                            "verse 86:7": "Welke voortkomt van tussen de ruggegraat en de ribben.",
+                            "verse 86:8": "Voorzeker, Hij kan hem (tot het leven) terugroepen.",
+                            "verse 86:9": "Op de Dag waarop de geheimen zullen worden geopenbaard.",
+                            "verse 86:10": "Dan zal hij geen kracht en geen helper hebben.",
+                            "verse 86:11": "Bij de wolk die regen geeft.",
+                            "verse 86:12": "En de aarde, die door planten splijt.",
+                            "verse 86:13": "Dit is zeker een beslissend woord,",
+                            "verse 86:14": "Het is geen grap.",
+                            "verse 86:15": "Voorwaar zij smeden een plan.",
+                            "verse 86:16": "En ook Ik smeed een (machtiger) plan.",
+                            "verse 86:17": "Geef derhalve de ongelovigen voor een tijdje uitstel, plan."
+                        }
+                    }
+                }
+            },
+            "english": {
+                "translators": {
+                    "1": {
+                        "Marmaduke Pickthall": {
+                            "verse 86:1": "By the heaven and the Morning Star",
+                            "verse 86:2": "- Ah, what will tell thee what the Morning Star is!",
+                            "verse 86:3": "- The piercing Star!",
+                            "verse 86:4": "No human soul but hath a guardian over it.",
+                            "verse 86:5": "So let man consider from what he is created.",
+                            "verse 86:6": "He is created from a gushing fluid",
+                            "verse 86:7": "That issued from between the loins and ribs.",
+                            "verse 86:8": "Lo! He verily is Able to return him (unto life)",
+                            "verse 86:9": "On the day when hidden thoughts shall be searched out.",
+                            "verse 86:10": "Then will he have no might nor any helper.",
+                            "verse 86:11": "By the heaven which giveth the returning rain,",
+                            "verse 86:12": "And the earth which splitteth (with the growth of trees and plants)",
+                            "verse 86:13": "Lo! this (Qur’an) is a conclusive word,",
+                            "verse 86:14": "It is no pleasantry.",
+                            "verse 86:15": "Lo! they plot a plot (against thee, O Muhammad)",
+                            "verse 86:16": "And I plot a plot (against them).",
+                            "verse 86:17": "So give a respite to the disbelievers."
+                        }
+                    },
+                    "2": {
+                        "Abdullah Yusuf Ali": {
+                            "verse 86:1": "By the Sky and the Night-Visitant (therein);-",
+                            "verse 86:2": "And what will explain to thee what the Night-Visitant is?-",
+                            "verse 86:3": "(It is) the Star of piercing brightness;-",
+                            "verse 86:4": "There is no soul but has a protector over it.",
+                            "verse 86:5": "Now let man but think from what he is created!",
+                            "verse 86:6": "He is created from a drop emitted-",
+                            "verse 86:7": "Proceeding from between the backbone and the ribs:",
+                            "verse 86:8": "Surely (God) is able to bring him back (to life)!",
+                            "verse 86:9": "The Day that (all) things secret will be tested,",
+                            "verse 86:10": "(Man) will have no power, and no helper.",
+                            "verse 86:11": "By the Firmament which returns (in its round),",
+                            "verse 86:12": "And by the Earth which opens out (for the gushing of springs or the sprouting of vegetation),-",
+                            "verse 86:13": "Behold this is the Word that distinguishes (Good from Evil):",
+                            "verse 86:14": "It is not a thing for amusement.",
+                            "verse 86:15": "As for them, they are but plotting a scheme,",
+                            "verse 86:16": "And I am planning a scheme.",
+                            "verse 86:17": "Therefore grant a delay to the Unbelievers: Give respite to them gently (for awhile)."
+                        }
+                    },
+                    "3": {
+                        "Arthur J. Arberry": {
+                            "verse 86:1": "By heaven and the night-star!",
+                            "verse 86:2": "And what shall teach thee what is the night-star?",
+                            "verse 86:3": "The piercing star!",
+                            "verse 86:4": "Over every soul there is a watcher.",
+                            "verse 86:5": "So let man consider of what he was created;",
+                            "verse 86:6": "he was created of gushing water",
+                            "verse 86:7": "issuing between the loins and the breast-bones.",
+                            "verse 86:8": "Surely He is able to bring him back",
+                            "verse 86:9": "upon the day when the secrets are tried,",
+                            "verse 86:10": "and he shall have no strength, no helper.",
+                            "verse 86:11": "By heaven of the returning rain,",
+                            "verse 86:12": "by earth splitting with verdure,",
+                            "verse 86:13": "surely it is a decisive word;",
+                            "verse 86:14": "it is no merriment.",
+                            "verse 86:15": "They are devising guile,",
+                            "verse 86:16": "and I am devising guile.",
+                            "verse 86:17": "So respite the unbelievers; delay with them awhile."
+                        }
+                    },
+                    "4": {
+                        "Muhammad Asad": {
+                            "verse 86:1": "CONSIDER the heavens and that which comes in the night!",
+                            "verse 86:2": "And what could make thee conceive what it is that comes in the night?",
+                            "verse 86:3": "It is the star that pierces through",
+                            "verse 86:4": "darkness:",
+                            "verse 86:5": "",
+                            "verse 86:6": "no human being has ever been left unguarded.",
+                            "verse 86:7": "LET MAN, then, observe out of what he has been created:",
+                            "verse 86:8": "he has been created out of a seminal fluid",
+                            "verse 86:9": "issuing from between the loins [of man] and the pelvic arch [of woman].",
+                            "verse 86:10": "Now, verily, He [who thus creates man in the first instance] is well able to bring him back [to life]",
+                            "verse 86:11": "on the Day when all secrets will be laid bare,",
+                            "verse 86:12": "and",
+                            "verse 86:13": "will have neither strength nor helper!",
+                            "verse 86:14": "Consider the heavens, ever-revolving,",
+                            "verse 86:15": "and the earth, bursting forth with plants!",
+                            "verse 86:16": "BEHOLD, this [divine writ] is indeed a word that cuts between truth and falsehood,",
+                            "verse 86:17": "and is no idle tale.",
+                            "verse 86:18": "Behold, they [who refuse to accept it] devise many a false argument [to disprove its truth];",
+                            "verse 86:19": "but I shall bring all their scheming to nought.",
+                            "verse 86:20": "Let, then, the deniers of the truth have their will: let them have their will for a little while!",
+                            "verse 86:21": "or “knocked [at something]”; hence, taraqa ’l-bāb, “he knocked at the door.",
+                            "verse 86:22": "an artful scheme (kayd)”: see note 41 on 34:33, where the almost synonymous term makr is used in the same sense."
+                        }
+                    },
+                    "5": {
+                        "Martin Lings": {
+                            "verse 86:1": "Deal gently with the disbelievers, give them respite for a while.",
+                            "verse 86:2": "Used• Unpublished Material (1938-2005) BOOKS•",
+                            "verse 86:3": "The Book of Certainty (1952) •",
+                            "verse 86:4": "A Sufi Saint of the Twentieth Century (1961) •",
+                            "verse 86:5": "What is Sufism (1975) •",
+                            "verse 86:6": "The Quranic Art of Calligraphy and Illumination (1976) •",
+                            "verse 86:7": "Muhammad (1983) •",
+                            "verse 86:8": "Symbol and Archetype (1991) •",
+                            "verse 86:9": "Sufi Poems (2004) •",
+                            "verse 86:10": "Mecca (2004) •",
+                            "verse 86:11": "Return to the Spirit (2005) •",
+                            "verse 86:12": "Splendours of Qur’an Calligraphy and Illumination (2005) ARTICLES•",
+                            "verse 86:13": "“Proofs of Islam”(1954).",
+                            "verse 86:14": "“The Islamic and Christian Conceptions of the March of Time” (1954) The Islamic Quarterly, Vol.",
+                            "verse 86:15": "“The Origins of Sufism (1956) The Islamic Quarterly, Vol.",
+                            "verse 86:16": "“Sufism”: Religion in the Middle East (1969); ed.",
+                            "verse 86:17": "“Sufi Answers to Questions On Ultimate Reality”: Studies in Comparative Religions 1979 Summer/Autumn •",
+                            "verse 86:18": "“The Nature and Origin of Sufism”: Islamic Spirituality (1985) •",
+                            "verse 86:19": "“Mystical Poetry”: The Cambridge History of Arabic Literature, Vol.",
+                            "verse 86:20": "“The Quranic Doctrine of the Afterlife” •",
+                            "verse 86:21": "“The Quranic Origins of Sufism” •",
+                            "verse 86:22": "“Human Origins and Destinies According to the Great Religions of the World” •",
+                            "verse 86:23": "“Metaphysics and the Perennial Philosophy” •",
+                            "verse 86:24": "“An Introduction to Islam” •",
+                            "verse 86:25": "“The Universality of the Quran” •",
+                            "verse 86:26": "Private Talks Books",
+                            "verse 86:27": "without Quranic Ayaat• Collected Poems• Ancient Beliefs and Modern Superstitions• The Eleventh Hour• The Secret of ShakespeareArticles without Quranic Ayaat• “Signs of the Times”: Studies in Comparative Religions 1970 Winter• “Ibn Aliwah” Encyclopedia of Islam, Second Edition• “Kabd” Encyclopedia of Islam, Second Edition Books"
+                        }
+                    },
+                    "6": {
+                        "Mufti Muhammad Taqi Uthmani": {
+                            "verse 86:1": "I swear by the sky and by the Night-Comer,-",
+                            "verse 86:2": "-and what may let you know what the Night-Comer is?",
+                            "verse 86:3": "The star of piercing brightness!- -",
+                            "verse 86:4": "-there is no human being, but there is a watcher over him.",
+                            "verse 86:5": "So, let man consider of which stuff he is created.",
+                            "verse 86:6": "He is created of spouting water",
+                            "verse 86:7": "that comes out from between the loins and the chest-bones.",
+                            "verse 86:8": "Surely He is Powerful to bring him back",
+                            "verse 86:9": "on a day when all the secrets will be searched out,",
+                            "verse 86:10": "and he will have neither strength (to defend), nor a supporter.",
+                            "verse 86:11": "I swear by the sky that rains,",
+                            "verse 86:12": "and the earth that cracks open (for plants),",
+                            "verse 86:13": "this is a decisive word,",
+                            "verse 86:14": "and it is not a joke.",
+                            "verse 86:15": "They are devising plans,",
+                            "verse 86:16": "and I Am devising plans.",
+                            "verse 86:17": "So leave the disbelievers alone at the moment; give them respite for a while."
+                        }
+                    },
+                    "7": {
+                        "Royal Aal al-Bayt Institute Translation": {
+                            "verse 86:1": "By the heaven and the night-visitor!",
+                            "verse 86:2": "And what will tell you what the night-visitor is?",
+                            "verse 86:3": "The piercing star!",
+                            "verse 86:4": "Over every soul there is a keeper.",
+                            "verse 86:5": "So let man consider from what he was created.",
+                            "verse 86:6": "He was created from a gushing fluid,",
+                            "verse 86:7": "issuing from between the loins and the breast-bones.",
+                            "verse 86:8": "Assuredly He is able to bring him back",
+                            "verse 86:9": "on the day when",
+                            "verse 86:10": "secrets are inspected,",
+                            "verse 86:11": "whereat he will have neither strength, nor any helper.",
+                            "verse 86:12": "By the heaven of returns,",
+                            "verse 86:13": "and",
+                            "verse 86:14": "the earth of fissures,",
+                            "verse 86:15": "assuredly it is a decisive word,",
+                            "verse 86:16": "and it is not a jest.",
+                            "verse 86:17": "Indeed they are devising a plot,",
+                            "verse 86:18": "and I",
+                            "verse 86:19": "am devising a plot.",
+                            "verse 86:20": "So respite the disbelievers; grant them respite for a little."
+                        }
+                    },
+                    "8": {
+                        "Recitations of Ibrahim walk from saheeh international": {
+                            "verse 86:1": "By the (endless expanse and infinite space of) heaven and the Nightly (discernable) Visitant.",
+                            "verse 86:2": "And what do you know what the Nightly (discernable) Visitant is?",
+                            "verse 86:3": "(It implies) every heavenly body (be it a star, a planet, or any of the heavenly spheres) which shines and brightens (the space).",
+                            "verse 86:4": "There is no human soul but with a protector (appointed) over it.",
+                            "verse 86:5": "So man should ponder (and find out) from what substance he has been created.",
+                            "verse 86:6": "He has been created from the ejaculated fluid (i.",
+                            "verse 86:7": "That proceeds from the middle of the sacrum (and pelvic girdle) and is ejected.",
+                            "verse 86:8": "Indeed, He has the power to bring it (life) back,",
+                            "verse 86:9": "The Day when all secrets will be disclosed.",
+                            "verse 86:10": "Then man will have neither any strength (himself) nor any helper.",
+                            "verse 86:11": "By the heavenly universe which will regress to its primitive state,",
+                            "verse 86:12": "And by the earth which will split asunder (and change into dust particles),",
+                            "verse 86:13": "This is indeed a decisive (i.",
+                            "verse 86:14": "And it is no joke!",
+                            "verse 86:15": "Indeed, they (the disbelievers) are hatching plots.",
+                            "verse 86:16": "And I am designing My own strategy.",
+                            "verse 86:17": "So give the disbelievers a respite (for a while, not much); let them relax a little (more)."
+                        }
+                    }
+                }
+            },
+            "finnish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "Kautta taivaan ja aamutähden!",
+                            "verse 86:2": "Tiedätkö, mikä on aamutähti?",
+                            "verse 86:3": "Se on häikäisevän kirkas tähti.",
+                            "verse 86:4": "Ei ole sielua, jolla ei olisi suojelijaansa.",
+                            "verse 86:5": "Miettiköön ihminen, mistä hänet on luotu!",
+                            "verse 86:6": "Hänet on luotu pienestä, pursuavasta pisarasta,",
+                            "verse 86:7": "joka on lähtöisin kupeiden ja rintakehän välistä.",
+                            "verse 86:8": "Totisesti, Jumala voi herättää hänet jälleen eloon",
+                            "verse 86:9": "päivänä, jona kaikki, mikä salassa on, tulee ilmi.",
+                            "verse 86:10": "Eikä hänellä ole silloin voimaa eikä auttajaa.",
+                            "verse 86:11": "Nimessä taivaan, josta sateet tulevat,",
+                            "verse 86:12": "ja maan, joka avaa uumenensa!",
+                            "verse 86:13": "Totisesti tämä on ratkaiseva sana,",
+                            "verse 86:14": "eikä mitään joutavaa puhetta.",
+                            "verse 86:15": "Totisesti heillä on juonensa,",
+                            "verse 86:16": "mutta Minulla myös on suunnitelmani.",
+                            "verse 86:17": "Anna siis aikaa uskottomille; myönnä heille aikaa hetkiseksi!"
+                        }
+                    }
+                }
+            },
+            "french": {
+                "translators": {
+                    "1": {
+                        "Jean-Louis Michon": {
+                            "verse 86:1": "Par le ciel et par l'astre nocturne !",
+                            "verse 86:2": "Mais qu'est-ce qui te fera connaître ce qu'est l'astre nocturne ?",
+                            "verse 86:3": "C'est l'étoile dont l'éclat perce la nuit.",
+                            "verse 86:4": "Pour toute âme il existe un gardien qui se tient auprès d'elle.",
+                            "verse 86:5": "Que l'homme considère de quoi il a été créé !",
+                            "verse 86:6": "Il a été créé d'une giclée d'eau",
+                            "verse 86:7": "sortie d'entre les lombes et les côtes.",
+                            "verse 86:8": "Certes, Dieu a le pouvoir de le faire revenir",
+                            "verse 86:9": "le Jour où les secrets seront dévoilés.",
+                            "verse 86:10": "L'homme n'aura alors ni force, ni défenseur.",
+                            "verse 86:11": "Par le ciel qui accomplit ses révolutions !",
+                            "verse 86:12": "Par la terre qui s'entrouvre !",
+                            "verse 86:13": "Voici, vraiment, une parole décisive,",
+                            "verse 86:14": "et qui n'est pas un discours frivole.",
+                            "verse 86:15": "Ils ourdissent un stratagème,",
+                            "verse 86:16": "et Moi J'en ourdis un aussi.",
+                            "verse 86:17": "Accorde donc un délai aux mécréants, accorde-leur quelque répit ! aussi."
+                        }
+                    },
+                    "2": {
+                        "Muhammad Hamidullah ": {
+                            "verse 86:1": "Par le ciel et par l’astre nocturne",
+                            "verse 86:2": "Et qui te dira ce qu’est l’astre nocturne ?",
+                            "verse 86:3": "C’est l’étoile vivement brillante.",
+                            "verse 86:4": "Il n’est pas d’âme qui n’ait sur elle un gardien.",
+                            "verse 86:5": "Que l’homme considère donc de quoi il a été créé.",
+                            "verse 86:6": "Il a été créé d’une giclée d’eau",
+                            "verse 86:7": "sortie d’entre les lombes et les côtes.",
+                            "verse 86:8": "Dieu est certes capable de le ressusciter.",
+                            "verse 86:9": "Le jour où les coeurs dévoileront leurs secrets,",
+                            "verse 86:10": "Il n’aura alors ni force ne secoureur.",
+                            "verse 86:11": "Par le ciel qui fait revenir la pluie !",
+                            "verse 86:12": "et par la terre qui se fend !",
+                            "verse 86:13": "Ceci [le Coran] est certes, une parole décisive [qui tranche entre le vrai et le faux],",
+                            "verse 86:14": "et non point une plaisanterie frivole !",
+                            "verse 86:15": "Ils se servent d’une ruse,",
+                            "verse 86:16": "et Moi aussi Je me sers de Mon plan.",
+                            "verse 86:17": "Accorde (ô Prophète) donc un délai aux infidèles : accorde-leur un court délai."
+                        }
+                    }
+                }
+            },
+            "german": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "Bei dem Himmel und dem Morgenstern -",
+                            "verse 86:2": "Und was lehrt dich wissen, was der Morgenstern ist?",
+                            "verse 86:3": "Ein Stern von durchdringender Helligkeit -,",
+                            "verse 86:4": "Keine Seele gibt es, die nicht einen Wächter über sich hätte.",
+                            "verse 86:5": "Möge der Mensch denn betrachten, woraus er erschaffen.",
+                            "verse 86:6": "Erschaffen ward er aus einem sich ergießenden Wasser,",
+                            "verse 86:7": "Das zwischen den Lenden und den Rippen hervorkommt.",
+                            "verse 86:8": "Gewiß, Er vermag ihn wieder zu erwecken",
+                            "verse 86:9": "Am Tage, wenn die Geheimnisse enthüllt werden.",
+                            "verse 86:10": "Dann wird er keine Kraft und keinen Helfer haben.",
+                            "verse 86:11": "Bei der Wolke, die Regen um Regen sendet,",
+                            "verse 86:12": "Und der Erde, die sich spaltet (durch die Pflanzen),",
+                            "verse 86:13": "Dieser (Koran) ist wahrlich ein entscheidendes, letztes Wort.",
+                            "verse 86:14": "Er ist kein Spiel.",
+                            "verse 86:15": "Sie schmieden einen Plan,",
+                            "verse 86:16": "Auch Ich schmiede einen Plan.",
+                            "verse 86:17": "Drum gönne den Ungläubigen Zeit Überlasse sie auf eine Weile sich selbst."
+                        }
+                    }
+                }
+            },
+            "hindi": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "vkleku vkSj jkr dks vkus okys dh d+le",
+                            "verse 86:2": "vkSj rqedks D;k ekywe jkr dks vkus okyk D;k gS",
+                            "verse 86:3": "¼og½ pedrk gqvk rkjk gS",
+                            "verse 86:4": "¼bl ckr dh d+le½ fd dksbZ Ó[+l ,slk ugha ftl ij fuxsgcku eqd+jZj ugha",
+                            "verse 86:5": "rks bUlku dks ns[kuk pkfg, fd og fdl pht+ ls iSnk gqvk gaS",
+                            "verse 86:6": "og mNyrs gq, ikuh ¼euh½ ls iSnk gqvk gS",
+                            "verse 86:7": "tks ihB vkSj lhus dh gfM~M;ksa ds chp esa ls fudyrk gS",
+                            "verse 86:8": "cs’kd [+kqnk mlds nksckjk ¼iSnk½ djus ij t+:j dq+njr j[krk gS",
+                            "verse 86:9": "ftl fnu fnyksa ds Hksn tk¡ps tk,¡xs",
+                            "verse 86:10": "rks ¼ml fnu½ mldk u dqN t+ksj pysxk vkSj u dksbZ ennxkj gksxk",
+                            "verse 86:11": "pDdj ¼[kkus½ okys vkleku dh d+le",
+                            "verse 86:12": "vkSj QVus okyh ¼t+ehu dh d+le½",
+                            "verse 86:13": "cs’kd ;s d+qjku d+kSys Q+Sly gS",
+                            "verse 86:14": "vkSj yx+ks ugha gS",
+                            "verse 86:15": "cs’kd ;s dq¶+Q+kj viuh rn~~chj dj jgs gSa",
+                            "verse 86:16": "vkSj eSa viuh rn~chj dj jgk gw¡",
+                            "verse 86:17": "rks dkfQ+jksa dks eksgyr nks cl mudks FkksM+h lh eksgyr nks lwj, rkfjd+ [+kRe"
+                        }
+                    }
+                }
+            },
+            "indonesian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "Demi langit dan yang datang pada malam hari,",
+                            "verse 86:2": "tahukah kamu apakah yang datang pada malam hari itu?,",
+                            "verse 86:3": "(yaitu) bintang yang cahayanya menembus,",
+                            "verse 86:4": "tidak ada suatu jiwa pun (diri) melainkan ada penjaganya.",
+                            "verse 86:5": "Maka hendaklah manusia memperhatikan dari apakah dia diciptakan?",
+                            "verse 86:6": "Dia diciptakan dari air yang terpancar,",
+                            "verse 86:7": "yang keluar dari antara tulang sulbi dan tulang dada.",
+                            "verse 86:8": "Sesungguhnya Allah benar-benar kuasa untuk mengembalikannya (hidup sesudah mati).",
+                            "verse 86:9": "Pada hari dinampakkan segala rahasia,",
+                            "verse 86:10": "maka sekali-kali tidak ada bagi manusia itu suatu kekuatan pun dan tidak (pula) seorang penolong.",
+                            "verse 86:11": "Demi langit yang mengandung hujan,",
+                            "verse 86:12": "dan bumi yang mempunyai tumbuh-tumbuhan,",
+                            "verse 86:13": "sesungguhnya Al Qur'an itu benar-benar firman yang memisahkan antara yang hak dan yang batil,",
+                            "verse 86:14": "dan sekali-kali bukanlah dia senda gurau.",
+                            "verse 86:15": "Sesungguhnya orang kafir itu merencanakan tipu daya yang jahat dengan sebenar-benarnya.",
+                            "verse 86:16": "Dan Aku pun membuat rencana (pula) dengan sebenar-benarnya.",
+                            "verse 86:17": "Karena itu beri tangguhlah orang-orang kafir itu yaitu beri tangguhlah mereka itu barang sebentar."
+                        }
+                    }
+                }
+            },
+            "italian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "Per il cielo e per l'astro notturno ,",
+                            "verse 86:2": "e chi mai ti dirà cos'è l'astro notturno?",
+                            "verse 86:3": "E' la fulgida stella.",
+                            "verse 86:4": "Non c'è anima alcuna che non abbia su di sé un",
+                            "verse 86:5": "guardiano .",
+                            "verse 86:6": "Consideri dunque l'uomo da che cosa fu creato!",
+                            "verse 86:7": "Da un liquido eiaculato,",
+                            "verse 86:8": "che esce di tra i lombi e le costole.",
+                            "verse 86:9": "",
+                            "verse 86:10": "è certo capace di ricondurlo ,",
+                            "verse 86:11": "nel Giorno in cui i segreti saranno svelati,",
+                            "verse 86:12": "e",
+                            "verse 86:13": "non avrà più né forza né ausilio .",
+                            "verse 86:14": "Per il cielo che ritorna incessantamente",
+                            "verse 86:15": "e per la terra quando si fende :",
+                            "verse 86:16": "in verità questa è Parola decisiva,",
+                            "verse 86:17": "per nulla frivola.",
+                            "verse 86:18": "Invero tramano insidie,",
+                            "verse 86:19": "e Io tesso la Mia strategia.",
+                            "verse 86:20": "Concedi una dilazione ai miscredenti, da' loro un po' di tempo."
+                        }
+                    }
+                }
+            },
+            "japanese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "天と，夜訪れるものによって（誓う）。",
+                            "verse 86:2": "夜訪れる者が何であるかを，あなたに理解させるものは何か。",
+                            "verse 86:3": "（それは）きらめき輝く星。",
+                            "verse 86:4": "誰も自分の上に守護者（天使）をもたない者はない。",
+                            "verse 86:5": "人間は，何から創られたかを考察させなさい。",
+                            "verse 86:6": "かれは噴出する水から創られ，",
+                            "verse 86:7": "（それは）肋骨と腰の間から出てくる。",
+                            "verse 86:8": "本当にかれは，かれを（新たな生命に）引き戻すことが可能である。",
+                            "verse 86:9": "隠されたことが暴露される日，",
+                            "verse 86:10": "（人間には）力もなく，誰の助けもない。",
+                            "verse 86:11": "（回転して）返る天によって，",
+                            "verse 86:12": "裂け割れる大地によって（誓う）。",
+                            "verse 86:13": "本当にこれは，（善悪を）識別する御言葉，",
+                            "verse 86:14": "それは戯れごとではない。",
+                            "verse 86:15": "本当にかれらは，陰謀を企んでいる。",
+                            "verse 86:16": "われもまた策謀をめぐらす。",
+                            "verse 86:17": "だから不信者たちを猶予し，暫く放任するがいい。 われもまた策謀をめぐらす。"
+                        }
+                    }
+                }
+            },
+            "korean": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "하늘과 샛별을 두고 맹세하사",
+                            "verse 86:2": "샛별이 무엇인지 무엇이 그대 에게 설명하여 주리요",
+                            "verse 86:3": "그것은 빛나는 별이라",
+                            "verse 86:4": "모든 인간에게는 그를 감시하 는 자가 있나니",
+                            "verse 86:5": "그가 무엇으로부터 창조되었 는지 생각케 하라",
+                            "verse 86:6": "떨어지는 한 방울의 정액으로 창조되며",
+                            "verse 86:7": "그 정액은 등뼈와 늑골 사이 에서 나오는 것이라",
+                            "verse 86:8": "이렇듯 하나님은 그 인간을 부활케 하실 수 있으시며",
+                            "verse 86:9": "숨겨진 모든 것들이 명백하 게 드러나는 그날",
+                            "verse 86:10": "인간은 아무런 힘도 그리고구원자도 없노라",
+                            "verse 86:11": "비를 보내는 하늘을 두고 맹세하사",
+                            "verse 86:12": "식물을 싹트게 하는 대지를두고 맹세하나니",
+                            "verse 86:13": "실로 이것은 선악을 구별하는 말씀으로",
+                            "verse 86:14": "농담을 위한 것이 아니라",
+                            "verse 86:15": "음모하는 그들에게",
+                            "verse 86:16": "내가 방책을 세위 두었으니",
+                            "verse 86:17": "잠시 불신자들을 그대로 두라 얼마후에 그들을 벌하리라"
+                        }
+                    }
+                }
+            },
+            "kurdish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "سوێند به ئاسمان و ئه‌و ئه‌ستێرانه‌ی به‌شه‌ودا ده‌رده‌که‌ون.",
+                            "verse 86:2": "جا تۆ چووزانی (طارق) چیه‌.",
+                            "verse 86:3": "ئه‌ستێره‌یه‌که به ڕووناکیه‌که‌ی تاریکی ده‌بڕێت.",
+                            "verse 86:4": "(سوێند به‌وانه‌) هیچ که‌س نیه چاودێری نه‌بێت، (سه‌ره‌تا خوا چاودێری هه‌مووانه‌، فریشته‌کانیشی کردووه به چاودێرو پارێزه‌رمان).",
+                            "verse 86:5": "که‌واته با ئاده‌میزاد ته‌ماشا بکات و سه‌رنج بدات که له چی دروستکراوه‌؟!",
+                            "verse 86:6": "دروستکراوه له ئاوێکی هه‌ڵقوڵاو (که مه‌نی پیاوه و هێلکۆکه‌ی ئافره‌ته‌، هه‌ردوولایان هه‌ڵده‌قوڵێن بۆ پێکهاتنی ئاده‌میزاد، به‌ویستی خوا).",
+                            "verse 86:7": "له نێوان بڕبڕه‌کانی پشت و ئێسکه‌کانی سینه‌دا ده‌رده‌چێت.",
+                            "verse 86:8": "بێگومان ئه‌و زاته دووباره (دروستکردنه‌وه‌ی ئاده‌میزادی) زۆر لائاسانه و توانای ته‌واوی هه‌یه‌.",
+                            "verse 86:9": "ئه‌و ڕۆژه‌ی که هه‌موو نهێنیه‌کان ده‌رده‌که‌وێت و ئاشکرا ده‌کرێت.",
+                            "verse 86:10": "ئاده‌میزاد هیچ هێزو پشتیوانیه‌کی نیه‌.",
+                            "verse 86:11": "سوێند به ئاسمانێك که خاوه‌نی گێڕانه‌وه‌یه (سوڕی ئاو له سروشتدا، شه‌پۆله‌کانی ته‌له‌فون و ڕادیۆ و ته‌له‌فیزیۆن.",
+                            "verse 86:12": "هه‌روه‌ها سوێند به زه‌وی که درزی تێ ده‌بێت به‌هۆی ڕووه‌که‌وه‌.",
+                            "verse 86:13": "به‌ڕاستی ئه‌م قورئانه گوفتارێکی جیاکه‌ره‌وه‌یه (جیاکه‌ره‌وه‌ی حه‌ق و ناحه‌ق، ڕاست و درۆ، چاك و خراپ و،.",
+                            "verse 86:14": "ئه‌م قورئانه گوفتارێکی گه‌ڵته نیه‌.",
+                            "verse 86:15": "به‌ڕاستی ئه‌وانه سه‌رگه‌رمی پیلانن و خه‌ریکی داونانه‌وه‌ن (بۆ ئیمانداران).",
+                            "verse 86:16": "(به‌ڵام خوا ده‌فه‌رموێت): منیش پلان و نه‌خشه‌ی خۆم ده‌خه‌مه‌کار.",
+                            "verse 86:17": "که‌واته تۆیش تاوێك مۆڵه‌تی بێ باوه‌ڕان بده‌، که‌مێك لێیان بوه‌سته (بزانه چیان به‌سه‌ر ده‌هێنم)."
+                        }
+                    }
+                }
+            },
+            "malay": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "Demi langit dan \"At-Taariq\";",
+                            "verse 86:2": "Dan apa jalannya engkau dapat mengetahui apa dia \"At-Taariq\" itu?",
+                            "verse 86:3": "(At-Taariq) ialah bintang yang menembusi (sinaran cahayanya);",
+                            "verse 86:4": "Tiada sesuatu diri juapun melainkan ada malaikat yang menjaga (keadaannya serta menyimpan catitan mengenai segala bawaannya).",
+                            "verse 86:5": "(Setelah mengetahui yang demikian), maka hendaklah manusia memikirkan: Dari apa dia diciptakan.",
+                            "verse 86:6": "Dia diciptakan dari air (mani) yang memancut (ke dalam rahim);",
+                            "verse 86:7": "Yang keluar dari \"tulang sulbi\" lelaki dan \"tulang dada\" perempuan.",
+                            "verse 86:8": "Sesungguhnya Allah Maha Kuasa untuk mengembalikannya (hidup semula sesudah mati),",
+                            "verse 86:9": "Pada hari didedahkan segala yang terpendam di hati (dari iktiqad, niat dan lain-lainnya),",
+                            "verse 86:10": "Maka (pada saat itu) tidak ada bagi manusia sebarang kekuatan (untuk membela diri) dan tidak ada penolong (yang dapat memberikan pertolongan).",
+                            "verse 86:11": "Demi langit yang berulang-ulang mencurahkan hujan,",
+                            "verse 86:12": "Dan bumi yang merekah mengeluarkan tumbuh-tumbuhan,",
+                            "verse 86:13": "Sesungguhnya keterangan Al-Quran adalah kata-kata pemutus (yang sebenar),",
+                            "verse 86:14": "Dan bukanlah ia kata-kata yang olok-olok.",
+                            "verse 86:15": "Sesungguhnya mereka (yang menentangmu, wahai Muhammad) bermati-mati menjalankan rancangan jahat,",
+                            "verse 86:16": "Dan Aku pula tetap bertindak membalas rancangan jahat (mereka dan menggagalkannya).",
+                            "verse 86:17": "Oleh itu janganlah engkau hendakkan segera kebinasaan orang-orang kafir itu, berilah tempoh kepada mereka sedikit masa."
+                        }
+                    }
+                }
+            },
+            "persian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "سوگند به آسمان و كوبنده شب!",
+                            "verse 86:2": "و تو نمى‏دانى كوبنده شب چيست!",
+                            "verse 86:3": "همان ستاره درخشان و شكافنده تاريكيهاست!",
+                            "verse 86:4": "(به اين آيت بزرگ الهى سوگند) كه هر كس مراقب و محافظى دارد!",
+                            "verse 86:5": "انسان بايد بنگرد كه از چه چيز آفريده شده است!",
+                            "verse 86:6": "از يك آب جهنده آفريده شده است،",
+                            "verse 86:7": "آبى كه از ميان پشت و سينه‏ها خارج مى‏شود!",
+                            "verse 86:8": "مسلما او ( خدائى كه انسان را از چنين چيز پستى آفريد) مى‏تواند او را بازگرداند!",
+                            "verse 86:9": "در آن روز كه اسرار نهان (انسان) آشكار ميشود،",
+                            "verse 86:10": "و براى او هيچ نيرو و ياورى نيست!",
+                            "verse 86:11": "سوگند به آسمان پرباران،",
+                            "verse 86:12": "و سوگند به زمين پرشكاف (كه گياهان از آن سر برمى‏آورند)،",
+                            "verse 86:13": "كه اين () سخنى است كه حق را از باطل جدا مى‏كند،",
+                            "verse 86:14": "و هرگز شوخى نيست!",
+                            "verse 86:15": "آنها پيوسته حيله مى‏كنند،",
+                            "verse 86:16": "و من هم در برابر آنها چاره مى‏كنم!",
+                            "verse 86:17": "حال كه چنين است كافران را (فقط) اندكى مهلت ده (تا سزاى اعمالشان را ببينند)!"
+                        }
+                    }
+                }
+            },
+            "portuguese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "Pelo céu e pelo visitante noturno;",
+                            "verse 86:2": "E o que te fará entender o que é o visitante noturno?",
+                            "verse 86:3": "É a estrela fulgurante!",
+                            "verse 86:4": "Cada alma tem sobre si um guardião (angelical).",
+                            "verse 86:5": "Que o homem considere, pois, do quê foi criado!",
+                            "verse 86:6": "Foi criado de uma gota ejaculada,",
+                            "verse 86:7": "Que emana da conjunção das regiões sexuais do homem e da mulher.",
+                            "verse 86:8": "Sabei que Ele é capaz de ressuscitá-lo!",
+                            "verse 86:9": "(Isso se dará) no dia em que forem revelados os segredos,",
+                            "verse 86:10": "E em que (o homem) carecerá de poder e de um socorredor.",
+                            "verse 86:11": "Pelo céu, que proporciona a volta da chuva.",
+                            "verse 86:12": "E pela terra, que se fende (com o crescimento das plantas),",
+                            "verse 86:13": "Que (este Alcorão) é a palavra concludente,",
+                            "verse 86:14": "E não entretenimento.",
+                            "verse 86:15": "Em verdade, eles conspiram intensivamente (contra ti),",
+                            "verse 86:16": "E Eu conspiro intensivamente (contra eles).",
+                            "verse 86:17": "Tolera, pois, os incrédulos; tolera-os, por ora!"
+                        }
+                    }
+                }
+            },
+            "romanian": {
+                "translators": {
+                    "1": {
+                        "Lucrarea (traducere úi editare) a fost realizată de către": {
+                            "verse 86:1": "Pe cer și pe cel care vine noaptea !",
+                            "verse 86:2": "Dar de unde sã știi tu ce este cel care vine noaptea?!",
+                            "verse 86:3": "[Acesta este] luceafãrul cel strãlucitor!",
+                            "verse 86:4": "Nu este suflet care sã nu aibã asupra sa un pãzitor,",
+                            "verse 86:5": "Deci sã cugete omul din ce este el creat!",
+                            "verse 86:6": "El este creat dintr-o apã țâșnitã,",
+                            "verse 86:7": "Ce iese dintre coaste și piept!",
+                            "verse 86:8": "El are puterea sã-l facã din nou,",
+                            "verse 86:9": "În Ziua în care se vor dezvãlui tainele,",
+                            "verse 86:10": "Și atunci nu va avea nici putere, nici ajutor.",
+                            "verse 86:11": "Pe cerul cel cu revenirea",
+                            "verse 86:12": "Și pe pãmântul cu crãpãturi!",
+                            "verse 86:13": "El este un Cuvânt hotãrâtor ,",
+                            "verse 86:14": "El nu este o glumã!",
+                            "verse 86:15": "Ei plãnuiesc un vicleșug,",
+                            "verse 86:16": "Dar și Eu plãnuiesc un vicleșug!",
+                            "verse 86:17": "Deci, dã-le un rãgaz necredincioșilor! Dã-le lor un scurt rãgaz! vicleșug!"
+                        }
+                    },
+                    "2": {
+                        "George Grigore, Coranul": {
+                            "verse 86:1": "Pe cer şi pe luceafăr!",
+                            "verse 86:2": "Cum vei şti tu oare care este luceafărul?",
+                            "verse 86:3": "El este steaua cea sfredelitoare!",
+                            "verse 86:4": "Fiece suflet are asupra sa un păzitor!",
+                            "verse 86:5": "Omul, să privească din ce a fost creat!",
+                            "verse 86:6": "El a fost creat dintr-o apă ţâşnitoare",
+                            "verse 86:7": "ieşită dintre şale şi coaste.",
+                            "verse 86:8": "El îl poate aduce înapoi",
+                            "verse 86:9": "în Ziua când tainele vor fi puse la încercare",
+                            "verse 86:10": "şi atunci acel om nu va avea nici putere şi nici ajutor.",
+                            "verse 86:11": "Pe cer cu întoarcerea lui!",
+                            "verse 86:12": "Pe pământ cu desfacerea lui!",
+                            "verse 86:13": "Acesta este un Cuvânt despărţitor",
+                            "verse 86:14": "ce nu are în el nimic uşuratic.",
+                            "verse 86:15": "Dacă ei urzesc ceva,",
+                            "verse 86:16": "şi Eu voi urzi.",
+                            "verse 86:17": "Dă-le un răgaz tăgăduitorilor! Mai dă-le doar un scurt răgaz! urzi."
+                        }
+                    }
+                }
+            },
+            "russian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "В знак неба и идущего в ночи!",
+                            "verse 86:2": "Как объяснить тебе, что значит«в ночь идущий»?",
+                            "verse 86:3": "Звезда, что рассекает (небо своимсветом).",
+                            "verse 86:4": "Нет ни одной живой души,Что над собою стража не имеет.",
+                            "verse 86:5": "Пусть человек подумает над тем,как он был создан!",
+                            "verse 86:6": "Он создан из воды, что изливается(струей)",
+                            "verse 86:7": "И из грудных костей, и из хребтаисходит2313.",
+                            "verse 86:8": "Поистине, Он в силах воскреситьего опять!",
+                            "verse 86:9": "В тот ДеньВсе тайное подвергнется проверке,",
+                            "verse 86:10": "Лишенным всякой помощи и властибудет (человек).",
+                            "verse 86:11": "В знак неба, что вершит обратныйпуть,",
+                            "verse 86:12": "И в знак земли, способнойраскрываться(Для излияния воды иль прорастаньязлаков), —",
+                            "verse 86:13": "Сие, поистине, решающее Слово(Для различения Добра и Зла).",
+                            "verse 86:14": "И это — не простая тще’та.",
+                            "verse 86:15": "Они же2314 хитрость замышляют,",
+                            "verse 86:16": "А Я (для них) Свою готовлю.",
+                            "verse 86:17": "Дай же отсрочку им —Отсрочь им мягко, нанемного! готовлю."
+                        }
+                    }
+                }
+            },
+            "spanish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "¡Por el cielo y el astro nocturno!",
+                            "verse 86:2": "Y ¿cómo sabrás qué es el astro nocturno?",
+                            "verse 86:3": "Es la estrella de penetrante luz.",
+                            "verse 86:4": "No hay nadie que no tenga un guardián.",
+                            "verse 86:5": "¡Que considere el hombre de qué ha sido creado!",
+                            "verse 86:6": "Ha sido creado de un líquido fluente,",
+                            "verse 86:7": "que sale de entre los riñones y las costillas.",
+                            "verse 86:8": "En verdad, Él es capaz de volverle,",
+                            "verse 86:9": "el día que sean probados los secretos",
+                            "verse 86:10": "y no tenga ya fuerza ni quien le auxilie.",
+                            "verse 86:11": "¡Por el cielo periódico!",
+                            "verse 86:12": "¡Por la tierra que se abre!",
+                            "verse 86:13": "Es, en verdad, una palabra decisiva,",
+                            "verse 86:14": "seria.",
+                            "verse 86:15": "Ellos emplean una artimaña,",
+                            "verse 86:16": "y Yo empleo una artimaña,",
+                            "verse 86:17": "¡Concede una prórroga a los infieles, un poco más de prórroga!"
+                        }
+                    }
+                }
+            },
+            "tamil": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "வானத்தின் மீது சத்தியமாக! தாரிக் மீதும் சத்தியமாக",
+                            "verse 86:2": "தாரிக் என்னவென்று உமக்கு அறிவித்தது எது?",
+                            "verse 86:3": "அது இலங்கும் ஒரு நட்சத்திரம்.",
+                            "verse 86:4": "ஒவ்வொரு ஆத்மாவுக்கு ஒரு பாதுகாவலர் இல்லாமலில்லை.",
+                            "verse 86:5": "மனிதன் எதிலிருந்து படைக்கப்பட்டான் என்பதை கவனிக்கட்டும்.",
+                            "verse 86:6": "குதித்து வெளிப்படும் (ஒரு துளி) நீரினால் படைக்கப்பட்டான்.",
+                            "verse 86:7": "முதுகந் தண்டிற்கும், விலா எலும்புகளுக்கும் இடையிலிருந்து அது வெளியாகிறது.",
+                            "verse 86:8": "இறைவன் (மனிதன் இறந்த பின் அவனை உயிர்ப்பித்து) மீட்டும் சக்தியுடையவன்.",
+                            "verse 86:9": "இரகசியங்கள் யாவும் வெளிப்பட்டுவிடும் அந்நாளில்.",
+                            "verse 86:10": "மனிதனுக்கு எந்த பலமும் இராது, (அவனுக்கு) உதவி செய்பவனும் இல்லை.",
+                            "verse 86:11": "(திரும்பத் திரும்பப்) பொழியும் மழையை உடைய வானத்தின் மீது சத்தியமாக,",
+                            "verse 86:12": "(தாவரங்கள் முளைப்பதற்குப்) பிளவு படும் பூமியின் மீதும் சத்தியமாக,",
+                            "verse 86:13": "நிச்சயமாக இது (குர்ஆன் சத்தியத்தையும், அசத்தியத்தையும்) பிரித்து அறிவிக்கக்கூடிய வாக்காகும்.",
+                            "verse 86:14": "அன்றியும், இது வீணான (வார்த்தைகளைக் கொண்ட)து அல்ல.",
+                            "verse 86:15": "நிச்சயமாக அவர்கள் (உமக்கெதிராகச்) சூழ்ச்சி செய்கிறார்கள்.",
+                            "verse 86:16": "நானும் (அவர்களுக்கெதிராகச்) சூழ்ச்சி செய்கிறேன்.",
+                            "verse 86:17": "எனவே, காஃபிர்களுக்கு நீர் அவகாசமளிப்பீராக, சொற்பமாக அவகாசம் அளிப்பீராக."
+                        }
+                    }
+                }
+            },
+            "thai": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "ขอสาบานด้วยชั้นฟ้า และ (ดวงดาว) ที่มาในเวลาค่ำคืน",
+                            "verse 86:2": "และอะไรเล่าจะทำให้เจ้ารู้ได้ว่าสิ่งที่มาในเวลาค่ำคืนนั้นคืออะไร ?",
+                            "verse 86:3": "คือดวงดาวที่ประกายแสง",
+                            "verse 86:4": "ไม่มีชีวิตใด (อยู่โดยลำพัง) เว้นแต่มีผู้เฝ้ารักษามัน",
+                            "verse 86:5": "ดังนั้นมนุษย์จงไตร่ตรองดูซิว่าเขาถูกบังเกิดมาจากอะไร ?",
+                            "verse 86:6": "เขาถูกบังเกิดมาจากน้ำที่พุ่งออกมา",
+                            "verse 86:7": "มันออกมาจากกระดูกสันหลัง (ของชาย) และกระดูกหน้าอก (ของหญิง)",
+                            "verse 86:8": "แท้จริงพระองค์ทรงสามารถอย่างแน่นอนที่จะให้เขากลับมาอีก (คือฟื้นคืนชีพ)",
+                            "verse 86:9": "วันที่สิ่งเร้นลับทั้งหลายจะถูกเปิดเผย",
+                            "verse 86:10": "ดังนั้นเขาจะไม่มีพลังใด ๆ และไม่มีผู้ช่วยเหลือใด ๆ",
+                            "verse 86:11": "ขอสาบานด้วยชั้นฟ้าที่หลั่งน้ำฝน",
+                            "verse 86:12": "และแผ่นดินที่ปริออก (ให้เมล็ดพืชงอกเงย)",
+                            "verse 86:13": "แท้จริงอัลกุรอานนั้น คือพระดำรัสที่จำแนก (ระหว่างความจริงกลับความเท็จ)",
+                            "verse 86:14": "และอัลกุรอานนั้นมิใช่เรื่องไร้สาระ",
+                            "verse 86:15": "แท้จริงพวกเขากำลังวางแผนการณ์กันอยู่",
+                            "verse 86:16": "และข้าก็วางแผนการณ์อยู่",
+                            "verse 86:17": "ดังนั้น เจ้า (มุฮัมมัด) จงผ่อนปรนให้บรรดาผู้ปฏิเสธศรัทธาเถิด ข้าก็จะผ่อนปรนให้แก่พวกเขาระยะหนึ่ง"
+                        }
+                    }
+                }
+            },
+            "turkish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "Gökyüzüne ve târıka (sabah yıldızına) yemin ederim.",
+                            "verse 86:2": "Târıkın ne olduğunu nereden bileceksin?",
+                            "verse 86:3": "(O, karanlığı) delen yıldızdır.",
+                            "verse 86:4": "Hiç kimse yoktur ki üzerinde bir koruyucu, bir denetleyici bulunmasın.",
+                            "verse 86:5": "İnsan neden yaratıldığına bir baksın!",
+                            "verse 86:6": "Atılan bir sudan yaratıldı.",
+                            "verse 86:7": "(O su) sırt ile göğüs kafesi arasından çıkar.",
+                            "verse 86:8": "İşte Allah (başlangıçta bu şekilde yarattığı) insanı tekrar yaratmaya da kadirdir.",
+                            "verse 86:9": "Gizlenenlerin ortaya döküldüğü gün",
+                            "verse 86:10": "O gün insan için ne bir güç ne de bir yardımcı vardır.",
+                            "verse 86:11": "Dönüş sahibi olan (yağmur yağdıran) göğe, yemin ederim ki,",
+                            "verse 86:12": "(Nebat",
+                            "verse 86:13": "ile) yarılan yere ,",
+                            "verse 86:14": "Şüphesiz Kur'an, (hak ile bâtılı) ayıran bir sözdür.",
+                            "verse 86:15": "O, asla bir şaka değildir.",
+                            "verse 86:16": "Onlar bir tuzak kurarlar,",
+                            "verse 86:17": "Ben de bir tuzak kurarım.",
+                            "verse 86:18": "Onun için Kâfirlere mühlet ver, onları biraz kendi hallerine bırak (pek yakında desteğimiz sana gelecek)."
+                        }
+                    }
+                }
+            },
+            "urdu": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "آسمان اور رات کے وقت آنے والے کی قسم",
+                            "verse 86:2": "آسمان (کي فضائے بسيط اور خلائے عظيم) کي قَسم اور رات کو (نظر) آنے والے کي قَسمo",
+                            "verse 86:3": "اور آپ کو کيا معلوم کہ رات کو (نظر) آنے والا کيا ہےo",
+                            "verse 86:4": "اور تم کو کیا معلوم کہ رات کے وقت آنے والا کیا ہے",
+                            "verse 86:5": "وہ تارا ہے چمکنے والا",
+                            "verse 86:6": "(اس سے مراد) ہر وہ آسماني کرّہ ہے (خواہ وہ ستارہ ہو يا سيارہ يا اَجرامِ سماوي کا کوئي اور کرّہ) جو چمک کر (فضا کو) روشن کر ديتا ہے?o? النجم الثاقب سے مراد ذاتِ محمد مصطفي صلي اللہ عليہ وآلہ وسلم بھي ہے، جس نے سراجاً منيراً کي شان کے ساتھ آسمانِ رسالت پر چمک کر ظلمت بھري کائنات کو نورِ ايمان سے روشن کر ديا ہے? (الشفاء)",
+                            "verse 86:7": "کوئي شخص ايسا نہيں جس پر ايک نگہبان (مقرر) نہيں ہےo",
+                            "verse 86:8": "کہ کوئی متنفس نہیں جس پر نگہبان مقرر نہیں",
+                            "verse 86:9": "تو انسان کو دیکھنا چاہئے کہ وہ کاہے سے پیدا ہوا ہے",
+                            "verse 86:10": "پس انسان کو غور (و تحقيق) کرنا چاہيے کہ وہ کس چيز سے پيدا کيا گيا ہےo",
+                            "verse 86:11": "وہ قوت سے اچھلنے والے پاني (يعني قوي اور متحرک ماد? توليد) ميں سے پيدا کيا گيا ہےo",
+                            "verse 86:12": "وہ اچھلتے ہوئے پانی سے پیدا ہوا ہے",
+                            "verse 86:13": "جو پیٹھ اور سینے کے بیچ میں سے نکلتا ہے",
+                            "verse 86:14": "جو پيٹھ اور کولہے کي ہڈيوں کے درميان (پيڑو کے حلقہ ميں) سے گزر کر باہر نکلتا ہےo",
+                            "verse 86:15": "بيشک وہ اس (زندگي) کو پھر واپس لانے پر بھي قادر ہےo",
+                            "verse 86:16": "بیشک خدا اس کے اعادے (یعنی پھر پیدا کرنے) پر قادر ہے",
+                            "verse 86:17": "جس دن دلوں کے بھید جانچے جائیں گے",
+                            "verse 86:18": "جس دن سب راز ظاہر کر ديے جائيں گےo",
+                            "verse 86:19": "پھر انسان کے پاس نہ (خود) کوئي قوت ہوگي اور نہ کوئي (اس کا) مددگار ہوگاo",
+                            "verse 86:20": "تو انسان کی کچھ پیش نہ چل سکے گی اور نہ کوئی اس کا مددگار ہو گا",
+                            "verse 86:21": "آسمان کی قسم جو مینہ برساتا ہے",
+                            "verse 86:22": "اس آسماني کائنات کي قَسم جو پھر اپني ابتدائي حالت ميں پلٹ جانے والي ہےo",
+                            "verse 86:23": "اس زمين کي قَسم جو پھٹ (کر ريزہ ريزہ ہو) جانے والي ہےo",
+                            "verse 86:24": "اور زمین کی قسم جو پھٹ جاتی ہے",
+                            "verse 86:25": "کہ یہ کلام (حق کو باطل سے) جدا کرنے والا ہے",
+                            "verse 86:26": "بيشک يہ فيصلہ کن (قطعي) فرمان ہےo",
+                            "verse 86:27": "اور يہ ہنسي کي بات نہيں ہےo",
+                            "verse 86:28": "اور بیہودہ بات نہیں ہے",
+                            "verse 86:29": "یہ لوگ تو اپنی تدبیروں میں لگ رہے ہیں",
+                            "verse 86:30": "بيشک وہ (کافر) پُر فريب تدبيروں ميں لگے ہوئے ہيںo",
+                            "verse 86:31": "اور ميں اپني تدبير فرما رہا ہوںo",
+                            "verse 86:32": "اور ہم اپنی تدبیر کر رہے ہیں",
+                            "verse 86:33": "تو تم کافروں کو مہلت دو بس چند روز ہی مہلت دو",
+                            "verse 86:34": "پس آپ کافروں کو (ذرا) مہلت دے ديجئے، (زيادہ نہيں بس) انہيں تھوڑي سي ڈھيل (اور) دے ديجئےo دو"
+                        }
+                    }
+                }
+            },
+            "uzbek": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 86:1": "Осмон билан қасам ва ториқ билан қасам.",
+                            "verse 86:2": "Ториқ нималигини сенга не билдирди?",
+                            "verse 86:3": "У нур сочиб турувчи юлдуздир.",
+                            "verse 86:4": "Ҳеч бир жон йўқки, унинг ҳифз қилиб турувчиси бўлмаса.",
+                            "verse 86:5": "Инсон нимадан яралганига назар солсин.",
+                            "verse 86:6": "У отилиб чиқувчи сувдан яратилгандир.",
+                            "verse 86:7": "У (сув) сулб (умуртқа) ва тароиб (кўкрак суяги) орасидан чиқадир.",
+                            "verse 86:8": "Албатта У зот уни қайта тирилтиришга қодирдир.",
+                            "verse 86:9": "Сирлар фош бўладиган кундадир.",
+                            "verse 86:10": "Бас, (ўшанда) у(инсон)да қувват ҳам, нусрат берувчи ҳам бўлмайдир.",
+                            "verse 86:11": "Қайтувчи (ёмғир) соҳиби бўлган осмон билан қасам.",
+                            "verse 86:12": "Ёриб чиқувчи эгаси бўлган ер билан қасам.",
+                            "verse 86:13": "Албатта у(Қуръон) ажратувчи сўздир.",
+                            "verse 86:14": "Ва у ҳазил эмасдир.",
+                            "verse 86:15": "Албатта улар ҳийла-найранг қиларлар.",
+                            "verse 86:16": "Ва Мен ҳам ҳийла қилурман.",
+                            "verse 86:17": "Муҳлат бер кофирларга, уларга озгина муҳлат бер."
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

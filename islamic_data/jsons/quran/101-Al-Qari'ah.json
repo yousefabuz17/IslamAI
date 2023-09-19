@@ -1,0 +1,724 @@
+{
+    "surah_name": "Al-Qâri‘ah",
+    "surah_name_ar": "القارعة",
+    "verses": {
+        "languages": {
+            "albanian": {
+                "translators": {
+                    "1": {
+                        "Efendi Nahi": {
+                            "verse 101:1": "Goditja e tmerrshme (Kijameti)!",
+                            "verse 101:2": "C’është Goditja e tmerrshme!",
+                            "verse 101:3": "Kush të tregon ty për Goditjen e tmerrshme?",
+                            "verse 101:4": "Njerëzit, atë Ditë do të jenë të shpërndarë si fluturat,",
+                            "verse 101:5": "kurse malet – si leshi i shprishur.",
+                            "verse 101:6": "Atij (njeriut), veprat e mira të të cilit rëndojnë në peshojë",
+                            "verse 101:7": "ai do të jetë në jetën e kënaqur (në jetën e përhershme),",
+                            "verse 101:8": "e atij (njeriu), veprat e mira të të cilit nuk rëndojnë në peshojë,",
+                            "verse 101:9": "strehimi i tij do të jetë gremina e Skëterrës.",
+                            "verse 101:10": "E, kush të tregon ty se ç’është gremina e Skëterrës?",
+                            "verse 101:11": "(Ajo është) zjarr i vrullshëm."
+                        }
+                    }
+                }
+            },
+            "azerbaijani": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "Urəkləri dəhşətə salan qiyamət!",
+                            "verse 101:2": "Nədir qiyamət?!",
+                            "verse 101:3": "Sən nə bilirsən (haradan bilirsən) ki, nədir qiyamət?!",
+                            "verse 101:4": "O gün insanlar kəpənək kimi ətrafa səpələnəcək (çəyirtkə kimi bir-birinə qatışacaq);",
+                            "verse 101:5": "Dağlar isə didilmiş yun kimi olacaqdır!",
+                            "verse 101:6": "(O gün) tərəzisi ağır gələn (yaxşı əmələri pis əməllərdən çox olan) kimsə,",
+                            "verse 101:7": "(Cənnətdə) xoş güzəran içində olacaq!",
+                            "verse 101:8": "Tərəzisi yüngül gələn (yaxşı əməlləri pis əməllərdən az olan) kimsənin isə,",
+                            "verse 101:9": "Məskəni Haviyə (Cəhənnəmin dibi) olacaqdır!",
+                            "verse 101:10": "Sən nə bilirsən ki, o (Haviyə) nədir?!",
+                            "verse 101:11": "O çox qızmar bir atəşdir!"
+                        }
+                    }
+                }
+            },
+            "bosnian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "Smak svijeta!",
+                            "verse 101:2": "Šta je Smak svijeta?",
+                            "verse 101:3": "i šta ti znaš o Smaku svijeta?",
+                            "verse 101:4": "Toga dana će ljudi biti kao leptiri raštrkani,",
+                            "verse 101:5": "a planine kao šarena vuna iščupana.",
+                            "verse 101:6": "Onaj u koga njegova djela budu teška -",
+                            "verse 101:7": "u ugodnu životu će živjeti,",
+                            "verse 101:8": "a onaj u koga njegova djela budu lahka -",
+                            "verse 101:9": "boravište će mu bezdan biti.",
+                            "verse 101:10": "A znaš li ti šta će to biti? -",
+                            "verse 101:11": "Vatra užarena! -"
+                        }
+                    }
+                }
+            },
+            "bengali": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "করাঘাতকারী,",
+                            "verse 101:2": "করাঘাতকারী কি?",
+                            "verse 101:3": "করাঘাতকারী সম্পর্কে আপনি কি জানেন ?",
+                            "verse 101:4": "যেদিন মানুষ হবে বিক্ষিপ্ত পতংগের মত",
+                            "verse 101:5": "এবং পর্বতমালা হবে ধুনিত রঙ্গীন পশমের মত।",
+                            "verse 101:6": "অতএব যার পাল্লা ভারী হবে,",
+                            "verse 101:7": "সে সুখীজীবন যাপন করবে।",
+                            "verse 101:8": "আর যার পাল্লা হালকা হবে,",
+                            "verse 101:9": "তার ঠিকানা হবে হাবিয়া।",
+                            "verse 101:10": "আপনি জানেন তা কি?",
+                            "verse 101:11": "প্রজ্জ্বলিত অগ্নি! কি?"
+                        }
+                    }
+                }
+            },
+            "bulgarian": {
+                "translators": {
+                    "1": {
+                        "Tzvetan Theophanov": {
+                            "verse 101:1": "Бедствието!",
+                            "verse 101:2": "Какво е Бедствието?",
+                            "verse 101:3": "И откъде да знаеш ти какво е Бедствието?",
+                            "verse 101:4": "Деня, в който хората ще бъдат като пръснати пеперуди",
+                            "verse 101:5": "и планините ще бъдат като разпокъсана вълна.",
+                            "verse 101:6": "Онзи, чиито везни натежат,",
+                            "verse 101:7": "ще има живот в доволство,",
+                            "verse 101:8": "а онзи, чиито везни олекнат,",
+                            "verse 101:9": "завръщането му е бездна.",
+                            "verse 101:10": "А откъде да знаеш ти какво е тя?",
+                            "verse 101:11": "Пламтящ огън."
+                        }
+                    }
+                }
+            },
+            "chinese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "大難 ,",
+                            "verse 101:2": "大難是什麼？",
+                            "verse 101:3": "你怎能知道大難是什麼？",
+                            "verse 101:4": "在那日 ,眾人將似分散的飛蛾 ,",
+                            "verse 101:5": "山岳將似疏松的釆絨。",
+                            "verse 101:6": "至於善功的份量較重者 ,",
+                            "verse 101:7": "將在滿意的生活中 ;",
+                            "verse 101:8": "至於善功的份量較輕者 ,",
+                            "verse 101:9": "他的歸宿是深坑。",
+                            "verse 101:10": "你怎能知道深坑裏有什麼？",
+                            "verse 101:11": "有烈火。 你怎能知道深坑裏有什麼？"
+                        }
+                    }
+                }
+            },
+            "czech": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "Roztříštění!",
+                            "verse 101:2": "Co je to roztříštění?",
+                            "verse 101:3": "Víš ty vůbec, co je to roztříštěni?",
+                            "verse 101:4": "V ten den budou lidé jak můry rozptýlené",
+                            "verse 101:5": "a hory podobat se budou rozcupované vlně.",
+                            "verse 101:6": "Tehdy ten, jehož skutků váha bude těžká,",
+                            "verse 101:7": "se octne v blaženém žití,",
+                            "verse 101:8": "zatímco ten, jehož skutků váha bude lehká -",
+                            "verse 101:9": "Propast bude jeho mátí.",
+                            "verse 101:10": "Víš ty vůbec, co je to Propast?",
+                            "verse 101:11": "Oheň planoucí! Propast?"
+                        }
+                    }
+                }
+            },
+            "dutch": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "De ramp.",
+                            "verse 101:2": "Wat is de ramp?",
+                            "verse 101:3": "En wat weet gij (er van) wat de ramp is?",
+                            "verse 101:4": "Een Dag waarop de mensen als motten verstrooid zullen zijn.",
+                            "verse 101:5": "En de bergen als gekaarde wol",
+                            "verse 101:6": "Dan zal hij, wiens schalen zwaar zijn,",
+                            "verse 101:7": "Een aangenaam leven genieten.",
+                            "verse 101:8": "Doch hij, wiens schalen licht zijn,",
+                            "verse 101:9": "Zijn toevlucht zal Hawi’jah zijn.",
+                            "verse 101:10": "En gij weet niet, wat dit is.",
+                            "verse 101:11": "Het is een laaiend Vuur."
+                        }
+                    }
+                }
+            },
+            "english": {
+                "translators": {
+                    "1": {
+                        "Marmaduke Pickthall": {
+                            "verse 101:1": "The Calamity!",
+                            "verse 101:2": "What is the Calamity ?",
+                            "verse 101:3": "Ah, what will convey unto thee what the Calamity is!",
+                            "verse 101:4": "A day wherein mankind will be as thickly-scattered moths",
+                            "verse 101:5": "And the mountains will become as carded wool.",
+                            "verse 101:6": "Then, as for him whose scales are heavy (with good works),",
+                            "verse 101:7": "He will live a pleasant life.",
+                            "verse 101:8": "But as for him whose scales are light,",
+                            "verse 101:9": "A bereft and Hungry One will be his mother,",
+                            "verse 101:10": "Ah, what will convey unto thee what she is! -",
+                            "verse 101:11": "Raging Fire."
+                        }
+                    },
+                    "2": {
+                        "Abdullah Yusuf Ali": {
+                            "verse 101:1": "The (Day) of Noise and Clamour:",
+                            "verse 101:2": "What is the (Day) of Noise and Clamour?",
+                            "verse 101:3": "And what will explain to thee what the (Day) of Noise and Clamour is?",
+                            "verse 101:4": "(It is) a Day whereon men will be like moths scattered about,",
+                            "verse 101:5": "And the mountains will be like carded wool.",
+                            "verse 101:6": "Then, he whose balance (of good deeds) will be (found) heavy,",
+                            "verse 101:7": "Will be in a life of good pleasure and satisfaction.",
+                            "verse 101:8": "But he whose balance (of good deeds) will be (found) light,-",
+                            "verse 101:9": "Will have his home in a (bottomless) Pit.",
+                            "verse 101:10": "And what will explain to thee what this is?",
+                            "verse 101:11": "(It is) a Fire Blazing fiercely!"
+                        }
+                    },
+                    "3": {
+                        "Arthur J. Arberry": {
+                            "verse 101:1": "The Clatterer!",
+                            "verse 101:2": "What is the Clatterer?",
+                            "verse 101:3": "And what shall teach thee what is the Clatterer?",
+                            "verse 101:4": "The day that men shall be like scattered moths,",
+                            "verse 101:5": "and the mountains shall be like plucked wool-tufts.",
+                            "verse 101:6": "Then he whose deeds weigh heavy in the Balance",
+                            "verse 101:7": "shall inherit a pleasing life,",
+                            "verse 101:8": "but he whose deeds weigh light in the Balance",
+                            "verse 101:9": "shall plunge in the womb of the Pit.",
+                            "verse 101:10": "And what shall teach thee what is the Pit?",
+                            "verse 101:11": "A blazing Fire! Pit?"
+                        }
+                    },
+                    "4": {
+                        "Muhammad Asad": {
+                            "verse 101:1": "OH, the sudden calamity!",
+                            "verse 101:2": "How awesome the sudden calamity!",
+                            "verse 101:3": "And what could make thee conceive what that sudden calamity will be?",
+                            "verse 101:4": "[It will occur] on the Day when men will be like moths swarming in confusion,",
+                            "verse 101:5": "and the mountains will be like fluffy tufts of wool.",
+                            "verse 101:6": "And then, he whose weight [of good deeds] is heavy in the balance",
+                            "verse 101:7": "shall find himself in a happy state of life;",
+                            "verse 101:8": "whereas he whose weight is light in the balance",
+                            "verse 101:9": "shall be engulfed by an abyss.",
+                            "verse 101:10": "And what could make thee conceive what that",
+                            "verse 101:11": "will be?",
+                            "verse 101:12": "A fire hotly burning!"
+                        }
+                    },
+                    "5": {
+                        "Martin Lings": {
+                            "verse 101:1": "The day men shall be like scattered moths.",
+                            "verse 101:2": "And the mountains float like tufts of wool.",
+                            "verse 101:3": "Used• Unpublished Material (1938-2005) BOOKS•",
+                            "verse 101:4": "The Book of Certainty (1952) •",
+                            "verse 101:5": "A Sufi Saint of the Twentieth Century (1961) •",
+                            "verse 101:6": "What is Sufism (1975) •",
+                            "verse 101:7": "The Quranic Art of Calligraphy and Illumination (1976) •",
+                            "verse 101:8": "Muhammad (1983) •",
+                            "verse 101:9": "Symbol and Archetype (1991) •",
+                            "verse 101:10": "Sufi Poems (2004) •",
+                            "verse 101:11": "Mecca (2004) •",
+                            "verse 101:12": "Return to the Spirit (2005) •",
+                            "verse 101:13": "Splendours of Qur’an Calligraphy and Illumination (2005) ARTICLES•",
+                            "verse 101:14": "“Proofs of Islam”(1954).",
+                            "verse 101:15": "“The Islamic and Christian Conceptions of the March of Time” (1954) The Islamic Quarterly, Vol.",
+                            "verse 101:16": "“The Origins of Sufism (1956) The Islamic Quarterly, Vol.",
+                            "verse 101:17": "“Sufism”: Religion in the Middle East (1969); ed.",
+                            "verse 101:18": "“Sufi Answers to Questions On Ultimate Reality”: Studies in Comparative Religions 1979 Summer/Autumn •",
+                            "verse 101:19": "“The Nature and Origin of Sufism”: Islamic Spirituality (1985) •",
+                            "verse 101:20": "“Mystical Poetry”: The Cambridge History of Arabic Literature, Vol.",
+                            "verse 101:21": "“The Quranic Doctrine of the Afterlife” •",
+                            "verse 101:22": "“The Quranic Origins of Sufism” •",
+                            "verse 101:23": "“Human Origins and Destinies According to the Great Religions of the World” •",
+                            "verse 101:24": "“Metaphysics and the Perennial Philosophy” •",
+                            "verse 101:25": "“An Introduction to Islam” •",
+                            "verse 101:26": "“The Universality of the Quran” •",
+                            "verse 101:27": "Private Talks Books",
+                            "verse 101:28": "without Quranic Ayaat• Collected Poems• Ancient Beliefs and Modern Superstitions• The Eleventh Hour• The Secret of ShakespeareArticles without Quranic Ayaat• “Signs of the Times”: Studies in Comparative Religions 1970 Winter• “Ibn Aliwah” Encyclopedia of Islam, Second Edition• “Kabd” Encyclopedia of Islam, Second Edition Books"
+                        }
+                    },
+                    "6": {
+                        "Mufti Muhammad Taqi Uthmani": {
+                            "verse 101:1": "The Striking Event!",
+                            "verse 101:2": "What is the Striking Event?",
+                            "verse 101:3": "And what may let you know what the Striking Event is?",
+                            "verse 101:4": "(It will happen) on a day when people will be like scattered moths,",
+                            "verse 101:5": "and the mountains will be like carded wool.",
+                            "verse 101:6": "Then, as for him whose scales (of good deeds) are heavy,",
+                            "verse 101:7": "he will be in a happy life.",
+                            "verse 101:8": "But he whose scales are light,",
+                            "verse 101:9": "-his abode will be Abyss.",
+                            "verse 101:10": "And what may let you know what that (Abyss) is?",
+                            "verse 101:11": "A blazing Fire! is?"
+                        }
+                    },
+                    "7": {
+                        "Royal Aal al-Bayt Institute Translation": {
+                            "verse 101:1": "The Clattering Blow.",
+                            "verse 101:2": "What is the Clattering Blow?",
+                            "verse 101:3": "And what will show you what the Clattering Blow is?",
+                            "verse 101:4": "The day mankind will be like scattered moths",
+                            "verse 101:5": "and the mountains will be like tufts of wool.",
+                            "verse 101:6": "Then as for him whose scales weigh heavy,",
+                            "verse 101:7": "he will enjoy a pleasant life,",
+                            "verse 101:8": "but as for him whose scales weigh light,",
+                            "verse 101:9": "his home will be the Abyss.",
+                            "verse 101:10": "And what will show you what it is?",
+                            "verse 101:11": "A scorching fire."
+                        }
+                    },
+                    "8": {
+                        "Recitations of Ibrahim walk from saheeh international": {
+                            "verse 101:1": "The high-scale jolt rocking (the whole universe of the heavens and the earth) and thunder!",
+                            "verse 101:2": "And what is that high-scale jolt rocking (everything) and that thunder?",
+                            "verse 101:3": "And what have you made out what the high-scale jolt and thunder implies?",
+                            "verse 101:4": "(It implies) the Day of Resurrection when (the whole of) mankind will become like scattered moths,",
+                            "verse 101:5": "And the mountains will be like multicoloured carded wool.",
+                            "verse 101:6": "So he whose scales of deeds in the balance will be heavy,",
+                            "verse 101:7": "He will be in luxury and delight.",
+                            "verse 101:8": "But as for him whose scales of deeds in the balance will be light,",
+                            "verse 101:9": "His abode will be Hawiya (a pit in Hell)!",
+                            "verse 101:10": "And what have you made out what that (Hawiya) is?",
+                            "verse 101:11": "It is (an extremely deep pit of) the fiercely Blazing Fire (of Hell)."
+                        }
+                    }
+                }
+            },
+            "finnish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "Vyöryvä tuho!",
+                            "verse 101:2": "Miten hirveä on vyöryvä tuho!",
+                            "verse 101:3": "Ymmärrätkö, kuinka kauhea on vyöryvä tuho?",
+                            "verse 101:4": "Päivä, jolloin ihmiset ovat kuin hajoitettu sääksien parvi,",
+                            "verse 101:5": "ja vuoret kuin keritty villa.",
+                            "verse 101:6": "Sen osana, jonka hyvien tekojen mitta on suuri,",
+                            "verse 101:7": "on elämä täynnä tyydytystä,",
+                            "verse 101:8": "mutta toisin käy sen, jonka hyvät teot vaa'assa keveiksi havaitaan,",
+                            "verse 101:9": "hänen asumuksensa on oleva horna.",
+                            "verse 101:10": "Tiedätkö, mikä horna on?",
+                            "verse 101:11": "Se on polttava tuli."
+                        }
+                    }
+                }
+            },
+            "french": {
+                "translators": {
+                    "1": {
+                        "Jean-Louis Michon": {
+                            "verse 101:1": "Le grand Coup !",
+                            "verse 101:2": "Qu'est-ce donc que le grand Coup ?",
+                            "verse 101:3": "Qu'est-ce qui te fera savoir ce qu'est le grand Coup ?",
+                            "verse 101:4": "C'est le Jour où les hommes seront comme des papillons éparpillés,",
+                            "verse 101:5": "et les montagnes semblables à de la laine cardée.",
+                            "verse 101:6": "Celui dont les œuvres pèseront lourd",
+                            "verse 101:7": "connaîtra alors une vie heureuse ;",
+                            "verse 101:8": "mais celui dont la balance sera légère",
+                            "verse 101:9": "s'avancera vers un abîme.",
+                            "verse 101:10": "Et qu'est-ce qui te fera savoir ce qu'est cet abîme ?",
+                            "verse 101:11": "C'est un Feu ardent."
+                        }
+                    },
+                    "2": {
+                        "Muhammad Hamidullah ": {
+                            "verse 101:1": "Le fracas !",
+                            "verse 101:2": "Qu’est-ce que le fracas ?",
+                            "verse 101:3": "Et qui te dira ce qu’est le fracas ?",
+                            "verse 101:4": "C’est le jour où les gens seront comme des papillons éparpillés,",
+                            "verse 101:5": "et les montagnes comme de la laine cardée;",
+                            "verse 101:6": "quant à celui dont la balance sera lourde",
+                            "verse 101:7": "il sera dans une vie agréable;",
+                            "verse 101:8": "et quant à celui dont la balance sera légère,",
+                            "verse 101:9": "sa mère",
+                            "verse 101:10": "est un abîme très profond.",
+                            "verse 101:11": "Et qui te dira ce que c’est ?",
+                            "verse 101:12": "C’est un Feu ardent."
+                        }
+                    }
+                }
+            },
+            "german": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "Die Katastrophe!",
+                            "verse 101:2": "Was ist die Katastrophe?",
+                            "verse 101:3": "Und was lehrt dich wissen, was die Katastrophe ist?",
+                            "verse 101:4": "An einem Tage, da die Menschen gleich verstreuten Motten sein werden,",
+                            "verse 101:5": "Und die Berge wie Streichwolle werden.",
+                            "verse 101:6": "Dann wird der, dessen Waage schwer ist,",
+                            "verse 101:7": "Ein angenehmes Leben genießen.",
+                            "verse 101:8": "Der aber, dessen Waage leicht ist,",
+                            "verse 101:9": "Die Hölle wird seine Mutter sein.",
+                            "verse 101:10": "Und was lehrt dich wissen, was das ist? -",
+                            "verse 101:11": "Ein rasendes Feuer."
+                        }
+                    }
+                }
+            },
+            "hindi": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "[kM+[kM+kus okyh",
+                            "verse 101:2": "og [kM+[kM+kus okyh D;k gS",
+                            "verse 101:3": "vkSj rqe dks D;k ekywe fd og [kM+[kM+kus okyh D;k gS",
+                            "verse 101:4": "ftl fnu yksx ¼eSnkus g’kz esa½ fVM~fM;ksa dh rjg QSys gksaxs",
+                            "verse 101:5": "vkSj igkM+ /kqudh gq;h :bZ ds ls gks tk,¡xs",
+                            "verse 101:6": "rks ftlds ¼usd vkeky½ ds iYys Hkkjh gksaxs",
+                            "verse 101:7": "og eu Hkkrs ,s’k esa gksaxs",
+                            "verse 101:8": "vkSj ftuds vkeky ds iYys gYds gksaxs",
+                            "verse 101:9": "rks mudk fBdkuk u jgk",
+                            "verse 101:10": "vkSj rqedks D;k ekywe gkfo;k D;k gS",
+                            "verse 101:11": "og ngdrh gq;h vkx gS lwj, d+kfj;k [+kRe"
+                        }
+                    }
+                }
+            },
+            "indonesian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "Hari Kiamat,",
+                            "verse 101:2": "apakah hari Kiamat itu?",
+                            "verse 101:3": "Tahukah kamu apakah hari Kiamat itu?",
+                            "verse 101:4": "Pada hari itu manusia seperti kupu-kupu yang bertebaran,",
+                            "verse 101:5": "dan gunung-gunung seperti bulu yang dihambur-hamburkan.",
+                            "verse 101:6": "Dan adapun orang-orang yang berat timbangan (kebaikan) nya,",
+                            "verse 101:7": "maka dia berada dalam kehidupan yang memuaskan.",
+                            "verse 101:8": "Dan adapun orang-orang yang ringan timbangan (kebaikan) nya,",
+                            "verse 101:9": "maka tempat kembalinya adalah neraka Hawiyah.",
+                            "verse 101:10": "Dan tahukah kamu apakah neraka Hawiyah itu?",
+                            "verse 101:11": "(Yaitu) api yang sangat panas."
+                        }
+                    }
+                }
+            },
+            "italian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "La Percotente ,",
+                            "verse 101:2": "cos' è mai la Percotente?",
+                            "verse 101:3": "E chi potrà farti comprendere cos'è la Percotente?",
+                            "verse 101:4": "Il Giorno in cui gli uomini saranno come falene disperse,",
+                            "verse 101:5": "e le montagne come fiocchi di lana cardata,",
+                            "verse 101:6": "colui le cui bilance saranno pesanti",
+                            "verse 101:7": "avrà una vita felice ;",
+                            "verse 101:8": "colui che invece avrà bilance leggere,",
+                            "verse 101:9": "avrà per dimora il Baratro .",
+                            "verse 101:10": "E chi potrà farti comprendere cos'è?",
+                            "verse 101:11": "E' un Fuoco ardente."
+                        }
+                    }
+                }
+            },
+            "japanese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "恐れ戦く日（最後の審判）",
+                            "verse 101:2": "恐れ戦く日とは何か。",
+                            "verse 101:3": "恐れ戦く日が，何であるかをあなたに理解させるものは何か。",
+                            "verse 101:4": "（それは）人間が飛散する蛾のようになる日。",
+                            "verse 101:5": "また山々が，梳かれた羊毛のようになる（日である）。",
+                            "verse 101:6": "それで，かれの秤が（善行で）重い者は，",
+                            "verse 101:7": "幸福で満ち足りて暮らすであろう。",
+                            "verse 101:8": "だが秤の軽い者は，",
+                            "verse 101:9": "奈落が，かれの里であろう。",
+                            "verse 101:10": "それが何であるかを，あなたに理解させるものは何か。",
+                            "verse 101:11": "（それは）焦熱（地獄）の火。 それが何であるかを，あなたに理解させるものは何か。"
+                        }
+                    }
+                }
+            },
+            "korean": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "부활의 날",
+                            "verse 101:2": "부활의 날이 무엇이뇨",
+                            "verse 101:3": "부활의 날이 무엇인지 무엇이그대에게 설명하리요",
+                            "verse 101:4": "그날은 인간이 나방처럼 흩어지는 날이며",
+                            "verse 101:5": "산들은 가지런한 양털처럼 되는 날로",
+                            "verse 101:6": "그날 그의 선행이 무거운 자 는",
+                            "verse 101:7": "안락한 삶을 영위할 것이나",
+                            "verse 101:8": "그의 선행이 가벼운 자는",
+                            "verse 101:9": "불지옥의 함정에 있게 되리라",
+                            "verse 101:10": "불지옥의 함정이 무엇인지 무엇이 그대에게 설명하려 주리요",
+                            "verse 101:11": "그것은 격렬하게 타오르는 불지옥이라"
+                        }
+                    }
+                }
+            },
+            "kurdish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "(یه‌کێکه له ناوه‌کانی ڕۆژی قیامه‌ت) واته‌: ئه‌و گرمه‌یه‌یی دڵان ده‌له‌رزێنێت.",
+                            "verse 101:2": "ئاخۆ_القارعه‌_چی بێت؟",
+                            "verse 101:3": "(تۆ ئه‌ی ئینسان) چی فێری کردویت که‌_القارعه‌_چی یه‌!!",
+                            "verse 101:4": "ئه‌و ڕۆژه خه‌ڵکی وه‌کو په‌پووله‌ی سه‌رگه‌ردان په‌رش و بڵاو ده‌بنه‌وه‌.",
+                            "verse 101:5": "کێوه‌کانیش وه‌کو خوری شیکراوه‌یان لێ دێت (سووك ده‌بن و چاڵ و چۆڵیان پێ پڕ ده‌کرێته‌وه‌).",
+                            "verse 101:6": "جا ئه‌وه‌ی ته‌رازووی خێری سه‌نگین بێت.",
+                            "verse 101:7": "ئه‌وه له بارودۆخێکی خۆش و ئاسووده‌دا ژیان ده‌باته سه‌رو زۆر پێی ڕازیه‌.",
+                            "verse 101:8": "ئه‌وه‌ش ته‌رازووی (خێرو چاکه‌ی) سووك بێت (گوناهی زۆر بێت).",
+                            "verse 101:9": "ئه‌وه دایکی ئه‌و دۆزه‌خه (باوه‌شی بۆ کردۆته‌وه‌)",
+                            "verse 101:10": "جا تۆ چووزانی (هاویه‌) چیه‌؟!",
+                            "verse 101:11": "ئاگرێکی زۆر سوتێنه‌رو بڵێسه‌داره (هه‌رگیز خامۆش نابێت و تینی که‌م ناکات و له کۆڵی نابێته‌وه‌)."
+                        }
+                    }
+                }
+            },
+            "malay": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "Hari yang menggemparkan,",
+                            "verse 101:2": "Apa dia hari yang menggemparkan itu?",
+                            "verse 101:3": "Dan apa jalannya engkau dapat mengetahui kedahsyatan hari yang menggemparkan itu?",
+                            "verse 101:4": "(Hari itu ialah: Hari kiamat), hari manusia menjadi seperti kelkatu yang terbang berkeliaran,",
+                            "verse 101:5": "Dan gunung-ganang menjadi seperti bulu yang dibusar berterbangan.",
+                            "verse 101:6": "Setelah berlaku demikian, maka (manusia akan diberikan tempatnya menurut amal masing-masing); adapun orang yang berat timbangan amal baiknya;",
+                            "verse 101:7": "Maka dia berada dalam kehidupan yang senang lenang.",
+                            "verse 101:8": "Sebaliknya orang yang ringan timbangan amal baiknya;",
+                            "verse 101:9": "Maka tempat kembalinya ialah \"Haawiyah\"",
+                            "verse 101:10": "Dan apa jalannya engkau dapat mengetahui, apa dia \"Haawiyah\" itu?",
+                            "verse 101:11": "(Haawiyah itu ialah): Api yang panas membakar."
+                        }
+                    }
+                }
+            },
+            "persian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "آن حادثه كوبنده،",
+                            "verse 101:2": "و چه حادثه كوبنده‏اى!",
+                            "verse 101:3": "و تو چه مى‏دانى كه حادثه كوبنده چيست؟! (آن حادثه همان روز قيامت است!)",
+                            "verse 101:4": "روزى كه مردم مانند پروانه‏هاى پراكنده خواهند بود،",
+                            "verse 101:5": "و كوه‏ها مانند پشم رنگين حلاجى‏شده مى‏گردد!",
+                            "verse 101:6": "اما كسى كه (در آن روز) ترازوهاى اعمالش سنگين است،",
+                            "verse 101:7": "در يك زندگى خشنودكننده خواهد بود!",
+                            "verse 101:8": "و اما كسى كه ترازوهايش سبك است،",
+                            "verse 101:9": "پناهگاهش «هاويه‏» ( دوزخ) است!",
+                            "verse 101:10": "و تو چه مى‏دانى «هاويه‏» چيست؟!",
+                            "verse 101:11": "آتشى است سوزان!"
+                        }
+                    }
+                }
+            },
+            "portuguese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "A calamidade!",
+                            "verse 101:2": "Que é a calamidade?",
+                            "verse 101:3": "E o que te fará entender o que é a calamidade?",
+                            "verse 101:4": "(Acontecerá) no dia em que os homens estiverem como mariposas dispersas,",
+                            "verse 101:5": "E as montanhas como lã cardada!",
+                            "verse 101:6": "Porém, quanto àqueles cujas ações pesarem na balança,",
+                            "verse 101:7": "Desfrutará de uma vida prazenteira.",
+                            "verse 101:8": "Em troca, aquele cujas ações forem leves na balança,",
+                            "verse 101:9": "Terá como lar um (profundo) precipício.",
+                            "verse 101:10": "E o que é que te fará entender isso?",
+                            "verse 101:11": "É o fogo ardente!"
+                        }
+                    }
+                }
+            },
+            "romanian": {
+                "translators": {
+                    "1": {
+                        "Lucrarea (traducere úi editare) a fost realizată de către": {
+                            "verse 101:1": "\"Ziua aceea care lovește\"!",
+                            "verse 101:2": "Ce este \"Ziua aceea care lovește\"?",
+                            "verse 101:3": "Și de unde sã știi tu ce este “Ziua aceea care lovește”?",
+                            "verse 101:4": "În Ziua aceea, oamenii vor fi ca fluturii risipiți ,",
+                            "verse 101:5": "Iar munții vor fi ca lâna scãrmãnatã!",
+                            "verse 101:6": "Cât despre cel ale cãrui balanțe vor fi grele,",
+                            "verse 101:7": "El va avea parte de o viațã plãcutã ,",
+                            "verse 101:8": "Iar cât despre cel ale cãrui balanțe vor fi ușoare,",
+                            "verse 101:9": "Locul lui de veci va fi un abis.",
+                            "verse 101:10": "Și de unde sã știi tu ce este el?",
+                            "verse 101:11": "El este un Foc fierbinte! el?"
+                        }
+                    },
+                    "2": {
+                        "George Grigore, Coranul": {
+                            "verse 101:1": "Cea care bate!",
+                            "verse 101:2": "Ce este oare cea care bate!",
+                            "verse 101:3": "Cum vei şti tu oare ce este cea care bate?",
+                            "verse 101:4": "Ea va fi Ziua când oamenii vor fi ca fluturii împrăştiaţi,",
+                            "verse 101:5": "iar munţii precum lâna scărmănaţi.",
+                            "verse 101:6": "Când cele-i cântărite greu vor atârna,",
+                            "verse 101:7": "un trai de mulţumire va afla.",
+                            "verse 101:8": "Când cele-i cântărite uşor vor atârna,",
+                            "verse 101:9": "genunea este maica ce îşi va afla.",
+                            "verse 101:10": "Şi cum o vei cunoaşte, oare?",
+                            "verse 101:11": "O vâlvătaie dogorâtoare! oare?"
+                        }
+                    }
+                }
+            },
+            "russian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "День бичевания —",
+                            "verse 101:2": "Каков он — День (Господнего) Бича?",
+                            "verse 101:3": "Что объяснит тебе,Каков он — День Бича?",
+                            "verse 101:4": "В тот ДеньРассеются, подобно мотылькам, вселюди,",
+                            "verse 101:5": "Подобно паутинкам легкой шерсти,Повиснут горы.",
+                            "verse 101:6": "И для того, чьи добрые деяньяперевесят,",
+                            "verse 101:7": "Жизнь уготована в прекрасном Рае,Где он найдет блаженство и покой.",
+                            "verse 101:8": "Но тот, кто легковесен был в земныхдеяньях,",
+                            "verse 101:9": "Найдет убежище себе во Рву бездонном.",
+                            "verse 101:10": "Как объяснить тебе, каков он, этот Ров?",
+                            "verse 101:11": "Слепящим пламенем горит он! Ров?"
+                        }
+                    }
+                }
+            },
+            "spanish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "¡La Calamidad!",
+                            "verse 101:2": "¿Qué es la Calamidad?",
+                            "verse 101:3": "Y ¿cómo sabrás qué es la calamidad?",
+                            "verse 101:4": "El día que los hombres parezcan mariposas dispersas",
+                            "verse 101:5": "y las montañas copos de lana cardada,",
+                            "verse 101:6": "entonces, el autor de obras de peso",
+                            "verse 101:7": "gozará de una vida agradable,",
+                            "verse 101:8": "miemtras que el autor de obras ligeras",
+                            "verse 101:9": "tendrá un abismo por morada.",
+                            "verse 101:10": "Y ¿cómo sabrás qué es?",
+                            "verse 101:11": "¡Un fuego ardiente!"
+                        }
+                    }
+                }
+            },
+            "tamil": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "திடுக்கிடச் செய்யும் (நிகழ்ச்சி).",
+                            "verse 101:2": "திடுக்கிடச் செய்யும் (நிகழ்ச்சி) என்ன?",
+                            "verse 101:3": "திடுக்கிடச் செய்யும் (நிகழ்ச்சி) என்ன வென்று உமக்கு எது அறிவித்தது?",
+                            "verse 101:4": "அந்நாளில் சிதறடிக்கப்பட்ட ஈசல்களைப் போன்று மனிதர்கள் ஆகிவிடுவார்கள்.",
+                            "verse 101:5": "மேலும், மலைகள் கொட்டப்பட்ட பஞ்சைப் போன்று ஆகிவிடும்.",
+                            "verse 101:6": "எனவே, (அந்நாளில்) எவருடைய (நன்மையின்) நிறை கனத்ததோ-",
+                            "verse 101:7": "அவர் திருப்தி பொருந்திய வாழ்வில் இருப்பார்.",
+                            "verse 101:8": "ஆனால் எவனுடைய (நன்மையின்) நிறை இலேசாக இருக்கிறதோ-",
+                            "verse 101:9": "அவன் தங்குமிடம் \"ஹாவியா\" தான்.",
+                            "verse 101:10": "இன்னும் ('ஹாவியா') என்ன என்று உமக்கு அறிவித்தது எது?",
+                            "verse 101:11": "அது சுட்டெரிக்கும் (நரகத்தின்) தீக்கிடங்காகும்."
+                        }
+                    }
+                }
+            },
+            "thai": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "อัลกอริอะฮ์",
+                            "verse 101:2": "อัลกอริอะฮ์นั้นคืออะไร?",
+                            "verse 101:3": "และอะไรที่ทำให้เจ้าได้รู้ว่าอัลกอริอะฮ์ นั้นคืออะไร?",
+                            "verse 101:4": "วันที่มนุษย์จะเป็นเช่นแมลงเม่าที่กระจายว่อน",
+                            "verse 101:5": "และบรรดาภูเขาจะเป็นเช่นขนสัตว์ที่ปลิวว่อน",
+                            "verse 101:6": "ส่วนผู้ที่ตราชูของเขาหนัก",
+                            "verse 101:7": "เขาก็จะอยู่ในการมีชีวิตที่ผาสุก",
+                            "verse 101:8": "และส่วนผู้ที่ตราชูของเขาเบา",
+                            "verse 101:9": "ที่พำนักของเขาก็คือเหวลึก (ฮาวิยะฮ์)",
+                            "verse 101:10": "และอะไรเล่าที่ทำให้เจ้ารู้ได้ว่าเหวลึกคืออะไร?",
+                            "verse 101:11": "คือไฟอันร้อนแรง"
+                        }
+                    }
+                }
+            },
+            "turkish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "Kâria (kıyamet)!",
+                            "verse 101:2": "Nedir o Kâria?",
+                            "verse 101:3": "O Kârianın ne olduğunu bilir misin?",
+                            "verse 101:4": "İnsanların, ateşin etrafını sarmış pervaneler gibi olur,",
+                            "verse 101:5": "Dağların da atılmış renkli yüne dönüştüğü gündür (o Kâria!)",
+                            "verse 101:6": "O gün kimin tartılan ameli ağır gelirse.",
+                            "verse 101:7": "İşte o, hoşnut edici bir yaşayış içinde olur.",
+                            "verse 101:8": "Ameli yeğni olana gelince.",
+                            "verse 101:9": "İşte onun anası (yeri, yurdu) Hâviye'dir.",
+                            "verse 101:10": "Nedir o (Hâviye) bilir misin?",
+                            "verse 101:11": "Kızgın ateş!"
+                        }
+                    }
+                }
+            },
+            "urdu": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "کھڑ کھڑانے والی",
+                            "verse 101:2": "(زمين و آسمان کي ساري کائنات کو) کھڑکھڑا دينے والا شديد جھٹکا اور کڑکo",
+                            "verse 101:3": "وہ (ہر شے کو) کھڑ کھڑا دينے والا شديد جھٹکا اور کڑک کيا ہےo",
+                            "verse 101:4": "کھڑ کھڑانے والی کیا ہے؟",
+                            "verse 101:5": "اور تم کیا جانوں کھڑ کھڑانے والی کیا ہے؟",
+                            "verse 101:6": "اور آپ کيا سمجھے ہيں کہ (ہر شے کو) کھڑ کھڑا دينے والے شديد جھٹکے اور کڑک سے مراد کيا ہےo",
+                            "verse 101:7": "(اس سے مراد) وہ يومِ قيامت ہے جس دن (سارے) لوگ بکھرے ہوئے پروانوں کي طرح ہو جائيں گےo",
+                            "verse 101:8": "(وہ قیامت ہے) جس دن لوگ ایسے ہوں گے جیسے بکھرے ہوئے پتنگے",
+                            "verse 101:9": "اور پہاڑ ایسے ہو جائیں گے جیسے دھنکی ہوئی رنگ برنگ کی اون",
+                            "verse 101:10": "اور پہاڑ رنگ برنگ دھنکي ہوئي اُون کي طرح ہو جائيں گےo",
+                            "verse 101:11": "پس وہ شخص کہ جس (کے اعمال) کے پلڑے بھاري ہوں گےo",
+                            "verse 101:12": "تو جس کے (اعمال کے) وزن بھاری نکلیں گے",
+                            "verse 101:13": "وہ دل پسند عیش میں ہو گا",
+                            "verse 101:14": "تو وہ خوش گوار عيش و مسرت ميں ہوگاo",
+                            "verse 101:15": "اور جس شخص کے (اعمال کے) پلڑے ہلکے ہوں گےo",
+                            "verse 101:16": "اور جس کے وزن ہلکے نکلیں گے",
+                            "verse 101:17": "اس کا مرجع ہاویہ ہے",
+                            "verse 101:18": "تو اس کا ٹھکانا ہاويہ (جہنم کا گڑھا) ہوگاo",
+                            "verse 101:19": "اور آپ کيا سمجھے ہيں کہ ہاويہ کيا ہےo",
+                            "verse 101:20": "اور تم کیا سمجھے کہ ہاویہ کیا چیز ہے؟",
+                            "verse 101:21": "(وہ) دہکتی ہوئی آگ ہے",
+                            "verse 101:22": "(وہ جہنم کي) سخت دہکتي آگ (کا انتہائي گہرا گڑھا) ہےo ہے"
+                        }
+                    }
+                }
+            },
+            "uzbek": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 101:1": "Ал-Қориъату.",
+                            "verse 101:2": "Қориъату нима?",
+                            "verse 101:3": "Қориъат қандоқ нарса эканлигини сенга нима билдирди?",
+                            "verse 101:4": "У кунда одамлар тўзиб кетган капалакка ўхшаб қоларлар.",
+                            "verse 101:5": "Ва тоғлар титилган жунга ўхшаб қолар.",
+                            "verse 101:6": "Кимнинг торозуси оғир келса.",
+                            "verse 101:7": "Бас, у розилик ҳаётидадир.",
+                            "verse 101:8": "Ва аммо кимнинг тарозуси енгил келса.",
+                            "verse 101:9": "Бас, унинг онаси дўзахдир.",
+                            "verse 101:10": "У қандоқ нарса эканлигини сенга нима билдирди?",
+                            "verse 101:11": "У қаттиқ қизиган ўтдир."
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

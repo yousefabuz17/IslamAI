@@ -1,0 +1,827 @@
+{
+    "surah_name": "Al-Mumtahanah",
+    "surah_name_ar": "الممتحنة",
+    "verses": {
+        "languages": {
+            "albanian": {
+                "translators": {
+                    "1": {
+                        "Efendi Nahi": {
+                            "verse 60:1": "O besimtarë, mos e konsideroni armikun Tim dhe tuajin për dashamir; ju po shprehni dashuri ndaj tyre, kurse ata, me të vërtetë, kanë mohuar të drejtën që u ka ardhur juve, e dëbuan Profetin dhe juve, vetëm se besonit në Perëndinë, Zotin tuaj (mos i bëni ata dashamirë), në qoftë se jeni (keni dalë) luftëtarë në rrugën Time dhe për kënaqësinë Time.",
+                            "verse 60:2": "Nëse bini në duart e tyre, ata do të jenë armiq tuaj dhe do t’i zgjasin duart e tyre dhe gjuhët e tyre me qëllim të keq, dhe dëshirojnë që t’ju bëjnë jobesimtarë.",
+                            "verse 60:3": "Nuk do t’ju ndihmojnë juve në Ditën e Kijametit, as fëmijët, as farefisi.",
+                            "verse 60:4": "Shembull i mrekullueshëm për ju është Ibrahimi dhe ata që kanë qenë me të, kur i thanë popullit të vet: “Ne jemi larg prej jush dhe prej atyre që i luteni ju, përveç Perëndisë, na nuk u besojmë juve dhe armiqësia e urrejtja midis nesh është e përhershme, përderisa të mos besoni se ekziston një Perëndi i vetëm”; por, përveç fjalës së Ibrahimit (për të mirën e babës së tij): “Unë do të kërkoj falje për ty, por nuk kam kurrfarë mundësie për të shpëtuar ty prej dënimit të Perëndisë”.",
+                            "verse 60:5": "O Zoti ynë, mos lejo që të bijmë në provë të pafeve dh falna neve.",
+                            "verse 60:6": "Me të vërtetë, ky ka qenë shembull i mirë për ju, për ata që shpresojnë në Perëndinë dhe në Ditën e Kijametit.",
+                            "verse 60:7": "Ka gjasë që Perëndia do të lidhë (vendosë) dashuri midis jush dhe atyre ndaj të cilëve keni qëndrim armiqësor; Perëndia është i Plotëfuqishëm dhe falës e mëshirues.",
+                            "verse 60:8": "Perëndia nuk ju ndalon të shprehni mirësinë dhe të jeni të drejtë ndaj atyre, të cilët nuk luftojnë kundër jush për shkak të fesë (suaj) dhe që nuk ju dëbojnë juve prej shtëpive tuaja.",
+                            "verse 60:9": "Perëndia u ndalon juve t’i bnëi miq ata që luftojnë kundër jush për shkak të fesë dhe ju dëbojnë nga vatrat tuaja, si dhe kontribuojnë që të jeni të dëbuar; e kushdo që i bën miq ata – të tillët janë zullumqarë.",
+                            "verse 60:10": "O besimtarë, kur u vijnë juve besimtaret emigrante, provoni (besimin) tek ato, - e Perëndia më së miri e di besimin e tyre.",
+                            "verse 60:11": "E, nëse ndonjëra prej grave tuaja kthehet te jobesimtarët si dhe anasjelltas, atëherë plotësoniu atyre shpenzimet e martesës.",
+                            "verse 60:12": "O Pejbamer, kur të vijnë ty besimtaret që të betohen se: nuk do t’i bëjnë shok Perëndisë asgjë, se nuk do të vjedhin, se nuk do të kurvërojnë, se nuk do t’i mbysin fëmijët e tyre dhe se nuk do të vijnë me ndonjë mashtrim (shpifje) të madh në atë që gjendet në mes duarve dhe këmbëve të tyre (mos të bëjnë kopil), dhe që të mos kundërshtojnë ty në atë që është e arsyeshme (në kryerjen e dispozitave të fesë), ti pranoje betimin e tyre dhe lutju Perëndisë për to; me të vërtetë, Perëndia është falës dhe mëshirues.",
+                            "verse 60:13": "O besimtarë, mos e bëni mik atë popull, në të cilin Perëndia është i zemëruar, ata e kanë humbur shpresën për jetën tjetër, ashtu sikundër jobesimtarët që e kanë humbur tërë shpresën prej të varrosurve (se do të ringjallen)."
+                        }
+                    }
+                }
+            },
+            "azerbaijani": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "Ey iman gətirənlər! Nə mənim düşmənimi, nə də özünüzün düşmənini dost (vəli) tutun! Onlar (kafirlər) sizə gələn haqqı (Qur'anı, Muhəmməd əleyhissəlamı) inkar etdikləri halda, siz onlarla dostluq edirsiniz (mehribanlıq göstərirsiniz).",
+                            "verse 60:2": "Əgər onlar (müşriklər) sizi ələ keçirsələr (sizə qələbə çalsalar), sizə düşmən olar, sizə pisliklə əl və dil uzadar, sizin kafir olmanızı istəyərlər.",
+                            "verse 60:3": "Nə (xatirinə Allaha və Peyğəmbərinə xəyanət etdiyiniz Məkkədəki) qohum-əqrabanız, nə də oğul-uşağınız sizə bir fayda verəcəkdir.",
+                            "verse 60:4": "İbrahim və onunla birlikdə olanlar (mö'minlər) sizin üçün gözəl örnəkdir.",
+                            "verse 60:5": "Ey Rəbbimiz! Bizi kafirlər üçün sınaq vasitəsi etmə! (Bizi kafirlərin əli ilə sınağa çəkmə, onları bizim üstümüzdə hakim etmə!) Bizi bağışla.",
+                            "verse 60:6": "(Ey mö'minlər!) And olsun ki, onlar sizin üçün, Allaha və axirət gününə ümid bəsləyənlər üçün gözəl örnəkdir.",
+                            "verse 60:7": "(Ey mö'minlər!) Ola bilsin ki, Allah sizinlə düşmənçilik etdiyiniz kimsələr (Məkkə müşrikləri) arasında (onları islam dininə gətirməklə) dostluq (məhəbbət) yaratsın.",
+                            "verse 60:8": "Allah din yolunda sizinlə vuruşmayan və sizi yurdunuzdan çıxartmayan kimsələrə yaxşılıq etməyi və onlarla ədalətlə rəftar etməyi sizə qadağan etməz.",
+                            "verse 60:9": "Allah sizə ancaq sizinlə din yolunda vuruşan, sizi yurdunuzdan çıxardan və çıxartmağa kömək edən kimsələrlə dostluq etmənizi qadağan edər.",
+                            "verse 60:10": "Ey iman gətirənlər! Mö'min qadınlar sizin yanınıza mühacir kimi gəldikləri zaman onları imtahana çəkin.",
+                            "verse 60:11": "Əgər zövcələrinizdən biri sizdən qaçıb (mehrini geri qaytarmadan) kafirlərə qoşulsa və siz də (onlarla vuruşaraq) qənimət əldə etsəniz, zövcələri (kafirlərin yanına) getmiş kimsələrə (həmin qənimətdən) onların (bu övrətlərə) sərf etdikləri mehr qədər verin.",
+                            "verse 60:12": "Ya Peyğəmbər! Mö'min qadınlar Allaha heç bir şərik qoşmayacaqları, oğurluq və zina etməyəcəkləri, övladlarını öldürməyəcəkləri (qız uşaqlarını diri-diri torpağa gömməyəcəklərini), özgə kişilərdən olan uşaqlarını yalandan ərlərinə isnad etməyəcəkləri və heç bir yaxşı (bəyənilən) işdə sənin əleyhinə çıxmayacaqları barədə sənə bey'ət etmək üçün yanına gəldikləri zaman onların bey'ətini qəbul et və Allahdan onların bağışlanmasını dilə.",
+                            "verse 60:13": "Ey iman gətirənlər! Allahın qəzəbinə düçar olmuş bir qövmlə dostluq etməyin."
+                        }
+                    }
+                }
+            },
+            "bosnian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "O vjernici, ako ste pošli da se na putu Mome borite i da naklonost Moju steknete, s Mojim i svojim neprijateljima ne prijateljujte i ljubav im ne poklanjajte - oni poriču Istinu koja vam dolazi i izgone Poslanika i vas samo zato što u Allah",
+                            "verse 60:2": "Ako vas se oni domognu, biće neprijatelji vaši i pružiće prema vama, u zloj namjeri, ruke svoje i jezičine svoje, i jedva će dočekati da postanete nevjernici.",
+                            "verse 60:3": "Ni rodbina vaša ni djeca vaša neće vam biti od koristi, na Sudnjem danu On će vas razdvojiti; - a Allah dobro vidi ono što radite.",
+                            "verse 60:4": "Divan uzor za vas je Ibrahim i oni koji su uz njega bili kada su narodu svome rekli: \"Mi s vama nemamo ništa, a ni sa onima kojima se, umjesto Allahu, klanjate; mi vas se odričemo, i neprijateljstvo i mržnja će između nas ostati s",
+                            "verse 60:5": "Ne dopusti, Gospodaru naš, da nas nevjernicima staviš u iskušenje i oprosti nam, Gospodaru naš! Ti si, zaista, Silni i Mudri.",
+                            "verse 60:6": "Oni su vama divan uzor - onima koji žele Allaha i onaj svijet.",
+                            "verse 60:7": "Allah će, sigurno, uspostaviti ljubav između vas i onih s kojima ste u zavadi; Allah je svemoćan; Allah mnogo prašta i On je samilostan.",
+                            "verse 60:8": "Allah vam ne zabranjuje da činite dobro i da budete pravedni prema onima koji ne ratuju protiv vas zbog vjere i koji vas iz zavičaja vašeg ne izgone - Allah, zaista, voli one koji su pravični -",
+                            "verse 60:9": "ali vam zabranjuje da prijateljujete sa onima koji ratuju protiv vas zbog vjere i koji vas iz zavičaja vašeg izgone i koji pomažu da budete prognani.",
+                            "verse 60:10": "O vjernici, kada vam vjernice kao muhadžirke dođu, ispitajte ih - a Allah dobro zna kakvo je vjerovanje njihovo - pa ako se uvjerite da su vjernice onda ih ne vraćajte nevjernicima: one njima nisu dopuštene, niti su oni njima dopuš",
+                            "verse 60:11": "A ako neka od žena vaših nevjernicima umakne, i ako vi poslije u borbu s njima stupite, onda onima čije su žene umakle - vjenčane darove koje su im dali namirite.",
+                            "verse 60:12": "O vjerovjesniče, kada ti dođu vjernice da ti polože prisegu: da neće Allahu nikoga ravnim smatrati, i da neće krasti, i da neće bludničiti, i da neće djecu svoju ubijati, i da neće muževima tuđu djecu",
+                            "verse 60:13": "O vjernici, ne prijateljujte s ljudima koji su protiv sebe Allahovu srdžbu izazvali; oni su izgubili nadu da će bilo kakvu nagradu na ovome svijetu imati, isto kao što su izgubili nadu nevjernici da će se njihovi umrli živi vratit djecu"
+                        }
+                    }
+                }
+            },
+            "bengali": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "মুমিনগণ, তোমরা আমার ও তোমাদের শত্রুদেরকে বন্ধরূপে গ্রহণ করো না। তোমরা তো তাদের প্রতি বন্ধুত্বের বার্তা পাঠাও, অথচ তারা যে সত্য তোমাদের কাছে আগমন করেছে, তা অস্বীকার করছে। তারা রসূলকে ও তোমাদেরকে বহিস্কার করে এই অপরাধে যে, তোমরা তোমাদের পালনকর্তার প্রতি বিশ্বাস রাখ। যদি তোমরা আমার সন্তুষ্টিলাভের জন্যে এবং আমার পথে জেহাদ করার জন্যে বের হয়ে থাক, তবে কেন তাদের প্রতি গোপনে বন্ধুত্বের পয়গাম প্রেরণ করছ? তোমরা যা গোপন কর এবং যা প্রকাশ কর, ত আমি খুব জানি। তোমাদের মধ্যে যে এটা করে, সে সরলপথ থেকে বিচ্যুত হয়ে যায়।",
+                            "verse 60:2": "তোমাদেরকে করতলগত করতে পারলে তারা তোমাদের শত্রু হয়ে যাবে এবং মন্দ উদ্দেশ্যে তোমাদের প্রতি বাহু ও রসনা প্রসারিত করবে এবং চাইবে যে, কোনরূপে তোমরা ও কাফের হয়ে যাও।",
+                            "verse 60:3": "তোমাদের স্বজন-পরিজন ও সন্তান-সন্ততি কিয়ামতের দিন কোন উপকারে আসবে না। তিনি তোমাদের মধ্যে ফয়সালা করবেন। তোমরা যা কর, আল্লাহ তা দেখেন।",
+                            "verse 60:4": "তোমাদের জন্যে ইব্রাহীম ও তাঁর সঙ্গীগণের মধ্যে চমৎকার আদর্শ রয়েছে। তারা তাদের সম্প্রদায়কে বলেছিলঃ তোমাদের সাথে এবং তোমরা আল্লাহর পরিবর্তে যার এবাদত কর, তার সাথে আমাদের কোন সম্পর্ক নেই। আমরা তোমাদের মানি না। তোমরা এক আল্লাহর প্রতি বিশ্বাস স্থাপন না করলে তোমাদের মধ্যে ও আমাদের মধ্যে চিরশত্রুতা থাকবে। কিন্তু ইব্রাহীমের উক্তি তাঁর পিতার উদ্দেশে এই আদর্শের ব্যতিক্রম। তিনি বলেছিলেনঃ আমি অবশ্যই তোমার জন্য ক্ষমাপ্রার্থনা করব। তোমার উপকারের জন্যে আল্লাহর কাছে আমার আর কিছু করার নেই। হে আমাদের পালনকর্তা! আমরা তোমারই উপর ভরসা করেছি, তোমারই দিকে মুখ করেছি এবং তোমারই নিকট আমাদের প্রত্যাবর্তন।",
+                            "verse 60:5": "হে আমাদের পালনকর্তা! তুমি আমাদেরকে কাফেরদের জন্য পরীক্ষার পাত্র করো না। হে আমাদের পালনকর্তা! আমাদের ক্ষমা কর। নিশ্চয় তুমি পরাক্রমশালী, প্রজ্ঞাময়।",
+                            "verse 60:6": "তোমরা যারা আল্লাহ ও পরকাল প্রত্যাশা কর, তোমাদের জন্য তাদের মধ্যে উত্তম আদর্শ রয়েছে। আর যে মুখ ফিরিয়ে নেয়, তার জানা উচিত যে, আল্লাহ বেপরওয়া, প্রশংসার মালিক।",
+                            "verse 60:7": "যারা তোমাদের শত্রু আল্লাহ তাদের মধ্যে ও তোমাদের মধ্যে সম্ভবতঃ বন্ধুত্ব সৃষ্টি করে দেবেন। আল্লাহ সবই করতে পারেন এবং আল্লাহ ক্ষমাশীল, করুণাময়।",
+                            "verse 60:8": "ধর্মের ব্যাপারে যারা তোমাদের বিরুদ্ধে লড়াই করেনি এবং তোমাদেরকে দেশ থেকে বহিস্কৃত করেনি, তাদের প্রতি সদাচরণ ও ইনসাফ করতে আল্লাহ তোমাদেরকে নিষেধ করেন না। নিশ্চয় আল্লাহ ইনসাফকারীদেরকে ভালবাসেন।",
+                            "verse 60:9": "আল্লাহ কেবল তাদের সাথে বন্ধুত্ব করতে নিষেধ করেন, যারা ধর্মের ব্যাপারে তোমাদের বিরুদ্ধে যুদ্ধ করেছে, তোমাদেরকে দেশ থেকে বহিস্কৃত করেছে এবং বহিস্কারকার্যে সহায়তা করেছে। যারা তাদের সাথে বন্ধুত্ব করে তারাই জালেম।",
+                            "verse 60:10": "মুমিনগণ, যখন তোমাদের কাছে ঈমানদার নারীরা হিজরত করে আগমন করে, তখন তাদেরকে পরীক্ষা কর। আল্লাহ তাদের ঈমান সম্পর্কে সম্যক অবগত আছেন। যদি তোমরা জান যে, তারা ঈমানদার, তবে আর তাদেরকে কাফেরদের কাছে ফেরত পাঠিও না। এরা কাফেরদের জন্যে হালাল নয় এবং কাফেররা এদের জন্যে হালাল নয়। কাফেররা যা ব্যয় করেছে, তা তাদের দিয়ে দাও। তোমরা, এই নারীদেরকে প্রাপ্য মোহরানা দিয়ে বিবাহ করলে তোমাদের অপরাধ হবে না। তোমরা কাফের নারীদের সাথে দাম্পত্য সম্পর্ক বজায় রেখো না। তোমরা যা ব্যয় করেছ, তা চেয়ে নাও এবং তারাও চেয়ে নিবে যা তারা ব্যয় করেছে। এটা আল্লাহর বিধান; তিনি তোমাদের মধ্যে ফয়সালা করেন। আল্লাহ সর্বজ্ঞ প্রজ্ঞাময়।",
+                            "verse 60:11": "তোমাদের স্ত্রীদের মধ্যে যদি কেউ হাতছাড়া হয়ে কাফেরদের কাছে থেকে যায়, অতঃপর তোমরা সুযোগ পাও, তখন যাদের স্ত্রী হাতছাড়া হয়ে গেছে, তাদেরকে তাদের ব্যয়কৃত অর্থের সমপরিমাণ অর্থ প্রদান কর এবং আল্লাহকে ভয় কর, যার প্রতি তোমরা বিশ্বাস রাখ।",
+                            "verse 60:12": "হে নবী, ঈমানদার নারীরা যখন আপনার কাছে এসে আনুগত্যের শপথ করে যে, তারা আল্লাহর সাথে কাউকে শরীক করবে না, চুরি করবে না, ব্যভিচার করবে না, তাদের সন্তানদেরকে হত্যা করবে না, জারজ সন্তানকে স্বামীর ঔরস থেকে আপন গর্ভজাত সন্তান বলে মিথ্যা দাবী করবে না এবং ভাল কাজে আপনার অবাধ্যতা করবে না, তখন তাদের আনুগত্য গ্রহণ করুন এবং তাদের জন্যে আল্লাহর কাছে ক্ষমা প্রার্থনা করুন। নিশ্চয় আল্লাহ ক্ষমাশীল অত্যন্ত দয়ালু।",
+                            "verse 60:13": "মুমিনগণ, আল্লাহ যে জাতির প্রতি রুষ্ট, তোমরা তাদের সাথে বন্ধুত্ব করো না। তারা পরকাল সম্পর্কে নিরাশ হয়ে গেছে যেমন কবরস্থ কাফেররা নিরাশ হয়ে গেছে। দয়ালু।"
+                        }
+                    }
+                }
+            },
+            "bulgarian": {
+                "translators": {
+                    "1": {
+                        "Tzvetan Theophanov": {
+                            "verse 60:1": "О, вярващи, не взимайте за ближни Моите врагове и вашите врагове! Вие се отнасяте с обич към тях, а те не повярваха в истината, която дойде при вас.",
+                            "verse 60:2": "Ако ви надвият, ще ви станат врагове и ще простират със зло към вас ръцете и езиците си.",
+                            "verse 60:3": "Не ще ви помогнат нито вашите роднинства, нито вашите деца в Деня на възкресението.",
+                            "verse 60:4": "Хубав пример за вас са Ибрахим и онези, които бяха заедно с него, когато казаха на своя народ: Непричастни сме към вас за онова, на което служите вместо на Аллах! Ние ви отхвърляме и ще се прояви вражда и омраза помежду ни, докато не повярвате единствено",
+                            "verse 60:5": "Господи наш, не ни подлагай на изпитание чрез неверниците и ни опрости! Господи наш, наистина Ти си Всемогъщия, Премъдрия.",
+                            "verse 60:6": "Те са хубав пример за вас - за всеки, който се надява на Аллах и на Сетния ден.",
+                            "verse 60:7": "Аллах може да породи обич между вас и онези от тях, с които враждувахте.",
+                            "verse 60:8": "Аллах не ви забранява да се отнасяте с добро и да постъпвате справедливо към онези, които не воюват с вас в религията и не ви прогонват от домовете ви.",
+                            "verse 60:9": "Аллах ви забранява само да се сближавате с онези, които воюват с вас в религията и ви прогонват от домовете ви, и помагат за прогонването ви.",
+                            "verse 60:10": "О, вярващи, ако дойдат при вас вярващите жени като преселнички, изпитайте ги! Аллах най-добре знае вярата им.",
+                            "verse 60:11": "И ако сте изпуснали нещо от [похарченото за] съпругите ви",
+                            "verse 60:12": "при неверниците, и вземете придобивка [в битка], тогава дайте на онези, чиито съпруги са ги напуснали, толкова, колкото те са похарчили, и бойте се от Аллах, в Когото вярвате!",
+                            "verse 60:13": "О, Пророче, ако дойдат при теб вярващите жени да ти се закълнат, че не ще съдружават нищо с Аллах и не ще крадат, и не ще прелюбодействат, и не ще убиват децата си, и не ще скалъпват лъжа за онова, което е между ръцете и краката им, и че ще те слушат в од",
+                            "verse 60:14": "О, вярващи, не се сближавайте с хора, на които Аллах се е разгневил! Изгубили са те надежда за отвъдния живот, както и неверниците са изгубили надежда за намиращите се в гробовете."
+                        }
+                    }
+                }
+            },
+            "chinese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "信道的人們啊！你們不要以我的敵人和你們的敵人為朋友，而傳送消息給他們，以示親愛。他們不信降臨你們的真理，他們為你們信仰真主——你們的主——而將使者和你們驅逐出境。如果你們從故鄉遷出，是由於為我而奮鬥，是由於尋求我的喜悅，（那末，你們不要以他們為朋友）。你們秘密地傳送消息給他們，以示親愛，其實，我知道你們所隱匿的和你們所顯示的。你們中誰做這件事，誰已背離正道。",
+                            "verse 60:2": "如果他們發現你們，他們就變成你們的敵人，他們殺害你們，辱罵你們，希望你們叛道。",
+                            "verse 60:3": "你們的親戚和子孫，對於你們絕無裨益，在復活日，你們將被隔絕。真主是鑒察你們的行為的。",
+                            "verse 60:4": "易卜拉欣和他的教徒，是你們的好模範。當時，他們曾對自己的宗族說：「我們對於你們，和你們捨真主而崇拜的，確是無干的，我們不承認你們。我們彼此間的仇恨，永遠存在。直到你們只信仰真主。」但易卜拉欣對他父親所說的話，不可做你們的模範。他曾說：「我必定為你求饒，我不能為你抵禦真主的一些刑罰。」他們曾說：「我們的主啊！我們只信托你，我們只依歸你，只有你是最後的歸宿。",
+                            "verse 60:5": "我們的主啊！求你不要讓不信道的人迫害我們。我們的主啊！求你赦宥我們，你確是萬能的，確是至睿的。」",
+                            "verse 60:6": "易卜拉欣和他的教徒，對於你們希望會見真主和末日者，確是好模範。背叛者，無損於真主，因為真主確是無求的，確是可頌的。",
+                            "verse 60:7": "真主或許在你們和你們所仇視的人之間造化友誼，真主是全能的；真主是至赦的，是至慈的。",
+                            "verse 60:8": "未曾為你們的宗教而對你們作戰，也未曾把你們從故鄉驅逐出境者，真主並不禁止你們憐憫他們，公平待遇他們。真主確是喜愛公平者的。",
+                            "verse 60:9": "他只禁止你們結交曾為你們的宗教而對你們作戰，曾把你們從故鄉驅逐出境，曾協助別人驅逐你們的人。誰與他們結交，誰是不義者。",
+                            "verse 60:10": "信道的人們啊！當信女們遷移而來的時候，你們當試驗她們。真主是至知她們的信德的——如果你們認為她們確是信女，那末，就不要使她們再歸不信道的丈夫。她們對於他們是不合法的，他們對於她們也是不合法的。你們應當把他們所納的聘禮償還他們。當你們把她們的聘禮交付給她們的時候，你們娶她們為妻，對於你們是毫無罪過的。你們不要堅持不信道的妻子的婚約，你們當索回你們所納的聘禮，叫他們也索回他們所納的聘禮。這是真主的律例，他依此而替你們判決。真主是全知的，是至睿的。",
+                            "verse 60:11": "如果你們的妻子，有脫離你們而歸不信道者的，那末，當你們輪到交聘的時候，你們應當把妻子脫離者所納的聘禮交付他們。你們當敬畏你們所信仰的真主。",
+                            "verse 60:12": "先知啊！如果信女們到你面前來與你誓約：她們不以任何物配真主，不偷盜，不通姦，不殺自己的兒女，不以別人的兒子冒充丈夫的兒子，不違背你的合理的命令，那末，你當與她們誓約，你當為她們向真主告饒。真主確是至赦的，確是至慈的。",
+                            "verse 60:13": "信道的人們啊！你們不要結交真主所譴怒的民眾，他們對後世確已絕望，猶如不信道的人對墳裡的人絕望一樣。 先知啊！如果信女們到你面前來與你誓約：她們不以任何物配真主，不偷盜，不通姦，不殺自己的兒女，不以別人的兒子冒充丈夫的兒子，不違背你的合理的命令，那末，你當與她們誓約，你當為她們向真主告饒。真主確是至赦的，確是至慈的。"
+                        }
+                    }
+                }
+            },
+            "czech": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "Vy, kteří věříte! Neberte si nepřátele Mé i svoje za přátele, obracejíce se k nim s láskou, zatímco oni nevěří v to, co k vám přišlo z pravdy.",
+                            "verse 60:2": "Střetnou-li se s vámi, budou pro vás nepřáteli a vztáhnou po vás ruce své i jazyky své jen ve zlém a přáli by si, abyste byli nevěřícími.",
+                            "verse 60:3": "Nebudou vám k užitku ani vaši pokrevní příbuzní, ani vaše děti a v den zmrtvýchvstání Bůh mezi vámi rozhodne; Bůh přece jasně zří vše, co děláte.",
+                            "verse 60:4": "Vždyť máte nyní příklad překrásný v Abrahamovi a v těch, kdož byli s ním, když pravili lidu svému: \"My nemáme odpovědnost za vás a za to, co místo Boha ctíte; my se vás zříkáme a propuklo mezi námi a vámi nepřátelství a nenávist až navěky, dokud neuvěříte v Boha jediného!\" Výjimkou jsou slova Abrahamova otci jeho: \"Budu zajisté prosit za tebe o odpuštění, ačkoliv nevládnu pro tebe žádnou mocí u Boha.",
+                            "verse 60:5": "Pane náš, neuveď nás v pokušení před těmi, kdož jsou nevěřící, ale odpusť nám, Pane náš, vždyť Tys mocný, moudrý!\"",
+                            "verse 60:6": "Věru máte v nich příklad překrásný pro každého, kdo doufá dosáhnout Boha a dne soudného.",
+                            "verse 60:7": "Možná že Bůh způsobí, že mezi vámi a těmi, s nimiž jste v nepřátelství, zavládne láska, neboť Bůh je všemohoucí a Bůh je nejvýš odpouštějící a slitovný.",
+                            "verse 60:8": "Bůh vám nezakazuje, abyste byli dobří a spravedliví vůči těm, kdož nebojovali proti vám kvůli náboženství a nevyhnali vás z příbytků vašich, neboť Bůh věru miluje poctivé.",
+                            "verse 60:9": "Avšak Bůh vám zakazuje brát si za přátele ty, kteří proti vám bojovali kvůli náboženství, a ty, kteří vás vyhnali z příbytků vašich, a ty, kteří pomáhali při vašem vyhánění.",
+                            "verse 60:10": "Vy, kteří věříte! Když k vám přicházejí věřící ženy, jež se vystěhovaly, podrobte je zkoušce! Bůh nejlépe pak zná víru jejich; a když zjistíte, že jsou věřící, neposílejte je nazpět k nevěřícím, neboť jim nejsou dovoleny a ani oni nejsou dovoleni jim, ale dejte nevěřícím to, co vydali jako jejich obvěnění! A nebude pro vás hříchem, jestliže se s nimi oženíte poté, co dáte jim obvěnění jejich, avšak nedržte nevěřící ženy ve svazku manželském a žádejte nazpět to, co jste dali jako obvěnění a nevěřící ať požadují to, co dali ženám svým.",
+                            "verse 60:11": "A jestliže některá z vašich manželek odejde od vás k nevěřícím a vy jste dosáhli své pomsty, dejte těm, jejichž manželky odešly, totéž, co oni vydali jako obvěnění.",
+                            "verse 60:12": "Proroku, přijdou-li k tobě věřící ženy, přísahajíce ti věrnost, a že nebudou nic přidružovat k Bohu, že nebudou krást, nebudou cizoložit, že nebudou zabíjet své děti, že se nedopustí hanebnosti vymyšlené mezi svýma rukama a nohama a že nebudou neposlušné tebe v tom, co bylo uznáno za vhodné - přijmi přísahu jejich a popros Boha za ně o odpuštění, vždyť Bůh odpouštějící je, slitovný.",
+                            "verse 60:13": "Vy, kteří věříte! Neberte si za přátele lid, na nějž se Bůh rozhněval; ti ztratili naději na život budoucí, tak jako ji ztratili nevěřící ohledně obyvatel hrobů."
+                        }
+                    }
+                }
+            },
+            "dutch": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "O gij die gelooft, neemt Mijn vijanden en uw vijanden niet tot vrienden! Biedt gij hun vriendschap aan, hoewel zij de Waarheid die tot u is gekomen hebben verworpen en de boodschapper en uzelf verdrijven, omdat gij in God uw Heer gelooft? Indien gij optreedt om voor Mijn zaak te strijden en Mijn welbehagen te zoeken, zoudt gij hun dan in het geheim vriendschap betuigen? En Ik weet het beste wat gij verbergt en wat gij openbaar maakt.",
+                            "verse 60:2": "Als zij de overhand over u krijgen zullen zij als vijanden tegenover u handelen, en zij zullen hun handen en tong naar u uitsteken om u kwaad te berokkenen, en zij wensen vurig dat gij ongelovigen zult worden.",
+                            "verse 60:3": "Noch uw familiebanden noch uw kinderen zullen u op de Dag der Opstanding iets baten.",
+                            "verse 60:4": "Er is een goed voorbeeld voor u in Abraham en degenen die met hem waren toen zij tegen hun volk zeiden: \"Wij hebben niets uitstaande met u en hetgeen gij buiten God aanbidt.",
+                            "verse 60:5": "Onze Heer, maak ons niet tot een voorwerp van beproeving voor de ongelovigen en vergeef ons o, Heer, voorzeker Gij, Gij zijt de Almachtige, de Alwijze.",
+                            "verse 60:6": "Voorzeker, zij zijn een goed voorbeeld voor een ieder onder u die God en de Laatste Dag vreest.",
+                            "verse 60:7": "Het is mogelijk dat God liefde zal kweken tussen u en diegene van hen met wie gij in vijandschap verkeert; want God is Almachtig en God is Vergevensgezind, Genadevol.",
+                            "verse 60:8": "God verbiedt u niet, degenen, die niet tegen u om de godsdienst hebben gevochten, noch u uit uw huizen hebben verdreven, goed te doen en rechtvaardig te behandelen; voorzeker, God heeft de rechtvaardigen lief.",
+                            "verse 60:9": "Maar God verbiedt u vriendschap te betonen aan degenen, die tegen u gevochten hebben om de godsdienst, en die u uit uw huizen hebben verdreven of geholpen hebben u te verdrijven.",
+                            "verse 60:10": "O, gij die gelooft wanneer gelovige vrouwen tot u komen als vluchtelingen, beproeft haar (geloof); God kent hun geloof het beste.",
+                            "verse 60:11": "En als enig bezit door uw vrouwen van u overgaat in de handen der ongelovigen geeft dan in het omgekeerde geval aan diegenen, wier vrouwen zijn weggegaan hetzelfde als z.",
+                            "verse 60:12": "O profeet! Wanneer gelovige vrouwen tot u komen, haar eed van trouw aan u afleggende: dat zij niets met God zullen vereenzelvigen, en dat zij noch zullen stelen, noch overspel plegen, noch hun kinderen doden, noch laster die zij moedwillig hebben verzonnen, zullen uiten, noch ongehoorzaam zullen zijn aan u in wat recht is, neem dan haar trouw aan en vraag vergiffenis voor haar van God.",
+                            "verse 60:13": "O gij die gelooft, bevriendt u niet met een volk waarmee God vertoornd is; zij wanhopen aan het Hiernamaals zoals de ongelovigen wanhopen aan hen, die in de graven liggen."
+                        }
+                    }
+                }
+            },
+            "english": {
+                "translators": {
+                    "1": {
+                        "Marmaduke Pickthall": {
+                            "verse 60:1": "O ye who believe! Choose not My enemy and your enemy for allies.",
+                            "verse 60:2": "If they have the upper hand of you, they will be your foes, and will stretch out their hands and their tongues toward you with evil (intent), and they long for you to disbelieve.",
+                            "verse 60:3": "Your ties of kindred and your children will avail you naught upon the Day of Resurrection.",
+                            "verse 60:4": "There is a goodly pattern for you in Abraham and those with him, when they told their folk: Lo! we are guiltless of you and all that ye worship beside Allah.",
+                            "verse 60:5": "Our Lord! Make us not a prey for those who disbelieve, and forgive us, our Lord! Lo! Thou, only Thou, are the Mighty, the Wise.",
+                            "verse 60:6": "Verily ye have in them a goodly pattern for everyone who looketh to Allah and the Last Day.",
+                            "verse 60:7": "It may be that Allah will ordain love between you and those of them with whom ye are at enmity.",
+                            "verse 60:8": "Allah forbiddeth you not those who warred not against you on account of religion and drove you not out from your homes, that ye should show them kindness and deal justly with them.",
+                            "verse 60:9": "Allah forbiddeth you only those who warred against you on account of religion and have driven you out from your homes and helped to drive you out, that ye make friends of them.",
+                            "verse 60:10": "O ye who believe! When believing women come unto you as fugitives, examine them.",
+                            "verse 60:11": "And if any of your wives have gone from you unto the disbelievers and afterward ye have your turn (of triumph), then give unto those whose wives have gone the like of that which they have spent, and keep your duty to Allah in Whom ye are believers.",
+                            "verse 60:12": "O Prophet! If believing women come unto thee, taking oath of allegiance unto thee that they will ascribe no thing as partner unto Allah, and will neither steal nor commit adultery nor kill their children, nor produce any lie that they have devised between their hands and feet, nor disobey thee in what is right, then accept their allegiance and ask Allah to forgive them.",
+                            "verse 60:13": "O ye who believe! Be not friendly with a folk with whom Allah is wroth, (a folk) who have despaired of the Hereafter as the disbelievers despair of those who are in the graves."
+                        }
+                    },
+                    "2": {
+                        "Abdullah Yusuf Ali": {
+                            "verse 60:1": "O ye who believe! Take not my enemies and yours as friends (or protectors),- offering them (your) love, even though they have rejected the Truth that has come to you, and have (on the contrary) driven out the Prophet and yourselves (from your homes), (simply) because ye believe in God your Lord! If ye have come out to strive in My Way and to seek My Good Pleasure, (take them not as friends), holding secret converse of love (and friendship) with them: for I know full well all that ye conceal and all that ye reveal.",
+                            "verse 60:2": "If they were to get the better of you, they would behave to you as enemies, and stretch forth their hands and their tongues against you for evil: and they desire that ye should reject the Truth.",
+                            "verse 60:3": "Of no profit to you will be your relatives and your children on the Day of Judgment: He will judge between you: for God sees well all that ye do.",
+                            "verse 60:4": "There is for you an excellent example (to follow) in Abraham and those with him, when they said to their people: \"We are clear of you and of whatever ye worship besides God: we have rejected you, and there has arisen, between us and you, enmity and hatred for ever,- unless ye believe in God and Him alone\": But not when Abraham said to his father: \"I will pray for forgiveness for thee, though I have no power (to get) aught on thy behalf from God.",
+                            "verse 60:5": "\"Our Lord! Make us not a (test and) trial for the Unbelievers, but forgive us, our Lord! for Thou art the Exalted in Might, the Wise.",
+                            "verse 60:6": "There was indeed in them an excellent example for you to follow,- for those whose hope is in God and in the Last Day.",
+                            "verse 60:7": "It may be that God will grant love (and friendship) between you and those whom ye (now) hold as enemies.",
+                            "verse 60:8": "God forbids you not, with regard to those who fight you not for (your) Faith nor drive you out of your homes, from dealing kindly and justly with them: for God loveth those who are just.",
+                            "verse 60:9": "God only forbids you, with regard to those who fight you for (your) Faith, and drive you out of your homes, and support (others) in driving you out, from turning to them (for friendship and protection).",
+                            "verse 60:10": "O ye who believe! When there come to you believing women refugees, examine (and test) them: God knows best as to their Faith: if ye ascertain that they are Believers, then send them not back to the Unbelievers.",
+                            "verse 60:11": "And if any of your wives deserts you to the Unbelievers, and ye have an accession (by the coming over of a woman from the other side), then pay to those whose wives have deserted the equivalent of what they had spent (on their dower).",
+                            "verse 60:12": "O Prophet! When believing women come to thee to take the oath of fealty to thee, that they will not associate in worship any other thing whatever with God, that they will not steal, that they will not commit adultery (or fornication), that they will not kill their children, that they will not utter slander, intentionally forging falsehood, and that they will not disobey thee in any just matter,- then do thou receive their fealty, and pray to God for the forgiveness (of their sins): for God is Oft-Forgiving, Most Merciful.",
+                            "verse 60:13": "O ye who believe! Turn not (for friendship) to people on whom is the Wrath of God, of the Hereafter they are already in despair, just as the Unbelievers are in despair about those (buried) in graves."
+                        }
+                    },
+                    "3": {
+                        "Arthur J. Arberry": {
+                            "verse 60:1": "O believers, take not My enemy and your enemy for friends, offering them love, though they have disbelieved in the truth that has come to you, expelling the Messenger and you because you believe in God your Lord.",
+                            "verse 60:2": "If they come on you, they will be enemies to you, and stretch against you their hands and their tongues, to do you evil, and they wish that you may disbelieve.",
+                            "verse 60:3": "Neither your blood-kindred nor your children shall profit you upon the Day of Resurrection; He shall distinguish between you.",
+                            "verse 60:4": "You have had a good example in Abraham, and those with him, when they said to their people, ’We are quit of you and that you serve, apart from God.",
+                            "verse 60:5": "Our Lord, make us not a temptation to those who disbelieve; and forgive us.",
+                            "verse 60:6": "You have had a good example in them for whoever hopes for God and the Last Day.",
+                            "verse 60:7": "It may be God will yet establish between you and those of them with whom you are at enmity love.",
+                            "verse 60:8": "God forbids you not, as regards those who have not fought you in religion’s cause, nor expelled you from your habitations, that you should be kindly to them, and act justly towards them; surely God loves the just.",
+                            "verse 60:9": "God only forbids you as to those who have fought you in religion’s cause, and expelled you from your habitations, and have supported in your expulsion, that you should take them for friends.",
+                            "verse 60:10": "O believers, when believing women come to you as emigrants, test them.",
+                            "verse 60:11": "And if any of your wives slips away from you to the unbelievers, and then you retaliate, give those whose wives have gone away the like of what they have expended.",
+                            "verse 60:12": "O Prophet, when believing women come to thee, swearing fealty to thee upon the terms that they will not associate with God anything, and will not steal, neither commit adultery, nor slay their children, nor bring a calumny they forge between their hands and their feet, nor disobey thee in aught honourable, ask God’s forgiveness for them; God is All-forgiving, All-compassionate.",
+                            "verse 60:13": "O believers, take not for friends a people against whom God is wrathful, and who have despaired of the world to come, even as the unbelievers have despaired of the inhabitants of the tombs."
+                        }
+                    },
+                    "4": {
+                        "Muhammad Asad": {
+                            "verse 60:1": "O YOU who have attained to faith! Do not take My enemies – who are your enemies as well – for your friends, showing them affection even though they are bent on denying whatever truth has come unto you, [and even though] they have driven the Apostle and yourselves away,",
+                            "verse 60:2": "because you believe in God, your Sustainer! If [it be true that] you have gone forth [from your homes] to strive in My cause, and out of a longing for My goodly acceptance, [do not take them for your friends,] inclining towards them in secret affection: for I am fully aware of all that you may conceal as well as of all that you do openly.",
+                            "verse 60:3": "If they could but overcome you, they would",
+                            "verse 60:4": "remain your foes, and would stretch forth their hands and tongues against you with evil intent: for they desire that you",
+                            "verse 60:5": "should deny the truth.",
+                            "verse 60:6": "But [bear in mind that] neither your kinsfolk nor",
+                            "verse 60:7": "your own children will be of any benefit to you on Resurrection Day, [for then] He will decide between you [on your merit alone]: and God sees all that you do.",
+                            "verse 60:8": "Indeed, you have had a good example in Abraham and those who followed him, when they said unto their",
+                            "verse 60:9": "people: \"Verily, we are quit of you and of all that you worship instead of God: we deny the truth of whatever you believe; and between us and you there has arisen enmity and hatred, to last until such a time as you come to believe in the One God!\" The only exception was Abraham’s saying to his father, \"I shall indeed pray for",
+                            "verse 60:10": "forgiveness for thee, although I have it not in my power to obtain anything from God in thy behalf.",
+                            "verse 60:11": "O our Sustainer! Make us not a plaything for those who are bent on denying the truth! And forgive us our sins, O our Sustainer: for Thou alone art almighty, truly wise!\"",
+                            "verse 60:12": "In them, indeed, you have a good example for everyone who looks forward [with hope and awe] to God and the Last Day.",
+                            "verse 60:13": "",
+                            "verse 60:14": "it may well be that God will bring about",
+                            "verse 60:15": "affection between you [O believers] and some of those whom you",
+                            "verse 60:16": "face as enemies: for God is all-powerful – and God is much-forgiving, a dispenser of grace.",
+                            "verse 60:17": "As for such [of the unbelievers] as do not fight against you on account of",
+                            "verse 60:18": "faith, and neither drive you forth from your homelands, God does not forbid you to show them kindness and to behave towards them with full equity: for, verily, God loves those who act equitably.",
+                            "verse 60:19": "God only forbids you to turn in friendship towards such as fight against you because of",
+                            "verse 60:20": "faith, and drive you forth from your homelands, or aid",
+                            "verse 60:21": "in driving you forth: and as for those [from among you] who turn towards them in friendship, it is they, they who are truly wrongdoers!",
+                            "verse 60:22": "O YOU who have attained to faith! Whenever believing women come unto you, forsaking the domain of evil, examine them, [although only] God is fully aware of their faith; and if you have thus ascertained that they are believers, do not send them back to the deniers of the truth,",
+                            "verse 60:23": "they are not [any longer] lawful to their erstwhile husbands, and these are not [any longer] lawful to them.",
+                            "verse 60:24": "And if any of your wives should go over to the deniers of the truth, and you are thus afflicted in turn, then give unto those whose wives have gone away the equivalent of what they had spent [on their wives by way of dower], and remain conscious of God, in whom you believe!",
+                            "verse 60:25": "O Prophet! Whenever believing women come unto thee to pledge their allegiance to thee,",
+                            "verse 60:26": "that",
+                            "verse 60:27": "they would not ascribe divinity, in any way, to aught but God, and would not steal, and would not commit adultery, and would not kill their children, and would not indulge in slander, falsely devising it out of nothingness, and would not disobey thee in anything [that thou declarest to be] right – then accept their pledge of allegiance, and pray to God to forgive them their",
+                            "verse 60:28": "sins: for, behold, God is much-forgiving, a dispenser of grace.",
+                            "verse 60:29": "O YOU who have attained to faith! Be not friends with people whom God has condemned! They [who would befriend them] are indeed bereft of all hope of a life to come – just as those deniers of the truth are bereft of all hope of [ever again seeing] those who are",
+                            "verse 60:30": "in their graves.",
+                            "verse 60:31": "etc."
+                        }
+                    },
+                    "5": {
+                        "Martin Lings": {
+                            "verse 60:1": "It may be that God will establish love between you and those with whom ye are at enmity.",
+                            "verse 60:2": "Used• Unpublished Material (1938-2005) BOOKS•",
+                            "verse 60:3": "The Book of Certainty (1952) •",
+                            "verse 60:4": "A Sufi Saint of the Twentieth Century (1961) •",
+                            "verse 60:5": "What is Sufism (1975) •",
+                            "verse 60:6": "The Quranic Art of Calligraphy and Illumination (1976) •",
+                            "verse 60:7": "Muhammad (1983) •",
+                            "verse 60:8": "Symbol and Archetype (1991) •",
+                            "verse 60:9": "Sufi Poems (2004) •",
+                            "verse 60:10": "Mecca (2004) •",
+                            "verse 60:11": "Return to the Spirit (2005) •",
+                            "verse 60:12": "Splendours of Qur’an Calligraphy and Illumination (2005) ARTICLES•",
+                            "verse 60:13": "“Proofs of Islam”(1954).",
+                            "verse 60:14": "“The Islamic and Christian Conceptions of the March of Time” (1954) The Islamic Quarterly, Vol.",
+                            "verse 60:15": "“The Origins of Sufism (1956) The Islamic Quarterly, Vol.",
+                            "verse 60:16": "“Sufism”: Religion in the Middle East (1969); ed.",
+                            "verse 60:17": "“Sufi Answers to Questions On Ultimate Reality”: Studies in Comparative Religions 1979 Summer/Autumn •",
+                            "verse 60:18": "“The Nature and Origin of Sufism”: Islamic Spirituality (1985) •",
+                            "verse 60:19": "“Mystical Poetry”: The Cambridge History of Arabic Literature, Vol.",
+                            "verse 60:20": "“The Quranic Doctrine of the Afterlife” •",
+                            "verse 60:21": "“The Quranic Origins of Sufism” •",
+                            "verse 60:22": "“Human Origins and Destinies According to the Great Religions of the World” •",
+                            "verse 60:23": "“Metaphysics and the Perennial Philosophy” •",
+                            "verse 60:24": "“An Introduction to Islam” •",
+                            "verse 60:25": "“The Universality of the Quran” •",
+                            "verse 60:26": "Private Talks Books",
+                            "verse 60:27": "without Quranic Ayaat• Collected Poems• Ancient Beliefs and Modern Superstitions• The Eleventh Hour• The Secret of ShakespeareArticles without Quranic Ayaat• “Signs of the Times”: Studies in Comparative Religions 1970 Winter• “Ibn Aliwah” Encyclopedia of Islam, Second Edition• “Kabd” Encyclopedia of Islam, Second Edition Books"
+                        }
+                    },
+                    "6": {
+                        "Mufti Muhammad Taqi Uthmani": {
+                            "verse 60:1": "O you who believe, do not take My enemies and your enemies for friends, expressing love with them, while they have rejected the Truth that has come to you, expelling the Messenger and your selves (from Makkah) merely because you have faith in Allah who is your Lord, if you have set out to do Jihād (struggle) in My way, and to seek My pleasure.",
+                            "verse 60:2": "Should they have access to you, they will become your enemies, and will stretch their hands and tongues towards you with evil; and they desire that you should reject the (true) faith.",
+                            "verse 60:3": "Neither your womb-relations nor your children will benefit you on the Day of Judgment.",
+                            "verse 60:4": "Indeed, there is an excellent example for you in Ibrāhīm and those with him, when they said to their people, “We disown you and what you worship instead of Allah.",
+                            "verse 60:5": "Our Lord, do not make us persecuted by those who disbelieve, and forgive us, our Lord! You, only You, are the All-Mighty, the All-Wise.",
+                            "verse 60:6": "Indeed, for you there is an excellent example in them, for anyone who hopes (to meet) Allah and the Last Day.",
+                            "verse 60:7": "It is hoped that Allah will bring about love between you and those of them with whom you have enmity.",
+                            "verse 60:8": "Allah does not forbid you as regards those who did not fight you on account of faith, and did not expel you from your homes, that you do good to them, and deal justly with them.",
+                            "verse 60:9": "Allah forbids you only about those who fought you on account of faith, and expelled you from your homes, and helped (others) in expelling you, that you have friendship with them.",
+                            "verse 60:10": "O you who believe, when the believing women come to you as emigrants, put them to a test.",
+                            "verse 60:11": "And if some of your (Non-Muslim) wives have slipped from you, (and their present Non-Muslim husbands do not pay to you the dower as aforesaid,) and you have your turn (of paying dower to the previous Non-Muslim husbands of your present wives), then (instead of paying dower to them,) give those whose wives have slipped the like amount of what they had paid (to them).",
+                            "verse 60:12": "O you who believe, when the believing women come to you, seeking bai’ah (a pledge of allegiance) with you that they will not ascribe any partner to Allah, and will not commit theft, and will not commit fornication,and will not kill their children, and will not come up with a false claim (about the parentage of a child) that they falsely attribute (to the sperm of their husbands being dropped) between their hands and their feet (i.",
+                            "verse 60:13": "O you who believe, do not have friendship with a people with whom Allah is angry."
+                        }
+                    },
+                    "7": {
+                        "Royal Aal al-Bayt Institute Translation": {
+                            "verse 60:1": "O you who believe, do not take My enemy and your enemy for friends.",
+                            "verse 60:2": "If they were to prevail over you, they would be your enemies, and would stretch out against you their hands and their tongues with evil ;",
+                            "verse 60:3": "and they long for you to disbelieve.",
+                            "verse 60:4": "Your relatives and your children will not avail you.",
+                            "verse 60:5": "Verily there is for you a good example in [the person of] Abraham, and those who were with him, when they said to their people, ‘We are indeed innocent of you and of what you worship besides God.",
+                            "verse 60:6": "and to You is the journeying.",
+                            "verse 60:7": "Our Lord, do not make us a cause of beguilement for those who disbelieve, and forgive us.",
+                            "verse 60:8": "Verily there is for you in them a good example, for those [of you] who anticipate God and the Last Day.",
+                            "verse 60:9": "It may be that God will bring about between you and those of them with whom you are at enmity, affection.",
+                            "verse 60:10": "God does not forbid you in regard to those who did not wage war against you on account of religion and did not expel you from your homes, that you should treat them kindly and deal with them justly.",
+                            "verse 60:11": "God only forbids you in regard to those who waged war against you on account of religion and expelled you from your homes and supported",
+                            "verse 60:12": "in your expulsion, that you should make friends with them.",
+                            "verse 60:13": "O you who believe, when believing women come to you, emigrating, test them.",
+                            "verse 60:14": "ties of disbelieving women, and ask for [the return of] what you have expended.",
+                            "verse 60:15": "And if you lose any of your wives to the disbelievers, and so you retaliate, then give those whose wives have gone, the like of what they have expended.",
+                            "verse 60:16": "O Prophet, if believing women come to you, pledging allegiance to you that they will not ascribe anything as partner to God, and that they will not steal, nor commit adultery, nor slay their children, nor bring any lie that they have invented",
+                            "verse 60:17": "between their hands and their legs, nor disobey you in what is decent, then accept their allegiance and ask God to forgive them; surely God is Forgiving, Merciful.",
+                            "verse 60:18": "O you who believe, do not befriend a people against whom God is wrathful."
+                        }
+                    },
+                    "8": {
+                        "Recitations of Ibrahim walk from saheeh international": {
+                            "verse 60:1": "O believers! Do not make friends with My enemies and your enemies.",
+                            "verse 60:2": "Should they get the better of you, then (you will see that) they will be your open enemies.",
+                            "verse 60:3": "Neither your (disbelieving and polytheist) kindred nor your (disbelieving and polytheist) children will be of any good to you on the Day of Resurrection.",
+                            "verse 60:4": "Indeed, in Ibrahim (Abraham) and his companions there is an excellent example for you (to follow), when they said to their people: ‘We are utterly weary of (and cut off from) you and the idols that you worship apart from Allah; we have openly rejected you all.",
+                            "verse 60:5": "O our Lord! Make us not a source of trial for the disbelievers (i.",
+                            "verse 60:6": "Indeed, there is for you an excellent example in them (to follow), for him (in particular) who hopes (to appear before the presence of) Allah and looks forward to the Last Day.",
+                            "verse 60:7": "It may be that Allah brings about friendship (at a later stage) between you and those of them who are now your foes.",
+                            "verse 60:8": "Allah does not forbid you to be good to them and treat them with equity and justice who did not fight against you on (the question of) Din (Religion), nor did they drive you out of your homes (i.",
+                            "verse 60:9": "Allah only forbids you to befriend those who fought against you on (account of) the Din (Religion) and drove you out of your homes (i.",
+                            "verse 60:10": "O believers! When the believing women come to you as Emigrants, examine them thoroughly.",
+                            "verse 60:11": "And if any of your wives deserts you and goes over to the disbelievers, then (when) you become dominant in war and gain spoils, pay (out of it) those whose wives deserted them as much (money) as they paid (to them as dower).",
+                            "verse 60:12": "O Prophet! When the believing women appear in your presence to take the oath of allegiance that they will not set up anything as partner with Allah and will not steal, nor will they commit adultery, or kill their children, or bring false blame which they have invented between their hands and feet (i.",
+                            "verse 60:13": "O believers! Do not make friends with those on whom Allah has sent His wrath."
+                        }
+                    }
+                }
+            },
+            "finnish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "Te, jotka uskotte, älkää pitäkö Minun ja omia vihollisianne ystävinänne.",
+                            "verse 60:2": "Jos he yllättävät teidät, osoittautuvat he teidän vihollisiksenne ja suuntaavat teihin kätensä ja kielensä pahaa tarkoittaen, ja he toivoisivat teidän olevan uskottomia.",
+                            "verse 60:3": "Ylösnousemuksen päivänä eivät läheiset suhteenne, eivät edes lapsennekaan, hyödytä teitä vähääkään; ylösnousemuksen päivänä teidät erotetaan toisistanne; Jumala näkee tekonne.",
+                            "verse 60:4": "Totisesti on teille oivana esimerkkinä Aabraham ja ne, jotka häneen liittyivät, kun he sanoivat kansalleen: »Meillä ei ole mitään tekemistä teidän ja sen kanssa, jota palvelette Jumalan rinnalla.",
+                            "verse 60:5": "Herra, älä aseta meille kiusaukseksi niitä, jotka eivät usko, ja anna meille anteeksi.",
+                            "verse 60:6": "Totisesti ovat he hyvä esimerkki teille jokaiselle, joka pelkää Jumalaa ja uskoo tulevaan päivään, mutta jos joku kääntyy pois, on Hän, Jumala, totisesti kaikista riippumaton, ylistetty.",
+                            "verse 60:7": "Voi käydä niin, että Jumala aikaansaa ystävyyden teidän ja niiden välille, joita luulette vihollisiksenne, sillä Jumala on voimallinen, Jumala on anteeksiantava, armollinen.",
+                            "verse 60:8": "Jumala ei kiellä teitä osoittamasta ystävällisyyttä ja oikeamielisyyttä niitä kohtaan, jotka eivät ole taistelleet teitä vastaan uskontonne tähden eivätkä karkoittaneet teitä kodeistanne; totisesti, Jumala rakastaa oikeamielisiä.",
+                            "verse 60:9": "Hän vain kieltää teitä olemasta ystävällisiä niille, jotka ovat taistelleet teitä vastaan uskonne tähden, karkoittaneet teidät kodeistanne ja olleet toisille apuna teitä karkoitettaessa.",
+                            "verse 60:10": "Te uskovaiset, kun oikeauskoisia naisia tulee luoksenne paettuaan kodeistaan, niin tutkikaa heitä.",
+                            "verse 60:11": "Jos vaimoistanne joku pakenee uskottomien luokse, niin saalista saatuanne antakaa niille, joiden vaimot ovat karanneet, yhtä paljon kuin he ovat maksuna suorittaneet, ja täyttäkää velvollisuutenne Jumalalle, johon uskotte.",
+                            "verse 60:12": "Profeetta, kun uskovat naiset tulevat luoksesi ja lupaavat pyhästi, etteivät aseta mitään Jumalan rinnalle, etteivät varasta, eivät tee aviorikosta, eivät surmaa lapsiaan, eivät keksi valheita eivätkä ole tottelemattomia Sinua kohtaan siinä, mikä on kohtuullista, niin ota vastaan heidän lupauksensa ja ano Jumalalta heille anteeksiantoa; totisesti Jumala on anteeksiantava, armollinen.",
+                            "verse 60:13": "Te, jotka uskotte, älkää suosiko ihmisiä, joihin Jumala on vihastunut."
+                        }
+                    }
+                }
+            },
+            "french": {
+                "translators": {
+                    "1": {
+                        "Jean-Louis Michon": {
+                            "verse 60:1": "O vous qui croyez ! Ne prenez pas pour appuis Mes ennemis et les vôtres en leur manifestant de l'amitié, alors qu'ils mécroient en la vérité qui vous est parvenue.",
+                            "verse 60:2": "S'ils vous rencontrent, ils seront des ennemis pour vous ; ils vous malmèneront de leurs mains et de leurs langues ; ils aimeraient que vous mécroyiez.",
+                            "verse 60:3": "Ni vos liens du sang, ni vos enfants ne vous seront utiles le Jour de la Résurrection, où Dieu tranchera entre vous ; Il voit parfaitement ce que vous faites.",
+                            "verse 60:4": "Il vous a été donné un bel exemple en Abraham et en ceux qui étaient avec lui, lorsqu'ils dirent à leur peuple : \" Nous vous désavouons, vous et ce que vous adorez en dehors de Dieu ; nous vous renions ! Qu'entre nous et vous ne se manifestent jamais que de l'inimitié et de la haine jusqu'à ce que vous croyiez en Dieu, l'Unique ! \" Néanmoins Abraham dit à son père : \" Je demanderai pardon pour toi bien que je n'aie aucun pouvoir auprès de Dieu \".",
+                            "verse 60:5": "Notre Seigneur ! Ne permets pas que les mécréants nous persécutent et, notre Seigneur, pardonne-nous ! Certes, Tu es le Puissant, le Sage.",
+                            "verse 60:6": "Vous avez en eux un bel exemple pour celui qui espère en Dieu et au Jour dernier.",
+                            "verse 60:7": "Dieu établira peut-être de l'amitié entre vous et ceux d'entre eux que vous considérez comme des ennemis.",
+                            "verse 60:8": "Dieu ne vous interdit pas d'excuser et de traiter avec équité ceux qui ne vous ont pas combattus à cause de votre foi et qui ne vous ont pas expulsés de vos maisons ; Dieu aime ceux qui sont équitables.",
+                            "verse 60:9": "Dieu vous interdit seulement de prendre pour amis ceux qui vous ont combattus à cause de votre foi, ceux qui vous ont expulsés de vos maisons et ceux qui ont aidé à votre expulsion.",
+                            "verse 60:10": "O vous qui croyez, lorsque des croyantes qui ont émigré viennent à vous, éprouvez-les ! Dieu connaît mieux leur foi.",
+                            "verse 60:11": "Si quelqu'une de vos épouses va rejoindre les mécréants et qu'ensuite vous l'emportiez sur eux, donnez [en compensation] à ceux dont les épouses sont parties l'équivalent de ce qu'ils avaient dépensé [pour leur entretien].",
+                            "verse 60:12": "O Prophète ! Lorsque les croyantes viennent te faire allégeance en jurant qu'elles n'associeront rien à Dieu, qu'elles ne voleront pas, qu'elles ne commettront pas d'adultère, qu'elles ne tueront pas leurs enfants, qu'elles ne proféreront aucun mensonge forgé entre leurs mains et leurs pieds, qu'elles ne te désobéiront en rien de ce qui est convenable, reçois alors leur serment d'allégeance et demande pardon à Dieu pour elles.",
+                            "verse 60:13": "O vous, qui croyez ! Ne prenez pas pour amis des gens contre lesquels Dieu est courroucé et qui désespèrent de la vie future, comme les mécréants désespèrent des hôtes des sépulcres."
+                        }
+                    },
+                    "2": {
+                        "Muhammad Hamidullah ": {
+                            "verse 60:1": "ô vous qui avez cru ! Ne prenez pas pour alliés Mon ennemi et le vôtre, leur offrant l’amitié, alors qu’ils ont nié ce qui vous est parvenu de la vérité.",
+                            "verse 60:2": "S’ils vous dominent, ils seront des ennemis pour vous et étendront en mal leurs mains et leurs langues vers vous; et ils aimeraient que vous deveniez mécréants.",
+                            "verse 60:3": "Ni vos proches parents ni vos enfants ne vous seront d’aucune utilité le Jour de la Résurrection, Il",
+                            "verse 60:4": "décidera entre vous, et Dieu est Clairvoyant sur ce que vous faites.",
+                            "verse 60:5": "Certes, vous avez eu un bel exemple [à suivre] en Abraham et en ceux qui étaient avec lui, quand ils dirent à leur peuple : «Nous vous désavouons, vous et ce que vous adorez en dehors de Dieu.",
+                            "verse 60:6": "à son père : «J’implorerai certes, le pardon [de Dieu] en ta faveur bien que je ne puisse rien pour toi auprès de Dieu».",
+                            "verse 60:7": "Et vers Toi est le Devenir.",
+                            "verse 60:8": "Seigneur, ne fais pas de nous [un sujet] de tentation pour ceux qui ont mécru; et pardonne-nous, Seigneur, car c’est Toi le Puissant, le Sage»",
+                            "verse 60:9": "Vous avez certes eu en eux un bel exemple [à suivre], pour celui qui espère en Dieu et en le Jour dernier : mais quiconque se détourne.",
+                            "verse 60:10": "Il se peut que Dieu établisse de l’amitié entre vous et ceux d’entre eux dont vous avez été les ennemis.",
+                            "verse 60:11": "Dieu ne vous défend pas d’être bienfaisants et équitables envers ceux qui ne vous ont pas combattus pour la religion et ne vous ont pas chassés de vos demeures.",
+                            "verse 60:12": "Dieu vous défend seulement de prendre pour alliés ceux qui vous ont combattus pour la religion, chassés de vos demeures et ont aidé à votre expulsion.",
+                            "verse 60:13": "ô vous qui avez cru ! Quand les croyantes viennent à vous en émigrées, éprouvez-les; Dieu connaît mieux leur foi; si vous constatez qu’elles sont croyantes, ne les renvoyez pas aux mécréants.",
+                            "verse 60:14": "Et si quelqu’une de vos épouses s’échappe vers les mécréants, et que vous fassiez des représailles , restituez à ceux dont les épouses sont parties autant que ce qu’ils avaient dépensé.",
+                            "verse 60:15": "ô Prophète ! Quand les croyantes viennent te prêter serment d’allégeance, [et en jurent] qu’elles n’associeront rien à Dieu, qu’elles ne voleront pas, qu’elles ne se livreront pas à l’adultère, qu’elles ne tueront pas leurs propres enfants, qu’elles ne commettront aucune infamie ni avec leurs mains ni avec leurs pieds et qu’elles ne désobéiront pas en ce qui est convenable, alors reçois leur serment d’allégeance, et implore de Dieu le pardon pour elles.",
+                            "verse 60:16": "ô vous qui avez cru ! Ne prenez pas pour alliés des gens contre lesquels Dieu est courroucé et qui désespèrent de l’au-delà, tout comme les mécréants désespèrent des gens des tombeaux."
+                        }
+                    }
+                }
+            },
+            "german": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "O die ihr glaubt, nehmt euch nicht Meinen Feind und euren Feind zu Freunden, ihnen Liebe erbietend, da sie doch die Wahrheit leugnen, die zu euch gekommen ist, und den Gesandten und euch selbst austreiben, weil ihr an Allah, euren Herrn, glaubt.",
+                            "verse 60:2": "Wenn sie die Oberhand über euch gewinnen, dann werden sie sich gegen euch als Feinde betragen und ihre Hände und ihre Zungen zum Bösen gegen euch ausstrecken; und sie wünschen inständig, daß ihr ungläubig würdet.",
+                            "verse 60:3": "Weder eure Bande der Blutsverwandtschaft noch eure Kinder werden euch am Tage der Auferstehung im geringsten nützen.",
+                            "verse 60:4": "Ihr habt bereits ein vortreffliches Beispiel an Abraham und denen mit ihm, da sie zu ihrem Volke sprachen: «Wir haben nichts mit euch zu schaffen noch mit dem, was ihr statt Allah anbetet.",
+                            "verse 60:5": "Unser Herr, mache uns nicht zum Stein des Anstoßes für die Ungläubigen, und vergib uns, unser Herr, denn Du, und Du allein, bist der Allmächtige, der Allweise.",
+                            "verse 60:6": "Wahrlich, ihr habt an ihnen ein vortreffliches Beispiel (und so) ein jeder, der Allah fürchtet und den Jüngsten Tag.",
+                            "verse 60:7": "Vielleicht wird Allah Liebe setzen zwischen euch und denen unter ihnen, mit denen ihr in Feindschaft lebt; denn Allah ist allmächtig und Allah ist allverzeihend, barmherzig.",
+                            "verse 60:8": "Allah verbietet euch nicht, gegen jene, die euch nicht bekämpft haben des Glaubens wegen und euch nicht aus euren Heimstätten vertrieben haben, gütig zu sein und billig mit ihnen zu verfahren; Allah liebt die Billigkeit Zeigenden.",
+                            "verse 60:9": "Allah verbietet euch nur, mit denen, die euch bekämpft haben des Glaubens wegen und euch aus euren Heimstätten vertrieben und (anderen) geholfen haben, euch zu vertreiben, Freundschaft zu machen.",
+                            "verse 60:10": "O die ihr glaubt, wenn gläubige Frauen als Flüchtlinge zu euch kommen, so prüfet sie.",
+                            "verse 60:11": "Und wenn irgendwelche von euren Frauen von euch zu den Ungläubigen fortgehen, dann gebt, wenn ihr (bei den Ungläubigen) Beute machet, jenen (Gläubigen), deren Frauen fortgegangen sind, das gleiche von dem, was sie (für ihre Frauen) ausgegeben hatten.",
+                            "verse 60:12": "O Prophet! wenn gläubige Frauen zu dir kommen und dir den Treueid leisten, daß sie Allah nichts zur Seite stellen werden und daß sie weder stehlen noch Ehebruch begehen noch ihre Kinder töten noch eine Verleumdung vorbringen werden, die sie selbst wissentlich ersonnen, noch dir ungehorsam sein werden in dem, was recht ist, dann nimm ihren Treueid an und bitte Allah um Vergebung für sie.",
+                            "verse 60:13": "O die ihr glaubt, schließt nicht Freundschaft mit einem Volke, dem Allah zürnt; denn sie sind völlig am Jenseits verzweifelt, gerade so, wie die Ungläubigen an denen verzweifelt sind, die in den Gräbern sind."
+                        }
+                    }
+                }
+            },
+            "hindi": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": ",s bZekunkjksa vxj rqe esjh jkg esa tsgkn djus vkSj esjh [+kq’kuwnh dh reUuk esa ¼?kj ls½ fudyrs gks rks esjs vkSj vius nq’keuksa dks nksLr u cukvks rqe muds ikl nksLrh dk iSx+ke Hkstrs gks vkSj tks nhu gd+ rqEgkjs ikl vk;k gS mlls og yksx budkj djrs gSa og yksx jlwy dks vkSj rqedks bl ckr ij ¼?kj ls½ fudkyrs gSa fd rqe vius ijojfnxkj [+kqnk ij bZeku ys vk, gks ¼vkSj½ rqe gks fd muds ikl Nqi Nqi ds nksLrh dk iSx+ke Hkstrs gks gkykWfd rqe dqN Hkh Nqik dj ;k fcy ,yku djrs gks eSa mlls [+kwc okfd+Q+ gw¡ vkSj rqeeas ls tks Ó[+l ,slk djs rks og lh/kh jkg ls ;d+huu HkVd x;k",
+                            "verse 60:2": "vxj ;s yksx rqe ij d+kcw ik tk,¡ rks rqEgkjs nq’eu gks tk,¡ vkSj bZt+k ds fy, rqEgkjh rjQ vius gkFk Hkh c<+k,¡xs vkSj viuh t+ckus Hkh vkSj pkgrs gSa fd dk’k rqe Hkh dkfQj gks tkvks",
+                            "verse 60:3": "d+;ker ds fnu u rqEgkjs fj’rs ukrs gh dqN dke vk,¡xs u rqEgkjh vkSykn ¼ml fnu½ rks ogh Q+Slyk dj nsxk vkSj tks dqN Hkh rqe djrs gks [+kqnk mls ns[k jgk gS",
+                            "verse 60:4": "¼eqlyekuksa½ rqEgkjs okLrs rks bcjkghe vkSj muds lkfFk;ksa ¼ds d+kSy o Qsy dk vPNk uewuk ekStwn gS½ fd tc mUgksus viuh d+kSe ls dgk fd ge rqels vkSj mu ¼cqrksa½ ls ftUgsa rqe [+kqnk ds flok iwtrs gks cst+kj gSa ge rks rqEgkjs ¼nhu ds½ equfdj gSa vkSj tc rd rqe ;drk [+kqnk ij bZeku u ykvks gekjs rqEgkjs njfe;ku [kqYye [kqYyk vnkor o nq’keuh d+k;e gks x;h exj ¼gk¡½ bcjkghe us vius ¼eq¡g cksys½ cki ls ;s ¼vycRrk½ dgk fd eSa vkids fy, ex+fQ+jr dh nqvk t+:j d:¡xk vkSj [+kqnk ds lkeus rks eSa vkids okLrs dqN ,[+rs;kj ugha j[krk ,s gekjs ikyus okys ¼[+kqnk½ geus rq>h ij Hkjkslk dj fy;k gS vkSj rsjh gh rjQ ge :tw djrs gSa",
+                            "verse 60:5": "vkSj rsjh rjQ gesa ykSV dj tkuk gS ,s gekjs ikyus okys rw ge yksxksa dks dkfQ+jksa dh vkt+ekb’k ¼dk t+fj;k½ u d+jkj ns vkSj ijojfnxkj rw gesa c[+’k ns cs’kd rw x+kfyc ¼vkSj½ fgder okyk gS",
+                            "verse 60:6": "¼eqlyekuksa½ mu yksxksa ds ¼vQ+vky½ dk rqEgkjs okLrs tks [+kqnk vkSj jkst+s vk[s+kjr dh mEehn j[krk gks vPNk uewuk gS vkSj tks ¼blls½ eq¡g eksM+s rks [+kqnk Hkh ;d+huu csijok ¼vkSj½ lt+kokjs gEn gS",
+                            "verse 60:7": "djhc gS fd [+kqnk rqEgkjs vkSj muesa ls rqEgkjs nq’euksa ds njfe;ku nksLrh iSnk dj ns vkSj [+kqnk rks d+kfnj gS vkSj [+kqnk cM+k c[’kus okyk esgjcku gS",
+                            "verse 60:8": "tks yksx rqels rqEgkjs nhu ds ckjs esa ugha yM+s fHkM+s vkSj u rqEgsa ?kjksa ls fudkys mu yksxksa ds lkFk ,glku djus vkSj muds lkFk bUlkQ+ ls is’k vkus ls [+kqnk rqEgsa euk ugha djrk cs’kd [+kqnk bUlkQ+ djus okyksa dks nksLr j[krk gS",
+                            "verse 60:9": "[+kqnk rks cl mu yksxksa ds lkFk nksLrh djus ls euk djrk gS ftUgksus rqels nhu ds ckjs esa yM+kbZ dh vkSj rqedks rqEgkjs ?kjksa ls fudky ckgj fd;k] vkSj rqEgkjs fudkyus esa ¼vkSjksa dh½ enn dh vkSj tks yksx ,slksa ls nksLrh djsaxs og yksx t+kfye gSa",
+                            "verse 60:10": ",s bZekunkjksa tc rqEgkjs ikl bZekunkj vkSjrsa oru NksM+ dj vk,¡ rks rqe mudks vkt+ek yks] [+kqnk rks muds bZeku ls okfdQ+ gS gh] il vxj rqe Hkh mudks bZekunkj le>ks rks mUgh dkfQ+jksa ds ikl okil u Qsjks u ;s vkSjrsa muds fy, gyky gSa vkSj u og dq¶+Q+kj mu vkSjrksa ds fy, gyky gSa vkSj mu dq¶Qkj us tks dqN ¼mu vkSjrksa ds esgj esa½ [+kpZ fd;k gks mudks ns nks] vkSj tc mudk egj mUgsa ns fn;k djks rks bldk rqe ij dqN xqukg ugha fd rqe mlls fudkg dj yks vkSj dkfQj vkSjrksa dh vkc: ¼tks rqEgkjh chfo;k¡ gksa½ vius dCt+s esa u j[kks ¼NksM+ nks fd dq¶+Q+kj ls tk feysa½ vkSj rqeus tks dqN ¼mu ij½ [+kpZ fd;k gks ¼dq¶+Q+kj ls½ yks] vkSj mUgksus Hkh tks dqN [+kpZ fd;k gks rqe ls ek¡x ysa ;gh [+kqnk dk gqDe gS tks rqEgkjs njfe;ku lkfnj djrk gS vkSj [+kqnk okfd+Q+dkj gdhe gS",
+                            "verse 60:11": "vkSj vxj rqEgkjh chfo;ksa esa ls dksbZ vkSjr rqEgkjs gkFk ls fudy dj dkfQjksa ds ikl pyh tk, vkSj ¼[+kpZ u feys½ vkSj rqe ¼mu dkfQ+jksa ls yM+ks vkSj ywVks rks ¼ekys x+uher ls½ ftudh vkSjrsa pyh x;ha gSa mudks bruk ns nks ftruk mudk [+kpZ gqvk gS½ vkSj ftl [+kqnk ij rqe yksx bZeku yk, gks mlls Mjrs jgks",
+                            "verse 60:12": "¼,s jlwy½ tc rqEgkjs ikl bZekunkj vkSjrsa rqels bl ckr ij cS;r djus vk,¡ fd og u fdlh dks [+kqnk dk Ójhd cuk,¡xh vkSj u pksjh djsaxh vkSj u ts+uk djsaxh vkSj u viuh vkSykn dks ekj Mkysaxh vkSj u vius gkFk ik¡o ds lkeus dksbZ cksgrku ¼yM+ds dk ÓkSgj ij½ x<+ ds yk,¡xh] vkSj u fdlh usd dke esa rqEgkjh ukQ+jekuh djsaxh rks rqe muls cS;r ys yks vkSj [+kqnk ls muds ex+fQ+jr dh nqvk ek¡xks cs’kd cM+k [+kqnk c[+’kus okyk esgjcku gS",
+                            "verse 60:13": ",s bZekunkjksa ftu yksxksa ij [+kqnk us viuk x+t+c <k;k muls nksLrh u djks ¼D;ksafd½ ftl rjg dkfQ+jksa dks eqnksZa ¼ds nksckjk ft+Unk gksus½ dh mEehn ugha mlh rjg vk[+ksjr ls Hkh ;s yksx u mEehn gSa lwj, eqErgsuk [+kRe"
+                        }
+                    }
+                }
+            },
+            "indonesian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "Hai orang-orang yang beriman, janganlah kamu mengambil musuh-Ku dan musuhmu menjadi teman-teman setia yang kamu sampaikan kepada mereka (berita-berita Muhammad), karena rasa kasih sayang; padahal sesungguhnya mereka telah ingkar kepada kebenaran yang datang kepadamu, mereka mengusir Rasul dan (mengusir) kamu karena kamu beriman kepada Allah, Tuhanmu.",
+                            "verse 60:2": "Jika mereka menangkap kamu, niscaya mereka bertindak sebagai musuh bagimu dan melepaskan tangan dan lidah mereka kepadamu dengan menyakiti (mu); dan mereka ingin supaya kamu (kembali) kafir.",
+                            "verse 60:3": "Karib kerabat dan anak-anakmu sekali-kali tiada bermanfa’at bagimu pada hari Kiamat.",
+                            "verse 60:4": "Sesungguhnya telah ada suri teladan yang baik bagimu pada Ibrahim dan orang-orang yang bersama dengan dia; ketika mereka berkata kepada kaum mereka: \"Sesungguhnya kami berlepas diri dari kamu dan dari apa yang kamu sembah selain Allah, kami ingkari (kekafiran)mu dan telah nyata antara kami dan kamu permusuhan dan kebencian buat selama-lamanya sampai kamu beriman kepada Allah saja.",
+                            "verse 60:5": "Ya Tuhan kami, janganlah Engkau jadikan kami (sasaran) fitnah bagi orang-orang kafir.",
+                            "verse 60:6": "Sesungguhnya pada mereka itu (Ibrahim dan umatnya) ada teladan yang baik bagimu; (yaitu) bagi orang yang mengharap (pahala) Allah dan (keselamatan pada) Hari kemudian.",
+                            "verse 60:7": "Mudah-mudahan Allah menimbulkan kasih sayang antaramu dengan orang-orang yang kamu musuhi di antara mereka.",
+                            "verse 60:8": "Allah tiada melarang kamu untuk berbuat baik dan berlaku adil terhadap orang-orang yang tiada memerangimu karena agama dan tidak (pula) mengusir kamu dari negerimu.",
+                            "verse 60:9": "Sesungguhnya Allah hanya melarang kamu menjadikan sebagai kawanmu orang-orang yang memerangi kamu karena agama dan mengusir kamu dari negerimu dan membantu (orang lain) untuk mengusirmu.",
+                            "verse 60:10": "Hai orang-orang yang beriman, apabila datang berhijrah kepadamu perempuan-perempuan yang beriman, maka hendaklah kamu uji (keimanan) mereka.",
+                            "verse 60:11": "Dan jika seseorang dari isteri-isterimu lari kepada orang-orang kafir, lalu kamu mengalahkan mereka maka bayarkanlah kepada orang-orang yang lari isterinya itu mahar sebanyak yang telah mereka bayar.",
+                            "verse 60:12": "Hai Nabi, apabila datang kepadamu perempuan-perempuan yang beriman untuk mengadakan janji setia, bahwa mereka tidak akan mempersekutukan sesuatupun dengan Allah; tidak akan mencuri, tidak akan berzina, tidak akan membunuh anak-anaknya, tidak akan berbuat dusta yang mereka ada-adakan antara tangan dan kaki mereka dan tidak akan mendurhakaimu dalam urusan yang baik, maka terimalah janji setia mereka dan mohonkanlah ampunan kepada Allah untuk mereka.",
+                            "verse 60:13": "Hai orang-orang yang beriman, janganlah kamu jadikan penolongmu kaum yang dimurkai Allah, sesungguhnya mereka telah putus asa terhadap negeri akhirat sebagaimana orang-orang kafir yang telah berada dalam kubur berputus asa."
+                        }
+                    }
+                }
+            },
+            "italian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "O credenti, non prendetevi per alleati il Mio nemico e il vostro, dimostrando loro amicizia, mentre essi non hanno creduto alla verità che vi è giunta e hanno scacciato l'Inviato e voi stessi solo perché credete in Allah vostro Signore.",
+                            "verse 60:2": "Se vi incontrano in qualche luogo, saranno vostri nemici, vi aggrediranno con le loro mani e le loro lingue e si augureranno che diveniate miscredenti.",
+                            "verse 60:3": "I vostri parenti e i vostri figli non vi saranno utili e nel Giorno della Resurrezione",
+                            "verse 60:4": "deciderà tra di voi; Allah osserva quello che fate.",
+                            "verse 60:5": "Avete avuto un bell'esempio in Abramo e in coloro che erano con lui, quando dissero alla loro gente: «Noi ci dissociamo da voi e da quel che adorate all'infuori di Allah: vi rinneghiamo.",
+                            "verse 60:6": "Signore, non fare di noi una tentazione per i miscredenti e perdonaci, o Signore! Tu sei l'Eccelso, il Saggio».",
+                            "verse 60:7": "Invero avete avuto in loro un bell'esempio, per chi spera in Allah e nell'Ultimo Giorno.",
+                            "verse 60:8": "Forse Allah stabilirà amicizia tra voi e quanti fra di loro considerate nemici.",
+                            "verse 60:9": "Allah non vi proibisce di essere buoni e giusti nei confronti di coloro che non vi hanno combattuto per la vostra religione e che non vi hanno scacciato dalle vostre case, poiché Allah ama coloro che si comportano con equità.",
+                            "verse 60:10": "Allah vi proibisce soltanto di essere alleati di coloro che vi hanno combattuto per la vostra religione, che vi hanno scacciato dalle vostre case, o che hanno contribuito alla vostra espulsione.",
+                            "verse 60:11": "O voi che credete, quando giungono a voi le credenti che sono emigrate, esaminatele ; Allah ben conosce la loro fede.",
+                            "verse 60:12": "Se qualcuna delle vostre spose fugge verso i miscredenti, quando avete la meglio [su di loro] date a quelli le cui spose sono fuggite, quanto avevano versato .",
+                            "verse 60:13": "O Profeta, quando vengono a te le credenti a stringere il patto,",
+                            "verse 60:14": "che non assoceranno ad Allah alcunché, che non ruberanno, che non fornicheranno, che non uccideranno i loro figli , che non commetteranno infamie con le loro mani o con i loro piedi e che non ti disobbediranno in quel che è reputato conveniente, stringi il patto con loro e implora Allah di perdonarle.",
+                            "verse 60:15": "O credenti, non prendetevi per alleati gente contro la quale Allah è adirato e che non hanno la speranza dell'altra vita, come i miscredenti che disperano [di rivedere] la gente delle tombe."
+                        }
+                    }
+                }
+            },
+            "japanese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "あなたがた信仰する者よ，われの敵であり，またあなたがたの敵である者を，友としてはならない。あなたがたに与えられた真理を拒否しているにも拘らず，密に好意を寄せるのか。かれらは，あなたがたの主，アッラーを信仰しているという理由で，使徒とあなたがたを追放したのである。あなたがたは，われの喜びを願いながら，われのために聖戦に出かけていながら，（一方で）かれらに好意を寄せるのか。われはあなたがたの隠すことも，現わすことも知っている。あなたがたの中このようなことをする者は，本当に正しい道から迷い去った者である。",
+                            "verse 60:2": "かれらはもしあなたがたの上手に立てば，あなたがたの敵となり，かれらの手と舌を悪意をもってあなたがたに伸し，あなたがたが不信心になることを望んでいる。",
+                            "verse 60:3": "復活の日においては，あなたがたの親族もまた子女も，あなたがたには役立たないであろう。かれはあなたがたを裁決なされる。アッラーはあなたがたの行うことを御存知であられる。",
+                            "verse 60:4": "イブラーヒームやかれと共にいた者たちのことで，あなたがたのため本当に良い模範がある。かれらが自分の人びとに言った時を思い起せ。「本当にわたしたちは，あなたがたとあなたがたがアッラーを差し置いて崇拝するものとは，何の関りもない。あなたがたと絶縁する。わたしたちとあなたがたの間には，あなたがたがアッラーだけを信じるようになるまで，永遠の敵意と憎悪があるばかりである。」イブラーヒームは父親だけにこう言った。「わたしはあなたのために，御赦しを祈りましよう。だがわたしは，あなたのためになるどんな力もアッラーから頂けないでしょう。」（かれは祈った）。「主よ，わたしはあなたに御縋り申し，あなたにだけ悔悟します。わたしたちの行き着く所はあなたの御許ばかりです。",
+                            "verse 60:5": "主よ，わたしたちを不信心者の試練に陥し入れないで下さい。主よ，わたしたちを御赦し下さい。本当にあなたは，偉力ならびなく英明であられます。」",
+                            "verse 60:6": "本当に，アッラーと最後の日に望みを託している者にとって，この（物語の）中には良い模範がある。だがもし背き去る者があっても，本当にアッラーは，自足なされる御方讃美されるべき御方であられる。",
+                            "verse 60:7": "アッラーはあなたがたとあなたがたが（今）敵意を持つ者たちとの間に，あるいは友情を起させることもあろう。本当にアッラーは全能であられ，またアッラーは寛容にして慈悲深くあられる。",
+                            "verse 60:8": "アッラーは，宗教上のことであなたがたに戦いを仕� けたり，またあなたがたを家から追放しなかった者たちに親切を尽し，公正に待遇することを禁じられない。本当にアッラーは公正な者を御好みになられる。",
+                            "verse 60:9": "アッラーは只次のような者を，あなたがたに禁じられる。宗教上のことであなたがたと戦いを交えた者，またあなたがたを家から追放した者，あなたがたを追放するにあたり力を貸した者たちである。かれらに縁故を通じるのを（禁じられる）。誰でもかれらを親密な友とする者は不義を行う者である。",
+                            "verse 60:10": "あなたがた信仰する者よ，婦人の信者が，あなたがたの許に逃げて来た時は，かの女らを試問しなさい。かの女らの信仰に就いては，アッラーが最もよく知っておられる。もしかの女らが信者であることがあなたがたに分ったならば，不信心者の許に帰してはならない。かの女は，かれら（不信心者）には合法（の妻）ではなく，またかれら（不信心者）も，かの女らにとっては合法（の夫）ではない。しかしかれら（不信心者）が（マハルとして）贈ったものは返してやれ。あなたがたが，かの女らにマハルを与えるならば，かの女を娶っても，あなたがたに罪はない。だが不信心な女との絆を，固持していてはならない。あなたが（マハルとして）贈ったものの返還を（不信心者のかの女の夫から）求めてもよい。またかれら（不信者）が贈ったものについては，その返還の要求を（あなたがたに対して求めさせればよい）。これはアッラーの御裁である。かれはあなたがたの間を（公正に）裁決なされる。本当にアッラーは全知にして英明であられる。",
+                            "verse 60:11": "あなたがたの妻が，もしあなたがたの許を去り，不信心者の許に走るならば，先方（不信心者の夫）に勝利を納めた暁には，妻に去られた者にその戦利品の中から，マハルとして贈ったものと同額を与えなさい。あなたがたが信奉する，アッラーを畏れなさい。",
+                            "verse 60:12": "預言者よ，あなたの許へ女の信者がやって来て，あなたに対しこう忠誠を誓うならば，「アッラーの外は何ものも同位に崇めません。盗みをしまん。姦通しません。子女を殺しません。また手や足の間で，捏造した嘘は申しません。また正しいことには，あなたに背きません。」（と誓うならば）かの女たちの誓約を受け入れ，かの女たちのために罪を赦されるようアッラーに祈れ。本当にアッラーは寛容にして慈悲深くあられる。",
+                            "verse 60:13": "あなたがた信仰する者よ，アッラーの御怒りを被った者に，友情を持ってはならない。かれらは，不信心者が墓場の（埋葬ずみの）仲間に就いて絶望しているのと同じように，来世に就いて絶望しているのである。 預言者よ，あなたの許へ女の信者がやって来て，あなたに対しこう忠誠を誓うならば，「アッラーの外は何ものも同位に崇めません。盗みをしまん。姦通しません。子女を殺しません。また手や足の間で，捏造した嘘は申しません。また正しいことには，あなたに背きません。」（と誓うならば）かの女たちの誓約を受け入れ，かの女たちのために罪を赦されるようアッラーに祈れ。本当にアッラーは寛容にして慈悲深くあられる。"
+                        }
+                    }
+                }
+            },
+            "korean": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "믿는 사람들이여 나의 적과 너희 적을 친구로 하여 너희에게 도래한 진리를 거역하고 하나님을믿는다 하여 선지자와 너희 자신 들을 추방한 그들에게 사랑을 베 풀려 하느뇨 너희가 나의 길에서 성전하고 나의 기쁨을 추구하려 한다면 그들에게 사랑을 베풀지 말라 나는 너희가 숨기는 것과 드러내는 모든 것을 알고 있나니 이렇게 행하는 자 누구든 올바른 길에서 벗어나니라",
+                            "verse 60:2": "그들이 너희 위에 있게 된다 면 그들은 적들처럼 너희에게 대 할 것이며 그들의 손과 그들의 혀로써 너희를 저주할 것이며 너 희가 그 진리를 거역하기를 원할 것이라",
+                            "verse 60:3": "부활의 날에는 너희 친척도 너희 자손도 너희에게 유용하지 않나니 하나님께서 너희를 심판 하시매 실로 하나님은 너희가 행하는 모든 것을 지켜보고 계시니라",
+                            "verse 60:4": "여기에 너희를 위한 아브라함과 그와 함께 한 그들의 교훈이 있나니 그들이 백성들에게 이야기한 것이라 우리는 너희와 관계가 없으매 너희가 하나님 외에 숭배 한 것과도 관계가 없노라 또한 우 리와 너희 사이에 일어난 적의와 증오는 너희가 하나님을 홀로 경 배할 때까지 영원토록 관계가 없 노라 그러나 아브라함은 그의 아 버지를 향해 당신을 위하여 제가 용서를 구하겠습니다 당신을 위하 여 하나님께 관용을 기원하는 것 외에는 아무런 힘이 없나이다 라 고 말하고 주여 실로 저희는 당신 께만 의탁하오며 당신에게만 회개 하나니 저희의 목적지는 당신이옵 니다 라고 하더라",
+                            "verse 60:5": "주여 저희가 불신자들을 위한 시험이 되지 않도록 하여 주옵시 고 저희를 용서하여 주옵소서 실 로 당신은 위대하고 현명하신 분 이십니다",
+                            "verse 60:6": "실로 너희를 위한 교훈이 그 들안에 있나니 이는 하나님과 내 세를 원하는 자를 위한 것이며 외 면한 자 있다 하여도 하나님은 충 만하사 모든 찬미를 받으시니라",
+                            "verse 60:7": "하나님은 너희와 적의를 품고 있는 그들 사이에 우정을 이르게 할수 있으시니 실로 하나님은 전능하 사 관용과 자비로 충만하시니라",
+                            "verse 60:8": "하나님은 종교를 이유로 너희 에게 대적하지 아니하고 너희를 너희 주거지로부터 추방하지 아니 한 자들에게 친절하고 그들과 공 정하게 거래하는 것을 금지하지 아니하셨나니 실로 하나님은 공평 하게 행하는 자들을 사랑하시니라",
+                            "verse 60:9": "하나님은 종교를 이유로 너희 에게 대적하고 너희를 너희 주거 지로부터 추방하며 너희를 추방함 에 협력한 자들과 우정을 맺는 것 만을 금지하셨나니 그들과 우정을 맺는자 누구든지 의롭지 못한 자 들이라",
+                            "verse 60:10": "믿는 사람들이여 믿음을 가 진 여성이 너희에게 을 때 그녀 들을 시험하라 하나님은 그녀들의 믿음을 온전히 알고 계시니라 그 때 너희가 그녀들이 믿는 자들임 을 발견했다면 그녀들을 불신자들 에게로 보내지 말라 또한 이 여성 들은 그들에게 허락되지 아니하며 또한 불신자들은 그녀들에 대한 권리가 없노라 그리고 그녀들에 게 그들이 지불한 것은 주되 너 희가 지참금을 지불하고 그녀들과 결혼할 경우는 죄악이 아니거늘 믿지 않는 여성들과 결혼하지 말 라 그리고 너희가 지불한 것을 요 구하고 그들을 그들이 지불한 것 을 요구하도록 하리니 그것이 하 나님의 판정이라 실로 하나님은 아심과 지혜로 충만하시니라",
+                            "verse 60:11": "너희 아내 중에서 너희를 버리고 불신자에게로 갈 때 공격하 여 전리품을 획득한 것이 있다면 아내가 떠나버린 그들에게 그들 이 지참금으로 지불했던 만큼 지 불하되 너희가 믿는 하나님을 두 려워 하라",
+                            "verse 60:12": "선자자여 믿는 여성들이 그 대에게 와 하나님과 어떤 것도 비 유하지 아니하고 훔치지 아니하며 간음하지 아니하고 자식들을 살해 하지 아니하며 스스로 허위를 조 작하여 중상하지 아니하고 그대의 일에 거역하지 아니할 것이니라 말한 그녀들의 맹세를 받아드리 라 그리고 그녀들을 위해 하나님께용서를 구하라 실로 하나님은 관용과 자비로 충만하시니라",
+                            "verse 60:13": "믿는 백성들이여 하나님의 노여움을 받는 자들을 친구로 삼 지 말라 그들은 내세에 관하여 실 망하고 있나니 이는 무덤속에 있 는 불신자들이 실망하는 것과 같 으니라"
+                        }
+                    }
+                }
+            },
+            "kurdish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "ئه‌ی ئه‌و که‌سانه‌ی باوه‌ڕتان هێناوه دوژمنانی من و دوژمنانی خۆتان مه‌که‌نه دۆستی گیانی به‌گیانی، له‌کاتێکدا خۆشه‌ویستی و سۆزی خۆتانیان بۆ ده‌رده‌برن، به‌ڕاستی ئه‌وان بێ باوه‌ڕیش بوون به‌وه‌ی له لایه‌ن خواوه بۆتان هاتووه‌، ئه‌وانه پێغه‌مبه‌رو ئێوه‌ش ده‌رده‌که‌ن له مه‌ککه‌، له‌به‌ر ئه‌وه‌ی که باوه‌ڕ ده‌هێنن به‌خوای په‌روه‌ردگارتان، (ئه‌مه‌م به‌گوێ بکه‌ن) ئه‌گه‌ر ئێوه ده‌رچوون بۆ تێکۆشان له پێناوی من و به‌ده‌ستهێنانی ڕه‌زامه‌ندی مندا، به‌نهێنی خۆشه‌ویستی خۆتانیان پێده‌گه‌یه‌نن، له‌کاتێکدا من ئاگادارم به‌وه‌ی شاردوتانه‌ته‌و و به‌وه‌ش که ئاشکراتان کردووه‌، جا هه‌ر که‌س له ئێوه کاری وابکات ئه‌وه به‌ڕاستی ڕێبازی ڕاستی ون کردووه‌.",
+                            "verse 60:2": "هه‌ر کاتێك خوانه‌ناسان ده‌سه‌ڵاتیان هه‌بێت و ئێوه‌یان ده‌ست بکه‌وێت، ئه‌وه ده‌بنه دوژمنتان و ده‌ست و زمانیان به‌خراپه درێژ ده‌که‌ن بۆتان (به‌هه‌رچی بۆیان بکرێت) ئه‌وانه پێیان خۆش بووه و ئاواتیان خواستووه که ئێوه له ئایینه‌که‌تان هه‌ڵگه‌ڕێنه‌وه‌.",
+                            "verse 60:3": "خزمان و ڕۆڵه‌کانتان هه‌رگیز فریاتان ناکه‌ون، چونکه له ڕۆژی قیامه‌تدا له یه‌کتان جیاده‌کاته‌وه‌، به‌ڕاستی خوا بینایه به‌و کارو کرده‌وه‌ی که ده‌یکه‌ن.",
+                            "verse 60:4": "ئه‌ی ئیمانداران، به‌ڕاستی له ئیبراهیم و ئه‌وانه‌ی که له‌گه‌ڵیدا بوون نموونه‌یه‌کی چاکتان خراوه‌ته به‌رچاو، کاتێك که به قه‌ومه‌که‌ی خۆیانیان وت: دوای ساڵه‌ها بانگه‌واز، ئێمه به‌رین له ئێوه و له‌و شتانه‌ش که له‌جیاتی خوا ده‌یپه‌رستن، ئێمه باوه‌ڕمان به‌و د‌ین و ئاینه‌ی ئێوه نیه‌، ئیتر دوژمنایه‌تی و ڕقه‌به‌رایه‌تی له‌نێوانماندا به‌رپا بووه تا ئه‌و کاته‌ی که باوه‌ڕ به خوای تاك و ته‌نها ده‌هێنن، جگه له‌و به‌ڵێنه‌ی ئیبراهیم دای به باوکی و وتی: بێگومان داوای لێخۆشبوونت بۆ ده‌که‌م، ده‌سه‌ڵاتی خوایشم نیه ئه‌گه‌ر کاره‌ساتێكت به‌سه‌ر بهێنێت، ئینجا وتی: په‌روه‌ردگارا، هه‌ر پشتمان به تۆ به‌ستووه و هه‌ر بۆ لای تۆش گه‌ڕاوینه‌ته‌وه‌، سه‌ره‌‌نجامیش هه‌ر بۆ لای تۆیه‌.",
+                            "verse 60:5": "په‌روه‌ردگارا مه‌مانکه به‌مایه‌ی گومڕایی بۆ ئه‌وانی بێ باوه‌ڕ بوون، لێشما خۆش ببه په‌روه‌ردگارمان، به‌ڕاستی هه‌ر تۆ خوایه‌کی باڵاده‌ست و دانایت.",
+                            "verse 60:6": "سوێند به خوا به‌ڕاستی له سه‌رگوزه‌شته و ژیانی ئیبراهیم و ئه‌واندا نموونه و پێشه‌نگێگی چاک هه‌یه بۆ ئه‌وه‌ی چاویان لێ بکه‌ن، بۆ ئه‌و که‌سه‌ی که ئاوات و ئومێدی ڕه‌زامه‌ندی خوایه‌و له ڕۆژی دوایی ده‌ترسێت و حسابی بۆ ده‌کات، جا ئه‌وه‌ش که پشت هه‌ڵده‌کات و شوێن ڕێبازی ئه‌وان ناکه‌وێت ئه‌وه بابزانێت خۆی زه‌ره‌ر ده‌کات چونکه خوا هه‌ر خۆی بێنیازه و شایسته‌ی هه‌موو جۆره سوپاسێکه‌.",
+                            "verse 60:7": "نزیکه خوا خۆشه‌ویستی و سۆز به‌رپا بکات له نێوان ئێوه و ئه‌وانه‌دا که دوژمنایه‌تیتان له‌گه‌ڵ کردن له‌وان و هه‌ندێکیان باوه‌ڕ بهێنن، هه‌میشه خوا به ده‌سه‌ڵاته‌، هه‌ر ئه‌و خوایه‌ش لێخۆشبوو میهره‌بانه چاوپۆشی له ڕابوردوو ده‌کات.",
+                            "verse 60:8": "دڵنیاش بن که خوا قه‌ده‌غه‌ی ئه‌وه‌تان لێ ناکات که چاك ڕه‌فتاری و دادپه‌روه‌ری بکه‌ن له‌گه‌ڵ ئه‌و که‌سانه‌دا جه‌نگیان دژ نه‌کردون و دژایه‌تی ئاینیان نه‌کردون و له شوێنه‌وارتان ده‌ریان نه‌کردون، چونکه به‌ڕاستی خوا دادپه‌روه‌رانی خۆش ده‌وێت.",
+                            "verse 60:9": "به‌ڕاستی خوا ته‌نها قه‌ده‌غه‌ی ئه‌وه‌تان لێ ده‌کات که پشتیوانیی بکه‌ن له‌وانه‌ی که جه‌نگیان به‌رپا کرد دژی ئاین و ده‌ریان کردن له شوێنه‌واری خۆتان و پشتیوانی ئه‌وانیان کرد ڕۆڵیان هه‌بوو له ده‌رکردنتاندا، ئه‌وه‌ش پشتیوانیان لێ بکات و خۆشی بوێن، جا ئائه‌وانه هه‌ر سته‌مکارن.",
+                            "verse 60:10": "ئه‌ی ئه‌وانه‌ی باوه‌ڕتان هێناوه کاتێک ئافره‌ته ئیمانداره‌کان کۆچ ده‌که‌ن و دێن بۆ لاتان تاقیان بکه‌نه‌وه‌و به‌وردیی پرسیاریان لێ بکه‌ن سه‌باره‌ت به‌کۆچ و هۆی هاتنه‌که‌یان، خوا ئاگاداره به ئیمانه‌که‌یان، جا ئه‌گه‌ر زانیتان باوه‌ڕدارن، ئه‌وه مه‌یانگێڕنه‌وه بۆ لای مێرده بێ باوه‌ڕه‌کانیان، نه ئه‌م ئافره‌ته حه‌ڵاڵی ئه‌و بێ باوه‌ڕانه‌ن، نه‌ئه‌و بێ باوه‌ڕا‌نه‌ش حه‌ڵاڵن بۆ ئه‌م ئافره‌ته ئیماندارانه، ئه‌و ماره‌ییه‌ی مێرده کافره‌کانیان خه‌رجیان کردووه بۆیان بگێڕنه‌وه‌، ئیتر هیچ ڕه‌خنه‌یه‌کیش له‌سه‌رتان نیه ئه‌و ئافرته ماره بکه‌ن کاتێك ماره‌ییان بده‌نێ، ئافره‌تانی کافرمه‌هێڵنه‌وه لای خۆتان، واته ماره‌یان مه‌که‌ن، ئێوه‌ش ئه‌ی ئیمانداران ئه‌گه‌ر مه‌سره‌فێکتان کردووه له ئافره‌تێکی کافردا داوای بکه‌نه‌وه‌، ئه‌وانیش ئه‌گه‌ر مه‌سره‌فێکیان کردووه له ئافره‌تێکی ئیمانداردا با داوای بکه‌نه‌وه‌، ئائه‌وه حو‌کم و فه‌رمانی خوایه‌، که خۆی فه‌رمانڕه‌وایی ده‌کات له نێوانتاندا، خوای گه‌وره‌ش هه‌میشه زانا و دانایه‌.",
+                            "verse 60:11": "خۆ ئه‌گه‌ر یه‌کێك یان هه‌ندێك له هاوسه‌رانتان گه‌ڕانه‌وه بۆ ناو کافران، له‌وه‌ودوا جه‌نگ له نێوان ئێوه و کافراندا به‌رپابوو و سه‌رکه‌وتن به‌سه‌ریاندا، ئێوه له ده‌ستکه‌وتی ئه‌و جه‌نگه زه‌ره‌ری ئه‌و ئیماندارانه ببژێرن که خێزانه‌کانیان ڕۆشتوون، له‌و خوایه بترسن که ئێوه هه‌میشه بڕوادارن پێی.",
+                            "verse 60:12": "ئه‌ی پێغه‌مبه‌ر (صلی الله علیه وسلم) کاتێک ئافره‌تانی ئیماندار هاتن بۆ لات و په‌یمانیان پێدایت که‌: هیچ جۆره هاوه‌ڵێك بۆ خوا بڕیار نه‌ده‌ن، دزی نه‌که‌ن، زینا نه‌که‌ن، ڕۆڵه‌کانی خۆیان نه‌کوژن، هیچ جۆره بوختانێک نه‌که‌ن له‌نێوان ده‌ست و پێی خۆیاندا (واته دووره په‌رێزبن له هه‌موو جۆره خیانه‌تێک) و فه‌رمانبه‌ردارت بن له هه‌موو چاکه‌یه‌کداو یاخی نه‌بن لێت، جا ئه‌وه تۆ په‌یمانیان له‌گه‌ڵ ببه‌ستن و له خوا داوای لێخۆشبوونیان بۆ بکه‌، چونکه به‌ڕاستی خوا لێخۆشبوو میهره‌بانه‌.",
+                            "verse 60:13": "ئه‌ی ئه‌وانه‌ی باوه‌ڕتان هێناوه پشت مه‌به‌ستن به‌که‌سانێك خوا خه‌شمی لێگرتوون و دۆستایه‌تیان مه‌که‌ن، بێگومان ئه‌وانه نائومێد و بێ هیوا بوون له پاداشتی قیامه‌ت، هه‌روه‌کو کافران، نا‌ئومێد بوون له گه‌ڕانه‌ی نیشته‌جێکانی گۆڕستان."
+                        }
+                    }
+                }
+            },
+            "malay": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "Wahai orang-orang yang beriman! Janganlah kamu mengambil musuhKu dan musuh kamu menjadi teman rapat, dengan cara kamu sampaikan kepada mereka (berita-berita rahsia orang-orang mukmin) dengan sebab hubungan baik dan kasih mesra yang ada di antara kamu dengan mereka, sedang mereka telah kufur ingkar terhadap kebenaran (Islam) yang sampai kepada kamu; mereka pula telah mengeluarkan Rasulullah (s.",
+                            "verse 60:2": "Jika mereka dapat menguasai kamu, nescaya mereka menjadi musuh yang membahayakan kamu dan mereka akan membebaskan tangan mereka dan lidah mereka terhadap kamu dengan kejahatan, serta mereka suka kalaulah kamu juga menjadi kafir (seperti mereka).",
+                            "verse 60:3": "Kaum kerabat kamu dan anak-anak kamu (yang tidak menurut kamu beriman) tidak sekali-kali akan mendatangkan sebarang faedah kepada kamu pada hari kiamat; Allah akan memisahkan di antara kamu semua (pada hari itu) dan (ingatlah), Allah Maha Melihat segala yang kamu kerjakan.",
+                            "verse 60:4": "Sesungguhnya adalah bagi kamu pada bawaan Nabi Ibrahim (a.",
+                            "verse 60:5": "Wahai Tuhan kami! Janganlah Engkau jadikan pendirian dan keyakinan kami terpesong kerana penindasan orang-orang kafir dan ampunkanlah dosa kami wahai Tuhan kami; sesungguhnya Engkaulah sahaja Yang Maha Kuasa, lagi Maha Bijaksana.",
+                            "verse 60:6": "Demi sesungguhnya! Adalah bagi kamu pada bawaan Nabi Ibrahim dan pengikut-pengikutnya itu contoh ikutan yang baik, iaitu bagi orang yang sentiasa mengharapkan keredaan Allah dan (balasan baik) hari akhirat dan sesiapa yang berpaling daripada mencontohi mereka, (maka padahnya akan menimpa dirinya sendiri), kerana sesungguhnya Allah Dialah Yang Maha Kaya, lagi Maha Terpuji.",
+                            "verse 60:7": "Semoga Allah akan mengadakan perasaan kasih sayang antara kamu dengan orang-orang yang kamu musuhi dari kerabat kamu itu (dengan jalan menjadikan mereka insaf dan memeluk Islam) dan (ingatlah), Allah Maha Kuasa (atas tiap-tiap sesuatu), dan Allah Maha pengampun, lagi Maha Mengasihani.",
+                            "verse 60:8": "Allah tidak melarang kamu daripada berbuat baik dan berlaku adil kepada orang-orang yang tidak memerangi kamu kerana agama (kamu) dan tidak mengeluarkan kamu dari kampung halaman kamu; sesungguhnya Allah mengasihi orang-orang yang berlaku adil.",
+                            "verse 60:9": "Sesungguhnya Allah hanyalah melarang kamu daripada menjadikan teman rapat orang-orang yang memerangi kamu kerana agama (kamu) dan mengeluarkan kamu dari kampung halaman kamu, serta membantu (orang lain) untuk mengusir kamu dan (ingatlah), sesiapa yang menjadikan mereka teman rapat, maka mereka itulah orang-orang yang zalim.",
+                            "verse 60:10": "Wahai orang-orang yang beriman! Apabila orang-orang perempuan yang mengaku beriman datang berhijrah kepada kamu, maka ujilah (iman) mereka: Allah lebih mengetahui akan iman mereka: Dengan yang demikian, sekiranya kamu mengetahui bahawa mereka beriman, maka janganlah kamu mengembalikan mereka kepada orang-orang yang kafir.",
+                            "verse 60:11": "Dan sekiranya kamu tidak dapat menerima balik sesuatu dari mas kahwin isteri-isteri kamu (yang menjadi murtad serta) melarikan diri ke pihak orang-orang kafir, kemudian kamu menyerang puak yang kafir itu serta mendapat harta rampasan maka berikanlah kepada orang-orang (Islam) yang lari isterinya itu ganti mas kahwinnya sebanyak yang mereka telah bayar dan bertakwalah kamu kepada Allah yang kamu beriman kepadaNya.",
+                            "verse 60:12": "Wahai Nabi! Apabila orang-orang perempuan yang beriman datang kepadamu untuk memberi pengakuan taat setia, bahawa mereka tidak akan melakukan syirik kepada Allah dengan sesuatu pun dan mereka tidak akan mencuri dan mereka tidak akan berzina dan mereka tidak akan membunuh anak-anaknya dan mereka tidak akan melakukan sesuatu perkara dusta yang mereka ada-adakan dari kemahuan hati mereka, dan mereka tidak akan menderhaka kepadamu dalam sesuatu perkara yang baik, maka terimalah pengakuan taat setia mereka dan pohonkanlah kepada Allah mengampuni dosa mereka; sesungguhnya Allah Maha Pengampun, lagi Maha Mengasihani.",
+                            "verse 60:13": "Wahai orang-orang yang beriman! Janganlah kamu jadikan teman rapat mana-mana kaum yang dimurkai Allah, mereka telah berputus asa daripada mendapat kebaikan akhirat, sebagaimana berputus asanya orang-orang kafir yang ada di dalam kubur."
+                        }
+                    }
+                }
+            },
+            "persian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "اى كسانى كه ايمان آورده‏ايد! دشمن من و دشمن خودتان را دوست نگيريد! شما نسبت به آنان اظهار محبت مى‏كنيد، در حالى كه آنها به آنچه از حق براى شما آمده كافر شده‏اند و رسول الله و شما را به خاطر ايمان به خداوندى كه پروردگار همه شماست از شهر و ديارتان بيرون مى‏رانند; اگر شما براى جهاد در راه من و جلب خشنوديم هجرت كرده‏ايد; (پيوند دوستى با آنان برقرار نسازيد!) شما مخفيانه با آنها رابطه دوستى برقرار مى‏كنيد در حالى كه من به آنچه پنهان يا آشكار مى‏سازيد از همه داناترم! و هر كس از شما چنين كارى كند، از راه راست گمراه شده است!",
+                            "verse 60:2": "اگر آنها بر شما مسلط شوند، دشمنانتان خواهند بود و دست و زبان خود را به بدى كردن نسبت به شما مى‏گشايند، و دوست دارند شما به كفر بازگرديد!",
+                            "verse 60:3": "هرگز بستگان و فرزندانتان روز قيامت سودى به حالتان نخواهند داشت; ميان شما جدايى مى‏افكند; و خداوند به آنچه انجام مى‏دهيد بيناست",
+                            "verse 60:4": "براى شما سرمشق خوبى در زندگى ابراهيم و كسانى كه با او بودند وجود داشت، در آن هنگامى كه به قوم (مشرك) خود گفتند: «ما از شما و آنچه غير از خدا مى‏پرستيد بيزاريم; ما نسبت به شما كافريم; و ميان ما و شما عداوت و دشمنى هميشگى آشكار شده است; تا آن زمان كه به خداى يگانه ايمان بياوريد! -جز آن سخن ابراهيم كه به پدرش ( عمويش آزر) گفت (و وعده داد) كه براى تو آمرزش طلب مى‏كنم، و در عين حال در برابر خداوند براى تو مالك چيزى نيستم (و اختيارى ندارم)!- پروردگارا! ما بر تو توكل كرديم و به سوى تو بازگشتيم، و همه فرجامها بسوى تو است!",
+                            "verse 60:5": "پروردگارا! ما را مايه گمراهى كافران قرار مده، و ما را ببخش، اى پروردگار ما كه تو عزيز و حكيمى!»",
+                            "verse 60:6": "(آرى) براى شما در زندگى آنها اسوه حسنه (و سرمشق نيكويى) بود، براى كسانى كه اميد به خدا و روز قيامت دارند; و هر كس سرپيچى كند به خويشتن ضرر زده است، زيرا خداوند بى‏نياز و شايسته ستايش است!",
+                            "verse 60:7": "اميد است خدا ميان شما و كسانى از مشركين كه با شما دشمنى كردند (از راه اسلام) پيوند محبت برقرار كند; خداوند تواناست و خداوند آمرزنده و مهربان است",
+                            "verse 60:8": "خدا شما را از نيكى كردن و رعايت عدالت نسبت به كسانى كه در راه دين با شما پيكار نكردند و از خانه و ديارتان بيرون نراندند نهى نمى‏كند; چرا كه خداوند عدالت‏پيشگان را دوست دارد",
+                            "verse 60:9": "تنها شما را از دوستى و رابطه با كسانى نهى مى‏كند كه در امر دين با شما پيكار كردند و شما را از خانه هايتان بيرون راندند يا به بيرون‏راندن شما كمك كردند و هر كس با آنان رابطه دوستى داشته باشد ظالم و ستمگر است!",
+                            "verse 60:10": "اى كسانى كه ايمان آورده‏ايد! هنگامى كه زنان باايمان بعنوان هجرت نزد شما آيند، آنها را آزمايش كنيد -خداوند به ايمانشان آگاهتر است- هرگاه آنان را مؤمن يافتيد، آنها را بسوى كفار بازنگردانيد; نه آنها براى كفار حلالند و نه كفار براى آنها حلال; و آنچه را همسران آنها (براى ازدواج با اين زنان) پرداخته‏اند به آنان بپردازيد; و گناهى بر شما نيست كه با آنها ازدواج كنيد هرگاه مهرشان را به آنان بدهيد و هرگز زنان كافر را در همسرى خود نگه نداريد (و اگر كسى از زنان شما كافر شد و به بلاد كفر فرار كرد،) حق داريد مهرى را كه پرداخته‏ايد مطالبه كنيد همان‏گونه كه آنها حق دارند مهر زنانشان را كه از آنان جدا شده‏اند) از شما مطالبه كنند; اين حكم خداوند است كه در ميان شما حكم مى‏كند، و خداوند دانا و حكيم است!",
+                            "verse 60:11": "و اگر بعضى از همسران شما از دستتان بروند (و به سوى كفار بازگردند) و شما در جنگى بر آنان پيروز شديد و غنايمى گرفتيد، به كسانى كه همسرانشان رفته‏اند، همانند مهرى را كه پرداخته‏اند بدهيد; و از (مخالفت) خداوندى كه همه به او ايمان داريد بپرهيزيد!",
+                            "verse 60:12": "اى پيامبر! هنگامى كه زنان مؤمن نزد تو آيند و با تو بيعت كنند كه چيزى را شريك خدا قرار ندهند، دزدى و زنا نكنند، فرزندان خود را نكشند، تهمت و افترايى پيش دست و پاى خود نياورند و در هيچ كار شايسته‏اى مخالفت فرمان تو نكنند، با آنها بيعت كن و براى آنان از درگاه خداوند آمرزش بطلب كه خداوند آمرزنده و مهربان است!",
+                            "verse 60:13": "اى كسانى كه ايمان آورده‏ايد! با قومى كه خداوند آنان را مورد غضب قرار داده دوستى نكنيد; آنان از آخرت مايوسند همان‏گونه كه كفار مدفون در قبرها مايوس مى‏باشند!"
+                        }
+                    }
+                }
+            },
+            "portuguese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "Ó fiéis, não tomeis por confidentes os Meus e os vossos inimigos, demonstrando-lhes afeto, posto que renegam tudo quanto vos chegou da verdade, e expulsam (de Makka) tanto o Mensageiro, como vós mesmos, porque credes em Deus, vosso Senhor! Quando sairdes para combater pela Minha causa, procurando a Minha complacência (não os tomeis por confidentes), confiando-lhes as vossas intimidades, porque Eu, melhor do que ninguém, sei tudo quanto ocultais, e tudo quanto manifestais.",
+                            "verse 60:2": "Se lograssem tirar o melhor de vós, mostrar-se-iam vossos inimigos, estenderiam as mãos e as línguas contra vós, desejando fazer-vos rejeitar a fé.",
+                            "verse 60:3": "De nada vos valerão os vossos parentes ou os vossos filhos, no Dia da Ressurreição.",
+                            "verse 60:4": "Tivestes um excelente exemplo em Abraão e naqueles que o seguiram, quando disseram ao seu povo: Em verdade, não somos responsáveis por vossos atos e por tudo quando adorais, em lugar de Deus, Renegamos-vos e iniciar-se-á inimizade e um ódio duradouros entre nós e vós, a menos que creiais unicamente em Deus! Todavia, as palavras de Abraão para o pai: - Implorai o perdão para ti, embora nada venha a obter de Deus em teu favor - foram uma exceção.",
+                            "verse 60:5": "Ó Senhor nosso, não faças de nós um escarmento para os incrédulos e perdoa-nos, ó Senhor nosso, porque és o Poderoso, o Prudentíssimo.",
+                            "verse 60:6": "Tivestes neles um excelente exemplo, de quem confia em Deus e no Dia do Juízo Final.",
+                            "verse 60:7": "É possível que Deus restabeleça a cordialidade entre vós e os vossos inimigos, porque Deus é Poderoso, e porque Deus é Indulgente, Misericordiosíssimo.",
+                            "verse 60:8": "Deus nada vos proíbe, quanto àquelas que não nos combateram pela causa da religião e não vos expulsaram dos vossos lares, nem que lideis com eles com gentileza e eqüidade, porque Deus aprecia os eqüitativos.",
+                            "verse 60:9": "Deus vos proíbe tão-somente entrar em privacidade com aqueles que vos combateram na religião, vos expulsaram de vossos lares ou que cooperaram na vossa expulsão.",
+                            "verse 60:10": "Ó fiéis, quando se vos apresentarem as fugitivas fiéis, examinai-as, muito embora Deus conheça a sua fé melhor do que ninguém; porém, se as julgardes fiéis, não as restituais aos incrédulos, porquanto elas não lhes cabem por direito, nem eles a elas; porém, restituí o que eles gastaram (com os seus dotes).",
+                            "verse 60:11": "E se alguma de vossas esposas fugir para os incrédulos, e depois tiverdes acesso (a uma mulher deles), restituí àqueles cujas esposas houverem fugido o equivalente ao que haviam gasto (com os seus dotes).",
+                            "verse 60:12": "Ó Profeta, quando as fiéis se apresentarem a ti, jurando-te fidelidade, afirmando-te que não atribuirão parceiros a Deus, não roubarão, não fornicarão, não serão filicidas, não se apresentarão com calúnias que forjarem intencionalmente, nem te desobedecerão em causa justa, aceita, então, o seu compromisso e implora, para elas, o perdão de Deus, porque Deus é Indulgente, Misericordiosíssimo.",
+                            "verse 60:13": "Ó fiéis, não tenhais vínculos com o povo que Deus abominou, por ter-se tornado cético quanto à outra vida, como os incrédulos se tornaram céticos quanto aos donos das sepulturas."
+                        }
+                    }
+                }
+            },
+            "romanian": {
+                "translators": {
+                    "1": {
+                        "Lucrarea (traducere úi editare) a fost realizată de către": {
+                            "verse 60:1": "O, voi cei care credeți! Nu-i luați ca aliați pe dușmanul Meu și pe dușmanul vostru, arãtându-le lor prietenie, în vreme ce ei au tãgãduit Adevãrul ce a venit la voi! Ei îl alungã pe Tr",
+                            "verse 60:2": "Dacã ei vor pune stãpânire peste voi , vor fi ei dușmani și vorîntinde mâinile și limbile lor întru rãu spre voi și vor voi ei sã fiți tãgãduitori",
+                            "verse 60:3": "Nu vã vor fi de folos nici rudele voastre, nici copiii voștri.",
+                            "verse 60:4": "Ați avut voi o pildã frumoasã în Avraam și în aceia care au fostalãturi de el , atunci când ei au zis cãtre neamul lor: \"Noi ne lepãdãm de voi și de cele pe care voi le venerați",
+                            "verse 60:5": "Doamne, nu ne face pe noi încercare pentru cei care nu cred și iartã-ne nouã, Doamne, cãci Tu ești Cel Puternic",
+                            "verse 60:6": "Înțelept [Al-'Aziz, Al Hakim]!\"",
+                            "verse 60:7": "Voi ați avut în ei o pildã frumoasã, pentru cel ce nãdãjduiește înAllah și în Ziua de Apoi.",
+                            "verse 60:8": "Se poate ca Allah sã aducã prietenie între voi și între aceia pe care voi i-ați ținut ca dușmani , cãci Allah este Atotputernic și Allah este Iertãtor, Îndurãtor [Qadir, Ghafur, Rahim].",
+                            "verse 60:9": "Allah nu vã oprește sã faceți bine acelora care nu au luptat împotriva voastrã, din pricina religiei, și nu v-au alungat din cãminele voastre, [ba din contrã] sã fiți foarte buni",
+                            "verse 60:10": "Însã Allah vã oprește sã-i luați ca aliați pe aceia care au luptatîmpotriva voastrã, din pricina religiei, și v-au alungat din cãminelevoastre și au ajutat la alung",
+                            "verse 60:11": "O, voi cei care credeți! Dacã vin la voi muieri credincioase înpribegie , încercați-le pe ele! Allah știe mai bine credința lor.",
+                            "verse 60:12": "Dacã vreunele din soațele voastre fug de la voi la necredincioși și voi îi pedepsiți , atunci dați-le acelora ale cãror soațe au fugit atât cât au cheltuit ei! Și fiți cu fricã de Allah, î",
+                            "verse 60:13": "O, Profetule! Dacã vin la tine muieri credincioase și îți fac jurãmânt de credințã, fãgãduind cã nu vor pune nimic în rând cu Allah,nu vor fura, nu vor curvi , nu-i vor omorî pe copiii",
+                            "verse 60:14": "O, voi cei care credeți! Nu vã aliați cu un neam [de oameni] pecare Allah este mâniat și care deznãdãjduiesc în privința Vieții deApoi, întocmai așa cum deznãdãjduiesc necred copiii"
+                        }
+                    },
+                    "2": {
+                        "George Grigore, Coranul": {
+                            "verse 60:1": "O, voi cei ce credeţi! Nu-i luaţi de prieteni pe vrăjmaşii Mei şi pe vrăjmaşii voştri.",
+                            "verse 60:2": "Dacă vă vor avea ei în mână, vă vor fi vrăjmaşi, vă vor ocărî şi vă vor lovi şi s-ar bucura dacă aţi tăgădui.",
+                            "verse 60:3": "Nici rudele voastre, nici pruncii voştri nu vă vor fi de vreun folos în Ziua Învierii când El va judeca între voi.",
+                            "verse 60:4": "Aveţi o frumoasă pildă în Abraham şi în cei dimpreună cu el când au spus poporului lor: “Noi vă desfidem pe voi şi pe cei cărora vă închinaţi în locul lui Dumnezeu.",
+                            "verse 60:5": "Domnul nostru! Nu ne face pe noi prada celor care tăgăduiesc! Domnul nostru! Iartă-ne nouă! Tu eşti Puternicul, Înţeleptul.",
+                            "verse 60:6": "Aveţi în ei o frumoasă pildă despre cei care îşi pun speranţa în Dumnezeu şi în Ziua de Apoi.",
+                            "verse 60:7": "Dumnezeu ar putea pune prietenie între voi şi unii dintre cei pe care îi socotiţi vrăjmaşi.",
+                            "verse 60:8": "Dumnezeu nu vă opreşte de la a fi buni şi drepţi cu cei care nu s-au războit cu voi pe credinţă şi nici nu v-au prigonit din casele voastre.",
+                            "verse 60:9": "Dumnezeu vă opreşte de la a vi-i face prieteni pe cei care s-au războit cu voi pentru credinţă şi v-au prigonit din casele voastre şi au fost părtaşi la prigonirea voastră.",
+                            "verse 60:10": "O, voi cei ce credeţi! Când credincioasele care s-au pribegit, vin la voi, puneţi-le la încercare.",
+                            "verse 60:11": "Dacă vreuna dintre soţiile voastre fuge la tăgăduitori, iar voi îi veţi pedepsi pe aceştia, daţi despăgubire celor ale căror soţii au fugit pentru ceea ce au cheltuit.",
+                            "verse 60:12": "O, Profetule! Când credincioasele vin la tine şi-ţi fac jurăminte de credinţă că nu vor alătura pe nimeni lui Dumnezeu, nu vor fura, nu vor preacurvi, nu-şi vor ucide pruncii, nu vor veni cu nici o mârşăvie născocită între mâinile şi picioarele lor, nu se vor răzvrăti asupra ta întru cele de cuviinţă, primeşte atunci jurământul lor de credinţă.",
+                            "verse 60:13": "O, voi cei ce credeţi! Nu vă faceţi prieteni dintr-un popor asupra căruia Dumnezeu s-a mâniat şi nu are nici o speranţă pentru Viaţa de Apoi, aşa cum tăgăduitorii n-au nici o nădejde pentru cei din morminte."
+                        }
+                    }
+                }
+            },
+            "russian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "О вы, кто верует!Ни Моего, ни вашего врагаСебе в друзья вы не берите,Являя им свою любовь,В то время как ониТу истину, что к вам приходит,отвергают.",
+                            "verse 60:2": "Но если им удастся вами завладеть,Врагами вашими себя они проявят,Направив руки и язык свойвам во зло, —Они хотят, чтобы невернымивы стали;",
+                            "verse 60:3": "Ни ваши родственники и ни ваши детиВ День Воскресения вам не помогут.",
+                            "verse 60:4": "Поистине, для вас прекрасный естьпримерВ (пророке) Ибрахиме2227 и в тех, ктоследовал за ним,Когда народу своему они сказали:«Мы покидаем вас и то,Чему вы молитесь, опричь Аллаха.",
+                            "verse 60:5": "О наш Господь!Не делай нас Ты испытанием для тех,Кто (Истину Твою) не принял,И нам прощение пошли, —Ведь мудр и всесилен Ты!»",
+                            "verse 60:6": "Поистине, для вас в них дан примерпрекрасный,—Для тех из вас, кто лик свой повернулк Аллаху,(Уверовав) в Последний День;Но если отвратится кто, —Аллах, поистине, богат и достохвален!",
+                            "verse 60:7": "Аллах, быть может, между вамиИ теми, кто сейчас враждуетпротив вас,Любовь (и дружбу) утвердит, —Поистине, Аллах всесилен,Он — милостив и всепрощающ!",
+                            "verse 60:8": "Аллах запрета не даетВам доброту и справедливостьпроявлятьК тем людям, кто за вашу верус вами не сражался,Не изгонял из дома вас, —Поистине, Он любит справедливых!",
+                            "verse 60:9": "Аллах дает запрет в друзья брать тех,Которые сражались против веры,И гнали вас из ваших очагов,И помогали вашему изгнанью.",
+                            "verse 60:10": "О вы, кто верует!Когда к вам беженки (из Мекки)верные придут,Вы испытать на веру их должны, —Аллах их веру знает.",
+                            "verse 60:11": "И коль какая-то из ваших женОт вас к неверному ушла,Вы ж в прибавление себе (другуювзяли),Платите тем, от коих жены к вам ушли,Вы равное тому, что эти людииздержали,И страх имейте пред Аллахом,В Которого уверовали вы!",
+                            "verse 60:12": "О пророк! Когда к тебе, на верностьприсягая,Придут те женщины, что веруют(в Аллаха),Клянясь, что в равные ЕмуНе будут измышлять других богов,Не будут красть, блудить не будут,Не будут убивать своих детей,Искусной ложью покрывать не будутВсе злодеянья рук своих и ног2228,Противиться тебе во всем,Что добродетельно, не будут, —Тогда прими присягу ихИ испроси для них прощеньяу Аллаха, —Поистине, всемилостиви всепрощающ Он!",
+                            "verse 60:13": "О вы, кто верует!С людьми, на коих — гнев Аллаха,не дружите."
+                        }
+                    }
+                }
+            },
+            "spanish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "¡Creyentes! ¡No toméis como amigos a los enemigos Míos y vuestros, dándoles muestras de afecto, siendo así que no creen en la Verdad venida a vosotros! Expulsan al Enviado y os expulsan a vosotros porque creéis en Alá vuestro Señor.",
+                            "verse 60:2": "Si dan con vosotros, son para vosotros enemigos y os maltratan de obra y de palabra.",
+                            "verse 60:3": "El día de la Resurrección no os aprovecharán ni vuestros parientes ni vuestros hijos.",
+                            "verse 60:4": "Tenéis un bello modelo en Abraham y en los que con él estaban.",
+                            "verse 60:5": "¡Señor! ¡No hagas de nosotros instrumento de tentación para los infieles! ¡Perdónanos, Señor! Eres Tú el Poderoso, el Sabio».",
+                            "verse 60:6": "Tenéis en ellos un bello modelo para quien cuenta con Alá y con el último Día.",
+                            "verse 60:7": "Quizá establezca Alá la amistad entre vosotros y los que de ellos tenéis por enemigos.",
+                            "verse 60:8": "Alá no os prohíbe que seáis buenos y equitativos con quienes no han combatido contra vosotros por causa de la religión, ni os han expulsado de vuestros hogares.",
+                            "verse 60:9": "Lo que sí os prohíbe Alá es que toméis como amigos a los que han combatido contra vosotros por causa de la religión y os han expulsado de vuestros hogares o han contribuído a vuestra expulsión.",
+                            "verse 60:10": "¡Creyentes! Cuando vengan a vosotros mujeres creyentes que hayan emigrado, ¡examinadlas! Alá conoce bien su fe.",
+                            "verse 60:11": "Si alguna de vuestras esposas se pasa a los infieles y, luego, os toca a vosotros vencer, dad a aquéllos cuyas esposas hayan huido otro tanto de lo que habían gastado.",
+                            "verse 60:12": "¡Profeta! Cuando las creyentes vengan a ti a prestarte juramento de fidelidad, de que no asociarán nada a Alá, que no robarán, que no fornicarán, que no matarán a sus hijos, que no dirán calumnia forjada entre sus manos y pies, que no te desobedecerán en lo que se juzgue razonable, acepta su juramento y pide a Alá que les perdone.",
+                            "verse 60:13": "¡Creyentes! ¡No toméis como amigos a gente que ha incurrido en la ira de Alá! Desesperan de la otra vida, como los infieles desesperan de los sepultados."
+                        }
+                    }
+                }
+            },
+            "tamil": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "ஈமான் கொண்டவர்களே! எனக்கு விரோதியாகவும், உங்களுக்கு விரோதியாகவும் இருப்பவர்களைப் பிரியத்தின் காரணத்தால் இரகசியச் செய்திகளை எடுத்துக்காட்டும் உற்ற நண்பர்களாக்கிக் கொள்ளாதீர்கள்; (ஏனெனில்) உங்களிடம் வந்துள்ள சத்திய (வேத)த்தை அவர்கள் நிராகரிக்கிறார்கள், நீங்கள் உங்கள் இறைவனான அல்லாஹ்வின் மீது ஈமான் கொண்டதற்காக, இத்தூதரையும், உங்களையும் வெளியேற்றுகிறார்கள், என் பாதையில் போரிடுவதற்காகவும், என் பொருத்தத்தை நாடியும் நீங்கள் புறப்பட்டிருந்தால் (அவர்களை நண்பர்களாக்கிக் கொள்ளாதீர்;கள், அப்போது) நீங்கள் பிரியத்தால் அவர்களிடத்தில் இரகசியத்தை வெளிப்படுத்தி விடுகிறீர்கள், ஆனால், நீங்கள் மறைத்துவைப்பதையும், நீங்கள் வெளிப்படுத்துவதையும் நான் நன்கு அறிந்தவன்.",
+                            "verse 60:2": "அவர்களுக்கு உங்கள் மீது வாய்ப்பு கிடைத்தால், அவர்கள் உங்களுக்கு விரோதிகளாகித் தம் கைகளையும், தம் நாவுகளையும் உங்களுக்குத் தீங்கிழைப்பதற்காக உங்கள்பால் நீட்டுவார்கள், தவிர, நீங்களும் காஃபிர்களாக வேண்டும் என்று பிரியப்படுவார்கள்.",
+                            "verse 60:3": "உங்கள் உறவினரும், உங்கள் மக்களும் கியாம நாளில் உங்களுக்கு எப்பயனும் அளிக்க மாட்டார்கள்; (அந்நாளில் அல்லாஹ்) உங்களிடையே தீர்ப்பளிப்பான், அன்றியும் நீங்கள் செய்பவற்றை அல்லாஹ் உற்று நோக்கியவனாகவே இருக்கின்றான்.",
+                            "verse 60:4": "இப்றாஹீமிடமும், அவரோடு இருந்தவர்களிடமும், நிச்சயமாக உங்களுக்கு ஓர் அழகிய முன்மாதிரி இருக்கிறது, தம் சமூகத்தாரிடம் அவர்கள், \"உங்களை விட்டும், இன்னும் அல்லாஹ்வையன்றி நீங்கள் வணங்குகிறவற்றைவிட்டும், நாங்கள் நிச்சயமாக நீங்கிக் கொண்டோம்; உங்களையும் நாங்கள் நிராகரித்து விட்டோம், அன்றியும் ஏகனான அல்லாஹ் ஒருவன் மீதே நீங்கள் நம்பிக்கை கொள்ளும் வரை, நமக்கும் உங்களுக்குமிடையில் பகைமையும், வெறுப்பும் நிரந்தரமாக ஏற்பட்டு விட்டன\" என்றார்கள்.",
+                            "verse 60:5": "\"எங்கள் இறைவா! காஃபிர்களுக்கு, எங்களைச் சோதனை(ப் பொருள்) ஆக ஆக்கிவிடாதே! எங்கள் இறைவா! எங்களுக்கு மன்னிப்பும் அருள்வாயாக! நிச்சயமாக நீ (யாவரையும்) மிகைத்தவன் ஞானம் மிக்கவன்\" (என்றும் வேண்டினார்).",
+                            "verse 60:6": "உங்களில் எவர் அல்லாஹ்வையும் இறுதி நாளையும், நம்புகிறார்களோ.",
+                            "verse 60:7": "உங்களுக்கும், அவர்களில் நின்றும் நீங்கள் விரோதித்திருக்கின்றீர்களே அவர்களுக்குமிடையே அல்லாஹ் பிரியத்தை உண்டாக்கி விடக்கூடும், மேலும், அல்லாஹ் பேராற்றலுடையவன்; அல்லாஹ் மிகவும் மன்னிப்வன்; மிக்க கிருபையுடையவன்.",
+                            "verse 60:8": "மார்க்க (விஷய)த்தில் உங்களிடம் போரிடாமலும், உங்கள் இல்லங்களிலிருந்து உங்களை வெளியேற்றாமலும் இருந்தார்களே அவர்களுக்கு நீங்கள் நன்மை செய்வதையும், அவர்களுக்கு நீங்கள் நீதி செய்வதையும் அல்லாஹ் விலக்க வில்லை - நிச்சயமாக அல்லாஹ் நீதி செய்பவர்களை நேசிக்கிறான்.",
+                            "verse 60:9": "நிச்சயமாக அல்லாஹ் உங்களை விலக்குவதெல்லாம் மார்க்க விஷயத்தில் உங்களிடம் போர் செய்து உங்களை உங்கள் இல்லங்களை விட்டும் வெளியேற்றி, நீங்கள் வெளியேற்றப்படுவதற்கு உதவியும் செய்தார்களே, அத்தகையவர்களை நீங்கள் நேசர்களாக ஆக்கிக் கொள்வதைத் தான் - எனவே, எவர்கள் அவர்களை நேசர்களாக்கிக் கொள்கிறார்களோ அவர்கள்தாம் அநியாயம் செய்பவர்கள்.",
+                            "verse 60:10": "ஈமான் கொண்டவர்களே! முஃமினான பெண்கள் ஹிஜ்ரத் செய்து (நாடு துறந்தவர்களாக) உங்களிடம் வந்தால், அவர்களை நீங்கள் பரிசோதித்துக் கொள்ளுங்கள், அல்லாஹ் அவர்கள் ஈமானை நன்கறிந்தவன், எனவே அவர்கள் முஃமினான (பெண்கள்) என நீங்கள் அறிந்தால், காஃபிர்களிடம் அவர்களைத் திருப்பியனுப்பி விடாதீர்கள், ஏனெனில், அந்த பெண்கள் அந்த ஆண்களுக்கு அனுமதிக்கப்பட்டவர்களில்லை.",
+                            "verse 60:11": "மேலும் உங்கள் மனைவியரிலிருந்து எவரேனும் உங்களைவிட்டுத் தப்பி, காஃபிர்களிடம் சென்ற பின்னர், நீங்கள் போர்ப்பொருள்களை அடைந்தால், எவர்கள் மனைவியர் சென்று விட்டனரோ, அவர்களுக்கு அவர்கள் செலவு செய்தது போன்றதை நீங்கள் கொடுங்கள், அன்றியும், நீங்கள் எவன் மீது நம்பிக்கை கொண்டு முஃமின்களாக இருக்கிறீர்களோ அந்த அல்லாஹ்வுக்கு அஞ்சி நடந்து கொள்ளுங்கள்.",
+                            "verse 60:12": "நபியே! முஃமினான பெண்கள் உங்களிடம் வந்து, அல்லாஹ்வுக்கு எப்பொருளையும் இணைவைப்பதில்லையென்றும், திருடுவதில்லை என்றும், விபச்சாரம் செய்வதில்லை என்றும், தங்கள் பிள்ளைகளை கொல்வதில்லை என்றும், தங்கள் கைகளுக்கும், தங்கள் கால்களுக்கும் இடையில் எதனை அவர்கள் கற்பனை செய்கிறார்களோ, அத்தகைய அவதூறை இட்டுக்கட்டிக் கொண்டு வருவதில்லை என்றும், மேலும் நன்மையான (காரியத்)தில் உமக்கு மாறு செய்வதில்லையென்றும், அவர்கள் உம்மிடம் பைஅத்து - வாக்குறுதி செய்தால் அவர்களுடைய வாக்குறுதியை ஏற்றுக் கொள்வீராக, மேலும் அவர்களுக்காக அல்லாஹ்விடம் மன்னிப்புத் தேடுவீராக, நிச்சயமாக அல்லாஹ் மிகவும் மன்னிப்பவன், மிக்க கிருபையுடையவன்.",
+                            "verse 60:13": "ஈமான் கொண்டவர்களே! அல்லாஹ் எவர்கள் மீது கோபம் கொண்டிருக்கிறானோ, அந்தச் சமூகத்தாருடன் நேசம் சொள்ளாதீர்கள், ஏனெனில் மண்ணறை வாசிகளைப் பற்றி (எழுப்பப்பட மாட்டார்கள் என்று) நிராகரிப்போர் நம்பிக்கை இழந்தது போல், மறுமையைப் பற்றி, நிச்சயமாக இவர்களும் நம்பிக்கை இழந்து விட்டனர்."
+                        }
+                    }
+                }
+            },
+            "thai": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "โอ้บรรดาผู้ศรัทธาเอ๋ย พวกเจ้าอย่าได้คบศัตรูของข้าและศัตรูของพวกเจ้าเป็นมิตร โดยให้ความรักใคร่แก่พวกเขา และทั้ง ๆ ที่พวกเขาปฏิเสธศรัทธาต่อสิ่งที่มีมายังพวกเจ้าคือสัจธรรม พวกเขาขับไล่ร่อซู้ลและโดยเฉพาะพวกเจ้า เนื่องเพราะพวกเจ้าศรัทธาต่ออัลลอฮ์ พระเจ้าของพวกเจ้า หากพวกเจ้าได้เคยออกไปต่อสู้ในแนวทางของข้า และแสวงหาความโปรดของข้า (ดังนั้น พวกเจ้าอย่าได้คบพวกปฏิเสธศรัทธาเป็นมิตรอื่นจากข้า) โดยซ่อนความรักใคร่แก่พวกเขาอย่างลับ ๆ และข้ารู้ดียิ่งในสิ่งที่พวกเจ้าปิดบัง และสิ่งที่พวกเจ้าเปิดเผย และผู้ใดในหมู่พวกเจ้ากระทำเช่นนั้น แน่นอนเขาได้หลงจากทางอันเที่ยงธรรม",
+                            "verse 60:2": "หากพวกเขามีสถานะดีกว่าพวกเจ้า พวกเขาก็จะแสดงตัวเป็นศัตรูกับพวกเจ้า และจะยื่นมือของพวกเขาไปยังพวกเจ้า (ทำร้าย) และลิ้นของพวกเขาจะกล่าวร้ายสาปแช่ง และพวกเขาใคร่ที่จะให้พวกเจ้าเป็นพวกปฏิเสธศรัทธา",
+                            "verse 60:3": "ความสัมพันธ์ทางเครือญาติของพวกเจ้า และลูกหลานของพวกเจ้าจะไม่อำนวยประโยชน์อันใดแก่พวกเจ้า ในวันกิยามะฮ์พระองค์จะทรงตัดสินระหว่างพวกเจ้า และอัลลอฮ์ทรงสอดส่องในสิ่งที่พวกเจ้ากระทำ",
+                            "verse 60:4": "แน่นอนได้มีแบบอย่างอันดีงามสำหรับพวกเจ้าแล้วใน (ตัว) อิบรอฮีม และบรรดา (มุอฺมิน) ผู้ที่อยู่ร่วมกับเขา เมื่อพวกเขากล่าวแก่หมู่ชนของพวกเขาว่า แท้จริงพวกเราขอปลีกตัวจากพวกท่านและสิ่งที่พวกท่านเคารพบูชาอื่นจากอัลลอฮ์ เราขอปฏิเสธศรัทธาต่อ (ศาสนาของ) พวกท่าน และการเป็นศัตรูและการเกลียดชังระหว่างพวกเรากับพวกท่านได้ปรากฏขึ้นแล้ว (และจะคงอยู่) ตลอดไป จนกว่าพวกท่านจะศรัทธาต่ออัลลอฮ์องค์เดียว นอกจากคำกล่าวของอิบรอฮีมแก่บิดาของเขา (ที่ว่า) แน่นอนฉันจะขออภัยโทษให้แก่ท่าน ทั้ง ๆ ที่ฉันไม่มีอำนาจอันใดจะช่วยท่าน (ให้พ้นจากการลงโทษ) จากอัลลอฮ์ได้ ข้าแต่พระเจ้าของเรา แด่พระองค์ท่านเราขอมอบหมาย และยังพระองค์ท่านเท่านั้นเราขอลุแก่โทษ และยังพระองค์ท่านเท่านั้นคือการกลับไป",
+                            "verse 60:5": "ข้าแต่พระเจ้าของเรา ขอพระองค์ทรงอย่าให้เราเป็นที่ทดสอบของบรรดาผู้ปฏิเสธศรัทธา ขอพระองค์ทรงโปรดอภัยให้แก่เรา ข้าแต่พระเจ้าของเรา แท้จริงพระองค์ท่านเป็นผู้ทรงอำนาจ ผู้ทรงปรีชาญาณ",
+                            "verse 60:6": "โดยแน่นอน ได้มีแบบอย่างอันดีงามในพวกเขาสำหรับพวกเจ้าแล้ว แก่ผู้ที่หวังใน (การตอบแทนของ) อัลลอฮ์และวันสุดท้าย และผู้ใดผินหลังให้ (การศรัทธา) ดังนั้น แท้จริงอัลลอฮ์คือ ผู้ทรงพอเพียง ผู้ทรงได้รับการสรรเสริญ",
+                            "verse 60:7": "บางทีอัลลอฮ์จะทรงทำให้เกิดความรักใคร่ระหว่างพวกเจ้ากับบรรดาผู้ที่พวกเจ้าถือเป็นศัตรูในหมู่พวกเขา และอัลลอฮ์เป็นผู้ทรงอานุภาพ และอัลลอฮ์เป็นผู้ทรงอภัย ผู้ทรงเมตตาเสมอ",
+                            "verse 60:8": "อัลลอฮ์มิได้ทรงห้ามพวกเจ้าเกี่ยวกับบรรดาผู้ที่มิได้ต่อต้านพวกเจ้าในเรื่องศาสนา และพวกเขามิได้ขับไล่พวกเจ้าออกจากบ้านเรือนของพวกเจ้า ในการที่พวกเจ้าจะทำความดีแก่พวกเขา และให้ความยุติธรรมแก่พวกเขา แท้จริงอัลลอฮ์ทรงรักผู้มีความยุติธรรม",
+                            "verse 60:9": "แต่ว่าอัลลอฮ์ทรงห้ามพวกเจ้าเกี่ยวกับบรรดาผู้ที่ต่อต้านพวกเจ้าในเรื่องศาสนา และขับไล่พวกเจ้าออกจากบ้านเรือนของพวกเจ้า และช่วยเหลือให้ขับไล่พวกเจ้าในการที่พวกเจ้าจะผูกมิตรกับพวกเขา และผู้ใดผูกมิตรกับพวกเขา ชนเหล่านั้นพวกเขาเป็นผู้อธรรม",
+                            "verse 60:10": "โอ้บรรดาผู้ศรัทธาเอ๋ย เมื่อบรรดาหญิงผู้ศรัทธาเป็นผู้ลี้ภัยมาหาพวกเจ้า ก็จงสอบสวนพวกนาง อัลลอฮ์ทรงรู้ดียิ่งในการศรัทธาของพวกนาง ครั้นเมื่อพวกเจ้ารู้ว่าพวกนางเป็นผู้ศรัทธา ก็อย่าได้ส่งพวกนางกลับไปยังพวกปฏิเสธศรัทธา พวกนางมิได้เป็นที่อนุมัติแก่พวกเขา และพวกเขาก็มิได้เป็นที่อนุมัติแก่พวกนาง และจงจ่ายคือให้พวกเขา (สามีเดิมที่เป็นกาเฟร) สิ่งที่พวกเขาได้จ่ายไป (มะฮัร) และไม่เป็นบาปอันใดแก่พวกเจ้าที่จะแต่งงานกับพวกนาง เมื่อพวกเจ้าได้ให้แก่พวกนางซึ่งของหมั้นของพวกนาง และอย่าหน่วงเหนี่ยวพันธะการแต่งงานของบรรดาหญิงผู้ปฏิเสธศรัทธา และจงขอคืนสิ่งที่พวกเจ้าได้ใช้จ่ายไป และให้พวกเขาขอคืนสิ่งที่พวกเขาได้ใช้จ่ายไป นั่นคือข้อตัดสินของอัลลอฮ์ พระองค์ทรงตัดสินในระหว่างพวกเจ้า และอัลลอฮ์เป็นผู้ทรงรอบรู้ ผู้ทรงปรีชาญาณ",
+                            "verse 60:11": "และถ้าคนใดในบรรดาภริยาของพวกเจ้าหนีไปสู่พวกปฏิเสธศรัทธาแล้ว ครั้นเมื่อพวกเจ้าสามารถแก้แค้นริบทรัพย์มาได้ ก็จงจ่ายคืนให้แก่บรรดาผู้ที่บรรดาภริยาของพวกเขาหนีไปเท่ากับจำนวนที่พวกเขาได้จ่ายไป และจงยำเกรงอัลลอฮ์ ผู้ซึ่งพวกเจ้าเป็นผู้ศรัทธาต่อพระองค์เถิด",
+                            "verse 60:12": "โอ้นบีเอ๋ย เมื่อบรรดาหญิงผู้ศรัทธาได้มาหาเจ้า โดยพวกนางให้ปฏิญาณแก่เจ้าว่าพวกนางจะไม่ตั้งภาคีใด ๆ ต่ออัลลอฮ์ และจะไม่ขโมย และจะไม่ทำชู้ และจะไม่ฆ่าลูก ๆ ของพวกนาง และจะไม่นำมาซึ่งการใส่ร้ายโดยการเสกสรรลูกหลงพ่อให้เป็นลูกของเขา และจะไม่ขัดขืนคำสั่งของเจ้าในเรื่องดีงาม ดังนั้น จงรับการปฏิญาณของพวกนาง และจงขอต่ออัลลอฮ์ให้ทรงอภัยแก่พวกนาง แท้จริงอัลลอฮ์เป็นผู้ทรงอภัย ผู้ทรงเมตตาเสมอ",
+                            "verse 60:13": "โอ้บรรดาผู้ศรัทธาเอ๋ย พวกเจ้าอย่าได้คบกับหมู่ชนที่อัลลอฮ์ทรงกริ้วต่อพวกเขาไว้เป็นมิตรสหาย แน่นอนพวกเขาหมดหวังต่อวันปรโลกแล้ว เสมือนกับที่พวกปฏิเสธศรัทธาหมดหวังต่อ (การฟื้นคืนชีพของ) ชาวกุบูร"
+                        }
+                    }
+                }
+            },
+            "turkish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "Ey iman edenler! Eğer benim yolumda savaşmak ve rızamı kazanmak için çıkmışsanız, benim de düşmanım, sizin de düşmanınız olanlara sevgi göstererek, gizli muhabbet besleyerek onları dost edinmeyin.",
+                            "verse 60:2": "Şayet onlar sizi ele geçirirlerse, size düşman kesilecekler, size ellerini ve dillerini kötülükle uzatacaklardır.",
+                            "verse 60:3": "Kıyamet günü yakınlarınız ve çocuklarınız size fayda vermezler.",
+                            "verse 60:4": "İbrahim'de ve onunla beraber olanlarda, sizin için gerçekten güzel bir örnek vardır.",
+                            "verse 60:5": "Rabbimiz! Bizi, inkâr edenler için deneme konusu kılma, bizi bağışla! Ey Rabbimiz! Yegâne galip ve hikmet sahibi, ancak sensin.",
+                            "verse 60:6": "Andolsun, onlar sizin için, Allah'ı ve ahiret gününü arzu edenler için güzel bir örnektir.",
+                            "verse 60:7": "Olur ki Allah sizinle düşman olduklarınız arasında yakında bir dostluk meydana getirir.",
+                            "verse 60:8": "Allah, sizinle din uğrunda savaşmayan ve sizi yurtlarınızdan çıkarmayanlara iyilik yapmanızı ve onlara âdil davranmanızı yasaklamaz.",
+                            "verse 60:9": "Allah, yalnız sizinle din uğrunda savaşanları, sizi yurtlarınızdan çıkaranları ve çıkarılmanız için onlara yardım edenleri dost edinmenizi yasaklar.",
+                            "verse 60:10": "Ey iman edenler! Mümin kadınlar hicret ederek size geldiği zaman, onları, imtihan edin.",
+                            "verse 60:11": "Eğer eşlerinizden biri, sizi bırakıp kâfirlere kaçar, siz de (onlarla savaşıp) galip gelirseniz, eşleri gitmiş olanlara (ganimetten), harcadıkları kadar verin.",
+                            "verse 60:12": "Ey Peygamber! İnanmış kadınlar, Allah'a hiçbir şeyi ortak koşmamak, hırsızlık yapmamak, zina etmemek, çocuklarını öldürmemek, elleriyle ayakları arasında bir iftira uydurup getirmemek, iyi işi işlemekte sana karşı gelmemek hususunda sana biat etmeye geldikleri zaman, biatlarını kabul et ve onlar için Allah'tan mağfiret dile.",
+                            "verse 60:13": "Ey iman edenler! Kendilerine Allah'ın gazap ettiği bir kavmi dost edinmeyin."
+                        }
+                    }
+                }
+            },
+            "urdu": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "مومنو! اگر تم میری راہ میں لڑنے اور میری خوشنودی طلب کرنے کے لئے (مکے سے) نکلے ہو تو میرے اور اپنے دشمنوں کو دوست نہ بناؤ۔ تم تو ان کو دوستی کے پیغام بھیجتے ہو اور وہ (دین) حق سے جو تمہارے پاس آیا ہے منکر ہیں۔ اور اس باعث سے کہ تم اپنے پروردگار خدا تعالیٰ پر ایمان لائے ہو پیغمبر کو اور تم کو جلاوطن کرتے ہیں۔ تم ان کی طرف پوشیدہ پوشیدہ دوستی کے پیغام بھیجتے ہو۔ اور جو کچھ تم مخفی طور پر اور جو علیٰ الاعلان کرتے ہو وہ مجھے معلوم ہے۔ اور جو کوئی تم میں سے ایسا کرے گا وہ سیدھے راستے سے بھٹک گیا",
+                            "verse 60:2": "اے ايمان والو! تم ميرے اور اپنے دشمنوں کو دوست نہ بناؤ تم (اپنے) دوستي کے باعث اُن تک خبريں پہنچاتے ہو حالانکہ وہ اس حق کے ہي مُنکر ہيں جو تمہارے پاس آيا ہے، وہ رسول (صلي اللہ عليہ وآلہ وسلم) کو اور تم کو اس وجہ سے (تمہارے وطن سے) نکالتے ہيں کہ تم اللہ پر جو تمہارا پروردگار ہے، ايمان لے آئے ہو? اگر تم ميري راہ ميں جہاد کرنے اور ميري رضا تلاش کرنے کے لئے نکلے ہو (تو پھر اُن سے دوستي نہ رکھو) تم اُن کي طرف دوستي کے خفيہ پيغام بھيجتے ہو حالانکہ ميں خوب جانتا ہوں جو کچھ تم چھپاتے ہو اور جو کچھ تم آشکار کرتے ہو، اور جو شخص بھي تم ميں سے يہ (حرکت) کرے سو وہ سيدھي راہ سے بھٹک گيا ہےo",
+                            "verse 60:3": "اگر وہ تم پر قدرت پا ليں تو (ديکھنا) وہ تمہارے (کھلے) دشمن ہوں گے اور وہ اپنے ہاتھ اور اپني زبانيں تمہاري طرف برائي کے ساتھ دراز کريں گے اور آرزو مند ہوں گے کہ تم (کسي طرح) کافر ہوجاؤo",
+                            "verse 60:4": "اگر یہ کافر تم پر قدرت پالیں تو تمہارے دشمن ہوجائیں اور ایذا کے لئے تم پر ہاتھ (بھی) چلائیں اور زبانیں (بھی) اور چاہتے ہیں کہ تم کسی طرح کافر ہوجاؤ",
+                            "verse 60:5": "قیامت کے دن نہ تمہارے رشتے ناتے کام آئیں گے اور نہ اولاد۔ اس روز وہی تم میں فیصلہ کرے گا۔ اور جو کچھ تم کرتے ہو خدا اس کو دیکھتا ہے",
+                            "verse 60:6": "تمہيں قيامت کے دن ہرگز نہ تمہاري (کافر و مشرک) قرابتيں فائدہ ديں گي اور نہ تمہاري (کافر و مشرک) اولاد، (اُس دن اللہ) تمہارے درميان مکمل جدائي کر دے گا (مومن جنت ميں اور کافر دوزخ ميں بھيج ديئے جائيں گے)، اور اللہ اُن کاموں کو خوب ديکھنے والا ہے جو تم کر رہے ہوo",
+                            "verse 60:7": "بيشک تمہارے لئے ابراہيم (عليہ السلام) ميں اور اُن کے ساتھيوں ميں بہترين نمون? (اقتداء) ہے، جب انہوں نے اپني قوم سے کہا: ہم تم سے اور اُن بتوں سے جن کي تم اللہ کے سوا پوجا کرتے ہو کليتہً بيزار (اور لاتعلق) ہيں، ہم نے تم سب کا کھلا انکار کيا ہمارے اور تمہارے درميان دشمني اور نفرت و عناد ہميشہ کے لئے ظاہر ہوچکا، يہاں تک کہ تم ايک اللہ پر ايمان لے آؤ، مگر ابراہيم (عليہ السلام) کا اپنے (پرورش کرنے والے) باپ سے يہ کہنا کہ ميں تمہارے لئے ضرور بخشش طلب کروں گا، (فقط پہلے کا کيا ہوا ايک وعدہ تھا جو انہوں نے پورا کر ديا اور ساتھ يوں جتا بھي ديا) اور يہ کہ ميں تمہارے لئے (تمہارے کفر و شرک کے باعث) اللہ کے حضور کسي چيز کا مالک نہيں ہوں? (پھر وہ يہ دعا کر کے قوم سے الگ ہوگئے:) اے ہمارے رب! ہم نے تجھ پر ہي بھروسہ کيا اور ہم نے تيري طرف ہي رجوع کيا اور (سب کو) تيري ہي طرف لوٹنا ہےo",
+                            "verse 60:8": "تمہیں ابراہیم اور ان کے رفقاء کی نیک چال چلنی (ضرور) ہے۔ جب انہوں نے اپنی قوم کے لوگوں سے کہا کہ ہم تم سے اور ان (بتوں) سے جن کو تم خدا کے سوا پوجتے ہو بیتعلق ہیں (اور) تمہارے (معبودوں کے کبھی) قائل نہیں (ہوسکتے) اور جب تک تم خدائے واحد اور ایمان نہ لاؤ ہم میں تم میں ہمیشہ کھلم کھلا عداوت اور دشمنی رہے گی۔ ہاں ابراہیم نے اپنے باپ سے یہ (ضرور) کہا کہ میں آپ کے لئے مغفرت مانگوں گا اور خدا کے سامنے آپ کے بارے میں کسی چیز کا کچھ اختیار نہیں رکھتا۔ اے ہمارے پروردگار تجھ ہی پر ہمارا بھروسہ ہے اور تیری ہی طرف ہم رجوع کرتے ہیں اور تیرے ہی حضور میں (ہمیں) لوٹ کر آنا ہے",
+                            "verse 60:9": "اے ہمارے پروردگار ہم کو کافروں کے ہاتھ سے عذاب نہ دلانا اور اے پروردگار ہمارے ہمیں معاف فرما۔ بیشک تو غالب حکمت والا ہے",
+                            "verse 60:10": "اے ہمارے رب! تو ہميں کافروں کے لئے سببِ آزمائش نہ بنا (يعني انہيں ہم پر مسلّط نہ کر) اور ہميں بخش دے، اے ہمارے پروردگار! بيشک تو ہي غلبہ و عزت والا بڑي حکمت والا ہےo",
+                            "verse 60:11": "بيشک تمہارے لئے ان ميں بہترين نمون? (اِقتداء) ہے (خاص طور پر) ہر اس شخص کے لئے جو اللہ (کي بارگاہ ميں حاضري) کي اور يومِ آخرت کي اميد رکھتا ہے، اور جو شخص رُوگرداني کرتا ہے تو بيشک اللہ بے نياز اور لائقِ ہر حمد و ثناء ہےo",
+                            "verse 60:12": "تم (مسلمانوں) کو یعنی جو کوئی خدا (کے سامنے جانے) اور روز آخرت (کے آنے) کی امید رکھتا ہو اسے ان لوگوں کی نیک چال چلنی (ضرور) ہے۔ اور روگردانی کرے تو خدا بھی بیپرواہ اور سزاوار حمد (وثنا) ہے",
+                            "verse 60:13": "عجب نہیں کہ خدا تم میں اور ان لوگوں میں جن سے تم دشمنی رکھتے ہو دوستی پیدا کردے۔ اور خدا قادر ہے اور خدا بخشنے والا مہربان ہے",
+                            "verse 60:14": "عجب نہيں کہ اللہ تمہارے اور اُن ميں سے بعض لوگوں کے درميان جن سے تمہاري دشمني ہے (کسي وقت بعد ميں) دوستي پيدا کر دے، اور اللہ بڑي قدرت والا ہے، اور اللہ بڑا بخشنے والا نہايت مہربان ہےo",
+                            "verse 60:15": "اللہ تمہيں اس بات سے منع نہيں فرماتا کہ جن لوگوں نے تم سے دين (کے بارے) ميں جنگ نہيں کي اور نہ تمہيں تمہارے گھروں سے (يعني وطن سے) نکالا ہے کہ تم ان سے بھلائي کا سلوک کرو اور اُن سے عدل و انصاف کا برتاؤ کرو، بيشک اللہ عدل و انصاف کرنے والوں کو پسند فرماتا ہےo",
+                            "verse 60:16": "جن لوگوں نے تم سے دین کے بارے میں جنگ نہیں کی اور نہ تم کو تمہارے گھروں سے نکالا ان کے ساتھ بھلائی اور انصاف کا سلوک کرنے سے خدا تم کو منع نہیں کرتا۔ خدا تو انصاف کرنے والوں کو دوست رکھتا ہے",
+                            "verse 60:17": "خدا ان ہی لوگوں کے ساتھ تم کو دوستی کرنے سے منع کرتا ہے جنہوں نے تم سے دین کے بارے میں لڑائی کی اور تم کو تمہارے گھروں سے نکالا اور تمہارے نکالنے میں اوروں کی مدد کی۔ تو جو لوگ ایسوں سے دوستی کریں گے وہی ظالم ہیں",
+                            "verse 60:18": "اللہ تو محض تمہيں ايسے لوگوں سے دوستي کرنے سے منع فرماتا ہے جنہوں نے تم سے دين (کے بارے) ميں جنگ کي اور تمہيں تمہارے گھروں (يعني وطن) سے نکالا اور تمہارے باہر نکالے جانے پر (تمہارے دشمنوں کي) مدد کي? اور جو شخص اُن سے دوستي کرے گا تو وہي لوگ ظالم ہيںo",
+                            "verse 60:19": "اے ايمان والو! جب تمہارے پاس مومن عورتيں ہجرت کر کے آئيں تو انہيں اچھي طرح جانچ ليا کرو، اللہ اُن کے ايمان (کي حقيقت) سے خوب آگاہ ہے، پھر اگر تمہيں اُن کے مومن ہونے کا يقين ہو جائے تو انہيں کافروں کي طرف واپس نہ بھيجو، نہ يہ (مومنات) اُن (کافروں) کے لئے حلال ہيں اور نہ وہ (کفّار) اِن (مومن عورتوں) کے لئے حلال ہيں، اور اُن (کافروں) نے جو (مال بصورتِ مَہر اِن پر) خرچ کيا ہو وہ اُن کو ادا کر دو، اور تم پر اس (بات) ميں کوئي گناہ نہيں کہ تم اِن سے نکاح کر لو جبکہ تم اُن (عورتوں) کا مَہر انہيں ادا کر دو، اور (اے مسلمانو!) تم بھي کافر عورتوں کو (اپنے) عقدِ نکاح ميں نہ روکے رکھو اور تم (کفّار سے) وہ (مال) طلب کر لو جو تم نے (اُن عورتوں پر بصورتِ مَہر) خرچ کيا تھا اور وہ (کفّار تم سے) وہ (مال) مانگ ليں جو انہوں نے (اِن عورتوں پر بصورتِ مَہر) خرچ کيا تھا، يہي اللہ کا حکم ہے، اور وہ تمہارے درميان فيصلہ فرما رہا ہے، اور اللہ خوب جاننے والا بڑي حکمت والا ہےo",
+                            "verse 60:20": "مومنو! جب تمہارے پاس مومن عورتیں وطن چھوڑ کر آئیں تو ان کی آزمائش کرلو۔ (اور) خدا تو ان کے ایمان کو خوب جانتا ہے۔ سو اگر تم کو معلوم ہو کہ مومن ہیں تو ان کو کفار کے پاس واپس نہ بھیجو۔ کہ نہ یہ ان کو حلال ہیں اور نہ وہ ان کو جائز۔ اور جو کچھ انہوں نے (ان پر) خرچ کیا ہو وہ ان کو دے دو۔ اور تم پر کچھ گناہ نہیں کہ ان عورتوں کو مہر دے کر ان سے نکاح کرلو اور کافر عورتوں کی ناموس کو قبضے میں نہ رکھو (یعنی کفار کو واپس دے دو) اور جو کچھ تم نے ان پر خرچ کیا ہو تم ان سے طلب کرلو اور جو کچھ انہوں نے (اپنی عورتوں پر) خرچ کیا ہو وہ تم سے طلب کرلیں۔ یہ خدا کا حکم ہے جو تم میں فیصلہ کئے دیتا ہے اور خدا جاننے والا حکمت والا ہے",
+                            "verse 60:21": "اور اگر تمہاری عورتوں میں سے کوئی عورت تمہارے ہاتھ سے نکل کر کافروں کے پاس چلی جائے (اور اس کا مہر وصول نہ ہوا ہو) پھر تم ان سے جنگ کرو (اور ان سے تم کو غنیمت ہاتھ لگے) تو جن کی عورتیں چلی گئی ہیں ان کو (اس مال میں سے) اتنا دے دو جتنا انہوں نے خرچ کیا تھا اور خدا سے جس پر تم ایمان لائے ہو ڈرو",
+                            "verse 60:22": "اور اگر تمہاري بيويوں ميں سے کوئي تم سے چھوٹ کر کافروں کي طرف چلي جائے پھر (جب) تم جنگ ميں غالب آجاؤ اور مالِ غنيمت پاؤ تو (اس ميں سے) ان لوگوں کو جن کي عورتيں چلي گئي تھيں اس قدر (مال) ادا کر دو جتنا وہ (اُن کے مَہر ميں)خرچ کر چکے تھے، اور اُس اللہ سے ڈرتے رہو جس پر تم ايمان رکھتے ہوo",
+                            "verse 60:23": "اے نبي! جب آپ کي خدمت ميں مومن عورتيں اس بات پر بيعت کرنے کے لئے حاضر ہوں کہ وہ اللہ کے ساتھ کسي چيز کو شريک نہيں ٹھہرائيں گي اور چوري نہيں کريں گي اور بدکاري نہيں کريں گي اور اپني اولاد کو قتل نہيں کريں گي اور اپنے ہاتھوں اور پاؤں کے درميان سے کوئي جھوٹا بہتان گھڑ کر نہيں لائيں گي (يعني اپنے شوہر کو دھوکہ ديتے ہوئے کسي غير کے بچے کو اپنے پيٹ سے جنا ہوا نہيں بتائيں گي) اور (کسي بھي) امرِ شريعت ميں آپ کي نافرماني نہيں کريں گي، تو آپ اُن سے بيعت لے ليا کريں اور اُن کے لئے اللہ سے بخشش طلب فرمائيں، بيشک اللہ بڑا بخشنے والا نہايت مہربان ہےo",
+                            "verse 60:24": "اے پیغمبر! جب تمہارے پاس مومن عورتیں اس بات پر بیعت کرنے کو آئیں کہ خدا کے ساتھ نہ شرک کریں گی نہ چوری کریں گی نہ بدکاری کریں گی نہ اپنی اولاد کو قتل کریں گی نہ اپنے ہاتھ پاؤں میں کوئی بہتان باندھ لائیں گی اور نہ نیک کاموں میں تمہاری نافرمانی کریں گی تو ان سے بیعت لے لو اور ان کے لئے خدا سے بخشش مانگو۔ بیشک خدا بخشنے والا مہربان ہے",
+                            "verse 60:25": "مومنو! ان لوگوں سے جن پر خدا غصے ہوا ہے دوستی نہ کرو (کیونکہ) جس طرح کافروں کو مردوں (کے جی اُٹھنے) کی امید نہیں اسی طرح ان لوگوں کو بھی آخرت (کے آنے) کی امید نہیں",
+                            "verse 60:26": "اے ايمان والو! ايسے لوگوں سے دوستي مت رکھو جن پر اللہ غضبناک ہوا ہے بيشک وہ آخرت سے (اس طرح) مايوس ہو چکے ہيں جيسے کفار اہلِ قبور سے مايوس ہيںo نہیں"
+                        }
+                    }
+                }
+            },
+            "uzbek": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 60:1": "Эй иймон келтирганлар! Агар Менинг йўлимда жиҳод қилиб ва розилигимни сўраб чиққан бўлсангиз, Менинг душманларимни ва ўзингизнинг душманларингизни дўст тутманглар.",
+                            "verse 60:2": "Агар улар сиздан устун келсалар, сизга душман бўларлар ва сизларга қўлларию тилларини ёмонликла чўзар лар.",
+                            "verse 60:3": "Қариндошларингиз ва фарзандларингиз сизга ҳеч манфаат бера олмаслар.",
+                            "verse 60:4": "Ҳақиқатда, сизларга Иброҳим ва у билан бирга бўлганларда яхши ўрнак бор.",
+                            "verse 60:5": "Эй Роббимиз, бизни кофирларга фитна қилиб қўймагин ва бизни кечиргин.",
+                            "verse 60:6": "Албатта, кимнинг Аллоҳдан ва қиёмат кунидан умиди бўлса, шулар учун уларда яхши ўрнак бор эди.",
+                            "verse 60:7": "Шоядки, Аллоҳ сизлар билан улар ичидаги душманларингиз ўртасида дўстлик пайдо қилса, Аллоҳ қодирдир.",
+                            "verse 60:8": "Аллоҳ сизларни диний уруш қилмаган ва диёрларингиздан чиқармаганларга яхшилик ва адолатли муомала қилишдан сизларни қайтармас.",
+                            "verse 60:9": "Албатта Аллоҳ сизларни диний уруш қилганлар, диёрингиздан чиқарганлар ва чиқарилишингизга ёрдам берганларга дўстлик қилишдан қайтарур.",
+                            "verse 60:10": "Эй, иймон келтирганлар! Агар сизларга мўминалар ҳижрат қилиб келсалар, уларни имтиҳон қилиб кўринглар.",
+                            "verse 60:11": "Агар аёлларингиздан бирортаси кофирларга ўтиб кетса, урушда туширилган ўлжадан хотини кетиб қолганга, у нафақа қилган миқдорни берингиз.",
+                            "verse 60:12": "Эй Набий! Агар мўминалар сенга Аллоҳга ҳеч нарсани ширк келтирмаслик, ўғрилик қилмаслик, зино қилмаслик, болаларини ўлдирмаслик, қўллари ва оёқлари орасидан бўҳтон тўқиб келтирмаслик ва сенга яхшилик ишда исён қилмасликка байъат қилиб келсалар, уларнинг байъатини қабул қил.",
+                            "verse 60:13": "Эй иймон келтирганлар! Аллоҳнинг ғазабига учраган қавмни дўст тутманглар."
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,706 @@
+{
+    "surah_name": "Al-Jumu‘ah",
+    "surah_name_ar": "الجمعة",
+    "verses": {
+        "languages": {
+            "albanian": {
+                "translators": {
+                    "1": {
+                        "Efendi Nahi": {
+                            "verse 62:1": "Cka ka në qiej dhe çka ka në Tokë e falenderojnë Perëndinë, Sunduesin absolut, të pastër (prej të gjitha të metave), të Plotëfuqishëm dhe të Gjithëdijshëm.",
+                            "verse 62:2": "Perëndia është Ai, që ju ka dërguar të pa arsimuarve një Profet nga mesi i tyre, që ua ka lexuar ajetet e Kur’anit dhe i ka pastruar (nga gjendjet e gabuara), ua ka mësuar Librin (Kur’anin) dhe urtinë (dijeninë e thellë), meqë, ata më parë, në të vërtetë, kanë qenë në humbje të plotë,",
+                            "verse 62:3": "edhe të tjerëve nga ata, të cilët ende nuk u janë bashkuar – Ai (Perëndia), është i Plotëfuqishëm dhe i Gjithëdijshëm.",
+                            "verse 62:4": "Kjo është dhuntia e Perëndisë, të cilën Ai ia jep kujt të dojë, e dhuntia e Perëndisë është e madhe.",
+                            "verse 62:5": "Shembulli i atyr që janë obliguar me Teurat e pastaj nuk e kanë zbatuar, i shembëllen gomarit që i bartë librat (por pa dobi).",
+                            "verse 62:6": "Thuaj: “O Hebrenj (Cifutë), nëse ju pohoni se jeni të vetmit njerëz të dashur të Perëndisë, atëhrë dëshiroie vdekjen, nëse jeni të sinqertë”.",
+                            "verse 62:7": "Ata kurrë nuk e dëshirojnë vdekjen për shkak të veprave që kanë punuar; e Perëndia i njeh mirë zullumqarët.",
+                            "verse 62:8": "Thuaj: “Vdekjes së cilës po i ikni ju, ajo do t’ju arrijë.",
+                            "verse 62:9": "O besimtarë, kur të thirreni për lutje ditën e premte, nxitoni për ta përmendur Perëndinë (namazi i xhumasë) dhe pezulloni shitblerjen; kjo është më mirë për ju, nëse e dini!",
+                            "verse 62:10": "E kur të përfundojë namazi, atëherë shpërndahuni nëpër tokë dhe kërkoni nga begatitë e Perëndisë dhe përmendeni shumë Perëndinë, për të arritur shpëtimin.",
+                            "verse 62:11": "Mirëpo, kur ata shohin ndonjë tregti ose lojë, shkojnë tek ajo e të lënë ty të qëndrosh (vetëm)."
+                        }
+                    }
+                }
+            },
+            "azerbaijani": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "Göylərdə və yerdə nə varsa, (hamısı) mülkün (yer-göy mülkünün) hökmdarı (sahibi), müqəddəs (pak), yenilməz qüvvət, hikmət sahibi olan Allahı təqdis edib Onun şə'ninə tə'riflər deyər!",
+                            "verse 62:2": "(Əksəriyyəti yazıb-oxumaq bilməyən) ümmi ərəblərə özlərindən peyğəmbər göndərən Odur.",
+                            "verse 62:3": "(Allah-təala Muhəmməd əleyhissəlamı) ərəblərdən savayı hələ onlara qoşulmamış başqalarına da (islamı qəbul etməmiş indiki ümmətlərə və qiyamət gününə qədər dünyaya gələcək bütün sonrakı tayfalara da peyğəmbər göndərmişdir) [Və ya: o Peyğəmbər Kitabı və hikməti ərəblərdən əlavə hələ onlara qoşulmamış başqalarına da (başqa ümmətlərə də) öyrədər].",
+                            "verse 62:4": "Bu, Allahın istədiyinə əta etdiyi mərhəmətdir (kərəmdir).",
+                            "verse 62:5": "Tövrata əməl etməyə mükəlləf olduqdan sonra ona əməl etməyənlər (Tövrata yükləndikdən sonra onu daşımayanlar, Tövrata iman gətirdikdən, onu oxuyub öyrəndikdən sonra hökmlərini lazımınca yerinə yetirməyənlər) belində çoxlu kitab daşıyan (lakin onların içində nə yazıldığını bilməyən, onlardan faydalanmağı bacarmayan) ulağa bənzərlər.",
+                            "verse 62:6": "(Ya Peyğəmbər!) De: \"Ey yəhudilər! Əgər bütün insanlardan fərqli olaraq, özünüzün Allahın dostları olduğunuzu iddia edirsinizsə, (və bunu) doğru deyirsinizsə, onda (Allahdan) ölüm diləyin! (Cünki Allah dərgahındakı ne'mətlər, əbədi həyat övliyalara ancaq öləndən sonra qismət olar).",
+                            "verse 62:7": "Halbuki onlar (dünyada) öz əlləri ilə etdikləri əməllərə (qazandıqları günahlara) görə heç vaxt (ölümü) diləməzlər.",
+                            "verse 62:8": "(Ya Peyğəmbər!) De: \"(Qorxub) qaçdığınız ölüm sizi mütləq yaxalayacaqdır.",
+                            "verse 62:9": "Ey iman gətirənlər! Cümə günü namaza çağırıldığınız zaman Allahı zikr etməyə tələsin və alış-verişi buraxın.",
+                            "verse 62:10": "Namaz qılınıb qurtardıqdan sonra yer üzünə dağılın və Allahın lütfündən ruzi diləyib axtarın! (Yenə öz işinizə qayıdın!) Və Allahı çox zikr edin ki, nicat tapıb səadətə qovuşasınız! (Hər iki dünyada muradınıza yetişəsiniz!)",
+                            "verse 62:11": "Onlar (mö'minlər) bir alış-veriş, yaxud bir əyləncə gördükləri zaman səni ayaq üstə (minbərdə xütbə oxuduğun halda) qoyub ona tərəf cumdular."
+                        }
+                    }
+                }
+            },
+            "bosnian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "Ono što je na nebesima i ono što je na Zemlji hvali Allaha, Vladara, Svetoga, Silnoga, Mudroga!",
+                            "verse 62:2": "On je neukima poslao Poslanika, jednog između njih, da im ajete Njegove kazuje i da ih očisti i da ih Knjizi i mudrosti nauči, jer su prije bili u očitoj zabludi,",
+                            "verse 62:3": "i drugima koji im se još nisu priključili - On je Silni i Mudri.",
+                            "verse 62:4": "To je Allahova milost koju On daje onome kome hoće - a u Allaha je milost velika.",
+                            "verse 62:5": "Oni kojima je naređeno da prema Tevratu postupaju, pa ne postupaju, slični su magarcu koji knjige nosi.",
+                            "verse 62:6": "Reci: \"O Jevreji, ako tvrdite da ste vi od ljudi jedini Allahovi miljenici, onda smrt poželite, ako istinu govorite.",
+                            "verse 62:7": "A zbog onoga što ruke njihove čine neće je nikad poželjeti, Allah dobro zna nevjernike.",
+                            "verse 62:8": "Reci: \"Smrt od koje bježite zaista će vas stići.",
+                            "verse 62:9": "O vjernici, kada se u petak na molitvu pozove, kupoprodaju ostavite i pođite molitvu obaviti; to vam je bolje, neka znate!",
+                            "verse 62:10": "A kad se molitva obavi, onda se po zemlji raziđite i Allahovu blagodat tražite i Allaha mnogo spominjite, da biste postigli što želite.",
+                            "verse 62:11": "Ali kad oni kakvu robu trgovačku ili veselje ugledaju, pohrle mu i tebe ostave sama da stojiš."
+                        }
+                    }
+                }
+            },
+            "bengali": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "রাজ্যাধিপতি, পবিত্র, পরাক্রমশালী ও প্রজ্ঞাময় আল্লাহর পবিত্রতা ঘোষণা করে, যা কিছু আছে নভোমন্ডলে ও যা কিছু আছে ভূমন্ডলে।",
+                            "verse 62:2": "তিনিই নিরক্ষরদের মধ্য থেকে একজন রসূল প্রেরণ করেছেন, যিনি তাদের কাছে পাঠ করেন তার আয়াতসমূহ, তাদেরকে পবিত্র করেন এবং শিক্ষা দেন কিতাব ও হিকমত। ইতিপূর্বে তারা ছিল ঘোর পথভ্রষ্টতায় লিপ্ত।",
+                            "verse 62:3": "এই রসূল প্রেরিত হয়েছেন অন্য আরও লোকদের জন্যে, যারা এখনও তাদের সাথে মিলিত হয়নি। তিনি পরাক্রমশালী, প্রজ্ঞাময়।",
+                            "verse 62:4": "এটা আল্লাহর কৃপা, যাকে ইচ্ছা তিনি তা দান করেন। আল্লাহ মহাকৃপাশীল।",
+                            "verse 62:5": "যাদেরকে তওরাত দেয়া হয়েছিল, অতঃপর তারা তার অনুসরণ করেনি, তাদের দৃষ্টান্ত সেই গাধা, যে পুস্তক বহন করে, যারা আল্লাহর আয়াতসমূহকে মিথ্যা বলে, তাদের দৃষ্টান্ত কত নিকৃষ্ট। আল্লাহ জালেম সম্প্রদায়কে পথ প্রদর্শন করেন না।",
+                            "verse 62:6": "বলুন হে ইহুদীগণ, যদি তোমরা দাবী কর যে, তোমরাই আল্লাহর বন্ধু-অন্য কোন মানব নয়, তবে তোমরা মৃত্যু কামনা কর যদি তোমরা সত্যবাদী হও।",
+                            "verse 62:7": "তারা নিজেদের কৃতকর্মের কারণে কখনও মৃত্যু কামনা করবে না। আল্লাহ জালেমদের সম্পর্কে সম্যক অবগত আছেন।",
+                            "verse 62:8": "বলুন, তোমরা যে মৃত্যু থেকে পলায়নপর, সেই মৃত্যু অবশ্যই তোমাদের মুখামুখি হবে, অতঃপর তোমরা অদৃশ্য, দৃশ্যের জ্ঞানী আল্লাহর কাছে উপস্থিত হবে। তিনি তোমাদেরকে জানিয়ে দিবেন সেসব কর্ম, যা তোমরা করতে।",
+                            "verse 62:9": "মুমিনগণ, জুমআর দিনে যখন নামাযের আযান দেয়া হয়, তখন তোমরা আল্লাহর স্মরণের পানে ত্বরা কর এবং বেচাকেনা বন্ধ কর। এটা তোমাদের জন্যে উত্তম যদি তোমরা বুঝ।",
+                            "verse 62:10": "অতঃপর নামায সমাপ্ত হলে তোমরা পৃথিবীতে ছড়িয়ে পড় এবং আল্লাহর অনুগ্রহ তালাশ কর ও আল্লাহকে অধিক স্মরণ কর, যাতে তোমরা সফলকাম হও।",
+                            "verse 62:11": "তারা যখন কোন ব্যবসায়ের সুযোগ অথবা ক্রীড়াকৌতুক দেখে তখন আপনাকে দাঁড়ানো অবস্থায় রেখে তারা সেদিকে ছুটে যায়। বলুনঃ আল্লাহর কাছে যা আছে, তা ক্রীড়াকৌতুক ও ব্যবসায় অপেক্ষা উৎকৃষ্ট। আল্লাহ সর্বোত্তম রিযিকদাতা। হও।"
+                        }
+                    }
+                }
+            },
+            "bulgarian": {
+                "translators": {
+                    "1": {
+                        "Tzvetan Theophanov": {
+                            "verse 62:1": "Всичко на небесата и всичко на земята прославя Аллах - Владетеля, Пресветия, Всемогъщия, Премъдрия.",
+                            "verse 62:2": "Той е, Който проводи при неграмотните",
+                            "verse 62:3": "Пратеник измежду тях да им чете Неговите знамения и да ги пречисти, и да ги учи на Книгата и на мъдростта, а преди бяха в явна заблуда.",
+                            "verse 62:4": "И при други освен тях, които още не са ги последвали.",
+                            "verse 62:5": "Това е благодатта на Аллах.",
+                            "verse 62:6": "Онези, които бяха натоварени с Тората, а после не понесоха товара, приличат на магаре, носещо книги.",
+                            "verse 62:7": "Кажи: О, юдеи, щом твърдите, че вие сте ближните на Аллах без другите хора, възжелайте смъртта, ако говорите истината!",
+                            "verse 62:8": "Ала не ще я възжелаят никога заради онова, което със своите ръце са сторили отпреди.",
+                            "verse 62:9": "Кажи: Смъртта, от която бягате, непременно ще ви срещне.",
+                            "verse 62:10": "О, вярващи, щом се призове за молитвата в петъчния ден, устремете се към споменаването на Аллах и оставете търговията! Това е най-доброто за вас, ако знаете.",
+                            "verse 62:11": "И щом молитвата завърши, разпръснете се по земята и търсете благодат от Аллах, и често споменавайте Аллах, за да сполучите!",
+                            "verse 62:12": "И щом видяха търговия или забавление, разотидоха се натам и те оставиха да стоиш."
+                        }
+                    }
+                }
+            },
+            "chinese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "凡在天地間的，都讚頌真主——至潔的、萬能的、至睿的君主，超絕萬物的君主。",
+                            "verse 62:2": "他在文盲中派遣一個同族的使者，去對他們宣讀他的跡象，並培養他們，教授他們天經和智慧，盡管以前他們確是在明顯的迷誤中；",
+                            "verse 62:3": "並教化還沒有趕上他們的其他人。真主是萬能的，是至睿的。",
+                            "verse 62:4": "這是真主的恩典，他把它賞賜他所欲賞賜的人們，真主是有宏恩的。",
+                            "verse 62:5": "奉命遵守《討拉特》而不遵守者，譬如馱經的驢子。否認真主的跡象的民眾的譬喻，真惡劣！真主是不引導不義的民眾的。",
+                            "verse 62:6": "你說：「信奉猶太教的人們啊！如果你們自稱是真主的選民，而排斥眾人，那你們就希望早死吧，如果你們是誠實者。」",
+                            "verse 62:7": "他們因為曾經犯過罪，所以永遠不希望早死。真主是全知不義者的。",
+                            "verse 62:8": "你說：「你們所逃避的死亡，必定與你們會面，然後你們將被送到全知幽明的主那裡，他將把你們的行為告訴你們。」",
+                            "verse 62:9": "信道的人們啊！當聚禮日召人禮拜的時候，你們應當趕快去記念真主，放下買賣，那對於你們是更好的，如果你們知道。",
+                            "verse 62:10": "當禮拜完畢的時候，你們當散佈在地方上，尋求真主的恩惠，你們應當多多地記念真主，以便你們成功。",
+                            "verse 62:11": "當他們看見生意或遊戲的時候，他們離散了，他們讓你獨自站著。你說：「在真主那裡的，比遊戲和生意還好，真主是最善的供給者。」 當禮拜完畢的時候，你們當散佈在地方上，尋求真主的恩惠，你們應當多多地記念真主，以便你們成功。"
+                        }
+                    }
+                }
+            },
+            "czech": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "Oslavuje Boha vše, co na nebesích je i na zemi: vládce přesvatého, mocného i moudrého!",
+                            "verse 62:2": "On je ten, jenž poslal mezi národy nevědomé posla z řad jejich, aby jim přednášel znamení Jeho, očistil je a Písmu a moudrosti je naučil, zatímco dříve žily v bludu zjevném.",
+                            "verse 62:3": "A jsou jiní mezi nimi, kdož dosud s nimi se nesjednotili.",
+                            "verse 62:4": "Toto je dobrodiní Boží a On dává je tomu, komu chce; a Bůh je pln dobrodiní nesmírného!",
+                            "verse 62:5": "Ti, kterým bylo dáno nésti Tóru, a oni ji potom nenesli, jsou podobni oslu, jenž naložen je knihami.",
+                            "verse 62:6": "Rci: \"Vy, kteří vyznáváte židovství! Domníváte-li se, že jste Bohu bližší než ostatní lidé, pak si přejte smrt, jste-li pravdomluvní!\"",
+                            "verse 62:7": "Ale oni si ji nikdy nebudou přát kvůli tomu, co provedly již předtím ruce jejich.",
+                            "verse 62:8": "Rci: \"Smrt, před níž prcháte, se s vámi věru setká! Potom budete navráceni k Tomu, jenž zná nepoznatelné i všeobecně známé, a On vás již poučí o všem, co jste dělali!\"",
+                            "verse 62:9": "Vy, kteří věříte! Když voláno je k modlitbě v den páteční, pospíchejte vzpomínat Boha a zanechte obchodování! To bude pro vás lepší, jste-li vědoucí.",
+                            "verse 62:10": "A když bude modlitba skončena, rozejděte se po zemi a usilujte o část přízně Boží! A vzpomínejte často Boha, snad budete blažení!",
+                            "verse 62:11": "Však když spatří zboží nebo zábavu, pospíchají k nim a nechávají tě stát."
+                        }
+                    }
+                }
+            },
+            "dutch": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "Alles wat zich in de hemelen en op aarde bevindt verheerlijkt God, de Koning, de Heilige, de Almachtige, de Alwijze.",
+                            "verse 62:2": "Hij is het Die onder de ongeletterden een boodschapper heeft verwekt die Zijn tekenen onder hen verkondigt en hen zuivert en hun het Boek en de wijsheid onderwijst, ofschoon zij voorheen in openbare dwaling verkeerden.",
+                            "verse 62:3": "En ook anderen die dezen (gelovigen) nog niet hebben ontmoet.",
+                            "verse 62:4": "Dat is God’s genade, Hij schenkt haar aan wie Hij wil; en God is de Heer van grote genade.",
+                            "verse 62:5": "Degenen die belast zijn met de Torah en deze niet naleven, zijn als een ezel die boeken draagt.",
+                            "verse 62:6": "Zeg: \"O gij Joden als gij denkt dat gij met uitsluiting van andere mensen de vrienden van God zijt, wenst dan de dood als gij de waarheid spreekt.",
+                            "verse 62:7": "Maar zij zullen deze nooit wensen vanwege hetgeen hun handen hebben uitgevoerd.",
+                            "verse 62:8": "Zeg: \"De dood waarvoor gij vlucht zal u zeker treffen.",
+                            "verse 62:9": "O, gij die gelooft! Wanneer op Vrijdag de oproep tot het gebed is uitgezonden, haast u dan God gedachtig te zijn en verlaat de handel.",
+                            "verse 62:10": "En als het gebed geëindigd is, verspreidt u dan over het land en zoekt naar God’s genade, en gedenkt God vaak, opdat gij moogt slagen.",
+                            "verse 62:11": "Maar indien zji koopwaar of enig vermaak zien, gaan zij er haastig heen en laten u staan."
+                        }
+                    }
+                }
+            },
+            "english": {
+                "translators": {
+                    "1": {
+                        "Marmaduke Pickthall": {
+                            "verse 62:1": "All that is in the heavens and all that is in the earth glorifieth Allah, the Sovereign Lord, the Holy One, the Mighty, the Wise.",
+                            "verse 62:2": "He it is Who hath sent among the unlettered ones a messenger of their own, to recite unto them His revelations and to make them grow, and to teach them the Scripture and wisdom, though heretofore they were indeed in error manifest,",
+                            "verse 62:3": "Along with others of them who have not yet joined them.",
+                            "verse 62:4": "That is the bounty of Allah; which He giveth unto whom He will.",
+                            "verse 62:5": "The likeness of those who are entrusted with the Law of Moses, yet apply it not, is as the likeness of the ass carrying books.",
+                            "verse 62:6": "Say (O Muhammad): O ye who are Jews! If ye claim that ye are favoured of Allah apart from (all) mankind, then long for death if ye are truthful.",
+                            "verse 62:7": "But they will never long for it because of all that their own hands have sent before, and Allah is Aware of evil-doers.",
+                            "verse 62:8": "Say (unto them, O Muhammad): Lo! the death from which ye shrink will surely meet you, and afterward ye will be returned unto the Knower of the Invisible and the Visible, and He will tell you what ye used to do.",
+                            "verse 62:9": "O ye who believe! When the call is heard for the prayer of the day of congregation, haste unto remembrance of Allah and leave your trading.",
+                            "verse 62:10": "And when the prayer is ended, then disperse in the land and seek of Allah’s bounty, and remember Allah much, that ye may be successful.",
+                            "verse 62:11": "But when they spy some merchandise or pastime they break away to it and leave thee standing."
+                        }
+                    },
+                    "2": {
+                        "Abdullah Yusuf Ali": {
+                            "verse 62:1": "Whatever is in the heavens and on earth, doth declare the Praises and Glory of God,- the Sovereign, the Holy One, the Exalted in Might, the Wise.",
+                            "verse 62:2": "It is He Who has sent amongst the Unlettered an apostle from among themselves, to rehearse to them His Signs, to sanctify them, and to instruct them in Scripture and Wisdom,- although they had been, before, in manifest error;-",
+                            "verse 62:3": "As well as (to confer all these benefits upon) others of them, who have not already joined them: And He is exalted in Might, Wise.",
+                            "verse 62:4": "Such is the Bounty of God, which He bestows on whom He will: and God is the Lord of the highest bounty.",
+                            "verse 62:5": "The similitude of those who were charged with the (obligations of the) Mosaic Law, but who subsequently failed in those (obligations), is that of a donkey which carries huge tomes (but understands them not).",
+                            "verse 62:6": "Say: \"O ye that stand on Judaism! If ye think that ye are friends to God, to the exclusion of (other) men, then express your desire for Death, if ye are truthful!\"",
+                            "verse 62:7": "But never will they express their desire (for Death), because of the (deeds) their hands have sent on before them! and God knows well those that do wrong!",
+                            "verse 62:8": "Say: \"The Death from which ye flee will truly overtake you: then will ye be sent back to the Knower of things secret and open: and He will tell you (the truth of) the things that ye did!\"",
+                            "verse 62:9": "O ye who believe! When the call is proclaimed to prayer on Friday (the Day of Assembly), hasten earnestly to the Remembrance of God, and leave off business (and traffic): That is best for you if ye but knew!",
+                            "verse 62:10": "And when the Prayer is finished, then may ye disperse through the land, and seek of the Bounty of God: and celebrate the Praises of God often (and without stint): that ye may prosper.",
+                            "verse 62:11": "But when they see some bargain or some amusement, they disperse headlong to it, and leave thee standing."
+                        }
+                    },
+                    "3": {
+                        "Arthur J. Arberry": {
+                            "verse 62:1": "All that is in the heavens and the earth magnifies God, the King, the All-holy, the All-mighty, the All-wise.",
+                            "verse 62:2": "It is He who has raised up from among the common people a Messenger from among them, to recite His signs to them and to purify them, and to teach them the Book and the Wisdom, though before that they were in manifest error,",
+                            "verse 62:3": "and others of them who have not yet joined them.",
+                            "verse 62:4": "That is the bounty of God; He gives it to whom He will, and God is of bounty abounding.",
+                            "verse 62:5": "The likeness of those who have been loaded with the Torah then they have not carried it, is as the likeness of an ass carrying books.",
+                            "verse 62:6": "Say: ’You of Jewry, if you assert that you are the friends of God, apart from other men, then do you long for death, if you speak truly.",
+                            "verse 62:7": "But they will never long for it, because of that their hands have forwarded; God knows the evildoers.",
+                            "verse 62:8": "Say: ’Surely death, from which you flee, shall encounter you; then you shall be returned to the Knower of the Unseen and the Visible, and He will tell you that you have been doing.",
+                            "verse 62:9": "O believers, when proclamation is made for prayer on the Day of Congregation, hasten to God’s remembrance and leave trafficking aside; that is better for you, did you but know.",
+                            "verse 62:10": "Then, when the prayer is finished, scatter in the land and seek God’s bounty, and remember God frequently; haply you will prosper.",
+                            "verse 62:11": "But when they see merchandise or diversion they scatter off to it, and they leave thee standing."
+                        }
+                    },
+                    "4": {
+                        "Muhammad Asad": {
+                            "verse 62:1": "ALL THAT IS in the heavens and all that is on earth extols the limitless glory of God, the Sovereign Supreme, the Holy, the Almighty, the Wise!",
+                            "verse 62:2": "He it is who has sent unto the unlettered people an apostle from among themselves, to convey unto them His messages, and to cause them to grow in purity, and to impart unto them the divine writ as well as wisdom – whereas before that they were indeed, most obviously, lost in error –",
+                            "verse 62:3": "and [to cause this message to spread] from them unto other people as soon as they come into contact with them: for He alone is almighty, truly wise!",
+                            "verse 62:4": "Such is God’s bounty: He grants it to anyone who is willing [to receive it]: for God is limitless in His great bounty.",
+                            "verse 62:5": "THE PARABLE of those who were graced with the burden of the Torah, and thereafter failed to bear this burden, is that of an ass that carries a load of books [but cannot benefit from them].",
+                            "verse 62:6": "Say: \"O you who follow the Jewish faith! If you claim that you",
+                            "verse 62:7": "are close to God, to the exclusion of all other people, then you should be longing for death – if what you say is true!\"",
+                            "verse 62:8": "But never will they long for it, because [they are aware] of what their hands have wrought in this world; and God has full knowledge of evildoers.",
+                            "verse 62:9": "Say: \"Behold, the death from which you are fleeing is bound to overtake you – and then you will be brought back unto Him who knows all that is beyond the reach of a created being’s perception as well as all that can be witnessed by a creature’s senses or mind, whereupon He will make you truly understand all that you were doing [in life].",
+                            "verse 62:10": "O YOU who have attained to faith! When the call to prayer is sounded on the day of congregation, hasten to the remembrance of God, and leave all worldly commerce: this is for your own good, if you but knew it.",
+                            "verse 62:11": "And when the prayer is ended, disperse freely on earth and seek to obtain",
+                            "verse 62:12": "of God’s bounty; but remember God often, so that you might attain to a happy state!",
+                            "verse 62:13": "Yet [it does happen that] when people become aware of [an occasion for] worldly gain or a passing delight, they rush headlong towards it, and leave thee standing [and preaching]."
+                        }
+                    },
+                    "5": {
+                        "Martin Lings": {}
+                    },
+                    "6": {
+                        "Mufti Muhammad Taqi Uthmani": {
+                            "verse 62:1": "All that is in the heavens and all that is in the earth proclaim the purity of Allah, the Sovereign, the Supreme in Holiness, the All-Mighty, the All-Wise.",
+                            "verse 62:2": "He is the One who raised amidst the unlettered people a messenger from among themselves who recites to them His verses, and purifies them, and teaches them the Book and the wisdom, while they were earlier in open error.",
+                            "verse 62:3": "And (this Messenger is sent also) to others from them who did not join them so far, and He is the All-Mighty, the All-Wise.",
+                            "verse 62:4": "It is Allah’s bounty that He gives to whomsoever He wills, and Allah is the Lord of the great bounty.",
+                            "verse 62:5": "The example of those who were ordered to bear (the responsibility of acting upon) the Torah, then they did not bear it, is like a donkey that carries a load of books.",
+                            "verse 62:6": "Say, “O you who are Jews, if you claim that you are the friends of Allah to the exclusion of all other people, then express your desire for death, if you are true.",
+                            "verse 62:7": "And they will never express this desire, because of what their hands have sent ahead.",
+                            "verse 62:8": "Say, “Indeed, the death from which you (try to) run away has to visit you, then you will be sent back to the Knower of the Unseen and the seen, and He will tell you what you used to do.",
+                            "verse 62:9": "O you who believe, when the call for Salāh (prayer) is proclaimed on Friday, hasten for the remembrance of Allah, and leave off business.",
+                            "verse 62:10": "Then once the Salāh is over, disperse in the land, and seek the grace of Allah, and remember Allah abundantly, so that you may be successful.",
+                            "verse 62:11": "And when they see some merchandise or amusement, they break away to it, and leave you (O prophet,) standing."
+                        }
+                    },
+                    "7": {
+                        "Royal Aal al-Bayt Institute Translation": {
+                            "verse 62:1": "All that is the heavens and all that is in the earth glorifies God, the King, the Holy, the Mighty, the Wise.",
+                            "verse 62:2": "It is He Who sent to the unlettered",
+                            "verse 62:3": "a messenger from among them to recite to them His signs, and to purify them, and to teach them the Book and wisdom, though indeed before that they had been in manifest error.",
+                            "verse 62:4": "And",
+                            "verse 62:5": "others from among them, who have not yet joined them; and He is the Mighty, the Wise.",
+                            "verse 62:6": "That is the bounty of God, which He gives to whom He will and God is",
+                            "verse 62:7": "of tremendous bounty.",
+                            "verse 62:8": "The likeness of those who were entrusted with the Torah then failed to uphold it is as the likeness of an ass carrying books.",
+                            "verse 62:9": "Say: ‘O you of Jewry, if you claim that you are the",
+                            "verse 62:10": "friends of God, to the exclusion of other people, then long for death, if you are truthful’.",
+                            "verse 62:11": "But they will never long for it, because of what their hands have sent ahead; and God is Knower of the evildoers.",
+                            "verse 62:12": "Say: ‘Assuredly the death from which you flee will indeed encounter you; then you will be returned to the Knower of the Unseen and the visible, and He will inform you of what you used to do’.",
+                            "verse 62:13": "O you who believe, when the call for prayer is made on Friday, hasten to the remembrance of God, and leave aside",
+                            "verse 62:14": "commerce.",
+                            "verse 62:15": "And when the prayer is finished, disperse in the land and seek God’s bounty, and remember God frequently, that perhaps you may be successful.",
+                            "verse 62:16": "But when they sight some [opportunity for] business or a diversion, they scatter off towards it, and leave you standing."
+                        }
+                    },
+                    "8": {
+                        "Recitations of Ibrahim walk from saheeh international": {
+                            "verse 62:1": "(Everything) in the heavens and in the earth glorifies Allah, (the Real) King, the Most Pure (of all shortcomings and imperfections), the Lord of Honour, the Almighty, the Most Wise.",
+                            "verse 62:2": "He is the One Who sent a (Glorious) Messenger (blessings and peace be upon him) amongst the illiterate people from amongst themselves who recites to them His Revelations and cleanses and purifies them (outwardly and inwardly) and teaches them the Book and wisdom.",
+                            "verse 62:3": "And (He has sent this Messenger for purification and education amongst) others of them also who have not yet joined these people (that are present now i.",
+                            "verse 62:4": "This (arrival of the Holy Messenger [blessings and peace be upon him] as well as his spiritual benevolence) is Allah’s bounty which He grants whom He likes.",
+                            "verse 62:5": "The case of those who were burdened with (the commandments and teachings of) the Torah (but) then did not bear it (i.",
+                            "verse 62:6": "Say: ‘O Jews, if you think that, leaving all other people, you alone are the friends of Allah (i.",
+                            "verse 62:7": "And these people will never long for it due to (the rejection of the Messenger and disbelief) which they have sent forward.",
+                            "verse 62:8": "Say: ‘The death from which you are fleeing is bound to catch up with you.",
+                            "verse 62:9": "O believers! When on Fridays the call is made for (Jumu‘a) Prayer, hasten towards the remembrance of Allah (i.",
+                            "verse 62:10": "Then after the Prayer is offered, disperse in the land and (then) look for Allah’s bounty (i.",
+                            "verse 62:11": "And when they found some business or entertainment opportunity, they rushed towards that (due to their neediness and financial constraint) and left you standing (during the sermon)."
+                        }
+                    }
+                }
+            },
+            "finnish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "Kaikki, mitä on taivaassa ja maassa, julistaa Jumalan, kuninkaan, pyhimmän, kaikkivoivan, viisaan kunniaa.",
+                            "verse 62:2": "Hän on oppimattoman kansan keskuudesta lähettänyt sananjulistajan, joka esittää heille Hänen tunnusmerkkinsä, puhdistaa heidät ja opettaa heille Pyhää kirjaa ja viisautta, vaikka he tätä ennen elivät ilmeisessä harhassa,",
+                            "verse 62:3": "ja lähettää sen toisillekin heistä, jotka eivät vielä ole heihin liittyneet; Jumala on kaikkivoipa, viisas.",
+                            "verse 62:4": "Tämä on Jumalan armo.",
+                            "verse 62:5": "Niiden, joiden vastuulle oli annettu Toora ja jotka eivät sitä noudattaneet, käy kuin aasin, joka kantoi kirjakuormaa.",
+                            "verse 62:6": "Sano: »Juutalaiset, jos vakuutatte olevanne Jumalan suosimia ennen muita ihmisiä, niin toivokaa silloin itsellenne kuolemaa, jos totuus on teille kallis.",
+                            "verse 62:7": "Mutta he eivät milloinkaan toivo sitä kättensä tekojen tähden, jotka heitä tilille odottavat; Jumala tuntee hyvin väärintekijät.",
+                            "verse 62:8": "Sano: »Kuolema, jota pakenette, on totisesti kohtaava teidät, ja silloin teidät palautetaan Hänen luokseen, joka tuntee näkymättömän ja näkyvän, ja Hän on paljastava teille, mitä olette tehneet.",
+                            "verse 62:9": "Uskovaiset, kun kuuluu kutsu rukoukseen perjantaina, niin kiiruhtakaa palvelemaan Jumalaa ja jättäkää kauppatoimet.",
+                            "verse 62:10": "Mutta kun hartaus on päättynyt, hajaantukaa kukin suunnallenne ja etsikää Jumalan armoa pitäen Hänet lujasti mielessänne, jotta menestyisitte.",
+                            "verse 62:11": "Mutta kun he näkevät jossakin kauppaa tehtävän tai huviteltavan, he rientävät sinne ja jättävät sinut yksin seisomaan."
+                        }
+                    }
+                }
+            },
+            "french": {
+                "translators": {
+                    "1": {
+                        "Jean-Louis Michon": {
+                            "verse 62:1": "Ce qui est dans les cieux et ce qui est sur la terre glorifie Dieu, le Roi, le Saint, le Tout- Puissant, le Sage.",
+                            "verse 62:2": "C'est Lui qui a dépêché parmi les illettrés un envoyé pris parmi eux qui leur récite Ses versets, les purifie et leur enseigne le Livre et la Sagesse, alors qu'ils étaient auparavant dans un égarement manifeste,",
+                            "verse 62:3": "à l'instar d'autres hommes de même nature qui ne les ont pas encore rejoints.",
+                            "verse 62:4": "Telle est la grâce de Dieu ! Il la donne à qui Il veut.",
+                            "verse 62:5": "Ceux qui étaient chargés de la Tora et qui, ensuite, s'en sont déchargés sont comme l'âne chargé de livres.",
+                            "verse 62:6": "Dis : \" O vous qui pratiquez le Judaïsme ! Si vous prétendez être, parmi les hommes, les seuls amis de Dieu, souhaitez donc la mort, si vous êtes véridiques ! \"",
+                            "verse 62:7": "Mais ils ne la souhaitent jamais à cause des œuvres qu'ils ont accomplies.",
+                            "verse 62:8": "Dis : \" La mort que vous fuyez, elle vous rejoindra certainement ! Vous serez ensuite ramenés à Celui qui connaît parfaitement ce qui est caché et ce qui est apparent.",
+                            "verse 62:9": "O vous, qui croyez ! Quand on vous appelle à la prière du vendredi, accourez à l'invocation de Dieu ! Interrompez tout négoce : c'est un plus grand bien pour vous, si vous pouviez savoir !",
+                            "verse 62:10": "Lorsque la prière est achevée, dispersez-vous sur la terre et cherchez à obtenir des bienfaits de Dieu ; invoquez beaucoup [le Nom de Dieu].",
+                            "verse 62:11": "Mais quand ils entrevoient [la possibilité d'] un négoce ou",
+                            "verse 62:12": "un divertissement, ils s'y précipitent et te laissent planté là ! Dis : \" Ce qui se trouve auprès de Dieu est meilleur que le divertissement et que le négoce ! \" Et Dieu est le Meilleur des dispensateurs !"
+                        }
+                    },
+                    "2": {
+                        "Muhammad Hamidullah ": {
+                            "verse 62:1": "Ce qui est dans les cieux et ce qui sur la terre glorifient Dieu, le Souverain, le Pur, le Puissant, le Sage.",
+                            "verse 62:2": "C’est Lui qui a envoyé à des gens sans Livre (les Arabes) un Messager des leurs qui leur récite Ses versets, les purifie et leur enseigne le Livre et la Sagesse, bien qu’ils étaient auparavant dans un égarement évident,",
+                            "verse 62:3": "ainsi qu’à d’autres parmi ceux qui ne les ont pas encore rejoints.",
+                            "verse 62:4": "Telle est la grâce de Dieu qu’Il donne à qui Il veut.",
+                            "verse 62:5": "Ceux qui ont été chargés de la Thora mais qui ne l’ont pas appliquée sont pareils à l’âne qui porte des livres.",
+                            "verse 62:6": "Dis : «ô vous qui pratiquez le judaïsme ! Si vous prétendez être les bien aimés de Dieu à l’exclusion des autres, souhaitez donc la mort, si vous êtes véridiques».",
+                            "verse 62:7": "Or, ils ne la souhaiteront jamais, à cause de ce que leurs mains ont préparé.",
+                            "verse 62:8": "Dis : «La mort que vous fuyez va certes vous rencontrer.",
+                            "verse 62:9": "ô vous qui avez cru ! Quand on appelle à la Salat du jour du Vendredi, accourez à l’invocation de Dieu et laissez tout négoce .",
+                            "verse 62:10": "Puis quand la Salat est achevée, dispersez-vous sur la terre, et recherchez [quelque effet] de la grâce de Dieu, et invoquez beaucoup Dieu afin que vous réussissiez.",
+                            "verse 62:11": "Quand ils entrevoient quelque commerce ou quelque divertissement, ils s’y dispersent et te laissent debout."
+                        }
+                    }
+                }
+            },
+            "german": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "Was in den Himmeln ist und was auf Erden, preist Allah, den Herrscher, den Heiligen, den Allmächtigen, den Allweisen.",
+                            "verse 62:2": "Er ist es, Der unter den Analphabeten einen Gesandten erweckt hat aus ihrer Mitte, ihnen Seine Zeichen vorzutragen und sie zu reinigen und sie die Schrift und die Weisheit zu lehren, wiewohl sie zuvor in offenkundigem Irrtum gewesen waren,",
+                            "verse 62:3": "Und unter den anderen von ihnen, die sich ihnen noch nicht zugesellt haben.",
+                            "verse 62:4": "Das ist Allahs Huld; Er gewährt sie, wem Er will; und Allah ist der Herr großer Huld.",
+                            "verse 62:5": "Das Gleichnis derer, denen die Thora auferlegt wurde, und die ihr dann nicht nachlebten, ist wie das Gleichnis eines Esels, der Bücher trägt.",
+                            "verse 62:6": "Sprich: «O die ihr Juden seid, wenn ihr meint, ihr wäret die Freunde Allahs unter Ausschluß der andern Menschen, dann wünschet euch den Tod, wenn ihr wahrhaftig seid.",
+                            "verse 62:7": "Doch sie werden sich ihn niemals wünschen, um dessentwillen, was ihre Hände ihnen vorausgeschickt haben.",
+                            "verse 62:8": "Sprich: «Der Tod, vor dem ihr flieht, wird euch sicherlich ereilen.",
+                            "verse 62:9": "O die ihr glaubt, wenn der Ruf zum Gebet am Freitag erschallt, dann eilet zum Gedenken Allahs und lasset den Handel ruhn.",
+                            "verse 62:10": "Und wenn das Gebet beendet ist, dann zerstreut euch im Land und trachtet nach Allahs Gnadenfülle und gedenket Allahs häufig, auf daß ihr Erfolg habt.",
+                            "verse 62:11": "Doch wenn sie eine Ware sehen oder ein Spiel, dann brechen sie sogleich dazu auf und lassen dich stehen."
+                        }
+                    }
+                }
+            },
+            "hindi": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "tks pht+ vklekuksa esa gS vkSj tks pht+ t+ehu esa gS ¼lc½ [+kqnk dh rLchg djrh gSa tks ¼gd+hd+h½ ckn’kkg ikd t+kr x+kfyc fgder okyk gS",
+                            "verse 62:2": "ogh rks ftlus tkfgyksa esa mUgha esa dk ,d jlwy ¼eksgEen½ Hkstk tks muds lkeus mldh vk;rsa i<+rs vkSj mudks ikd djrs vkSj mudks fdrkc vkSj vD+y dh ckrsa fl[kkrs gSa vxjps blds igys rks ;s yksx ljhgh xqejkgh esa ¼iM+s gq,½ Fks",
+                            "verse 62:3": "vkSj muesa ls mu yksxksa dh rjQ+ ¼Hkstk½ tks vHkh rd muls eqyfgd+ ugha gq, vkSj og rks x+kfyc fgder okyk gS",
+                            "verse 62:4": "[+kqnk dk Qt+y gS ftldks pkgrk gS vrk Qjekrk gS vkSj [+kqnk rks cM+s Qt+y ¼o dje½ dk ekfyd gS",
+                            "verse 62:5": "ftu yksxksa ¼ds ljksa½ ij rkSjsr ynok;h x;h gS mUgksus ml ¼ds ckj½ dks u mBk;k mudh felky x/ks dh lh gS ftl ij cM+h cM+h fdrkcsa ynh gksa ftu yksxksa us [+kqnk dh vk;rksa dks >qByk;k mudh Hkh D;k cqjh felky gS vkSj [+kqnk t+kfye yksxksa dks eaft+y edlwn rd ugha igq¡pk;k djrk",
+                            "verse 62:6": "¼,s jlwy½ rqe dg nks fd ,s ;gwfn;ksa vxj rqe ;s [+;ky djrs gks fd rqe gh [+kqnk ds nksLr gks vkSj yksx ugha rks vxj rqe ¼vius nkos esa½ lPps gks rks ekSr dh reUuk djks",
+                            "verse 62:7": "vkSj ;s yksx mu vkeky ds lcc tks ;s igys dj pqds gSa dHkh mldh vkjt+w u djsaxs vkSj [+kqnk rks t+kfyeksa dks tkurk gS",
+                            "verse 62:8": "¼,s jlwy½ rqe dg nks fd ekSr ftlls rqe yksx Hkkxrs gks og rks t+:j rqEgkjs lkeus vk,xh fQj rqe iks’khnk vkSj t+kfgj ds tkuus okys ¼[+kqnk½ dh rjQ ykSVk fn, tkvksxs fQj tks dqN Hkh rqe djrs Fks og rqEgsa crk nsxk",
+                            "verse 62:9": ",s bZekunkjksa tc tqek dk fnu uekt+ ¼tqek½ ds fy, vt+ku nh tk, rks [+kqnk dh ;kn ¼uekt+½ dh rjQ nkSM+ iM+ks vkSj ¼[k+jhn½ o Qjks[+r NksM+ nks vxj rqe le>rs gks rks ;gh rqEgkjs gd+ esa csgrj gS",
+                            "verse 62:10": "fQj tc uekt+ gks pqds rks t+ehu esa ¼tgk¡ pkgks½ tkvks vkSj [+kqnk ds Qt+y ¼viuh jkst+h½ dh ryk’k djks vkSj [+kqnk dks cgqr ;kn djrs jgks rkfd rqe fnyh eqjknsa ikvks",
+                            "verse 62:11": "vkSj ¼mudh gkyr rks ;s gS fd½ tc ;s yksx lkSnk fcdrk ;k rek’kk gksrk ns[ksa rks mldh rjQ VwV iM+s vkSj rqedks [kM+k gqvk NksM+ nsa ¼,s jlwy½ rqe dg nks fd tks pht+ [+kqnk ds ;gk¡ gS og rek’ks vkSj lkSns ls dgha csgrj gS vkSj [+kqnk lcls csgrj fjT+d+ nsus okyk gS lwj, tqeqvk [+kRe"
+                        }
+                    }
+                }
+            },
+            "indonesian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "Senantiasa bertasbih kepada Allah apa yang ada di langit dan apa yang ada di bumi.",
+                            "verse 62:2": "Dia-lah yang mengutus kepada kaum yang buta huruf seorang Rasul di antara mereka, yang membacakan ayat-ayat-Nya kepada mereka, mensucikan mereka dan mengajarkan kepada mereka Kitab dan Hikmah (As Sunnah).",
+                            "verse 62:3": "dan (juga) kepada kaum yang lain dari mereka yang belum berhubungan dengan mereka.",
+                            "verse 62:4": "Demikianlah karunia Allah, diberikan-Nya kepada siapa yang dikehendaki-Nya; dan Allah mempunyai karunia yang besar.",
+                            "verse 62:5": "Perumpamaan orang-orang yang dipikulkan kepadanya Taurat kemudian mereka tiada memikulnya adalah seperti keledai yang membawa kitab-kitab yang tebal.",
+                            "verse 62:6": "Katakanlah: \"Hai orang-orang yang menganut agama Yahudi, jika kamu mendakwakan bahwa sesungguhnya kamu sajalah kekasih Allah bukan manusia-manusia yang lain, maka harapkanlah kematianmu, jika kamu adalah orang-orang yang benar\".",
+                            "verse 62:7": "Mereka tiada akan mengharapkan kematian itu selama-lamanya disebabkan kejahatan yang telah mereka perbuat dengan tangan mereka sendiri.",
+                            "verse 62:8": "Katakanlah: \"Sesungguhnya kematian yang kamu lari daripadanya, maka sesungguhnya kematian itu akan menemui kamu, kemudian kamu akan dikembalikan kepada (Allah), yang mengetahui yang ghaib dan yang nyata, lalu Dia beritakan kepadamu apa yang telah kamu kerjakan\".",
+                            "verse 62:9": "Hai orang-orang yang beriman, apabila diseru untuk menunaikan sembahyang pada hari Jum’at, maka bersegeralah kamu kepada mengingat Allah dan tinggalkanlah jual-beli.",
+                            "verse 62:10": "Apabila telah ditunaikan sembahyang, maka bertebaranlah kamu di muka bumi; dan carilah karunia Allah dan ingatlah Allah banyak-banyak supaya kamu beruntung.",
+                            "verse 62:11": "Dan apabila mereka melihat perniagaan atau permainan, mereka bubar untuk menuju kepadanya dan mereka tinggalkan kamu sedang berdiri (berkhutbah)."
+                        }
+                    }
+                }
+            },
+            "italian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "Glorifica Allah ciò che è nei cieli e sulla terra, il Re, il Santo, l'Eccelso, il Saggio.",
+                            "verse 62:2": "Egli è Colui che ha inviato tra gli illetterati un Messaggero della loro gente, che recita i Suoi versetti, li purifica e insegna loro il Libro e la Saggezza, anche se in precedenza erano in errore evidente,",
+                            "verse 62:3": "e ad altri che ancora non li hanno raggiunti [nella fede].",
+                            "verse 62:4": "Questa è la Grazia di Allah, Egli la concede a chi vuole.",
+                            "verse 62:5": "Coloro cui fu affidata la Torâh e che non la osservarono, assomigliano all'asino che porta i libri.",
+                            "verse 62:6": "Di': « O voi che praticate il giudaismo, se pretendete di essere gli alleati di Allah, ad esclusione degli altri uomini , auguratevi la morte, se siete veritieri».",
+                            "verse 62:7": "Giammai se lo augureranno, a causa di quel che hanno commesso le loro mani.",
+                            "verse 62:8": "Di' [loro, o Muhammad]: « Invero, la morte che fuggite vi verrà incontro, quindi sarete ricondotti a Colui che conosce l'invisibile e il palese, e vi informerà a proposito di quel che avrete fatto.",
+                            "verse 62:9": "O credenti, quando viene fatto l'annuncio per l'orazione del Venerdì , accorrete al ricordo di Allah e lasciate ogni traffico.",
+                            "verse 62:10": "Quando poi l'orazione è conclusa, spargetevi sulla terra in cerca della grazia di Allah , e molto ricordate Allah, affinché possiate avere successo.",
+                            "verse 62:11": "Quando vedono un commercio o un divertimento, si precipitano e ti lasciano ritto ."
+                        }
+                    }
+                }
+            },
+            "japanese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "天にあり地にある凡てのものは，アッラーを讃える。（かれは）至高の王者，神聖にして偉力ならびなく英明であられる。",
+                            "verse 62:2": "かれこそは文盲の者の間に，かれらの中から使徒を遺わし，印を読み聞かせてかれらを清め，啓典と英知を教えられた方である。本当にかれらは，以前は明らかに邪道にあった。",
+                            "verse 62:3": "まだ来ていない（預盲者以降の）人びとにも教えを授けられる。かれは偉力ならびなく英明であられる。",
+                            "verse 62:4": "これがアッラーの恩恵である。かれの御心に適う者にこれを与える。アッラーは偉大な恩恵の主であられる。",
+                            "verse 62:5": "律法（守護）の責任を負わされて，その後それを果たさない者を譬えれば，書物を運ぶロバのようなものである。アッラーの印を嘘であるとする者も同様で，哀れむべきである。本当にアッラーは悪い行いの者を御導きになられない。",
+                            "verse 62:6": "言ってやるがいい。「ユダヤ教を信奉する者よ，あなたがたがもし外の人びと以上に，アッラーの御気に入りであると言いはり，それがあくまでも真実であると確心するならば（天国に入れるはずだから今すぐ）死を請い願いなさい。」",
+                            "verse 62:7": "だがかれらは，その手で今まで犯した（行いの）ため，決して死を請い願わないであろう。本当にアッラーは不義を行う者を熟知なされる。",
+                            "verse 62:8": "言ってやるがいい。「あなたがたが逃れようとする死は，必ずあなたがたを襲うのである。それから幽玄界と現象界を知っておられる御方に送り返され，かれはあなたがたに自分の所業を告げ知らせる。」",
+                            "verse 62:9": "あなたがた信仰する者よ，合同礼拝の日の礼拝の呼びかけが唱えられたならば，アッラーを念じることに急ぎ，商売から離れなさい。もしあなたがたが分っているならば，それがあなたがたのために最も善い。",
+                            "verse 62:10": "礼拝が終ったならば，あなたがたは方々に散り，アッラーの恩恵を求めて，アッラーを讃えて多く唱念しなさい。必ずあなたがたは栄えるであろう。",
+                            "verse 62:11": "しかしかれらは，うまい儲けや遊びごとを見かけると，（礼拝のために）立ち上っているあなたを等閑にして，そちらに駆け出す始末。言ってやるがいい。「アッラーの御許（の恩恵）は，遊戯や取引よりも優る。アッラーは，最善の給与者であられる」。 礼拝が終ったならば，あなたがたは方々に散り，アッラーの恩恵を求めて，アッラーを讃えて多く唱念しなさい。必ずあなたがたは栄えるであろう。"
+                        }
+                    }
+                }
+            },
+            "korean": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "하늘과 대지에 있는 모든 것 이 하나님을 찬미하나니 그분은 왕이시요 성스러우시며 위대하시 고 지혜로우시니라",
+                            "verse 62:2": "하나님이 그들 백성중 무학자인 무함마드를 한 선지자로 보내 어 그로 하여금 하나님의 말씀을 낭송하고 그들을 청결케 하며 그 성서와 지혜를 가르치도록 하였 나니 실로 이전의 그들은 방황하 고 있었노라",
+                            "verse 62:3": "아직 이르지 아니한 그밖의 백성에게도 유익하게 하셨나니 실로 하나님은 권능과 지혜로 충 만하심이라",
+                            "verse 62:4": "그것이 하나님의 은혜라 그분 은 그분이 원하는 자에게 은혜를 베푸시나니 하나님은 위대한 은혜 의 주님이시라",
+                            "verse 62:5": "구약의 율법을 받아 그것을 지키지 아니한 그들을 비유하사 책들을 짊어지고 다니는 당나귀와같다 하였거늘 사악함은 하나님의말씀을 거역한 자들과 같니라 실 로 하나님은 사악한 백성들을 인 도하지 아니 하시니라",
+                            "verse 62:6": "일러가로되 유대인들이여 너 희가 주장하듯 너희가 다른 백성 위에 하나님의 총애를 받는 자라 면 너희가 진실이라 할 때 죽음 을 기원해 보라",
+                            "verse 62:7": "그러나 그들은 이전에 그들의손들이 저지른 행위로 말미암아 죽음을 기원하지 못하니라 실로 하나님은 사악한 자들을 알고 계 시니라",
+                            "verse 62:8": "일러가로되 너희가 피하려 한죽음이 실로 너희를 덮치니라 그 때 너희는 보이지 않는 것과 보이는 모든 것을 알고 계시는 분께 보내어지매 그분은 너희에게 너희가 행하였던 모든 사실을 말하여 주시리라",
+                            "verse 62:9": "믿는 사람들이여 금요일 예배의 아잔이 들릴 때면 서둘러 하 나님을 염원하고 거래를 중단두라 너희가 알고 있다면 그것이 너희 를 위해 복이 되리라",
+                            "verse 62:10": "예배가 끝났을 때 대지에 분산하여 하나님의 은혜를 구하고 하나님을 염원하라 그리하면 너 희가 번성하리라",
+                            "verse 62:11": "그러나 거래와 어떤 오락을 보면 그대를 두고서 떠나는 자들 이 있나니 일러가로되 하나님의 축복이 어떤 오락이나 거래보다 나은 것이라 하여라 실로 하나님 은 가장 훌륭한 양식의 수여자이 시니라"
+                        }
+                    }
+                }
+            },
+            "kurdish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "هه‌رچی له ئاسمانه‌کان و زه‌ویدا هه‌یه ته‌سبیحات و ستایشی خوا ده‌که‌ن.",
+                            "verse 62:2": "هه‌ر ئه‌و زاته‌یه له‌ناو خه‌ڵکێکی نه‌خوێنده‌واردا پێغه‌مبه‌رێکی له خۆیان ڕه‌وانه کرد، ئایه‌ته‌کانی قورئانه‌که‌ی ئه‌ویان به‌سه‌ردا ده‌خوێنێته‌وه و دڵ و ده‌روون و ڕواڵه‌ت و ئاشکرا و نادیاریان پوخته ده‌کات، فێری قورئان و دانایی و شه‌ریعه‌تیان ده‌کات، به‌ڕاستی ئه‌وانه پێشتر له‌گوامڕایی و سه‌رلێشێواویه‌کی ئاشکرادا گیریان خواردبوو.",
+                            "verse 62:3": "له‌ئاینده‌دا خه‌ڵکی تریش دێن (موسڵمان ده‌بن له گه‌ل و میلله‌تان) په‌یوه‌ست ده‌بن به‌مانه‌وه‌، بێگومان ئه‌و زاته باڵاده‌ست و دانا و کار دروسته‌.",
+                            "verse 62:4": "ئه‌وه ڕێزو به‌هره‌یه‌کی خواییه ده‌یبه‌خشێت به‌و که‌سه‌ی که خوا خۆی ئاره‌زووی بکات و شایسته بێت، خوایش خاوه‌نی به‌خشش و به‌هره‌ی گه‌وره و بێسنووره‌.",
+                            "verse 62:5": "وێنه‌ی ئه‌وانه‌ی که ته‌وراتیان درا به‌سه‌ردا تا په‌یڕه‌وی بکه‌ن، پاشان هه‌ڵیان نه‌گرت و په‌یڕه‌ویان نه‌کرد، وه‌ك: گوێدرێژێك وایه که باره کتێبێکی هه‌ڵگرتبێت، ئای که چه‌نده ناشیرینه وێنه‌و نموونه‌ی ئه‌وانه‌ی که ئایه‌ته‌کانی خوایان به‌درۆ زانیووه و بڕوایان پێی نه‌بوو، بێگومان خوا هیدایه‌ت و ڕێنموویی سته‌مکاران ناکات.",
+                            "verse 62:6": "ئه‌ی پێغه‌مبه‌ر (صلی الله علیه وسلم) پێیان بڵێ: ئه‌ی ئه‌وانه‌ی له‌سه‌ر دینی جووله‌که‌ن، ئه‌گه‌ر ئێوه بڕواتان وایه‌، که به‌ڕاستی ئێوه دۆست و لایه‌نگری خوان، جگه له خه‌ڵکی تر، که‌واته داوای مردن بکه‌ن و ئاواتی مه‌رگ بخوازن، (تا له ژیانی پڕ مه‌ینه‌تی دنیا ڕزگارتان ببێت و به به‌هه‌شت و دیداری په‌روه‌ردگار شاد ببن)!",
+                            "verse 62:7": "که‌چی ئه‌وانه هه‌رگیزاو هه‌رگیز ئاواتی وا ناخوازن و مردن داوا ناکه‌ن، چونکه خۆیان ده‌زانن چیان ده‌ست پێشکه‌ری کردووه‌، خوایش زانایه به کارو کرده‌وه‌ی سته‌مکاران.",
+                            "verse 62:8": "پێیان بڵێ ئه‌ی پێغه‌مبه‌ر (صلی الله علیه وسلم): به‌ڕاستی ئه‌و مردنه‌ی که ڕاده‌که‌ن له ده‌ستی هه‌ر یه‌خه‌تان پێ ده‌گرێت، له‌وه‌ودوایش ده‌گه‌رێنرێنه‌وه بۆ لای که‌سێك که زانایه به‌نهێنی و ئاشکرا، ئه‌وسا ئاگادارتان ده‌کات به‌وه‌ی که ده‌تانکرد.",
+                            "verse 62:9": "ئه‌ی ئه‌وانه‌ی باوڕتان هێناوه کاتێ که بانگ درا بۆ نوێژ له ڕۆژی هه‌ینیدا، ئێوه به په‌له بچن به‌ده‌م یادی خواوه و واز له کڕین و فرۆشتن بهێنن، چونکه ئه‌و کاره‌تان چاکتره بۆتان ئه‌گه‌ر بزانن و تێبگه‌ن.",
+                            "verse 62:10": "جا کاتێك نوێژ ته‌واو بوو، ئه‌وه بڵاو ببنه‌وه به‌زه‌ویدا و به‌ته‌مای به‌خششی خوا هه‌وڵ و کۆشش بدن، یادی خوا زۆر بکه‌ن له هه‌موو چالاکیه‌کانی ژیاندا با ناوی ئه‌و زاته له‌سه‌ر زارو له‌ناو دڵتاندا بێت، بۆ ئه‌وه‌ی سه‌رفرازیی هه‌میشه‌یی به‌ده‌ست بهێنن.",
+                            "verse 62:11": "(پاشان خوا گله‌یی له‌زۆربه‌ی ئیمانداران ده‌کات، ئه‌وانه‌ی که قافڵه‌ی بازرگانیان بینی ده‌وری پێغه‌مبه‌ر (صلی الله علیه وسلم) یان چۆڵ کرد:) کاتێك بازرگانیه‌ك، یان یاری و گه‌مه‌یه‌ك ببینن، ئه‌وه ده‌جن به‌ده‌میوه تۆیش به‌جێ دێڵن له‌کاتێکدا تۆ وه‌ستاوی به‌پێوه وتار ده‌خوێنیته‌وه‌، پێیان بڵێ: ئه‌و پاداشت و به‌شه‌ی که‌لای خوایه بۆ ئیمانداران، چاکتره له‌و یاری و گه‌مه و بازرگانیه‌، خوایش چاکترین ڕۆزی به‌خشه به سه‌رجه‌م خه‌ڵکی."
+                        }
+                    }
+                }
+            },
+            "malay": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "Segala yang ada di langit dan yang ada di bumi sentiasa mengucap tasbih kepada Allah Yang Menguasai (sekalian alam), Yang Maha Suci, Yang Maha Kuasa, lagi Maha Bijaksana.",
+                            "verse 62:2": "Dialah yang telah mengutuskan dalam kalangan orang-orang (Arab) yang Ummiyyin, seorang Rasul (Nabi Muhammad s.",
+                            "verse 62:3": "Dan juga (telah mengutuskan Nabi Muhammad kepada) orang-orang yang lain dari mereka, yang masih belum (datang lagi dan tetap akan datang) menghubungi mereka; dan (ingatlah), Allah jualah Yang Maha Kuasa, lagi Maha Bijaksana",
+                            "verse 62:4": "(Pengutusan Nabi Muhammad s.",
+                            "verse 62:5": "(Sifat-sifat Nabi Muhammad itu telahpun diterangkan dalam Kitab Taurat tetapi orang-orang Yahudi tidak juga mempercayainya, maka) bandingan orang-orang (Yahudi) yang dipertanggungjawabkan dan ditugaskan (mengetahui dan melaksanakan hukum) Kitab Taurat, kemudian mereka tidak menyempurnakan tanggungjawab dan tugas itu, samalah seperti keldai yang memikul bendela Kitab-kitab besar (sedang ia tidak mengetahui kandungannya).",
+                            "verse 62:6": "Katakanlah (wahai Muhammad): Wahai orang-orang yang beragama Yahudi, kalau kamu anggap bahawa kamulah sahaja orang-orang yang dikasihi Allah tidak termasuk umat-umat manusia yang lain, maka bercita-citalah hendakkan mati (dengan meminta kepada Allah supaya kamu dimatikan sekarang juga), jika betul kamu orang-orang yang benar!",
+                            "verse 62:7": "Dan (sudah tentu) mereka tidak akan bercita-cita hendakkan mati itu selama-lamanya, dengan sebab dosa-dosa yang mereka telah lakukan dan Allah sentiasa mengetahui akan orang-orang yang zalim itu.",
+                            "verse 62:8": "Katakanlah (wahai Muhammad): Sebenarnya maut yang kamu melarikan diri daripadanya itu, tetaplah ia akan menemui kamu; kemudian kamu akan dikembalikan kepada Allah Yang Mengetahui segala yang ghaib dan yang nyata, lalu Dia memberitahu kepada kamu apa yang kamu telah lakukan (serta membalasnya).",
+                            "verse 62:9": "Wahai orang-orang yang beriman! Apabila diserukan azan (bang) untuk mengerjakan sembahyang pada hari Jumaat, maka segeralah kamu pergi (ke masjid) untuk mengingati Allah (dengan mengerjakan sembahyang jumaat) dan tinggalkanlah berjual beli (pada saat itu); yang demikian adalah baik bagi kamu, jika kamu mengetahui (hakikat yang sebenarnya),",
+                            "verse 62:10": "Kemudian setelah selesai sembahyang, maka bertebaranlah kamu di muka bumi (untuk menjalankan urusan masing-masing) dan carilah apa yang kamu hajati dari limpah kurnia Allah, serta ingatlah akan Allah banyak-banyak (dalam segala keadaan), supaya kamu berjaya (di dunia dan di akhirat).",
+                            "verse 62:11": "Dan apabila mereka mengetahui kedatangan barang-barang dagangan (yang baru tiba) atau (mendengar) sesuatu hiburan, mereka bersurai (lalu pergi) kepadanya dengan meninggalkan engkau berdiri (di atas mimbar berkhutbah)."
+                        }
+                    }
+                }
+            },
+            "persian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "آنچه در آسمانها و آنچه در زمين است همواره تسبيح خدا مى‏گويند، خداوندى كه مالك و حاكم است و از هر عيب و نقصى مبرا، و عزيز و حكيم است!",
+                            "verse 62:2": "و كسى است كه در ميان جمعيت درس نخوانده رسولى از خودشان برانگيخت كه آياتش را بر آنها مى‏خواند و آنها را تزكيه مى‏كند و به آنان كتاب () و حكمت مى‏آموزد هر چند پيش از آن در گمراهى آشكارى بودند!",
+                            "verse 62:3": "و (همچنين) رسول است بر گروه ديگرى كه هنوز به آنها ملحق نشده‏اند; و او عزيز و حكيم است!",
+                            "verse 62:4": "اين فضل خداست كه به هر كس بخواهد (و شايسته بداند) مى‏بخشد; و خداوند صاحب فضل عظيم است!",
+                            "verse 62:5": "كسانى كه مكلف به تورات شدند ولى حق آن را ادا نكردند، مانند درازگوشى هستند كه كتابهايى حمل مى‏كند، (آن را بر دوش مى‏كشد اما چيزى از آن نمى‏فهمد)! گروهى كه آيات خدا را انكار كردند مثال بدى دارند، و خداوند قوم ستمگر را هدايت نمى‏كند!",
+                            "verse 62:6": "بگو: «اى يهوديان! اگر گمان مى‏كنيد كه (فقط) شما دوستان خدائيد نه ساير مردم، پس آرزوى مرگ كنيد اگر راست مى‏گوييد (تا به لقاى محبوبتان برسيد)!»",
+                            "verse 62:7": "ولى آنان هرگز تمناى مرگ نمى‏كنند بخاطراعمالى كه از پيش فرستاده‏اند; و خداوند ظالمان را بخوبى مى‏شناسد!",
+                            "verse 62:8": "بگو: «اين مرگى كه از آن فرار مى‏كنيد سرانجام با شما ملاقات خواهد كرد; سپس به سوى كسى كه داناى پنهان و آشكار است بازگردانده مى‏شويد; آنگاه شما را از آنچه انجام مى‏داديد خبر مى‏دهد!»",
+                            "verse 62:9": "اى كسانى كه ايمان آورده‏ايد! هنگامى كه براى نماز روز جمعه اذان گفته شود، به سوى ذكر خدا بشتابيد و خريد و فروش را رها كنيد كه اين براى شما بهتر است اگر مى‏دانستيد!",
+                            "verse 62:10": "و هنگامى كه نماز پايان گرفت (شما آزاديد) در زمين پراكنده شويد و از فضل خدا بطلبيد، و خدا را بسيار ياد كنيد شايد رستگار شويد!",
+                            "verse 62:11": "هنگامى كه آنها تجارت يا سرگرمى و لهوى را ببينند پراكنده مى‏شوند و به سوى آن مى روند و تو را ايستاده به حال خود رها مى‏كنند; بگو: آنچه نزد خداست بهتر از لهو و تجارت است، و خداوند بهترين روزى‏دهندگان است"
+                        }
+                    }
+                }
+            },
+            "portuguese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "Tudo quanto existe nos céus e na terra glorifica Deus, o Soberano, o Augusto, o Poderoso, o Prudentíssimo.",
+                            "verse 62:2": "Ele foi Quem escolheu, entre os iletrados, um Mensageiro da sua estirpe, para ditar-lhes os Seus versículos, consagrá-los e ensinar-lhes o Livro e a sabedoria, porque antes estavam em evidente erro.",
+                            "verse 62:3": "E ensinar aos outros que o sucederão, porque Ele é o Poderoso, o Prudentíssimo.",
+                            "verse 62:4": "Tal é a graça de Deus, que a concede a quem Lhe apraz, porque é Agraciante por excelência.",
+                            "verse 62:5": "O exemplo daqueles que estão encarregados da Tora, e não a observam, é semelhante ao do asno que carrega grandes livros.",
+                            "verse 62:6": "Dize-lhes: Ó judeus, se pretendeis ser os favorecidos de Deus, em detrimento dos demais humanos, desejai, então, a morte, se estais certos!",
+                            "verse 62:7": "Porém, jamais a desejarão, por causa do que cometeram as suas mão; e Deus bem conhece os iníquos!",
+                            "verse 62:8": "Dize-lhes: Sabei que a morte, da qual fugis, sem dúvida vos surpreenderá; logo retornareis ao Conhecedor do cognoscível e do incognoscível, e Ele vos inteirará de tudo quanto tiverdes feito!",
+                            "verse 62:9": "Ó fiéis, quando fordes convocados, para a Oração da Sexta-feira , recorrei à recordação de Deus e abandonai os vossos negócios; isso será preferível, se quereis saber.",
+                            "verse 62:10": "Porém, uma vez observada a oração, dispersai-vos pela terra e procurai as graças de Deus, e mencionai muito Deus, para que prospereis.",
+                            "verse 62:11": "Porém, se quando se depararem com o comércio ou com a diversão, se dispersarem, correndo para ele e te deixarem a sós, dize-lhes: O que está relacionado com Deus é preferível à diversão e ao comércio, porque Deus é o melhor dos provedores."
+                        }
+                    }
+                }
+            },
+            "romanian": {
+                "translators": {
+                    "1": {
+                        "Lucrarea (traducere úi editare) a fost realizată de către": {
+                            "verse 62:1": "Cele din ceruri și de pre pãmânt Îl preamãresc pe Allah - Stãpânul,Cel Sfânt, Atotputernicul",
+                            "verse 62:2": "Înțeleptul [Al-Malik, Al-Quddus, Al-'Aziz, Al-Hakim].",
+                            "verse 62:3": "El este Cel care le-a trimis celor fãrã științã de carte un Trimis dintre ei , care sã le recite versetele Sale, sã-i curãțeascã pe ei șisã-i învețe Cartea și &Icir",
+                            "verse 62:4": "Ca și altora care nu i-au prins pe ei .",
+                            "verse 62:5": "Înțelept [Al-'Aziz, Al-Hakim].",
+                            "verse 62:6": "Acesta este harul lui Allah și El îl dãruiește cui voiește, iar Allah esteCel cu Mare Milã.",
+                            "verse 62:7": "Pilda acelora care au fost încãrcați cu Tora și apoi nu au purtat- o pe ea este ca pilda mãgarului ce carã cãrți.",
+                            "verse 62:8": "Spune : \"O, voi cei care ați primit iudaismul! Dacã voi pretindețicã sunteți dragi lui Allah, afarã de ceilalți oameni, atunci doriți-vã moartea, dacã voi sunteți grã",
+                            "verse 62:9": "Dar ei nu vor dori nicicând, pentru ceea ce au fãcut mai înainte mâinile lor , însã Allah este bine știutor al nelegiuiților .",
+                            "verse 62:10": "Spune: \"Moartea de care fugiți vã va ajunge pe voi! Apoi veți fiaduși la Cel care le cunoaște atât pe cele nevãzute, cât și pe cele vãzute și care vã va vesti vouã ceea ce a",
+                            "verse 62:11": "O, voi cei care credeți! Când se cheamã la Rugãciune ,",
+                            "verse 62:12": "în ziua de vineri, grãbiți-vã la pomenirea lui Allah și lãsați negoțul! Aceasta este mai bine pentru voi, dacã",
+                            "verse 62:13": "Apoi, dupã ce Rugãciunea",
+                            "verse 62:14": "a fost împlinitã, rãspândiți-vã pe pãmânt și cãutați harul lui Allah și pomeniți-L mult pe Allah, pentru ca voi sã izbândiți!",
+                            "verse 62:15": "Și dacã vãd ei un negoț sau o petrecere , atunci se împrãștieei înspre ea și te lasã pe tine în picioare ."
+                        }
+                    },
+                    "2": {
+                        "George Grigore, Coranul": {
+                            "verse 62:1": "Cele din ceruri şi de pe pământ Îl preamăresc pe Dumnezeu: Regele, Sfântul, Puternicul, Înţeleptul.",
+                            "verse 62:2": "El este Cel ce a trimis printre cei neştiutori, un profet luat dintre ei pentru a le recita versetele care-i curăţă, care-i învaţă Cartea şi înţelepciunea.",
+                            "verse 62:3": "El l-a trimis şi oamenilor ce va să vină şi care încă nu l-au întâlnit.",
+                            "verse 62:4": "Acesta este harul lui Dumnezeu pe care El îl dăruieşte cui voieşte.",
+                            "verse 62:5": "Cei care au fost încărcaţi cu Tora şi pe urmă n-au mai cărat-o, sunt asemenea măgarului încărcat cu cărţi.",
+                            "verse 62:6": "Spune: “O, voi evreilor! Dacă pretindeţi că voi, şi numai voi, sunteţi singurii prieteni ai lui Dumnezeu, atunci doriţi-vă moartea, dacă spuneţi adevărul!”",
+                            "verse 62:7": "Ei nu şi-o doresc însă deloc de teama a ceea ce mâinile lor au făptuit.",
+                            "verse 62:8": "Spune: “Moartea, de care fugiţi, vă va ajunge şi veţi fi aduşi înaintea Celui ce cunoaşte tăinuitul şi mărturisitul.",
+                            "verse 62:9": "O, voi cei ce credeţi! Când sunteţi chemaţi la rugăciunea de vineri, zoriţi-vă la amintirea lui Dumnezeu şi lăsaţi la o parte negoţul.",
+                            "verse 62:10": "Atunci când rugăciunea s-a terminat, răspândiţi-vă prin ţinut şi căutaţi harul lui Dumnezeu! Amintiţi-L pe Dumnezeu mereu! Poate veţi fi fericiţi!",
+                            "verse 62:11": "Dacă văd însă vreo putinţă de negoţ ori de desfătare, vor alerga într-acolo lăsându-te în picioare! Spune: “Ceea ce se află la Dumnezeu este mai bun decât negoţul ori desfătarea!” Dumnezeu este prea bunul Înzestrător! fericiţi!"
+                        }
+                    }
+                }
+            },
+            "russian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "Все в небесах и на землеХвалу и славу воздает Аллаху —(Верховному) Царю, Святому,Мудрейшему и Мощному (над всем)!",
+                            "verse 62:2": "Он средь невежд2234 избралпосланника для них,Кто им Его знамения толкует,Чтобы очистить их и обучитьСвященному Письму и мудрости(Господней), —(Хотя еще совсем недавно)Они, поистине, (в земных) грехахблуждали.",
+                            "verse 62:3": "А равно и для тех2235,Кто к ним пока не примыкает.",
+                            "verse 62:4": "Вот такова Господня милость,И Он дарует ее всем, кому сочтет.",
+                            "verse 62:5": "Ослу, что тащит груз тяжелых книг,(Но смысл того, что в них,не понимает),Подобны те, кому было доверенонести (Святую) Тору, —Они ж пренебрегли ее Заветом.",
+                            "verse 62:6": "Скажи: «О вы, кто предались иудаизму!Коль вы считаете, что вы близкик Аллаху,Как избранные из других людей2235а,Так пожелайте себе скорой смерти,(Которая приблизит вас к Нему),Если правдивы вы (в своих словах)».",
+                            "verse 62:7": "Но никогда они ее не пожелаютИз-за тех дел, что предварили имИх собственные руки, —Аллах ведь знает тех, кто зло творит.",
+                            "verse 62:8": "Скажи: «Смерть, от которой вы бежите,(Со временем) настигнет вас,И вас вернут к Тому, Кто знаетВсе, что сокрыто и что явно;И обо всем, что совершили вы,Он вам напомнит (в этот День).",
+                            "verse 62:9": "О вы, кто верует!Когда вас позовут к молитве днясобранья,Спешите к поминанию Аллаха.",
+                            "verse 62:10": "Когда ж молитва завершится,Вы в поисках даров ГосподнихИдите по земле, куда угодно вам,И часто славьте имя Бога, —Чтобы могли успех вы обрестии радость в жизни».",
+                            "verse 62:11": "Едва увидев торг иль легкую забаву,Они тотчас бросаются туда,Тебя оставив (проповедь читать),стоящим одиноко."
+                        }
+                    }
+                }
+            },
+            "spanish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "Lo que está en los cielos y en la tierra glorifica a Alá, el Rey, el Santísimo, el Poderoso, el Sabio.",
+                            "verse 62:2": "Él es quien ha mandado a los gentiles un Enviado salido de ellos, que les recita Sus aleyas, les purifica y les enseña la Escritura y la Sabiduría.",
+                            "verse 62:3": "Y a otros de ellos, que no se les han incorporado aún.",
+                            "verse 62:4": "Ése es el favor de Alá, que dispensa a quien Él quiere.",
+                            "verse 62:5": "Aquéllos a quienes se había confiado la Tora pero no la observaron son semejantes a un asno que lleva libros.",
+                            "verse 62:6": "Di: «¡Judíos! Si pretendéis ser los amigos de Alá, con exclusión de otras gentes, entonces, ¡desead la muerte, si sois consecuentes!»",
+                            "verse 62:7": "Pero nunca la desean por lo que sus manos han cometido.",
+                            "verse 62:8": "Di: «La muerte, de la que huís, os saldrá al encuentro.",
+                            "verse 62:9": "¡Creyentes! Cuando se llame el viernes a la azalá, ¡corred a recordar a Alá y dejad el comercio! Es mejor para vosotros.",
+                            "verse 62:10": "Terminada la azalá, ¡id a vuestras cosas, buscad el favor de Alá! ¡Recordad mucho a Alá! Quizás, así, prosperéis.",
+                            "verse 62:11": "Cuando ven un negocio o una distracción, escapan allá y te dejan plantado."
+                        }
+                    }
+                }
+            },
+            "tamil": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "வானங்களிலுள்ளவையும், பூமியிலுள்ளவையும் அல்லாஹ்வைத் தஸ்பீஹு (துதி) செய்துகொண்டிருக்கின்றன, (அவன்தான்) மெய்யான பேரரசன்; பரிசுத்தமானவன், யாவரையும் மிகைத்தவன், ஞானம் மிக்கவன்.",
+                            "verse 62:2": "அவன்தான், எழுத்தறிவில்லா மக்களிடம் அவனுடைய வசனங்களை ஓதிக்காட்டி, அவர்களைப் பரிசுத்தமாக்கி, அவர்களுக்கு வேதத்தையும், ஞானத்தையும் கற்பிக்கும் படியான தூதரை அவர்களிலிருந்தே அனுப்பி வைத்தான், அவர்களோ, அதற்கு முன்னர் பகிரங்கமான வழிகேட்டிலேயே இருந்தனர்.",
+                            "verse 62:3": "(இவர்களுக்காகவும்), இவர்களுடன் சேராத (பிற்காலத்த)வர்களுக்காகவும், (தூதராக அனுப்பி வைத்தான்) அவன் (யாவரையும்) மிகைத்தவன், ஞானம் மிக்கவன்.",
+                            "verse 62:4": "அதுவே அல்லாஹ்வின் அருளாகும், தான் விரும்பியவர்களுக்கு அதை அவனளிக்கிறான், மேலும் அல்லாஹ் மகத்தான அருளுடையவன்.",
+                            "verse 62:5": "எவர்கள் தவ்றாத் (வேதம்) சுமத்தப்பெற்று பின்னர் அதன்படி நடக்கவில்லையோ, அவர்களுக்கு உதாரணமாவது ஏடுகளைச் சுமக்கும் கழுதையின் உதாரணத்திற்கு ஒப்பாகும், எச்சமூகத்தார் அல்லாஹ்வின் வசனங்களைப் பொய்ப்பிக்கிறார்களோ அவர்களின் உதாரணம் மிகக் கெட்டதாகும் - அல்லாஹ் அநியாயக்கார சமூகத்தாரை நேர்வழியில் செலுத்தமாட்டான்.",
+                            "verse 62:6": "(நபியே!) நீர் கூறுவீராக: யஹூதிகளே! மற்ற மனிதர்களைவிட நீங்கள் தாம் அல்லாஹ்வுக்குப் பிரியமானவர்கள் என்று எண்ணுவீர்களானால், மேலும் (அவ்வெண்ணத்தில்) நீங்கள் உண்மையாளராக இருப்பின், நீங்கள் மரணத்தை விரும்புங்கள்.",
+                            "verse 62:7": "ஆனால், அவர்களுடைய கைகள் முற்படுத்தி வைத்த (பாவத்)தின் காரணத்தால், அவர்கள் அதை (மரணத்தை) ஒருக்காலும் விரும்ப மாட்டார்கள்.",
+                            "verse 62:8": "\"நீங்கள் எதை விட்டும் விரண்டு ஓடுகிறீர்களோ, அந்த மரணம் நிச்சயமாக உங்களை சந்திக்கும், பிறகு, மறைவானதையும் பகிரங்கமானதையும் நன்கறிந்தவனிடம் நீங்கள் கொண்டு மீட்டப்படுவீர்கள் - அப்பால், அவன் நீங்கள் செய்து கொண்டிருந்தவை பற்றி உங்களுக்கு அறிவிப்பான்\" (என்று) (நபியே!) நீர் கூறுவீராக.",
+                            "verse 62:9": "ஈமான் கொண்டவர்களே! ஜுமுஆ உடைய நாளில் தொழுகைக்காக நீங்கள் அழைக்கப்பட்டால், வியாபாரத்தை விட்டுவிட்டு, அல்லாஹ்வைத் தியானிக்க (பள்ளிக்கு) விரைந்து செல்லுங்கள் - நீங்கள் அறிபவர்களாக இருப்பின் இதுவே உங்களுக்கு மிக மேலான நன்மையுடையதாகும்.",
+                            "verse 62:10": "பின்னர், (ஜுமுஆ) தொழுகை நிறைவேற்றப்பட்டு விட்டதும், (பள்ளியிலிருந்து வெளிப்பட்டு) பூமியில் பரவிச் சென்று அல்லாஹ்வுடைய அருளைத் தேடிக் கொள்ளுங்கள், அன்றியும், நீங்கள் வெற்றியடையும் பொருட்டு, அல்லாஹ்வை அதிகமதிகம் தியானம் செய்யுங்கள்.",
+                            "verse 62:11": "இன்னும், (நபியே!) அவர்களில் (சிலர்) ஒரு வியாபாரத்தையோ, அல்லது ஒரு வேடிக்கையையோ, கண்டால், அதன்பால் அவர்கள் சென்று விடுகின்றனர்."
+                        }
+                    }
+                }
+            },
+            "thai": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "สิ่งที่อยู่ในชั้นฟ้าทั้งหลาย และสิ่งที่อยู่ในแผ่นดินต่างแซ่ซ้องดุดีแด่อัลลอฮ์ ผู้ทรงอภิสิทธิ์ ผู้ทรงบริสุทธิ์ ผู้ทรงอำนาจ ผู้ทรงปรีชาญาณ",
+                            "verse 62:2": "พระองค์ทรงเป็นผู้แต่งตั้งร่อซู้ลขึ้นคนหนึ่งในหมู่ผู้ไม่รู้จักหนังสือจากพวกเขาเอง เพื่อสาธยายอายาตต่าง ๆ ของพระองค์แก่พวกเขา และทรงทำให้พวกเขาผุดผ่อง และทรงสอนคัมภีร์และความสุขุมคัมภีรภาพแก่พวกเขา และแม้ว่าแต่ก่อนนี้พวกเขาอยู่ในการหลงผิดอย่างชัดแจ้งก็ตาม",
+                            "verse 62:3": "และกลุ่มชนอื่น ๆ ในกลุ่มพวกเขาที่จะติดตามมาภายหลังจากพวกเขา และพระองค์เป็นผู้ทรงอำนาจ ผู้ทรงปรีชาญาณ",
+                            "verse 62:4": "นั่นคือความโปรดปรานของอัลลอฮ์ทรงประทานความโปรดปรานนั้นแก่ผู้ที่พระองค์ทรงประสงค์ และอัลลอฮ์นั้นเป็นผู้มีบุญคุณอันใหญ่หลวง",
+                            "verse 62:5": "อุปมาบรรดาผู้ที่ได้รับคัมภีร์เตารอฮ์ แล้วพวกเขามิได้ปฏิบัติตามที่พวกเขาได้รับมอบ ประหนึ่งเช่นกับลาที่แบกหนังสือจำนวนหนึ่ง (บนหลังของมัน) อุปมาหมู่ชนที่ปฏิเสธต่อสัญญาณต่าง ๆ ของอัลลอฮ์ มันช่างชั่วช้าจริง ๆ และอัลลอฮ์จะไม่ชี้แนะทางแก่หมู่ชนผู้อธรรม",
+                            "verse 62:6": "จงกล่าวเถิดมุฮัมมัด โอ้บรรดายิวเอ๋ย หากพวกท่านอ้างว่าพวกท่านเป็นมิตรของอัลลอฮ์อื่นจากมนุษย์แล้วไซร้ ดังนั้นพวกท่านก็จงมุ่งหวังความตายกันเถิด หากพวกท่านเป็นผู้สัตย์จริง",
+                            "verse 62:7": "แต่ว่าพวกเขาจะไม่มุ่งหวังมันเป็นอันขาด เนื่องด้วยสิ่งที่มือของพวกเขาได้ประกอบ (กรรมชั่ว) ไว้ก่อน และอัลลอฮ์ทรงรอบรู้พวกอธรรมทั้งหลาย",
+                            "verse 62:8": "จงกล่าวเถิดมุฮัมมัด แท้จริงความตายที่พวกท่านหนีจากมันไปนั้น มันจะมาพบกับพวกท่าน แล้วพวกท่านจะถูกนำกลับไปยังพระผู้ทรงรอบรู้สิ่งเร้นลับและสิ่งเปิดเผย แล้วพระองค์จะทรงแจ้งแก่พวกท่านตามที่พวกท่านได้ประกอบกรรมไว้",
+                            "verse 62:9": "โอ้บรรดาผู้ศรัทธาเอ๋ย เมื่อได้มีเสียงร้องเรียก (อะซาน) เพื่อทำละหมาดในวันศุกร์ ก็จงรีบเร่งไปสู่การรำลึกถึงอัลลอฮ์ และจงละทิ้งการค้าขายเสีย นั่นเป็นการดีสำหรับพวกเจ้าหากพวกเจ้ารู้",
+                            "verse 62:10": "ต่อเมื่อการละหมาดได้สิ้นสุดลงแล้วก็จงแยกย้ายกันไปตามแผ่นดิน และจงแสวงหาความโปรดปรานของอัลลอฮ์ และจงรำลึกถึงอัลลอฮ์ให้มาก ๆ เพื่อว่าพวกเจ้าจะได้รับชัยชนะ",
+                            "verse 62:11": "และเมื่อพวกเขาได้เห็นการค้าและการละเล่นพวกเขาก็กรูกันไปที่นั้น และปล่อยเจ้าให้ยืนอยู่คนเดียว จงกล่าวเถิดมุฮัมมัด สิ่งที่มีอยู่ ณ อัลลอฮ์นั้นดีกว่าการละเล่นและการค้า และอัลลอฮ์นั้นทรงเป็นเลิศยิ่งในหมู่ผู้ประทานปัจจัยยังชีพ"
+                        }
+                    }
+                }
+            },
+            "turkish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "Göklerde ve yerde olanların hepsi, mülkün sahibi, eksiklikten münezzeh, azîz ve hakîm olan Allah'ı tesbih eder.",
+                            "verse 62:2": "Çünkü ümmîlere içlerinden, kendilerine âyetlerini okuyan, onları temizleyen, onlara Kitab'ı ve hikmeti öğreten bir peygamber gönderen O'dur.",
+                            "verse 62:3": "(Peygamberi) müminlerden henüz kendilerine katılmamış bulunan diğer insanlara da göndermiştir.",
+                            "verse 62:4": "Bu, Allah'ın lütfudur.",
+                            "verse 62:5": "Tevrat'la yükümlü tutulup da onunla amel etmeyenlerin durumu, ciltlerce kitap taşıyan merkebin durumu gibidir.",
+                            "verse 62:6": "De ki: Ey yahudiler! Bütün insanlar değil de, yalnız, kendinizin Allah'ın dostları olduğunuzu iddia ediyorsanız, bunda da samimi iseniz, haydi ölümü temenni edin (bakalım)!",
+                            "verse 62:7": "Ama onlar, önceden yaptıklarından dolayı ölümü asla temenni etmezler.",
+                            "verse 62:8": "De ki: Sizin kendisinden kaçtığınız ölüm, muhakkak sizi bulacaktır.",
+                            "verse 62:9": "Ey iman edenler! Cuma günü namaza çağırıldığı (ezan okunduğu) zaman, hemen Allah'ı anmaya koşun ve alış verişi bırakın.",
+                            "verse 62:10": "Namaz kılınınca artık yeryüzüne dağılın ve Allah'ın lütfundan isteyin.",
+                            "verse 62:11": "Onlar bir ticaret ve eğlence gördükleri zaman hemen dağılıp ona giderler ve seni ayakta bırakırlar."
+                        }
+                    }
+                }
+            },
+            "urdu": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "جو چیز آسمانوں میں ہے اور جو چیز زمین میں ہے سب خدا کی تسبیح کرتی ہے جو بادشاہ حقیقی پاک ذات زبردست حکمت والا ہے",
+                            "verse 62:2": "(ہر چيز) جو آسمانوں ميں ہے اور جو زمين ميں ہے اللہ کي تسبيح کرتي ہے (جو حقيقي) بادشاہ ہے، (ہر نقص و عيب سے) پاک ہے، عزت و غلبہ والا ہے بڑي حکمت والا ہےo",
+                            "verse 62:3": "وہي ہے جس نے اَن پڑھ لوگوں ميں انہي ميں سے ايک (با عظمت) رسول (صلي اللہ عليہ وآلہ وسلم) کو بھيجا وہ اُن پر اُس کي آيتيں پڑھ کر سناتے ہيں اور اُن (کے ظاہر و باطن) کو پاک کرتے ہيں اور انہيں کتاب و حکمت کي تعليم ديتے ہيں، بيشک وہ لوگ اِن (کے تشريف لانے) سے پہلے کھلي گمراہي ميں تھےo",
+                            "verse 62:4": "وہی تو ہے جس نے ان پڑھوں میں ان ہی میں سے (محمد) کو پیغمبر (بنا کر) بھیجا جو ان کے سامنے اس کی آیتیں پڑھتے اور ان کو پاک کرتے اور (خدا کی) کتاب اور دانائی سکھاتے ہیں۔ اور اس ے پہلے تو یہ لوگ صریح گمراہی میں تھے",
+                            "verse 62:5": "اور ان میں سے اور لوگوں کی طرف بھی (ان کو بھیجا ہے) جو ابھی ان (مسلمانوں سے) نہیں ملے۔ اور وہ غالب حکمت والا ہے",
+                            "verse 62:6": "اور اِن ميں سے دوسرے لوگوں ميں بھي (اِس رسول صلي اللہ عليہ وآلہ وسلم کو تزکيہ و تعليم کے لئے بھيجا ہے) جو ابھي اِن لوگوں سے نہيں ملے (جو اس وقت موجود ہيں يعني اِن کے بعد کے زمانہ ميں آئيں گے)، اور وہ بڑا غالب بڑي حکمت والا ہےo",
+                            "verse 62:7": "يہ (يعني اس رسول صلي اللہ عليہ وآلہ وسلم کي آمد اور اِن کا فيض و ہدايت) اللہ کا فضل ہے وہ جسے چاہتا ہے اس سے نوازتا ہے، اوراللہ بڑے فضل والا ہےo",
+                            "verse 62:8": "یہ خدا کا فضل ہے جسے چاہتا ہے عطا کرتا ہے۔ اور خدا بڑے فضل کا مالک ہے",
+                            "verse 62:9": "جن لوگوں (کے سر) پر تورات لدوائی گئی پھر انہوں نے اس (کے بار تعمیل) کو نہ اٹھایا ان کی مثال گدھے کی سی ہے جن پر بڑی بڑی کتابیں لدی ہوں۔ جو لوگ خدا کی آیتوں کی تکذیب کرتے ہیں ان کی مثال بری ہے۔ اور خدا ظالم لوگوں کو ہدایت نہیں دیتا",
+                            "verse 62:10": "اُن لوگوں کا حال جن پر تورات (کے احکام و تعليمات) کا بوجھ ڈالا گيا پھر انہوں نے اسے نہ اٹھايا (يعني اس ميں اِس رسول صلي اللہ عليہ وآلہ وسلم کا ذکر موجود تھا مگر وہ اِن پر ايمان نہ لائے) گدھے کي مِثل ہے جو پيٹھ پر بڑي بڑي کتابيں لادے ہوئے ہو، اُن لوگوں کي مثال کيا ہي بُري ہے جنہوں نے اللہ کي آيتوں کو جھٹلايا ہے، اور اللہ ظالم لوگوں کو ہدايت نہيں فرماتاo",
+                            "verse 62:11": "آپ فرما ديجئے: اے يہوديو! اگر تم يہ گمان کرتے ہو کہ سب لوگوں کو چھوڑ کر تم ہي اللہ کے دوست (يعني اولياء) ہو تو موت کي آرزو کرو (کيونکہ اس کے اولياء کو تو قبر و حشر ميں کوئي پريشاني نہيں ہوگي) اگر تم (اپنے خيال ميں) سچے ہوo",
+                            "verse 62:12": "کہہ دو کہ اے یہود اگر تم کو دعویٰ ہو کہ تم ہی خدا کے دوست ہو اور لوگ نہیں تو اگر تم سچے ہو تو (ذرا) موت کی آرزو تو کرو",
+                            "verse 62:13": "اور یہ ان (اعمال) کے سبب جو کرچکے ہیں ہرگز اس کی آرزو نہیں کریں گے۔ اور خدا ظالموں سے خوب واقف ہے",
+                            "verse 62:14": "اور يہ لوگ کبھي بھي اس کي تمنا نہيں کريں گے اُس (رسول کي تکذيب اور کفر) کے باعث جو وہ آگے بھيج چکے ہيں? اور اللہ ظالموں کو خُوب جانتا ہےo",
+                            "verse 62:15": "فرما ديجئے: جس موت سے تم بھاگتے ہو وہ ضرور تمہيں ملنے والي ہے پھر تم ہر پوشيدہ و ظاہر چيز کو جاننے والے (رب) کي طرف لوٹائے جاؤ گے، سو وہ تمہيں آگاہ کر دے گا جو کچھ تم کرتے تھےo",
+                            "verse 62:16": "کہہ دو کہ موت جس سے تم گریز کرتے ہو وہ تو تمہارے سامنے آ کر رہے گی۔ پھر تم پوشیدہ اور ظاہر کے جاننے والے (خدا) کی طرف لوٹائے جاؤ گے پھر جو کچھ تم کرتے رہے ہو وہ سب تمہیں بتائے گا",
+                            "verse 62:17": "مومنو! جب جمعے کے دن نماز کے لئے اذان دی جائے تو خدا کی یاد (یعنی نماز) کے لئے جلدی کرو اور (خریدو) فروخت ترک کردو۔ اگر سمجھو تو یہ تمہارے حق میں بہتر ہے",
+                            "verse 62:18": "اے ايمان والو! جب جمعہ کے دن (جمعہ کي) نماز کے لئے اذان دي جائے تو فوراً اللہ کے ذکر (يعني خطبہ و نماز) کي طرف تيزي سے چل پڑو اور خريد و فروخت (يعني کاروبار) چھوڑ دو? يہ تمہارے حق ميں بہتر ہے اگر تم علم رکھتے ہوo",
+                            "verse 62:19": "پھر جب نماز ادا ہوچکے تو زمين ميں منتشر ہو جاؤ اور (پھر) اللہ کا فضل (يعني رزق) تلاش کرنے لگو اور اللہ کو کثرت سے ياد کيا کرو تاکہ تم فلاح پاؤo",
+                            "verse 62:20": "پھر جب نماز ہوچکے تو اپنی اپنی راہ لو اور خدا کا فضل تلاش کرو اور خدا کو بہت بہت یاد کرتے رہو تاکہ نجات پاؤ",
+                            "verse 62:21": "اور جب یہ لوگ سودا بکتا یا تماشا ہوتا دیکھتے ہیں تو ادھر بھاگ جاتے ہیں اور تمہیں (کھڑے کا) کھڑا چھوڑ جاتے ہیں۔ کہہ دو کہ جو چیز خدا کے ہاں ہے وہ تماشے اور سودے سے کہیں بہتر ہے اور خدا سب سے بہتر رزق دینے والا ہے",
+                            "verse 62:22": "اور جب انہوں نے کوئي تجارت يا کھيل تماشا ديکھا تو (اپني حاجت مندي اور معاشي تنگي کے باعث) اس کي طرف بھاگ کھڑے ہوئے اور آپ کو (خطبہ ميں) کھڑے چھوڑ گئے، فرما ديجئے: جو کچھ اللہ کے پاس ہے وہ کھيل سے اور تجارت سے بہتر ہے، اور اللہ سب سے بہتر رزق دينے والا ہےo ہے"
+                        }
+                    }
+                }
+            },
+            "uzbek": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 62:1": "Осмонлару ердаги барча нарсалар Хожа, Бенуқсон, Азиз, Ҳаким Аллоҳга тасбиҳ айтадир.",
+                            "verse 62:2": "У зот саводсизлар ичидан, гарчи улар бундан аввал очиқ залолатда бўлсалар ҳам, уларга оятларини ўқиб берадиган ва уларни поклайдиган ҳамда китобни ва ҳикматни ўргатадиган Пайғамбарни юборди.",
+                            "verse 62:3": "Ва ҳозирча уларга қўшилмаган бошқаларга ҳам.",
+                            "verse 62:4": "Бу Аллоҳнинг фазлидир (ва уни) хоҳлаган кишисига берадир.",
+                            "verse 62:5": "Устларига Таврот юклатилган, сўнгра уни кўтармаганлар мисоли устига китоб юкланган эшакка ўхшарлар.",
+                            "verse 62:6": "Сен: «Эй яҳудийлар, албатта сиз, бошқалардан фарқли ўлароқ, Аллоҳнинг авлиёларимиз, деб даъво қиладиган бўлсангиз, бас, ўлимни орзу қилинг, агар ростгўй бўлсангиз», деб айт.",
+                            "verse 62:7": "Улар қўллари қилган(гуноҳ)лари туфайли ҳеч қачон, у(ўлим)ни орзу қилмаслар.",
+                            "verse 62:8": "Сен: «Албатта, сиз ундан қочаётган ўлим, таъкид шулки, сизга барибир йўлиқувчидир.",
+                            "verse 62:9": "Эй иймон келтирганлар! Жума куни намозга нидо қилинганда, Аллоҳнинг зикрига шошилинг ва савдони қўйинг.",
+                            "verse 62:10": "Бас, намоз тугагандан сўнг ер юзи бўйлаб тарқалинг ва Аллоҳнинг фазлидан талаб қилинг ва Аллоҳни кўп эсланг, шоядки ютуққа эришсангиз.",
+                            "verse 62:11": "Ва улар тижорат ёки ўйин-кулгу кўрганларида, унга томон ёпирилдилар ва сени тик ҳолда тарк этдилар."
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

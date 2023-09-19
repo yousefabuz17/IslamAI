@@ -1,0 +1,740 @@
+{
+    "surah_name": "Ad-Dhuhâ",
+    "surah_name_ar": "الضحى",
+    "verses": {
+        "languages": {
+            "albanian": {
+                "translators": {
+                    "1": {
+                        "Efendi Nahi": {
+                            "verse 93:1": "Betohem në mëngjesin,",
+                            "verse 93:2": "dhe natën kur terrohet e qetësohet –",
+                            "verse 93:3": "Zoti yt, nuk të ka braktisur e as nuk të ka urrejtur!",
+                            "verse 93:4": "Me të vërtetë, jeta e ardhshme për ty është më e mirë se kjo jetë,",
+                            "verse 93:5": "e, me të vërtetë, Zoti yt do të japi ty, e ti do të jesh i kënaqur.",
+                            "verse 93:6": "A nuk ishe ti bonja, e Ai të mori në strehim,",
+                            "verse 93:7": "dhe të gjeti të humbur (të paudhëzuar), e të udhëzoi me Shpalljen e Kur’anit,",
+                            "verse 93:8": "dhe ishe i varfër e të bëri të pasur?",
+                            "verse 93:9": "Mos e nënçmo bonjakun",
+                            "verse 93:10": "e lypsin mos e refuzo me ashpërsi,",
+                            "verse 93:11": "dhe dhuntitë e Zotit tënd, shprehi! ashpërsi,"
+                        }
+                    }
+                }
+            },
+            "azerbaijani": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "And olsun səhərə;",
+                            "verse 93:2": "And olsun sakitləşməkdə olan (və ya: getdikcə zülməti artan) gecəyə ki,",
+                            "verse 93:3": "(Sənə bir neçə gün vəhy nazil etməməklə) Rəbbin səni (ya Peyğəmbər!) nə tərk etdi, nə də sənə acığı tutdu.",
+                            "verse 93:4": "Şübhəsiz ki, axirət sənin üçün dünyadan daha xeyirlidir!",
+                            "verse 93:5": "Həqiqətən, Rəbbin sənə (qiyamət günü ən uca şəfaət məqamı, Cənnətdə tükənməz ne'mətlər) bəxş edəcək və sən (Ondan) razı qalacaqsan!",
+                            "verse 93:6": "Məgər O səni yetim ikən tapıb sığınacaq vermədimi?!",
+                            "verse 93:7": "Sənin şaşqın (yaxud: uşaq vaxtı Məkkə vadisində azmış) vəziyyətdə tapıb yol göstərmədimi?!",
+                            "verse 93:8": "Səni yoxsul ikən tapıb dövlətli etmədimi?!",
+                            "verse 93:9": "Elə isə yetimə zülm etmə!",
+                            "verse 93:10": "Dilənçini də (qapıdan) qovma!",
+                            "verse 93:11": "Və (həmişə) Rəbbinin sənə olan ne'mətindən söhbət aç!"
+                        }
+                    }
+                }
+            },
+            "bosnian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "Tako mi jutra",
+                            "verse 93:2": "i noći kada se utiša -",
+                            "verse 93:3": "Gospodar tvoj nije te ni napustio ni omrznuo!",
+                            "verse 93:4": "Onaj svijet je, zaista, bolji za tebe od ovoga svijeta,",
+                            "verse 93:5": "a Gospodar tvoj će tebi, sigurno, dati, pa ćeš zadovoljan biti!",
+                            "verse 93:6": "Zar nisi siroče bio",
+                            "verse 93:7": "i za pravu vjeru nisi znao, pa te je na Pravi put uputio,",
+                            "verse 93:8": "i siromah si bio, pa te je imućnim učinio?",
+                            "verse 93:9": "Zato siroče ne ucvili,",
+                            "verse 93:10": "a na prosjaka ne podvikni,",
+                            "verse 93:11": "i o blagodati Gospodara svoga kazuj! podvikni,"
+                        }
+                    }
+                }
+            },
+            "bengali": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "শপথ পূর্বাহ্নের,",
+                            "verse 93:2": "শপথ রাত্রির যখন তা গভীর হয়,",
+                            "verse 93:3": "আপনার পালনকর্তা আপনাকে ত্যাগ করেনি এবং আপনার প্রতি বিরূপও হননি।",
+                            "verse 93:4": "আপনার জন্যে পরকাল ইহকাল অপেক্ষা শ্রেয়।",
+                            "verse 93:5": "আপনার পালনকর্তা সত্বরই আপনাকে দান করবেন, অতঃপর আপনি সন্তুষ্ট হবেন।",
+                            "verse 93:6": "তিনি কি আপনাকে এতীমরূপে পাননি? অতঃপর তিনি আশ্রয় দিয়েছেন।",
+                            "verse 93:7": "তিনি আপনাকে পেয়েছেন পথহারা, অতঃপর পথপ্রদর্শন করেছেন।",
+                            "verse 93:8": "তিনি আপনাকে পেয়েছেন নিঃস্ব, অতঃপর অভাবমুক্ত করেছেন।",
+                            "verse 93:9": "সুতরাং আপনি এতীমের প্রতি কঠোর হবেন না;",
+                            "verse 93:10": "সওয়ালকারীকে ধমক দেবেন না।",
+                            "verse 93:11": "এবং আপনার পালনকর্তার নেয়ামতের কথা প্রকাশ করুন। না।"
+                        }
+                    }
+                }
+            },
+            "bulgarian": {
+                "translators": {
+                    "1": {
+                        "Tzvetan Theophanov": {
+                            "verse 93:1": "Кълна се в утрото",
+                            "verse 93:2": "и в нощта, когато настъпва мрак -",
+                            "verse 93:3": "не те изостави твоят Господ [о, Мухаммад] и не те възненавиди.",
+                            "verse 93:4": "Отвъдният живот е по-добър за теб от настоящия.",
+                            "verse 93:5": "И ще ти въздаде твоят Господ, и ще си доволен.",
+                            "verse 93:6": "Не те ли намери Той сирак и не те ли приюти?",
+                            "verse 93:7": "И те намери заблуден, и те напъти.",
+                            "verse 93:8": "И те намери беден, и те замогна.",
+                            "verse 93:9": "Тъй че не огорчавай сирака!",
+                            "verse 93:10": "И не отпъждай умоляващия!",
+                            "verse 93:11": "И за благодатта на твоя Господ възвестявай! умоляващия!"
+                        }
+                    }
+                }
+            },
+            "chinese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "誓以上午，",
+                            "verse 93:2": "誓以黑夜，當其寂靜的時候，",
+                            "verse 93:3": "你的主沒有棄絕你，也沒有怨恨你；",
+                            "verse 93:4": "後世於你，確比今世更好；",
+                            "verse 93:5": "你的主將來必賞賜你，以至你喜悅。",
+                            "verse 93:6": "難道他沒有發現你伶仃孤苦，而使你有所歸宿？",
+                            "verse 93:7": "他曾發現你徘徊歧途，而把你引入正路；",
+                            "verse 93:8": "發現你家境寒苦，而使你衣食豐足。",
+                            "verse 93:9": "至於孤兒，你不要壓迫他；",
+                            "verse 93:10": "至於乞丐，你不要喝斥他，",
+                            "verse 93:11": "至於你的主所賜你的恩典呢，你應當宣示它。 至於乞丐，你不要喝斥他，"
+                        }
+                    }
+                }
+            },
+            "czech": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "Při denním jasu",
+                            "verse 93:2": "a při noci, když je tichá,",
+                            "verse 93:3": "Pán tvůj tě neopustil ani tebou nepohrdá!",
+                            "verse 93:4": "A bude pro tebe poslední věru lepší než první",
+                            "verse 93:5": "a Pán tvůj tě zajisté obdaří k tvému uspokojení.",
+                            "verse 93:6": "Což nenašel tě jako sirotka - a v útulek tě nepřijal?",
+                            "verse 93:7": "Bloudícím tě nalezl - a správnou cestu ti ukázal,",
+                            "verse 93:8": "nuzákem tě nalezl - a bohatství ti věru dal!",
+                            "verse 93:9": "Co sirotka se týče, toho neutiskuj,",
+                            "verse 93:10": "co žebráka se týče, toho neodstrkuj,",
+                            "verse 93:11": "však o dobrodiní Pána svého jiným vypravuj! neodstrkuj,"
+                        }
+                    }
+                }
+            },
+            "dutch": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "Bij de glorie van de dag.",
+                            "verse 93:2": "En bij de nacht als het donker is.",
+                            "verse 93:3": "Uw Heer heeft u niet verlaten, noch is Hij mishaagd over u.",
+                            "verse 93:4": "Voorwaar, het komende uur zal beter zijn voor u dan het vorige.",
+                            "verse 93:5": "En voorwaar uw Heer zal u geven, en gij zult tevreden zijn.",
+                            "verse 93:6": "Vond Hij u niet als wees, en beschermde u?",
+                            "verse 93:7": "En vond Hij u niet zoekende en leidde Hij u?",
+                            "verse 93:8": "En vond Hij u niet in armoede en verrijkte u?",
+                            "verse 93:9": "Daarom verdruk de wees niet,",
+                            "verse 93:10": "En snauw de bedelaar niet af.",
+                            "verse 93:11": "Maar maak de gunst van uw Heer bekend."
+                        }
+                    }
+                }
+            },
+            "english": {
+                "translators": {
+                    "1": {
+                        "Marmaduke Pickthall": {
+                            "verse 93:1": "By the morning hours",
+                            "verse 93:2": "And by the night when it is stillest,",
+                            "verse 93:3": "Thy Lord hath not forsaken thee nor doth He hate thee,",
+                            "verse 93:4": "And verily the latter portion will be better for thee than the former,",
+                            "verse 93:5": "And verily thy Lord will give unto thee so that thou wilt be content.",
+                            "verse 93:6": "Did He not find thee an orphan and protect (thee) ?",
+                            "verse 93:7": "Did He not find thee wandering and direct (thee) ?",
+                            "verse 93:8": "Did He not find thee destitute and enrich (thee) ?",
+                            "verse 93:9": "Therefor the orphan oppress not,",
+                            "verse 93:10": "Therefor the beggar drive not away,",
+                            "verse 93:11": "Therefor of the bounty of thy Lord be thy discourse."
+                        }
+                    },
+                    "2": {
+                        "Abdullah Yusuf Ali": {
+                            "verse 93:1": "By the Glorious Morning Light,",
+                            "verse 93:2": "And by the Night when it is still,-",
+                            "verse 93:3": "Thy Guardian-Lord hath not forsaken thee, nor is He displeased.",
+                            "verse 93:4": "And verily the Hereafter will be better for thee than the present.",
+                            "verse 93:5": "And soon will thy Guardian-Lord give thee (that wherewith) thou shalt be well-pleased.",
+                            "verse 93:6": "Did He not find thee an orphan and give thee shelter (and care)?",
+                            "verse 93:7": "And He found thee wandering, and He gave thee guidance.",
+                            "verse 93:8": "And He found thee in need, and made thee independent.",
+                            "verse 93:9": "Therefore, treat not the orphan with harshness,",
+                            "verse 93:10": "Nor repulse the petitioner (unheard);",
+                            "verse 93:11": "But the bounty of the Lord - rehearse and proclaim!"
+                        }
+                    },
+                    "3": {
+                        "Arthur J. Arberry": {
+                            "verse 93:1": "By the white forenoon",
+                            "verse 93:2": "and the brooding night!",
+                            "verse 93:3": "Thy Lord has neither forsaken thee nor hates thee",
+                            "verse 93:4": "and the Last shall be better for thee than the First.",
+                            "verse 93:5": "Thy Lord shall give thee, and thou shalt be satisfied.",
+                            "verse 93:6": "Did He not find thee an orphan, and shelter thee?",
+                            "verse 93:7": "Did He not find thee erring, and guide thee?",
+                            "verse 93:8": "Did He not find thee needy, and suffice thee?",
+                            "verse 93:9": "As for the orphan, do not oppress him,",
+                            "verse 93:10": "and as for the beggar, scold him not;",
+                            "verse 93:11": "and as for thy Lord’s blessing, declare it."
+                        }
+                    },
+                    "4": {
+                        "Muhammad Asad": {
+                            "verse 93:1": "CONSIDER the bright morning hours,",
+                            "verse 93:2": "and the night when it grows still and dark.",
+                            "verse 93:3": "Thy Sustainer has not forsaken thee, nor does He scorn thee:",
+                            "verse 93:4": "for, indeed, the life to come will be better for thee than this earlier part [of thy life]!",
+                            "verse 93:5": "And, indeed, in time will thy Sustainer grant thee [what thy heart desires], and thou shalt be well-pleased.",
+                            "verse 93:6": "Has He not found thee an orphan, and given thee shelter?",
+                            "verse 93:7": "And found thee lost on thy way, and guided thee?",
+                            "verse 93:8": "And found thee in want, and given thee sufficiency?",
+                            "verse 93:9": "Therefore, the orphan shalt thou never wrong,",
+                            "verse 93:10": "and him that seeks",
+                            "verse 93:11": "help shalt thou never chide,",
+                            "verse 93:12": "and of thy Sustainer’s blessings shalt thou",
+                            "verse 93:13": "speak."
+                        }
+                    },
+                    "5": {
+                        "Martin Lings": {
+                            "verse 93:1": "By the morning brightness.",
+                            "verse 93:2": "And by the night when it is still.",
+                            "verse 93:3": "Thy Lord hath not forsaken thee nor doth He hate thee.",
+                            "verse 93:4": "And certainly the hereafter is better for thee than the here-below.",
+                            "verse 93:5": "the hereafter is better for thee than this world.",
+                            "verse 93:6": "the last shall be better for thee than the first.",
+                            "verse 93:7": "And certainly thy Lord shall give unto thee, and thou shalt be satisfied.",
+                            "verse 93:8": "thy Lord shall give and give unto thee and thou shalt be satisfied.",
+                            "verse 93:9": "they Lord shall give and give unto thee, and thou shall be satisfied.",
+                            "verse 93:10": "Hath He not found thee an orphan and sheltered thee?",
+                            "verse 93:11": "And found thee astray and guided thee?",
+                            "verse 93:12": "And found thee needy and enriched thee?",
+                            "verse 93:13": "So for the orphan, oppress him not.",
+                            "verse 93:14": "And for the beggar, repel him not.",
+                            "verse 93:15": "And for the bountiful grace of thy Lord, proclaim it! Sources",
+                            "verse 93:16": "Used• Unpublished Material (1938-2005) BOOKS•",
+                            "verse 93:17": "The Book of Certainty (1952) •",
+                            "verse 93:18": "A Sufi Saint of the Twentieth Century (1961) •",
+                            "verse 93:19": "What is Sufism (1975) •",
+                            "verse 93:20": "The Quranic Art of Calligraphy and Illumination (1976) •",
+                            "verse 93:21": "Muhammad (1983) •",
+                            "verse 93:22": "Symbol and Archetype (1991) •",
+                            "verse 93:23": "Sufi Poems (2004) •",
+                            "verse 93:24": "Mecca (2004) •",
+                            "verse 93:25": "Return to the Spirit (2005) •",
+                            "verse 93:26": "Splendours of Qur’an Calligraphy and Illumination (2005) ARTICLES•",
+                            "verse 93:27": "“Proofs of Islam”(1954).",
+                            "verse 93:28": "“The Islamic and Christian Conceptions of the March of Time” (1954) The Islamic Quarterly, Vol.",
+                            "verse 93:29": "“The Origins of Sufism (1956) The Islamic Quarterly, Vol.",
+                            "verse 93:30": "“Sufism”: Religion in the Middle East (1969); ed.",
+                            "verse 93:31": "“Sufi Answers to Questions On Ultimate Reality”: Studies in Comparative Religions 1979 Summer/Autumn •",
+                            "verse 93:32": "“The Nature and Origin of Sufism”: Islamic Spirituality (1985) •",
+                            "verse 93:33": "“Mystical Poetry”: The Cambridge History of Arabic Literature, Vol.",
+                            "verse 93:34": "“The Quranic Doctrine of the Afterlife” •",
+                            "verse 93:35": "“The Quranic Origins of Sufism” •",
+                            "verse 93:36": "“Human Origins and Destinies According to the Great Religions of the World” •",
+                            "verse 93:37": "“Metaphysics and the Perennial Philosophy” •",
+                            "verse 93:38": "“An Introduction to Islam” •",
+                            "verse 93:39": "“The Universality of the Quran” •",
+                            "verse 93:40": "Private Talks Books",
+                            "verse 93:41": "without Quranic Ayaat• Collected Poems• Ancient Beliefs and Modern Superstitions• The Eleventh Hour• The Secret of ShakespeareArticles without Quranic Ayaat• “Signs of the Times”: Studies in Comparative Religions 1970 Winter• “Ibn Aliwah” Encyclopedia of Islam, Second Edition• “Kabd” Encyclopedia of Islam, Second Edition Books"
+                        }
+                    },
+                    "6": {
+                        "Mufti Muhammad Taqi Uthmani": {
+                            "verse 93:1": "I swear by the forenoon,",
+                            "verse 93:2": "and by the night when it becomes peaceful,",
+                            "verse 93:3": "your Lord (O Prophet,) has neither forsaken you, nor has become displeased.",
+                            "verse 93:4": "Surely the Hereafter is much better for you than the present life.",
+                            "verse 93:5": "And of course, your Lord will give you so much that you will be pleased.",
+                            "verse 93:6": "Did He not find you an orphan, and give you shelter?",
+                            "verse 93:7": "And He found you unaware of the way (the Sharī‘ah ), then He guided you.",
+                            "verse 93:8": "and He found you in need, then made you need-free.",
+                            "verse 93:9": "Therefore, as for orphan, do not oppress him,",
+                            "verse 93:10": "and as for the beggar, do not scold him.",
+                            "verse 93:11": "And about the bounty of your Lord, do talk."
+                        }
+                    },
+                    "7": {
+                        "Royal Aal al-Bayt Institute Translation": {
+                            "verse 93:1": "By the forenoon,",
+                            "verse 93:2": "and",
+                            "verse 93:3": "the night when it is still.",
+                            "verse 93:4": "Your Lord has neither forsaken you, nor does He hate you.",
+                            "verse 93:5": "And verily the Hereafter shall be better for you than the first .",
+                            "verse 93:6": "And verily your Lord shall give you and you shall be satisfied.",
+                            "verse 93:7": "Did He not find you an orphan and shelter you?",
+                            "verse 93:8": "And did He not find you erring and guided you?",
+                            "verse 93:9": "And did He not find you needy and enrich you?",
+                            "verse 93:10": "So, as for the orphan, do not oppress ,",
+                            "verse 93:11": "and as for the beggar, do not drive",
+                            "verse 93:12": "away,",
+                            "verse 93:13": "and as for your Lord’s grace, proclaim .",
+                            "verse 93:14": "."
+                        }
+                    },
+                    "8": {
+                        "Recitations of Ibrahim walk from saheeh international": {
+                            "verse 93:1": "By the growing morning bright (when the sun gains height and spreads its radiance), Or (O My Esteemed Beloved,) I swear by (your holy face glowing like) the growing morning bright, (the radiant face, whose effulgence has illumined the dark souls,) Or By (the growing sunshine of your Messengership rising like) the morning bright (whose radiance has replaced the darkness of ignorance with the enlightenment of guidance,)",
+                            "verse 93:2": "And by the night when it covers up, Or (O My Esteemed Beloved,) I swear by (your fragrant tresses spread like) the sprawling murky night (over your effulgent face and shoulders,) Or By (the veil of your essence that is keeping under layered covers your real nucleus of radiance like) the dark night when it envelops,",
+                            "verse 93:3": "(Ever since He has chosen you,) your Lord has not forsaken you.",
+                            "verse 93:4": "Indeed, every following hour is a better (source of eminence and exaltation) for you than the preceding one.",
+                            "verse 93:5": "And soon your Lord shall bestow upon you (so much) that you will be well-pleased.",
+                            "verse 93:6": "(O Beloved!) Did He not find you an orphan, and then provided you (a dignifying and graceful) abode? Or Did He not find you (compassionate) and provided (in your person) a shelter for orphans?",
+                            "verse 93:7": "And He found you engrossed and lost in His love and then made you achieve the coveted objective.",
+                            "verse 93:8": "And He found you seeking (closeness with your Lord), and (then blessed you with the pleasure of His sight and) freed you of every need (forever).",
+                            "verse 93:9": "So, never should you be strict with any orphan,",
+                            "verse 93:10": "Nor reproach any beggar (seeking help at your door),",
+                            "verse 93:11": "And proclaim (well) the bounties of your Lord."
+                        }
+                    }
+                }
+            },
+            "finnish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "Kautta päivän varhaishetkien,",
+                            "verse 93:2": "kautta yön, joka levittää pimeyttään!",
+                            "verse 93:3": "Herrasi ei ole sinua hylännyt eikä ole sinuun tyytymätön;",
+                            "verse 93:4": "totisesti on se, mikä tulee, sinulle parempaa kuin se, mikä on mennyttä,",
+                            "verse 93:5": "ja totisesti on Herrasi aikanaan oleva sinulle antelias, niin että olet tyytyväinen.",
+                            "verse 93:6": "Eikö Hän löytänyt sinut orpona ja antanut sinulle suojaa?",
+                            "verse 93:7": "Hän löysi sinut eksyksistä ja ohjasi sinua;",
+                            "verse 93:8": "Hän tapasi sinut köyhissä oloissa ja teki sinusta varakkaan miehen.",
+                            "verse 93:9": "Mitä siis orpoon tulee, älä häntä sorra,",
+                            "verse 93:10": "mitä kerjäläiseen, älä häntä nuhtele,",
+                            "verse 93:11": "ja mitä Herrasi siunaukseen, kerro siitä edelleenkin."
+                        }
+                    }
+                }
+            },
+            "french": {
+                "translators": {
+                    "1": {
+                        "Jean-Louis Michon": {
+                            "verse 93:1": "Par la clarté du matin !",
+                            "verse 93:2": "Par la nuit, quand elle est calme !",
+                            "verse 93:3": "Ton Seigneur ne t'a ni abandonné, ni repoussé.",
+                            "verse 93:4": "Certes, la vie future est meilleure pour toi que la présente.",
+                            "verse 93:5": "Le jour viendra où ton Seigneur t'accordera Ses dons et où tu seras satisfait.",
+                            "verse 93:6": "Ne t'a-t-Il pas trouvé orphelin et, alors, procuré un refuge ?",
+                            "verse 93:7": "Ne t'a-t-Il pas trouvé errant et, alors, guidé ?",
+                            "verse 93:8": "Ne t'a-t-Il pas trouvé démuni et, alors, enrichi ?",
+                            "verse 93:9": "L'orphelin, ne le traite donc pas avec dureté,",
+                            "verse 93:10": "le mendiant, ne l'éconduis donc pas,",
+                            "verse 93:11": "et les bienfaits de ton Seigneur, proclame-les ! pas,"
+                        }
+                    },
+                    "2": {
+                        "Muhammad Hamidullah ": {
+                            "verse 93:1": "Par le Jour Montant !",
+                            "verse 93:2": "Et par la nuit quand elle couvre tout !",
+                            "verse 93:3": "Ton Seigneur ne t’a ni abandonné, ni détesté.",
+                            "verse 93:4": "La vie dernière t’est, certes, meilleure que la vie présente.",
+                            "verse 93:5": "Ton Seigneur t’accordera certes [Ses faveurs], et alors tu seras satisfait.",
+                            "verse 93:6": "Ne t’a-t-Il pas trouvé orphelin ? Alors Il t’a accueilli !",
+                            "verse 93:7": "Ne t’a-t-Il pas trouvé égaré ? Alors Il t’a guidé.",
+                            "verse 93:8": "Ne t’a-t-Il pas trouvé pauvre ? Alors Il t’a enrichi.",
+                            "verse 93:9": "Quant à l’orphelin, donc, ne le maltraite pas.",
+                            "verse 93:10": "Quant au demandeur , ne le repousse pas.",
+                            "verse 93:11": "Et quant au bienfait de ton Seigneur, proclame-le."
+                        }
+                    }
+                }
+            },
+            "german": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "Beim Vormittage,",
+                            "verse 93:2": "Und bei der Nacht, wenn sie am stillsten ist,",
+                            "verse 93:3": "Dein Herr hat dich nicht verlassen, noch ist Er böse.",
+                            "verse 93:4": "Wahrlich, jede (Stunde), die kommt, wird besser für dich sein als die, die (ihr) vorausging.",
+                            "verse 93:5": "Und fürwahr, dein Herr wird dir geben und du wirst wohlzufrieden sein.",
+                            "verse 93:6": "Fand Er dich nicht als Waise und gab (dir) Obdach?",
+                            "verse 93:7": "Er fand dich irrend (in deiner Sehnsucht nach Ihm) und führte (dich) richtig.",
+                            "verse 93:8": "Und Er fand dich in Armut und machte (dich) reich.",
+                            "verse 93:9": "Darum bedrücke nicht die Waise,",
+                            "verse 93:10": "Und schilt nicht den Bettler,",
+                            "verse 93:11": "Und erzähle von der Gnade deines Herrn."
+                        }
+                    }
+                }
+            },
+            "hindi": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "¼,s jlwy½ igj fnu p<+s dh d+le",
+                            "verse 93:2": "vkSj jkr dh tc ¼pht+ksa dks½ Nqik ys",
+                            "verse 93:3": "fd rqEgkjk ijojfnxkj u rqedks NksM+ cSBk vkSj ¼u rqels½ ukjkt+ gqvk",
+                            "verse 93:4": "vkSj rqEgkjs okLrs vk[+ksjr nqfu;k ls ;d+huh dgha csgrj gS",
+                            "verse 93:5": "vkSj rqEgkjk ijojfnxkj vud+jhc bl d+nj vrk djsxk fd rqe [+kq’k gks tkvks",
+                            "verse 93:6": "D;k mlus rqEgsa ;rhe ikdj ¼vcw rkfyc dh½ iukg u nh ¼t+:j nh½",
+                            "verse 93:7": "vkSj rqedks ,gdke ls ukokfdQ+ ns[kk rks eaft+ys ed+lwn rd igq¡pk fn;k",
+                            "verse 93:8": "vkSj rqedks raxnLr ns[kdj x+uh dj fn;k",
+                            "verse 93:9": "rks rqe Hkh ;rhe ij flre u djuk",
+                            "verse 93:10": "ek¡xus okys dks f>M+dh u nsuk",
+                            "verse 93:11": "vkSj vius ijojfnxkj dh usverksa dk ft+dz djrs jguk"
+                        }
+                    }
+                }
+            },
+            "indonesian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "Demi waktu matahari sepenggalahan naik,",
+                            "verse 93:2": "dan demi malam apabila telah sunyi,",
+                            "verse 93:3": "Tuhanmu tiada meninggalkan kamu dan tiada (pula) benci kepadamu,",
+                            "verse 93:4": "dan sesungguhnya akhir itu lebih baik bagimu dari permulaan.",
+                            "verse 93:5": "Dan kelak Tuhanmu pasti memberikan karunia-Nya kepadamu, lalu (hati) kamu menjadi puas.",
+                            "verse 93:6": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungimu.",
+                            "verse 93:7": "Dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk.",
+                            "verse 93:8": "Dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan.",
+                            "verse 93:9": "Adapun terhadap anak yatim maka janganlah kamu berlaku sewenang-wenang.",
+                            "verse 93:10": "Dan terhadap orang yang minta-minta maka janganlah kamu menghardiknya.",
+                            "verse 93:11": "Dan terhadap nikmat Tuhanmu maka hendaklah kamu menyebut-nyebutnya (dengan bersyukur)."
+                        }
+                    }
+                }
+            },
+            "italian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "Per la luce del mattino,",
+                            "verse 93:2": "per la notte quando si addensa:",
+                            "verse 93:3": "il tuo Signore non ti ha abbandonato e non ti disprezza",
+                            "verse 93:4": "e per te l'altra vita sarà migliore della precedente.",
+                            "verse 93:5": "Il tuo Signore ti darà [in abbondanza] e ne sarai soddisfatto .",
+                            "verse 93:6": "Non ti ha trovato orfano e ti ha dato rifugio ?",
+                            "verse 93:7": "Non ti ha trovato smarrito e ti ha dato la guida?",
+                            "verse 93:8": "Non ti ha trovato povero e ti ha arricchito ?",
+                            "verse 93:9": "Dunque non opprimere l'orfano,",
+                            "verse 93:10": "non respingere il mendicante,",
+                            "verse 93:11": "e proclama la grazia del tuo Signore."
+                        }
+                    }
+                }
+            },
+            "japanese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "朝（の輝き）において，",
+                            "verse 93:2": "静寂な夜において（誓う）。",
+                            "verse 93:3": "主は，あなたを見捨てられず，憎まれた訳でもない。",
+                            "verse 93:4": "本当に来世（将来）は，あなたにとって現世（現在）より，もっと良いのである。",
+                            "verse 93:5": "やがて主はあなたの満足するものを御授けになる。",
+                            "verse 93:6": "かれは孤児のあなたを見付けられ，庇護なされたではないか。",
+                            "verse 93:7": "かれはさ迷っていたあなたを見付けて，導きを与え。",
+                            "verse 93:8": "また貧しいあなたを見付けて，裕福になされたではないか。",
+                            "verse 93:9": "だから孤児を虐げてはならない。",
+                            "verse 93:10": "請う者を揆ね付けてはならない。",
+                            "verse 93:11": "あなたの主の恩恵を宣べ伝えるがいい。 請う者を揆ね付けてはならない。"
+                        }
+                    }
+                }
+            },
+            "korean": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "아침을 두고 맹세하고",
+                            "verse 93:2": "어둠이 짙어지는 밤을 두고 맹세하사",
+                            "verse 93:3": "주님께서 그대를 버리지 아니했으며 미워하지도 않으시니라",
+                            "verse 93:4": "실로 그대에게는 내세가 현세보다 나으리니",
+                            "verse 93:5": "주님께서 그대에게 은혜를 베풀것이매 그대는 이로하여 기뻐하리라",
+                            "verse 93:6": "그분은 고아인 그대를 발견하여 그대를 보호하지 아니 했더뇨",
+                            "verse 93:7": "그분은 방황하는 그대를 발견하여 그대를 인도하지 아니 했더 뇨",
+                            "verse 93:8": "그분은 가난했던 그대를 부유하게 하여 주지 아니 했더뇨",
+                            "verse 93:9": "그러므로 고아들을 거칠게 대하지말며",
+                            "verse 93:10": "구하는 자에게 거절하지 말고",
+                            "verse 93:11": "그리고 주님의 은혜를 이야기 하라"
+                        }
+                    }
+                }
+            },
+            "kurdish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "سوێند به چێشته‌نگاو (کاتێك خۆر به‌رز ده‌بێته‌وه‌و کاتی جوڵه‌و چالاکیه‌).",
+                            "verse 93:2": "سوێند به شه‌و کاتێك به‌تاریکیه‌که‌ی زه‌وی داده‌پۆشێت.",
+                            "verse 93:3": "په‌روه‌ردگارت ده‌ستبه‌رداری تۆ نه‌بووه‌و وازی له تۆ نه‌هێناوه‌و خه‌شمی لێ نه‌گرتوویت (ماوه‌یه‌ك وه‌حی نه‌هات بۆ پێغه‌مبه‌ر صلی الله علیه وسلم کافرانی قوڕه‌یش وتیان، په‌روه‌ردگاری محمد وازی لێ هێناوه‌، ئیتر خوای گه‌وره به‌درۆی خسته‌وه‌).",
+                            "verse 93:4": "بێگومان قیامه‌ت و دواڕۆژ چاکتره بۆ تۆ له دنیا.",
+                            "verse 93:5": "له ئاینده‌دا په‌روه‌ردگارت ئه‌وه‌نده نازو نیعمه‌تت پێده‌به‌خشێت که زۆر پێی ڕازی و خۆشنوود ده‌بیت.",
+                            "verse 93:6": "ئایا په‌روه‌ردگارت نه‌یبینیت به هه‌تیوی و خێرا ده‌رووی لێکردیته‌وه و لانه‌ی بۆ سازاندیت و حه‌واندیتیه‌وه‌؟!",
+                            "verse 93:7": "ئه‌ی سه‌رگه‌ردان نه‌بوویت و نه‌ت ده‌زانی چی بکه‌یت، هیدایه‌تی دایت و ڕێنموویی کردیت؟!",
+                            "verse 93:8": "ئه‌ی نه‌یبینیت که هه‌ژارو نه‌داریت، جا ماڵ و سامانی پێبه‌خشیت و ده‌وڵه‌مه‌ندی کردیت و بێ نیازی کردیت؟!",
+                            "verse 93:9": "که‌واته تۆش (ئه‌ی پێغه‌مبه‌ر صلی الله علیه وسلم، ئه‌ی ئیماندار) هه‌تیو مه‌چه‌وسێنه‌ره‌وه‌و دڵی مه‌ڕه‌نجێنه‌.",
+                            "verse 93:10": "هه‌ڵمه‌شاخێ به هه‌ژارو داماوو سواڵکه‌راندا.",
+                            "verse 93:11": "(به‌ڵکو) ده‌رباره‌ی نازو نیعمه‌ته‌کانی په‌روه‌ردگارت هه‌میشه بدوێ و باسیان بکه له جێی خۆیاندا به‌کاریان بهێنه‌."
+                        }
+                    }
+                }
+            },
+            "malay": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "Demi waktu Dhuha;",
+                            "verse 93:2": "Dan malam apabila ia sunyi-sepi;",
+                            "verse 93:3": "(Bahawa) Tuhanmu (wahai Muhammad) tidak meninggalkanmu dan Dia tidak benci (kepadamu, sebagaimana yang dituduh oleh kaum musyrik).",
+                            "verse 93:4": "Dan sesungguhnya kesudahan keaadaanmu adalah lebih baik bagimu daripada permulaannya.",
+                            "verse 93:5": "Dan sesungguhnya Tuhanmu akan memberikanmu (kejayaan dan kebahagiaan di dunia dan di akhirat) sehingga engkau reda (berpuas hati).",
+                            "verse 93:6": "Bukankah Dia mendapati engkau yatim piatu, lalu Dia memberikan perlindungan?",
+                            "verse 93:7": "Dan didapatiNya engkau mencari-cari (jalan yang benar), lalu Dia memberikan hidayat petunjuk (dengan wahyu Al-Quran)?",
+                            "verse 93:8": "Dan didapatiNya engkau miskin, lalu Dia memberikan kekayaan?",
+                            "verse 93:9": "Oleh itu, adapun anak yatim maka janganlah engkau berlaku kasar terhadapnya,",
+                            "verse 93:10": "Adapun orang yang meminta (bantuan pimpinan) maka janganlah engkau tengking herdik;",
+                            "verse 93:11": "Adapun nikmat Tuhanmu, maka hendaklah engkau sebut-sebutkan (dan zahirkan) sebagai bersyukur kepadaNya."
+                        }
+                    }
+                }
+            },
+            "persian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "قسم به روز در آن هنگام كه آفتاب برآيد (و همه جا را فراگيرد)،",
+                            "verse 93:2": "و سوگند به شب در آن هنگام كه آرام گيرد،",
+                            "verse 93:3": "كه خداوند هرگز تو را وانگذاشته و مورد خشم قرار نداده است!",
+                            "verse 93:4": "و مسلما آخرت براى تو از دنيا بهتر است!",
+                            "verse 93:5": "و بزودى پروردگارت آنقدر به تو عطا خواهد كرد كه خشنود شوى!",
+                            "verse 93:6": "آيا او تو را يتيم نيافت و پناه داد؟!",
+                            "verse 93:7": "و تو را گمشده يافت و هدايت كرد،",
+                            "verse 93:8": "و تو را فقير يافت و بى‏نياز نمود،",
+                            "verse 93:9": "حال كه چنين است يتيم را تحقير مكن،",
+                            "verse 93:10": "و سؤال‏كننده را از خود مران،",
+                            "verse 93:11": "و نعمتهاى پروردگارت را بازگو كن!"
+                        }
+                    }
+                }
+            },
+            "portuguese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "Pelas horas da manhã,",
+                            "verse 93:2": "E pela noite, quando é serena,",
+                            "verse 93:3": "Que o teu Senhor não te abandonou, nem te odiou.",
+                            "verse 93:4": "E sem dúvida que a outra vida será melhor, para ti, do que a presente.",
+                            "verse 93:5": "Logo o teu Senhor te agraciará, de um modo que te satisfaça.",
+                            "verse 93:6": "Porventura, não te encontrou órgão e te amparou?",
+                            "verse 93:7": "Não te encontrou extraviado e te encaminhou?",
+                            "verse 93:8": "Não te achou necessitado e te enriqueceu?",
+                            "verse 93:9": "Portanto, não maltrates o órfão,",
+                            "verse 93:10": "Nem tampouco repudies o mendigo,",
+                            "verse 93:11": "Mas divulga a mercê do teu Senhor, em teu discurso."
+                        }
+                    }
+                }
+            },
+            "romanian": {
+                "translators": {
+                    "1": {
+                        "Lucrarea (traducere úi editare) a fost realizată de către": {
+                            "verse 93:1": "Pe ziua luminoasã",
+                            "verse 93:2": "Și pe noapte, când se întunecã!",
+                            "verse 93:3": "Domnul tãu nu te-a pãrãsit și nu te urãște!",
+                            "verse 93:4": "Viața de Apoi va fi pentru tine mai bunã decât prima!",
+                            "verse 93:5": "Și Domnul tãu îți va dãrui și vei fi tu mulțumit!",
+                            "verse 93:6": "Oare nu te-a gãsit El orfan și ți-a dat adãpost?",
+                            "verse 93:7": "Nu te-a gãsit pe tine nepãsãtor și te-a cãlãuzit?",
+                            "verse 93:8": "Nu te-a gãsit pe tine sãrman și te-a fãcut bogat?",
+                            "verse 93:9": "Cât despre orfan, pe el nu-l oprima!",
+                            "verse 93:10": "Cât despre cel care cere, pe el nu-l alunga!",
+                            "verse 93:11": "Iar cât despre îndurarea Domnului tãu, despre ea vorbește! alunga!"
+                        }
+                    },
+                    "2": {
+                        "George Grigore, Coranul": {
+                            "verse 93:1": "Pe lumina zilei!",
+                            "verse 93:2": "Pe noaptea ce învăluie pământul!",
+                            "verse 93:3": "Domnul tău nici nu te-a părăsit şi nici nu te-a urât!",
+                            "verse 93:4": "Pentru tine, mai bună va fi Viaţa de Apoi decât Viaţa de Acum!",
+                            "verse 93:5": "Din darurile Sale Domnul tău îţi va dărui, iar tu mulţumit vei fi.",
+                            "verse 93:6": "Nu te-a aflat El orfan şi te-a adăpostit?",
+                            "verse 93:7": "Rătăcitor te-a aflat şi te-a călăuzit?",
+                            "verse 93:8": "Sărac te-a aflat şi te-a îmbogăţit?",
+                            "verse 93:9": "Orfanul, tu să nu-l oropseşti!",
+                            "verse 93:10": "Cerşetorul, tu să nu-l alungi!",
+                            "verse 93:11": "De harul Domnului tău, necurmat să povesteşti! alungi!"
+                        }
+                    }
+                }
+            },
+            "russian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "В знак (ореола) утреннего света,",
+                            "verse 93:2": "В знак все темнеющего крова ночи, —",
+                            "verse 93:3": "Тебя Господь твой не оставил,Тебя не разлюбил Владыка твой.",
+                            "verse 93:4": "И знай, что каждый будущий моментСчастливей для тебя,чем предыдущий2328а.",
+                            "verse 93:5": "И скоро твой Господь пошлет тебеТо, чем (безмерно) будешь ты доволен.",
+                            "verse 93:6": "Неужто не нашел тебя Он сиротой?Не дал приюта (и заботы)?",
+                            "verse 93:7": "Блуждал (в неведении) ты,Но разве не направил Он тебяпо праведной стезе?",
+                            "verse 93:8": "В лишениях тебя увидев,Он разве не обогатил тебя?",
+                            "verse 93:9": "А потому ты сироту не притесняй,",
+                            "verse 93:10": "Просящего, (не выслушав), не отгоняй",
+                            "verse 93:11": "И возвещай всему и вся о мудростиАллаха! отгоняй"
+                        }
+                    }
+                }
+            },
+            "spanish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "¡Por la mañana!",
+                            "verse 93:2": "¡Por la noche cuando reina la calma!",
+                            "verse 93:3": "Tu Señor no te ha abonadonado ni aborrecido",
+                            "verse 93:4": "Sí, la otra vida será mejor para ti que ésta.",
+                            "verse 93:5": "Tu Señor te dará y quedarás satisfecho.",
+                            "verse 93:6": "¿No te encontró huérfano y te recogió?",
+                            "verse 93:7": "¿No te encontró extraviado y te dirigió?",
+                            "verse 93:8": "¿No te encontró pobre y te enriqueció?",
+                            "verse 93:9": "En cuanto al huérfano, ¡no le oprimas!",
+                            "verse 93:10": "Y en cuanto al mendigo, ¡no le rechaces!",
+                            "verse 93:11": "Y en cuanto a la gracia de tu Señor, ¡publícala!"
+                        }
+                    }
+                }
+            },
+            "tamil": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "முற்பகல் மீது சத்தியமாக",
+                            "verse 93:2": "ஒடுங்கிக் கொள்ளும் இரவின் மீது சத்தியமாக-",
+                            "verse 93:3": "உம்முடைய இறைவன் உம்மைக் கை விடவுமில்லை; அவன் (உம்மை) வெறுக்கவுமில்லை.",
+                            "verse 93:4": "மேலும் பிந்தியது (மறுமை) முந்தியதை (இம்மையை) விட உமக்கு மேலானதாகும்.",
+                            "verse 93:5": "இன்னும், உம்முடைய இறைவன் வெகு சீக்கிரம் உமக்கு (உயர் பதவிகளைக்) கொடுப்பான்; அப்பொழுது நீர் திருப்தியடைவீர்.",
+                            "verse 93:6": "(நபியே!) அவன் உம்மை அநாதையாகக் கண்டு, அப்பால் (உமக்குப்) புகலிடமளிக்கவில்லையா?",
+                            "verse 93:7": "இன்னும், உம்மை வழியற்றவராகக் கண்டு அவன், (உம்மை) நேர்வழியில் செலுத்தினான்.",
+                            "verse 93:8": "மேலும், அவன் உம்மைத் தேவையுடையவராகக்கண்டு, (உம்மைச் செல்வத்தால்) தேவையில்லாதவராக்கினான்.",
+                            "verse 93:9": "எனவே, நீர் அநாதையைக் கடிந்து கொள்ளாதீர்.",
+                            "verse 93:10": "யாசிப்போரை விரட்டாதீர்.",
+                            "verse 93:11": "மேலும், உம்முடைய இறைவனின் அருட்கொடையைப் பற்றி (பிறருக்கு) அறிவித்துக் கொண்டிருப்பீராக."
+                        }
+                    }
+                }
+            },
+            "thai": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "ขอสาบานด้วยเวลาสาย",
+                            "verse 93:2": "และด้วยเวลากลางคืนเมื่อมันมืด และสงัดเงียบ",
+                            "verse 93:3": "พระเจ้าของเจ้ามิได้ทรงทอดทิ้งเจ้า และมิได้ทรงโกรธเคืองเจ้า",
+                            "verse 93:4": "และแน่นอนเบื้องปลายเป็นการดียิ่งแก่เจ้ากว่าเบื้องต้น",
+                            "verse 93:5": "และความแน่นอนพระเจ้าของเจ้าจะให้แก่เจ้าจนกว่าจะพอใจ",
+                            "verse 93:6": "พระองค์มิได้ทรงพบเจ้าเป็นกำพร้าแล้วทรงให้ที่พึ่งดอกหรือ ?",
+                            "verse 93:7": "และทรงพบเจ้าระเหเร่ร่อน แล้วก็ทรงชี้แนะทาง (แก่เจ้า) ดอกหรือ ?",
+                            "verse 93:8": "และทรงพบเจ้าเป็นผู้ขัดสน แล้วให้มั่งคั่ง (แก่) เจ้าดอกหรือ ?",
+                            "verse 93:9": "ดังนั้นส่วนเด็กกำพร้าเจ้าอย่าข่มขี่",
+                            "verse 93:10": "และส่วนผู้เอ่ยขอนั้น เจ้าอย่าตวาดขับไล่",
+                            "verse 93:11": "และส่วนความโปรดปรานแห่งพระเจ้าของเจ้านั้น เจ้าจงแสดงออก"
+                        }
+                    }
+                }
+            },
+            "turkish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "Andolsun kuşluk vaktine",
+                            "verse 93:2": "Ve sükûna erdiğinde geceye ki,",
+                            "verse 93:3": "Rabbin seni bırakmadı ve sana darılmadı.",
+                            "verse 93:4": "Gerçekten senin için ahiret dünyadan daha hayırlıdır.",
+                            "verse 93:5": "Pek yakında Rabbin sana verecek de hoşnut olacaksın.",
+                            "verse 93:6": "O, seni yetim bulup barındırmadı mı?",
+                            "verse 93:7": "Şaşırmış bulup da yol göstermedi mi?",
+                            "verse 93:8": "Seni fakir bulup zengin etmedi mi?",
+                            "verse 93:9": "Öyleyse yetimi sakın ezme.",
+                            "verse 93:10": "El açıp isteyeni de sakın azarlama.",
+                            "verse 93:11": "Ve Rabbinin nimetini minnet ve şükranla an."
+                        }
+                    }
+                }
+            },
+            "urdu": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "آفتاب کی روشنی کی قسم",
+                            "verse 93:2": "قَسم ہے چاشت کے وقت کي (جب آفتاب بلند ہو کر اپنا نور پھيلاتا ہے) oيا:(اے حبيبِ مکرّم!) قَسم ہے چاشت (کي طرح آپ کے چہر? انور) کي (جس کي تاباني نے تاريک روحوں کو روشن کر ديا) oيا:قَسم ہے وقتِ چاشت (کي طرح آپ کے آفتابِ رِسالت کے بلند ہونے) کي (جس کے نور نے گمراہي کے اندھيروں کو اجالے سے بدل ديا)o",
+                            "verse 93:3": "اور قَسم ہے رات کي جب وہ چھا جائے?يا:(اے حبيبِ مکرّم!) قَسم ہے سياہ رات (کي طرح آپ کي زلفِ عنبريں) کي جب وہ (آپ کے رُخ زيبا يا شانوں پر) چھا جائے oيا:قَسم ہے رات (کي طرح آپ کے حجاب ذات) کي جب کہ وہ (آپ کے نورِ حقيقت کو کئي پردوں ميں) چھپائے ہوئے ہےo",
+                            "verse 93:4": "اور رات (کی تاریکی) کی جب چھا جائے",
+                            "verse 93:5": "کہ (اے محمد) تمہارے پروردگار نے نہ تو تم کو چھوڑا اور نہ( تم سے )ناراض ہوا",
+                            "verse 93:6": "آپ کے رب نے (جب سے آپ کو منتخب فرمايا ہے) آپ کو نہيں چھوڑا اور نہ ہي (جب سے آپ کو محبوب بنايا ہے) ناراض ہوا ہےo",
+                            "verse 93:7": "اور بيشک (ہر) بعد کي گھڑي آپ کے لئے پہلے سے بہتر (يعني باعثِ عظمت و رفعت) ہےo",
+                            "verse 93:8": "اور آخرت تمہارے لیے پہلی (حالت یعنی دنیا) سے کہیں بہتر ہے",
+                            "verse 93:9": "اور تمہیں پروردگار عنقریب وہ کچھ عطا فرمائے گا کہ تم خوش ہو جاؤ گے",
+                            "verse 93:10": "اور آپ کا رب عنقريب آپ کو (اتنا کچھ) عطا فرمائے گا کہ آپ راضي ہو جائيں گےo",
+                            "verse 93:11": "(اے حبيب!) کيا اس نے آپ کو يتيم نہيں پايا پھر اس نے (آپ کو معزّز و مکرّم) ٹھکانا ديا? يا- کيا اس نے آپ کو (مہربان) نہيں پايا پھر اس نے (آپ کے ذريعے) يتيموں کو ٹھکانا ديا??o",
+                            "verse 93:12": "بھلا اس نے تمہیں یتیم پا کر جگہ نہیں دی؟ (بیشک دی)",
+                            "verse 93:13": "اور رستے سے ناواقف دیکھا تو رستہ دکھایا",
+                            "verse 93:14": "اور اس نے آپ کو اپني محبت ميں خود رفتہ و گم پايا تو اس نے مقصود تک پہنچا ديا? يا- اور اس نے آپ کو بھٹکي ہوئي قوم کے درميان (رہنمائي فرمانے والا) پايا تو اس نے (انہيں آپ کے ذريعے) ہدايت دے دي??o",
+                            "verse 93:15": "اور اس نے آپ کو (وصالِ حق کا) حاجت مند پايا تو اس نے (اپني لذت ديد سے نواز کر ہميشہ کے لئے ہر طلب سے) بے نياز کر ديا? يا- اور اس نے آپ کو (جواد و کريم) پايا تو اس نے (آپ کے ذريعے) محتاجوں کو غني کر ديا??o? ان تينوں تراجم ميں يَتِيماً کو فَا?و?ي کا، ضآلًّا کو فَھَد?ي کا اور عائِلًا کو فَاَغن?ي کا مفعولِ مقدم قرار ديا ہے? (ملاحظہ ہو: التفسير الکبير، القرطبي، البحر المحيط، روح البيان، الشفاء اور شرح خفاجي)",
+                            "verse 93:16": "اور تنگ دست پایا تو غنی کر دیا",
+                            "verse 93:17": "تو تم بھی یتیم پر ستم نہ کرنا",
+                            "verse 93:18": "سو آپ بھي کسي يتيم پر سختي نہ فرمائيںo",
+                            "verse 93:19": "اور (اپنے در کے) کسي منگتے کو نہ جھڑکيںo",
+                            "verse 93:20": "اور مانگنے والے کو جھڑکی نہ دینا",
+                            "verse 93:21": "اور اپنے پروردگار کی نعمتوں کا بیان کرتے رہنا",
+                            "verse 93:22": "اور اپنے رب کي نعمتوں کا (خوب) تذکرہ کريںo رہنا"
+                        }
+                    }
+                }
+            },
+            "uzbek": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 93:1": "Чошгоҳ билан қасам.",
+                            "verse 93:2": "Сукунатга чўмган тун билан қасам.",
+                            "verse 93:3": "Роббинг сени тарк қилмади ва ғазаб ҳам қилмади.",
+                            "verse 93:4": "Ва, албатта, охират сен учун бу дунёдан яхшидир.",
+                            "verse 93:5": "Ва тезда Роббинг сенга ато қиладир ва сен рози бўлурсан.",
+                            "verse 93:6": "У сени етим топиб, жойлаб қўймадими?",
+                            "verse 93:7": "Ва У сени ҳайрон топиб, ҳидоятга бошламадими?",
+                            "verse 93:8": "Ва У сени камбағал топиб, бой қилмадими?",
+                            "verse 93:9": "Аммо етимга қаҳр қилма.",
+                            "verse 93:10": "Ва, аммо, «соил»га зажр қилма.",
+                            "verse 93:11": "Ва, аммо, Роббингнинг берган неъмати ҳақида сўзла."
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

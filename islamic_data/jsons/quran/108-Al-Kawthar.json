@@ -1,0 +1,391 @@
+{
+    "surah_name": "Al-Kawthar",
+    "surah_name_ar": "الكوثر",
+    "verses": {
+        "languages": {
+            "albanian": {
+                "translators": {
+                    "1": {
+                        "Efendi Nahi": {
+                            "verse 108:1": "Na, me të vërtetë, të kemi dhënë ty shumë të mira,",
+                            "verse 108:2": "andaj, bënë namaz për Zotin tënd dhe therr kurban.",
+                            "verse 108:3": "Me të vërtetë, ai që të urren ty, ai vetë është i cungët."
+                        }
+                    }
+                }
+            },
+            "azerbaijani": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "(Ya Peyğəmbər!) Həqiqətən, Biz sənə Kövsər (Cənnətdəki Kövsər irmağını və ya bol ne'mət, yaxud Qur'an, peyğəmbərlik) bəxş etdik!",
+                            "verse 108:2": "Ona görə də (bu ne'mətlərə şükür edərək) Rəbbin üçün namaz qıl və qurban kəs!",
+                            "verse 108:3": "(Ya Peyğəmbər! Oğlun Qasim, yaxud İbrahim vəfat etdiyi zaman sənə sonsuz, arxası kəsik, nəsli kəsilmiş deyən) sənin düşməninin (As ibn Vailin) özü sonsuzdur! (Sənin nəslin qiyamətə qədər törəyib artacaq, adına isə həmişə rəhmət oxunacaqdır!)"
+                        }
+                    }
+                }
+            },
+            "bosnian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "Mi smo ti, uistinu, mnogo dobro dali,",
+                            "verse 108:2": "zato se Gospodaru svome moli i kurban kolji,",
+                            "verse 108:3": "onaj koji tebe mrzi sigurno će on bez spomena ostati."
+                        }
+                    }
+                }
+            },
+            "bengali": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "নিশ্চয় আমি আপনাকে কাওসার দান করেছি।",
+                            "verse 108:2": "অতএব আপনার পালনকর্তার উদ্দেশ্যে নামায পড়ুন এবং কোরবানী করুন।",
+                            "verse 108:3": "যে আপনার শত্রু, সেই তো লেজকাটা, নির্বংশ। করুন।"
+                        }
+                    }
+                }
+            },
+            "bulgarian": {
+                "translators": {
+                    "1": {
+                        "Tzvetan Theophanov": {
+                            "verse 108:1": "Ние ти дадохме [о, Мухаммад реката] ал-Каусар.",
+                            "verse 108:2": "Затова отслужвай молитвата към своя Господ и [жертвено животно] коли!",
+                            "verse 108:3": "Твоят ненавистник - той е лишеният."
+                        }
+                    }
+                }
+            },
+            "chinese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "我確已賜你多福 ,",
+                            "verse 108:2": "故你應當為你的主而禮拜 ,并宰犧牲。",
+                            "verse 108:3": "怨恨你者 ,確是絕后的。 ,并宰犧牲。"
+                        }
+                    }
+                }
+            },
+            "czech": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "Hojnosti, dali jsme ti věru plnou míru,",
+                            "verse 108:2": "modli se proto k svému Pánu a přinášej mu obětinu!",
+                            "verse 108:3": "Vždyť ten, jenž nenávidí tě, bez mužských potomků je věru! obětinu!"
+                        }
+                    }
+                }
+            },
+            "dutch": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "Voorwaar, Wij hebben u in overvloed het goede gegeven.",
+                            "verse 108:2": "Bid daarom tot uw Heer en offer.",
+                            "verse 108:3": "Voorzeker, uw vijand zal uitsterven."
+                        }
+                    }
+                }
+            },
+            "english": {
+                "translators": {
+                    "1": {
+                        "Marmaduke Pickthall": {
+                            "verse 108:1": "Lo! We have given thee Abundance;",
+                            "verse 108:2": "So pray unto thy Lord, and sacrifice.",
+                            "verse 108:3": "Lo! it is thy insulter (and not thou) who is without posterity."
+                        }
+                    },
+                    "2": {
+                        "Abdullah Yusuf Ali": {
+                            "verse 108:1": "To thee have We granted the Fount (of Abundance).",
+                            "verse 108:2": "Therefore to thy Lord turn in Prayer and Sacrifice.",
+                            "verse 108:3": "For he who hateth thee, he will be cut off (from Future Hope)."
+                        }
+                    },
+                    "3": {
+                        "Arthur J. Arberry": {
+                            "verse 108:1": "Surely We have given thee abundance;",
+                            "verse 108:2": "so pray unto thy Lord and sacrifice.",
+                            "verse 108:3": "Surely he that hates thee, he is the one cut off."
+                        }
+                    },
+                    "4": {
+                        "Muhammad Asad": {
+                            "verse 108:1": "BEHOLD, We have bestowed upon thee good in abundance:",
+                            "verse 108:2": "hence, pray unto thy Sustainer ,",
+                            "verse 108:3": "and sacrifice [unto Him alone].",
+                            "verse 108:4": "Verily, he that hates thee has indeed been cut off [from all that is good]"
+                        }
+                    },
+                    "5": {
+                        "Martin Lings": {}
+                    },
+                    "6": {
+                        "Mufti Muhammad Taqi Uthmani": {
+                            "verse 108:1": "(O Prophet,) surely We have given to you Al-Kauthar.",
+                            "verse 108:2": "So, offer Salāh (prayer) to your Lord, and sacrifice.",
+                            "verse 108:3": "Surely it is your enemy whose traces are cut off."
+                        }
+                    },
+                    "7": {
+                        "Royal Aal al-Bayt Institute Translation": {
+                            "verse 108:1": "We have assuredly given you Abundance.",
+                            "verse 108:2": "So pray to your Lord and sacrifice.",
+                            "verse 108:3": "Indeed it is your antagonist who is the severed one."
+                        }
+                    },
+                    "8": {
+                        "Recitations of Ibrahim walk from saheeh international": {
+                            "verse 108:1": "Indeed, We have bestowed on you an infinite abundance (every kind of superiority, bliss and bounty).",
+                            "verse 108:2": "So pray to your Lord and offer sacrifice (a token of gratitude).",
+                            "verse 108:3": "Indeed, your enemy will remain childless and his race will be cut off."
+                        }
+                    }
+                }
+            },
+            "finnish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "Me olemme totisesti jakanut sinulle runsaasti hyvää.",
+                            "verse 108:2": "Jatka siis rukouksiasi, uhraa Herrallesi.",
+                            "verse 108:3": "Vihollisesi totisesti kuuluu niihin, joilta hyvä riistetään."
+                        }
+                    }
+                }
+            },
+            "french": {
+                "translators": {
+                    "1": {
+                        "Jean-Louis Michon": {
+                            "verse 108:1": "En vérité, Nous t'avons donné le Fleuve d'abondance.",
+                            "verse 108:2": "Prie donc ton Seigneur et sacrifie !",
+                            "verse 108:3": "Certes, celui qui te hait, c'est lui qui sera incapable de procréer."
+                        }
+                    },
+                    "2": {
+                        "Muhammad Hamidullah ": {
+                            "verse 108:1": "Nous t’avons certes, accordé l’Abondance.",
+                            "verse 108:2": "Accomplis la Salat pour ton Seigneur et sacrifie.",
+                            "verse 108:3": "Celui qui te hait sera certes, sans postérité."
+                        }
+                    }
+                }
+            },
+            "german": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "Wahrlich, Wir haben dir Fülle des Guten gegeben;",
+                            "verse 108:2": "So bete zu deinem Herrn und opfere.",
+                            "verse 108:3": "Fürwahr, es ist dein Feind, der ohne Nachkommenschaft sein soll."
+                        }
+                    }
+                }
+            },
+            "hindi": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "¼,s jlwy½ geusa rqedks dks dkSlj vrk fd;k]",
+                            "verse 108:2": "rks rqe vius ijojfnxkj dh uekt+ i<+k djks",
+                            "verse 108:3": "vkSj d+qckZuh fn;k djks cs’kd rqEgkjk nq’eu cs vkSykn jgsxk"
+                        }
+                    }
+                }
+            },
+            "indonesian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "Sesungguhnya Kami telah memberikan kepadamu sebuah sungai di surga.",
+                            "verse 108:2": "Maka dirikanlah salat karena Tuhanmu dan berkorbanlah.",
+                            "verse 108:3": "Sesungguhnya orang-orang yang membenci kamu dialah yang terputus."
+                        }
+                    }
+                }
+            },
+            "italian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "In verità ti abbiamo dato l'abbondanza .",
+                            "verse 108:2": "Esegui l'orazione per il tuo Signore e sacrifica !",
+                            "verse 108:3": "In verità sarà colui che ti odia a non avere seguito ."
+                        }
+                    }
+                }
+            },
+            "japanese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "本当にわれは，あなた（ムハソマド）に潤沢を授けた。",
+                            "verse 108:2": "さあ，あなたの主に礼拝し，犠牲を棒げなさい。",
+                            "verse 108:3": "本当にあなたを憎悪する者こそ，（将来の希望を）断たれるであろう。 さあ，あなたの主に礼拝し，犠牲を棒げなさい。"
+                        }
+                    }
+                }
+            },
+            "korean": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "하나님이 그대에게 풍성한 은혜를 베풀었나니",
+                            "verse 108:2": "주님께 기도하고 제물을 바 치라",
+                            "verse 108:3": "실로 그대의 적은 모든 희망 으로부터 단절된 자들이라"
+                        }
+                    }
+                }
+            },
+            "kurdish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "به‌ڕاستی ئێمه خێر و چاکه و خۆشی (هه‌ر دوو جیهان و ناوبانگی چاکه‌ی‎) تۆمان (محمد (صلی الله علیه وسلم) بێ ئه‌ندازه و بێ سنور کردوه (له هه‌موو جه‌رخ و زه‌مانێکدا).",
+                            "verse 108:2": "که‌واته نوێژ ته‌نها له‌به‌ر خوا و بۆ خوا و بۆ به‌ده‌ست هێنانی ڕه‌زامه‌ندی په‌روه‌ردگارت ئه‌جام بده‌و قوربانیش بکه (هه‌ر به‌و شێوه‌یه بۆ به‌ده‌ست هێنانی ڕه‌زامه‌ندی په‌روه‌ردگارت).",
+                            "verse 108:3": "په‌روه‌ردگارت)."
+                        }
+                    }
+                }
+            },
+            "malay": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "Sesungguhnya Kami telah mengurniakan kepadamu (wahai Muhammad) kebaikan yang banyak (di dunia dan di akhirat).",
+                            "verse 108:2": "Oleh itu, kerjakanlah sembahyang kerana Tuhanmu semata-mata dan sembelihlah korban (sebagai bersyukur).",
+                            "verse 108:3": "Sesungguhnya orang yang bencikan engkau, Dialah yang terputus (dari mendapat sebarang perkara yang diingininya)."
+                        }
+                    }
+                }
+            },
+            "persian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "ما به تو كوثر ( خير و بركت فراوان) عطا كرديم!",
+                            "verse 108:2": "پس براى پروردگارت نماز بخوان و قربانى كن!",
+                            "verse 108:3": "(و بدان) دشمن تو قطعا بريده‏نسل و بى‏عقب است!"
+                        }
+                    }
+                }
+            },
+            "portuguese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "Em verdade, agraciamos-te com a abundância.",
+                            "verse 108:2": "Reza, pois, ao teu Senhor, e faze sacrifício.",
+                            "verse 108:3": "Em verdade, quem te insultar não terá posteridade."
+                        }
+                    }
+                }
+            },
+            "romanian": {
+                "translators": {
+                    "1": {
+                        "Lucrarea (traducere úi editare) a fost realizată de către": {
+                            "verse 108:1": "Noi ți-am dat ție",
+                            "verse 108:2": "prisosințã .",
+                            "verse 108:3": "Deci împlinește Rugãciunea pentru Domnul tãu și jertfește!",
+                            "verse 108:4": "Cel ce te urãște va fi fãrã copii! jertfește!"
+                        }
+                    },
+                    "2": {
+                        "George Grigore, Coranul": {
+                            "verse 108:1": "Noi ţie ţi-am dăruit belşugul!",
+                            "verse 108:2": "Tu, roagă-te Domnului tău şi Lui îi jertfeşte,",
+                            "verse 108:3": "şi lipsit de urmaşi va fi cel care te urăşte! jertfeşte,"
+                        }
+                    }
+                }
+            },
+            "russian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "Все блага даровали Мы тебе.",
+                            "verse 108:2": "Так обрати же к Господу своимолитвы и жертвоприноси.",
+                            "verse 108:3": "Ведь тот, кто ненависть к тебе питает,Отвергнут будет (Им) навечно."
+                        }
+                    }
+                }
+            },
+            "spanish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "Te hemos dado la abundancia.",
+                            "verse 108:2": "Ora, pues, a tu Señor y ofrece sacrificios.",
+                            "verse 108:3": "Sí, es quien te odia el privado de posteridad."
+                        }
+                    }
+                }
+            },
+            "tamil": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "(நபியே!) நிச்சயமாக நாம் உமக்கு கவ்ஸர் (என்ற தடாகத்தை) கொடுத்திருக்கின்றோம்.",
+                            "verse 108:2": "எனவே, உம் இறைவனுக்கு நீர் தொழுது, குர்பானியும் கொடுப்பீராக.",
+                            "verse 108:3": "நிச்சயமாக உம்முடைய பகைவன் (எவனோ) அவன்தான் சந்ததியற்றவன்."
+                        }
+                    }
+                }
+            },
+            "thai": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "แท้จริงเราได้ประทานอัลเกาซัรแก่เจ้าแล้ว",
+                            "verse 108:2": "ดังนั้นเจ้าจงละหมาดเพื่อพระเจ้าของเจ้า และจงเชือดสัตว์พลี",
+                            "verse 108:3": "แท้จริงศัตรูของเจ้านั้นเขาเป็นผู้ถูกตัดขาด"
+                        }
+                    }
+                }
+            },
+            "turkish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "(Resûlum!) Kuşkusuz biz sana Kevser'i verdik.",
+                            "verse 108:2": "Şimdi sen Rabbine kulluk et ve kurban kes.",
+                            "verse 108:3": "Asıl sonu kesik olan, şüphesiz sana hınç besleyendir."
+                        }
+                    }
+                }
+            },
+            "urdu": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "(اے محمد) ہم نے تم کو کوثر عطا فرمائی ہے",
+                            "verse 108:2": "بيشک ہم نے آپ کو (ہر خير و فضيلت ميں) بے انتہا کثرت بخشي ہے?o? کوثر سے مراد حوض کوثر يا نہر جنت بھي ہے اور قرآن اور نبوت و حکمت بھي، فضائل و معجزات کي کثرت يا اصحاب و اتباع اور امت کي کثرت بھي مراد لي گئي ہے? رفعت ذکر اور خلق عظيم بھي مراد ہے اور دنيا و آخرت کي نعمتيں بھي، نصرت ال?ہيہ اور کثرت فتوحات بھي مراد ہيں اور روز قيامت مقام محمود اور شفاعت عظمي? بھي مراد لي گئي ہے?",
+                            "verse 108:3": "پس آپ اپنے رب کے لئے نماز پڑھا کريں اور قرباني ديا کريں (يہ ہدي? تشکرّ ہے)o",
+                            "verse 108:4": "تو اپنے پروردگار کے لیے نماز پڑھا کرو اور قربانی دیا کرو",
+                            "verse 108:5": "کچھ شک نہیں کہ تمہارا دشمن ہی بیاولاد رہے گا",
+                            "verse 108:6": "بيشک آپ کا دشمن ہي بے نسل اور بے نام و نشاں ہوگاo گا"
+                        }
+                    }
+                }
+            },
+            "uzbek": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 108:1": "Албатта, Биз сенга Кавсарни бердик.",
+                            "verse 108:2": "Бас, Роббингга намоз ўқи ва жонлик сўй.",
+                            "verse 108:3": "Албатта, сени ёмон кўриб, айбловчининг орқаси кесикдир."
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

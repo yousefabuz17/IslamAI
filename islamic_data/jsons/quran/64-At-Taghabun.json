@@ -1,0 +1,982 @@
+{
+    "surah_name": "At-Taghâbun",
+    "surah_name_ar": "التغابن",
+    "verses": {
+        "languages": {
+            "albanian": {
+                "translators": {
+                    "1": {
+                        "Efendi Nahi": {
+                            "verse 64:1": "Perëndinë e falenderon çka gjendet në qiej dhe çka gjendet në Tokë.",
+                            "verse 64:2": "Ai ju ka krijuar juve, e (ndonjëri) prej jush është mohues, e (disa) prej jush janë besimtarë: Cdo gjë që punoni ju, Perëndia e sheh mirë.",
+                            "verse 64:3": "Ai ka krijuar qiejt dhe Tokën në mënyrë të mrekullueshme, dhe Ai ju ka dhënë juve formën, dhe figurat tuaja i bënë të bukura dhe të gjithë do të ktheheni te Ai.",
+                            "verse 64:4": "Ai i di të gjitha gjërat që gjenden në qiej dhe në Tokë.",
+                            "verse 64:5": "A nuk ju kanë arritur lajmet e atyre që më parë nuk kanë besuar, dhe e kanë shijuar dënimin e veprimeve të tyre.",
+                            "verse 64:6": "ngase kur profetët e tyre vinin me dokumente të qarta, ata thoshin: “A njeriu (si ne) do të na tregojë rrugën?” Dhe nuk besuan, e u kthyen (prej këshillave); e Perëndisë nuk i nevojitet asgjë, Ai është i pavarur dhe i lavdishëm!",
+                            "verse 64:7": "Mohuesit kujtojnë se kurrsesi nuk do të ngjallen; thuaju atyre: “Po, për Zotin tim, me siguri do të ngjalleni dhe pastaj do të informoheni se ç’keni punuar!” – E, kjo për Perëndinë, është lehtë.",
+                            "verse 64:8": "Besoni në Perëndinë dhe në të Dërguarin e Tij dhe në dritën (Kur’anin) që ju kemi sjellë.",
+                            "verse 64:9": "Atë Ditë, kur Ai (Perëndia) do t’ju tubojë juve në Ditën e Kijametit, ajo është Dita e mashtrimit (ku shihen veprat e gabuara).",
+                            "verse 64:10": "E ata që nuk kanë besuar dhe i kanë mohuar dokumentet Tona – do të jenë banorë të zjarrit, në të do të qëndrojnë përherë.",
+                            "verse 64:11": "Nuk ngjan kurrfarë fatkeqësie pa lejen e Perëndisë, e ai që i beson Perëndisë, ia udhëzon (në rrugë të drejtë) zemrën e tij.",
+                            "verse 64:12": "Përuluni Perëndisë dhe Profetit të Tij; e nëse shmangeni ju, Profeti Ynë ka të vetmen detyrë që t’ju shpjegojë qartë.",
+                            "verse 64:13": "Perëndia është i vetmi Zot dhe vetëm te Perëndia le të mbështeten besimtarët.",
+                            "verse 64:14": "O besimtarë, me të vërtetë, edhe prej grave tuaja edhe prej fëmijëv tuaj keni armiqë, andaj ruajuni prej tyre! E nëse ju nuk ua shihin për të madhe (gabimet) dhe i harmonizoni marrëdhëniet dhe ua falni, (është mirësi), - e Perëndia, me të vërtetë, është falës dhe mëshirues.",
+                            "verse 64:15": "Pasuria juaj dhe fëmijët tuaj janë vetëm provë për ju, e te Perëndia shpërblimi është i madh;",
+                            "verse 64:16": "andaj druajuni Perëndisë sa të mundeni, dhe dëgjoni, dhe përuluni dhe shpenzoni (prej pasurisë suaj) për të mirën tuaj.",
+                            "verse 64:17": "Nëse i jepni hua të bukur Perëndisë, Ai ua kthen shumëfish atë dhe ua falë (gabimet).",
+                            "verse 64:18": "Ai është njohës i gjërave të dukshme dhe të padukshme, (Ai është) i Plotëfuqishëm dhe i Gjithëdijshëm."
+                        }
+                    }
+                }
+            },
+            "azerbaijani": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "Göylərdə və yerdə nə varsa, (hamısı) Allahı təqdis edib şə'ninə tə'riflər deyər.",
+                            "verse 64:2": "Sizin yaradan Odur.",
+                            "verse 64:3": "O, göyləri və yeri haqq-ədalətlə (yerli-yerində) xəlq etdi, sizə surət verdi, surətlərinizi də gözəl yaratdı.",
+                            "verse 64:4": "O, göylərdə və yerdə olanları da, sizin gizlində və aşkar da nə etdiyinizi də bilir.",
+                            "verse 64:5": "(Ey Məkkə müşrikləri!) Məgər sizdən əvvəl kafir olanların (əzaba düçar edilməsi) xəbəri sizə gəlib çatmadımı? Onlar öz gördükləri işlərin cəzasını dünyada daddılar.",
+                            "verse 64:6": "Cünki peyğəmbərləri onlara açıq-aşkar mö'cüzələr gətirir, onlar isə: \"Məgər bizi doğu yola (özümüz kimi adi) bir insanmı salacaqdır?!\" - deyərək (o peyğəmbərləri) inkar edir və (haqdan) üz döndərirlər.",
+                            "verse 64:7": "Kafir olanlar (öldükdən sonra) əsla dirildilməyəcəklərini iddia edirlər.",
+                            "verse 64:8": "Elə isə Allaha, Onun Peyğəmbərinə və nazil etdiyimiz nura (Qur'ana) iman gətirin! Allah etdiyimiz əməllərdən agahdır!",
+                            "verse 64:9": "Allahın sizi (haqq-hesab üçün) toplanmış gününə cəm edəcəyi gün - məhz o gün qarşılıqlı aldanma günüdür! (Həmin gün kafirlərin dünyaya uyaraq axirəti əldən verdiklərinə görə, bə'zi mö'minlərin də dünyada bacardıqlarından az yaxşı əməllər etdiklərinə görə aldanmaları bəlli olacaqdır).",
+                            "verse 64:10": "Kafir olub ayələrimizi yalan sayanlara gəldikdə isə, onlar cəhənnəmlikdirlər.",
+                            "verse 64:11": "Allahın izni olmadıqca (heç kəsə) heç bir müsibət üz verməz.",
+                            "verse 64:12": "Allaha itaət edin, Onun Peyğəmbərinə itaət edin; hər kəs (itaətdən) üz döndərsə, (bilsin ki) Peyğəmbərimizin öhdəsinə düşən yalnız açıq-aşkar təbliğdir! (O heç kəsi zorla iman gətirməyə məcbur edən deyildir).",
+                            "verse 64:13": "Allahdan başqa heç bir tanrı (mə'bud) yoxdur.",
+                            "verse 64:14": "Ey iman gətirənlər! Şübhəsiz ki, zövcələrinizdən və övladınızdan sizə düşmən olanlar vardır.",
+                            "verse 64:15": "Həqiqətən, mal-dövlətiniz və oğul-uşağınız (sizin üçün) ancaq bir imtahandır.",
+                            "verse 64:16": "Allahdan (Allahın əzabından) bacardığınız qədər qorxun.",
+                            "verse 64:17": "Əgər Allaha (Allah yolunda) gözəl (könül xoşluğu ilə) bir borc versəniz, (Allah) sizin üçün onun əvəzini qat-qat artırar və sizi bağışlayar.",
+                            "verse 64:18": "(Allah) gizlini də, aşkarı da biləndir, yenilməz qüdrət sahibi, hikmət sahibidir!"
+                        }
+                    }
+                }
+            },
+            "bosnian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "Ono što je na nebesima i ono što je na Zemlji hvali Allaha, Njemu - vlast i Njemu - pohvala; On sve može!",
+                            "verse 64:2": "On vas stvara, pa ste ili nevjernici ili vjernici.",
+                            "verse 64:3": "On je nebesa i Zemlju mudro stvorio, i On vam obličje daje, i likove vaše čini lijepim, i Njemu će se sve vratiti.",
+                            "verse 64:4": "On zna šta na nebesima i na Zemlji postoji i zna šta krijete i šta pokazujete; Allah zna svačije misli.",
+                            "verse 64:5": "Zar do vas nije doprla vijest o onima koji još davno nisu vjerovali, pa su kobnost svoga iskusili - a još ih i patnja nesnosna čeka -",
+                            "verse 64:6": "zato što su govorili kada su im poslanici njihovi jasne dokaze donosili: \"Zar da nas ljudi upućuju?\" I nisu vjerovali i glave su okretali; a Allahu niko nije potreban, Allah nije ni o kome ovisan, On je jedini hvale dostojan!",
+                            "verse 64:7": "Nevjernici tvrde da neće biti oživljeni.",
+                            "verse 64:8": "zato vjerujte u Allaha i Poslanika Njegova i u svjetlo koje objavljujemo, Allah dobro zna ono što vi radite.",
+                            "verse 64:9": "A onoga dana kada vas On na onome svijetu sakupi, to će biti dan kada će vam biti jasno da ste sami sebe obmanuli.",
+                            "verse 64:10": "A oni koji nisu vjerovali i koji su ajete naše poricali - biće stanovnici u vatri; u njoj će vječno ostati, a to će užasna sudbina biti!",
+                            "verse 64:11": "Nikakva nevolja se bez Allahove volje ne dogodi, a On će srce onoga koji u Allaha vjeruje uputiti - Allah sve dobro zna.",
+                            "verse 64:12": "I pokoravajte se Allahu i Poslaniku Njegovu; a ako leđa okrenete, pa - Poslanik Naš je jedino dužan da jasno objavljuje.",
+                            "verse 64:13": "Samo je Allah Bog! I neka se vjernici samo u Allaha pouzdaju!",
+                            "verse 64:14": "O vjernici, i među ženama vašim i djecom vašom, doista, imate neprijatelja, pa ih se pričuvajte! A ako preko toga pređete i opravdanje prihvatite i oprostite, pa - i Allah prašta i samilostan je.",
+                            "verse 64:15": "Imanja vaša i djeca vaša su samo iskušenje, a u Allaha je nagrada velika;",
+                            "verse 64:16": "zato se Allaha bojte koliko god možete, i slušajte i pokoravajte se i milostinju udjeljujte - za svoje dobro.",
+                            "verse 64:17": "Ako Allahu drage volje zajam date, On će vam ga mnogostruko vratiti i oprostiće vam, jer Allah je blagodaran i blag.",
+                            "verse 64:18": "Poznavalac je nevidljivog i vidljivog svijeta, Silni i Mudri."
+                        }
+                    }
+                }
+            },
+            "bengali": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "নভোমন্ডল ও ভূমন্ডলে যা কিছু আছে, সবই আল্লাহর পবিত্রতা ঘোষণা করে। রাজত্ব তাঁরই এবং প্রশংসা তাঁরই। তিনি সর্ববিষয়ে সর্বশক্তিমান।",
+                            "verse 64:2": "তিনিই তোমাদেরকে সৃষ্টি করেছেন, অতঃপর তোমাদের মধ্যে কেউ কাফের এবং কেউ মুমিন। তোমরা যা কর, আল্লাহ তা দেখেন।",
+                            "verse 64:3": "তিনি নভোমন্ডল ও ভূমন্ডলকে যথাযথভাবে সৃষ্টি করেছেন এবং তোমাদেরকে আকৃতি দান করেছেন, অতঃপর সুন্দর করেছেন তোমাদের আকৃতি। তাঁরই কাছে প্রত্যাবর্তন।",
+                            "verse 64:4": "নভোমন্ডল ও ভূমন্ডলে যা আছে, তিনি তা জানেন। তিনি আরও জানেন তোমরা যা গোপনে কর এবং যা প্রকাশ্যে কর। আল্লাহ অন্তরের বিষয়াদি সম্পর্কে সম্যক জ্ঞাত।",
+                            "verse 64:5": "তোমাদের পুর্বে যারা কাফের ছিল, তাদের বৃত্তান্ত কি তোমাদের কাছে পৌছেনি? তারা তাদের কর্মের শাস্তি আস্বাদন করেছে, এবং তাদের জন্যে রয়েছে যন্ত্রণাদায়ক শাস্তি।",
+                            "verse 64:6": "এটা এ কারণে যে, তাদের কাছে তাদের রসূলগণ প্রকাশ্য নিদর্শনাবলীসহ আগমন করলে তারা বলতঃ মানুষই কি আমাদেরকে পথপ্রদর্শন করবে? অতঃপর তারা কাফের হয়ে গেল এবং মুখ ফিরিয়ে নিল। এতে আল্লাহর কিছু আসে যায় না। আল্লাহ অমুখাপেক্ষী প্রশংসিত।",
+                            "verse 64:7": "কাফেররা দাবী করে যে, তারা কখনও পুনরুত্থিত হবে না। বলুন, অবশ্যই হবে, আমার পালনকর্তার কসম, তোমরা নিশ্চয় পুরুত্থিত হবে। অতঃপর তোমাদেরকে অবহিত করা হবে যা তোমরা করতে। এটা আল্লাহর পক্ষে সহজ।",
+                            "verse 64:8": "অতএব তোমরা আল্লাহ তাঁর রসূল এবং অবতীর্ন নূরের প্রতি বিশ্বাস স্থাপন কর। তোমরা যা কর, সে বিষয়ে আল্লাহ সম্যক অবগত।",
+                            "verse 64:9": "সেদিন অর্থাৎ, সমাবেশের দিন আল্লাহ তোমাদেরকে সমবেত করবেন। এ দিন হার-জিতের দিন। যে ব্যক্তি আল্লাহর প্রতি বিশ্বাস স্থাপন করে এবং সৎকর্ম সম্পাদন করে, আল্লাহ তার পাপসমূহ মোচন করবেন এবং তাকে জান্নাতে দাখিল করবেন। যার তলদেশে নির্ঝরিনীসমূহ প্রবাহিত হবে, তারা তথায় চিরকাল বসবাস করবে। এটাই মহাসাফল্য।",
+                            "verse 64:10": "আর যারা কাফের এবং আমার আয়াতসমূহকে মিথ্যা বলে, তারাই জাহান্নামের অধিবাসী, তারা তথায় অনন্তকাল থাকবে। কতই না মন্দ প্রত্যাবর্তনস্থল এটা।",
+                            "verse 64:11": "আল্লাহর নির্দেশ ব্যতিরেকে কোন বিপদ আসে না এবং যে আল্লাহর প্রতি বিশ্বাস করে, তিনি তার অন্তরকে সৎপথ প্রদর্শন করেন। আল্লাহ সর্ববিষয়ে সম্যক পরিজ্ঞাত।",
+                            "verse 64:12": "তোমরা আল্লাহর আনুগত্য কর এবং রসূলুল্লাহর আনুগত্য কর। যদি তোমরা মুখ ফিরিয়ে নাও, তবে আমার রসূলের দায়িত্ব কেবল খোলাখুলি পৌছে দেয়া।",
+                            "verse 64:13": "আল্লাহ তিনি ব্যতীত কোন মাবুদ নেই। অতএব মুমিনগণ আল্লাহর উপর ভরসা করুক।",
+                            "verse 64:14": "হে মুমিনগণ, তোমাদের কোন কোন স্ত্রী ও সন্তান-সন্ততি তোমাদের দুশমন। অতএব তাদের ব্যাপারে সতর্ক থাক। যদি মার্জনা কর, উপেক্ষা কর, এবং ক্ষমা কর, তবে আল্লাহ ক্ষমাশীল, করুনাময়।",
+                            "verse 64:15": "তোমাদের ধন-সম্পদ ও সন্তান-সন্ততি তো কেবল পরীক্ষাস্বরূপ। আর আল্লাহর কাছে রয়েছে মহাপুরস্কার।",
+                            "verse 64:16": "অতএব তোমরা যথাসাধ্য আল্লাহকে ভয় কর, শুন, আনুগত্য কর এবং ব্যয় কর। এটা তোমাদের জন্যে কল্যাণকর। যারা মনের কার্পন্য থেকে মুক্ত, তারাই সফলকাম।",
+                            "verse 64:17": "যদি তোমরা আল্লাহকে উত্তম ঋণ দান কর, তিনি তোমাদের জন্যে তা দ্বিগুণ করে দেবেন এবং তোমাদেরকে ক্ষমা করবেন। আল্লাহ গুণগ্রাহী, সহনশীল।",
+                            "verse 64:18": "তিনি দৃশ্য ও অদৃশ্যের জ্ঞানী, পরাক্রান্ত, প্রজ্ঞাময়। সহনশীল।"
+                        }
+                    }
+                }
+            },
+            "bulgarian": {
+                "translators": {
+                    "1": {
+                        "Tzvetan Theophanov": {
+                            "verse 64:1": "Всичко на небесата и всичко на земята прославя Аллах.",
+                            "verse 64:2": "Той е, Който ви сътвори.",
+                            "verse 64:3": "Той сътвори небесата и земята с мъдрост, и ви придаде образ, и направи образа ви превъзходен, и към Него е завръщането.",
+                            "verse 64:4": "Той знае всичко на небесата и на земята.",
+                            "verse 64:5": "Не стигна ли до вас вестта за онези, които не повярваха преди и вкусиха пагубността на своето дело? За тях има болезнено мъчение.",
+                            "verse 64:6": "Така е, техните пратеници им донасяха ясните знаци, а те казваха: Нима хора ще ни напътват? И не повярваха, и се отвърнаха.",
+                            "verse 64:7": "Неверниците твърдят, че не ще бъдат възкресени.",
+                            "verse 64:8": "Вярвайте в Аллах и в Неговия Пратеник, и в Светлината, която низпослахме! Сведущ е Аллах за вашите дела.",
+                            "verse 64:9": "Когато Той ви събере за Деня на събирането, това е Денят, в който ще се разкрие заблудата.",
+                            "verse 64:10": "А които не вярват и взимат за лъжа Нашите знамения, те са обитателите на Огъня, там ще пребивават вечно.",
+                            "verse 64:11": "Никоя беда не идва без позволението на Аллах.",
+                            "verse 64:12": "И се покорявайте на Аллах, и се покорявайте на Пратеника! А ако се отвърнете, за Пратеника Ни е дълг само ясното послание.",
+                            "verse 64:13": "Аллах! Няма друг Бог освен Него! Затова на Аллах да се уповават вярващите!",
+                            "verse 64:14": "О, вярващи, сред вашите съпруги и деца имате и врагове - пазете се от тях! А ако се въздържите и извините, и простите - Аллах е опрощаващ, милосърден.",
+                            "verse 64:15": "Вашите имоти и деца са изпитание.",
+                            "verse 64:16": "Затова бойте се от Аллах, колкото ви е по силите, и слушайте, и се покорявайте, и раздавайте за свое добро! А който се предпази от скъперничеството на своята душа - тези са сполучилите.",
+                            "verse 64:17": "Ако заемете хубав заем на Аллах, Той ще ви го умножи.",
+                            "verse 64:18": "Знаещия и неведомото, и явното, Всемогъщия, Премъдрия."
+                        }
+                    }
+                }
+            },
+            "chinese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "凡在天地間的，都讚頌真主超絕萬物。國權只歸他所有，讚頌只歸他享受，他對於萬事是全能的。",
+                            "verse 64:2": "他曾創造你們，但你們中有不信道的，有信道的；真主是鑒察你們的行為的。",
+                            "verse 64:3": "他曾本著真理創造天地，他曾以形像賦予你們，而使你們的形像優美，他是唯一的歸宿。",
+                            "verse 64:4": "他知道天地萬物，他知道你們所隱匿的和你們所表現的，真主是全知心事的。",
+                            "verse 64:5": "以前不信道的人們的消息，難道沒有達到你們嗎？那等人，曾嘗試他們的事情的惡果，他們將受痛苦的刑罰。",
+                            "verse 64:6": "這是因為他們族中的使者顯示他們許多明証，他們卻說：「難道凡人也能引道我們嗎？」故他們不信道而違背之。真主曾表示無求於他們的信仰，真主是無求的，是可頌的。",
+                            "verse 64:7": "不信道的人們，妄言他們絕不復活，你說：「不然！以我的主盟誓，你們必定復活，然後你們必定獲得關於你們的行為的報告，這對於真主是容易的。」",
+                            "verse 64:8": "故你們當信仰真主和使者，和他所降示的光明。真主是徹知你們的行為的。",
+                            "verse 64:9": "在那日，他將在聚會日集合你們；那是相欺之日。信仰真主，而且行善的人，他將解除他的罪惡，而且使他入下臨諸河的樂園，而永居其中，那確是偉大的成功。",
+                            "verse 64:10": "不信道，而且否認我的跡象的人們，是火獄的居民，他們將永居其中。那歸宿真惡劣！",
+                            "verse 64:11": "凡災難的發生，無一不是依真主的判決的。誰信真主，他將引導誰的心，真主是全知萬物的。",
+                            "verse 64:12": "你們當服從真主，當服從使者。如果你們違背命令，那末，我的使者，只負明白通知的責任。",
+                            "verse 64:13": "真主，除他外，絕無應受崇拜的，教信士們只信托真主。",
+                            "verse 64:14": "信道的人們啊！你們的妻子兒女，有一部份確是你們的敵人，故你們當謹防他們。如果你們恕饒他們，原諒他們，赦宥他們，（真主就赦宥你們），因為真主確是至赦的，確是至慈的。",
+                            "verse 64:15": "你們的財產和子嗣，只是一種考驗，真主那裡有重大的報酬。",
+                            "verse 64:16": "你們當量力地敬畏真主，你們當聽從他的教訓和命令，你們當施捨，那是有益於你們自己的。能戒除自身的貪吝者，確是成功的。",
+                            "verse 64:17": "如果你們以善債借給真主，他將加倍償還你們，而且赦宥你們。真主是善報的，是至容的。",
+                            "verse 64:18": "他是全知幽明的，是萬能的，是至睿的。 如果你們以善債借給真主，他將加倍償還你們，而且赦宥你們。真主是善報的，是至容的。"
+                        }
+                    }
+                }
+            },
+            "czech": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "Oslavuje Boha vše, co na nebesích je i na zemi; Jemu náleží království a Jemu náleží chvála a On mocný je nade věcmi všemi!",
+                            "verse 64:2": "On je ten, jenž vás stvořil; a mezi vámi jsou nevěřící a jsou mezi vámi věřící a Bůh jasně vidí vše, co konáte.",
+                            "verse 64:3": "Stvořil nebesa a zemi jako skutečnost vážnou, dal vám podobu a učinil podoby vaše krásnými; a u Něho je cíl konečný.",
+                            "verse 64:4": "On zná dobře vše, co na nebesích je i na zemi, On zná, co skrýváte i co najevo dáváte.",
+                            "verse 64:5": "Což nedostalo se vám zvěsti o těch, kdož před vámi nevěřili a okusili zlých následků jednání svého? A je očekává trest bolestný.",
+                            "verse 64:6": "A to proto, že přišli k nim poslové jejich s jasnými důkazy, ale oni řekli: \"Cožpak nás mají vést smrtelníci?\" A neuvěřili, zády se odvrátili a Bůh se bez nich obešel, vždyť Bůh je soběstačný a chvályhodný.",
+                            "verse 64:7": "A domnívají se ti, kdož jsou nevěřící, že nebudou vzkříšeni: Rci: \"Ba naopak, při Pánu mém, budete vskutku vzkříšeni a potom budete poučeni o tom, co jste dělali.",
+                            "verse 64:8": "Věřte tedy v Boha, posla Jeho i světlo, jež jsme vám seslali; Bůh dobře je zpraven o všem, co děláte.",
+                            "verse 64:9": "Den, kdy vás shromáždi pro den shromáždění, bude dnem vzájemného klamání.",
+                            "verse 64:10": "Ti však, kdož nevěřili a znamení Naše za lež prohlašovali, ti budou ohně obyvateli a budou v něm nesmrtelní.",
+                            "verse 64:11": "Pohroma žádná nepropukne jinak než s dovolením Božím.",
+                            "verse 64:12": "Poslouchejte Boha a poslouchejte posla; však obrátíte-li se zády.",
+                            "verse 64:13": "Bůh - není božstva kromě Něho - a na Boha nechť se spoléhají věřící!",
+                            "verse 64:14": "Vy, kteří věříte! Některé z manželek vašich i dětí vašich jsou vám nepřáteli, střezte se jich! Vymažete-li však chyby druhému, prominete a odpustíte, pak i Bůh je odpouštějící, slitovný!",
+                            "verse 64:15": "Majetky vaše a děti vaše jsou pro vás jen pokušením, zatímco Bůh má u sebe věru odměnu nesmírnou.",
+                            "verse 64:16": "Bojte se tedy Boha, jak jen můžete! Slyšte a poslouchejte a dávejte almužny pro dobro duší svých! A ti, kdož u sebe se varují skrblictví, ti věru budou blažení!",
+                            "verse 64:17": "Dáte-li Bohu výhodnou půjčku, On vám ji navrátí dvojnásobně a odpustí vám; vždyť Bůh je za vděčnost uznalý a laskavý,",
+                            "verse 64:18": "zná nepoznatelné i všeobecně známé, je mocný, moudrý! laskavý,"
+                        }
+                    }
+                }
+            },
+            "dutch": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "Wat er ook in de hemelen en op aarde is, verheerlijkt God; Hem is het Koninkrijk en de Lof, want Hij heeft macht over alle dingen.",
+                            "verse 64:2": "Hij is het Die u geschapen heeft; maar sommigen uwer zijn ongelovig en sommigen uwer zijn gelovig; en God ziet hoe gij handelt.",
+                            "verse 64:3": "Hij schiep de hemelen en de aarde in waarheid, en Hij heeft u gevormd en een schone gedaante gegeven, en tot Hem is aller terugkeer.",
+                            "verse 64:4": "Heeft het verhaal u niet bereikt van degenen die vroeger ongelovig waren? Zo ondergingen zij het kwade gevolg van hun gedrag, en hen wacht een pijnlijke straf.",
+                            "verse 64:5": "Deze (gingen onder) omdat hun boodschappers met duidelijke bewijzen tot hen kwamen, maar zij zeiden: \"Zullen stervelingen ons leiden?\" Daarom verwierpen zij (de Waarheid) en wendden zich af, God toonde Zijn zelfgenoegzaamheid, want AIlah is Zichzelf-genoeg, Geprezen.",
+                            "verse 64:6": "De ongelovigen denken dat zij niet zullen worden opgewekt.",
+                            "verse 64:7": "Gelooft daarom in God en Zijn boodschapper, en in het Licht dat Wij nedergezonden hebben.",
+                            "verse 64:8": "Wanneer Hij u voor de Dag der Verzameling zal bijeenroepen, zal dit de tijd voor onthulling der gebreken zijn.",
+                            "verse 64:9": "Maar wie Onze tekenen verwerpen en loochenen, zullen de bewoners van het Vuur zijn, daarin zullen zij vertoeven, en dat is een slechte bestemming!",
+                            "verse 64:10": "Er gebeurt geen ongeluk zonder toelating van God.",
+                            "verse 64:11": "Gehoorzaamt dus aan God en gehoorzaamt de boodschapper.",
+                            "verse 64:12": "God! Er is geen God dan Hij; laat de gelovigen daarom in God hun vertrouwen stellen.",
+                            "verse 64:13": "O, gij gelovigen, er zijn onder uw echtgenoten en kinderen die uw vijanden zijn, neemt u dus voor hen in acht.",
+                            "verse 64:14": "Uw rijkdommen en uw kinderen zijn slechts een beproeving; doch bij God is er een grote beloning.",
+                            "verse 64:15": "Weest godvruchtig naar vermogen, luistert, gehoorzaamt en geeft weg, dat is beter voor u.",
+                            "verse 64:16": "Indien gij een goede lening met God sluit, zal Hij deze voor u vermenigvuldigen en Hij zal u vergeven; want God is Waarderend, Verdraagzaam.",
+                            "verse 64:17": "De Kenner van het onzienlijke en het zienlijke, de Almachtige, de Alwijze."
+                        }
+                    }
+                }
+            },
+            "english": {
+                "translators": {
+                    "1": {
+                        "Marmaduke Pickthall": {
+                            "verse 64:1": "All that is in the heavens and all that is in the earth glorifieth Allah; unto Him belongeth Sovereignty and unto Him belongeth praise, and He is Able to do all things.",
+                            "verse 64:2": "He it is Who created you, but one of you is a disbeliever and one of you is a believer, and Allah is Seer of what ye do.",
+                            "verse 64:3": "He created the heavens and the earth with truth, and He shaped you and made good your shapes, and unto Him is the journeying.",
+                            "verse 64:4": "He knoweth all that is in the heavens and the earth, and He knoweth what ye conceal and what ye publish.",
+                            "verse 64:5": "Hath not the story reached you of those who disbelieved of old and so did taste the ill-effects of their conduct, and theirs will be a painful doom.",
+                            "verse 64:6": "That was because their messengers (from Allah) kept coming unto them with clear proofs (of Allah’s Sovereignty), but they said: Shall mere mortals guide us ? So they disbelieved and turned away, and Allah was independent (of them).",
+                            "verse 64:7": "Those who disbelieve assert that they will not be raised again.",
+                            "verse 64:8": "So believe in Allah and His messenger and the light which We have revealed.",
+                            "verse 64:9": "The day when He shall gather you unto the Day of Assembling, that will be a day of mutual disillusion.",
+                            "verse 64:10": "But those who disbelieve and deny Our revelations, such are owners of the Fire; they will abide therein - a hapless journey’s end!",
+                            "verse 64:11": "No calamity befalleth save by Allah’s leave.",
+                            "verse 64:12": "Obey Allah and obey His messenger; but if ye turn away, then the duty of Our messenger is only to convey (the message) plainly.",
+                            "verse 64:13": "Allah! There is no God save Him.",
+                            "verse 64:14": "O ye who believe! Lo! among your wives and your children there are enemies for you, therefor beware of them.",
+                            "verse 64:15": "Your wealth and your children are only a temptation, whereas Allah! with Him is an immense reward.",
+                            "verse 64:16": "So keep your duty to Allah as best ye can, and listen, and obey, and spend; that is better for your souls.",
+                            "verse 64:17": "If ye lend unto Allah a goodly loan, He will double it for you and will forgive you, for Allah is Responsive, Clement,",
+                            "verse 64:18": "Knower of the Invisible and the Visible, the Mighty, the Wise."
+                        }
+                    },
+                    "2": {
+                        "Abdullah Yusuf Ali": {
+                            "verse 64:1": "Whatever is in the heavens and on earth, doth declare the Praises and Glory of God: to Him belongs dominion, and to Him belongs praise: and He has power over all things.",
+                            "verse 64:2": "It is He Who has created you; and of you are some that are Unbelievers, and some that are Believers: and God sees well all that ye do.",
+                            "verse 64:3": "He has created the heavens and the earth in just proportions, and has given you shape, and made your shapes beautiful: and to Him is the final Goal.",
+                            "verse 64:4": "He knows what is in the heavens and on earth; and He knows what ye conceal and what ye reveal: yea, God knows well the (secrets) of (all) hearts.",
+                            "verse 64:5": "Has not the story reached you, of those who rejected Faith aforetime? So they tasted the evil result of their conduct; and they had a grievous Penalty.",
+                            "verse 64:6": "That was because there came to them apostles with Clear Signs, but they said: \"Shall (mere) human beings direct us?\" So they rejected (the Message) and turned away.",
+                            "verse 64:7": "The Unbelievers think that they will not be raised up (for Judgment).",
+                            "verse 64:8": "Believe, therefore, in God and His Apostle, and in the Light which we have sent down.",
+                            "verse 64:9": "The Day that He assembles you (all) for a Day of Assembly,- that will be a Day of mutual loss and gain (among you), and those who believe in God and work righteousness,- He will remove from them their ills, and He will admit them to Gardens beneath which Rivers flow, to dwell therein for ever: that will be the Supreme Achievement.",
+                            "verse 64:10": "But those who reject Faith and treat Our Signs as falsehoods, they will be Companions of the Fire, to dwell therein for aye: and evil is that Goal.",
+                            "verse 64:11": "No kind of calamity can occur, except by the leave of God: and if any one believes in God, (God) guides his heart (aright): for God knows all things.",
+                            "verse 64:12": "So obey God, and obey His Apostle: but if ye turn back, the duty of Our Apostle is but to proclaim (the Message) clearly and openly.",
+                            "verse 64:13": "God! There is no god but He: and on God, therefore, let the Believers put their trust.",
+                            "verse 64:14": "O ye who believe! Truly, among your wives and your children are (some that are) enemies to yourselves: so beware of them! But if ye forgive and overlook, and cover up (their faults), verily God is Oft-Forgiving, Most Merciful.",
+                            "verse 64:15": "Your riches and your children may be but a trial: but in the Presence of God, is the highest, Reward.",
+                            "verse 64:16": "So fear God as much as ye can; listen and obey and spend in charity for the benefit of your own soul and those saved from the covetousness of their own souls,- they are the ones that achieve prosperity.",
+                            "verse 64:17": "If ye loan to God, a beautiful loan, He will double it to your (credit), and He will grant you Forgiveness: for God is most Ready to appreciate (service), Most Forbearing,-",
+                            "verse 64:18": "Knower of what is open, Exalted in Might, Full of Wisdom."
+                        }
+                    },
+                    "3": {
+                        "Arthur J. Arberry": {
+                            "verse 64:1": "All that is in the heavens and the earth magnifies God.",
+                            "verse 64:2": "It is He who created you.",
+                            "verse 64:3": "He created the heavens and the earth with the truth, and He shaped you, and shaped you well; and unto Him is the homecoming.",
+                            "verse 64:4": "He knows whatever is in the heavens and the earth, and He knows what you conceal and what you publish.",
+                            "verse 64:5": "Has there not come to you the tidings of those that disbelieved before, then tasted the mischief of their action, and there yet awaits them a painful chastisement?",
+                            "verse 64:6": "That is because their Messengers came to them with the clear signs, and then they said, ’What, shall mortals be our guides?’ Therefore they disbelieved, and turned away; and God was in no need of them.",
+                            "verse 64:7": "The unbelievers assert that they will never be raised up.",
+                            "verse 64:8": "Therefore believe in God and His Messenger, and in the Light which We have sent down.",
+                            "verse 64:9": "Upon the day when He shall gather you for the Day of Gathering; that shall be the Day of Mutual Fraud.",
+                            "verse 64:10": "And those who disbelieved and cried lies to Our signs, those shall be the inhabitants of the Fire.",
+                            "verse 64:11": "No affliction befalls, except it be by the leave of God.",
+                            "verse 64:12": "And obey God, and obey the Messenger; but if you turn your backs, it is only for the Messenger to deliver the Manifest Message.",
+                            "verse 64:13": "God -- there is no god but He.",
+                            "verse 64:14": "O believers, among your wives and children there is an enemy to you; so beware of them.",
+                            "verse 64:15": "Your wealth and your children are only a trial; and with God is a mighty wage.",
+                            "verse 64:16": "So fear God as far as you are able, and give ear, and obey, and expend well for yourselves.",
+                            "verse 64:17": "If you lend to God a good loan, He will multiply it for you, and will forgive you.",
+                            "verse 64:18": "Knower He of the Unseen and the Visible, the All-mighty, the All-wise."
+                        }
+                    },
+                    "4": {
+                        "Muhammad Asad": {
+                            "verse 64:1": "ALL THAT IS in the heavens and all that is on earth extols God’s limitless glory: His is all dominion, and to Him all praise is due; and He has the power to will anything.",
+                            "verse 64:2": "He it is who has created you: and among you are such as deny this truth, and among you are such as believe [in it].",
+                            "verse 64:3": "He has created the heavens and the earth in accordance with [an inner] truth, and has formed you – and formed you so well; and with Him is your journey’s end.",
+                            "verse 64:4": "He knows all that is in the heavens and on earth; and He knows all that you keep secret as well as all that you bring into the open: for God has full knowledge of what is in the hearts [of men].",
+                            "verse 64:5": "HAVE THE STORIES of those who, in earlier times, refused to acknowledge the truth never yet come within your ken? [They denied it –] and so they had to taste the evil outcome of their own doings, with",
+                            "verse 64:6": "grievous suffering awaiting them [in the life to come]:",
+                            "verse 64:7": "this, because time and again there came unto them their apostles with all evidence of the truth, but they",
+                            "verse 64:8": "replied, \"Shall mere mortal men be our guides?\" And so they denied the truth and turned away.",
+                            "verse 64:9": "They who are bent on denying the truth claim that they will never be raised from the dead! Say: \"Yea, by my Sustainer! Most surely will you be raised from the dead, and then, most surely, will you be made to understand what you did [in life]! For easy is this for God!\"",
+                            "verse 64:10": "Believe, then, [O men,] in God and His Apostle, and in the light [of revelation] which We have bestowed [on you] from on high! And God is fully aware of all that you do.",
+                            "verse 64:11": "[Think of] the time when He shall gather you all together unto the Day of the",
+                            "verse 64:12": "Gathering – that Day of Loss and Gain! For as for him who shall have believed in God and done what is just and right, He will [on that Day] efface his bad deeds, and will admit him into gardens through which running waters flow, therein to abide beyond the count of time: that will be a triumph supreme!",
+                            "verse 64:13": "But as for those who are bent on denying the truth and on giving the lie to Our messages – they are destined for the fire, therein to abide: and how vile a journey’s end!",
+                            "verse 64:14": "NO CALAMITY can ever befall",
+                            "verse 64:15": "unless it be by God’s leave: hence, whoever believes in God guides his",
+                            "verse 64:16": "heart [towards this truth]; and God has full knowledge of everything.",
+                            "verse 64:17": "Pay heed, then, unto God, and pay heed unto the Apostle; and if you turn away, [know that] Our Apostle’s only duty is a clear delivery of this message:",
+                            "verse 64:18": "God – there is no deity save Him! In God, then, let the believers place their trust.",
+                            "verse 64:19": "O YOU who have attained to faith! Behold, some of your spouses and your children are enemies unto you: so beware of them! But if you pardon [their faults], and forbear, and forgive – then, behold, God will be much-forgiving, a dispenser of grace.",
+                            "verse 64:20": "Your worldly goods and your children are but a trial and a temptation, whereas with God there is a tremendous reward.",
+                            "verse 64:21": "Remain, then, conscious of God as best you can, and listen [to Him], and pay heed.",
+                            "verse 64:22": "If you offer up to God a goodly loan, He will amply repay you for it, and will forgive you your sins: for God is ever responsive to gratitude, forbearing,",
+                            "verse 64:23": "knowing all that is beyond the reach of a created being’s perception as well as all that can be witnessed by a creature’s senses or mind – the Almighty, the Wise!"
+                        }
+                    },
+                    "5": {
+                        "Martin Lings": {}
+                    },
+                    "6": {
+                        "Mufti Muhammad Taqi Uthmani": {
+                            "verse 64:1": "All that is in the heavens and all that is in the earth proclaim Allah’s purity.",
+                            "verse 64:2": "He is the One who created you, then some of you are disbelievers, and some of you are believers.",
+                            "verse 64:3": "He has created the heavens and the earth rightly, and shaped your figures, and made your figures good, and to Him is the final return.",
+                            "verse 64:4": "He knows all that is in the heavens and the earth, and He knows whatever you conceal and whatever you reveal.",
+                            "verse 64:5": "Did the news of those people not come to you who disbelieved earlier, and tasted (in this world) the evil consequence of their conduct, and for them (in the Hereafter) there is a painful punishment?",
+                            "verse 64:6": "That is because their messengers used to bring them clear proofs, but they said, “Shall some mortals give us guidance?” Thus they disbelieved and turned away, and Allah did not care.",
+                            "verse 64:7": "The disbelievers claim that they will never be raised again (after death).",
+                            "verse 64:8": "So, believe in Allah and His Messenger, and in the light We have sent down.",
+                            "verse 64:9": "(Be mindful of) the day when He will gather you for the Day of Gathering.",
+                            "verse 64:10": "As for those who disbelieve and reject Our signs, they are the people of the Fire.",
+                            "verse 64:11": "No calamity befalls (one), but with the leave of Allah.",
+                            "verse 64:12": "Obey Allah, and obey the Messenger.",
+                            "verse 64:13": "Allah is such that there is no god but He.",
+                            "verse 64:14": "O you who believe, among your wives and your children there are some enemies for you, so beware of them.",
+                            "verse 64:15": "Your riches and your children are but a trial.",
+                            "verse 64:16": "So, observe taqwā (total obedience to Allah in awe of Him) as far as you can, and listen and obey, and spend (in Allah’s way), it being good for you.",
+                            "verse 64:17": "If you advance a good loan to Allah, He will multiply it for you, and will forgive you.",
+                            "verse 64:18": "the Knower of the Unseen and the seen, the All-Mighty, the All-Wise."
+                        }
+                    },
+                    "7": {
+                        "Royal Aal al-Bayt Institute Translation": {
+                            "verse 64:1": "All that is in the heavens and all that is in the earth glorifies God.",
+                            "verse 64:2": "praise, and He has power over all things.",
+                            "verse 64:3": "It is He Who created you.",
+                            "verse 64:4": "He created the heavens and the earth with the truth, and He shaped you and made your shapes excellent; and to Him is the journey’s end.",
+                            "verse 64:5": "He knows all that is in the heavens and the earth, and He knows what you hide and what you disclose, and God is Knower of what is in the breasts.",
+                            "verse 64:6": "Has there not come to you the tidings of those who disbelieved before and thus tasted the evil consequences of their conduct? And there will be for them a painful chastisement?",
+                            "verse 64:7": "That is because their messengers used to bring them clear signs, but they said, ‘Shall",
+                            "verse 64:8": "humans be our guides?’ So they disbelieved and turned away, and God was independent.",
+                            "verse 64:9": "Those who disbelieve claim that they will never be resurrected.",
+                            "verse 64:10": "So believe in God and His Messenger and the Light, which We have revealed.",
+                            "verse 64:11": "The day when He will gather you for the Day of Gathering that will be the Day of Dispossession.",
+                            "verse 64:12": "And [as for] those who disbelieved and denied Our signs — those, they will be the inhabitants of the Fire, wherein they will abide.",
+                            "verse 64:13": "an evil journey’s end!",
+                            "verse 64:14": "No affliction strikes except by the leave of God.",
+                            "verse 64:15": "And obey God and obey the Messenger; but if you turn away, then the Messenger’s duty is only to communicate [the Message] clearly.",
+                            "verse 64:16": "God — there is no god except Him.",
+                            "verse 64:17": "believers put their trust.",
+                            "verse 64:18": "O you who believe! Indeed among your wives and children there are enemies for you, so beware of them.",
+                            "verse 64:19": "Your possessions and your children are only a trial, and God — with Him is a great reward.",
+                            "verse 64:20": "So fear God as far as you can, and listen, and obey and expend; that is better for your souls.",
+                            "verse 64:21": "If you lend God a good loan, He will multiply it for you and He will forgive you, and God is Appreciative, Forbearing,",
+                            "verse 64:22": "Knower of the Unseen, and the visible, the Mighty, the Wise."
+                        }
+                    },
+                    "8": {
+                        "Recitations of Ibrahim walk from saheeh international": {
+                            "verse 64:1": "Everything in the heavens and in the earth glorifies Allah.",
+                            "verse 64:2": "He is the One Who created you.",
+                            "verse 64:3": "He is the One Who created the heavens and the earth with a rationale and purpose.",
+                            "verse 64:4": "He knows what is in the heavens and in the earth and (also) knows those things that you hide and that you disclose, and Allah knows best (the secret) matters contained in the breasts.",
+                            "verse 64:5": "Has the news not reached you of those who disbelieved before you and tasted the punishment of their work (in the world), and there is a grievous torment for them (in the Hereafter as well)?",
+                            "verse 64:6": "That is because their Messengers brought them clear signs, but they said: ‘Shall a human being (who is our like and from our kind) guide us?’",
+                            "verse 64:7": "The disbelievers think that they will never be raised (again).",
+                            "verse 64:8": "So believe in Allah and His Messenger (blessings and peace be upon him) and that Light which We have sent down.",
+                            "verse 64:9": "The Day when He will gather you on the Day of Assembly (in the vast expanse for Great Gathering), that will be the Day of Manifestation of Loss and Defeat.",
+                            "verse 64:10": "And those who disbelieve and reject Our Revelations, it is they who are the inmates of Hell, its permanent residents.",
+                            "verse 64:11": "No suffering afflicts (anyone) except by the command of Allah.",
+                            "verse 64:12": "And obey Allah and obey the Messenger (blessings and peace be upon him).",
+                            "verse 64:13": "Allah (alone) is (God).",
+                            "verse 64:14": "O believers! Surely, amongst your wives and your children there are some who are your enemies.",
+                            "verse 64:15": "Your riches and your children are merely a trial.",
+                            "verse 64:16": "So fear Allah as much as you are able to.",
+                            "verse 64:17": "If you lend a good loan to Allah (with sincerity and righteous intention), He will increase it manifold for you and will forgive you.",
+                            "verse 64:18": "The Knower of the unseen and the seen, the Lord of Honour and Almighty and Most Wise."
+                        }
+                    }
+                }
+            },
+            "finnish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "Kaikki, mitä on taivaassa ja maan päällä, julistaa Jumalan kunniaa.",
+                            "verse 64:2": "Hän teidät on luonut.",
+                            "verse 64:3": "Hän on luonut taivaat ja maan totuudessa; Hän on luonut myös teidät, kaunismuotoisiksi Hän on teidät muovaillut.",
+                            "verse 64:4": "Hän tietää, mitä on taivaassa ja maan päällä; Hän tietää myös, mitä te salaatte ja mitä ilmaisette, sillä Jumala tuntee sydänten kätköt.",
+                            "verse 64:5": "Eikö teille ole kerrottu niistä, jotka ennen teitä uskon hylkäsivät? He saivat kokea tekonsa surkeat seuraukset, ja heitä odottaa tuskallinen kuritus.",
+                            "verse 64:6": "Sillä heille lähetetyt sananjulistajat tulivat selvin todistein heidän luoksensa, mutta he sanoivat: »Kuolevaisetko meitä johtaisivat?» He olivat epäuskoisia ja kääntyivät pois, mutta Jumala ei heitä kaipaa, sillä Jumala on kaikesta riippumaton, ylistetty.",
+                            "verse 64:7": "Epäuskoiset väittävät, ettei heitä milloinkaan herätetä kuolleista.",
+                            "verse 64:8": "Uskokaa sentähden Jumalaan, Hänen sanansaattajaansa ja valoon, jonka Me olemme lähettänyt, sillä Jumala tietää, mitä te teette,",
+                            "verse 64:9": "Päivänä, jona hän teidät kokoaa, kokoontumispäivänä, havahdutte harhoistanne.",
+                            "verse 64:10": "Mutta niistä, jotka hylkäävät uskon ja väittävät valheeksi tunnusmerkkimme, tulee ikuisiksi ajoiksi tulen asukkaita.",
+                            "verse 64:11": "Ei mikään koettelemus kohtaa teitä Jumalan tietämättä; ja joka uskoo Jumalaan, hänen sydäntään Hän ohjaa oikeaan, sillä Jumala on kaikkitietävä.",
+                            "verse 64:12": "Olkaa kuuliaisia Jumalalle ja kuuliaisia sananjulistajalle, mutta jos käännytte pois, ei sanansaattajanne ole vastuussa muusta kuin sanoman julistamisesta.",
+                            "verse 64:13": "Ei ole muuta jumaluutta kuin Hän, Jumala, ja Jumalaan uskovaiset turvautukoot.",
+                            "verse 64:14": "Uskovaiset, varmasti on joku vaimoistanne ja lapsistanne vihollisenne; varokaa siis heitä; jos olette armahtavaisia ja kärsivällisiä, silloin totisesti Jumalakin on anteeksiantavainen, armollinen.",
+                            "verse 64:15": "Rikkautenne ja lapsenne ovat teille vain koetuksena, mutta Jumalan luona lopullinen palkkio odottaa.",
+                            "verse 64:16": "Sentähden täyttäkää velvollisuutenne Jumalaa kohtaan kykynne mukaan, ottakaa vaarin, totelkaa ja uhratkaa varojanne; se koituu sielujenne parhaaksi! Ketkä ikinä varjelevat sielunsa ahneudelta, heillä on menestystä.",
+                            "verse 64:17": "Jos omistatte Jumalalle hyvän uhrin, Hän palkitsee sen teille kaksin verroin ja antaa teille anteeksi, sillä Jumala on palkitsevainen, lempeä.",
+                            "verse 64:18": "Hän tuntee näkymättömän ja näkyvän, Hän on kaikkivoipa, viisas."
+                        }
+                    }
+                }
+            },
+            "french": {
+                "translators": {
+                    "1": {
+                        "Jean-Louis Michon": {
+                            "verse 64:1": "Ce qui est dans les cieux et ce qui est sur la terre glorifie Dieu.",
+                            "verse 64:2": "C'est Lui qui vous a créés ; or, parmi vous, un tel est mécréant et un tel est croyant.",
+                            "verse 64:3": "Il a créé les cieux et la terre par la Vérité.",
+                            "verse 64:4": "Il sait ce qu'il y a dans les cieux et ce qu'il y a sur la terre, et Il sait ce que vous cachez et ce que vous divulguez.",
+                            "verse 64:5": "Ne vous est-il parvenu aucune nouvelle de ceux qui avaient jadis mécru et qui ont goûté les conséquences de leur conduite, subissant un châtiment douloureux ?",
+                            "verse 64:6": "Il en a été ainsi parce que leurs envoyés étaient venus à eux avec des preuves évidentes et qu'ils ont dit : \" Un mortel va-t-il nous diriger ? \" Ils ont mécru et se sont détournés.",
+                            "verse 64:7": "Ceux qui mécroient s'imaginent qu'ils ne seront pas ressuscités ; dis : \" Si fait ! Par mon Seigneur, vous serez ressuscités, après quoi vous serez informés de ce que vous avez fait : cela est facile pour Dieu ! \"",
+                            "verse 64:8": "Croyez donc en Dieu et en Son Envoyé et à la lumière que Nous avons fait descendre.",
+                            "verse 64:9": "Le jour où Il vous réunira pour le Jour du Rassemblement sera le jour de la duperie réciproque.",
+                            "verse 64:10": "Ceux qui mécroyaient et traitaient Nos signes de mensonges, ceux-là seront les hôtes du Feu ; ils y demeureront à jamais, et quel détestable lieu de retour !",
+                            "verse 64:11": "Jamais un malheur ne frappe sans la permission de Dieu.",
+                            "verse 64:12": "Obéissez à Dieu et obéissez à l'Envoyé ! Si vous vous détournez, [sachez qu'] il n'incombe à Notre Envoyé que de délivrer clairement le message.",
+                            "verse 64:13": "Dieu !.",
+                            "verse 64:14": "O vous qui croyez ! Parmi vos épouses et vos enfants il y a des ennemis pour vous ! Prenez-y garde ! Si vous excusez, passez outre et pardonnez, Dieu est certes pardonneur, clément !",
+                            "verse 64:15": "Vos richesses et vos enfants ne sont qu'une tentation alors qu'auprès de Dieu il y a une récompense magnifique.",
+                            "verse 64:16": "Craignez donc Dieu du mieux que vous pouvez ! Et écoutez, obéissez, faites l'aumône ! C'est pour vous la meilleure chose ! Ceux qui se seront préservés de leur propre concupiscence, ceux-là seront les bienheureux.",
+                            "verse 64:17": "Si vous faites à Dieu un beau prêt, Il vous le rendra au double et Il vous pardonnera.",
+                            "verse 64:18": "Il connaît ce qui est caché et ce qui est apparent ; Il est le Puissant, le Sage !"
+                        }
+                    },
+                    "2": {
+                        "Muhammad Hamidullah ": {
+                            "verse 64:1": "Ce qui est dans les cieux et ce qui est sur la terre glorifient Dieu.",
+                            "verse 64:2": "C’est Lui qui vous a créés.",
+                            "verse 64:3": "Il a créé les cieux et la terre en toute vérité et vous a donné votre forme et quelle belle forme Il vous a donnée.",
+                            "verse 64:4": "4.",
+                            "verse 64:5": "Ne vous est-elle pas parvenue, la nouvelle de ceux qui auparavant ont mécru et qui ont goûté la conséquence néfaste de leur acte; ils auront en outre un châtiment douloureux.",
+                            "verse 64:6": "il en est ainsi parce que leurs messagers leur venaient avec des preuves évidentes, et qu’ils ont dit : «Sont-ce des hommes qui nous guideront ? » Ils mécrurent alors et se détournèrent et Dieu Se passa",
+                            "verse 64:7": "et Dieu Se suffit à Lui-même et Il est Digne de louange.",
+                            "verse 64:8": "Ceux qui ont mécru prétendent qu’ils ne seront point ressuscités.",
+                            "verse 64:9": "Croyez en Dieu donc et en Son messager, ainsi qu’en la Lumière [le Coran] que Nous avons fait descendre.",
+                            "verse 64:10": "Le jour où Il vous réunira pour le jour du Rassemblement, ce sera le jour de la grande perte.",
+                            "verse 64:11": "Et ceux qui ont mécru et traité de mensonges Nos versets, ceux-là sont les gens du Feu où ils demeureront éternellement.",
+                            "verse 64:12": "Nul malheur n’atteint",
+                            "verse 64:13": "que par la permission de Dieu.",
+                            "verse 64:14": "guide son coeur.",
+                            "verse 64:15": "Obéissez à Dieu et obéissez au Messager et si vous vous détournez.",
+                            "verse 64:16": "Dieu, nulle autre divinité que Lui ! Et c’est à Dieu que les croyants",
+                            "verse 64:17": "s’en remettre.",
+                            "verse 64:18": "ô vous qui avez cru, vous avez de vos épouses et de vos enfants un ennemi [une tentation].",
+                            "verse 64:19": "excusez passez sur",
+                            "verse 64:20": "fautes et",
+                            "verse 64:21": "pardonnez, sachez que Dieu est Pardonneur, Très Miséricordieux.",
+                            "verse 64:22": "Vos biens et vos enfants ne sont qu’une tentation, alors qu’auprès de Dieu est une énorme récompense.",
+                            "verse 64:23": "Craignez Dieu, donc autant que vous pouvez, écoutez, obéissez et faites largesses.",
+                            "verse 64:24": "Si vous faites à Dieu un prêt sincère, Il multipliera pour vous et vous pardonnera.",
+                            "verse 64:25": "Il est le Connaisseur du monde Invisible et visible, et Il est le Puissant, le Sage."
+                        }
+                    }
+                }
+            },
+            "german": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "Was in den Himmeln ist und was auf Erden, preist Allah; Sein ist das Königreich und Sein das Lob, und Er vermag alle Dinge zu tun.",
+                            "verse 64:2": "Er ist es, Der euch erschaffen hat, aber einige unter euch sind Ungläubige und einige unter euch sind Gläubige; und Allah sieht, was ihr tut.",
+                            "verse 64:3": "Er schuf die Himmel und die Erde in Weisheit, und Er gestaltete euch und machte eure Gestalt schön, und zu Ihm ist die Heimkehr.",
+                            "verse 64:4": "Er weiß, was in den Himmeln und auf Erden ist, und Er weiß, was ihr verhehlt und was ihr offenbart; und Allah kennt alles, was in den Herzen ist.",
+                            "verse 64:5": "Ist nicht die Geschichte zu euch gedrungen von denen, die zuvor ungläubig waren? So kosteten sie die bösen Folgen ihres Betragens, und ihnen wird qualvolle Strafe.",
+                            "verse 64:6": "Dies, weil ihre Gesandten zu ihnen kamen mit klaren Beweisen.",
+                            "verse 64:7": "Die da ungläubig sind, wähnen, sie würden nicht auferweckt werden.",
+                            "verse 64:8": "Drum glaubet an Allah und Seinen Gesandten und an das Licht, das Wir herniedergesandt haben.",
+                            "verse 64:9": "Der Zeitpunkt, da Er euch Versammeln wird am Tage der Versammlung, das wird der Tag gegenseitigen Verlustes (und Gewinns) sein.",
+                            "verse 64:10": "Die aber ungläubig sind und Unsere Zeichen verwerfen, die sollen die Bewohner des Feuers sein, darin müssen sie bleiben; und eine schlimme Bestimmung ist das!",
+                            "verse 64:11": "Kein Unglück trifft ein, außer mit Allahs Erlaubnis.",
+                            "verse 64:12": "So gehorchet Allah und gehorchet dem Gesandten.",
+                            "verse 64:13": "Allah! es gibt keinen Gott außer Ihm; und in Allah sollen die Gläubigen Vertrauen haben.",
+                            "verse 64:14": "O die ihr glaubt, wahrlich, unter euren Frauen und Kindern sind welche, die euch feind sind, so hütet euch vor ihnen.",
+                            "verse 64:15": "Eure Reichtümer und eure Kinder sind nur eine Versuchung; doch bei Allah ist großer Lohn.",
+                            "verse 64:16": "So fürchtet Allah, soviel ihr nur könnt, und höret und gehorchet und spendet: es wird für euch selbst besser sein.",
+                            "verse 64:17": "Wenn ihr Allah ein stattliches Darlehen gewährt, so wird Er es euch um ein Vielfaches vermehren und wird euch vergeben; denn Allah ist erkenntlich, langmütig,",
+                            "verse 64:18": "Wisser des Verborgenen und des Sichtbaren, der Allmächtige, der Allweise."
+                        }
+                    }
+                }
+            },
+            "hindi": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "tks pht+ vklekuksa esa gS vkSj tks pht+ t+ehu esa gS ¼lc½ [+kqnk gh dh rLchg djrh gS mlh dh ckn’kkgr gS vkSj rkjhQ+ mlh ds fy, lt+kokj gS vkSj ogh gj pht+ ij dkfnj gS",
+                            "verse 64:2": "ogh rks gS ftlus rqe yksxksa dks iSnk fd;k dksbZ rqeesa dkfQ+j gS vkSj dksbZ eksfeu vkSj tks dqN rqe djrs gks [+kqnk mldks ns[k jgk gS",
+                            "verse 64:3": "mlh us lkjs vkleku o t+ehu dks fgder o elysgr ls iSnk fd;k vkSj mlh us rqEgkjh lwjrsa cuk;ha rks lcls vPNh lwjrsa cuk;ha vkSj mlh dh rjQ ykSVdj tkuk gSa",
+                            "verse 64:4": "tks dqN lkjs vkleku o t+ehu esa gS og ¼lc½ tkurk gS vkSj tks dqN rqe Nqik dj ;k [kqYye [kqYyk djrs gks mlls ¼Hkh½ okfdQ+ gS vkSj [+kqnk rks fny ds Hksn rd ls vkxkg gS",
+                            "verse 64:5": "D;k rqEgsa mudh [+kcj ugha igq¡ph ftUgksaus ¼rqe ls½ igys dqÝ+ fd;k rks mUgksus vius dke dh lt+k dk ¼nqfu;k esa½ et+k p[kk vkSj ¼vkf[+kjr esa rks½ muds fy, nnZukd vt+kc gS",
+                            "verse 64:6": ";s bl otg ls fd muds ikl iSx+Ecj okt+s, o jkS’ku ekSftt+s ysdj vk pqds Fks rks dgus yxs fd D;k vkneh gekjs gknh cusaxsa x+jt+ ;s yksx dkfQ+j gks cSBs vkSj eq¡g Qsj cSBs vkSj [+kqnk us Hkh ¼mudh½ ijokg u dh vkSj [+kqnk rks cs ijok lt+kokjs gEn gS",
+                            "verse 64:7": "dkfQ+jksa dk [+;ky ;s gS fd ;s yksx nksckjk u mBk, tk,¡xs ¼,s jlwy½ rqe dg nks ogk¡ vius ijojfnxkj dh d+le rqe t+:j mBk, tkvksxs fQj tks tks dke rqe djrs jgs og rqEgsa crk nsxk vkSj ;s rks [+kqnk ij vklku gS",
+                            "verse 64:8": "rks rqe [+kqnk vkSj mlds jlwy ij mlh uwj ij bZeku ykvks ftldks geus ukft+y fd;k gS vkSj tks dqN rqe djrs gks [+kqnk mlls [+kcjnkj gS",
+                            "verse 64:9": "tc og d+;ker ds fnu rqe lcdks tek djsxk fQj ;gh gkj thr dk fnu gksxk vkSj tks Ó[+l [+kqnk ij bZeku yk, vkSj vPNk dke djs og mlls mldh cqjkb;k¡ nwj dj nsxk vkSj mldks ¼csfg’r esa½ mu ckx+ksa esa nkf[+ky djsxk ftuds uhps ugjsa tkjh gSa og muesa vcknqy vkckn ges’kk jgsxk] ;gh rks cM+h dke;kch gS",
+                            "verse 64:10": "vkSj tks yksx dkfQ+j gSa vkSj gekjh vk;rksa dks >qBykrs jgs ;gh yksx tgUuqeh gSa fd ges’kk mlh esa jgsaxs vkSj og D;k cqjk fBdkuk gS",
+                            "verse 64:11": "tc dksbZ eqlhcr vkrh gS rks [+kqnk ds bt+u ls vkSj tks Ó[+l [+kqnk ij bZeku ykrk gS rks [+kqnk mlds dYc dh fgnk;r djrk gS vkSj [+kqnk gj pht+ ls [+kwc vkxkg gS",
+                            "verse 64:12": "vkSj [+kqnk dh brkvr djks vkSj jlwy dh brkvr djks fQj vxj rqeus eq¡g Qsjk rks gekjs jlwy ij flQZ+ iSx+ke dk okt+s, djds igq¡pk nsuk Qt+Z gS",
+                            "verse 64:13": "[+kqnk ¼og gS fd½ mlds flok dksbZ ekcwn ugha vkSj eksfeuks dks [+kqnk gh ij Hkjkslk djuk pkfg,",
+                            "verse 64:14": ",s bZekunkjksa rqEgkjh chfo;ksa vkSj rqEgkjh vkSykn esa ls ckt+ rqEgkjs nq’keu gSa rks rqe muls cps jgks vkSj vxj rqe ekQ dj nks njxqt+j djks vkSj c[+’k nks rks [+kqnk cM+k c[+’kus okyk esgjcku gS",
+                            "verse 64:15": "rqEgkjs eky vkSj rqEgkjh vkSykns cl vkt+ekb’k gS vkSj [+kqnk ds ;gk¡ rks cM+k vtz ¼ekStwn½ gS",
+                            "verse 64:16": "rks tgk¡ rd rqe ls gks lds [+kqnk ls Mjrs jgks vkSj ¼mlds ,gdke½ lquks vkSj ekuksa vkSj viuh csgrjh ds okLrs ¼mldh jkg esa½ [+kpZ djks vkSj tks Ó[+l vius u¶+l dh fgjl ls cpk fy;k x;k rks ,sls gh yksx eqjknsa ikus okys gSa",
+                            "verse 64:17": "vxj rqe [+kqnk dks dts+Z gluk nksxs rks og mldks rqEgkjs okLrs nwuk dj nsxk vkSj rqedks c[+’k nsxk vkSj [+kqnk rks cM+k d+nznku o cqnZckj gS",
+                            "verse 64:18": "iks’khnk vkSj t+kfgj dk tkuus okyk x+kfyc fgder okyk gS"
+                        }
+                    }
+                }
+            },
+            "indonesian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "Senantiasa bertasbih kepada Allah apa yang di langit dan apa yang di bumi; hanya Allah-lah yang mempunyai semua kerajaan dan semua puji-pujian; dan Dia Maha Kuasa atas segala sesuatu.",
+                            "verse 64:2": "Dia-lah yang menciptakan kamu, maka di antara kamu ada yang kafir dan di antaramu ada yang beriman.",
+                            "verse 64:3": "Dia menciptakan langit dan bumi dengan (tujuan) yang benar, Dia membentuk rupamu dan dibaguskan-Nya rupamu itu, dan hanya kepada-Nya-lah kembali (mu).",
+                            "verse 64:4": "Dia mengetahui apa yang ada di langit dan di bumi, dan mengetahui apa yang kamu rahasiakan dan apa yang kamu nyatakan.",
+                            "verse 64:5": "Apakah belum datang kepadamu (hai orang-orang kafir) berita orang-orang kafir dahulu? Maka mereka telah merasakan akibat yang buruk dari perbuatan mereka dan mereka memperoleh azab yang pedih.",
+                            "verse 64:6": "Yang demikian itu adalah karena sesungguhnya telah datang kepada mereka Rasul-Rasul mereka (membawa) keterangan-keterangan lalu mereka berkata: \"Apakah manusia yang akan memberi petunjuk kepada kami?\" lalu mereka ingkar dan berpaling; dan Allah tidak memerlukan (mereka).",
+                            "verse 64:7": "Orang-orang yang kafir mengatakan, bahwa mereka sekali-kali tidak akan dibangkitkan.",
+                            "verse 64:8": "Maka berimanlah kamu kepada Allah dan Rasul-Nya dan kepada cahaya (Al Qur’an) yang telah Kami turunkan.",
+                            "verse 64:9": "(Ingatlah) hari (yang di waktu itu) Allah mengumpulkan kamu pada hari pengumpulan (untuk dihisab), itulah hari (waktu itu) ditampakkan kesalahan-kesalahan.",
+                            "verse 64:10": "Dan orang-orang yang kafir dan mendustakan ayat-ayat Kami, mereka itulah penghuni-penghuni neraka, mereka kekal di dalamnya.",
+                            "verse 64:11": "Tidak ada sesuatu musibahpun yang menimpa seseorang kecuali dengan izin Allah; Dan barangsiapa yang beriman kepada Allah, niscaya Dia akan memberi petunjuk kepada hatinya.",
+                            "verse 64:12": "Dan ta’atlah kepada Allah dan ta’atlah kepada Rasul, jika kamu berpaling maka sesungguhnya kewajiban Rasul Kami hanyalah menyampaikan (amanat Allah) dengan terang.",
+                            "verse 64:13": "(Dia-lah) Allah, tidak ada Tuhan (yang berhak disembah) selain Dia.",
+                            "verse 64:14": "Hai orang-orang yang beriman, sesungguhnya di antara isteri-isterimu dan anak-anakmu ada yang menjadi musuh bagimu, maka berhati-hatilah kamu terhadap mereka; dan jika kamu mema’afkan dan tidak memarahi serta mengampuni (mereka) maka sesungguhnya Allah Maha Pengampun lagi Maha Penyayang.",
+                            "verse 64:15": "Sesungguhnya hartamu dan anak-anakmu hanyalah cobaan (bagimu): di sisi Allah-lah pahala yang besar.",
+                            "verse 64:16": "Maka bertakwalah kamu kepada Allah menurut kesanggupanmu dan dengarlah serta ta’atlah; dan nafkahkanlah nafkah yang baik untuk dirimu.",
+                            "verse 64:17": "Jika kamu meminjamkan kepada Allah pinjaman yang baik, niscaya Allah melipat gandakan (pembalasannya) kepadamu dan mengampuni kamu.",
+                            "verse 64:18": "Yang Mengetahui yang ghaib dan yang nyata, Yang Maha Perkasa lagi Maha Bijaksana."
+                        }
+                    }
+                }
+            },
+            "italian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "Glorifica Allah ciò che è nei cieli e sulla terra, Sua la Sovranità, Sua la Lode.",
+                            "verse 64:2": "Egli è Colui che vi ha creati.",
+                            "verse 64:3": "Egli ha creato i cieli e la terra in tutta verità, e vi ha plasmati in una forma armoniosa.",
+                            "verse 64:4": "Egli conosce quel che è nei cieli e sulla terra e conosce quello che celate e quello che palesate.",
+                            "verse 64:5": "Non vi è giunta notizia di coloro che furono miscredenti in passato? Gustarono le conseguenze della loro condotta e avranno doloroso castigo.",
+                            "verse 64:6": "E ciò in quanto vennero ad essi con le prove i loro messaggeri, ma dissero: «Sarà un uomo a guidarci?».",
+                            "verse 64:7": "Coloro che non credono affermano che non saranno affatto resuscitati.",
+                            "verse 64:8": "Credete dunque in Allah e nel Suo Messaggero e nella Luce che abbiamo fatta scendere.",
+                            "verse 64:9": "Il Giorno in cui sarete riuniti per il Giorno del Raduno, sarà il Giorno del reciproco inganno .",
+                            "verse 64:10": "Coloro invece che non credono e tacciano di menzogna i Nostri segni, saranno i compagni del Fuoco in cui rimarranno in perpetuo.",
+                            "verse 64:11": "Nessuna sventura colpisce",
+                            "verse 64:12": "senza il permesso di Allah .",
+                            "verse 64:13": "Obbedite dunque ad Allah e obbedite al Messaggero.",
+                            "verse 64:14": "solo la trasmissione esplicita.",
+                            "verse 64:15": "Allah, non v 'è dio all'infuori di Lui! Confidino dunque in Allah i credenti.",
+                            "verse 64:16": "O voi che credete, nelle vostre spose e nei vostri figli c'è",
+                            "verse 64:17": "un nemico per voi.",
+                            "verse 64:18": "I vostri beni e i vostri figli non sono altro che tentazione , mentre presso Allah c'è ricompensa immensa.",
+                            "verse 64:19": "Temete Allah per quello che potete, ascoltate, obbedite e siate generosi: ciò è un bene per voi stessi.",
+                            "verse 64:20": "Se fate ad Allah un prestito bello, Egli ve lo raddoppierà e vi perdonerà.",
+                            "verse 64:21": "Conoscitore dell'invisibile e del palese, l'Eccelso, il Saggio."
+                        }
+                    }
+                }
+            },
+            "japanese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "天にあり地にある凡てのものは，アッラーを讃える。大権はかれの有であり，讃美もまたかれに属する。本当にかれは凡てのことに全能であられる。",
+                            "verse 64:2": "かれこそは，あなたがたを創られた方である。だがあなたがたの或る者は不信心者でまた，或る者は信者である。本当にアッラーは，あなたがたの行うことを御存知であられる。",
+                            "verse 64:3": "（かれは）真理によって天と地を創造なされ，あなたがたを形作って美しい姿になされた。またかれの御許に帰り所はあるのである。",
+                            "verse 64:4": "（かれは）天と地における凡てのものを知り，あなたがたの隠すものも，現わすものまでも知っておられる。またアッラーは，胸の中に抱くことを熟知なされる。",
+                            "verse 64:5": "昔の，信仰を拒否した者たちの消息が，あなたがたに達しなかったのか。かれらは悪行の結果を味わい，また痛ましい懲罰を受けた。",
+                            "verse 64:6": "それは使徒たちが，様々な明証をもってかれらのもとに来たのにも拘らず，「人間が，わたしたちを導けようか。」と言ったためである。それでかれらは信じょうとせず背き去った。だがアッラーは，何も求められない。アッラーは，満ち足られる御方讃美されるべき御方であられる。",
+                            "verse 64:7": "不信心な者は，甦りなどはないと主張する。言ってやるがいい。「そうではない。主に誓っていう。あなたがたは必ず甦るのである。それからあなたがたの行なったことが，必ず告げ知らされる。それはアッラーにおいては容易なことである。",
+                            "verse 64:8": "だからアッラーとその使徒，そしてわれが下した光明を信じなさい。本当にアッラーはあなたがたの行ったことに通暁なされる。",
+                            "verse 64:9": "かれがあなたがたを召集なされる集合の日は騙し合いの日である。誰でも，アッラーを信じて，善行に動しんだ者からは，様々な邪悪，不運を払われ川が下を流れる楽園にかれらを入らせ，永遠にその中に住まわせる。これは大いなる勝利（至福）である。",
+                            "verse 64:10": "だが信仰を拒否して，わが印を虚偽であるとした者は業火の住人で，その中に永遠に住む。何と悪い帰り所であることよ。",
+                            "verse 64:11": "どんな災厄も，アッラーの御許しなく起きることはない。誰でもアッラーを信仰する者は，その心を導かれよう。本当にアッラーは，凡てのことに通暁なされる。",
+                            "verse 64:12": "それでアッラーに従え。また使徒に従え。仮令あなたがたが背き去っても，わが使徒の務めは，只明確に（啓示を）宣べ伝えることである。",
+                            "verse 64:13": "アッラー，かれの外に神はないのである。それで信者はアッラーに全幅の信頼を寄せなさい。",
+                            "verse 64:14": "信仰する者よ，あなたがたの妻や子女の中にも，あなたがたに対する敵がいる。だからかれらに用心しなさい。だがもしあなたがたがかれらを赦し，大目にみ，かばうならば（それもよい）。本当にアッラーは，度々御赦し下される御方，慈悲深い御方であられる。",
+                            "verse 64:15": "あなたがたの富や子女は，一つの試みに過ぎない。アッラー，かれの御許に（だけ）偉大な報奨はある。",
+                            "verse 64:16": "だから心を尽してアッラーを畏れ，聞きそして従い，また（施しのために）使え，あなたがた自身のために善いであろう。また自分の貪欲に用心する者，かれらは繁栄を成就する者である。",
+                            "verse 64:17": "あなたがたがもしアッラーに善い貸付をするならば，かれはあなたがたのためにそれを倍加なされ，あなたがたを御赦し下されよう。本当にアッラーは感謝にあつく大度におわします。",
+                            "verse 64:18": "また幽玄界も現象界をも知っておられ，偉力ならびなく英明であられる。 あなたがたがもしアッラーに善い貸付をするならば，かれはあなたがたのためにそれを倍加なされ，あなたがたを御赦し下されよう。本当にアッラーは感謝にあつく大度におわします。"
+                        }
+                    }
+                }
+            },
+            "korean": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "하늘과 대지에 있는 것이 하나님의 영광을 찬미하나니 왕국와찬미는 그분의 것이로다 실로 그 분은 모든 일에 전지전능하심이라",
+                            "verse 64:2": "너희를 창조하신 분도 그분이시거늘 그러나 너희중의 무리는 불신자요 다른 무리는 믿는 자들 이라 실로 하나님은 너희가 행하 는 모든 것을 지켜보고 계시니라",
+                            "verse 64:3": "그분께서 하늘과 대지를 진리로 창조하시고 너희의 형상을 만 드사 가장 아름다운 형상으로 빚 으셨으니 최후의 목적지는 그분이시라",
+                            "verse 64:4": "그분은 하늘과 대지에 있는 모든 것을 아시며 또한 너희가 숨기는 것과 드러내는 모든 것도 아시나니 하나님은 심중에 있는 모 든 것을 알고 계시니라",
+                            "verse 64:5": "이전에 믿음을 불신했던 자들이 그들의 행위로 말미암아 사악 함을 맛보고 고통스러운 응벌이 그들에게 있었던 그들의 이야기가너희에게 이르지 아니 했느뇨",
+                            "verse 64:6": "그것은 분명한 예증으로 선지자들이 그들에게 이르렀을 때 인 간이 우리를 인도한단 말이뇨 라 고 그들은 말하면서 불신하고 외 면하였기 때문이라 하나님은 풍성함과 영광으로 충만하시니라",
+                            "verse 64:7": "믿음을 부정한 자들은 부활이없다고 주장하나 일러가로되 그렇지 아니하며 주님에 의하여 부활 되어 너희가 행한 모든것에 관해 질문을 받게 되니라 그렇게 함이 하나님께는 쉬운 일이라",
+                            "verse 64:8": "그러므로 하나님과 그분의 선지자와 하나님이 계시한 빛을 믿 으라 하나님은 너희가 행하는 모 든 것을 알고 계시니라",
+                            "verse 64:9": "군집하는 어느 날을 위하여 하나님이 너희를 집합시키는 그날은 너희 가운데 잃은 자와 얻은 자가 있게 되는 날로 하나님을 믿어 의로움을 행한 자를 위해 그분은 그들의 과오를 거두어 주사 강물이 흐르는 천국으로 그들이 들어가는 것을 허락하여 영생케 하니 그것이 승리라",
+                            "verse 64:10": "그러나 믿음을 불신하고 하나님의 예증들을 거역한 자들은 불지옥의 거주자가 되어 그곳에서영주하리니 사악한 운명이라",
+                            "verse 64:11": "하나님의 허락없이 어떤 재앙도 있을 수 없나니 하나님은 그분을 믿는자의 마음을 인도하실 것이라 실로 하나님은 모든 것을 아심으로 충만하시니라",
+                            "verse 64:12": "그러므로 하나님께 복종하고선지자께 순종하라 너희가 외면한 다 하여도 하나님의 선지자는 분 명한 메세지를 전하는 것 뿐이라",
+                            "verse 64:13": "하나님 외에는 신이 없나니 믿는 신도들이여 그분께만 의탁해 야 하니라",
+                            "verse 64:14": "믿는 사람들이여 너희 아내 와 자손 중에도 너희 적이 있거늘 그들도 조심하라 그러나 너희가 사랑을 베풀어 용서하고 관용을 베푼다면 하나님은 관용과 자비로 충만하시니라",
+                            "verse 64:15": "너희 재산과 너희 자손은 하나의 시험이나 하나님 안에 있는 것은 가장 위대한 보상이라",
+                            "verse 64:16": "그러므로 최선을 다하여 하 나님을 두려워하고 귀를 기울이 며 순종하고 자선을 베풀라 그것 이 너희 스스로를 위한 복이 되며 스스로의 탐욕에서 벗어나는 자만 이 번성함을 누리니라",
+                            "verse 64:17": "너희가 하나님을 위하여 좋 은 것으로 자선을 베푼다면 그분 은 그것을 너희에게 두배로 하여 주시며 너희에게 관용을 베풀어 주시나니 실로 하나님은 은혜로 보답하시며 자비로운 분이시라",
+                            "verse 64:18": "숨겨진 것과 드러나 있는 모든 것을 아시는 권능과 지혜로 충 만한 분이시라"
+                        }
+                    }
+                }
+            },
+            "kurdish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "هه‌رچی له ئاسمانه‌کان و هه‌رچی له زه‌ویدا هه‌یه یادی خوا به‌پاکی و بێگه‌ردی ده‌که‌ن، ده‌سه‌ڵات هه‌ر بۆ ئه‌وه و هه‌ر بۆ ئه‌ویش سوپاس، هه‌ر ئه‌ویش ده‌سه‌ڵاتداره به‌سه‌ر هه‌موو شتێکدا.",
+                            "verse 64:2": "ئه‌وزاته ئه‌وه‌یه ئێوه‌ی دروست کردووه‌، جا هه‌تانه بێ باوه‌ڕه‌و هه‌تانه باوه‌ڕدا، خوایش بینایه به‌هه‌موو ئه‌و کاروکرده‌وانه‌ی که ئه‌نجامی ده‌ده‌ن.",
+                            "verse 64:3": "ئه‌و خوایه له‌سه‌ر بنچینه‌ی حه‌ق و ڕاستی ئاسمانه‌کان و زه‌وی دروست کردووه‌، وێنه‌ی ڕووخساری ئێوه‌شی کێشاوه به‌جوانترین شێوه‌، گه‌رانه‌وه‌و سه‌رئه‌نجامیش هه‌ر بۆ لای ئه‌وه‌.",
+                            "verse 64:4": "هه‌رچی له ئاسمانه‌کان و زه‌ویدا هه‌یه و ده‌گوزه‌رێت، خوا ئاگاو زانایه پێی، هه‌روه‌ها ده‌زانێت چی په‌نهان ده‌که‌ن و چی ئاشکرا ده‌که‌ن، هه‌میشه ئه‌و خوایه زانایه به هه‌رچی له پێچ و په‌نای سینه‌کاندا حه‌شاردراوه‌.",
+                            "verse 64:5": "ئایا هه‌واڵی ئه‌وانه‌تان پێ نه‌گه‌یشتووه که پێشتر بێ بڕوا بوون، چۆن سزاو ئازاری کارو کرده‌وه‌کانیان چه‌شت له دنیادا، له قیامه‌تیشدا سزای به‌ئێش و ئازار بۆتان ئاماده‌یه (چونکه تاوانی بێ باوه‌ڕی زۆر گه‌وره‌یه و سه‌رچاوه‌یه بۆ هه‌موو گوناهـ و تاوانێک).",
+                            "verse 64:6": "ئه‌وه‌ش بۆیه پێشهات چونکه پێغه‌مبه‌ران به‌جۆره‌ها به‌ڵگه‌و موعجیزه‌، په‌یامی خوایان پێڕاگه‌یاندن که‌چی وتیان: ئه‌مانه به‌شه‌رن وه‌کو ئێمه‌، چۆن ده‌بنه پێغه‌مبه‌رو چاوساغمان؟ به‌و بیانووه ڕێبازی بێ باوه‌ڕیان هه‌ڵبژاردو پشتیان هه‌ڵکرد، خوایش پێویستی به‌ئیمانی ئه‌وان نیه چونکه خوا خۆی ده‌وڵه‌مه‌نده‌و بێنیازه و شایسته‌ی سوپاسه‌.",
+                            "verse 64:7": "ئه‌وانه‌ی بێ باوه‌ڕ بوون به بۆچوونی خۆیان وتیان: هه‌رگیز زیندوو ناکرێنه‌وه‌، پێیان بڵێ: وا نیه‌، سوێند به په‌روه‌ردگارم، به‌ڕاستی هه‌ر زیندوو ده‌کرێنه‌وه‌، پاشان ئاگادار ده‌کرێن له هه‌موو ئه‌و کارو کرده‌وانه‌ی که ئه‌نجامتان ده‌دا، ئه‌وه‌ش بۆ خوا زۆر ئاسان و ساده‌یه‌.",
+                            "verse 64:8": "که‌واته تا زووه باوه‌ڕ بهێنن به‌خواو به پێغه‌مبه‌ره‌که‌ی و به‌و نوور و ڕۆشناییه‌ی که ناردوومانه‌ته خواره‌وه (که قورئانه‌)، دڵنیاش بن که خوا ئاگایه به هه‌موو ئه‌و کاروکرده‌وانه‌ی که ئه‌نجامی ده‌ده‌ن.",
+                            "verse 64:9": "ڕۆژێک دێت خوا هه‌مووانتان کۆده‌کاته‌وه‌، بۆ ڕۆژی کۆبوونه‌وه‌که‌، ئه‌وه ڕۆژی زیان باریه‌، جا ئه‌وه‌ی ئیمان و باوه‌ر بهێنێت به خواو کرده‌وه‌ی چاکیش ئه‌نجام بدات، ئه‌وه خوا چاوپۆشی ده‌کات له گوناهو هه‌ڵه‌کانی و ده‌یخاته باخه‌کانی به‌هه‌شته‌وه که چه‌نده‌ها ڕوبار به‌ژێر دره‌خته‌کانیدا ده‌ڕوات، هاوڕێ له‌گه‌ڵ ژیانی نه‌بڕاوه‌دا بۆ هه‌میشه‌و هه‌تا هه‌تایی، ئه‌وه‌یه سه‌رکه‌وتن و سه‌رفرازی گه‌وره‌و بێسنوور.",
+                            "verse 64:10": "ئه‌وانه‌ش که بێ باوه‌ڕ بوون و ئایه‌ت و فه‌رمانه‌کانی ئێمه‌یان به‌درۆزانی، ئا ئه‌وانه نیشته‌جێی ناو ئاگرن و ژیانی نه‌بڕاوه تیایدا ده‌بنه سه‌ر، ئای که سه‌رئه‌نجامێکی زۆر ناخۆش و ناله‌باره‌.",
+                            "verse 64:11": "به‌فه‌رمانی خوا نه‌بێت هیچ خۆشی و ناخۆشیه‌ك پێش نه‌هاتووه‌، جا ئه‌وه‌ی باوه‌ڕی ته‌واو بهێنێت، خوا دڵی ڕێنموویی ده‌کات بۆ لای خۆی، (هه‌ر بارودۆخێکی به‌سه‌ردا بێت، له خۆشی و ناخۆشی به‌تاقیکردنه‌وه‌ی ده‌زانێت) خوای گه‌وره‌ش هه‌میشه به‌هه‌موو شتێک زانایه‌.",
+                            "verse 64:12": "فه‌رمانبه‌رداریی خوا بکه‌ن و فه‌رمانبه‌رداریی پێغه‌مبه‌ریش (صلی الله علیه وسلم) بکه‌ن، جا ئه‌گه‌ر پشت هه‌ڵکه‌ن و گوێڕایه‌ڵ نه‌بن ئه‌وه خۆتان زه‌ره‌ر ده‌که‌ن، ئه‌گینا ته‌نها گه‌یاندنی ڕوون و ئاشکرایی په‌یـامه‌که‌ی، ئه‌رکی سه‌رشانی پێغه‌مبه‌ره‌که‌مانه‌.",
+                            "verse 64:13": "-الله‌- خوایه‌که جگه له خوایه‌کی تر نیه که دروستکار بێت و خاوه‌نی فه‌رمان بێت، ده‌با ئه‌وانه‌ی ئیماندارن هه‌ر پشت به‌و خوایه ببه‌ستن و داوای یارمه‌تی هه‌ر له‌و بکه‌ن.",
+                            "verse 64:14": "ئه‌ی ئه‌وانه‌ی باوه‌ڕتان هێناوه‌.",
+                            "verse 64:15": "دڵنیابن که ماڵ و سامان و ڕۆڵه و نه‌وه‌کانتان بۆ تاقی کردنه‌وه‌تانن، (ئه‌گه‌ر له‌و بوارانه‌دا سه‌رکه‌وتن به‌ده‌ست بهێنن)، خوای میهره‌بان پاداشتی گه‌وره‌و و زۆری له لایه بۆ خۆگرو لێبورده‌کان.",
+                            "verse 64:16": "که‌وابوو هه‌تا ده‌توانن به‌ته‌قواو خواناس بن، گوێڕایه‌ڵ و فه‌رمانبه‌ردار بن، خێرو چاکه‌ش بکه‌ن، ئه‌وانه هه‌مووی بۆ خۆتان چاکه‌، جا ئه‌وه‌ی خۆی بپارێزێت له ڕه‌زیلی و ڕژدی نه‌فسی خۆی، ئا ئه‌وانه هه‌ر خۆیان سه‌رفرازن.",
+                            "verse 64:17": "ئه‌گه‌ر قه‌رز بده‌ن به خوا، به‌شێوه‌کی چاك (مه‌به‌ست به‌خشینی ماڵ و سامانه له پێناوه خوادا) ئه‌وه خوا چه‌ند به‌رابه‌ری ده‌کات بۆتان، هه‌روه‌ها لێتان خۆش ده‌بێت خوایش سوپاسگوزاره (له‌سه‌ر به‌خشن که هه‌ر به‌خششی خۆیه‌تی) و خۆڕاگره (مۆڵه‌تی ڕه‌زیله‌کانیش ده‌دات تا کاتی خۆی).",
+                            "verse 64:18": "ئه‌و زاته ئاگاداری نهێنی و ئاشکرایه‌، خوایه‌کی باڵاده‌ست و دانایه‌."
+                        }
+                    }
+                }
+            },
+            "malay": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "Segala yang ada di langit dan yang ada di bumi sentiasa mengucap tasbih kepada Allah; bagiNyalah kuasa pemerintahan dan bagiNyalah segala pujian dan Dia Maha Kuasa atas tiap-tiap sesuatu.",
+                            "verse 64:2": "Dialah yang mengaturkan kejadian kamu; maka ada sebahagian dari kamu yang kafir dan ada sebahagian dari kamu yang beriman dan Allah Maha Melihat akan segala yang kamu kerjakan (serta membalas masing-masing).",
+                            "verse 64:3": "Dia menciptakan langit dan bumi dengan cara yang sungguh layak dan berhikmat, dan Dia menentukan bentuk rupa kamu serta memperelokkan rupa kamu dan kepadaNyalah tempat kembali.",
+                            "verse 64:4": "Dia mengetahui segala yang ada di langit dan di bumi dan Dia mengetahui segala yang kamu rahsiakan serta yang kamu zahirkan dan Allah sentiasa Mengetahui segala (isi hati) yang terkandung di dalam dada;",
+                            "verse 64:5": "Bukankah telah sampai kepada kamu berita orang-orang kafir yang telah lalu? Lalu mereka merasai kesan yang buruk dari perbuatan kufur mereka dan mereka (pada hari akhirat kelak) beroleh azab seksa yang tidak terperi sakitnya.",
+                            "verse 64:6": "(Balasan) yang demikian itu, kerana sesungguhnya mereka pernah didatangi Rasul-rasul (yang diutus kepada) mereka dengan membawa keterangan-keterangan yang jelas nyata, maka mereka berkata: Patutkah manusia (yang seperti kami menjadi Rasul untuk) memberi petunjuk kepada kami? Lalu mereka kufur ingkar serta berpaling (dari kebenaran) dan Allah pun menyatakan tidak berhajatNya (kepada iman dan ketaatan mereka lalu membinasakan mereka) dan Allah sememangnya Maha Kaya, lagi tetap Terpuji.",
+                            "verse 64:7": "(Di antara sebab-sebab kufur) orang-orang yang kafir (ialah kerana mereka) mengatakan bahawa mereka tidak sekali-kali akan di bangkitkan (sesudah mati).",
+                            "verse 64:8": "Oleh itu, berimanlah kamu kepada Allah dan kepada rasulNya serta kepada penerangan cahaya Al-Quran yang Kami turunkan dan (ingatlah), Allah Amat Mendalam PengetahuanNya akan segala yang kamu kerjakan.",
+                            "verse 64:9": "(Ingatkanlah) masa Allah menghimpunkan kamu pada hari perhimpunan (untuk menerima balasan), itulah hari masing-masing nampak kerugiannya dan (ingatlah), sesiapa yang beriman kepada Allah serta mengerjakan amal soleh, nescaya Allah mengampunkan dosa-dosanya dan memasukkannya ke dalam Syurga yang mengalir di bawahnya beberapa sungai, mereka kekal di dalamnya selama-lamanya; yang demikian itulah kemenangan yang besar.",
+                            "verse 64:10": "Dan orang-orang yang kafir serta mendustakan ayat-ayat keterangan Kami, merekalah ahli Neraka, kekallah mereka di dalamnya dan itulah seburuk-buruk tempat kembali.",
+                            "verse 64:11": "Tidak ada kesusahan (atau bala bencana) yang menimpa (seseorang) melainkan dengan izin Allah dan sesiapa yang beriman kepada Allah, Allah akan memimpin hatinya (untuk menerima apa yang telah berlaku itu dengan tenang dan sabar) dan (ingatlah), Allah Maha Mengetahui akan tiap-tiap sesuatu.",
+                            "verse 64:12": "Dan taatlah kamu kepada Allah serta taatlah kepada Rasulullah; maka kalau kamu berpaling (enggan taat, kamulah yang akan menderita balasannya yang buruk), kerana sesungguhnya kewajipan Rasul Kami hanyalah menyampaikan (perintah-perintah) dengan jelas nyata.",
+                            "verse 64:13": "Allah, tiada Tuhan melainkan Dia dan dengan yang demikian, kepada Allah jualah orang-orang yang beriman wajib berserah diri.",
+                            "verse 64:14": "Wahai orang-orang yang beriman! Sesungguhnya ada di antara isteri-isteri kamu dan anak-anak kamu yang menjadi musuh bagi kamu; oleh itu awaslah serta berjaga-jagalah kamu terhadap mereka dan kalau kamu memaafkan dan tidak marahkan (mereka) serta mengampunkan kesalahan mereka (maka Allah akan berbuat demikian kepada kamu), kerana sesungguhnya Allah Maha Pengampun, lagi Maha Mengasihani.",
+                            "verse 64:15": "Sesungguhnya harta benda kamu dan anak-anak kamu itu hanyalah menjadi ujian, dan di sisi Allah jualah pahala yang besar.",
+                            "verse 64:16": "Oleh itu bertakwalah kamu kepada Allah sedaya supaya kamu dan dengarlah (akan pengajaran-pengajaranNya) serta taatlah (akan perintah-perintahNya) dan belanjakanlah harta kamu (serta buatlah) kebajikan untuk diri kamu dan (ingatlah), sesiapa yang menjaga serta memelihara dirinya daripada dipengaruhi oleh tabiat bakhilnya, maka merekalah orang-orang yang berjaya.",
+                            "verse 64:17": "Dan kalau kamu memberi pinjaman kepada Allah, sebagai pinjaman yang baik (ikhlas), nescaya Allah akan melipat gandakan balasanNya kepada kamu serta mengampunkan dosa-dosa kamu dan Allah amat memberi penghargaan dan balasan kepada golongan yang berbuat baik, lagi Maha Penyabar (untuk memberi peluang kepada golongan yang bersalah supaya bertaubat).",
+                            "verse 64:18": "Dialah yang mengetahui segala yang ghaib dan yang nyata, (dan Dialah jua) yang Maha Kuasa, lagi Maha Bijaksana."
+                        }
+                    }
+                }
+            },
+            "persian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "آنچه در آسمانها و آنچه در زمين است براى خدا تسبيح مى‏گويند; مالكيت و حكومت از آن اوست و ستايش از آن او; و او بر همه چيز تواناست!",
+                            "verse 64:2": "او كسى است كه شما را آفريد (و به شما آزادى و اختيار داد); گروهى از شما كافريد و گروهى مؤمن; و خداوند به آنچه انجام مى‏دهيد بيناست!",
+                            "verse 64:3": "آسمانها و زمين را بحق آفريد; و شما را (در عالم جنين) تصوير كرد، تصويرى زيبا و دلپذير; و سرانجام (همه) بسوى اوست",
+                            "verse 64:4": "آنچه را در آسمانها و زمين است مى‏داند، و از آنچه پنهان يا آشكار مى‏كنيد با خبر است; و خداوند از آنچه در درون سينه‏هاست آگاه است",
+                            "verse 64:5": "آيا خبر كسانى كه پيش از اين كافر شدند به شما نرسيده است؟! (آرى) آنها طعم كيفر گناهان بزرگ خود را چشيدند; و عذاب دردناك براى آنهاست!",
+                            "verse 64:6": "اين بخاطر آن است كه رسولان آنها (پيوسته) با دلايل روشن به سراغشان مى‏آمدند، ولى آنها (از روى كبر و غرور) گفتند: «آيا بشرهايى (مثل ما) مى‏خواهند ما را هدايت كنند؟!» از اين رو كافر شدند و روى برگرداندند; و خداوند (از ايمان و طاعتشان) بى نياز بود، و خدا غنى و شايسته ستايش است!",
+                            "verse 64:7": "كافران پنداشتند كه هرگز برانگيخته نخواهند شد، بگو: «آرى به پروردگارم سوگند كه همه شما (در قيامت) برانگيخته خواهيد شد، سپس آنچه را عمل مى‏كرديد به شما خبر داده مى‏شود، و اين براى خداوند آسان است!»",
+                            "verse 64:8": "حال كه چنين است، به خدا و رسول او و نورى كه نازل كرده‏ايم ايمان بياوريد; و بدانيد خدا به آنچه انجام مى‏دهيد آگاه است!",
+                            "verse 64:9": "اين در زمانى خواهد بود كه همه شما را در روز اجتماع ( روز رستاخيز) گردآورى مى‏كند; آن روز روز تغابن است (روز احساس خسارت و پشيمانى)! و هر كس به خدا ايمان بياورد و عمل صالح انجام دهد، گناهان او را مى‏بخشد و او را در باغهايى از بهشت كه نهرها از زير درختانش جارى است وارد مى‏كند، جاودانه در آن مى مانند; و اين پيروزى بزرگ است!",
+                            "verse 64:10": "اما كسانى كه كافر شدند و آيات ما را تكذيب كردند اصحاب دوزخند، جاودانه در آن مى‏مانند، و (سرانجام آنها) سرانجام بدى است!",
+                            "verse 64:11": "هيچ مصيبتى رخ نمى‏دهد مگر به اذن خدا! و هر كس به خدا ايمان آورد، خداوند قلبش را هدايت مى‏كند; و خدا به هر چيز داناست!",
+                            "verse 64:12": "اطاعت كنيد خدا را، و اطاعت كنيد پيامبر را; و اگر روى‏گردان شويد، رسول ما جز ابلاغ آشكار وظيفه‏اى ندارد!",
+                            "verse 64:13": "خداوند كسى است كه هيچ معبودى جز او نيست، و مؤمنان بايد فقط بر او توكل كنند!",
+                            "verse 64:14": "اى كسانى كه ايمان آورده‏ايد! بعضى از همسران و فرزندانتان دشمنان شما هستند، از آنها برحذر باشيد; و اگر عفو كنيد و چشم بپوشيد و ببخشيد، (خدا شما را مى‏بخشد); چرا كه خداوند بخشنده و مهربان است!",
+                            "verse 64:15": "اموال و فرزندانتان فقط وسيله آزمايش شما هستند; و خداست كه پاداش عظيم نزد اوست!",
+                            "verse 64:16": "پس تا مى‏توانيد تقواى الهى پيشه كنيد و گوش دهيد و اطاعت نماييد و انفاق كنيد كه براى شما بهتر است; و كسانى كه از بخل و حرص خويشتن مصون بمانند رستگارانند!",
+                            "verse 64:17": "اگر به خدا قرض‏الحسنه دهيد، آن را براى شما مضاعف مى‏سازد و شما را مى‏بخشد; و خداوند شكركننده و بردبار است!",
+                            "verse 64:18": "او داناى پنهان و آشكار است; و او عزيز و حكيم است!"
+                        }
+                    }
+                }
+            },
+            "portuguese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "Tudo quanto existe nos céus e na terra glorifica Deus; Seu é o reino e Seus são os louvores, porque é Onipotente.",
+                            "verse 64:2": "Ele foi Quem vos criou; e entre vós há incrédulos, assim como há fiéis, contudo, Deus bem vê tudo quanto fazeis.",
+                            "verse 64:3": "Em verdade, criou os céus e a terra e vos configurou com a melhor forma, e a Ele retornareis.",
+                            "verse 64:4": "Ele conhece tudo quanto existe nos céus e na terra, assim como também conhece tudo quanto ocultais e tudo quanto manifestais, porque Deus é Sabedor das intimidades dos corações.",
+                            "verse 64:5": "Acaso, não vos chegou a notícia dos incrédulos que vos precederam? Sofreram as conseqüências da sua conduta e, ademais, sofrerão um doloroso castigo.",
+                            "verse 64:6": "Isto porque, quando os seus mensageiros lhes apresentaram as evidências, disseram: Acaso, os humanos hão de encaminhar-nos? E renegaram (a Mensagem), recusando-a; porém, Deus pode prescindir deles, porque Deus é por Si, Opulento, Laudabilíssimo.",
+                            "verse 64:7": "Os incrédulos crêem que jamais serão ressuscitados.",
+                            "verse 64:8": "Crede, pois, em Deus, em Seu Mensageiro e na Luz que vos temos revelado, porque Deus está bem inteirado de tudo quanto fazeis.",
+                            "verse 64:9": "Quando fordes congregados para o Dia da Assembléia, este será o dia das defraudações recíprocas.",
+                            "verse 64:10": "Por outra, aqueles que renegarem e desmentirem os Nossos versículos, serão condenados ao inferno, onde morarão eternamente.",
+                            "verse 64:11": "Jamais acontecerá calamidade alguma, senão com a ordem de Deus.",
+                            "verse 64:12": "Obedecei, pois, a Deus e obedecei ao Mensageiro! Mas, se recusardes, sabei que ao Nosso Mensageiro somente incumbe a proclamação lúcida da mensagem.",
+                            "verse 64:13": "Deus! Não há mais divindade além d’Ele! Que a Deus se encomendem, pois, os crentes!",
+                            "verse 64:14": "Ó fiéis, em verdade, tendes adversários entre as vossas mulheres e os vossos filhos.",
+                            "verse 64:15": "Em verdade os vossos bens e os vossos filhos são uma mera tentação.",
+                            "verse 64:16": "Temei, pois, a Deus, tanto quanto possais, Escutai-O, obedecei-Lhe e fazei caridade, que isso será preferível para vós! Aqueles que se preservarem da avareza serão os bem-aventurados.",
+                            "verse 64:17": "Se emprestardes a Deus espontaneamente, Ele vo-lo multiplicará o vos perdoará, porque Deus é Retribuidor, Tolerante,",
+                            "verse 64:18": "Conhecedor do cognoscível e do incognoscível, o Poderoso, o Prudentíssimo."
+                        }
+                    }
+                }
+            },
+            "romanian": {
+                "translators": {
+                    "1": {
+                        "Lucrarea (traducere úi editare) a fost realizată de către": {
+                            "verse 64:1": "Cele din ceruri și cele de pe pãmânt Îi aduc laudã lui Allah; a Lui este împãrãția și a Lui este slava și El este cu putere peste toate.",
+                            "verse 64:2": "El este Cel care v-a creat.",
+                            "verse 64:3": "",
+                            "verse 64:4": "a creat cerurile și pãmântul întru adevãr și v-a dat vouã chipuri.",
+                            "verse 64:5": "",
+                            "verse 64:6": "știe ceea ce se aflã în ceruri și știe ceea ce se aflã pre pãmântși El știe atât ceea ce voi țineți ascuns, cât și ceea ce voi descoperiți.",
+                            "verse 64:7": "Oare nu v-a venit vouã veste despre cei care nu au crezut de mai înainte [de voi], care au gustat reaua urmare a faptei lor și care vor avea parte de chin dureros?",
+                            "verse 64:8": "Aceasta, pentru cã au venit la ei trimișii lor cu semne limpezi, iar ei au zis: \"Oare sã ne cãlãuzeascã pe noi oamenii?\" Și nu au crezut ei șiau întors spatele, însã Allah s-a lipsit de ei, c&atild",
+                            "verse 64:9": "Aceia care nu au crezut, au pretins cã ei nu vor mai fi înviați .",
+                            "verse 64:10": "Așadar, fiți cu credințã în Allah, în Trimisul Sãu și în Lumina pecare am trimis-o Noi! Iar Allah este bine știutor a ceea ce faceți voi.",
+                            "verse 64:11": "Ziua în care vã va aduna El pentru Ziua Adunãrii, aceea este Ziua marii pierderi.",
+                            "verse 64:12": "Iar aceia care nu cred și socotesc semnele Noastre mincinoase, aceia vor fi oaspeții Focului și vor fi veșnic sãlãșluitori în el.",
+                            "verse 64:13": "Nici o nenorocire nu-l lovește pe om decât numai cu îngãduința lui Allah .",
+                            "verse 64:14": "Fiți cu supunere fațã de Allah și fiți cu supunere fațã de Trimis! Iar dacã voi întoarceți spatele, [sã știți cã] Trimisului Nostru îi revine doar transmiterea limpede .",
+                            "verse 64:15": "Allah! Nu existã altã divinitate afarã de El! Și în Allah",
+                            "verse 64:16": "sã se încreadã dreptcredincioșii!",
+                            "verse 64:17": "O, voi cei care credeți! Voi aveți printre soațele voastre și printre copiii voștri un vrãjmaș ! Deci, fiți cu grijã de ei! Însã dacã voi sunteți îngãduitori și tr",
+                            "verse 64:18": "Averile voastre și copiii voștri sunt numai o ispitã și la Allah se aflã o mare rãsplatã.",
+                            "verse 64:19": "Deci, fiți cu fricã de Allah atâta cât puteți, ascultați, fiți supuși și dãruiți spre binele sufletelor voastre! Iar aceia ale cãror suflete vor fi ferite de zgârcenie, aceia sunt cei care vor",
+                            "verse 64:20": "Dacã Îi veți face lui Allah un împrumut frumos , El vi-l va daînapoi înmulțit și vã va ierta pe voi , cãci Allah este Mulțumitor",
+                            "verse 64:21": "Blând [Șakur, Halim].",
+                            "verse 64:22": "El este Știutorul celor nevãzute și al celor vãzute, Cel Puternic",
+                            "verse 64:23": "Înțelept [Al-’Aziz, Al-Hakim]."
+                        }
+                    },
+                    "2": {
+                        "George Grigore, Coranul": {
+                            "verse 64:1": "Cele din ceruri şi de pe pământ Îl preamăresc pe Dumnezeu.",
+                            "verse 64:2": "El este Cel ce v-a creat pe voi: printre voi este necredinciosul, printre voi este credinciosul.",
+                            "verse 64:3": "El a creat cerurile şi pământul întru Adevăr şi v-a dat vouă chip desăvârşit.",
+                            "verse 64:4": "El cunoaşte cele din ceruri şi de pe pământ.",
+                            "verse 64:5": "Nu a venit la voi spusa despre tăgăduitorii de odinioară care au gustat urmările faptelor lor? Ei au avut parte de o dureroasă osândă.",
+                            "verse 64:6": "Aceasta, căci trimişii le veneau cu dovezi vădite, însă ei le spuneau: “Nişte oameni să ne călăuzească?” Ei fură tăgăduitori şi întoarseră spatele, iar Dumnezeu s-a lipsit de ei.",
+                            "verse 64:7": "Tăgăduitorii îşi închipuie că nu vor fi sculaţi.",
+                            "verse 64:8": "Credeţi în Dumnezeu şi în trimisul Său, precum şi în Lumina pe care am pogorât-o.",
+                            "verse 64:9": "Ziua când veţi fi adunaţi pentru Ziua de Adunare va fi ziua amăgirii deopotrivă.",
+                            "verse 64:10": "Cei care au tăgăduit şi au socotit semnele Noastre minciuni vor fi soţii Focului, unde vor veşnici.",
+                            "verse 64:11": "Nici o nenorocire nu va veni decât cu îngăduinţa lui Dumnezeu.",
+                            "verse 64:12": "Daţi ascultare lui Dumnezeu! Daţi ascultare Profetului! Să ştiţi, chiar dacă întoarceţi spatele, că asupra trimisului Nostru este doar înştiinţarea cea desluşită!",
+                            "verse 64:13": "Dumnezeu! Nu este dumnezeu afară de El.",
+                            "verse 64:14": "O, voi cei ce credeţi! Printre soţiile şi pruncii vostri aveţi un vrăjmaş! Fiţi cu băgare de seamă la ei! Dacă îngăduiţi şi iertaţi, să ştiţi că Dumnezeu este Iertător, Milostiv.",
+                            "verse 64:15": "Averile şi pruncii voştri nu sunt decât o ispită, pe când la Dumnezeu aveţi o mare răsplată.",
+                            "verse 64:16": "Temeţi-vă de Dumnezeu cât puteţi! Ascultaţi şi daţi ascultare! Daţi milostenie! Acesta va fi bine pentru voi.",
+                            "verse 64:17": "Dacă veţi da un împrumut frumos lui Dumnezeu, El vă va da înapoi îndoit şi vă va ierta vouă.",
+                            "verse 64:18": "El cunoaşte tăinuitul şi mărturisitul."
+                        }
+                    }
+                }
+            },
+            "russian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "Все в небесах и на землеАллаху воздает хвалу и славу!Ему принадлежит господство(над мирами),Ему — хвала, и мощь Его — над всем!",
+                            "verse 64:2": "Он — Тот, Кто создал вас.",
+                            "verse 64:3": "Он небеса и землю в должном видесотворил,Дал форму вам и виды ей прекрасныепостроил,К Нему лежит и ваше возвращенье.",
+                            "verse 64:4": "Он знает все, что в небесах и на земле,И знает, что у вас сокрыто или явно.",
+                            "verse 64:5": "Неужто не пришел к вам сказ о тех,Которые отвергли веру в прошлом?Они вкусили зло своих деяний(на земле),Теперь их ждет жестокая расплата(и на небе).",
+                            "verse 64:6": "Все потому, что с ясными знаменьями(от Нас)Посланники к ним Наши приходили,Но молвили они:«Ужель на верный путьНас будут направлять простые люди,(как и мы)?»И потому, в неверие облекшись,отвернулись.",
+                            "verse 64:7": "И утверждают те, кто не уверовал(в Аллаха),Что никогда воскрешены они не будут.",
+                            "verse 64:8": "А потому уверуйте в Аллахаи посланника ЕгоИ в Свет, что Мы вам ниспослали, —Аллах ведь сведущ в том,что делаете вы.",
+                            "verse 64:9": "В тот День2241,Когда Он соберет вас всехДля Дня Великого Собранья, —То будет День взаимных пораженийи наград,И с тех, которые уверовали (в Бога)и добрые дела творили,Он снимет все грехиИ их введет в Сады, реками омовенны,И вечно пребывать им там, —Такою будет высшая награда.",
+                            "verse 64:10": "Но тем, кто не уверовал (в Аллаха)И ложью объявил знамения Его,Быть обитателями О’гняИ в нем, поистине, навечно пребывать.",
+                            "verse 64:11": "И ни одна беда (вас) не постигнетИначе, как с соизволения Аллаха;И сердце каждого, кто верует в Него,Направит Он на верный путь, —Аллах о всякой вещи знающ!",
+                            "verse 64:12": "Так повинуйтесь же Аллахуи слушайте посланника Его!А если отвернетесь — что ж!Ведь на него возложено лишь яснои открыто(Посланье Наше) передать.",
+                            "verse 64:13": "Аллах! Нет божества, кроме Него,И лишь Ему все верные должнывверяться.",
+                            "verse 64:14": "О вы, кто верует!Поистине, средь ваших жени средь детей2242Вы недругов найдете.",
+                            "verse 64:15": "Все ваше достояние и дети —Лишь испытание для вас.",
+                            "verse 64:16": "А потому страшитесь Его гнева,Послушны будьте и расходуйтена подать.",
+                            "verse 64:17": "И если вы дадите щедрый займ2243аАллаху,Воздаст Он вам вдвойне и ниспошлетпрощенье, —Аллах ведь безгранично благодарен,Воздержан (в наказании Своем), —",
+                            "verse 64:18": "Тот, Кто знает, что сокрыто и чтоявно,И преисполнен мудрости и мощи! —"
+                        }
+                    }
+                }
+            },
+            "spanish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "Lo que está en los cielos y en la tierra glorifica a Alá.",
+                            "verse 64:2": "Él es Quien os ha creado.",
+                            "verse 64:3": "Ha creado con un fin los cielos y la tierra y a vosotros os ha formado armoniosamente.",
+                            "verse 64:4": "Conoce lo que está en los cielos y en la tierra, conoce lo que ocultáis y lo que manifestáis.",
+                            "verse 64:5": "¿No os habéis enterado de lo que pasó a los que fueron antes infieles y gustaron la gravedad de su conducta? Tendrán un castigo doloroso.",
+                            "verse 64:6": "Porque vinieron a ellos sus enviados con las pruebas claras y dijeron: «¿Es que van a dirigirnos unos mortales?» No creyeron y volvieron la espalda.",
+                            "verse 64:7": "Los infieles pretenden que no van a ser resucitados.",
+                            "verse 64:8": "¡Creed, pues, en Alá, en Su Enviado y en la Luz que Nosotros hemos revelado! Alá está bien informado de lo que hacéis.",
+                            "verse 64:9": "El día que Él os reúna para el día de la Reunión, ése será el día del Engaño Mutuo.",
+                            "verse 64:10": "Pero quienes no crean y desmientan Nuestros signos, ésos morarán en el Fuego eternamente.",
+                            "verse 64:11": "No sucede ninguna desgracia si Alá no lo permite.",
+                            "verse 64:12": "¡Y obedeced a Alá, obedeced al Enviado! Si volvéis la espalda,.",
+                            "verse 64:13": "¡Alá! ¡No hay más dios que Él! ¡Que e los creyentes confíen en Alá!",
+                            "verse 64:14": "¡Creyentes! En algunas de vuestras esposas y en algunos de vuestros hijos tenéis un enemigo.",
+                            "verse 64:15": "Vuestra hacienda y vuestros hijos no son más que tentación, mientras que Alá tiene junto a Sí una magnífica recompensa.",
+                            "verse 64:16": "¡Temed cuanto podáis a Alá! ¡Escuchad! ¡Obedeced! ¡Gastad! Es en vuestro propio beneficio.",
+                            "verse 64:17": "Si hacéis un préstamo generoso a Alá, Él os devolverá el doble y os perdonará.",
+                            "verse 64:18": "El Conocedor de lo oculto y de lo patente, el Poderoso, el Sabio."
+                        }
+                    }
+                }
+            },
+            "tamil": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "வானங்களில் உள்ளவையும், பூமியில் உள்ளவையும் அல்லாஹ்வைத் தஸ்பீஹு (துதி) செய்கின்றன, அவனுக்கே ஆட்சி உரியது, இன்னும் புகழனைத்தும் அவனுக்குரியதே, அன்றியும் எல்லாப் பொருட்கள் மீதும் அவன் பேராற்றலுடையவன்.",
+                            "verse 64:2": "(மானிடர்களே!) அவனே உங்களைப் படைத்தவன், உங்களில் காஃபிரும் உண்டு, முஃமினும் உண்டு - இன்னும் நீங்கள் செய்பவற்றை அல்லாஹ் நோக்கிவாறே இருக்கின்றான்.",
+                            "verse 64:3": "வானங்களையும், பூமியையும் அவன் சத்தியத்துடன் (தக்க முறையில்) படைத்துள்ளான், அன்றியும் உங்களை உருவாக்கி, உங்கள் உருவங்களையும் அழகாக்கினான்; அவனிடம் தாம் (யாவருக்கும்) மீளுதல் இருக்கிறது.",
+                            "verse 64:4": "வானங்களிலும், பூமியிலும் உள்ளவற்றை அவன் அறிகிறான், நீங்கள் இரசியமாக்கி வைப்பதையும், பகிரங்கமாக்கி வைப்பதையும் அவன் அறிகிறான்; மேலும், இருதயங்களிலுள்ளவற்றை யெல்லாம் அல்லாஹ் அறிகிறான்.",
+                            "verse 64:5": "இதற்கு முன் நிராகரித்துக் கொண்டிருந்தவர்களின் செய்தி உங்களுக்கு வரவில்லையா? பின்னர், அவர்கள் தங்கள் (தீய) காரியத்தின் பலனை அனுபவித்தனர் - அன்றியும், அவர்களுக்கு (மறுமையில்) நோவினை செய்யும் வேதனையுமுண்டு.",
+                            "verse 64:6": "இதற்குக் காரணம், நிச்சயமாக அவர்களுக்கு, அவர்களுடைய தூதர்கள் தெளிவான அத்தாட்சிகளுடன் வந்து கொண்டுதாமிருந்தனர், ஆனால் அப்போது அவர்களோ, (நம் போன்ற) ஒரு மனிதரா நமக்கு நேர்வழி காட்டுவார்?\" என்று கூறி (அவர்களைப் பின்பற்றுவதை) நிராகரித்துப் பின் வாங்கிக் கொண்டார்கள், அல்லாஹ்வோ அவர்களிலிருந்து எந்தத் தேவையுமற்றவன், அன்றியும் அல்லாஹ் (எவரிடமிருந்தும்) தேவையற்றவன்; புகழ் மிக்கவன்.",
+                            "verse 64:7": "(மரித்த பின்னர்) அவர்கள் எழுப்பப்படவே மாட்டார்கள் என்று நிராரிப்பவர்கள் எண்ணிக் கொண்டனர்; \"அப்படியல்ல! என்னுடைய இறைவன் மீது சத்தியமாக, நீங்கள் நிச்சயமாக எழுப்பப்படுவீர்கள்! பிறகு நீங்கள் செய்து கொண்டிருந்தவை பற்றி நிச்சயமாக அறிவிக்கப்படுவீர்கள் - மேலும் அது அல்லாஹ்வுக்கு மிகவும் எளிதேயாகும்\" என்று (நபியே!) நீர் கூறுவீராக.",
+                            "verse 64:8": "ஆகவே, நீங்கள் அல்லாஹ்வின் மீதும், அவன் தூதர் மீதும், நாம்இறக்கி வைத்த (வேதமாகிய) ஒளியின் மீதும் ஈமான் கொள்ளுங்கள் - அல்லாஹ் நீங்கள் செய்பவற்றை நன்கு தெரிந்தே இருக்கின்றான்.",
+                            "verse 64:9": "ஒன்று திரட்டும் (மறுமை) நாளுக்காக அவன் உங்களை ஒன்று திரட்டும் நாள் அதுவே, (தீயோரை) நஷ்டப்படுத்தும் நாளாகும், ஆனால், எவர் அல்லாஹ்வின் மீது ஈமான் கொண்டு, ஸாலிஹான - நல்ல - அமல்களைச் செய்கிறாரோ, அவருடைய பாவங்களை அவரை விட்டும் நீக்கி, ஆறுகள் அவற்றின் கீழே ஓடிக் கொண்டிருக்கும் சுவர்க்கச் சோலைகளிலும் அவன் அவரை பிரவேசிக்கச் செய்வான்; அவற்றில் என்றென்றும் இருப்பார்கள் - இது மகத்தான பாக்கியமாகும்.",
+                            "verse 64:10": "அன்றியும், எவர்கள் நிராகரித்து, நம்முடைய வசனங்களைப் பொய்யாக்குகிறார்களோ அவர்கள் நரகவாசிகளே, அதில் அவர்கள் என்றென்றும் தங்கியிருப்பார்கள்; அது மிகவும் கெட்ட சேருமிடமாகும்.",
+                            "verse 64:11": "நிகழும் நிகழ்ச்சியெல்லாம் அல்லாஹ்வின் அனுமதி கொண்டேயல்லாமல் (வேறு) இல்லை, மேலும், எவர் அல்லாஹ்வின் மீது ஈமான் கொள்கிறாரோ, அவருடைய இருதயத்தை அவன் நேர்வழியில் செலுத்துகிறான் - அல்லாஹ் ஒவ்வொரு பொருளையும் நன்கறிந்தவன்.",
+                            "verse 64:12": "ஆகவே, நீங்கள், அல்லாஹ்வுக்கு வழிபடுங்கள்; (அவனுடைய) இத்தூதருக்கும் வழிபடுங்கள், இதை நீங்கள் புறக்கணித்துப் பின்வாங்கினீர்களானால் (உங்களுக்கே இழப்பாகும்) - நம் தூதர் மீதுள்ள கடமை, தெளிவாக எடுத்துரைப்பதுதான்.",
+                            "verse 64:13": "அல்லாஹ் -அவனைத் தவிர்த்து வேறு நாயன் இல்லை, மேலும் முஃமின்கள் அல்லாஹ்வின் மீதே முற்றிலும் நம்பிக்கை கொண்டு சார்ந்திருப்பார்களாக.",
+                            "verse 64:14": "ஈமான் கொண்டவர்களே! நிச்சயமாக உங்கள் மனைவியரிலும், உங்கள் மக்களிலும் உங்களுக்கு விரோதிகள் இருக்கின்றனர், எனவே அவர்களைப் பற்றி நீங்கள் எச்சரிக்கையாக இருங்கள்; அதையும் (அவர்களின் குற்றங் குறைகளை) மன்னித்தும், அவற்றைப் பொருட்படுத்தாமலும், சகித்துக் கொண்டும் இருப்பீர்களாயின் - நிச்சயமாக அல்லாஹ் மிகவும் மன்னிப்பவன்.",
+                            "verse 64:15": "உங்கள் பொருள்களும் உங்கள் மக்களும் (உங்களுக்குச்) சோதனைதான், ஆனால் அல்லாஹ் - அவனிடம் தான் மகத்தான (நற்) கூலியிருக்கிறது.",
+                            "verse 64:16": "ஆகவே, உங்களால் இயன்ற வரை அல்லாஹ்வுக்கு அஞ்சி நடந்து கொள்ளுங்கள்; (அவன் போதனைகளைச்) செவிதாழ்த்திக் கேளுங்கள்; அவனுக்கு வழிபடுங்கள்; (அவன் பாதையில்) செலவு செய்யுங்கள்; (இது) உங்களுக்கே மேலான நன்மையாக இருக்கும்; அன்றியும்; எவர்கள் உலோபத்தனத்திலிருந்து காக்கப்படுகிறார்களோ, அவர்கள் தாம் வெற்றி பெற்றவர்கள்.",
+                            "verse 64:17": "நீங்கள் அல்லாஹ்வுக்கு அழகிய கடனாகக் கடன் கொடுத்தால், அதை அவன் உங்களுக்காக இரட்டிப்பாக்குவான், அன்றியும் அவன் உங்களை மன்னிப்பான் - அல்லாஹ்வோ நன்றியை ஏற்பவன், சகிப்பவன்.",
+                            "verse 64:18": "மறைவானவற்றையும், பகிரங்கமானவற்றையும் அறிபவன்; (யாவரையும்) மிகைத்தவன்; ஞானம் மிக்கவன்."
+                        }
+                    }
+                }
+            },
+            "thai": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "สิ่งที่อยู่ในชั้นฟ้าทั้งหลาย และสิ่งที่อยู่ในแผ่นดินต่างแซ่ซ้องดุดีแด่อัลลอฮ์ อำนาจเด็ดขาดเป็นของพระองค์ มวลการสรรเสริญเป็นของพระองค์ และพระองค์เป็นผู้ทรงอานุภาพเหนือทุกสิ่งอย่าง",
+                            "verse 64:2": "พระองค์คือผู้ทรงสร้างพวกเจ้า ดังนั้นในหมู่พวกเจ้ามีผู้ปฏิเสธศรัทธา และในหมู่พวกเจ้ามีผู้ศรัทธา และอัลลอฮ์ทรงรู้เห็นในสิ่งที่พวกเจ้ากระทำ",
+                            "verse 64:3": "พระองค์ทรงสร้างชั้นฟ้าทั้งหลายและแผ่นดินด้วยความจริง และทรงทำให้พวกเจ้าเป็นรูปร่าง และทรงทำให้รูปร่างของพวกเจ้าสวยงามยิ่ง และยังพระองค์เท่านั้นคือทางกลับ",
+                            "verse 64:4": "พระองค์ทรงรอบรู้สิ่งที่อยู่ในชั้นฟ้าทั้งหลายและแผ่นดิน และทรงรอบรู้สิ่งที่พวกเจ้าปกปิดและสิ่งที่พวกเจ้าเปิดเผย และอัลลอฮ์ทรงรอบรู้สิ่งที่อยู่ในทรวงอก",
+                            "verse 64:5": "ข่าวคราวของบรรดาผู้ปฏิเสธศรัทธาในอดีตมิได้มีมายังพวกเจ้าดอกหรือ? พวกเขาได้ลิ้มรสการลงโทษแห่งกิจกรรมของพวกเขา (ในโลกดุนยา) และการลงโทษอันเจ็บปวดจะได้แก่พวกเขา (ในโลกอาคิเราะฮ์",
+                            "verse 64:6": "นั่นเป็นเพราะว่าบรรดาร่อซู้ลของพวกเขาได้มายังพวกเขาพร้อมด้วยหลักฐานอันชัดแจ้ง แต่พวกเขาได้กล่าวว่า สามัญชนเช่นนี้นะหรือจะชี้แนะทางให้แก่เรา พวกเขาได้ปฏิเสธศรัทธาและผินหลังให้ แต่อัลลอฮ์ทรงพอเพียง (จากการศรัทธาของพวกเขา) เพราะอัลลอฮ์เป็นผู้ทรงมั่งมีอย่างเหลือหลาย เป็นผู้ได้รับการสรรเสริญ",
+                            "verse 64:7": "บรรดาผู้ปฏิเสธศรัทธากล่าวอ้างว่า พวกเขาจะไม่ถูกให้ฟื้นคืนชีพขึ้นมาอีก จงกล่าวเถิดมุฮัมมัด หาเป็นเช่นนั้นไม่! ขอสาบานต่อพระเจ้าของข้าพระองค์ พวกท่านจะถูกให้ฟื้นคืนชีพขึ้นมาอีกอย่างแน่นอน แล้วพวกท่านจะได้รับแจ้งตามที่พวกท่านได้ประกอบกรรมไว้ และนั่นเป็นการง่ายดายสำหรับอัลลอฮ์",
+                            "verse 64:8": "ดังนั้น จงศรัทธาต่ออัลลอฮ์และร่อซู้ลของพระองค์ และแสงสว่าง (อัลกุรอาน) ซึ่งเราได้ประทานลงมา และอัลลอฮ์นั้นทรงรู้ดียิ่งในสิ่งที่พวกเจ้ากระทำ",
+                            "verse 64:9": "วันที่พระองค์จะทรงรวบรวมพวกเจ้าเพื่อวันแห่งการชุมนุม นั่นคือวันแห่งชัยชนะ (สำหรับมุอฺมิน) และขาดทุน (สำหรับกาฟิร) ส่วนผู้ได้ศรัทธาต่ออัลลอฮ์และกระทำความดี พระองค์จะทรงลบล้างความชั่วทั้งหลายของเขาออกไปจากเขา และจะทรงให้เขาเข้าสวนสวรรค์หลากหลาย ณ เบื้องล่างของสวนสวรรค์นั้นมีลำน้ำหลายสายไหลผ่าน พวกเขาเป็นผู้พำนักอยู่ในนั้นตลอดกาล นั่นคือความสำเร็จอันยิ่งใหญ่",
+                            "verse 64:10": "ส่วนบรรดาผู้ปฏิเสธศรัทธาและปฏิเสธต่อสัญญาณต่าง ๆ ของเรา ชนเหล่านั้นคือชาวนรก พวกเขาเป็นผู้พำนักอยู่ในนั้น และมันเป็นทางกลับที่ชั่วช้ายิ่ง",
+                            "verse 64:11": "ไม่มีทุกข์ภัยอันใดเกิดขึ้น เว้นแต่ด้วยอนุมัติของอัลลอฮ์ และผู้ใดศรัทธาต่ออัลลอฮ์ พระองค์จะทรงเปิดหัวใจของเขา (สู่แนวทางที่ถูกต้อง) และอัลลอฮ์เป็นผู้ทรงรอบรู้ทุกสิ่งอย่าง",
+                            "verse 64:12": "และจงเชื่อฟังปฏิบัติตามอัลลอฮ์ และจงเชื่อฟังปฏิบัติตามร่อซู้ล หากพวกเจ้าผินหลังกลับ (ไม่เชื่อฟัง) ดังนั้นหน้าที่ของร่อซู้ลของเราก็คือการเผยแผ่อันชัดแจ้ง",
+                            "verse 64:13": "อัลลอฮ์ ไม่มีพระเจ้าอื่นใดนอกจากพระองค์ ดังนั้น บรรดาผู้ศรัทธาทั้งหลายจงมอบหมายไว้วางใจต่ออัลลอฮ์เถิด",
+                            "verse 64:14": "โอ้บรรดาผู้ศรัทธาเอ๋ย แท้จริงในหมู่คู่ครองของพวกเข้าและลูกหลานของพวกเจ้านั้น มีบางคนเป็นศัตรูแก่พวกเจ้า ฉะนั้นจงระวังต่อพวกเขา แต่ถ้าพวกเจ้าอภัยและยกโทษ (แก่พวกเขา) แท้จริงอัลลอฮ์นั้นเป็นผู้ทรงอภัย ผู้ทรงเมตตาเสมอ",
+                            "verse 64:15": "แท้จริง ทรัพย์สมบัติของพวกเจ้าและลูกหลานของพวกเจ้านั้นเป็นเครื่องทดสอบ และอัลลอฮ์นั้น ณ ที่พระองค์มีรางวัลอันยิ่งใหญ่",
+                            "verse 64:16": "ดังนั้น จงยำเกรงอัลลอฮ์เถิด เท่าที่พวกเจ้ามีความสามารถ และจงเชื่อฟังและปฏิบัติตามและบริจาคเถิด เพราะเป็นการดียิ่งสำหรับตัวของพวกเจ้า และผู้ใดถูกปกป้องให้พ้นจากความตระหนี่แห่งจิตใจของเขา ชนเหล่านั้นพวกเขาเป็นผู้ประสบความสำเร็จ",
+                            "verse 64:17": "หากพวกเจ้าให้อัลลอฮ์ยืมอย่างดีเยี่ยมแล้ว พระองค์ก็จะทรงทวีการยืมให้แก่พวกเจ้า และจะทรงอภัยให้แก่พวกเจ้า และอัลลอฮ์นั้นเป็นผู้ทรงตอบแทนแก่ผู้กระทำความดี ทรงผ่อนผันการลงโทษ",
+                            "verse 64:18": "ผู้ทรงรอบรู้สิ่งเร้นลับและสิ่งที่เปิดเผย ผู้ทรงอำนาจ ผู้ทรงปรีชาญาณ"
+                        }
+                    }
+                }
+            },
+            "turkish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "Göklerde ve yerde ne varsa hepsi Allah'ı tesbih eder.",
+                            "verse 64:2": "Sizi yaratan O'dur.",
+                            "verse 64:3": "Gökleri ve yeri yerli yerince yarattı.",
+                            "verse 64:4": "Göklerde ve yerde olanları bilir.",
+                            "verse 64:5": "Daha önce inkâr edenlerin haberi size ulaşmadı mı? İşte onlar (dünyada) yaptıklarının cezasını tattılar.",
+                            "verse 64:6": "(O azabın sebebi) şu ki, onlara peygamberleri apaçık deliller getirmişlerdi, fakat onlar: Bir beşer mi bizi doğru yola götürecekmiş? dediler, inkâr ettiler ve yüz çevirdiler.",
+                            "verse 64:7": "İnkâr edenler, kesinlikle diriltilmeyeceklerini ileri sürdüler.",
+                            "verse 64:8": "Onun için Allah'a, Peygamberine ve indirdiğimiz o nûra (Kur'an'a) inanın.",
+                            "verse 64:9": "Mahşer vaktinde sizi toplayacağı gün, işte o zarar günüdür.",
+                            "verse 64:10": "İnkâr eden ve âyetlerimizi yalanlayanlara gelince, işte onlar cehennem ehlidirler.",
+                            "verse 64:11": "Allah'ın izni olmaksızın hiçbir musibet isabet etmez.",
+                            "verse 64:12": "Allah'a itaat edin, Peygamber'e de itaat edin.",
+                            "verse 64:13": "Allah; O'ndan başka hiçbir ilâh yoktur.",
+                            "verse 64:14": "Ey iman edenler! Eşlerinizden ve çocuklarınızdan size düşman olanlar da vardır.",
+                            "verse 64:15": "Doğrusu mallarınız ve çocuklarınız sizin için bir imtihandır: Büyük mükâfat ise Allah'ın yanındadır.",
+                            "verse 64:16": "O halde gücünüz yettiğince Allah'a isyandan kaçının.",
+                            "verse 64:17": "Eğer Allah'a (rızası uğruna) ödünç verirseniz, Allah onu sizin için kat kat arttırır ve sizi bağışlar.",
+                            "verse 64:18": "Görülmeyeni ve görüleni bilendir."
+                        }
+                    }
+                }
+            },
+            "urdu": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "جو چیز آسمانوں میں ہے اور جو چیز زمین میں ہے (سب) خدا کی تسبیح کرتی ہے۔ اسی کی سچی بادشاہی ہے اور اسی کی تعریف (لامتناہی) ہے اور وہ ہر چیز پر قادر ہے",
+                            "verse 64:2": "ہر وہ چيز جو آسمانوں ميں ہے اور زمين ميں ہے اللہ کي تسبيح کرتي ہے? اسي کي ساري بادشاہت ہے اور اسي کے لئے ساري تعريف ہے اور وہ ہر چيز پر بڑا قادر ہےo",
+                            "verse 64:3": "وہي ہے جس نے تمہيں پيدا کيا، پس تم ميں سے (کوئي) کافر ہو گيا، اور تم ميں سے (کوئي) مومن ہوگيا، اور اللہ اُن کاموں کو جو تم کرتے ہو خوب ديکھنے والا ہےo",
+                            "verse 64:4": "وہی تو ہے جس نے تم کو پیدا کیا پھر کوئی تم میں کافر ہے اور کوئی مومن۔ اور جو کچھ تم کرتے ہو خدا اس کو دیکھتا ہے",
+                            "verse 64:5": "اسی نے آسمانوں اور زمین کو مبنی برحکمت پیدا کیا اور اسی نے تمہاری صورتیں بنائیں اور صورتیں بھی پاکیزہ بنائیں۔ اور اسی کی طرف (تمہیں) لوٹ کر جانا ہے",
+                            "verse 64:6": "اسي نے آسمانوں اور زمين کو حکمت و مقصد کے ساتھ پيدا فرمايا اور (اسي نے) تمہاري صورتيں بنائيں پھر تمہاري صورتوں کو خوب تر کيا، اور (سب کو) اسي کي طرف لوٹ کر جانا ہےo",
+                            "verse 64:7": "جو کچھ آسمانوں اور زمين ميں ہے وہ جانتا ہے اور ان باتوں کو (بھي) جانتا ہے جو تم چھپاتے ہو، اور جو ظاہر کرتے ہو اور اللہ سينوں والي (راز کي) باتوں کو (بھي) خوب جاننے والا ہےo",
+                            "verse 64:8": "جو کچھ آسمانوں اور زمین میں ہے وہ سب جانتا ہے اور جو کچھ تم چھپا کر کرتے ہو اور جو کھلم کھلا کرتے ہو اس سے بھی آگاہ ہے۔ اور خدا دل کے بھیدوں سے واقف ہے",
+                            "verse 64:9": "کیا تم کو ان لوگوں کے حال کی خبر نہیں پہنچی جو پہلے کافر ہوئے تھے تو انہوں نے اپنے کاموں کی سزا کا مزہ چکھ لیا اور (ابھی) دکھ دینے والا عذاب (اور) ہونا ہے",
+                            "verse 64:10": "کيا تمہيں اُن لوگوں کي خبر نہيں پہنچي جنہوں نے (تم سے) پہلے کفر کيا تھا تو انہوں نے (دنيا ميں) اپنے کام کي سزا چکھ لي اور ان کے لئے (آخرت ميں بھي) دردناک عذاب ہےo",
+                            "verse 64:11": "يہ اس لئے کہ اُن کے پاس اُن کے رسول واضح نشانياں لے کر آتے تھے تو وہ کہتے تھے: کيا (ہماري ہي مثل اور ہم جنس) بشر? ہميں ہدايت کريں گے؟ سو وہ کافر ہوگئے اور انہوں نے (حق سے) رُوگرداني کي اور اللہ نے بھي (اُن کي) کچھ پرواہ نہ کي، اور اللہ بے نياز ہے لائقِ حمد و ثنا ہےo? بشر کا يہ معني ائمہ تفاسير کے بيان کردہ معني کے مطابق ہے? حوالہ جات کے لئے ديکھيں: تفسير طبري، الکشاف، نسفي، بغوي، خازن، جمل، مظہري اور فتح القدير وغيرہ?",
+                            "verse 64:12": "یہ اس لئے کہ ان کے پاس پیغمبر کھلی نشانیاں لے کر آئے تو یہ کہتے کہ کیا آدمی ہمارے ہادی بنتے ہیں؟ تو انہوں نے (ان کو) نہ مانا اور منہ پھیر لیا اور خدا نے بھی بیپروائی کی۔ اور خدا بیپروا (اور) سزاوار حمد (وثنا) ہے",
+                            "verse 64:13": "جو لوگ کافر ہیں ان کا اعتقاد ہے کہ وہ (دوبارہ) ہرگز نہیں اٹھائے جائیں گے۔ کہہ دو کہ ہاں ہاں میرے پروردگار کی قسم تم ضرور اٹھائے جاؤ گے پھر جو کام تم کرتے رہے ہو وہ تمہیں بتائے جائیں گے اور یہ (بات) خدا کو آسان ہے",
+                            "verse 64:14": "کافر لوگ يہ خيال کرتے ہيں کہ وہ (دوبارہ) ہرگز نہ اٹھائے جائيں گے? فرما ديجئے: کيوں نہيں، ميرے رب کي قسم! تم ضرور اٹھائے جاؤ گے پھر تمہيں بتا ديا جائے گا جو کچھ تم نے کيا تھا، اور يہ اللہ پر بہت آسان ہےo",
+                            "verse 64:15": "پس تم اللہ اور اُس کے رسول (صلي اللہ عليہ وآلہ وسلم) پر اور اُس نور پر ايمان لاؤ جسے ہم نے نازل فرمايا ہے، اور اللہ اُن کاموں سے خوب آگاہ ہے جو تم کرتے ہوo",
+                            "verse 64:16": "تو خدا پر اور اس کے رسول پر اور نور (قرآن) پر جو ہم نے نازل فرمایا ہے ایمان لاؤ۔ اور خدا تمہارے سب اعمال سے خبردار ہے",
+                            "verse 64:17": "جس دن وہ تم کو اکھٹا ہونے (یعنی قیامت) کے دن اکھٹا کرے گا وہ نقصان اٹھانے کا دن ہے۔ اور جو شخص خدا پر ایمان لائے اور نیک عمل کرے وہ اس سے اس کی برائیاں دور کردے گا اور باغہائے بہشت میں جن کے نیچے نہریں بہہ رہی ہیں داخل کرے گا۔ ہمیشہ ان میں رہیں گے۔ یہ بڑی کامیابی ہے",
+                            "verse 64:18": "جس دن وہ تمہيں جمع ہونے کے دن (ميدانِ حشر ميں) اکٹھا کرے گا يہ ہار اور نقصان ظاہر ہونے کا دن ہے? اور جو شخص اللہ پر ايمان لاتا ہے اور نيک عمل کرتا ہے تو (اللہ) اس (کے نام? اعمال) سے اس کي خطائيں مٹا دے گا اور اسے جنتوں ميں داخل فرما دے گا جن کے نيچے سے نہريں بہہ رہي ہيں وہ ان ميں ہميشہ رہنے والے ہوں گے، يہ بہت بڑي کاميابي ہےo",
+                            "verse 64:19": "اور جن لوگوں نے کفر کيا اور ہماري آيتوں کو جھٹلايا وہي لوگ دوزخي ہيں (جو) اس ميں ہميشہ رہنے والے ہيں، اور وہ کيا ہي برا ٹھکانا ہےo",
+                            "verse 64:20": "اور جنہوں نے کفر کیا اور ہماری آیتوں کو جھٹلایا وہی اہل ذوزخ ہیں۔ ہمیشہ اس میں رہیں گے۔ اور وہ بری جگہ ہے",
+                            "verse 64:21": "کوئی مصیبت نازل نہیں ہوتی مگر خدا کے حکم سے۔ اور جو شخص خدا پر ایمان لاتا ہے وہ اس کے دل کو ہدایت دیتا ہے۔ اور خدا ہر چیز سے باخبر ہے",
+                            "verse 64:22": "(کسي کو) کوئي مصيبت نہيں پہنچتي مگر اللہ کے حکم سے اور جو شخص اللہ پر ايمان لاتا ہے تو وہ اُس کے دل کو ہدايت فرما ديتا ہے، اور اللہ ہر چيز کو خوب جاننے والا ہےo",
+                            "verse 64:23": "اور تم اللہ کي اطاعت کرو اور رسول (صلي اللہ عليہ وآلہ وسلم) کي اطاعت کرو، پھر اگر تم نے رُوگرداني کي تو (ياد رکھو) ہمارے رسول (صلي اللہ عليہ وآلہ وسلم) کے ذمّہ صرف واضح طور پر (احکام کو) پہنچا دينا ہےo",
+                            "verse 64:24": "اور خدا کی اطاعت کرو اور اس کے رسول کی اطاعت کرو۔ اگر تم منہ پھیر لو گے تو ہمارے پیغمبر کے ذمے تو صرف پیغام کا کھول کھول کر پہنچا دینا ہے",
+                            "verse 64:25": "خدا (جو معبود برحق ہے اس) کے سوا کوئی عبادت کے لائق نہیں تو مومنوں کو چاہیئے کہ خدا ہی پر بھروسا رکھیں",
+                            "verse 64:26": "اللہ (ہي معبود) ہے اس کے سوا کوئي معبود نہيں، اور اللہ ہي پر ايمان والوں کو بھروسہ رکھنا چاہئےo",
+                            "verse 64:27": "اے ايمان والو! بيشک تمہاري بيويوں اور تمہاري اولاد ميں سے بعض تمہارے دشمن ہيں پس اُن سے ہوشيار رہو? اور اگر تم صرفِ نظر کر لو اور درگزر کرو اور معاف کر دو تو بيشک اللہ بڑا بخشنے والا نہايت مہربان ہےo",
+                            "verse 64:28": "مومنو! تمہاری عورتیں اور اولاد میں سے بعض تمہارے دشمن (بھی) ہیں سو ان سے بچتے رہو۔ اور اگر معاف کردو اور درگزر کرو اور بخش دو تو خدا بھی بخشنے والا مہربان ہے",
+                            "verse 64:29": "تمہارا مال اور تمہاری اولاد تو آزمائش ہے۔ اور خدا کے ہاں بڑا اجر ہے",
+                            "verse 64:30": "تمہارے مال اور تمہاري اولاد محض آزمائش ہي ہيں، اور اللہ کي بارگاہ ميں بہت بڑا اجر ہےo",
+                            "verse 64:31": "پس تم اللہ سے ڈرتے رہو جس قدر تم سے ہوسکے اور (اُس کے احکام) سنو اور اطاعت کرو اور (اس کي راہ ميں) خرچ کرو يہ تمہارے لئے بہتر ہوگا، اور جو اپنے نفس کے بخل سے بچا ليا جائے سو وہي لوگ فلاح پانے والے ہيںo",
+                            "verse 64:32": "سو جہاں تک ہوسکے خدا سے ڈرو اور (اس کے احکام کو) سنو اور (اس کے) فرمانبردار رہو اور (اس کی راہ میں) خرچ کرو (یہ) تمہارے حق میں بہتر ہے۔ اور جو شخص طبعیت کے بخل سے بچایا گیا تو ایسے ہی لوگ راہ پانے والے ہیں",
+                            "verse 64:33": "اگر تم خدا کو (اخلاص اور نیت) نیک (سے) قرض دو گے تو وہ تم کو اس کا دوچند دے گا اور تمہارے گناہ بھی معاف کردے گا۔ اور خدا قدر شناس اور بردبار ہے",
+                            "verse 64:34": "اگر تم اللہ کو (اخلاص اور نيک نيتي سے) اچھا قرض دوگے تو وہ اسے تمہارے لئے کئي گنا بڑھا دے گا اور تمہيں بخش دے گا، اور اللہ بڑا قدر شناس ہے بُردبار ہےo",
+                            "verse 64:35": "ہر نہاں اور عياں کو جاننے والا ہے، بڑے غلبہ و عزت والا بڑي حکمت والا ہےo",
+                            "verse 64:36": "پوشیدہ اور ظاہر کا جاننے والا غالب اور حکمت والا ہے ہےo"
+                        }
+                    }
+                }
+            },
+            "uzbek": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 64:1": "Осмонлардаги нарсалар ва ердаги нарсалар Аллоҳга тасбиҳ айтурлар.",
+                            "verse 64:2": "У сизларни яратган зотдир.",
+                            "verse 64:3": "У осмонлару ерни ҳақ билан яратди.",
+                            "verse 64:4": "У осмонлару ердаги нарсаларни биладир.",
+                            "verse 64:5": "Сизларга олдин кофир бўлганларнинг хабари келмадими? Бас, улар ўз ишларининг азобини татидилар ва уларга аламли азоблар бор.",
+                            "verse 64:6": "Бунинг боиси шундаки, уларга Пайғамбарлари ойдин далиллар билан келардилар, улар бўлса, бизни башар ҳидоятга бошлайдими, деб куфрга кетардилар ва (ҳақдан) юз ўгирардилар.",
+                            "verse 64:7": "Кофирлар ҳеч қайта тирилмасликларини даъво қилдилар.",
+                            "verse 64:8": "Бас, Аллоҳга, Унинг Расулига ва Биз туширган нурга иймон келтиринглар.",
+                            "verse 64:9": "У сизларни «Жамлаш куни»га тўплайдиган кунни эсланг.",
+                            "verse 64:10": "Куфр келтириб, Бизнинг оятларимизни ёлғонга чиқарганлар, ана ўшалар, оташ эгаларидир.",
+                            "verse 64:11": "Сизга Аллоҳнинг изнисиз ҳеч бир мусибат етмас.",
+                            "verse 64:12": "Аллоҳга итоат қилинг ва ҳамда Расулга итоат қилинг.",
+                            "verse 64:13": "Аллоҳ, Ундан ўзга ибодатга сазовор зот йўқ.",
+                            "verse 64:14": "Эй иймон келтирганлар! Албатта, жуфтларингиздан ва болаларингиздан сизга душман бор, бас, улардан ҳазир бўлинг.",
+                            "verse 64:15": "Албатта, мол-мулкларингиз ва фарзандларингиз синовдан бошқа нарса эмас.",
+                            "verse 64:16": "Аллоҳга қўлингиздан келганича тақво қилинг ва (амрини) тингланг ва итоат қилинг ва инфоқ қилинг - ўзингизга яхши бўлади.",
+                            "verse 64:17": "Агар Аллоҳга яхши қарз берсангиз, У сизга кўпайтириб берур ва сизни кечирур.",
+                            "verse 64:18": "У ғойиб ва ошкорни билувчи, азиз ва ҳаким зотдир."
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

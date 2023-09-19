@@ -1,0 +1,537 @@
+{
+    "surah_name": "Al-Kâfirûn",
+    "surah_name_ar": "الكافرون",
+    "verses": {
+        "languages": {
+            "albanian": {
+                "translators": {
+                    "1": {
+                        "Efendi Nahi": {
+                            "verse 109:1": "Thuaj: “O ju mohues!",
+                            "verse 109:2": "Unë nuk do ta adhurojë atë, që po e adhuroni ju,",
+                            "verse 109:3": "e as ju nuk do ta adhuroni Atë që po e adhuroj unë;",
+                            "verse 109:4": "Unë nuk kam adhuruar atë që e keni adhuruar ju,",
+                            "verse 109:5": "por, edhe ju nuk e keni adhuruar Atë, që po e adhuroj unë.",
+                            "verse 109:6": "Ju keni besimin tuaj, e unë kam besimin tim!” unë."
+                        }
+                    }
+                }
+            },
+            "azerbaijani": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "(Ya Peyğəmbər! Sənə - bir il bizim bütlərimizə ibadət et, bir il də biz sənin Rəbbinə ibadət edək - deyən müşriklərə) de: \"Ey kafirlər!",
+                            "verse 109:2": "Mən sizin ibadət etdiklərinizə (bütlərə) ibadət etmərəm!",
+                            "verse 109:3": "Siz də mənim ibadət etdiyimə (Allaha) ibadət etməzsiniz!",
+                            "verse 109:4": "Mən sizin ibadət etdiklərinizə ibadət edən deyiləm!",
+                            "verse 109:5": "Siz də mənim ibadət etdiyimə ibadət edən deyilsiniz!",
+                            "verse 109:6": "Sizin öz dininiz var, mənim də öz dinim! (Elə isə sizin dininiz sizə, mənim dinim də mənə)!\""
+                        }
+                    }
+                }
+            },
+            "bosnian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "Reci: \"O vi nevjernici,",
+                            "verse 109:2": "ja se neću klanjati onima kojima se vi klanjate,",
+                            "verse 109:3": "a ni vi se nećete klanjati Onome kome se ja klanjam;",
+                            "verse 109:4": "ja se nisam klanjao onima kojima ste se vi klanjali,",
+                            "verse 109:5": "a i vi se niste klanjali Onome kome se ja klanjam,",
+                            "verse 109:6": "vama - vaša vjera, a meni - moja!” klanjam,"
+                        }
+                    }
+                }
+            },
+            "bengali": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "বলুন, হে কাফেরকূল,",
+                            "verse 109:2": "আমি এবাদত করিনা, তোমরা যার এবাদত কর।",
+                            "verse 109:3": "এবং তোমরাও এবাদতকারী নও, যার এবাদত আমি করি",
+                            "verse 109:4": "এবং আমি এবাদতকারী নই, যার এবাদত তোমরা কর।",
+                            "verse 109:5": "তোমরা এবাদতকারী নও, যার এবাদত আমি করি।",
+                            "verse 109:6": "তোমাদের কর্ম ও কর্মফল তোমাদের জন্যে এবং আমার কর্ম ও কর্মফল আমার জন্যে। করি।"
+                        }
+                    }
+                }
+            },
+            "bulgarian": {
+                "translators": {
+                    "1": {
+                        "Tzvetan Theophanov": {
+                            "verse 109:1": "Кажи [о, Мухаммад]: О, неверници,",
+                            "verse 109:2": "аз не служа на това, на което вие служите,",
+                            "verse 109:3": "и вие не служите на това, на което аз служа.",
+                            "verse 109:4": "И аз не служа на това, на което вие служите,",
+                            "verse 109:5": "и вие не служите на това, на което аз служа.",
+                            "verse 109:6": "Вие си имате вашата религия и аз имам своята религия."
+                        }
+                    }
+                }
+            },
+            "chinese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "你說:\"不信道的人們啊！",
+                            "verse 109:2": "我不崇拜你們所崇拜的 ,",
+                            "verse 109:3": "你們也不崇拜我所崇拜的 ;",
+                            "verse 109:4": "我不會崇拜你們所崇拜的 ,",
+                            "verse 109:5": "你們也不會崇拜我所崇拜的 ;",
+                            "verse 109:6": "你們有你們的報應 ,我也有我的報應。\" ;"
+                        }
+                    }
+                }
+            },
+            "czech": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "Rci: \"Nevěřící!",
+                            "verse 109:2": "Já nebudu uctívat to, co vy uctíváte,",
+                            "verse 109:3": "a vy nejste ctitelé toho, co já uctívám,",
+                            "verse 109:4": "a já nejsem ctitelem toho, co vy jste uctívali,",
+                            "verse 109:5": "a vy neuctíváte to, co já uctívám.",
+                            "verse 109:6": "Vy máte své náboženství a já své náboženství mám."
+                        }
+                    }
+                }
+            },
+            "dutch": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "Zeg: \"O gij ongelovigen,",
+                            "verse 109:2": "Ik bid niet aan, wat gij aanbidt,",
+                            "verse 109:3": "Noch gij bidt aan, wat ik aanbid.",
+                            "verse 109:4": "Noch wil ik aanbidden, wat gij aanbidt,",
+                            "verse 109:5": "Nogmaals gij wilt niet aanbidden wat ik aanbid.",
+                            "verse 109:6": "Derhalve voor u uw godsdienst en voor mij mijn godsdienst."
+                        }
+                    }
+                }
+            },
+            "english": {
+                "translators": {
+                    "1": {
+                        "Marmaduke Pickthall": {
+                            "verse 109:1": "Say: O disbelievers!",
+                            "verse 109:2": "I worship not that which ye worship;",
+                            "verse 109:3": "Nor worship ye that which I worship.",
+                            "verse 109:4": "And I shall not worship that which ye worship.",
+                            "verse 109:5": "Nor will ye worship that which I worship.",
+                            "verse 109:6": "Unto you your religion, and unto me my religion."
+                        }
+                    },
+                    "2": {
+                        "Abdullah Yusuf Ali": {
+                            "verse 109:1": "Say : O ye that reject Faith!",
+                            "verse 109:2": "I worship not that which ye worship,",
+                            "verse 109:3": "Nor will ye worship that which I worship.",
+                            "verse 109:4": "And I will not worship that which ye have been wont to worship,",
+                            "verse 109:5": "Nor will ye worship that which I worship.",
+                            "verse 109:6": "To you be your Way, and to me mine."
+                        }
+                    },
+                    "3": {
+                        "Arthur J. Arberry": {
+                            "verse 109:1": "Say: ’O unbelievers,",
+                            "verse 109:2": "I serve not what you serve",
+                            "verse 109:3": "and you are not serving what I serve,",
+                            "verse 109:4": "nor am I serving what you have served,",
+                            "verse 109:5": "neither are you serving what I serve",
+                            "verse 109:6": "To you your religion, and to me my religion!’ serve"
+                        }
+                    },
+                    "4": {
+                        "Muhammad Asad": {
+                            "verse 109:1": "SAY: \"O you who deny the truth!",
+                            "verse 109:2": "\"I do not worship that which you worship,",
+                            "verse 109:3": "and neither do you worship that which I worship.",
+                            "verse 109:4": "\"And I will not worship that which you have",
+                            "verse 109:5": "worshipped,",
+                            "verse 109:6": "and neither will you",
+                            "verse 109:7": "worship that which I worship.",
+                            "verse 109:8": "\"Unto you, your moral law, and unto me, mine!\""
+                        }
+                    },
+                    "5": {
+                        "Martin Lings": {
+                            "verse 109:1": "Say: O disbelievers.",
+                            "verse 109:2": "I shall not worship that which ye worship.",
+                            "verse 109:3": "Nor will ye worship that which I worship.",
+                            "verse 109:4": "Nor have I worshipped that which ye worship.",
+                            "verse 109:5": "Nor have ye worshipped that which I worship.",
+                            "verse 109:6": "For you your religion and for me mine.",
+                            "verse 109:7": "Used• Unpublished Material (1938-2005) BOOKS•",
+                            "verse 109:8": "The Book of Certainty (1952) •",
+                            "verse 109:9": "A Sufi Saint of the Twentieth Century (1961) •",
+                            "verse 109:10": "What is Sufism (1975) •",
+                            "verse 109:11": "The Quranic Art of Calligraphy and Illumination (1976) •",
+                            "verse 109:12": "Muhammad (1983) •",
+                            "verse 109:13": "Symbol and Archetype (1991) •",
+                            "verse 109:14": "Sufi Poems (2004) •",
+                            "verse 109:15": "Mecca (2004) •",
+                            "verse 109:16": "Return to the Spirit (2005) •",
+                            "verse 109:17": "Splendours of Qur’an Calligraphy and Illumination (2005) ARTICLES•",
+                            "verse 109:18": "“Proofs of Islam”(1954).",
+                            "verse 109:19": "“The Islamic and Christian Conceptions of the March of Time” (1954) The Islamic Quarterly, Vol.",
+                            "verse 109:20": "“The Origins of Sufism (1956) The Islamic Quarterly, Vol.",
+                            "verse 109:21": "“Sufism”: Religion in the Middle East (1969); ed.",
+                            "verse 109:22": "“Sufi Answers to Questions On Ultimate Reality”: Studies in Comparative Religions 1979 Summer/Autumn •",
+                            "verse 109:23": "“The Nature and Origin of Sufism”: Islamic Spirituality (1985) •",
+                            "verse 109:24": "“Mystical Poetry”: The Cambridge History of Arabic Literature, Vol.",
+                            "verse 109:25": "“The Quranic Doctrine of the Afterlife” •",
+                            "verse 109:26": "“The Quranic Origins of Sufism” •",
+                            "verse 109:27": "“Human Origins and Destinies According to the Great Religions of the World” •",
+                            "verse 109:28": "“Metaphysics and the Perennial Philosophy” •",
+                            "verse 109:29": "“An Introduction to Islam” •",
+                            "verse 109:30": "“The Universality of the Quran” •",
+                            "verse 109:31": "Private Talks Books",
+                            "verse 109:32": "without Quranic Ayaat• Collected Poems• Ancient Beliefs and Modern Superstitions• The Eleventh Hour• The Secret of ShakespeareArticles without Quranic Ayaat• “Signs of the Times”: Studies in Comparative Religions 1970 Winter• “Ibn Aliwah” Encyclopedia of Islam, Second Edition• “Kabd” Encyclopedia of Islam, Second Edition Books"
+                        }
+                    },
+                    "6": {
+                        "Mufti Muhammad Taqi Uthmani": {
+                            "verse 109:1": "Say, “O disbelievers,",
+                            "verse 109:2": "I do not worship that which you worship,",
+                            "verse 109:3": "nor do you worship the One whom I worship.",
+                            "verse 109:4": "And neither I am going to worship that which you have worshipped,",
+                            "verse 109:5": "nor will you worship the One whom I worship.",
+                            "verse 109:6": "For you is your faith, and for me, my faith."
+                        }
+                    },
+                    "7": {
+                        "Royal Aal al-Bayt Institute Translation": {
+                            "verse 109:1": "Say: ‘O disbelievers!",
+                            "verse 109:2": "I do not worship what you worship,",
+                            "verse 109:3": "and you do not worship what I worship,",
+                            "verse 109:4": "nor will I worship what you have worshipped,",
+                            "verse 109:5": "nor will you worship what I worship.",
+                            "verse 109:6": "You have your religion and I have my religion."
+                        }
+                    },
+                    "8": {
+                        "Recitations of Ibrahim walk from saheeh international": {
+                            "verse 109:1": "Say: ‘O disbelievers!",
+                            "verse 109:2": "I do not worship those (idols) that you worship.",
+                            "verse 109:3": "Nor do you worship (the Lord) Whom I worship.",
+                            "verse 109:4": "And I shall never worship those (idols) that you worship.",
+                            "verse 109:5": "Nor will you (ever) worship (the Lord) Whom I worship.",
+                            "verse 109:6": "(So) you have your din (religion), and I have my Din (Religion)."
+                        }
+                    }
+                }
+            },
+            "finnish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "Sano: »Te, jotka ette usko!",
+                            "verse 109:2": "En palvele sitä, mitä te palvelette,",
+                            "verse 109:3": "ettekä te palvele Häntä, jota minä palvelen.",
+                            "verse 109:4": "Enkä koskaan aio palvella sellaista, mitä te palvelette,",
+                            "verse 109:5": "ettekä te koskaan Häntä, jota minä palvelen.",
+                            "verse 109:6": "Teillä on tuomionne ja minulla palkkani."
+                        }
+                    }
+                }
+            },
+            "french": {
+                "translators": {
+                    "1": {
+                        "Jean-Louis Michon": {
+                            "verse 109:1": "Dis : \" O vous, les mécréants !",
+                            "verse 109:2": "Je n'adore pas ce que vous adorez,",
+                            "verse 109:3": "et vous n'adorez pas ce que j'adore.",
+                            "verse 109:4": "Et moi, je n'adorerai pas ce que vous avez adoré",
+                            "verse 109:5": "pas plus que vous n'adorerez ce que j'adore.",
+                            "verse 109:6": "A vous votre religion, et à moi ma religion \"."
+                        }
+                    },
+                    "2": {
+                        "Muhammad Hamidullah ": {
+                            "verse 109:1": "Dis : «ô vous les infidèles !",
+                            "verse 109:2": "Je n’adore pas ce que vous adorez.",
+                            "verse 109:3": "Et vous n’êtes pas adorateurs de ce que j’adore.",
+                            "verse 109:4": "Je ne suis pas adorateur de ce que vous adorez.",
+                            "verse 109:5": "Et vous n’êtes pas adorateurs de ce que j’adore.",
+                            "verse 109:6": "A vous votre religion, et à moi ma religion»."
+                        }
+                    }
+                }
+            },
+            "german": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "Sprich: «O ihr Ungläubigen!",
+                            "verse 109:2": "Ich verehre nicht das, was ihr verehret,",
+                            "verse 109:3": "Noch verehrt ihr das, was ich verehre.",
+                            "verse 109:4": "Und ich will das nicht verehren, was ihr verehret;",
+                            "verse 109:5": "Noch wollt ihr das verehren, was ich verehre.",
+                            "verse 109:6": "Euch euer Glaube, und mir mein Glaube."
+                        }
+                    }
+                }
+            },
+            "hindi": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "¼,s jlwy½ rqe dg nks fd ,s dkfQjksa",
+                            "verse 109:2": "rqe ftu pht+ksa dks iwtrs gks] eSa mudks ugha iwtrk",
+                            "verse 109:3": "vkSj ftl ¼[+kqnk½ dh eSa bcknr djrk gw¡ mldh rqe bcknr ugha djrs",
+                            "verse 109:4": "vkSj ftUgsa rqe iwtrs gks eSa mudk iwtus okyk ugha",
+                            "verse 109:5": "vkSj ftldh eSa bcknr djrk gw¡ mldh rqe bcknr djus okys ugha",
+                            "verse 109:6": "rqEgkjs fy, rqEgkjk nhu esjs fy, esjk nhu"
+                        }
+                    }
+                }
+            },
+            "indonesian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "Katakanlah: \"Hai orang-orang yang kafir,",
+                            "verse 109:2": "aku tidak akan menyembah apa yang kamu sembah.",
+                            "verse 109:3": "Dan kamu bukan penyembah Tuhan yang aku sembah.",
+                            "verse 109:4": "Dan aku tidak pernah menjadi penyembah apa yang kamu sembah.",
+                            "verse 109:5": "Dan kamu tidak pernah (pula) menjadi penyembah Tuhan yang aku sembah.",
+                            "verse 109:6": "Untukmulah agamamu dan untukkulah agamaku\"."
+                        }
+                    }
+                }
+            },
+            "italian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "Di': \" O miscredenti!",
+                            "verse 109:2": "Io non adoro quel che voi adorate",
+                            "verse 109:3": "e voi non siete adoratori di quel che io adoro.",
+                            "verse 109:4": "Io non sono adoratore di quel che voi avete adorato",
+                            "verse 109:5": "e voi non siete adoratori di quel che io adoro:",
+                            "verse 109:6": "a voi la vostra religione, a me la mia\"."
+                        }
+                    }
+                }
+            },
+            "japanese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "言ってやるがいい。「おお不信者たちよ，",
+                            "verse 109:2": "わたしは，あなたがたが崇めるものを崇めない。",
+                            "verse 109:3": "あなたがたは，わたしが崇めるものを，崇める者たちではない。",
+                            "verse 109:4": "わたしは，あなたがたが崇めてきたものの，崇拝者ではない。",
+                            "verse 109:5": "あなたがたは，わたしが崇めてきたものの，崇拝者ではない。",
+                            "verse 109:6": "あなたがたには，あなたがたの宗教があり，わたしには，わたしの宗教があるのである。」 あなたがたは，わたしが崇めてきたものの，崇拝者ではない。"
+                        }
+                    }
+                }
+            },
+            "korean": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "불신자들에게 일러 가로되",
+                            "verse 109:2": "너희가 숭배하는 것을 내가 숭배하지 아니하며",
+                            "verse 109:3": "내가 경배하는 분을 너희가 경배하지 아니하고",
+                            "verse 109:4": "너희가 숭배했던 것들을 내가숭배하지 아니할 것이며",
+                            "verse 109:5": "내가 경배한 그분을 너희가 경배하지 않을 것이니",
+                            "verse 109:6": "너희에게는 너희의 종교가 있고 나에게는 나의 종교가 있을 뿐이라"
+                        }
+                    }
+                }
+            },
+            "kurdish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "(ئه‌ی محمد (صلی الله علیه وسلم) بڵێ: ئه‌ی کۆمه‌ڵی بێ باوه‌ڕ و خوانه‌ناسان.",
+                            "verse 109:2": "من هه‌رگیز ئه‌و شتانه‌ی که ئێوه ده‌یپه‌رستن نایپه‌رستم (چونکه من خواپه‌رستم).",
+                            "verse 109:3": "ئێوه‌ش دیاره ئه‌وه‌ی من ده‌یپه‌رستم نای په‌رستن (چونکه بت په‌رستن).",
+                            "verse 109:4": "ئه‌وه‌ی ئێوه په‌رستوتانه من هیچ کات نایپه‌رستم.",
+                            "verse 109:5": "ئێوه‌ش، ئه‌و زاته‌ی من ده‌یپه‌رستم نای په‌رستن.",
+                            "verse 109:6": "که‌واته دینی خۆتان بۆ خۆتان و دینی خۆم بۆ خۆم."
+                        }
+                    }
+                }
+            },
+            "malay": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "Katakanlah (wahai Muhammad): Wahai orang-orang kafir!",
+                            "verse 109:2": "Aku tidak akan menyembah apa yang kamu sembah.",
+                            "verse 109:3": "Dan kamu tidak mahu menyembah (Allah) yang aku sembah.",
+                            "verse 109:4": "Dan aku tidak akan beribadat secara kamu beribadat.",
+                            "verse 109:5": "Dan kamu pula tidak mahu beribadat secara aku beribadat.",
+                            "verse 109:6": "Bagi kamu agama kamu dan bagiku agamaku."
+                        }
+                    }
+                }
+            },
+            "persian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "بگو: اى كافران!",
+                            "verse 109:2": "آنچه را شما مى‏پرستيد من نمى‏پرستم!",
+                            "verse 109:3": "و نه شما آنچه را من مى‏پرستم مى‏پرستيد،",
+                            "verse 109:4": "و نه من هرگز آنچه را شما پرستش كرده‏ايد مى‏پرستم،",
+                            "verse 109:5": "و نه شما آنچه را كه من مى‏پرستم پرستش مى‏كنيد;",
+                            "verse 109:6": "(حال كه چنين است) آيين شما براى خودتان، و آيين من براى خودم!"
+                        }
+                    }
+                }
+            },
+            "portuguese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "Dize: Ó incrédulos,",
+                            "verse 109:2": "Não adoro o que adorais,",
+                            "verse 109:3": "Nem vós adorais o que adoro.",
+                            "verse 109:4": "E jamais adorarei o que adorais,",
+                            "verse 109:5": "Nem vós adorareis o que adoro.",
+                            "verse 109:6": "Vós tendes a vossa religião e eu tenho a minha."
+                        }
+                    }
+                }
+            },
+            "romanian": {
+                "translators": {
+                    "1": {
+                        "Lucrarea (traducere úi editare) a fost realizată de către": {
+                            "verse 109:1": "Spune: \"O, voi, necredincioși!",
+                            "verse 109:2": "Eu nu ador ceea ce adorați",
+                            "verse 109:3": "Și nici voi nu adorați ceea ce ador eu.",
+                            "verse 109:4": "Nici adorarea mea nu este asemeni adorãrii voastre,",
+                            "verse 109:5": "Și nici adorarea voastrã nu este asemenea adorãrii mele!",
+                            "verse 109:6": "Voi aveți religia voastrã, iar eu am religia mea! mele!"
+                        }
+                    },
+                    "2": {
+                        "George Grigore, Coranul": {
+                            "verse 109:1": "Spune: “O, tăgăduitorilor!",
+                            "verse 109:2": "Eu nu mă închin la ceea ce vă închinaţi voi.",
+                            "verse 109:3": "Nici voi nu sunteţi închinători la ceea ce mă închin eu.",
+                            "verse 109:4": "Nici eu nu sunt închinător la ceea ce v-aţi închinat voi.",
+                            "verse 109:5": "Nici voi nu sunteţi închinători la ceea ce mă închin eu.",
+                            "verse 109:6": "Voi aveţi legea voastră, iar eu am legea mea!” eu."
+                        }
+                    }
+                }
+            },
+            "russian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "Скажи: «О те, кто отвергает веру!",
+                            "verse 109:2": "Молюсь я не тому,Кому несете вы свои молитвы.",
+                            "verse 109:3": "И вы молебны свои шлете не Тому,Кому молюся я.",
+                            "verse 109:4": "И я не стану поклоняться тем,Кого вы выбрали себе для поклоненья,",
+                            "verse 109:5": "И вы не станете молитвы совершатьТому,Кому молюся я.",
+                            "verse 109:6": "Несите же ответ за вашу веру,А за мою отвечу я пред Ним»."
+                        }
+                    }
+                }
+            },
+            "spanish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "Di: «¡Infieles!",
+                            "verse 109:2": "Yo no sirvo lo que vosotros servís,",
+                            "verse 109:3": "Y vosotros no servís lo que yo sirvo.",
+                            "verse 109:4": "Yo no sirvo lo que vosotros habéis servido",
+                            "verse 109:5": "Y vosotros no servís lo que yo sirvo.",
+                            "verse 109:6": "Vosotros tenéis vuestra religión y yo la mía»."
+                        }
+                    }
+                }
+            },
+            "tamil": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "(நபியே!) நீர் சொல்வீராக: \"காஃபிர்களே!",
+                            "verse 109:2": "நீங்கள் வணங்குபவற்றை நான் வணங்கமாட்டேன்.",
+                            "verse 109:3": "இன்னும், நான் வணங்குகிறவனை நீங்கள் வணங்குகிறவர்களல்லர்.",
+                            "verse 109:4": "அன்றியும், நீங்கள் வணங்குபவற்றை நான் வணங்குபவனல்லன்.",
+                            "verse 109:5": "மேலும், நான் வணங்குபவனை நீங்கள் வணங்குபவர்கள் அல்லர்.",
+                            "verse 109:6": "உங்களுக்கு உங்களுடைய மார்க்கம்; எனக்கு என்னுடைய மார்க்கம்."
+                        }
+                    }
+                }
+            },
+            "thai": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "จงกล่าวเถิดมุฮัมมัดว่า โอ้บรรดาผู้ปฏิเสธศรัทธาเอ๋ย",
+                            "verse 109:2": "ฉันจะไม่เคารพภักดีสิ่งที่พวกท่านเคารพภักดีอยู่",
+                            "verse 109:3": "และพวกท่านก็ไม่ใช่เป็นผู้เคารพภักดีพระเจ้าที่ฉันเคารพภักดี",
+                            "verse 109:4": "และฉันก็มิใช่เป็นผู้เคารพภักดีสิ่งที่พวกท่านเคารพภักดี",
+                            "verse 109:5": "และพวกท่านก็มิใช่เป็นผู้เคารพภักดีพระเจ้าที่ฉันเคารพภักดี",
+                            "verse 109:6": "สำหรับพวกท่านก็คือศาสนาของพวกท่าน และสำหรับฉันก็คือศาสนาของฉัน"
+                        }
+                    }
+                }
+            },
+            "turkish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "Ben sizin tapmakta olduklarınıza tapmam.",
+                            "verse 109:2": "Siz de benim taptığıma tapmıyorsunuz.",
+                            "verse 109:3": "Ben de sizin taptıklarınıza asla tapacak değilim.",
+                            "verse 109:4": "Evet, siz de benim taptığıma tapıyor değilsiniz.",
+                            "verse 109:5": "Sizin dininiz size, benim dinim de banadır."
+                        }
+                    }
+                }
+            },
+            "urdu": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "(اے پیغمبر ان منکران اسلام سے) کہہ دو کہ اے کافرو!",
+                            "verse 109:2": "آپ فرما ديجئے: اے کافرو!o",
+                            "verse 109:3": "ميں ان (بتوں) کي عبادت نہيں کرتا جنہيں تم پوجتے ہوo",
+                            "verse 109:4": "جن (بتوں) کو تم پوچتے ہو ان کو میں نہیں پوجتا",
+                            "verse 109:5": "اور جس (خدا) کی میں عبادت کرتا ہوں اس کی تم عبادت نہیں کرتے",
+                            "verse 109:6": "اور نہ تم اس (رب) کي عبادت کرنے والے ہو جس کي ميں عبادت کرتا ہوںo",
+                            "verse 109:7": "اور نہ (ہي) ميں (آئندہ کبھي) ان کي عبادت کرنے والا ہوں جن (بتوں) کي تم پرستش کرتے ہوo",
+                            "verse 109:8": "اور( میں پھر کہتا ہوں کہ) جن کی تم پرستش کرتے ہوں ان کی میں پرستش کرنے والا نہیں ہوں",
+                            "verse 109:9": "اور نہ تم اس کی بندگی کرنے والے (معلوم ہوتے) ہو جس کی میں بندگی کرتا ہوں",
+                            "verse 109:10": "اور نہ (ہي) تم اس کي عبادت کرنے والے ہو جس (رب) کي ميں عبادت کرتا ہوںo",
+                            "verse 109:11": "(سو) تمہارا دين تمہارے لئے اور ميرا دين ميرے لئے ہےo",
+                            "verse 109:12": "تم اپنے دین پر میں اپنے دین پر ہےo"
+                        }
+                    }
+                }
+            },
+            "uzbek": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 109:1": "Айт: «Эй кофирлар!",
+                            "verse 109:2": "Мен сиз ибодат қилган нарсаларга ибодат қилмасман.",
+                            "verse 109:3": "Ва сизлар ҳам мен ибодат қиладиганга ибодат қилувчимассиз.",
+                            "verse 109:4": "Ва мен сиз ибодат қилган нарсага ибодат қилувчимасман.",
+                            "verse 109:5": "Ва сиз ҳам мен ибодат қилганга ибодат қилувчимассиз.",
+                            "verse 109:6": "Сизга ўз динингиз, менга ўз диним."
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

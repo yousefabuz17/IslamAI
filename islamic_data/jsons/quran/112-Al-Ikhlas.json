@@ -1,0 +1,471 @@
+{
+    "surah_name": "Al-Ikhlâs",
+    "surah_name_ar": "الاخلاص",
+    "verses": {
+        "languages": {
+            "albanian": {
+                "translators": {
+                    "1": {
+                        "Efendi Nahi": {
+                            "verse 112:1": "Thuaj: “Perëndia është Një!",
+                            "verse 112:2": "Perëndisë i drejtohen për çdo gjë!",
+                            "verse 112:3": "(Ai) nuk ka lindur prej ndokujt, as nuk ka lindur kë,",
+                            "verse 112:4": "dhe askush nuk i gjason Atij!” kë,"
+                        }
+                    }
+                }
+            },
+            "azerbaijani": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "(Ya Peyğəmbər! Allahın zatı və sifətləri haqqında səndən soruşan müşriklərə) de: \"(Mənim Rəbbim olan) O Allah birdir (heç bir şəriki yoxdur);",
+                            "verse 112:2": "Allah (heç kəsə, heç nəyə) möhtac deyildir! (Hamı Ona möhtacdır; O, əzəlidir, əbədidir!)",
+                            "verse 112:3": "O, nə doğmuş, nə də doğulmuşdur! (Allah ?zünə heç bir övlad götürməmişdir!)",
+                            "verse 112:4": "Onun heç bir tayı-bərabəri (bənzəri) də yoxdur!\""
+                        }
+                    }
+                }
+            },
+            "bosnian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "Reci: \"On je Allah - Jedan!",
+                            "verse 112:2": "Allah je Utočište svakom!",
+                            "verse 112:3": "Nije rodio i rođen nije,",
+                            "verse 112:4": "i niko Mu ravan nije!\" nije,"
+                        }
+                    }
+                }
+            },
+            "bengali": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "বলুন, তিনি আল্লাহ, এক,",
+                            "verse 112:2": "আল্লাহ অমুখাপেক্ষী,",
+                            "verse 112:3": "তিনি কাউকে জন্ম দেননি এবং কেউ তাকে জন্ম দেয়নি",
+                            "verse 112:4": "এবং তার সমতুল্য কেউ নেই। দেয়নি"
+                        }
+                    }
+                }
+            },
+            "bulgarian": {
+                "translators": {
+                    "1": {
+                        "Tzvetan Theophanov": {
+                            "verse 112:1": "Кажи [о, Мухаммад]: Той е Аллах - Единствения,",
+                            "verse 112:2": "Аллах, Целта [на всички въжделения]!",
+                            "verse 112:3": "Нито е раждал, нито е роден,",
+                            "verse 112:4": "и няма равен Нему."
+                        }
+                    }
+                }
+            },
+            "chinese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "你說：他是真主，是獨一的主；",
+                            "verse 112:2": "真主是萬物所仰賴的；",
+                            "verse 112:3": "他沒有生產，也沒有被生產；",
+                            "verse 112:4": "沒有任何物可以做他的匹敵。 他沒有生產，也沒有被生產；"
+                        }
+                    }
+                }
+            },
+            "czech": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "Rci: \"On Bůh je jedinečný,",
+                            "verse 112:2": "Bůh sám o sobě věčný.",
+                            "verse 112:3": "Neplodil a nebyl zplozen",
+                            "verse 112:4": "a není nikoho, kdo je mu roven."
+                        }
+                    }
+                }
+            },
+            "dutch": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "Zeg: \"God is de Enige.",
+                            "verse 112:2": "God is zichzelf-genoeg, Eeuwig.",
+                            "verse 112:3": "Hij verwekte niet, noch werd Hij verwekt.",
+                            "verse 112:4": "En niemand is Hem in enig opzicht gelijk."
+                        }
+                    }
+                }
+            },
+            "english": {
+                "translators": {
+                    "1": {
+                        "Marmaduke Pickthall": {
+                            "verse 112:1": "Say: He is Allah, the One!",
+                            "verse 112:2": "Allah, the eternally Besought of all!",
+                            "verse 112:3": "He begetteth not nor was begotten.",
+                            "verse 112:4": "And there is none comparable unto Him."
+                        }
+                    },
+                    "2": {
+                        "Abdullah Yusuf Ali": {
+                            "verse 112:1": "Say: He is God, the One and Only;",
+                            "verse 112:2": "God, the Eternal, Absolute;",
+                            "verse 112:3": "He begetteth not, nor is He begotten;",
+                            "verse 112:4": "And there is none like unto Him."
+                        }
+                    },
+                    "3": {
+                        "Arthur J. Arberry": {
+                            "verse 112:1": "Say: ’He is God, One,",
+                            "verse 112:2": "God, the Everlasting Refuge,",
+                            "verse 112:3": "who has not begotten, and has not been begotten,",
+                            "verse 112:4": "and equal to Him is not any one."
+                        }
+                    },
+                    "4": {
+                        "Muhammad Asad": {
+                            "verse 112:1": "SAY: \"He is the One God:",
+                            "verse 112:2": "\"God the Eternal, the Uncaused Cause of All That Exists.",
+                            "verse 112:3": "\"He begets not, and neither is He begotten;",
+                            "verse 112:4": "\"and there is nothing that could be compared with Him."
+                        }
+                    },
+                    "5": {
+                        "Martin Lings": {
+                            "verse 112:1": "Say: He, God, is One.",
+                            "verse 112:2": "",
+                            "verse 112:3": "The",
+                            "verse 112:4": "indivisible One-and-Only.",
+                            "verse 112:5": "",
+                            "verse 112:6": "God- The Eternally Sufficient unto Himself.",
+                            "verse 112:7": "God,",
+                            "verse 112:8": "the Self-Sufficing in Infinite Plenitude.",
+                            "verse 112:9": "the Absolute Plenitude Sufficing-unto-Himself (as-Samad).",
+                            "verse 112:10": "the Totally Sufficing unto Himself in His Infinite Perfection.",
+                            "verse 112:11": "God,",
+                            "verse 112:12": "the Self-Sufficient Besought of all.",
+                            "verse 112:13": "He begetteth not and He is not begotten.",
+                            "verse 112:14": "begetteth not, nor is begotten.",
+                            "verse 112:15": "And there is none like unto Him.",
+                            "verse 112:16": "none is like Him.",
+                            "verse 112:17": "Used• Unpublished Material (1938-2005) BOOKS•",
+                            "verse 112:18": "The Book of Certainty (1952) •",
+                            "verse 112:19": "A Sufi Saint of the Twentieth Century (1961) •",
+                            "verse 112:20": "What is Sufism (1975) •",
+                            "verse 112:21": "The Quranic Art of Calligraphy and Illumination (1976) •",
+                            "verse 112:22": "Muhammad (1983) •",
+                            "verse 112:23": "Symbol and Archetype (1991) •",
+                            "verse 112:24": "Sufi Poems (2004) •",
+                            "verse 112:25": "Mecca (2004) •",
+                            "verse 112:26": "Return to the Spirit (2005) •",
+                            "verse 112:27": "Splendours of Qur’an Calligraphy and Illumination (2005) ARTICLES•",
+                            "verse 112:28": "“Proofs of Islam”(1954).",
+                            "verse 112:29": "“The Islamic and Christian Conceptions of the March of Time” (1954) The Islamic Quarterly, Vol.",
+                            "verse 112:30": "“The Origins of Sufism (1956) The Islamic Quarterly, Vol.",
+                            "verse 112:31": "“Sufism”: Religion in the Middle East (1969); ed.",
+                            "verse 112:32": "“Sufi Answers to Questions On Ultimate Reality”: Studies in Comparative Religions 1979 Summer/Autumn •",
+                            "verse 112:33": "“The Nature and Origin of Sufism”: Islamic Spirituality (1985) •",
+                            "verse 112:34": "“Mystical Poetry”: The Cambridge History of Arabic Literature, Vol.",
+                            "verse 112:35": "“The Quranic Doctrine of the Afterlife” •",
+                            "verse 112:36": "“The Quranic Origins of Sufism” •",
+                            "verse 112:37": "“Human Origins and Destinies According to the Great Religions of the World” •",
+                            "verse 112:38": "“Metaphysics and the Perennial Philosophy” •",
+                            "verse 112:39": "“An Introduction to Islam” •",
+                            "verse 112:40": "“The Universality of the Quran” •",
+                            "verse 112:41": "Private Talks Books",
+                            "verse 112:42": "without Quranic Ayaat• Collected Poems• Ancient Beliefs and Modern Superstitions• The Eleventh Hour• The Secret of ShakespeareArticles without Quranic Ayaat• “Signs of the Times”: Studies in Comparative Religions 1970 Winter• “Ibn Aliwah” Encyclopedia of Islam, Second Edition• “Kabd” Encyclopedia of Islam, Second Edition Books"
+                        }
+                    },
+                    "6": {
+                        "Mufti Muhammad Taqi Uthmani": {
+                            "verse 112:1": "Say, “The truth is that Allah is One.",
+                            "verse 112:2": "Allah is Besought of all, needing none.",
+                            "verse 112:3": "He neither begot anyone, nor was he begotten.",
+                            "verse 112:4": "And equal to Him has never been any one."
+                        }
+                    },
+                    "7": {
+                        "Royal Aal al-Bayt Institute Translation": {
+                            "verse 112:1": "Say: ‘He is God, One.",
+                            "verse 112:2": "God, the Self-Sufficient, Besought of all.",
+                            "verse 112:3": "He neither begot, nor was begotten.",
+                            "verse 112:4": "Nor is there anyone equal to Him’."
+                        }
+                    },
+                    "8": {
+                        "Recitations of Ibrahim walk from saheeh international": {
+                            "verse 112:1": "(O Esteemed Messenger!) Proclaim: ‘He is Allah, Who is the One.",
+                            "verse 112:2": "Allah is the Transcendent of all, the Protector and Far-Superior to all.",
+                            "verse 112:3": "He has not begotten any, nor is He begotten.",
+                            "verse 112:4": "Nor is there anyone equal to Him."
+                        }
+                    }
+                }
+            },
+            "finnish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "Sano: »Hän, Jumala on yksi,",
+                            "verse 112:2": "ainoa Jumala, kaikkivaltias.",
+                            "verse 112:3": "Hän ei ole (toista) synnyttänyt",
+                            "verse 112:4": "eikä ole (toisesta) syntynyt.",
+                            "verse 112:5": "Ketään ei ole Hänen vertaistaan."
+                        }
+                    }
+                }
+            },
+            "french": {
+                "translators": {
+                    "1": {
+                        "Jean-Louis Michon": {
+                            "verse 112:1": "Dis : \" Lui, Dieu, est Un !",
+                            "verse 112:2": "Dieu est le Soutien universel !",
+                            "verse 112:3": "Il n'engendre pas et Il n'est pas engendré,",
+                            "verse 112:4": "et Il n'a pas d'égal."
+                        }
+                    },
+                    "2": {
+                        "Muhammad Hamidullah ": {
+                            "verse 112:1": "Dis : «Il est Dieu, Unique.",
+                            "verse 112:2": "Dieu, Le Seul à être imploré pour ce que nous désirons.",
+                            "verse 112:3": "Il n’a jamais engendré, n’a pas été engendré non plus.",
+                            "verse 112:4": "Et nul n’est égal à Lui»."
+                        }
+                    }
+                }
+            },
+            "german": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "Sprich: «Er ist Allah, der Einzige;",
+                            "verse 112:2": "Allah, der Unabhängige und von allen Angeflehte.",
+                            "verse 112:3": "Er zeugt nicht und ward nicht gezeugt;",
+                            "verse 112:4": "Und keiner ist Ihm gleich."
+                        }
+                    }
+                }
+            },
+            "hindi": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "¼,s jlwy½ rqe dg nks fd [+kqnk ,d gS",
+                            "verse 112:2": "[+kqnk cjgd+ csfu;kt+ gS",
+                            "verse 112:3": "u mlus fdlh dks tuk u mldks fdlh us tuk]",
+                            "verse 112:4": "vkSj mldk dksbZ gelj ugha"
+                        }
+                    }
+                }
+            },
+            "indonesian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "Katakanlah: \"Dia-lah Allah, Yang Maha Esa,",
+                            "verse 112:2": "Allah adalah Tuhan yang bergantung kepada-Nya segala sesuatu.",
+                            "verse 112:3": "Dia tiada beranak dan tiada pula diperanakkan,",
+                            "verse 112:4": "dan tidak ada seorang pun yang setara dengan Dia\"."
+                        }
+                    }
+                }
+            },
+            "italian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "Di': \" Egli Allah è Unico,",
+                            "verse 112:2": "Allah è l'Assoluto .",
+                            "verse 112:3": "Non ha generato, non è stato generato",
+                            "verse 112:4": "e nessuno è eguale a Lui\"."
+                        }
+                    }
+                }
+            },
+            "japanese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "言え，「かれはアッラー，唯一なる御方であられる。",
+                            "verse 112:2": "アッラーは，自存され，",
+                            "verse 112:3": "御産みなさらないし，御産れになられたのではない，",
+                            "verse 112:4": "かれに比べ得る，何ものもない。」 御産みなさらないし，御産れになられたのではない，"
+                        }
+                    }
+                }
+            },
+            "korean": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "일러가로되 하나님은 단 한분이시고",
+                            "verse 112:2": "하나님은 영원하시며",
+                            "verse 112:3": "성자와 성부도 두지 않으셨으 며",
+                            "verse 112:4": "그분과 대등한 것 세상에 없 노라"
+                        }
+                    }
+                }
+            },
+            "kurdish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "(ئه‌ی محمد (صلی الله علیه وسلم) ئه‌ی ئیماندار) بڵێ: ئه‌و خوای که ناوی _ الله‌_ خوایه‌کی تاک و ته‌نهایه (بێ هاوه‌ڵ و هاوتایه‌).",
+                            "verse 112:2": "خوا زاتێکی پایه‌دار و ده‌سه‌ڵاتداره‌، نیازی به که‌س نییه‌و هه‌موویان ئاتاجی ئه‌ون، هه‌ر ئه‌و ده‌توانێ به‌ڵاو و ناخۆشی لابه‌رێت و پێویستی و داخوازیه‌کانمان جێ به جێ بکات.",
+                            "verse 112:3": "هیچ که‌سی لێ نه‌بووه و خۆشی له که‌س نه‌بووه‌.",
+                            "verse 112:4": "هه‌رگیز هاوتاو هاوشێوه و ده‌سه‌ڵاتدارێکی تر نییه که له‌به‌رامبه‌ریه‌وه به‌وه‌ستێت و هاوشانی بێت."
+                        }
+                    }
+                }
+            },
+            "malay": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "Katakanlah (wahai Muhammad): (Tuhanku) ialah Allah Yang Maha Esa.",
+                            "verse 112:2": "Allah Yang menjadi tumpuan sekalian makhluk untuk memohon sebarang hajat.",
+                            "verse 112:3": "Dia tiada beranak dan Dia pula tidak diperanakkan",
+                            "verse 112:4": "Dan tidak ada sesiapapun yang serupa denganNya."
+                        }
+                    }
+                }
+            },
+            "persian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "بگو: خداوند، يكتا و يگانه است;",
+                            "verse 112:2": "خداوندى است كه همه نيازمندان قصد او مى‏كنند;",
+                            "verse 112:3": "(هرگز) نزاد، و زاده نشد،",
+                            "verse 112:4": "و براى او هيچگاه شبيه و مانندى نبوده است!"
+                        }
+                    }
+                }
+            },
+            "portuguese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "Dize: Ele é Deus, o Único!",
+                            "verse 112:2": "Deus! O Absoluto!",
+                            "verse 112:3": "Jamais gerou ou foi gerado!",
+                            "verse 112:4": "E ninguém é comparável a Ele!"
+                        }
+                    }
+                }
+            },
+            "romanian": {
+                "translators": {
+                    "1": {
+                        "Lucrarea (traducere úi editare) a fost realizată de către": {
+                            "verse 112:1": "Spune: \"El este Allah, Cel Unic !",
+                            "verse 112:2": "Allah-us-Samad!",
+                            "verse 112:3": "El nu zãmislește și nu este nãscut",
+                            "verse 112:4": "Și El nu are pe nimeni egal!\" nãscut"
+                        }
+                    },
+                    "2": {
+                        "George Grigore, Coranul": {
+                            "verse 112:1": "Spune: “Unul este Dumnezeu.",
+                            "verse 112:2": "Dumnezeu!.",
+                            "verse 112:3": "El nu naşte şi nu se naşte,",
+                            "verse 112:4": "şi nimeni nu-I este asemenea."
+                        }
+                    }
+                }
+            },
+            "russian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "Скажи: «Он — Аллах — Един;",
+                            "verse 112:2": "Извечен Аллах один,Ему чужды любые нужды,Мы же нуждаемся лишь в Нем2338.",
+                            "verse 112:3": "Он не рождает и Сам не рожден,",
+                            "verse 112:4": "Неподражаем Он и не сравним(ни с чем,Что наше виденье объять способноИли земное знанье может охватить)»."
+                        }
+                    }
+                }
+            },
+            "spanish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "Di: «¡Él es Alá, Uno,",
+                            "verse 112:2": "Dios, el Eterno.",
+                            "verse 112:3": "No ha engendrado, ni ha sido engendrado.",
+                            "verse 112:4": "No tiene par»."
+                        }
+                    }
+                }
+            },
+            "tamil": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "(நபியே!) நீர் கூறுவீராக: அல்லாஹ் அவன் ஒருவனே.",
+                            "verse 112:2": "அல்லாஹ் (எவரிடத்தும்) தேவையற்றவன்.",
+                            "verse 112:3": "அவன் (எவரையும்) பெறவுமில்லை (எவராலும்) பெறப்படவுமில்லை.",
+                            "verse 112:4": "அன்றியும், அவனுக்கு நிகராக எவரும் இல்லை."
+                        }
+                    }
+                }
+            },
+            "thai": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "จงล่าวเถิดมุฮัมมัด พระองค์คืออัลลอฮ์ผู้ทรงเอกกะ",
+                            "verse 112:2": "อัลลอฮ์นั้นทรงเป็นที่พึ่ง",
+                            "verse 112:3": "พระองค์ไม่ประสูติ และไม่ทรงถูกประสูติ",
+                            "verse 112:4": "และไม่มีผู้ใดเสมอเหมือนพระองค์"
+                        }
+                    }
+                }
+            },
+            "turkish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "De ki: O, Allah birdir.",
+                            "verse 112:2": "Allah sameddir.",
+                            "verse 112:3": "O, doğurmamış ve doğmamıştır.",
+                            "verse 112:4": "Onun hiçbir dengi yoktur."
+                        }
+                    }
+                }
+            },
+            "urdu": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "کہو کہ وہ (ذات پاک جس کا نام) الله (ہے) ایک ہے",
+                            "verse 112:2": "(اے نبئ مکرّم!) آپ فرما ديجئے: وہ ا? ہے جو يکتا ہےo",
+                            "verse 112:3": "ا? سب سے بے نياز، سب کي پناہ اور سب پر فائق ہےo",
+                            "verse 112:4": "(وہ) معبود برحق جو بینیاز ہے",
+                            "verse 112:5": "نہ کسی کا باپ ہے اور نہ کسی کا بیٹا",
+                            "verse 112:6": "نہ اس سے کوئي پيدا ہوا ہے اور نہ ہي وہ پيدا کيا گيا ہےo",
+                            "verse 112:7": "اور نہ ہي اس کا کوئي ہمسر ہےo",
+                            "verse 112:8": "اور کوئی اس کا ہمسر نہیں ہےo"
+                        }
+                    }
+                }
+            },
+            "uzbek": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 112:1": "Айт: «У Аллоҳ ягонадир».",
+                            "verse 112:2": "Аллоҳ сомаддир.",
+                            "verse 112:3": "У туғмаган ва туғилмаган.",
+                            "verse 112:4": "Ва Унга ҳеч ким тенг бўлмаган."
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

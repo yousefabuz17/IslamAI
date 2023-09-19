@@ -1,0 +1,466 @@
+{
+    "surah_name": "Al-Masad",
+    "surah_name_ar": "المسد",
+    "verses": {
+        "languages": {
+            "albanian": {
+                "translators": {
+                    "1": {
+                        "Efendi Nahi": {
+                            "verse 111:1": "Ju thafshin duart Ebu Lehebit, dhe iu th?në!",
+                            "verse 111:2": "Nuk i ka ndihmuar atij as pasuria, e as fitimet tjera.",
+                            "verse 111:3": "Ai, me siguri, do të hudhet në zjarrin flakërues,",
+                            "verse 111:4": "ashtu dhe gruaja e tij – dru-bartëse;",
+                            "verse 111:5": "në qafën e saj ka një litar të bërë prej fijeve (të palmës)."
+                        }
+                    }
+                }
+            },
+            "azerbaijani": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "Əbu Ləhəbin əlləri qurusun, qurudu da! (Və ya: Əbu Ləhəbin əlləri qurusun, o ölsün!)",
+                            "verse 111:2": "(Qiyamət günü) ona nə mal-dövləti fayda verəcək, nə də qazandığı (və ya: oğul-uşağı).",
+                            "verse 111:3": "O, alovlu atəşə girəcəkdir.",
+                            "verse 111:4": "Onun odun daşıyan (Peyğəmbərlə düşmənçilik edən, adamlar arasında söz gəzdirən) övrəti də həmçinin!",
+                            "verse 111:5": "Onun (övrətinin) boğazında xurma lifindən hörülmüş ip (və ya: yetmiş arşın uzunluğunda zəncir) olacaqdır!"
+                        }
+                    }
+                }
+            },
+            "bosnian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "Neka propadne Ebu Leheb,",
+                            "verse 111:2": "neće mu biti od koristi blago njegovo, a ni ono što je stekao,",
+                            "verse 111:3": "ući će on, sigurno, u vatru rasplamsalu,",
+                            "verse 111:4": "i žena njegova, koja spletkari;",
+                            "verse 111:5": "o vratu njenu biće uže od ličine usukane! spletkari;"
+                        }
+                    }
+                }
+            },
+            "bengali": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "আবু লাহাবের হস্তদ্বয় ধ্বংস হোক এবং ধ্বংস হোক সে নিজে,",
+                            "verse 111:2": "কোন কাজে আসেনি তার ধন-সম্পদ ও যা সে উপার্জন করেছে।",
+                            "verse 111:3": "সত্বরই সে প্রবেশ করবে লেলিহান অগ্নিতে",
+                            "verse 111:4": "এবং তার স্ত্রীও-যে ইন্ধন বহন করে,",
+                            "verse 111:5": "তার গলদেশে খর্জুরের রশি নিয়ে। করে,"
+                        }
+                    }
+                }
+            },
+            "bulgarian": {
+                "translators": {
+                    "1": {
+                        "Tzvetan Theophanov": {
+                            "verse 111:1": "Да се погубят двете ръце на Абу Лахаб! И той да се погуби!",
+                            "verse 111:2": "Не го избави неговият имот и онова, което е придобил.",
+                            "verse 111:3": "Ще гори в огън с пламъци той",
+                            "verse 111:4": "и жена му, носещата дърва.",
+                            "verse 111:5": "На шията й ще има въже от сплетени влакна."
+                        }
+                    }
+                }
+            },
+            "chinese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "願焰父兩手受傷！他必定受傷 ,",
+                            "verse 111:2": "他的財產 ,和他所獲得的 ,將無裨于他 ,",
+                            "verse 111:3": "他將入有焰的烈火 ,",
+                            "verse 111:4": "他的擔柴的妻子 ,也將入烈火 ,",
+                            "verse 111:5": "她的頸上繫著一條堅實的繩子。 ,"
+                        }
+                    }
+                }
+            },
+            "czech": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "Zhyňte obě ruce Abú Lahaba, a zhynul již i on!",
+                            "verse 111:2": "A nebylo mu k ničemu jmění jeho ani to, co si vysloužil,",
+                            "verse 111:3": "však hořet bude v ohni plném plamenů on",
+                            "verse 111:4": "i žena jeho, jež dříví palivové nosí",
+                            "verse 111:5": "a jíž kol hrdla provaz z vláken palmových visí."
+                        }
+                    }
+                }
+            },
+            "dutch": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "De macht van Aboe Lahab en hijzelf zullen vergaan.",
+                            "verse 111:2": "Zijn rijkdommen en daden zullen hem niet baten.",
+                            "verse 111:3": "Weldra zal hij in een laaiend Vuur branden.",
+                            "verse 111:4": "Ook zijn vrouw, de draagster van brandstof,",
+                            "verse 111:5": "Om haar hals zal een koord van palmvezels hangen."
+                        }
+                    }
+                }
+            },
+            "english": {
+                "translators": {
+                    "1": {
+                        "Marmaduke Pickthall": {
+                            "verse 111:1": "The power of Abu Lahab will perish, and he will perish.",
+                            "verse 111:2": "His wealth and gains will not exempt him.",
+                            "verse 111:3": "He will be plunged in flaming Fire,",
+                            "verse 111:4": "And his wife, the wood-carrier,",
+                            "verse 111:5": "Will have upon her neck a halter of palm-fibre."
+                        }
+                    },
+                    "2": {
+                        "Abdullah Yusuf Ali": {
+                            "verse 111:1": "Perish the hands of the Father of Flame! Perish he!",
+                            "verse 111:2": "No profit to him from all his wealth, and all his gains!",
+                            "verse 111:3": "Burnt soon will he be in a Fire of Blazing Flame!",
+                            "verse 111:4": "His wife shall carry the (crackling) wood - As fuel!-",
+                            "verse 111:5": "A twisted rope of palm-leaf fibre round her (own) neck!"
+                        }
+                    },
+                    "3": {
+                        "Arthur J. Arberry": {
+                            "verse 111:1": "Perish the hands of Abu Lahab, and perish he!",
+                            "verse 111:2": "His wealth avails him not, neither what he has earned;",
+                            "verse 111:3": "he shall roast at a flaming fire",
+                            "verse 111:4": "and his wife, the carrier of the firewood,",
+                            "verse 111:5": "upon her neck a rope of palm-fibre."
+                        }
+                    },
+                    "4": {
+                        "Muhammad Asad": {
+                            "verse 111:1": "DOOMED are the hands of him of the glowing countenance, and doomed is he!",
+                            "verse 111:2": "What will his wealth avail him, and all that he has gained?",
+                            "verse 111:3": "[In the life to come] he shall have to endure a fire fiercely glowing,",
+                            "verse 111:4": "together with his wife, that carrier of evil tales,",
+                            "verse 111:5": "[who bears] around her neck a rope of twisted strands!"
+                        }
+                    },
+                    "5": {
+                        "Martin Lings": {}
+                    },
+                    "6": {
+                        "Mufti Muhammad Taqi Uthmani": {
+                            "verse 111:1": "Perish the two hands of Abū Lahab, and perish he!",
+                            "verse 111:2": "Neither his wealth benefited him, nor what he earned.",
+                            "verse 111:3": "He will soon enter a Fire, full of flames,",
+                            "verse 111:4": "and his wife as well,-the wicked carrier of firewood.",
+                            "verse 111:5": "Around her neck, there is (a collar of iron, like) a well-twisted rope."
+                        }
+                    },
+                    "7": {
+                        "Royal Aal al-Bayt Institute Translation": {
+                            "verse 111:1": "Perish the hands of Abū Lahab and perish he!",
+                            "verse 111:2": "His wealth will not avail him, nor what he has earned.",
+                            "verse 111:3": "He will",
+                            "verse 111:4": "enter a Fire of flames,",
+                            "verse 111:5": "and his wife the carrier of firewood",
+                            "verse 111:6": "with a rope of palm-fibre around her neck."
+                        }
+                    },
+                    "8": {
+                        "Recitations of Ibrahim walk from saheeh international": {
+                            "verse 111:1": "Perished be the two hands of Abu Lahab and be he perished himself (he has pointed his finger to Our Beloved)!",
+                            "verse 111:2": "Neither His (inherited) wealth nor his earned riches have given him any benefit.",
+                            "verse 111:3": "Soon he will tumble into the Flaming Fire,",
+                            "verse 111:4": "And his (damned, wretched) wife (too) who carries (on her head) the burden of (thorny) twigs (and spreads them in the way of Our Beloved, to injure the holy soles of his feet).",
+                            "verse 111:5": "Around her neck will be (the same) palm-fibre rope (she uses to bind the bunch of thorny twigs)."
+                        }
+                    }
+                }
+            },
+            "finnish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "Tuhon omat ovat Abu Lahabin molemmat kädet, ja tuho perii hänet itsensä.",
+                            "verse 111:2": "Hänen rikkautensa ja ansionsa eivät häntä vähääkään hyödytä.",
+                            "verse 111:3": "Pian hän kärventyy tulen liekeissä,",
+                            "verse 111:4": "ja samoin hänen vaimonsa, parjaaja,",
+                            "verse 111:5": "jonka kaulaan on heitetty tiukasti punottu köysi."
+                        }
+                    }
+                }
+            },
+            "french": {
+                "translators": {
+                    "1": {
+                        "Jean-Louis Michon": {
+                            "verse 111:1": "Que périssent les mains d'Abou Lahab et que lui-même périsse !",
+                            "verse 111:2": "A rien ne lui serviront ses richesses et ce qu'il a acquis.",
+                            "verse 111:3": "Il brûlera dans un feu ardent",
+                            "verse 111:4": "ainsi que sa femme, porteuse de bois,",
+                            "verse 111:5": "au cou de laquelle est attachée une corde de fibres."
+                        }
+                    },
+                    "2": {
+                        "Muhammad Hamidullah ": {
+                            "verse 111:1": "Que périssent les deux mains d’Abu-Lahab et que lui-même périsse.",
+                            "verse 111:2": "Sa fortune ne lui sert à rien, ni ce qu’il a acquis.",
+                            "verse 111:3": "Il sera brûlé dans un Feu plein de flammes.",
+                            "verse 111:4": "de même sa femme, la porteuse de bois ,",
+                            "verse 111:5": "à son cou, une corde de fibres."
+                        }
+                    }
+                }
+            },
+            "german": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "Die beiden Hände von Abu Lahab werden vergehen, und er wird vergehen.",
+                            "verse 111:2": "Sein Reichtum und was er erworben hat, soll ihm nichts nützen.",
+                            "verse 111:3": "Bald wird er in ein flammendes Feuer eingehen;",
+                            "verse 111:4": "Und sein Weib (ebenfalls), die arge Verleumderin.",
+                            "verse 111:5": "Um ihren Hals wird ein Strick von gewundenen Palmenfasern sein."
+                        }
+                    }
+                }
+            },
+            "hindi": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "vcq ygc ds gkFk VwV tk,¡ vkSj og [+kqn lR;kukl gks tk,",
+                            "verse 111:2": "¼vkf[+kj½ u mldk eky gh mlds gkFk vk;k vkSj ¼u½ mlus dek;k",
+                            "verse 111:3": "og cgqr HkM+drh gq;h vkx esa nkf[+ky gksxk",
+                            "verse 111:4": "vkSj mldh tks: Hkh tks lj ij bZa/ku mBk, fQjrh gS",
+                            "verse 111:5": "vkSj mlds xys esa cVh gq;h jLlh c¡/kh gS"
+                        }
+                    }
+                }
+            },
+            "indonesian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "Binasalah kedua tangan Abu Lahab dan sesungguhnya dia akan binasa.",
+                            "verse 111:2": "Tidaklah berfaedah kepadanya harta bendanya dan apa yang ia usahakan.",
+                            "verse 111:3": "Kelak dia akan masuk ke dalam api yang bergejolak.",
+                            "verse 111:4": "Dan (begitu pula) istrinya, pembawa kayu bakar.",
+                            "verse 111:5": "Yang di lehernya ada tali dari sabut."
+                        }
+                    }
+                }
+            },
+            "italian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "Periscano le mani di Abu Lahab , e perisca anche lui.",
+                            "verse 111:2": "Le sue ricchezze e i suoi figli non gli gioveranno .",
+                            "verse 111:3": "Sarà bruciato nel Fuoco ardente,",
+                            "verse 111:4": "assieme a sua moglie , la portatrice di legna,",
+                            "verse 111:5": "che avrà al collo una corda di fibre di palma ."
+                        }
+                    }
+                }
+            },
+            "japanese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "アブー・ラハブの両手は滅び，かれも滅びてしまえ。",
+                            "verse 111:2": "かれの富も儲けた金も，かれのために役立ちはしない。",
+                            "verse 111:3": "やがてかれは，燃え盛る炎の業火の中で焼かれよう。",
+                            "verse 111:4": "かれの妻はその薪を運ぶ，",
+                            "verse 111:5": "首に棕櫚の荒縄かけて。 かれの妻はその薪を運ぶ，"
+                        }
+                    }
+                }
+            },
+            "korean": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "아부라합의 손이 멸망하고 파멸 할 것이며",
+                            "verse 111:2": "그의 재물과 그가 얻은 것이 그에게 유익하지 못하니",
+                            "verse 111:3": "그는 곧 타오르는 볼지옥에 이르게 될 것이라",
+                            "verse 111:4": "그의 아내는 연료를 운반할 것이요",
+                            "verse 111:5": "그녀의 목에는 단단히 꼬인 동아줄이 감기리라"
+                        }
+                    }
+                }
+            },
+            "kurdish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "ده‌سته‌کانی بشکێت ئه‌بو له‌هه‌بو ڕسوا بێت، ئاشکرایه که هه‌ر ڕاسوایش ده‌بێت و‎ (له‌ناو ده‌چێت).",
+                            "verse 111:2": "ماڵ و دارای و ئه‌و شتانه‌ی که به ده‌ستی هێناوه‌، فریای نه‌که‌وت.",
+                            "verse 111:3": "له ئاینده‌دا ده‌خرێته ناو ئاگرێکی بڵێسه‌داره‌وه‌.",
+                            "verse 111:4": "هه‌روه‌ها ژنه‌که‌شی که هه‌میشه هه‌ڵگری کۆڵه داره و (ئازاری پێغه‌مبه‌ر ده‌دات).",
+                            "verse 111:5": "هه‌میشه گوریسێکی چنراو له پوشی خورما له گه‌ردنیایه‌تی (له قیامه‌تیش دا زنجیری ئاسن ده‌کرێته گه‌ردنی)."
+                        }
+                    }
+                }
+            },
+            "malay": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "Binasalah kedua-dua tangan Abu Lahab dan binasalah dia bersama;",
+                            "verse 111:2": "Hartanya dan segala yang diusahakannya, tidak dapat menolongnya.",
+                            "verse 111:3": "Dia akan menderita bakaran api Neraka yang marak menjulang.",
+                            "verse 111:4": "Dan juga isterinya, seorang perempuan pemunggah kayu api.",
+                            "verse 111:5": "Di lehernya sejenis tali, dari tali-tali yang dipintal."
+                        }
+                    }
+                }
+            },
+            "persian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "بريده باد هر دو دست ابولهب (و مرگ بر او باد)!",
+                            "verse 111:2": "هرگز مال و ثروتش و آنچه را به دست آورد به حالش سودى نبخشيد!",
+                            "verse 111:3": "و بزودى وارد آتشى شعله‏ور و پرلهيب مى‏شود;",
+                            "verse 111:4": "و (نيز) همسرش، در حالى كه هيزم‏كش (دوزخ) است،",
+                            "verse 111:5": "و در گردنش طنابى است از ليف خرما!"
+                        }
+                    }
+                }
+            },
+            "portuguese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "Que pereça o poder de Abu Láhab e que ele pereça também!",
+                            "verse 111:2": "De nada lhe valerão os seus bens, nem tudo quanto lucrou.",
+                            "verse 111:3": "Entrará no fogo flamígero,",
+                            "verse 111:4": "Bem como a sua mulher, a portadora de lenha,",
+                            "verse 111:5": "Que levará ao pescoço uma corda de esparto."
+                        }
+                    }
+                }
+            },
+            "romanian": {
+                "translators": {
+                    "1": {
+                        "Lucrarea (traducere úi editare) a fost realizată de către": {
+                            "verse 111:1": "Sã piarã mâinile lui Abu Lahab și sã piarã și el !",
+                            "verse 111:2": "Averea lui sã nu-i fie de nici un folos și nici ce a agonisit!",
+                            "verse 111:3": "Va arde în Focul cu flãcãri,",
+                            "verse 111:4": "Împreunã cu muierea lui, aducãtoarea de vreascuri,",
+                            "verse 111:5": "Care va avea la gâtul ei o funie de fire [de palmier]."
+                        }
+                    },
+                    "2": {
+                        "George Grigore, Coranul": {
+                            "verse 111:1": "Să-i piară mâinile lui Abu-Lahab şi el însuşi să piară!",
+                            "verse 111:2": "Să nu-i priască averea-i şi ceea ce a agonisit!",
+                            "verse 111:3": "Într-un foc cu vâlvătaie fi-va aruncat",
+                            "verse 111:4": "dimpreună cu femeia sa, cărătoarea de vreascuri,",
+                            "verse 111:5": "cu o frânghie din sfoară de curmal legată de gât."
+                        }
+                    }
+                }
+            },
+            "russian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "Проклятие рукам Абу Ляхаба!2337И сам он — будь он проклят!",
+                            "verse 111:2": "Ему богатство не поможет,Добро накопленное не спасет!",
+                            "verse 111:3": "Гореть ему во пламенном Огне!",
+                            "verse 111:4": "И будет проклята его жена —Носительница дров,",
+                            "verse 111:5": "Чью шею обовьет крученый жгутИз пальмовых волокон! дров,"
+                        }
+                    }
+                }
+            },
+            "spanish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "¡Perezcan las manos de Abu Lahab! ¡Perezca él!",
+                            "verse 111:2": "Ni su hacienda ni sus adquisiciones le servirán de nada.",
+                            "verse 111:3": "Arderá en un fuego llameante,",
+                            "verse 111:4": "así como su mujer, la acarreadora de leña,",
+                            "verse 111:5": "a su cuello una cuerda de fibras."
+                        }
+                    }
+                }
+            },
+            "tamil": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "அபூலஹபின் இரண்டு கைகளும் நாசமடைக, அவனும் நாசமாகட்டும்.",
+                            "verse 111:2": "அவனுடைய பொருளும், அவன் சம்பாதித்தவையும் அவனுக்குப் பயன்படவில்லை.",
+                            "verse 111:3": "விரைவில் அவன் கொழுந்து விட்டெரியும் நெருப்பில் புகுவான்.",
+                            "verse 111:4": "விறகு சுமப்பவளான அவனுடைய மனைவியோ,",
+                            "verse 111:5": "அவளுடைய கழுத்தில் முறுக்கேறிய ஈச்சங் கயிறுதான் (அதனால் அவளும் அழிவாள்)."
+                        }
+                    }
+                }
+            },
+            "thai": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "มือทั้งสองของอะบีละฮับจงพินาศ และเขาก็พินาศแล้ว",
+                            "verse 111:2": "ทรัพย์สมบัติของเขา และสิ่งที่เขาได้ขวนขวายเอาไว้นั้นมิได้อำนวยประโยชน์แก่เขาเลย",
+                            "verse 111:3": "เขาจะเข้าไปเผาไหม้ในนรกที่มีไฟลุกโชน",
+                            "verse 111:4": "ทั้งภริยาของเขาด้วย นางเป็นผู้แบกฟืน",
+                            "verse 111:5": "ที่คอของนางมีเชือกถักด้วยใยอินทผลัม"
+                        }
+                    }
+                }
+            },
+            "turkish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "Ebu Leheb'in iki eli kurusun! Kurudu da.",
+                            "verse 111:2": "Malı ve kazandıkları ona fayda vermedi.",
+                            "verse 111:3": "O, alevli bir ateşte yanacak.",
+                            "verse 111:4": "Odun taşıyıcı olarak karısı da (ateşe girecek).",
+                            "verse 111:5": "Ve boynunda hurma lifinden bükülmüş bir ip olduğu halde."
+                        }
+                    }
+                }
+            },
+            "urdu": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "ابولہب کے ہاتھ ٹوٹیں اور وہ ہلاک ہو",
+                            "verse 111:2": "ابولہب کے دونوں ہاتھ ٹوٹ جائيں اور وہ تباہ ہو جائے (اس نے ہمارے حبيب پر ہاتھ اٹھانے کي کوشش کي ہے)o",
+                            "verse 111:3": "اسے اس کے (موروثي) مال نے کچھ فائدہ نہ پہنچايا اور نہ ہي اس کي کمائي نےo",
+                            "verse 111:4": "نہ تو اس کا مال ہی اس کے کچھ کام آیا اور نہ وہ جو اس نے کمایا",
+                            "verse 111:5": "وہ جلد بھڑکتی ہوئی آگ میں داخل ہو گا",
+                            "verse 111:6": "عنقريب وہ شعلوں والي آگ ميں جا پڑے گاo",
+                            "verse 111:7": "اور اس کي (خبيث) عورت (بھي) جو (کانٹے دار) لکڑيوں کا بوجھ (سر پر) اٹھائے پھرتي ہے، (اور ہمارے حبيب کے تلووں کو زخمي کرنے کے لئے رات کو ان کي راہوں ميں بچھا ديتي ہے)o",
+                            "verse 111:8": "اور اس کی جورو بھی جو ایندھن سر پر اٹھائے پھرتی ہے",
+                            "verse 111:9": "اس کے گلے میں مونج کی رسّی ہو گی",
+                            "verse 111:10": "اس کي گردن ميں کھجور کي چھال کا (وہي) رسّہ ہوگا (جس سے کانٹوں کا گٹھا باندھتي ہے)o گی"
+                        }
+                    }
+                }
+            },
+            "uzbek": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 111:1": "Абу Лаҳабнинг икки қўли ҳалок бўлсин, ҳалок!",
+                            "verse 111:2": "Унга моли ва касб қилган нарсалари фойда бермади.",
+                            "verse 111:3": "У тезда чўғи қизиб турган ўтга киради.",
+                            "verse 111:4": "Ва унинг хотини, ўтин кўтарган аёл ҳам.",
+                            "verse 111:5": "У(аёл)нинг бўйнида эшилган арқон бор ҳолда."
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,1143 @@
+{
+    "surah_name": "Al-Burûj",
+    "surah_name_ar": "البروج",
+    "verses": {
+        "languages": {
+            "albanian": {
+                "translators": {
+                    "1": {
+                        "Efendi Nahi": {
+                            "verse 85:1": "Betohem në qiellin e stolisur me hyllsi,",
+                            "verse 85:2": "dhe në Ditën e premtuar (Kijametit),",
+                            "verse 85:3": "dhe në dëshmitarët, si dhe në atë që do të dëshmohet (atë ditë),",
+                            "verse 85:4": "mallkuar qofshin ata ë kanë hapur hendeqe,",
+                            "verse 85:5": "dhe që i mbushën me zjarr, me gjithëfarë lënëdësh djegëse,",
+                            "verse 85:6": "(mallkuar qofshin ata) kur u ulën pranë tij",
+                            "verse 85:7": "dhe ishin prezent të asaj (që u bënë besimtarëve)!",
+                            "verse 85:8": "E, (jobesimtarët) i munduan ata vetëm pse i besuan Zotit të Plotëfuqishëm dhe Falenderues,",
+                            "verse 85:9": "pushteti i të cilit shtrihet në qiej dhe në Tokë, - e Perëndia është Dëshmitar i çdo gjëje.",
+                            "verse 85:10": "Pa dyshim, ata që i torturojnë besimtarët dhe besimtaret e që (pastaj) nuk pendohen – i pret dënimi i skëterrës dhe (për ta ka) dënim zjarri,",
+                            "verse 85:11": "e, me të vërtetë, ata që besojnë dhe punojnë vepra të mira – për ta ka kopshte të xhennetit, nëpër të cilët rrjedhin lumenjtë; - e ky është sukses i madh.",
+                            "verse 85:12": "Me të vërtetë, ndëshkimi i Zotit tënd, është i ashpër!",
+                            "verse 85:13": "Me të vërtetë, Ai krijon prej kurrgjëje dhe përsëri i kthen (ps vdekjes – i ringjallë);",
+                            "verse 85:14": "Ai është falës dhe plot dashuri,",
+                            "verse 85:15": "Zot i Arshit (fronit) të Madhërueshëm,",
+                            "verse 85:16": "Ai punon çka të dojë.",
+                            "verse 85:17": "A ka arritur te ti lajmi për ushtritë",
+                            "verse 85:18": "e Faraonit dhe Themudit?",
+                            "verse 85:19": "Por, jobesimtarët – gjithmonë mohojnë,",
+                            "verse 85:20": "e Perëndia (i Plotëfuqishëm), i përfshinë të gjithë,",
+                            "verse 85:21": "ky Kur’an – (që e mohonin ata), është Kur’ani i madhërueshëm,",
+                            "verse 85:22": "i shkruar në Levhi Mahfudh (në pllakën e ruajtur me kujdes)."
+                        }
+                    }
+                }
+            },
+            "azerbaijani": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "And olsun bürclər sahibi olan göyə;",
+                            "verse 85:2": "And olsun və'd olunmuş günə (qiyamət gününə);",
+                            "verse 85:3": "And olsun şəhadət verənə və (haqqından) şəhadət verilənə (peyğəmbərlərə və onların ümmətlərinə, yaxud cümə və Ərəfə günlərinə) ki,",
+                            "verse 85:4": "(Nəcrandan İsaya iman gətirmiş kimsələri yandırıb külə döndərən) xəndək sahibləri (lə'nətə düçar olub) qətl edildilər.",
+                            "verse 85:5": "O xəndəklər ki, çırpı ilə alovlandırılmışdı.",
+                            "verse 85:6": "O zaman onlar (xəndəklərin) kənarında oturub,",
+                            "verse 85:7": "(?z əsgərlərinin) mö'minlərin başlarına gətirdiklərinə (müsibətlərə) tamaşa edirdilər.",
+                            "verse 85:8": "Onlardan (mö'minlərdən) yalnız yenilməz qüvvət sahibi, (hər cür) şükrə (tə'rifə) layiq olan Allaha iman gətirdiklərinə görə intiqam alırdılar.",
+                            "verse 85:9": "O Allah ki, göylərin və yerin istiyarı Onun əlindədir.",
+                            "verse 85:10": "Şübhəsiz ki, mö'min kişi və qadınları (dinlərdən döndərmək üçün) bəlaya düçar edən, sonra da tövbə etməyən kimsələri cəhənnəm əzabı və yandırıb-yaxın atəş əzabı gözləyir.",
+                            "verse 85:11": "İman gətirib yaxşı əməllər edən kimsələri isə (ağacları) altından çaylar axan cənnətlər gözləyir.",
+                            "verse 85:12": "Həqiqətən, sənin Rəbbinin intiqamı çox şiddətlidir!",
+                            "verse 85:13": "Həqiqətən, (insanı) yoxdan var edən və (öldükdən sonra) təkrar dirildən Odur!",
+                            "verse 85:14": "(Bəndələrini) çox bağışlayan, çox sevən də Odur.",
+                            "verse 85:15": "Ərşin sahibi də, şanlı-şərəfli olan da Odur!",
+                            "verse 85:16": "O, istədiyini edəndir.",
+                            "verse 85:17": "(Ya Peyğəmbər!) Orduların xəbəri gəlib sənə çatdımı?-",
+                            "verse 85:18": "Fir'on və Səmud (ordularının)?",
+                            "verse 85:19": "Xeyr, kafir olanlar (səni və Qur'anı) elə hey təkzib etməkdədirlər.",
+                            "verse 85:20": "Onların bütün ixtiyarı Allahın əlindədir!",
+                            "verse 85:21": "Xeyr, o (şe'r deyil) şanlı-şərəfli Qur'andır!",
+                            "verse 85:22": "O, lövhi-məhfuzdadır! (Qur'an Allah dərgahında qorunur."
+                        }
+                    }
+                }
+            },
+            "bosnian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "Tako mi neba sazviježđima okićenog",
+                            "verse 85:2": "i Dana već određenog,",
+                            "verse 85:3": "i prisutnih, i onoga što će biti prisutno -",
+                            "verse 85:4": "prokleti neka su oni koji su rovove iskopali,",
+                            "verse 85:5": "i vatrom i gorivom ih napunili,",
+                            "verse 85:6": "kada su oko nje sjedili",
+                            "verse 85:7": "i bili svjedoci onoga što su vjernici radili!",
+                            "verse 85:8": "A svetili su im se samo zato što su u Allaha, Silnoga i Hvale dostojnoga, vjerovali,",
+                            "verse 85:9": "čija je vlast i na nebesima i na Zemlji - a Allah je svemu Svjedok.",
+                            "verse 85:10": "One koji vjernike i vjernice budu na muke stavljali pa se ne budu pokajali - čeka patnja u Džehennemu i isto tako prženje u ognju,",
+                            "verse 85:11": "a one koji budu vjerovali i dobra djela činili čekaju bašče džennetske kroz koje će rijeke teći a to će veliki uspjeh biti.",
+                            "verse 85:12": "Odmazda Gospodara tvoga će, zaista, užasna biti!",
+                            "verse 85:13": "On iz ničega stvara, i ponovo će to učiniti;",
+                            "verse 85:14": "I on prašta, i pun je ljubavi,",
+                            "verse 85:15": "Gospodar svemira, Uzvišeni,",
+                            "verse 85:16": "On radi šta je Njemu volja.",
+                            "verse 85:17": "Da li je doprla do tebe vijest o vojskama,",
+                            "verse 85:18": "o faraonu i Semudu?",
+                            "verse 85:19": "Ali, ovi koji neće da vjeruju stalno poriču -",
+                            "verse 85:20": "a Allahu oni neće moći umaći:",
+                            "verse 85:21": "a ovo je Kur’an veličanstveni,",
+                            "verse 85:22": "na Ploči pomno čuvanoj."
+                        }
+                    }
+                }
+            },
+            "bengali": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "শপথ গ্রহ-নক্ষত্র শোভিত আকাশের,",
+                            "verse 85:2": "এবং প্রতিশ্রুত দিবসের,",
+                            "verse 85:3": "এবং সেই দিবসের, যে উপস্থিত হয় ও যাতে উপস্থিত হয়",
+                            "verse 85:4": "অভিশপ্ত হয়েছে গর্ত ওয়ালারা অর্থাৎ,",
+                            "verse 85:5": "অনেক ইন্ধনের অগ্নিসংযোগকারীরা;",
+                            "verse 85:6": "যখন তারা তার কিনারায় বসেছিল।",
+                            "verse 85:7": "এবং তারা বিশ্বাসীদের সাথে যা করেছিল, তা নিরীক্ষণ করছিল।",
+                            "verse 85:8": "তারা তাদেরকে শাস্তি দিয়েছিল শুধু এ কারণে যে, তারা প্রশংসিত, পরাক্রান্ত আল্লাহর প্রতি বিশ্বাস স্থাপন করেছিল,",
+                            "verse 85:9": "যিনি নভোমন্ডল ও ভূমন্ডলের ক্ষমতার মালিক, আল্লাহর সামনে রয়েছে সবকিছু।",
+                            "verse 85:10": "যারা মুমিন পুরুষ ও নারীকে নিপীড়ন করেছে, অতঃপর তওবা করেনি, তাদের জন্যে আছে জাহান্নামের শাস্তি, আর আছে দহন যন্ত্রণা,",
+                            "verse 85:11": "যারা ঈমান আনে ও সৎকর্ম করে তাদের জন্যে আছে জান্নাত, যার তলদেশে প্রবাহিত হয় নির্ঝরিণীসমূহ। এটাই মহাসাফল্য।",
+                            "verse 85:12": "নিশ্চয় তোমার পালনকর্তার পাকড়াও অত্যন্ত কঠিন।",
+                            "verse 85:13": "তিনিই প্রথমবার অস্তিত্ব দান করেন এবং পুনরায় জীবিত করেন।",
+                            "verse 85:14": "তিনি ক্ষমাশীল, প্রেমময়;",
+                            "verse 85:15": "মহান আরশের অধিকারী।",
+                            "verse 85:16": "তিনি যা চান, তাই করেন।",
+                            "verse 85:17": "আপনার কাছে সৈন্যবাহিনীর ইতিবৃত্ত পৌছেছে কি?",
+                            "verse 85:18": "ফেরাউনের এবং সামুদের?",
+                            "verse 85:19": "বরং যারা কাফের, তারা মিথ্যারোপে রত আছে।",
+                            "verse 85:20": "আল্লাহ তাদেরকে চতুর্দিক থেকে পরিবেষ্টন করে রেখেছেন।",
+                            "verse 85:21": "বরং এটা মহান কোরআন,",
+                            "verse 85:22": "লওহে মাহফুযে লিপিবদ্ধ। কোরআন,"
+                        }
+                    }
+                }
+            },
+            "bulgarian": {
+                "translators": {
+                    "1": {
+                        "Tzvetan Theophanov": {
+                            "verse 85:1": "Кълна се в небето със съзвездията",
+                            "verse 85:2": "и в обещания Ден,",
+                            "verse 85:3": "и в свидетел, и в освидетелстван!",
+                            "verse 85:4": "Проклети да бъдат хората, изкопали ямата",
+                            "verse 85:5": "за огъня, пълнен с гориво!",
+                            "verse 85:6": "Когато седяха около нея",
+                            "verse 85:7": "и на",
+                            "verse 85:8": "онова, което вършеха с вярващите, бяха свидетели.",
+                            "verse 85:9": "И ги възненавидиха само защото вярваха в Аллах, Всемогъщия, Всеславния,",
+                            "verse 85:10": "Комуто принадлежи владението на небесата и на земята.",
+                            "verse 85:11": "За онези, които изгаряха вярващите мъже и жени, а после не се разкаяха, за тях е мъчението на Ада и за тях е мъчението на кладата.",
+                            "verse 85:12": "За онези, които вярват и вършат праведни дела, за тях са Градините, сред които реки текат.",
+                            "verse 85:13": "Сграбчването на твоя Господ е могъщо.",
+                            "verse 85:14": "Той начева и Той пресъздава.",
+                            "verse 85:15": "Той е Опрощаващия, Любящия,",
+                            "verse 85:16": "Владетеля на Трона, Предостойния,",
+                            "verse 85:17": "Извършващия всичко онова, което пожелае.",
+                            "verse 85:18": "Стигна ли до теб разказът за войските,",
+                            "verse 85:19": "за Фараона и за самудяните?",
+                            "verse 85:20": "Да, онези, които не вярват, отричат.",
+                            "verse 85:21": "Но Аллах ги обгражда в гръб.",
+                            "verse 85:22": "Да, това е славен Коран",
+                            "verse 85:23": "в съхраняван скрижал."
+                        }
+                    }
+                }
+            },
+            "chinese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "誓以有宮分的窮蒼，",
+                            "verse 85:2": "和所警告的日子，",
+                            "verse 85:3": "以及能証的和所証的日子，",
+                            "verse 85:4": "願掘坑的人們，被棄絕，",
+                            "verse 85:5": "那坑裡有燃料點著的火，",
+                            "verse 85:6": "當時，他們坐在坑邊，",
+                            "verse 85:7": "他們見証自己對信士們的罪行，",
+                            "verse 85:8": "他們對於信士們，只責備他們信仰真主——萬能的，可頌的主，",
+                            "verse 85:9": "天地的國權只是他的，真主是見証萬物的。",
+                            "verse 85:10": "迫害信士和信女而不悔過的人們，必受火獄的刑罰，並受火災的懲治。",
+                            "verse 85:11": "信道而且行善的人們，必入下臨諸河的樂園，那確是偉大的成功。",
+                            "verse 85:12": "你的主的懲治，確是嚴厲的。",
+                            "verse 85:13": "他確能創造，且能再造，",
+                            "verse 85:14": "他是至赦的，是至愛的，",
+                            "verse 85:15": "是寶座的主，是尊嚴的，",
+                            "verse 85:16": "是為所欲為的。",
+                            "verse 85:17": "你曾聽見軍隊的故事了嗎？",
+                            "verse 85:18": "法老和賽莫德人的故事。",
+                            "verse 85:19": "不然，不信道的人們陷於否認之中，",
+                            "verse 85:20": "真主是從各方面包羅他們的，",
+                            "verse 85:21": "不然，這是尊嚴的《古蘭經》，",
+                            "verse 85:22": "記錄在一塊受保護的天牌上。 不然，這是尊嚴的《古蘭經》，"
+                        }
+                    }
+                }
+            },
+            "czech": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "Při nebi souhvězdí plném,",
+                            "verse 85:2": "při dni slíbeném,",
+                            "verse 85:3": "při svědkovi a dosvědčeném!",
+                            "verse 85:4": "Byli zabiti lidé příkopu,",
+                            "verse 85:5": "ohně stále živeného palivem!",
+                            "verse 85:6": "Zatímco okolo seděli,",
+                            "verse 85:7": "jsouce svědky toho, co s věřícími dělali,",
+                            "verse 85:8": "a pouze za to se jim mstili, že v Boha mocného, chváleného uvěřili,",
+                            "verse 85:9": "jenž nad nebesy a zemí kraluje - a Bůh svědkem každé věci je!",
+                            "verse 85:10": "Věru těm, kdož věřící muže a ženy pokoušeli a potom pokání nekonali, těm muka pekelná i trest spalující připravili,",
+                            "verse 85:11": "však pro ty, kdož uvěřili a zbožné skutky konali, pro ty jsou zahrady, pod nimiž řeky tekou, určeny - a to věru úspěch bude nesmírný.",
+                            "verse 85:12": "Úder Pána tvého vskutku bude mohutný,",
+                            "verse 85:13": "On je ten, jenž vzniknout všemu dává a návrat působí,",
+                            "verse 85:14": "On odpouštějící je, láskyplný,",
+                            "verse 85:15": "Pán trůnu slavený,",
+                            "verse 85:16": "uskutečňovatel toho, co jemu se zlíbí.",
+                            "verse 85:17": "Doneslo se ti vyprávění o vojscích,",
+                            "verse 85:18": "o Faraónovi a Thamúdovcích?",
+                            "verse 85:19": "Však přesto ti, kdož nevěří, za lež to prohlašují stále,",
+                            "verse 85:20": "zatímco Bůh za jejich zády je obkličuje!",
+                            "verse 85:21": "Vždyť toto je Korán chvályhodný,",
+                            "verse 85:22": "na desce dobře střežené napsaný! chvályhodný,"
+                        }
+                    }
+                }
+            },
+            "dutch": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "Bij de hemel met zijn constellaties.",
+                            "verse 85:2": "En bij de beloofde Dag.",
+                            "verse 85:3": "En bij de getuige en hetgeen waarover hij getuigenis aflegt.",
+                            "verse 85:4": "Vervloekt zijn degenen die groeven maakten -",
+                            "verse 85:5": "Daarin vuur stookten -",
+                            "verse 85:6": "Ziet! Zij zaten er bij,",
+                            "verse 85:7": "En waren getuigen van wat zij de gelovigen aandeden.",
+                            "verse 85:8": "En zij wreekten zich slechts op hen omdat zij in God geloofden, de Almachtige, de Geprezene.",
+                            "verse 85:9": "Aan Wie het koninkrijk der hemelen en der aarde behoort; en God is Getuige van alle dingen.",
+                            "verse 85:10": "En zij, die de gelovige mannen en vrouwen vervolgen en dan geen berouw hebben, voor hen is de straf der hel, en hen wacht de straf van het branden.",
+                            "verse 85:11": "Voorzeker, de gelovigen die goede werken doen, zullen tuinen hebben waardoor rivieren stromen.",
+                            "verse 85:12": "Waarlijk, de greep van uw Heer is hard.",
+                            "verse 85:13": "Hij is het Die schept en weder voortbrengt;",
+                            "verse 85:14": "En Hij is de Vergevende, de Liefderijke;",
+                            "verse 85:15": "De Heer van de Troon, de Roemrijke;",
+                            "verse 85:16": "Uitvoerder van wat Hij wil.",
+                            "verse 85:17": "Heeft het verhaal van de heerscharen u dan niet bereikt,",
+                            "verse 85:18": "Van Pharao en de Samoed?",
+                            "verse 85:19": "Ja, maar de ongelovigen loochenen het.",
+                            "verse 85:20": "En God omsingelt hen van achteraf.",
+                            "verse 85:21": "Voorwaar, het is een glorierijke Koran,",
+                            "verse 85:22": "Op een beschermde tafel."
+                        }
+                    }
+                }
+            },
+            "english": {
+                "translators": {
+                    "1": {
+                        "Marmaduke Pickthall": {
+                            "verse 85:1": "By the heaven, holding mansions of the stars,",
+                            "verse 85:2": "And by the Promised Day.",
+                            "verse 85:3": "And by the witness and that whereunto he beareth testimony,",
+                            "verse 85:4": "(Self-)destroyed were the owners of the ditch",
+                            "verse 85:5": "Of the fuel-fed fire,",
+                            "verse 85:6": "When they sat by it,",
+                            "verse 85:7": "And were themselves the witnesses of what they did to the believers.",
+                            "verse 85:8": "They had naught against them save that they believed in Allah, the Mighty, the Owner of Praise,",
+                            "verse 85:9": "Him unto Whom belongeth the Sovereignty of the heavens and the earth; and Allah is of all things the Witness.",
+                            "verse 85:10": "Lo! they who persecute believing men and believing women and repent not, theirs verily will be the doom of hell, and theirs the doom of burning.",
+                            "verse 85:11": "Lo! those who believe and do good works, theirs will be Gardens underneath which rivers flow.",
+                            "verse 85:12": "Lo! the punishment of thy Lord is stern.",
+                            "verse 85:13": "Lo! He it is Who produceth, then reproduceth,",
+                            "verse 85:14": "And He is the Forgiving, the Loving,",
+                            "verse 85:15": "Lord of the Throne of Glory,",
+                            "verse 85:16": "Doer of what He will.",
+                            "verse 85:17": "Hath there come unto thee the story of the hosts",
+                            "verse 85:18": "Of Pharaoh and (the tribe of) Thamud ?",
+                            "verse 85:19": "Nay, but those who disbelieve live in denial",
+                            "verse 85:20": "And Allah, all unseen, surroundeth them.",
+                            "verse 85:21": "Nay, but it is a glorious Qur’an.",
+                            "verse 85:22": "On a guarded tablet."
+                        }
+                    },
+                    "2": {
+                        "Abdullah Yusuf Ali": {
+                            "verse 85:1": "By the sky, (displaying) the Zodiacal Signs;",
+                            "verse 85:2": "By the promised Day (of Judgment);",
+                            "verse 85:3": "By one that witnesses, and the subject of the witness;-",
+                            "verse 85:4": "Woe to the makers of the pit (of fire),",
+                            "verse 85:5": "Fire supplied (abundantly) with fuel:",
+                            "verse 85:6": "Behold! they sat over against the (fire),",
+                            "verse 85:7": "And they witnessed (all) that they were doing against the Believers.",
+                            "verse 85:8": "And they ill-treated them for no other reason than that they believed in God, Exalted in Power, Worthy of all Praise!-",
+                            "verse 85:9": "Him to Whom belongs the dominion of the heavens and the earth! And God is Witness to all things.",
+                            "verse 85:10": "Those who persecute (or draw into temptation) the Believers, men and women, and do not turn in repentance, will have the Penalty of Hell: They will have the Penalty of the Burning Fire.",
+                            "verse 85:11": "For those who believe and do righteous deeds, will be Gardens; beneath which rivers flow: That is the great Salvation, (the fulfilment of all desires),",
+                            "verse 85:12": "Truly strong is the Grip (and Power) of thy Lord.",
+                            "verse 85:13": "It is He Who creates from the very beginning, and He can restore (life).",
+                            "verse 85:14": "And He is the Oft-Forgiving, Full of Loving-Kindness,",
+                            "verse 85:15": "Lord of the Throne of Glory,",
+                            "verse 85:16": "Doer (without let) of all that He intends.",
+                            "verse 85:17": "Has the story reached thee, of the forces-",
+                            "verse 85:18": "Of Pharaoh and the Thamud?",
+                            "verse 85:19": "And yet the Unbelievers (persist) in rejecting (the Truth)!",
+                            "verse 85:20": "But God doth encompass them from behind!",
+                            "verse 85:21": "Day, this is a Glorious Qur’an,",
+                            "verse 85:22": "(Inscribed) in a Tablet Preserved!"
+                        }
+                    },
+                    "3": {
+                        "Arthur J. Arberry": {
+                            "verse 85:1": "By heaven of the constellations,",
+                            "verse 85:2": "by the promised day,",
+                            "verse 85:3": "by the witness and the witnessed,",
+                            "verse 85:4": "slain were the Men of the Pit,",
+                            "verse 85:5": "the fire abounding in fuel,",
+                            "verse 85:6": "when they were seated over it",
+                            "verse 85:7": "and were themselves witnesses of what they did with the believers.",
+                            "verse 85:8": "They took revenge on them only because they believed in the All-mighty, the Al-laudable,",
+                            "verse 85:9": "God to whom belongs the Kingdom of the heavens and the earth, and God is Witness over everything.",
+                            "verse 85:10": "Those who persecute the believers, men and women, and then have not repented, there awaits them the chastisement of Gehenna, and there awaits them the chastisement of the burning.",
+                            "verse 85:11": "Those who believe, and do righteous deeds, for them await gardens underneath which rivers flow; that is the great triumph.",
+                            "verse 85:12": "Surely thy Lord’s assault is terrible.",
+                            "verse 85:13": "Surely it is He who originates, and brings again,",
+                            "verse 85:14": "and He is the All-forgiving, the All-loving,",
+                            "verse 85:15": "Lord of the Throne, the All-glorious,",
+                            "verse 85:16": "Performer of what He desires.",
+                            "verse 85:17": "Hast thou received the story of the hosts,",
+                            "verse 85:18": "Pharaoh and Thamood?",
+                            "verse 85:19": "Nay, but the unbelievers still cry lies,",
+                            "verse 85:20": "and God is behind them, encompassing.",
+                            "verse 85:21": "Nay, but it is a glorious Koran,",
+                            "verse 85:22": "in a guarded tablet."
+                        }
+                    },
+                    "4": {
+                        "Muhammad Asad": {
+                            "verse 85:1": "CONSIDER the sky full of great constellations,",
+                            "verse 85:2": "and [then bethink thyself of] the promised Day",
+                            "verse 85:3": "and",
+                            "verse 85:4": "Him who witnesses ,",
+                            "verse 85:5": "and",
+                            "verse 85:6": "that unto which witness is borne [by Him]!",
+                            "verse 85:7": "THEY DESTROY",
+                            "verse 85:8": "themselves, they who would ready a pit",
+                            "verse 85:9": "of fire fiercely burning [for all who have attained to faith]!",
+                            "verse 85:10": "Lo! [With glee do] they contemplate that ,",
+                            "verse 85:11": "fully conscious of what they are doing to the believers,",
+                            "verse 85:12": "whom they hate for no other reason than that they believe in God, the Almighty, the One to whom all praise is due,",
+                            "verse 85:13": "",
+                            "verse 85:14": "to whom the dominion of the heavens and the earth belongs.",
+                            "verse 85:15": "Verily, as for those who persecute believing men and believing women, and thereafter do not repent, hell’s suffering awaits them: yea, suffering through fire awaits them!",
+                            "verse 85:16": "",
+                            "verse 85:17": "verily, they who attain to faith and do righteous deeds shall [in the life to come] have gardens through which running waters flow – that triumph most great!",
+                            "verse 85:18": "VERILY, thy Sustainer’s grip is exceedingly strong!",
+                            "verse 85:19": "Behold, it is He who creates",
+                            "verse 85:20": "in the first instance, and He [it is who] will bring him forth anew.",
+                            "verse 85:21": "And He alone is truly-forgiving, all-embracing in His love,",
+                            "verse 85:22": "in sublime almightiness enthroned,",
+                            "verse 85:23": "a sovereign doer of whatever He wills.",
+                            "verse 85:24": "HAS IT ever come within thy ken, the story of the",
+                            "verse 85:25": "hosts",
+                            "verse 85:26": "of Pharaoh, and of [the tribe of] Thamūd?",
+                            "verse 85:27": "And yet, they who are bent on denying the truth persist in giving it the lie:",
+                            "verse 85:28": "but all the while God encompasses them [with His knowledge and might] without their being aware of it.",
+                            "verse 85:29": "Nay, but this [divine writ which they reject] is a discourse sublime,",
+                            "verse 85:30": "upon an imperishable tablet .",
+                            "verse 85:31": "v.",
+                            "verse 85:32": "bears witness that there is no deity save Him” – and the corresponding note 11."
+                        }
+                    },
+                    "5": {
+                        "Martin Lings": {
+                            "verse 85:1": "On a Guarded Tablet.",
+                            "verse 85:2": "On an inviolable tablet.",
+                            "verse 85:3": "Used• Unpublished Material (1938-2005) BOOKS•",
+                            "verse 85:4": "The Book of Certainty (1952) •",
+                            "verse 85:5": "A Sufi Saint of the Twentieth Century (1961) •",
+                            "verse 85:6": "What is Sufism (1975) •",
+                            "verse 85:7": "The Quranic Art of Calligraphy and Illumination (1976) •",
+                            "verse 85:8": "Muhammad (1983) •",
+                            "verse 85:9": "Symbol and Archetype (1991) •",
+                            "verse 85:10": "Sufi Poems (2004) •",
+                            "verse 85:11": "Mecca (2004) •",
+                            "verse 85:12": "Return to the Spirit (2005) •",
+                            "verse 85:13": "Splendours of Qur’an Calligraphy and Illumination (2005) ARTICLES•",
+                            "verse 85:14": "“Proofs of Islam”(1954).",
+                            "verse 85:15": "“The Islamic and Christian Conceptions of the March of Time” (1954) The Islamic Quarterly, Vol.",
+                            "verse 85:16": "“The Origins of Sufism (1956) The Islamic Quarterly, Vol.",
+                            "verse 85:17": "“Sufism”: Religion in the Middle East (1969); ed.",
+                            "verse 85:18": "“Sufi Answers to Questions On Ultimate Reality”: Studies in Comparative Religions 1979 Summer/Autumn •",
+                            "verse 85:19": "“The Nature and Origin of Sufism”: Islamic Spirituality (1985) •",
+                            "verse 85:20": "“Mystical Poetry”: The Cambridge History of Arabic Literature, Vol.",
+                            "verse 85:21": "“The Quranic Doctrine of the Afterlife” •",
+                            "verse 85:22": "“The Quranic Origins of Sufism” •",
+                            "verse 85:23": "“Human Origins and Destinies According to the Great Religions of the World” •",
+                            "verse 85:24": "“Metaphysics and the Perennial Philosophy” •",
+                            "verse 85:25": "“An Introduction to Islam” •",
+                            "verse 85:26": "“The Universality of the Quran” •",
+                            "verse 85:27": "Private Talks Books",
+                            "verse 85:28": "without Quranic Ayaat• Collected Poems• Ancient Beliefs and Modern Superstitions• The Eleventh Hour• The Secret of ShakespeareArticles without Quranic Ayaat• “Signs of the Times”: Studies in Comparative Religions 1970 Winter• “Ibn Aliwah” Encyclopedia of Islam, Second Edition• “Kabd” Encyclopedia of Islam, Second Edition Books"
+                        }
+                    },
+                    "6": {
+                        "Mufti Muhammad Taqi Uthmani": {
+                            "verse 85:1": "I swear by the sky, the one having stellar formations,",
+                            "verse 85:2": "and by the Promised Day,",
+                            "verse 85:3": "and by that which attends, and that which is attended,",
+                            "verse 85:4": "cursed were the People of the Trench,",
+                            "verse 85:5": "the (people of the) fire that was rich with fuel,",
+                            "verse 85:6": "when they were sitting by it,",
+                            "verse 85:7": "and were watching what they were doing with the believers.",
+                            "verse 85:8": "They punished them for nothing but that they believed in Allah, the All-Mighty, the Worthy of All Praise,",
+                            "verse 85:9": "the One to whom belongs the Kingdom of the heavens and the earth.",
+                            "verse 85:10": "Surely, those who persecuted the believing men and the believing women, then did not repent, -for them there is the torment of Jahannam (Hell), and for them there is the torment of burning.",
+                            "verse 85:11": "As for those who believed and did righteous deeds, for them there are gardens beneath which rivers flow.",
+                            "verse 85:12": "The seizure of your Lord is severe indeed!",
+                            "verse 85:13": "Surely He originates (creation) and repeats (it after death).",
+                            "verse 85:14": "And He is the Most-Forgiving, the Most-Loving,",
+                            "verse 85:15": "the Master of the Throne, the Glorious.",
+                            "verse 85:16": "He is ever doer of what He intends.",
+                            "verse 85:17": "Has there come to you the story of the forces,",
+                            "verse 85:18": "of Fir‘aun (Pharaoh) and Thamūd?",
+                            "verse 85:19": "But those who disbelieve are (engaged) in denying (the truth).",
+                            "verse 85:20": "Allah has encompassed them from all sides.",
+                            "verse 85:21": "The reality is that it is the glorious Qur’ān,",
+                            "verse 85:22": "(recorded) in the Preserved Tablet (LauH MaHfūZ)."
+                        }
+                    },
+                    "7": {
+                        "Royal Aal al-Bayt Institute Translation": {
+                            "verse 85:1": "By the heaven of the constellations,",
+                            "verse 85:2": "and",
+                            "verse 85:3": "the promised day,",
+                            "verse 85:4": "and",
+                            "verse 85:5": "the witness, and the witnessed:",
+                            "verse 85:6": "perish the men of the ditch!",
+                            "verse 85:7": "of the fire abounding in fuel,",
+                            "verse 85:8": "when they sat by it,",
+                            "verse 85:9": "and they themselves, to what they did to those who believed, were witnesses.",
+                            "verse 85:10": "And all that they were vindicative towards them of was that they believed in God, the Mighty, the Praised,",
+                            "verse 85:11": "to Whom belongs the kingdom of the heavens and the earth, and God is Witness to all things.",
+                            "verse 85:12": "Indeed those who persecute believing men and believing women, then do not repent, there will be for them the chastisement of Hell, and there will",
+                            "verse 85:13": "be for them the chastisement of burning.",
+                            "verse 85:14": "Indeed those who believe and perform righteous deeds, for them there will be gardens underneath which rivers flow: that is the supreme triumph.",
+                            "verse 85:15": "Assuredly your Lord’s assault is severe.",
+                            "verse 85:16": "Assuredly it is He Who originates and restores,",
+                            "verse 85:17": "and He is the Forgiving, the Loving,",
+                            "verse 85:18": "Lord of the Throne, the Glorious,",
+                            "verse 85:19": "Doer of what He desires.",
+                            "verse 85:20": "Have you received the story of the hosts,",
+                            "verse 85:21": "Pharaoh and Thamūd?",
+                            "verse 85:22": "Nay, but the disbelievers are",
+                            "verse 85:23": "in denial;",
+                            "verse 85:24": "and God is behind them, All-Encompassing.",
+                            "verse 85:25": "Nay, but it is a glorious Qur’ān,",
+                            "verse 85:26": "in a tablet, preserved."
+                        }
+                    },
+                    "8": {
+                        "Recitations of Ibrahim walk from saheeh international": {
+                            "verse 85:1": "By the heaven with its constellations,",
+                            "verse 85:2": "And by the Promised Day,",
+                            "verse 85:3": "And by the One Who will be Present (that Day) and by what will be brought to the presence,",
+                            "verse 85:4": "The (people) of the trenches were slain,",
+                            "verse 85:5": "(The people of) the fierce fire which was (fed) with abundant fuel,",
+                            "verse 85:6": "When they sat beside it,",
+                            "verse 85:7": "And they are themselves witnesses to all they did to the believers (i.",
+                            "verse 85:8": "And nothing (of the believers) was annoying them except that they had believed in Allah the Almighty, All-Praiseworthy,",
+                            "verse 85:9": "To Whom the (entire) kingdom of the heavens and the earth belongs and Allah is Witness over everything.",
+                            "verse 85:10": "Indeed, those who persecute the believing men and women and then do not (even) repent, for them is the punishment of Hell, and for them is (especially) the torment of burning in the Fire.",
+                            "verse 85:11": "And indeed, those who believe and keep doing pious deeds, for them are Gardens with streams flowing under them.",
+                            "verse 85:12": "Surely, the seizure of your Lord is most severe.",
+                            "verse 85:13": "Verily, He creates the first time, and He is the One Who will bring to life the second time.",
+                            "verse 85:14": "And He is the Most Forgiving, the Most Loving,",
+                            "verse 85:15": "The Lord of the Throne (controlling the whole universe) and the Lord of Honour.",
+                            "verse 85:16": "He (thoroughly) executes whatever He intends.",
+                            "verse 85:17": "Has the news of the troops reached you?",
+                            "verse 85:18": "The troops of Pharaoh and Thamud?",
+                            "verse 85:19": "But such disbelievers (persistently strive to) belie (the truth).",
+                            "verse 85:20": "And Allah encompasses (them) from all sides.",
+                            "verse 85:21": "It is indeed the Glorious Qur’an,",
+                            "verse 85:22": "(Inscribed) in the very Well-guarded Tablet (al-Lawh al-Mahfuz)."
+                        }
+                    }
+                }
+            },
+            "finnish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "Nimessä taivaan, joka on täynnä tähtisikermiä,",
+                            "verse 85:2": "nimessä ennustetun päivän,",
+                            "verse 85:3": "nimessä todistajan ja todistetun,",
+                            "verse 85:4": "kirotut olkoot tulikuopan miehet",
+                            "verse 85:5": "polttavan tulen äärellä,",
+                            "verse 85:6": "kun he istuivat siinä",
+                            "verse 85:7": "ja katselivat, mikä on uskovien osa.",
+                            "verse 85:8": "He kantoivat kaunaa näitä vastaan vain sentähden, että nämä uskoivat Jumalaan, kaikkivoipaan, ylistettyyn,",
+                            "verse 85:9": "Häneen, jonka on valta taivaassa ja maan päällä; niin, Jumala on kaiken silminnäkijä.",
+                            "verse 85:10": "Totisesti niitä, jotka vainoavat uskovia, miehiä ja naisia, eivätkä tee parannusta, odottaa helvetin kuritus; niin, heitä odottaa tulen tuska.",
+                            "verse 85:11": "Mutta niitä, jotka uskovat ja tekevät hyviä töitä, totisesti odottavat puutarhat vuolaine virtoineen.",
+                            "verse 85:12": "Totisesti Herrasi voima on väkevä:",
+                            "verse 85:13": "Hänen vallassaan on luominen, Hän herättää jälleen elämään.",
+                            "verse 85:14": "Niin, Hän on anteeksiantava, rakastava.",
+                            "verse 85:15": "Hallitsevan voiman Herra, ylevä,",
+                            "verse 85:16": "mahtava tahtonsa toteuttaja.",
+                            "verse 85:17": "Etkö ole kuullut kertomusta sotajoukoista,",
+                            "verse 85:18": "jotka faraolla ja Tamuudilla oli?",
+                            "verse 85:19": "Niin, epäuskoiset paatuvat hylkimisessään,",
+                            "verse 85:20": "mutta Jumala saartaa heidät joka puolelta.",
+                            "verse 85:21": "Totisesti tämä on ylevä Koraani,",
+                            "verse 85:22": "joka tauluille kirjoitettuna on hyvin säilynyt."
+                        }
+                    }
+                }
+            },
+            "french": {
+                "translators": {
+                    "1": {
+                        "Jean-Louis Michon": {
+                            "verse 85:1": "Par le ciel orné de constellations !",
+                            "verse 85:2": "Par le Jour promis !",
+                            "verse 85:3": "Par celui qui témoigne et par ce qui est témoigné !",
+                            "verse 85:4": "Périssent les Gens de la Fosse !",
+                            "verse 85:5": "Leur feu était sans cesse alimenté",
+                            "verse 85:6": "pendant qu'ils se tenaient assis au bord,",
+                            "verse 85:7": "regardant ce qu'ils infligeaient aux croyants.",
+                            "verse 85:8": "Ils ne leur reprochaient que d'avoir cru en Dieu, le Très-Puissant, Celui qui est digne de toute louange,",
+                            "verse 85:9": "Celui à qui appartient la Royauté des cieux et de la terre.",
+                            "verse 85:10": "Certes, ceux qui auront tourmenté les croyants et les croyantes et qui, ensuite, ne se seront pas repentis subiront le châtiment de la Géhenne, le châtiment brûlant.",
+                            "verse 85:11": "Certes, ceux qui auront cru et accompli des œuvres pies auront des Jardins sous lesquels coulent les fleuves.",
+                            "verse 85:12": "Certes, la rigueur de ton Seigneur est redoutable.",
+                            "verse 85:13": "C'est Lui qui produit la création et la renouvelle.",
+                            "verse 85:14": "Il est le Pardonneur, l'Aimant,",
+                            "verse 85:15": "Il est le Maître du Trône, le Magnanime,",
+                            "verse 85:16": "Celui qui réalise tout ce qu'Il veut.",
+                            "verse 85:17": "T'est-il parvenu le récit des armées",
+                            "verse 85:18": "de Pharaon et des Thamoud ?",
+                            "verse 85:19": "Pourtant, les mécréants persistent à crier au mensonge,",
+                            "verse 85:20": "alors que Dieu les tient à Sa merci.",
+                            "verse 85:21": "Ceci est bien un Coran glorieux,",
+                            "verse 85:22": "écrit sur une Table gardée !"
+                        }
+                    },
+                    "2": {
+                        "Muhammad Hamidullah ": {
+                            "verse 85:1": "Par le ciel aux constellations !",
+                            "verse 85:2": "et par le jour promis !",
+                            "verse 85:3": "et par le témoin et ce dont on témoigne !",
+                            "verse 85:4": "Périssent les gens de l’Ukhdoud ,",
+                            "verse 85:5": "par le feu plein de combustible,",
+                            "verse 85:6": "cependant qu’ils étaient assis tout autour,",
+                            "verse 85:7": "ils étaient ainsi témoins de ce qu’ils faisaient des croyants,",
+                            "verse 85:8": "à qui ils ne leur reprochaient que d’avoir cru en Dieu, le Puissant, le Digne de louange,",
+                            "verse 85:9": "Auquel appartient la royauté des cieux et de la terre.",
+                            "verse 85:10": "Ceux qui font subir des épreuves aux croyants et aux croyantes, puis ne se repentent pas, auront le châtiment de l’Enfer et le supplice du feu.",
+                            "verse 85:11": "Ceux qui croient et accomplissent les bonnes oeuvres auront des Jardins sous lesquels coulent les ruisseaux.",
+                            "verse 85:12": "La riposte de ton Seigneur est redoutable.",
+                            "verse 85:13": "C’est Lui, certes, qui commence (la création) et la refait.",
+                            "verse 85:14": "Et c’est Lui le Pardonneur, le Tout Affectueux,",
+                            "verse 85:15": "Le Maître du Trône, le Tout Glorieux,",
+                            "verse 85:16": "Il réalise parfaitement tout ce qu’Il veut.",
+                            "verse 85:17": "T’est-il parvenu le récit des armées,",
+                            "verse 85:18": "de Pharaon, et de Tamud ?",
+                            "verse 85:19": "Mais ceux qui ne croient pas persistent à démentir,",
+                            "verse 85:20": "alors que Dieu, derrière eux, les cerne de toutes parts.",
+                            "verse 85:21": "Mais c’est plutôt un Coran glorifié",
+                            "verse 85:22": "préservé sur une Tablette (auprès de Dieu)."
+                        }
+                    }
+                }
+            },
+            "german": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "Beim Himmel mit den Burgen,",
+                            "verse 85:2": "Und beim verheißenen Tag,",
+                            "verse 85:3": "Und beim Zeugen und beim Bezeugten,",
+                            "verse 85:4": "Vernichtet sind die Leute des Grabens -",
+                            "verse 85:5": "Des Feuers voll von Brennstoff -,",
+                            "verse 85:6": "Wie sie daran saßen",
+                            "verse 85:7": "Und bezeugten, was sie den Gläubigen antaten.",
+                            "verse 85:8": "Und sie haßten sie aus keinem andern Grund, als weil sie an Allah glaubten, den Allmächtigen, den Preiswürdigen,",
+                            "verse 85:9": "Des das Königreich der Himmel und der Erde ist; und Allah ist Zeuge aller Dinge.",
+                            "verse 85:10": "Jene nun, welche die gläubigen Männer und die gläubigen Frauen verfolgen und dann nicht bereuen - für sie ist die Strafe der Hölle, und für sie ist die Strafe des Brennens.",
+                            "verse 85:11": "Doch jene, die glauben und gute Werke tun - für sie sind Gärten, durch die Ströme fließen.",
+                            "verse 85:12": "In Wahrheit, deines Herrn Erfassung ist furchtbar.",
+                            "verse 85:13": "Er ist es, Der erschafft und wiederkehren läßt;",
+                            "verse 85:14": "Und Er ist der Allverzeihende, der Liebreiche;",
+                            "verse 85:15": "Der Herr des Throns, der Hocherhabene;",
+                            "verse 85:16": "Bewirker alles dessen, was Er will.",
+                            "verse 85:17": "Ist nicht die Geschichte von den Heerscharen zu dir gedrungen,",
+                            "verse 85:18": "Von Pharao und den Thamüd?",
+                            "verse 85:19": "Nein.",
+                            "verse 85:20": "Und Allah umfaßt sie von allen Seiten.",
+                            "verse 85:21": "Nein, es ist der hocherhabene Koran,",
+                            "verse 85:22": "Auf einer wohlverwahrten Tafel."
+                        }
+                    }
+                }
+            },
+            "hindi": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "cqt+ksZa okys vklekuksa dh d+le",
+                            "verse 85:2": "vkSj ml fnu dh ftldk ok;nk fd;k x;k gS",
+                            "verse 85:3": "vkSj xokg dh vkSj ftldh xokgh ns tk,xh",
+                            "verse 85:4": "mldh ¼fd dq¶+Q+kj eDdk gykd gq,½ ftl rjg [+kUnd+ okys gykd dj fn, x,",
+                            "verse 85:5": "tks [+kUnd+sa vkx dh Fkha",
+                            "verse 85:6": "ftlesa ¼mUgksaus eqlyekuksa ds fy,½ bZa/ku >ksad j[kk Fkk",
+                            "verse 85:7": "tc og mu ¼[+kUnd+ksa½ ij cSBs gq, vkSj tks lqywd bZekunkjksa ds lkFk djrs Fks mldks lkeus ns[k jgs Fks",
+                            "verse 85:8": "vkSj mudks eksfeuhu dh ;gh ckr cqjh ekywe gq;h fd og yksx [+kqnk ij bZeku yk, Fks tks t+cjnLr vkSj lt+kokj gEn gS",
+                            "verse 85:9": "og ¼[+kqnk½ ftldh lkjs vkleku t+ehu esa ckn’kkgr gS vkSj [+kqnk gj pht+ ls okfd+Q+ gS",
+                            "verse 85:10": "cs’kd ftu yksxksa us bZekunkj enksZa vkSj vkSjrksa dks rdyhQsa nha fQj rkSck u dh muds fy, tgUuqe dk vt+kc rks gS gh ¼blds vykok½ tyus dk Hkh vt+kc gksxk",
+                            "verse 85:11": "cs’kd tks yksx bZeku yk, vkSj vPNs dke djrs jgs muds fy, og ckx+kr gSa ftuds uhps ugjsa tkjh gSa ;gh rks cM+h dke;kch gS",
+                            "verse 85:12": "cs’kd rqEgkjs ijojfnxkj dh idM+ cgqr l[+r gS",
+                            "verse 85:13": "ogh igyh nQ+k iSnk djrk gS vkSj ogh nksckjk ¼d+;ker esa ft+Unk½ djsxk",
+                            "verse 85:14": "vkSj ogh cM+k c[+’kus okyk eksgCcr djus okyk gS",
+                            "verse 85:15": "v’kZ dk ekfyd cM+k vkyh’kku gS",
+                            "verse 85:16": "tks pkgrk gS djrk gS",
+                            "verse 85:17": "D;k rqEgkjs ikl y’kdjksa dh [+kcj igq¡ph gS",
+                            "verse 85:18": "¼;kfu½ fQjvkÅu o lewn dh ¼t+:j igq¡ph gS½",
+                            "verse 85:19": "exj dq¶+Q+kj rks >qBykus gh ¼dh fQ+Ø½ esa gSa",
+                            "verse 85:20": "vkSj [+kqnk mudks ihNs ls ?ksjs gq, gS ¼;s >qBykus ds d+kfcy ugha½",
+                            "verse 85:21": "cfYd ;s rks d+qjku ethn gS",
+                            "verse 85:22": "tks ykSgs egQwt+ esa fy[kk gqvk gS lwj, cq:t [+kRe"
+                        }
+                    }
+                }
+            },
+            "indonesian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "Demi langit yang mempunyai gugusan bintang,",
+                            "verse 85:2": "dan hari yang dijanjikan,",
+                            "verse 85:3": "dan yang menyaksikan dan yang disaksikan.",
+                            "verse 85:4": "Binasa dan terlaknatlah orang-orang yang membuat parit.",
+                            "verse 85:5": "yang berapi (dinyalakan dengan) kayu bakar,",
+                            "verse 85:6": "ketika mereka duduk di sekitarnya,",
+                            "verse 85:7": "sedang mereka menyaksikan apa yang mereka perbuat terhadap orang-orang yang beriman.",
+                            "verse 85:8": "Dan mereka tidak menyiksa orang-orang mukmin itu melainkan karena orang-orang mukmin itu beriman kepada Allah Yang Maha Perkasa lagi Maha Terpuji,",
+                            "verse 85:9": "Yang mempunyai kerajaan langit dan bumi dan Allah Maha Menyaksikan segala sesuatu.",
+                            "verse 85:10": "Sesungguhnya orang-orang yang mendatangkan cobaan kepada orang-orang yang mu’min laki-laki dan perempuan kemudian mereka tidak bertaubat, maka bagi mereka azab Jahannam dan bagi mereka azab (neraka) yang membakar.",
+                            "verse 85:11": "Sesungguhnya orang-orang yang beriman dan mengerjakan amal-amal yang saleh bagi mereka surga yang mengalir di bawahnya sungai-sungai; itulah keberuntungan yang besar.",
+                            "verse 85:12": "Sesungguhnya azab Tuhanmu benar-benar keras.",
+                            "verse 85:13": "Sesungguhnya Dia-lah Yang menciptakan (makhluk) dari permulaan dan menghidupkannya (kembali).",
+                            "verse 85:14": "Dia-lah Yang Maha Pengampun lagi Maha Pengasih,",
+                            "verse 85:15": "yang mempunyai ’Arsy lagi Maha Mulia,",
+                            "verse 85:16": "Maha Kuasa berbuat apa yang dikehendaki-Nya.",
+                            "verse 85:17": "Sudahkah datang kepadamu berita kaum-kaum penentang,",
+                            "verse 85:18": "(yaitu kaum) Firaun dan (kaum) Tsamud?",
+                            "verse 85:19": "Sesungguhnya orang-orang kafir selalu mendustakan,",
+                            "verse 85:20": "padahal Allah mengepung mereka dari belakang mereka.",
+                            "verse 85:21": "Bahkan yang didustakan mereka itu ialah Al Qur'an yang mulia,",
+                            "verse 85:22": "yang (tersimpan) dalam Lohmahfuz."
+                        }
+                    }
+                }
+            },
+            "italian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "Per il cielo dalle costellazioni ,",
+                            "verse 85:2": "per il Giorno promesso,",
+                            "verse 85:3": "per il testimone e la",
+                            "verse 85:4": "testimonianza !",
+                            "verse 85:5": "Sia maledetta la gente del Fossato",
+                            "verse 85:6": "dal fuoco incessantemente attizzato,",
+                            "verse 85:7": "quando se ne stavano seduti accanto,",
+                            "verse 85:8": "testimoni di quel che facevano ai credenti.",
+                            "verse 85:9": "E non li tormentavano che per aver creduto in Allah, il Potente, il Degno di lode,",
+                            "verse 85:10": "Colui al Quale appartiene la sovranità dei cieli e della terra.",
+                            "verse 85:11": "In verità coloro che perseguitano i credenti e le credenti e poi non se ne pentono, avranno il castigo dell'Inferno e il castigo dell'Incendio .",
+                            "verse 85:12": "In verità coloro che credono e compiono il bene avranno i Giardini dove scorrono i ruscelli.",
+                            "verse 85:13": "La risposta del tuo Signore è severa.",
+                            "verse 85:14": "Invero Egli è Colui che inizia e reitera .",
+                            "verse 85:15": "Egli è il Perdonatore, l'Amorevole,",
+                            "verse 85:16": "il Signore del Trono glorioso,",
+                            "verse 85:17": "Colui che fa",
+                            "verse 85:18": "ciò che vuole.",
+                            "verse 85:19": "Non ti è giunta la storia delle armate",
+                            "verse 85:20": "di Faraone e dei Thamûd?",
+                            "verse 85:21": "I miscredenti continuano invece a tacciare di menzogna ,",
+                            "verse 85:22": "nonostante che Allah sia dietro di loro e li circondi .",
+                            "verse 85:23": "Questo è invece un Corano glorioso,",
+                            "verse 85:24": "",
+                            "verse 85:25": "su di una Tavola protetta."
+                        }
+                    }
+                }
+            },
+            "japanese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "諸星座のある天において，",
+                            "verse 85:2": "約束された（審判の）日において，",
+                            "verse 85:3": "立証する者と，立証されるものとにおいて（誓う）。",
+                            "verse 85:4": "坑の住人は滅ぼされ，",
+                            "verse 85:5": "火には薪が接ぎ足される。",
+                            "verse 85:6": "見よ。かれらはその傍に座り，",
+                            "verse 85:7": "信者に対してかれらが行ったこと（の凡て）に就いて，立証される。",
+                            "verse 85:8": "かれらがかれら（信者）を迫害したのは，偉力ある御方，讃美されるべき御方アッラーを，かれら（信者）が信仰したために外ならない。",
+                            "verse 85:9": "かれに，天と地の大権は属する。アッラーは凡てのことの立証者であられる。",
+                            "verse 85:10": "本当に信仰する男と女を迫害して，それから悔悟しなかった者には地獄の懲罰があり，またかれらには炎火の懲罰があろう。",
+                            "verse 85:11": "信仰して善行に勤しんだ者には，川が下を流れる楽園があろう。これは偉大な幸福の成就である。",
+                            "verse 85:12": "本当にあなたの主の捕え方（懲罰）は強烈である。",
+                            "verse 85:13": "かれこそは創造をなされ，またそれを繰り返される御方である。",
+                            "verse 85:14": "かれは，寛容にして博愛ならびない御方。",
+                            "verse 85:15": "栄光に満ちた，至高の玉座の主。",
+                            "verse 85:16": "かれは御望みのことを，遂行なされる。",
+                            "verse 85:17": "軍勢の物語が，あなたに達したか，",
+                            "verse 85:18": "フィルアウンとサムード（の民の）。",
+                            "verse 85:19": "いや，信じない者は（なお真理を）嘘であるとしている。",
+                            "verse 85:20": "だがアッラーは，背後からかれらをとり囲まれる。",
+                            "verse 85:21": "いやこれは，栄光に満ちたクルアーンで，",
+                            "verse 85:22": "守護された碑板に（銘記されている）。 いやこれは，栄光に満ちたクルアーンで，"
+                        }
+                    }
+                }
+            },
+            "korean": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "별들의 궤도를 둔 하늘을 두고 맹세하사",
+                            "verse 85:2": "약속된 심판의 날을 두고 맹세하며",
+                            "verse 85:3": "증언하는 자들과 증언받는 그들을 두고 맹세하며",
+                            "verse 85:4": "함정을 만든 그들에게 저주 가 있으리라",
+                            "verse 85:5": "그들은 화염을 그곳에 던졌노라",
+                            "verse 85:6": "그들은 그 화염 옆에 앉아",
+                            "verse 85:7": "그들이 믿는 신도들에게 저지를 모든 것을 증언하노라",
+                            "verse 85:8": "그들은 그들이 권능과 찬미 로 충만하신 하나님을 믿는다는 이유로 그들을 학대하였노라",
+                            "verse 85:9": "하늘과 대지의 왕국이 하나님 께 있으며 그분은 모든 것을 지켜 보고 계시니라",
+                            "verse 85:10": "실로 믿음을 가진 남성과 여성을 학대하고 회개하지 아니한 자들에게는 지옥의 응벌이 있을 것이니 그들은 타오르는 불지옥의 응벌을 맛보리라",
+                            "verse 85:11": "그러나 믿음으로 선을 행하 는 의로운 자들에게는 강물이 흐 르는 천국이 있나니 실로 그것이 위대한 숭리라",
+                            "verse 85:12": "실로 그대 주님의 응벌은 엄하니라",
+                            "verse 85:13": "그분께서 창시하셨기에 다시생명을 주실 수 있노라",
+                            "verse 85:14": "그분은 관용과 사랑으로 충 만하사",
+                            "verse 85:15": "영광의 권좌에 앉아 계시며",
+                            "verse 85:16": "뜻하시는 모든 것을 행하시 니라",
+                            "verse 85:17": "군대의 이야기가 그대에게 이르렀느뇨",
+                            "verse 85:18": "파라오와 사무드 군대의 이야기라",
+                            "verse 85:19": "그런데도 불신자들은 그 진리를 거역하고 있나니",
+                            "verse 85:20": "하나님은 그들 뒤에서 그들 을 포위하시니라",
+                            "verse 85:21": "실로 이것이 영광의 꾸란으 로",
+                            "verse 85:22": "보호된 곳에 보관된 것이라"
+                        }
+                    }
+                }
+            },
+            "kurdish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "سوێند به ئاسمانی خاوه‌ن ئه‌ستیره و هه‌ساره‌ی گه‌وره‌.",
+                            "verse 85:2": "به‌و ڕۆژه‌ی که به‌ڵێن دراوه پێش بێت (واته ڕۆژی قیامه‌ت).",
+                            "verse 85:3": "به‌شایه‌ت و شایه‌تی له‌سه‌ردراوه‌، یاخود به شایه‌ت و بینراوه‌کان، (تاوانباران ئاماده‌ن و هه‌رچی ئه‌نجامیانداوه تۆمار کراوه له‌سه‌ریان).",
+                            "verse 85:4": "به‌کوشت چن، نه‌فرینیان لێ بێت، ئه‌وانه‌ی که چاڵیان هه‌ڵکه‌ند (بۆ ئیمانداران).",
+                            "verse 85:5": "ئاگری داگیرساو و به‌تینیان تێدا کرده‌وه‌.",
+                            "verse 85:6": "ئه‌و کاته‌ی که به ده‌وریدا دانیشتبوون.",
+                            "verse 85:7": "له نزیکه‌وه چاودێری ئه‌و کاره‌ساته‌یان ده‌کرد که به‌سه‌ر باوه‌ڕداراندا ده‌هێنرێت و خۆیان له نزیکه‌وه سه‌رپه‌رشتیان ده‌کرد.",
+                            "verse 85:8": "ئه‌و ڕق و داخه‌یان له ئیمانداران ته‌نها له‌به‌ر ئه‌وه‌بوو که ئه‌وان باوه‌ڕی به‌تینیان ده‌هێنا به خوای باڵاده‌ستی شایسته‌ی سوپاسگوزاری.",
+                            "verse 85:9": "ئه‌و زاته‌ی که خاوه‌نی هه‌موو شتێکه له ئاسمانه‌کان و زه‌ویدا، ئه‌و خوایه‌ی شایه‌ته له‌سه‌ر هه‌موو شتێك و ئاگای له هه‌موو شتێكه‌.",
+                            "verse 85:10": "به‌ڕاستی ئه‌وانه‌ی که به‌ڵاو ناخۆشی وته‌نگانه و پیلان دژی پیاوانی ئیماندارو ئافره‌تانی ئیماندار خسته‌کارو پاشان هه‌ر به‌رده‌وام ده‌بن و کۆڵ ناده‌ن و په‌شیمان نابنه‌وه سزای دۆزه‌خ و سزای سووتێنه‌ر بۆ ئه‌وانه‌یه‌.",
+                            "verse 85:11": "به‌ڕاستی ئه‌وانه‌ی که باوه‌ڕیان هێناوه و کرده‌وه چاکه‌کانیان ئه‌نجام داوه‌، باخه‌کانی به‌هه‌شت که چه‌نده‌ها ڕووبار به‌ژێر دره‌خته‌کانیدا ده‌ڕوات بۆیان ئاماده‌یه‌، هه‌ر ئه‌وه خۆی له خۆیدا سه‌رکه‌وتن و سه‌رفرازیه‌کی زۆر گه‌وره و بێ سنوورو بێ وێنه‌یه‌.",
+                            "verse 85:12": "به‌ڕاستی تۆڵه‌ی په‌روه‌ردگارت (ئه‌ی پێغه‌مبه‌ر (صلی الله علیه وسلم)، ئه‌ی ئیمانداران) زۆر توندو تیژ و به‌زه‌بره‌.",
+                            "verse 85:13": "به‌ڕاستی هه‌ر ئه‌و زاته‌یه سه‌ره‌تا هه‌موو شتێکی دروست ده‌کات و دوای نه‌مانیش دووباره دروستی ده‌کاته‌وه‌.",
+                            "verse 85:14": "هه‌ر ئه‌ویش زاتێکی زۆر لێخۆشبوو به‌سۆزو دڵۆڤان و دڵسۆزه (بۆ ئیمانداران).",
+                            "verse 85:15": "خاوه‌نی ته‌ختی بڵند و به‌رزو پایه‌داره‌.",
+                            "verse 85:16": "هه‌رچی بیه‌وێت ئه‌نجامی ده‌دات، هه‌رچی بیه‌وێت که‌س ناتوانێت ده‌ست بهێنێته ڕێی.",
+                            "verse 85:17": "ئایا هه‌واڵی له‌شکرو سوپاکانت پێگه‌یشتووه‌؟ (ئه‌وانه‌ی یاخی بوون له پێغه‌مبه‌ران و به‌رنامه‌ی یه‌کخواناسی).",
+                            "verse 85:18": "که له‌شکری فیرعه‌ون و ثموده‌.",
+                            "verse 85:19": "به‌ڵکو ئه‌وانه‌ش که بێ باوه‌ڕ بوون ته‌مێ نابن به‌ڵکو هه‌ر سه‌رگه‌رمی به درۆ له قه‌له‌مدان و دژایه‌‌تی ئه‌م ئایین و به‌رنامه و قورئانه‌ن.",
+                            "verse 85:20": "(به‌ڵام با بزانن)، ده‌سه‌ڵاتی خوا له پشتیانه‌وه ده‌وره‌ی داون له ده‌ستی ده‌رناچن",
+                            "verse 85:21": "(ئه‌وه‌ی ئه‌وان دژایه‌تی ده‌که‌ن) ئه‌و قورئانه به‌رزو بڵندو پایه‌داره‌یه‌.",
+                            "verse 85:22": "که له لاپه‌ڕه‌ی تایبه‌تی و له‌سه‌ر تابڵوی پیرۆز، پارێزراوه له (لوح المحفوظ) دا."
+                        }
+                    }
+                }
+            },
+            "malay": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "Demi langit yang mempunyai tempat-tempat peredaran bintang-bintang;",
+                            "verse 85:2": "Dan hari (pembalasan) yang dijanjikan;",
+                            "verse 85:3": "Dan makhluk-makhluk yang hadir menyaksikan hari itu, serta segala keadaan yang disaksikan;",
+                            "verse 85:4": "Celakalah kaum yang menggali parit,",
+                            "verse 85:5": "(Parit) api yang penuh dengan bahan bakaran,",
+                            "verse 85:6": "(Mereka dilaknat) ketika mereka duduk di kelilingnya,",
+                            "verse 85:7": "Sambil mereka melihat apa yang mereka lakukan kepada orang-orang yang beriman.",
+                            "verse 85:8": "Dan mereka tidak marah dan menyeksakan orang-orang yang beriman itu melainkan kerana orang-orang itu beriman kepada Allah Yang Maha Kuasa, lagi Maha Terpuji!",
+                            "verse 85:9": "Tuhan yang menguasai segala alam langit dan bumi dan (ingatlah), Allah sentiasa menyaksikan tiap-tiap sesuatu.",
+                            "verse 85:10": "Sesungguhnya orang-orang yang menimpakan bencana untuk memesongkan orang-orang lelaki yang beriman dan orang-orang perempuan yang beriman, kemudian mereka tidak bertaubat, maka mereka akan beroleh azab Neraka Jahannam (kerana perbuatan buruk itu) dan mereka akan beroleh lagi azab api yang kuat membakar (kerana mereka tidak bertaubat).",
+                            "verse 85:11": "Sesungguhnya orang-orang yang beriman dan beramal soleh, mereka akan beroleh Syurga yang mengalir di bawahnya beberapa sungai; yang demikian itu ialah kemenangan yang besar.",
+                            "verse 85:12": "Sesungguhnya azab Tuhanmu (terhadap orang-orang yang kufur ingkar) amatlah berat.",
+                            "verse 85:13": "Sesungguhnya Dialah yang menciptakan (sekalian makhluk) pada mulanya dan yang mengembalikannya (hidup semula sesudah mati).",
+                            "verse 85:14": "Dan Dialah Yang Maha Pengampun, lagi Maha Pengasih.",
+                            "verse 85:15": "Tuhan yang mempunyai Arasy yang tinggi kemuliaannya,",
+                            "verse 85:16": "Yang berkuasa melakukan segala yang dikehendakinya.",
+                            "verse 85:17": "Sudahkah sampai kepadamu (wahai Muhammad) perihal (kebinasaan yang telah menimpa) kaum-kaum yang menentang (Rasul-rasul yang diutuskan kepada mereka)?",
+                            "verse 85:18": "(Mereka itu ialah kaum) Firaun dan Thamud (kaum Nabi Soleh).",
+                            "verse 85:19": "(Kaummu wahai Muhammad, bukan sahaja menolak ajaranmu), bahkan orang-orang yang kafir itu terus tenggelam dalam keadaan mendustakan kebenaran;",
+                            "verse 85:20": "Sedang Allah, dari belakang mereka, melingkungi mereka (dengan kekuasaanNya)!",
+                            "verse 85:21": "(Sebenarnya apa yang engkau sampaikan kepada mereka bukanlah syair atau sihir), bahkan ialah Al-Quran yang tertinggi kemuliaannya;",
+                            "verse 85:22": "(Lagi yang terpelihara dengan sebaik-baiknya) pada Luh Mahfuz."
+                        }
+                    }
+                }
+            },
+            "persian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "سوگند به آسمان كه داراى برجهاى بسيار است،",
+                            "verse 85:2": "و سوگند به آن روز موعود،",
+                            "verse 85:3": "و سوگند به «شاهد» و «مشهود»! («شاهد»: پيامبر و گواهان اعمال، و «مشهود» : اعمال امت است)",
+                            "verse 85:4": "مرگ بر شكنجه‏گران صاحب گودال (آتش)،",
+                            "verse 85:5": "آتشى عظيم و شعله‏ور!",
+                            "verse 85:6": "هنگامى كه در كنار آن نشسته بودند،",
+                            "verse 85:7": "و آنچه را با مؤمنان انجام مى‏دادند (با خونسردى و قساوت) تماشا مى‏كردند!",
+                            "verse 85:8": "آنها هيچ ايرادى بر مؤمنان نداشتند جز اينكه به خداوند عزيز و حميد ايمان آورده بودند;",
+                            "verse 85:9": "همان كسى كه حكومت آسمانها و زمين از آن اوست و خداوند بر همه چيز گواه است!",
+                            "verse 85:10": "كسانى كه مردان و زنان باايمان را شكنجه دادند سپس توبه نكردند، براى آنها عذاب دوزخ و عذاب آتش سوزان است!",
+                            "verse 85:11": "و براى كسانى كه ايمان آوردند و اعمال شايسته انجام دادند، باغهايى از بهشت است كه نهرها زير درختانش جارى است; و اين نجات و پيروزى بزرگ است!",
+                            "verse 85:12": "گرفتن قهرآميز و مجازات پروردگارت به يقين بسيار شديد است!",
+                            "verse 85:13": "اوست كه آفرينش را آغاز مى‏كند و بازمى‏گرداند،",
+                            "verse 85:14": "و او آمرزنده و دوستدار (مؤمنان) است،",
+                            "verse 85:15": "صاحب عرش و داراى مجد و عظمت است،",
+                            "verse 85:16": "و آنچه را مى‏خواهد انجام مى‏دهد!",
+                            "verse 85:17": "آيا داستان لشكرها به تو رسيده است،",
+                            "verse 85:18": "لشكريان فرعون و ثمود؟!",
+                            "verse 85:19": "ولى كافران پيوسته در تكذيب حقند،",
+                            "verse 85:20": "و خداوند به همه آنها احاطه دارد!",
+                            "verse 85:21": "(اين آيات، سحر و دروغ نيست،) بلكه باعظمت است",
+                            "verse 85:22": "كه در لوح محفوظ جاى دارد!"
+                        }
+                    }
+                }
+            },
+            "portuguese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "Pelo céu, possuidor das constelações",
+                            "verse 85:2": "E pelo dia prometido;",
+                            "verse 85:3": "E pela testemunha e por aquilo de que presta testemunho",
+                            "verse 85:4": "Destruíram-se a si mesmos os donos do fosso (do fogo),",
+                            "verse 85:5": "Do fogo, com (abundante) combustível).",
+                            "verse 85:6": "Estando eles sentados ao seu redor,",
+                            "verse 85:7": "Presenciando o que fizeram com os fiéis,",
+                            "verse 85:8": "Os quais deles se vingaram, porque acreditavam em Deus, o Poderoso, o Laudábilíssimo.",
+                            "verse 85:9": "Ao Qual pertence o reino dos céus e da terra; e Deus é, de tudo, Testemunha.",
+                            "verse 85:10": "Sabei que aqueles que perseguem os fiéis e as fiéis e não se arrependem, sofrerão a pena do inferno, assim como o castigo do fogo.",
+                            "verse 85:11": "Por outra, os fiéis, que praticam o bem, obterão jardins, abaixo dos quais correm rios; tal será o grande benefício!",
+                            "verse 85:12": "Em verdade, a punição do teu Senhor será severíssima,",
+                            "verse 85:13": "Porque ele origina (a criação) e logo a reproduz.",
+                            "verse 85:14": "É o Remissório, o Amabilíssimo,",
+                            "verse 85:15": "O Senhor do Trono Glorioso.",
+                            "verse 85:16": "Executante de tudo quanto Lhe apraz.",
+                            "verse 85:17": "Reparaste, acaso, na história dos exércitos",
+                            "verse 85:18": "Do Faraó e do povo de Samud?",
+                            "verse 85:19": "Sem dúvida, os incrédulos persistem em desmentir-te;",
+                            "verse 85:20": "Porém, Deus abrange-os, por trás.",
+                            "verse 85:21": "Sim, este é um Alcorão Glorioso,",
+                            "verse 85:22": "Inscrito em uma Tábua Preservada."
+                        }
+                    }
+                }
+            },
+            "romanian": {
+                "translators": {
+                    "1": {
+                        "Lucrarea (traducere úi editare) a fost realizată de către": {
+                            "verse 85:1": "Pe cerul cu faze",
+                            "verse 85:2": "Și pe Ziua fãgãduitã!",
+                            "verse 85:3": "Pe martor și pe ceea ce este vãzut!",
+                            "verse 85:4": "Blestemați sã fie cei",
+                            "verse 85:5": "au sãpat șanțul adânc,",
+                            "verse 85:6": "Cel cu focul aprins de vreascuri [din abundențã],",
+                            "verse 85:7": "În vreme ce stãteau așezați lângã el",
+                            "verse 85:8": "Și ei erau martori la ceea ce le-au fãcut credincioșilor,",
+                            "verse 85:9": "Pe care nu s-au rãzbunat decât pentru cã ei au crezut în Allah CelPuternic",
+                            "verse 85:10": "Vrednic de Laudã [Al-Aziz, Al-Hamid],",
+                            "verse 85:11": "A Cãruia este împãrãția cerurilor și a pãmântului.",
+                            "verse 85:12": "Aceia care i-au prigonit pe cei credincioși și pe cele credincioase, iar apoi nu s-au cãit, vor avea parte de chinurile Gheenei și vor avea parte de chinurile Focului.",
+                            "verse 85:13": "Însã aceia care cred și împlinesc fapte bune, vor avea parte deGrãdini pe sub care curg pâraie și aceasta este izbânda cea mare.",
+                            "verse 85:14": "Rãzbunarea Domnului tãu este asprã.",
+                            "verse 85:15": "El este Cel care face prima oarã",
+                            "verse 85:16": "și El este Cel care o face din nou.",
+                            "verse 85:17": "El este Cel Iertãtor",
+                            "verse 85:18": "Cel Plin de Dragoste [Al-Ghafur, Al-Wadud],",
+                            "verse 85:19": "Stãpânul Tronului, Cel Glorios ,",
+                            "verse 85:20": "Cel care face ceea ce voiește.",
+                            "verse 85:21": "Oare a ajuns pânã la tine vestea despre oștenii",
+                            "verse 85:22": "Lui Faraon și a neamului Thamud?",
+                            "verse 85:23": "Aceia care nu cred stãruie în tãgãduire,",
+                            "verse 85:24": "Însã Allah, care se aflã în urma lor, îi cuprinde pe ei.",
+                            "verse 85:25": "Dar acesta este un Coran glorios,",
+                            "verse 85:26": "Pe o Tablã pãstratã [de Allah]."
+                        }
+                    },
+                    "2": {
+                        "George Grigore, Coranul": {
+                            "verse 85:1": "Pe cer cu zodiile sale!",
+                            "verse 85:2": "Pe Ziua făgăduită!",
+                            "verse 85:3": "Pe martor şi pe mărturisit!",
+                            "verse 85:4": "Moarte stăpânilor peste Ukhdud",
+                            "verse 85:5": "unde focul are ceea ce arde,",
+                            "verse 85:6": "în vreme ce ei stau acolo",
+                            "verse 85:7": "martori a ceea ce le făceau credincioşilor",
+                            "verse 85:8": "răzbunându-se pe ei doar fiindcă au crezut în Dumnezeu, Puternicul, Lăudatul,",
+                            "verse 85:9": "Cel ce are împărăţia cerurilor şi a pământului.",
+                            "verse 85:10": "Cei care îi duc în ispită pe credincioşi şi pe credincioase, iar apoi nu se căiesc, vor avea parte de osânda Gheenei, vor avea parte de osânda Pârjolului.",
+                            "verse 85:11": "Cei care cred şi săvârşesc fapte bune, vor avea parte de Grădini pe sub care curg râuri: aceasta este izbânda cea mare!",
+                            "verse 85:12": "Asprimea Domnului tău este mare!",
+                            "verse 85:13": "El este La-iveală-dătătorul şi Inapoi-aducătorul.",
+                            "verse 85:14": "El este Iertătorul, Iubitorul,",
+                            "verse 85:15": "Stăpânul slăvit al tronului,",
+                            "verse 85:16": "Făcătorul a ceea ce voieşte.",
+                            "verse 85:17": "A venit la tine oare spusa despre oşti?",
+                            "verse 85:18": "Despre Faraon şi despre tamudiţi?",
+                            "verse 85:19": "Doar cei care tăgăduiesc hulesc,",
+                            "verse 85:20": "în vreme ce Dumnezeu, prin spate, îi cuprinde.",
+                            "verse 85:21": "Acesta este un preaslăvit Coran",
+                            "verse 85:22": "de pe Tabla Păstrată! Coran"
+                        }
+                    }
+                }
+            },
+            "russian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "В знак2311а неба, обладателязодиакальных знаков,",
+                            "verse 85:2": "И в знак обещанного Дня (ПоследнегоСуда)",
+                            "verse 85:3": "И в знак носителя свидетельства того,О чем свидетельствует он, —",
+                            "verse 85:4": "Погубленными будут обитатели Огня",
+                            "verse 85:5": "Во рву, что беспрестаннополыхает2311б.",
+                            "verse 85:6": "Вот они сели над пылающимОгнем —",
+                            "verse 85:7": "Свидетели того, что с верующимисовершают.",
+                            "verse 85:8": "И мучили они их лишь за то,Что в Достохвального и ВсемогущегоАллахаОни уверовали (всей душой), —",
+                            "verse 85:9": "В Того, Кому принадлежитВся власть и в небесах, и на землеИ Кто является свидетелем всего,(Что существует и вершится).",
+                            "verse 85:10": "Ведь те, кто подвергал мученьям(иль соблазну)Мужчин и женщин, верующих(в Бога),И не раскаялся потом,Будут повергнуты в (жестокий) Ад, —Огонь им будет наказаньем.",
+                            "verse 85:11": "Для тех же, кто уверовал (в Аллаха)И праведные действия вершит,Наградой Райские сады предстанут,Прозрачною водою омовенны, —Великая награда от Аллаха!",
+                            "verse 85:12": "Поистине, крепки тиски Господни!",
+                            "verse 85:13": "Ведь Он один вершит первичноесозданье,И Он один способен жизньвосстановить.",
+                            "verse 85:14": "Он добролюбия и всепрощеньяполон,",
+                            "verse 85:15": "Владыка Трона (Вседержавья)Достохвальный!",
+                            "verse 85:16": "Вершитель всех Своих желаний!",
+                            "verse 85:17": "К тебе пришел рассказ о войске",
+                            "verse 85:18": "Фараона и самудянах?2312",
+                            "verse 85:19": "И все ж неверные (упрямо) отвергают(Книгу).",
+                            "verse 85:20": "Аллах же карой схватит их со всехсторон.",
+                            "verse 85:21": "И это достославный, истинно, Коран",
+                            "verse 85:22": "В хранимой (тщательно) скрижали! Коран"
+                        }
+                    }
+                }
+            },
+            "spanish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "¡Por el cielo con sus constelaciones!",
+                            "verse 85:2": "¡Por el día con que se ha amenazado!",
+                            "verse 85:3": "¡Por el testigo y lo atestiguado!",
+                            "verse 85:4": "¡Malditos sean los hombres del Foso,",
+                            "verse 85:5": "del fuego bien alimentado,",
+                            "verse 85:6": "sentados a él,",
+                            "verse 85:7": "dando testimonio de lo que ellos han hecho a los creyentes,",
+                            "verse 85:8": "resentidos con ellos sólo porque creyeron en Alá, el Poderoso, el Digno de Alabanza,",
+                            "verse 85:9": "a Quien pertenece el dominio de los cielos y de la tierra.",
+                            "verse 85:10": "Quienes sometan a los creyentes y a las creyentes a una prueba y no se arrepientan luego, tendrán el castigo de la gehena, el castigo de su fuego.",
+                            "verse 85:11": "Quienes, en cambio, hayan creído y obrado bien tendrán jardines por cuyos bajos fluyen arroyos.",
+                            "verse 85:12": "¡Sí, es duro el rigor de tu Señor!",
+                            "verse 85:13": "Él crea y re-crea.",
+                            "verse 85:14": "Él es el Indulgente, el Lleno de Amor,",
+                            "verse 85:15": "el Señor del Trono, el Glorioso,",
+                            "verse 85:16": "Que siempre hace lo que quiere.",
+                            "verse 85:17": "¿Te has enterado de la historia de los ejércitos,",
+                            "verse 85:18": "de Faraón y de los tamudeos?",
+                            "verse 85:19": "Los infieles, no obstante, persisten en desmentir,",
+                            "verse 85:20": "pero Alá les tiene a Su merced.",
+                            "verse 85:21": "¡Sí es un Corán glorioso,",
+                            "verse 85:22": "en una Tabla bien guardada!"
+                        }
+                    }
+                }
+            },
+            "tamil": {
+                "translators": {
+                    "1": {
+                        "null": {}
+                    }
+                }
+            },
+            "thai": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "ขอสาบานด้วยชั้นฟ้าที่เกลื่อนกลาดด้วยดวงดาว",
+                            "verse 85:2": "และด้วยวันที่ถูกสัญญาไว้",
+                            "verse 85:3": "และด้วยผู้เป็นพยานและผู้ที่ถูกเป็นพยาน",
+                            "verse 85:4": "บรรดาเจ้าของหลุมพรางถูกสาปแช่ง",
+                            "verse 85:5": "ไฟที่เต็มไปด้วยเชื้อเพลิง",
+                            "verse 85:6": "ขณะที่พวกเขานั่งอยู่ตรงหน้าไฟ",
+                            "verse 85:7": "และพวกเขารู้เห็นเป็นพยานต่อสิ่งที่บรรดาลูกน้องกระทำกับบรรดาผู้ศรัทธา",
+                            "verse 85:8": "และพวกเขามิได้แก้แค้นเขาเหล่านั้นเว้นแต่ว่าเขาเหล่านั้นศรัทธาต่อัลลอฮ์ผู้ทรงอำนาจ ผู้ทรงได้รับการสรรเสริญ",
+                            "verse 85:9": "ผู้ซึ่งกรรมสิทธิ์แห่งชั้นฟ้าทั้งหลายและแผ่นดินเป็นของพระองค์ และอัลลอฮ์นั้นทรงเป็นพยานต่อทุกสิ่งอย่าง",
+                            "verse 85:10": "แท้จริงพวกที่ประหัตประหารบรรดาผู้ศรัทธาชายและบรรดาผู้ศรัทธาหญิง แล้วพวกเขามิได้สำนึกผิดกลับตัวนั้น พวกเขาจะได้รับการลงโทษแห่งนรกญะฮันนัม และพวกเขาจะได้รับการลงโทษแห่งการเผาไหม้",
+                            "verse 85:11": "แท้จริงบรรดาผู้ศรัทธาและประกอบความดีทั้งหลาย พวกเขาจะได้รับสวนสวรรค์หลากหลาย ณ เบื้องล่างของมันมีลำน้ำหลายสายไหลผ่าน นั่นคือชัยชนะอันใหญ่หลวง",
+                            "verse 85:12": "แท้จริงการลงโทษอย่างรุนแรงแห่งพระเจ้านั้นแข็งกร้าวยิ่งนัก",
+                            "verse 85:13": "แท้จริงพระองค์คือผู้ทรงให้บังเกิดครั้งแรก และทรงให้กลับฟื้นคืนชีพขึ้นอีก",
+                            "verse 85:14": "และพระองค์ผู้ทรงอภัยโทษผู้ทรงรักใคร่ปรานี",
+                            "verse 85:15": "เจ้าของบัลลังก์อันรุ่งโรจน์",
+                            "verse 85:16": "ผู้ทรงกระทำอย่างเด็ดขาดตามที่พระองค์ทรงประสงค์",
+                            "verse 85:17": "ได้มีเรื่องราวของไพร่พลมายังเจ้าแล้วมิใช่หรือ ?",
+                            "verse 85:18": "ของฟิรเอาน์และซะมูด",
+                            "verse 85:19": "ยิ่งไปกว่านั้นบรรดาผู้ปฏิเสธศรัทธายังไม่ยอมเชื่อ (ความจริง)",
+                            "verse 85:20": "และอัลลอฮ์ทรงห้อมล้อมพวกเขาทุกด้าน",
+                            "verse 85:21": "มิใช่เช่นนั้นดอก ที่พวกเขาไม่ยอมเชื่อถือคือกุรอานอันรุ่งโรจน์",
+                            "verse 85:22": "อยู่ในแผ่นจารึกที่ถูกเก็บรักษาไว้"
+                        }
+                    }
+                }
+            },
+            "turkish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "Geleceği bildirilmiş olan güne,",
+                            "verse 85:2": "(O",
+                            "verse 85:3": "günde) tanıklık edene ve edilene andolsun ki,",
+                            "verse 85:4": "Kahroldu o hendeğin sahipleri,",
+                            "verse 85:5": "O",
+                            "verse 85:6": "çıralı ateşin ,",
+                            "verse 85:7": "Onlar",
+                            "verse 85:8": "(yakanlar) da başlarına oturmuşlar,",
+                            "verse 85:9": "Müminlere yapmakta oldukları işkenceyi seyrediyorlardı.",
+                            "verse 85:10": "Onlardan, sırf, azîz ve hamîd olan Allah'a iman ettikleri için intikam aldılar.",
+                            "verse 85:11": "O",
+                            "verse 85:12": "Allah ki, göklerin ve yerin mülkü kendisine aittir, ve Allah her şeye şahittir .",
+                            "verse 85:13": "Şüphesiz inanmış erkeklerle inanmış kadınlara işkence edip sonra tevbe de etmeyenlere cehennem azabı ve (orada) yanma cezası vardır.",
+                            "verse 85:14": "İman edip sâlih ameller işleyenlere ise, zemininden ırmaklar akan cennetler vardır.",
+                            "verse 85:15": "Şüphesiz Rabbinin yakalaması çok şiddetlidir.",
+                            "verse 85:16": "Bilin ki O, (kâinat yokken) ilk olarak yaratan, (ölümden sonra tekrar hayatı) geri getirendir.",
+                            "verse 85:17": "O, çok bağışlayan ve çok sevendir.",
+                            "verse 85:18": "Şerefli Arş'ın sahibidir.",
+                            "verse 85:19": "Dilediği şeyleri mutlaka yapandır.",
+                            "verse 85:20": "Orduların, haberi sana geldi mi?",
+                            "verse 85:21": "Yani Firavun ve Semûd'un",
+                            "verse 85:22": "Doğrusu inkârcılar (gerçeği) yalanlayıp dururlar.",
+                            "verse 85:23": "Allah onları arkalarından kuşatmıştır.",
+                            "verse 85:24": "Hayır o şerefli bir Kur'an'dır.",
+                            "verse 85:25": "Levh-i",
+                            "verse 85:26": "Mahfuz'dadır."
+                        }
+                    }
+                }
+            },
+            "urdu": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "برجوں (يعني کہکشاؤں) والے آسمان کي قَسمo",
+                            "verse 85:2": "آسمان کی قسم جس میں برج ہیں",
+                            "verse 85:3": "اور اس دن کی جس کا وعدہ ہے",
+                            "verse 85:4": "اور اس دن کي قَسم جس کا وعدہ کيا گيا ہےo",
+                            "verse 85:5": "جو (اس دن) حاضر ہوگا اس کي قَسم اور جو کچھ حاضر کيا جائے گا اس کي قَسمo",
+                            "verse 85:6": "اور حاضر ہونے والے کی اور جو اس کے پاس حاضر کیا جائے اسکی",
+                            "verse 85:7": "کہ خندقوں (کے کھودنے) والے ہلاک کر دیئے گئے",
+                            "verse 85:8": "خندقوں والے (لوگ) ہلاک کر ديے گئےo",
+                            "verse 85:9": "(يعني) اس بھڑکتي آگ (والے) جو بڑے ايندھن سے (جلائي گئي) تھيo",
+                            "verse 85:10": "(یعنی) آگ (کی خندقیں) جس میں ایندھن (جھونک رکھا) تھا",
+                            "verse 85:11": "جب کہ وہ ان (کے کناروں) پر بیٹھے ہوئے تھے",
+                            "verse 85:12": "جب وہ اس کے کناروں پر بيٹھے تھےo",
+                            "verse 85:13": "اور وہ خود گواہ ہيں جو کچھ وہ اہلِ ايمان کے ساتھ کر رہے تھے (يعني انہيں آگ ميں پھينک پھينک کر جلا رہے تھے)o",
+                            "verse 85:14": "اور جو( سختیاں) اہل ایمان پر کر رہے تھے ان کو سامنے دیکھ رہے تھے",
+                            "verse 85:15": "ان کو مومنوں کی یہی بات بری لگتی تھی کہ وہ خدا پر ایمان لائے ہوئے تھے جو غالب (اور) قابل ستائش ہے",
+                            "verse 85:16": "اور انہيں ان (مومنوں) کي طرف سے اور کچھ (بھي) ناگوار نہ تھا سوائے اس کے کہ وہ اللہ پر ايمان لے آئے تھے جو غالب (اور) لائقِ حمد و ثنا ہےo",
+                            "verse 85:17": "جس کے لئے آسمانوں اور زمين کي (ساري) بادشاہت ہے، اور اللہ ہر چيز پر گواہ ہےo",
+                            "verse 85:18": "وہی جس کی آسمانوں اور زمین میں بادشاہت ہے۔ اور خدا ہر چیز سے واقف ہے",
+                            "verse 85:19": "جن لوگوں نے مومن مردوں اور مومن عورتوں کو تکلیفیں دیں اور توبہ نہ کی ان کو دوزخ کا (اور) عذاب بھی ہوگا اور جلنے کا عذاب بھی ہوگا",
+                            "verse 85:20": "بيشک جن لوگوں نے مومن مردوں اور مومن عورتوں کو اذيت دي پھر توبہ (بھي) نہ کي تو ان کے لئے عذابِ جہنم ہے اور ان کے لئے (بالخصوص) آگ ميں جلنے کا عذاب ہےo",
+                            "verse 85:21": "بيشک جو لوگ ايمان لائے اور نيک عمل کرتے رہے ان کے لئے جنتيں ہيں جن کے نيچے سے نہريں جاري ہيں، يہي بڑي کاميابي ہےo",
+                            "verse 85:22": "(اور) جو لوگ ایمان لائے اور نیک کام کرتے رہے ان کے لیے باغات ہیں جن کے نیچے نہریں بہہ رہی ہیں۔ یہ ہی بڑی کامیابی ہے",
+                            "verse 85:23": "بیشک تمہارے پروردگار کی پکڑ بڑی سخت ہے",
+                            "verse 85:24": "بيشک آپ کے رب کي پکڑ بہت سخت ہےo",
+                            "verse 85:25": "بيشک وہي پہلي بار پيدا فرماتا ہے اور وہي دوبارہ پيدا فرمائے گاo",
+                            "verse 85:26": "وہی پہلی دفعہ پیدا کرتا ہے اور وہی دوبارہ( زندہ) کرے گا",
+                            "verse 85:27": "اور وہ بخشنے والا اور محبت کرنے والا ہے",
+                            "verse 85:28": "اور وہ بڑا بخشنے والا بہت محبت فرمانے والا ہےo",
+                            "verse 85:29": "مالکِ عرش (يعني پوري کائنات کے تختِ اقتدار کا مالک) بڑي شان والا ہےo",
+                            "verse 85:30": "عرش کا مالک بڑی شان والا",
+                            "verse 85:31": "جو چاہتا ہے کر دیتا ہے",
+                            "verse 85:32": "وہ جو بھي ارادہ فرماتا ہے (اسے) خوب کر دينے والا ہےo",
+                            "verse 85:33": "کيا آپ کے پاس لشکروں کي خبر پہنچي ہےo",
+                            "verse 85:34": "بھلا تم کو لشکروں کا حال معلوم ہوا ہے",
+                            "verse 85:35": "(یعنی) فرعون اور ثمود کا",
+                            "verse 85:36": "فرعون اور ثمود (کے لشکروں) کےo",
+                            "verse 85:37": "بلکہ ايسے کافر (ہميشہ حق کو) جھٹلانے ميں (ہي کوشاں رہتے) ہيںo",
+                            "verse 85:38": "لیکن کافر (جان بوجھ کر) تکذیب میں (گرفتار) ہیں",
+                            "verse 85:39": "اور خدا (بھی) ان کو گردا گرد سے گھیرے ہوئے ہے",
+                            "verse 85:40": "اور اللہ اُن کے گرد و پيش سے (انہيں) گھيرے ہوئے ہےo",
+                            "verse 85:41": "بلکہ يہ بڑي عظمت والا قرآن ہےo",
+                            "verse 85:42": "(یہ کتاب ہزل و بطلان نہیں) بلکہ یہ قرآن عظیم الشان ہے",
+                            "verse 85:43": "لوح محفوظ میں (لکھا ہوا)",
+                            "verse 85:44": "(جو) لوحِ محفوظ ميں (لکھا ہوا) ہےo ہوا)"
+                        }
+                    }
+                }
+            },
+            "uzbek": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 85:1": "Буржлар эгаси бўлган осмон билан қасам.",
+                            "verse 85:2": "Ва ваъда қилинган кун билан қасам.",
+                            "verse 85:3": "Гувоҳлик берувчи ва гувоҳлик берилган билан қасам.",
+                            "verse 85:4": "«Ухдуд» эгаларига лаънат бўлсин.",
+                            "verse 85:5": "У (Ухдуд) ёқилғиси кўп, қаттиқ исиган оловдир.",
+                            "verse 85:6": "У(кофир)лар а(чуқур)лар атрофида ўтирибдилар.",
+                            "verse 85:7": "Ва улар мўминларга қилаётган нарсаларига ўзлари ҳозирдирлар.",
+                            "verse 85:8": "Ва (улар) мўминлардан Азиз, Ҳамид Аллоҳга бўлган иймондан бошқа «айб» топа олмадилар.",
+                            "verse 85:9": "У шундай зотки, осмонлару ернинг мулки Унга хосдир ва Аллоҳ ҳар бир нарсага Ўзи гувоҳдир.",
+                            "verse 85:10": "Албатта, мўмин ва мўминаларни фитна қилиб, сўнгра тавба қилмаганларга, ана ўшаларга, жаҳаннам азоби ва куйдирувчи азоб бор.",
+                            "verse 85:11": "Албатта, иймон келтирган ва солиҳ амал қилганларга, уларга, остидан анҳорлар оқиб турган жаннат бор.",
+                            "verse 85:12": "Албатта, Роббингнинг чангали жуда ҳам шиддатлидир.",
+                            "verse 85:13": "Албатта, У Ўзи бошлар ва қайтарар.",
+                            "verse 85:14": "Ва У мағфират қилувчи, муҳаббати зўр зотдир.",
+                            "verse 85:15": "У Арш эгаси ҳамда қадри улуғ зотдир.",
+                            "verse 85:16": "У нимани хоҳласа, қила олувчи зотдир.",
+                            "verse 85:17": "Сенга аскарларнинг хабари келдими?",
+                            "verse 85:18": "Фиръавн ва Самуднинг.",
+                            "verse 85:19": "Балки кофирлар ёлғонга чиқаришдадир?",
+                            "verse 85:20": "Ҳолбуки, Аллоҳ уларнинг ортидан иҳота қилиб турувчидир.",
+                            "verse 85:21": "Йўқ! У Қуръони мажиддур.",
+                            "verse 85:22": "У Лавҳул- Маҳфуздадир."
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
