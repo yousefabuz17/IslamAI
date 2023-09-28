@@ -5,7 +5,6 @@
     "revelation_order": 20,
     "bismillah_pre": true,
     "verses_count": 5,
-    "source": "Sayyid Abul Ala Maududi - Tafhim al-Qur'an - The Meaning of the Quran",
     "short_text": "Although these two Surahs of the Qur'an are separate entities and are written in the Mushaf also under separate names, yet they are so deeply related mutually and their contents so closely resemble each other's that they have been designated by a common name Mu'awwidhatayn (the two Surahs in which refuge with Allah has been sought). Imam Baihaqi in Dala'il an-Nubuwwat has written that these Surahs were revealed together, that is why the combined name of both is Mu'awwidhatayn. We are writing the same one Introduction to both, for they discuss and deal with just the same matters and topics. However, they will be explained and commented on separately below.",
     "text": [
         "\n",
@@ -112,507 +111,382 @@
         "The last thing which is note worthy with regard to the Mu'awwidhatayn is the relation between the beginning and the end of the Qur'an. Although the Qur'an has not been arranged chronologically, the Holy Prophet (upon whom be peace) arranged in the present order the verses and Surahs revealed during 23 years on different occasions to meet different needs and situations not by himself but by the command of Allah Who revealed them. According to this order, the Qur'an opens with the Surah Al-Fatihah and ends with the Mu'awwidhatayn. Now, let us have a look at the two. In the beginning, after praising and glorifying Allah, Who is Lord of the worlds, Kind, Merciful and Master of the Judgment Day, the servants submits: \"Lord, You alone I worship and to You along I turn for help, and the most urgent help that I need from You is to be guided to the Straight Way.\" In answer, he is given by Allah the whole Qur'an to show him the Straight Way, which is concluded thus: Man\r\nprays to Allah, Who is Lord of dawn, Lord of men, King of men, Deity of men, saying: \"I seek refuge only with You for protection from every evil and mischief of every creature, and in particular, from the evil whisperings of devils, be they from among men or jinn, for they are the greatest obstacle in following the Straight Way.\" The relation that the beginning bears with the end, cannot remain hidden from anyone who has understanding and insight.",
         "\n"
     ],
+    "quran-source": "`https://surahquran.com`",
     "description": "The surah that opens with the mention of God as the Lord of The Daybreak and that teaches one to seek refuge in Him from the evil in creation and from all who envy the blessings of God in others. It takes its name from “the daybreak” (al-falaq) mentioned in verse 1. The surah is used as an invocation against evil.The surah is also known as: The Dawn, The Rising Day.",
-    "name_translation": "THE DAYBREAK",
+    "name_translation": "The Daybreak",
     "name_complex": "Al-Falaq",
     "surah_name_ar": "الفلق",
     "verses": {
-        "languages": {
-            "albanian": {
-                "translators": {
-                    "1": {
-                        "Efendi Nahi": {
-                            "verse 113:1": "Thuaj: “I lutem dhe mbështetem te Zoti i agimit",
-                            "verse 113:2": "që të më mbrojë nga sherri i të gjitha krijesave,",
-                            "verse 113:3": "dhe prej sherrit të natës kur kaplon terri,",
-                            "verse 113:4": "dhe prej sherrit të falltorëve që fryejnë në nyje (bëjnë magji),",
-                            "verse 113:5": "dhe nga sherri i ziliqarit kur e shfaq zilinë!” magji),"
-                        }
-                    }
-                }
-            },
-            "azerbaijani": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "(Ya Peyğəmbər!) De: \"Pənah aparıram sübhün Rəbbinə!",
-                            "verse 113:2": "Yaratdıqlarının (insanların, cinlərin, vəhşi heyvanların) şərindən;",
-                            "verse 113:3": "Zülmətə bürünməkdə olan gecənin (və ya: batan ayın, ziyası sönən ulduzların) şərindən;",
-                            "verse 113:4": "(Ovsun oxuyub) düyünlərə üfürən (yaxud: cadu edib iplərə düyün vuran) qadınların şərindən;",
-                            "verse 113:5": "Və bir də paxıllığı tutanda paxılın şərindən!\""
-                        }
-                    }
-                }
-            },
-            "bosnian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "Reci: \"Utječem se Gospodaru svitanja",
-                            "verse 113:2": "od zla onoga što On stvara,",
-                            "verse 113:3": "i od zla mrkle noći kada razastre tmine,",
-                            "verse 113:4": "i od zla smutljivca kad smutnje sije,",
-                            "verse 113:5": "i od zla zavidljivca kad zavist ne krije!\" sije,"
-                        }
-                    }
-                }
-            },
-            "bengali": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "বলুন, আমি আশ্রয় গ্রহণ করছি প্রভাতের পালনকর্তার,",
-                            "verse 113:2": "তিনি যা সৃষ্টি করেছেন, তার অনিষ্ট থেকে,",
-                            "verse 113:3": "অন্ধকার রাত্রির অনিষ্ট থেকে, যখন তা সমাগত হয়,",
-                            "verse 113:4": "গ্রন্থিতে ফুঁৎকার দিয়ে জাদুকারিনীদের অনিষ্ট থেকে",
-                            "verse 113:5": "এবং হিংসুকের অনিষ্ট থেকে যখন সে হিংসা করে। থেকে"
-                        }
-                    }
-                }
-            },
-            "bulgarian": {
-                "translators": {
-                    "1": {
-                        "Tzvetan Theophanov": {
-                            "verse 113:1": "Кажи [о, Мухаммад]: Опазил ме Господът на разсъмването",
-                            "verse 113:2": "от злото на онова, което е сътворил,",
-                            "verse 113:3": "и от злото на тъмнината, когато настъпи,",
-                            "verse 113:4": "и от злото на духащи по възлите ,",
-                            "verse 113:5": "и от злото на завистник, когато завиди! ,"
-                        }
-                    }
-                }
-            },
-            "chinese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "你說:我求庇于曙光的主 ,",
-                            "verse 113:2": "免遭他所創造者的毒害 ;",
-                            "verse 113:3": "免遭黑夜籠罩時的毒害 ;",
-                            "verse 113:4": "免遭吹破堅決的主意者的毒害 ;",
-                            "verse 113:5": "免遭嫉妒時的毒害。 ;"
-                        }
-                    }
-                }
-            },
-            "czech": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "Rci: \"Utíkám se v ochranu Pána záře jitřní",
-                            "verse 113:2": "před zlem Jeho stvoření,",
-                            "verse 113:3": "před zlem temnoty, když se šíří,",
-                            "verse 113:4": "před zlem žen, jež do uzlů prskají,",
-                            "verse 113:5": "před zlem závistníka, když závidí!\" prskají,"
-                        }
-                    }
-                }
-            },
-            "dutch": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "Zeg: \"Ik zoek mijn toevlucht bij de Heer van de dageraad.",
-                            "verse 113:2": "Tegen het kwade van wat Hij heeft geschapen",
-                            "verse 113:3": "En tegen het kwade van de duisternis wanneer deze zich verspreidt",
-                            "verse 113:4": "En tegen het kwade van degenen die vaste banden door boze inblazingen willen ontbinden",
-                            "verse 113:5": "En van het kwade van de benijder wanneer deze benijdt."
-                        }
-                    }
-                }
-            },
-            "english": {
-                "translators": {
-                    "1": {
-                        "Marmaduke Pickthall": {
-                            "verse 113:1": "Say: I seek refuge in the Lord of the Daybreak",
-                            "verse 113:2": "From the evil of that which He created;",
-                            "verse 113:3": "From the evil of the darkness when it is intense,",
-                            "verse 113:4": "And from the evil of malignant witchcraft,",
-                            "verse 113:5": "And from the evil of the envier when he envieth."
-                        }
-                    },
-                    "2": {
-                        "Abdullah Yusuf Ali": {
-                            "verse 113:1": "Say: I seek refuge with the Lord of the Dawn",
-                            "verse 113:2": "From the mischief of created things;",
-                            "verse 113:3": "From the mischief of Darkness as it overspreads;",
-                            "verse 113:4": "From the mischief of those who practise secret arts;",
-                            "verse 113:5": "And from the mischief of the envious one as he practises envy."
-                        }
-                    },
-                    "3": {
-                        "Arthur J. Arberry": {
-                            "verse 113:1": "Say: ’I take refuge with the Lord of the Daybreak",
-                            "verse 113:2": "from the evil of what He has created,",
-                            "verse 113:3": "from the evil of darkness when it gathers,",
-                            "verse 113:4": "from the evil of the women who blow on knots,",
-                            "verse 113:5": "from the evil of an envier when he envies."
-                        }
-                    },
-                    "4": {
-                        "Muhammad Asad": {
-                            "verse 113:1": "SAY: \"I seek refuge with the Sustainer of the rising dawn,",
-                            "verse 113:2": "\"from the evil of aught that He has created,",
-                            "verse 113:3": "\"and from the evil of the black darkness whenever it descends,",
-                            "verse 113:4": "\"and from the evil of all human beings bent on occult endeavours.",
-                            "verse 113:5": "\"and from the evil of the envious when he envies."
-                        }
-                    },
-                    "5": {
-                        "Martin Lings": {
-                            "verse 113:1": "Say I take refuge in the Lord of dawn.",
-                            "verse 113:2": "I take refuge in the Lord of daybreak.",
-                            "verse 113:3": "From the evil which He hath created.",
-                            "verse 113:4": "the evil of that which He hath created.",
-                            "verse 113:5": "And from the evil of the night when it growth dark.",
-                            "verse 113:6": "from the evil of dusk when it dimmeth into night.",
-                            "verse 113:7": "And from the evil of the women that blow upon the knots.",
-                            "verse 113:8": "from the evil of the women who breathe upon knots.",
-                            "verse 113:9": "And from the evil of the envier when he envieth.",
-                            "verse 113:10": "Sources",
-                            "verse 113:11": "Used• Unpublished Material (1938-2005) BOOKS•",
-                            "verse 113:12": "The Book of Certainty (1952) •",
-                            "verse 113:13": "A Sufi Saint of the Twentieth Century (1961) •",
-                            "verse 113:14": "What is Sufism (1975) •",
-                            "verse 113:15": "The Quranic Art of Calligraphy and Illumination (1976) •",
-                            "verse 113:16": "Muhammad (1983) •",
-                            "verse 113:17": "Symbol and Archetype (1991) •",
-                            "verse 113:18": "Sufi Poems (2004) •",
-                            "verse 113:19": "Mecca (2004) •",
-                            "verse 113:20": "Return to the Spirit (2005) •",
-                            "verse 113:21": "Splendours of Qur’an Calligraphy and Illumination (2005) ARTICLES•",
-                            "verse 113:22": "“Proofs of Islam”(1954).",
-                            "verse 113:23": "“The Islamic and Christian Conceptions of the March of Time” (1954) The Islamic Quarterly, Vol.",
-                            "verse 113:24": "“The Origins of Sufism (1956) The Islamic Quarterly, Vol.",
-                            "verse 113:25": "“Sufism”: Religion in the Middle East (1969); ed.",
-                            "verse 113:26": "“Sufi Answers to Questions On Ultimate Reality”: Studies in Comparative Religions 1979 Summer/Autumn •",
-                            "verse 113:27": "“The Nature and Origin of Sufism”: Islamic Spirituality (1985) •",
-                            "verse 113:28": "“Mystical Poetry”: The Cambridge History of Arabic Literature, Vol.",
-                            "verse 113:29": "“The Quranic Doctrine of the Afterlife” •",
-                            "verse 113:30": "“The Quranic Origins of Sufism” •",
-                            "verse 113:31": "“Human Origins and Destinies According to the Great Religions of the World” •",
-                            "verse 113:32": "“Metaphysics and the Perennial Philosophy” •",
-                            "verse 113:33": "“An Introduction to Islam” •",
-                            "verse 113:34": "“The Universality of the Quran” •",
-                            "verse 113:35": "Private Talks Books",
-                            "verse 113:36": "without Quranic Ayaat• Collected Poems• Ancient Beliefs and Modern Superstitions• The Eleventh Hour• The Secret of ShakespeareArticles without Quranic Ayaat• “Signs of the Times”: Studies in Comparative Religions 1970 Winter• “Ibn Aliwah” Encyclopedia of Islam, Second Edition• “Kabd” Encyclopedia of Islam, Second Edition Books"
-                        }
-                    },
-                    "6": {
-                        "Mufti Muhammad Taqi Uthmani": {
-                            "verse 113:1": "Say, “I seek refuge with the Lord of the daybreak",
-                            "verse 113:2": "from the evil of everything He has created,",
-                            "verse 113:3": "and from the evil of the dark night when it penetrates,",
-                            "verse 113:4": "and from the evil of the women who blow on the knots,",
-                            "verse 113:5": "and from the evil of an envier when he envies."
-                        }
-                    },
-                    "7": {
-                        "Royal Aal al-Bayt Institute Translation": {
-                            "verse 113:1": "Say: ‘I seek refuge in the Lord of the Daybreak,",
-                            "verse 113:2": "from the evil of what He has created,",
-                            "verse 113:3": "and from the evil of darkness when it gathers,",
-                            "verse 113:4": "and from the evil of the women-blowers on knots,",
-                            "verse 113:5": "and from the evil of an envier when he envies’."
-                        }
-                    },
-                    "8": {
-                        "Recitations of Ibrahim walk from saheeh international": {
-                            "verse 113:1": "Beseech: ‘I seek refuge with the Lord of daybreak (or Who brought the universe into existence with an explosion extremely fast),",
-                            "verse 113:2": "From the evil influence (and harmfulness) of everything that He has created,",
-                            "verse 113:3": "And (in particular) from the evil of the murky night when (its) darkness prevails,",
-                            "verse 113:4": "And from the evil of those women (and men) who practise magic on knots by blowing,",
-                            "verse 113:5": "And from the mischief of every envious person when he envies."
-                        }
-                    }
-                }
-            },
-            "finnish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "Sano: »Minä etsin turvaa päivänkoiton Herrasta,",
-                            "verse 113:2": "sitä pahaa vastaan, mikä on liikkeelle pantu,",
-                            "verse 113:3": "ja sitä pahaa vastaan, jonka pimeä yö tuo mukanaan,",
-                            "verse 113:4": "niiden pahuutta vastaan, jotka viettelevät päätöksessään lujittuvia,",
-                            "verse 113:5": "sekä pahaa vastaan, joka leviää kateellisesta, kun hän kadehtii."
-                        }
-                    }
-                }
-            },
-            "french": {
-                "translators": {
-                    "1": {
-                        "Jean-Louis Michon": {
-                            "verse 113:1": "Dis : \" Je prends refuge auprès du Seigneur de l'aube",
-                            "verse 113:2": "contre le mal de ce qu'Il a créé,",
-                            "verse 113:3": "et contre le mal de l'obscurité lorsqu'elle s'étend,",
-                            "verse 113:4": "et contre le mal de celles qui soufflent sur les nœuds,",
-                            "verse 113:5": "et contre le mal de l'envieux lorsqu'il envie \"."
-                        }
-                    },
-                    "2": {
-                        "Muhammad Hamidullah ": {
-                            "verse 113:1": "Dis : «Je cherche protection auprès du Seigneur de l’aube naissante,",
-                            "verse 113:2": "contre le mal des êtres qu’Il a créés,",
-                            "verse 113:3": "contre le mal de l’obscurité quand elle s’approfondit,",
-                            "verse 113:4": "contre le mal de celles qui soufflent (les sorcières) sur les noeuds,",
-                            "verse 113:5": "et contre le mal de l’envieux quand il envie »."
-                        }
-                    }
-                }
-            },
-            "german": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "Sprich: «Ich nehme meine Zuflucht beim Herrn der Morgendämmerung,",
-                            "verse 113:2": "Vor dem Übel dessen, was Er erschaffen,",
-                            "verse 113:3": "Und vor dem Übel der Nacht, wenn sie sich verbreitet,",
-                            "verse 113:4": "Und vor dem Übel derer, die auf die Knoten blasen (um sie zu lösen),",
-                            "verse 113:5": "Und vor dem Übel des Neiders, wenn er neidet."
-                        }
-                    }
-                }
-            },
-            "hindi": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "¼,s jlwy½ rqe dg nks fd eSa lqcg ds ekfyd dh gj pht+ dh cqjkbZ ls",
-                            "verse 113:2": "tks mlus iSnk dh iukg ek¡xrk gw¡",
-                            "verse 113:3": "vkSj v¡/ksjh jkr dh cqjkbZ ls tc mldk v¡/ksjk Nk tk,",
-                            "verse 113:4": "vkSj xUMksa ij Qw¡dus okfy;ksa dh cqjkbZ ls",
-                            "verse 113:5": "¼tc Qw¡ds½ vkSj gln djus okys dh cqjkbZ ls"
-                        }
-                    }
-                }
-            },
-            "indonesian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "Katakanlah: \"Aku berlindung kepada Tuhan Yang Menguasai subuh,",
-                            "verse 113:2": "dari kejahatan makhluk-Nya,",
-                            "verse 113:3": "dan dari kejahatan malam apabila telah gelap gulita,",
-                            "verse 113:4": "dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul,",
-                            "verse 113:5": "dan dari kejahatan orang yang dengki apabila ia dengki\"."
-                        }
-                    }
-                }
-            },
-            "italian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "Di': \" Mi rifugio nel Signore dell'alba nascente,",
-                            "verse 113:2": "contro il male che ha creato,",
-                            "verse 113:3": "e contro il male dell'oscurità che si estende",
-                            "verse 113:4": "e contro il male delle soffianti sui nodi ,",
-                            "verse 113:5": "e contro il male dell'invidioso quando invidia \"."
-                        }
-                    }
-                }
-            },
-            "japanese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "言え，「梨明の主にご加護を乞い願う。",
-                            "verse 113:2": "かれが創られるものの悪（災難）から，",
-                            "verse 113:3": "深まる夜の闇の悪（危害）から，",
-                            "verse 113:4": "結び目に息を吹きかける（妖術使いの）女たちの悪から，",
-                            "verse 113:5": "また，嫉妬する者の嫉妬の悪（災厄）から。」 結び目に息を吹きかける（妖術使いの）女たちの悪から，"
-                        }
-                    }
-                }
-            },
-            "korean": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "일러가로되 동녘의 주님께 보호를 구하며",
-                            "verse 113:2": "창조된 사악한 것들의 재앙으 로부터 보호를 구하며",
-                            "verse 113:3": "어둠이 짙어지는 밤의 재앙으 로부터 보호를 구하며",
-                            "verse 113:4": "매듭으로 마술을 부리는 자들 의 재앙으로부터 보호를 구하며",
-                            "verse 113:5": "시기하는 자의 재앙으로부터 보호를 구하노라"
-                        }
-                    }
-                }
-            },
-            "kurdish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "(ئه‌ی محمد (صلی الله علیه وسلم) ئه‌ی ئیماندار) بڵێ: په‌نا ده‌گرم به‌و په‌روه‌ردگاره‌ی که به‌ره‌به‌یان پێش ده‌هێنێت.",
-                            "verse 113:2": "له شه‌ڕ و خراپه‌ی هه‌رچی که دروستی کردووه (له په‌ری و ئاده‌میزاد و مار و مێرو).",
-                            "verse 113:3": "له شه‌ڕ و خراپه‌ی شه‌و کاتێ که دادێت و دنیا تارک ده‌بێت و ده‌بێته شه‌وه‌زه‌نگ.",
-                            "verse 113:4": "له شه‌ڕ و خراپه‌ی ئه‌و که‌سانه‌ی که جادو ده‌که‌ن و په‌ت و ده‌‌زو گرێ ده‌ده‌ن و فوی پیاده‌که‌ن (به‌فێڵ و جادو نێوانی خه‌ڵکی تێک ده‌ده‌ن).",
-                            "verse 113:5": "له شه‌ڕ و خراپه‌ی حه‌سود و به‌خیل، کاتێ که حه‌سودی و به‌خیلی ده‌بات."
-                        }
-                    }
-                }
-            },
-            "malay": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "Katakanlah (wahai Muhammad): Aku berlindung kepada (Allah) Tuhan yang menciptakan sekalian makhluk.",
-                            "verse 113:2": "Dari bencana makhluk-makhluk yang Dia ciptakan.",
-                            "verse 113:3": "Dari bahaya gelap apabila ia masuk.",
-                            "verse 113:4": "Dari kejahatan makhluk-makhluk yang menghembus-hembus pada simpulan-simpulan (dan ikatan-ikatan).",
-                            "verse 113:5": "Serta dari kejahatan orang yang dengki apabila dia melakukan dengkinya."
-                        }
-                    }
-                }
-            },
-            "persian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "بگو: پناه مى‏برم به پروردگار سپيده صبح،",
-                            "verse 113:2": "از شر تمام آنچه آفريده است;",
-                            "verse 113:3": "و از شر هر موجود شرور هنگامى كه شبانه وارد مى‏شود;",
-                            "verse 113:4": "و از شر آنها كه با افسون در گره‏ها مى‏دمند (و هر تصميمى را سست مى‏كنند);",
-                            "verse 113:5": "و از شر هر حسودى هنگامى كه حسد مى‏ورزد!"
-                        }
-                    }
-                }
-            },
-            "portuguese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "Dize: Amparo-me no Senhor da Alvorada;",
-                            "verse 113:2": "Do mal de quem por Ele foi criado.",
-                            "verse 113:3": "Do mal da tenebrosa noite, quando se estende.",
-                            "verse 113:4": "Do mal dos que praticam ciências ocultas.",
-                            "verse 113:5": "Do mal do invejoso, quando inveja!"
-                        }
-                    }
-                }
-            },
-            "romanian": {
-                "translators": {
-                    "1": {
-                        "Lucrarea (traducere úi editare) a fost realizată de către": {
-                            "verse 113:1": "Spune: \"Eu caut adãpost la Stãpânul revãrsatului zorilor",
-                            "verse 113:2": "Împotriva rãului",
-                            "verse 113:3": "de la ceea ce El a creat",
-                            "verse 113:4": "Și împotriva rãului întunericului care se așterne",
-                            "verse 113:5": "Și împotriva rãului vrãjitoarelor care suflã în noduri",
-                            "verse 113:6": "Și împotriva rãului pizmuitorului, când pizmuiește."
-                        }
-                    },
-                    "2": {
-                        "George Grigore, Coranul": {
-                            "verse 113:1": "Spune:”Izbăvire caut la Domnul zorilor",
-                            "verse 113:2": "de răul a ceea ce a creat,",
-                            "verse 113:3": "de răul beznei când se lasă,",
-                            "verse 113:4": "de răul celor care suflă peste noduri,",
-                            "verse 113:5": "de răul pizmaşului când pizmuieşte!” noduri,"
-                        }
-                    }
-                }
-            },
-            "russian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "Скажи: «Ищу спасенья я у Господарассвета",
-                            "verse 113:2": "От зла того, что Он создал;",
-                            "verse 113:3": "От зла спустившегося мрака;",
-                            "verse 113:4": "От зла того, кто колдовствотворит2339;",
-                            "verse 113:5": "От зла завистника,Когда в нем зависть зреет»."
-                        }
-                    }
-                }
-            },
-            "spanish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "Di: «Me refugio en el Señor del alba",
-                            "verse 113:2": "del mal que hacen sus criaturas,",
-                            "verse 113:3": "del mal de la oscuridad cuando se extiende,",
-                            "verse 113:4": "del mal de las que soplan en los nudos,",
-                            "verse 113:5": "del mal envidioso cuando envidia»."
-                        }
-                    }
-                }
-            },
-            "tamil": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "(நபியே!) நீர் சொல்வீராக: அதிகாலையின் இறைவனிடத்தில் நான் காவல் தேடுகிறேன்.",
-                            "verse 113:2": "அவன் படைத்தவற்றின் தீங்கை விட்டும்-",
-                            "verse 113:3": "இருள் பரவும் போது ஏற்படும் இரவின் தீங்கை விட்டும்-",
-                            "verse 113:4": "இன்னும், முடிச்சுகளில் (மந்திரித்து) ஊதும் பெண்களின் தீங்கை விட்டும்,",
-                            "verse 113:5": "பொறாமைக்காரன் பொறாமை கொள்ளும் போதுண்டாகும் தீங்கை விட்டும் (காவல் தேடுகிறேன்)."
-                        }
-                    }
-                }
-            },
-            "thai": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "จงกล่าวเถิดมุฮัมมัด ข้าพระองค์ ขอความคุ้มครองต่อพระเจ้าแห่งรุ่งอรุณ",
-                            "verse 113:2": "ให้พ้นจากความชั่วร้าย ที่พระองค์ได้ทรงบันดาลขึ้น",
-                            "verse 113:3": "และจากความชั่วร้าย แห่งความมืดของกาลเวลากลางคืน เมื่อมันแผ่คลุม",
-                            "verse 113:4": "และจากความชั่วร้าย ของบรรดาผู้เสกเป่าในปมเงื่อน",
-                            "verse 113:5": "และจากความชั่วร้าย ของผู้อิจฉาเมื่อเขาอิจฉา"
-                        }
-                    }
-                }
-            },
-            "turkish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "De ki:\"Ben ağaran sabahın Rabbine sığınırım,",
-                            "verse 113:2": "Yarattığı şeylerin şerrinden,",
-                            "verse 113:3": "Karanlığı çöktüğü zaman gecenin şerrinden,",
-                            "verse 113:4": "Ve düğümlere üfürüp büyü yapan üfürükçülerin şerrinden ,",
-                            "verse 113:5": "Ve kıskandığı vakit kıskanç kişinin şerrinden sabahın Rabbine sığınırım!"
-                        }
-                    }
-                }
-            },
-            "urdu": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "کہو کہ میں صبح کے پروردگار کی پناہ مانگتا ہوں",
-                            "verse 113:2": "آپ عرض کيجئے کہ ميں (ايک) دھماکے سے انتہائي تيزي کے ساتھ (کائنات کو) وجود ميں لانے والے رب کي پناہ مانگتا ہوںo",
-                            "verse 113:3": "ہر اس چيز کے شر (اور نقصان) سے جو اس نے پيدا فرمائي ہےo",
-                            "verse 113:4": "ہر چیز کی بدی سے جو اس نے پیدا کی",
-                            "verse 113:5": "اور شب تاریکی کی برائی سے جب اس کااندھیرا چھا جائے",
-                            "verse 113:6": "اور (بالخصوص) اندھيري رات کے شر سے جب (اس کي) ظلمت چھا جائےo",
-                            "verse 113:7": "اور گرہوں ميں پھونک مارنے والي جادوگرنيوں (اور جادوگروں) کے شر سےo",
-                            "verse 113:8": "اور گنڈوں پر (پڑھ پڑھ کر) پھونکنے والیوں کی برائی سے",
-                            "verse 113:9": "اور حسد کرنے والے کی برائی سے جب حسد کرنے لگے",
-                            "verse 113:10": "اور ہر حسد کرنے والے کے شر سے جب وہ حسد کرےo لگے"
-                        }
-                    }
-                }
-            },
-            "uzbek": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 113:1": "Тонг Роббисидан паноҳ сўрайман.",
-                            "verse 113:2": "У яратган нарсалар ёмонлигидан.",
-                            "verse 113:3": "Ва кириб келган қоронғулик ёмонлигидан.",
-                            "verse 113:4": "Ва тугунларга дам солувчилар ёмонлигидан.",
-                            "verse 113:5": "Ва ҳасад қилган ҳасадчининг ёмонлигидан, деб айт."
-                        }
-                    }
-                }
-            }
+        "Albanian": {
+            "verse 113:1": "Thuaj: “I lutem dhe mbështetem te Zoti i agimit",
+            "verse 113:2": "që të më mbrojë nga sherri i të gjitha krijesave,",
+            "verse 113:3": "dhe prej sherrit të natës kur kaplon terri,",
+            "verse 113:4": "dhe prej sherrit të falltorëve që fryejnë në nyje (bëjnë magji),",
+            "verse 113:5": "dhe nga sherri i ziliqarit kur e shfaq zilinë!”"
+        },
+        "Amharic": {
+            "verse 113:1": "በል «በተፈልቃቂው ጎህ ጌታ እጠበቃለሁ፡፡",
+            "verse 113:2": "«ከፈጠረው ፍጡር ሁሉ ክፋት፡፡",
+            "verse 113:3": "«ከሌሊትም ክፋት ባጨለመ ጊዜ፤",
+            "verse 113:4": "«በተቋጠሩ (ክሮች) ላይ ተፊዎች ከኾኑት (ደጋሚ) ሴቶችም ክፋት፡፡",
+            "verse 113:5": "«ከምቀኛም ክፋት በተመቀኘ ጊዜ፤ (እጠበቃለሁ በል)፡፡»"
+        },
+        "Arabic": {
+            "verse 113:1": "ِقَلَفْلا ِّبَرِب ُذوُعَأ ْلُق",
+            "verse 113:2": "َقَلَخ اَم ِّرَش نِم",
+            "verse 113:3": "َبَقَو اَذِإ ٍقِساَغ ِّرَش نِمَو",
+            "verse 113:4": "ِدَقُعْلا يِف ِتاَثاَّفَّنلا ِّرَش نِمَو",
+            "verse 113:5": "َدَسَح اَذِإ ٍدِساَح ِّرَش نِمَو"
+        },
+        "Azerbaijani": {
+            "verse 113:1": "De: “Sığınıram sübhün Rəbbinə!",
+            "verse 113:2": "Məxluqatının şərindən,",
+            "verse 113:3": "çökən zülmətin şərindən,",
+            "verse 113:4": "düyünlərə üfürən cadugər qadınların şərindən",
+            "verse 113:5": "və həsəd apardığı zaman paxılın şərindən!”"
+        },
+        "Bengali": {
+            "verse 113:1": "বলুন, আমি আশ্রয় গ্রহণ করছি প্রভাতের পালনকর্তার,",
+            "verse 113:2": "তিনি যা সৃষ্টি করেছেন, তার অনিষ্ট থেকে,",
+            "verse 113:3": "অন্ধকার রাত্রির অনিষ্ট থেকে, যখন তা সমাগত হয়,",
+            "verse 113:4": "গ্রন্থিতে ফুঁৎকার দিয়ে জাদুকারিনীদের অনিষ্ট থেকে",
+            "verse 113:5": "এবং হিংসুকের অনিষ্ট থেকে যখন সে হিংসা করে।"
+        },
+        "Berber Amazigh": {
+            "verse 113:1": "Ini: \"ad iyi Iûûeô, Mass n wanqaô!",
+            "verse 113:2": "Si lhemm n wayen Ixelq,",
+            "verse 113:3": "si lhemm n tillas ma ssant,",
+            "verse 113:4": "si lhemm n tid ipûuvun di tyersiwin,",
+            "verse 113:5": "si lhemm um$ecci, ma iusem."
+        },
+        "Bosnian": {
+            "verse 113:1": "Reci: \"Utječem se Gospodaru svitanja",
+            "verse 113:2": "od zla onoga što On stvara,",
+            "verse 113:3": "i od zla mrkle noći kada razastre tmine,",
+            "verse 113:4": "i od zla smutljivca kad smutnje sije,",
+            "verse 113:5": "i od zla zavidljivca kad zavist ne krije!\""
+        },
+        "Bulgarian": {
+            "verse 113:1": "Кажи [о, Мухаммад]: “Опазил ме Господът на разсъмването",
+            "verse 113:2": "от злото на онова, което е сътворил,",
+            "verse 113:3": "и от злото на тъмнината, когато настъпи,",
+            "verse 113:4": "и от злото на духащи по възлите [магьосници],",
+            "verse 113:5": "и от злото на завистник, когато завиди!”"
+        },
+        "Chinese": {
+            "verse 113:1": "你说: 我求庇于曙光的主,",
+            "verse 113:2": "免遭他所创造者的毒害;",
+            "verse 113:3": "免遭黑夜笼罩时的毒害;",
+            "verse 113:4": "免遭吹破坚决的主意者的毒害;",
+            "verse 113:5": "免遭嫉妒时的毒害。"
+        },
+        "Danish": {
+            "verse 113:1": "Zeg: Ik zoek mijn toevlucht bij de Heer van de dageraad",
+            "verse 113:2": "Tegen het kwade van wat Hij heeft geschapen",
+            "verse 113:3": "En tegen het kwade van de duisternis wanneer deze zich verspreidt",
+            "verse 113:4": "En tegen het kwade van degenen die vaste banden door boze inblazingen willen ontbinden",
+            "verse 113:5": "En van het kwade van de benijder wanneer deze benijdt"
+        },
+        "Dutch": {
+            "verse 113:1": "Zeg: \"Ik zoek bescherming bij de Heer der dageraad.",
+            "verse 113:2": "Tegen het kwaad dat Hij geschapen heeft.",
+            "verse 113:3": "En tegen het kwaad van de donkere nacht wanneer hij aanbreekt.",
+            "verse 113:4": "En tegen het kwaad van hen die op knopen blazen.",
+            "verse 113:5": "En tegen het kwaad van een jaloerse wanneer deze jaloers is.\""
+        },
+        "English": {
+            "verse 113:1": "Say, \"I seek refuge in the Lord of daybreak",
+            "verse 113:2": "From the evil of that which He created",
+            "verse 113:3": "And from the evil of darkness when it settles",
+            "verse 113:4": "And from the evil of the blowers in knots",
+            "verse 113:5": "And from the evil of an envier when he envies.\""
+        },
+        "Filipino": {
+            "verse 113:1": "Ipagbadya: Ako ay naghahanap ng Kaligtasan (kay Allah), ang Panginoon ng Bukang Liwayway",
+            "verse 113:2": "Mula sa kasamaan at kabuktutan ng mga nilalang",
+            "verse 113:3": "Mula sa kasamaan at kabuktutan ng kadiliman kung ito ay lumalaganap",
+            "verse 113:4": "At mula sa kasamaan at kabuktutan ng mga nagsasagawa ng Karunungang Itim (mga panggagaway), kung sila ay umiihip sa mga buhol (o nakabuhol)",
+            "verse 113:5": "At mula sa kasamaan at katampalasanan ng isang mainggitin habang siya ay naninibugho (sa pagkainggit)"
+        },
+        "French": {
+            "verse 113:1": "Dis: «Je cherche protection auprès du Seigneur de l'aube naissante,",
+            "verse 113:2": "contre le mal des êtres qu'Il a créés,",
+            "verse 113:3": "contre le mal de l'obscurité quand elle s'approfondit,",
+            "verse 113:4": "contre le mal de celles qui soufflent [les sorcières] sur les nœuds,",
+            "verse 113:5": "et contre le mal de l'envieux quand il envie»."
+        },
+        "Fulah": {
+            "verse 113:1": "Maaku mbɗa moolo e jom subaka",
+            "verse 113:2": "E bone ko o tagi",
+            "verse 113:3": "E bone jemma niɓɓa kunu",
+            "verse 113:4": "E bone wuttooɓe e piɓlee. @Corrected",
+            "verse 113:5": "E bone haaside si o haasidiima"
+        },
+        "German": {
+            "verse 113:1": "Sag: Ich nehme Zuflucht beim Herrn des Tagesanbruchs",
+            "verse 113:2": "vor dem Übel dessen, was Er erschaffen hat,",
+            "verse 113:3": "und vor dem Übel der Dunkelheit, wenn sie zunimmt,",
+            "verse 113:4": "und vor dem Übel der Knotenanbläserinnen",
+            "verse 113:5": "und vor dem Übel eines (jeden) Neidenden, wenn er neidet."
+        },
+        "Hausa": {
+            "verse 113:1": "Ka ce \"ina neman tsari ga Ubangijin safiya\"",
+            "verse 113:2": "\"Daga sharrin abin da Ya halitta.\"",
+            "verse 113:3": "\"Da sharrin dare, idan ya yi duhu.\"",
+            "verse 113:4": "\"Da sharrin mãtã mãsu tõfi a cikin ƙulle-ƙulle.\"",
+            "verse 113:5": "\"Da sharrin mai hãsada idan ya yi hasada.\""
+        },
+        "Hindi": {
+            "verse 113:1": "(ऐ रसूल) तुम कह दो कि मैं सुबह के मालिक की",
+            "verse 113:2": "हर चीज़ की बुराई से जो उसने पैदा की पनाह माँगता हूँ",
+            "verse 113:3": "और अंधेरीरात की बुराई से जब उसका अंधेरा छा जाए",
+            "verse 113:4": "और गन्डों पर फूँकने वालियों की बुराई से",
+            "verse 113:5": "(जब फूँके) और हसद करने वाले की बुराई से"
+        },
+        "Indonesian": {
+            "verse 113:1": "Katakanlah: \"Aku berlindung kepada Tuhan Yang Menguasai subuh,",
+            "verse 113:2": "dari kejahatan makhluk-Nya,",
+            "verse 113:3": "dan dari kejahatan malam apabila telah gelap gulita,",
+            "verse 113:4": "dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul,",
+            "verse 113:5": "dan dari kejahatan pendengki bila ia dengki\"."
+        },
+        "Italian": {
+            "verse 113:1": "Di’: “Mi rifugio nel Signore dell’alba nascente,",
+            "verse 113:2": "contro il male che ha creato,",
+            "verse 113:3": "e contro il male dell’oscurità che si estende",
+            "verse 113:4": "e contro il male delle soffianti sui nodi,",
+            "verse 113:5": "e contro il male dell’invidioso quando invidia”."
+        },
+        "Japanese": {
+            "verse 113:1": "言え，「梨明の主にご加護を乞い願う。",
+            "verse 113:2": "かれが創られるものの悪（災難）から，",
+            "verse 113:3": "深まる夜の闇の悪（危害）から，",
+            "verse 113:4": "結び目に息を吹きかける（妖術使いの）女たちの悪から，",
+            "verse 113:5": "また，嫉妬する者の嫉妬の悪（災厄）から。」"
+        },
+        "Jawa": {
+            "verse 113:1": "Dhawuha: \"Kawula nyuwun ngayom ing Pangeraning bangun enjing",
+            "verse 113:2": "Saking awonipun samu kawis kang kathitahaken",
+            "verse 113:3": "Saha saking awonipun dalu ingkang peteng dhedhet lelimengan nalikanipun datheng",
+            "verse 113:4": "Lan saking pihalanipun tiyang ingkang ngempakaken sihir handamoni bundhelan",
+            "verse 113:5": "Lan saking pihalanipun tiyang drengki nalika andrengkeni"
+        },
+        "Kazakh": {
+            "verse 113:1": "Ей, Мұхаммед! Айт: «Таңның Раббысына Иесіне сиынып, қорғауын тілеймін",
+            "verse 113:2": "жаратқан нәрселерінің жамандығынан",
+            "verse 113:3": "әрі қараңғылықтың жамандығынан, ол жапқан кезде",
+            "verse 113:4": "және түйіндерге үрлеушілердің жамандығынан",
+            "verse 113:5": "әрі хасадшының қызғанған хасад қылған кездегі жамандығынан"
+        },
+        "Korean": {
+            "verse 113:1": "일러가로되 동녘의 주님께 보호를 구하며일러가로되 동녘의 주님께 보호를 구하며",
+            "verse 113:2": "창조된 사악한 것들의 재앙으 로부터 보호를 구하며창조된 사악한 것들의 재앙으 로부터 보호를 구하며",
+            "verse 113:3": "어둠이 짙어지는 밤의 재앙으 로부터 보호를 구하며어둠이 짙어지는 밤의 재앙으 로부터 보호를 구하며",
+            "verse 113:4": "매듭으로 마술을 부리는 자들 의 재앙으로부터 보호를 구하며매듭으로 마술을 부리는 자들 의 재앙으로부터 보호를 구하며",
+            "verse 113:5": "시기하는 자의 재앙으로부터 보호를 구하노라시기하는 자의 재앙으로부터 보호를 구하노라"
+        },
+        "Kurdish": {
+            "verse 113:1": "(Muhemmed! tu aha) bêje, \"Ez xwe davêjime (berbextê wî Xuda yê, ku şevê) diçirîne (sibehê) derdixe(ئه‌ی محمد (صلی الله علیه وسلم) ئه‌ی ئیماندار) بڵێ: په‌نا ده‌گرم به‌و په‌روه‌ردگاره‌ی که به‌ره‌به‌یان پێش ده‌هێنێت.",
+            "verse 113:2": "Ji sîkatîne hemî tiştê aferandîyeله شه‌ڕ و خراپه‌ی هه‌رچی که دروستی کردووه (له په‌ری و ئاده‌میزاد و مار و مێرو).",
+            "verse 113:3": "Û ji sikatîya şevê gava tarî dibeله شه‌ڕ و خراپه‌ی شه‌و کاتێ که دادێت و دنیا تارک ده‌بێت و ده‌بێته شه‌وه‌زه‌نگ.",
+            "verse 113:4": "Û ji sikatîya ançkeran, ku pufe girya dikin; girê didinله شه‌ڕ و خراپه‌ی ئه‌و که‌سانه‌ی که جادو ده‌که‌ن و په‌ت و ده‌‌زو گرێ ده‌ده‌ن و فوی پیاده‌که‌ن (به‌فێڵ و جادو نێوانی خه‌ڵکی تێک ده‌ده‌ن).",
+            "verse 113:5": "Û ji sikatîya Dexesan, gava dexesî dikinله شه‌ڕ و خراپه‌ی حه‌سود و به‌خیل، کاتێ که حه‌سودی و به‌خیلی ده‌بات."
+        },
+        "Kyrgyz": {
+            "verse 113:1": "Айт (о, Мухаммад): «Таңдын Раббисинен коргоо тилеймин",
+            "verse 113:2": "(Өзү) жараткан (зыяндуу) нерселердин жамандыгынан",
+            "verse 113:3": "Каптап кирген учурдагы (караңгы) түндүн жамандыгынан..,”",
+            "verse 113:4": "Түйүндөргө дем салган сайкырчылардын жамандыгынан",
+            "verse 113:5": "Сугун арткан учурда, көрө албаган кишинин жамандыгынан"
+        },
+        "Malay": {
+            "verse 113:1": "Katakanlah (wahai Muhammad); \"Aku berlindung kepada (Allah) Tuhan yang menciptakan sekalian makhluk,",
+            "verse 113:2": "\"Dari bencana makhluk-makhluk yang Ia ciptakan;",
+            "verse 113:3": "\"Dan dari bahaya gelap apabila ia masuk;",
+            "verse 113:4": "\"Dan dari kejahatan makhluk-makhluk yang menghembus-hembus pada simpulan-simpulan (dan ikatan-ikatan);",
+            "verse 113:5": "\"Dan dari kejahatan orang yang dengki apabila ia melakukan dengkinya\"."
+        },
+        "Malayalam": {
+            "verse 113:1": "പറയുക: പുലരിയുടെ രക്ഷിതാവിനോട് ഞാന്‍ ശരണം തേടുന്നു.",
+            "verse 113:2": "അവന്‍ സൃഷ്ടിച്ചുട്ടുള്ളവയുടെ കെടുതിയില്‍ നിന്ന്‌.",
+            "verse 113:3": "ഇരുളടയുമ്പോഴുള്ള രാത്രിയുടെ കെടുതിയില്‍നിന്നും.",
+            "verse 113:4": "കെട്ടുകളില്‍ ഊതുന്ന സ്ത്രീകളുടെ കെടുതിയില്‍നിന്നും",
+            "verse 113:5": "അസൂയാലു അസൂയപ്പെടുമ്പോള്‍ അവന്‍റെ കെടുതിയില്‍നിന്നും."
+        },
+        "Norwegian": {
+            "verse 113:1": "Si: «Jeg søker tilflukt hos morgengryets Herre,",
+            "verse 113:2": "mot ondt fra det Han har skapt,",
+            "verse 113:3": "mot ondt fra mørket når det bryter inn,",
+            "verse 113:4": "mot ondt fra dem som blåser på knuter og utøver magi,",
+            "verse 113:5": "mot ondt fra en misunnelig, når han misunner (kaster det onde øye)."
+        },
+        "Pashto": {
+            "verse 113:1": "(اى نبي) ته ووایه: زه په رب د سبا پورې پناه نيسم",
+            "verse 113:2": "د هر هغه شي له شر نه چې ده پیدا كړى دى",
+            "verse 113:3": "او د تیارې شپې له شر نه كله چې تكه توره (او خوره) شي",
+            "verse 113:4": "او له شره د هغو (جادوګرو) ښځو چې په غوټو كې پوكي وهونكې دي",
+            "verse 113:5": "او د حسد كوونكي له شر نه كله چی دى حسد (شروع او ښكاره) كړي"
+        },
+        "Persian": {
+            "verse 113:1": "بگو: به پروردگار صبحگاه پناه مى‌برم،",
+            "verse 113:2": "از شر آنچه بيافريده است،",
+            "verse 113:3": "و از شر شب چون درآيد،",
+            "verse 113:4": "و از شر جادوگرانى كه در گره‌ها افسون مى‌دمند،",
+            "verse 113:5": "از شر حسود چون رشك مى‌ورزد."
+        },
+        "Polish": {
+            "verse 113:1": "Mów: \"Szukam schronienia u Pana jutrzenki",
+            "verse 113:2": "Przed złem tego, co On stworzył,",
+            "verse 113:3": "Przed złem ciemności, kiedy się szerzy,",
+            "verse 113:4": "Przed złem tych, którzy dmuchają na węzły,",
+            "verse 113:5": "I przed złem człowieka zawistnego, w chwili kiedy żywi zawiść!\""
+        },
+        "Portuguese": {
+            "verse 113:1": "Dize: Amparo-me no Senhor da Alvorada;",
+            "verse 113:2": "Do mal de quem por Ele foi criado.",
+            "verse 113:3": "Do mal da tenebrosa noite, quando se estende.",
+            "verse 113:4": "Do mal dos que praticam ciências ocultas.",
+            "verse 113:5": "Do mal do invejoso, quando inveja!"
+        },
+        "Punjabi": {
+            "verse 113:1": "ਆਖੋ, ਮੈਂ ਸ਼ਰਣ ਮੰਗਦਾ ਹਾਂ, ਸਵੇਰ ਦੇ ਰੱਬ ਦੀ।",
+            "verse 113:2": "ਹਰ ਚੀਜ਼ ਦੀ ਬੁਰਾਈ ਤੋਂ ਜਿਹੜੀ ਉਸ ਨੇ ਪੈਦਾ ਕੀਤੀ।",
+            "verse 113:3": "ਹਨੇਰੇ ਦੀ ਬੁਰਾਈ ਤੋਂ ਜਦੋਂ ਉਹ (ਹਨੇਰਾ) ਛਾ ਜਾਵੇ।",
+            "verse 113:4": "ਅਤੇ ਗੰਢਾਂ ਤੇ (ਪੜ੍ਹ-ਪੜ੍ਹ ਕੇ) ਫੂਕਾਂ ਮਾਰਨ ਵਾਲਿਆਂ ਦੀ ਬੁਰਾਈ ਤੋਂ।",
+            "verse 113:5": "ਅਤੇ ਈਰਖਾ ਕਰਨ ਵਾਲੇ ’ਦੀ ਬੁਰਾਈ ਤੋਂ, ਜਦੋਂ ਉਹ ਈਰਖਾ ਕਰੇ।"
+        },
+        "Roman english": {
+            "verse 113:1": "Qul a`uzoo bi rabbil-falaq",
+            "verse 113:2": "Min sharri ma khalaq",
+            "verse 113:3": "Wa min sharri ghasiqin iza waqab",
+            "verse 113:4": "Wa min sharrin-naffaa-thaati fil `uqad",
+            "verse 113:5": "Wa min shar ri haasidin iza hasad"
+        },
+        "Russian": {
+            "verse 113:1": "Скажи: \"Ищу спасенья я у Господа рассвета",
+            "verse 113:2": "От зла того, что Он создал;",
+            "verse 113:3": "От зла спустившегося мрака;",
+            "verse 113:4": "От зла того, кто колдовство творит;",
+            "verse 113:5": "От зла завистника, Когда в нем зависть зреет\"."
+        },
+        "Sindhi": {
+            "verse 113:1": "(اي پيغمبر) چؤ ته صبح جي پالڻھار جي پناھ گھران ٿو.",
+            "verse 113:2": "جيڪي پيدا ڪيو اٿس تنھنجي بڇڙائي کان.",
+            "verse 113:3": "۽ اونداھي ڪندڙ (رات) جي بڇڙائي کان جڏھن اُھا پکڙجي.",
+            "verse 113:4": "۽ ڳنڍين ۾ ڦوڪيندڙين (عورتن) جي بڇڙائي کان.",
+            "verse 113:5": "۽ مَسَھُوء جي بڇڙائيءَ کان جڏھن (اُھو) مَسَھائي ڪري."
+        },
+        "Sinhalese": {
+            "verse 113:1": "(නබිවරය!) නුඹ පවසනු. අරුණෝදයේ පරමාධිපති වෙතින් මම ආරක්ෂාව පතමි.",
+            "verse 113:2": "ඔහු මැවූ දෑහි හානියෙන් ද,",
+            "verse 113:3": "තවද අඳුර විහිදුණු විට එහි හානියෙන් ද,",
+            "verse 113:4": "තවද ගැට මත පිඹින්නියන්ගේ හානියෙන් ද,",
+            "verse 113:5": "ඊර්ෂ්යා කරන්නා ඊර්ෂ්යා කළ විට එහි හානියෙන් ද (ආරක්ෂාව පතමි.)"
+        },
+        "Somali": {
+            "verse 113:1": "Waxaad dhahdaa (Nabiyow) waxaan ka magangalay Eebeha Subaxa (abuuray).",
+            "verse 113:2": "Wixii shar leh sharkiisa.",
+            "verse 113:3": "Iyo Habeenka sharkiisa markuu madoobaado.",
+            "verse 113:4": "Iyo sharka Sixirrowga wax ku tufa guntimaha.",
+            "verse 113:5": "Iyo sharka Xaasidka wax Xasda."
+        },
+        "Spanish": {
+            "verse 113:1": "Di: Me refugio en el Señor del rayar del alba.",
+            "verse 113:2": "Del mal de lo que ha creado.",
+            "verse 113:3": "Del mal de la noche cuando se hace oscura.",
+            "verse 113:4": "Y del mal de las que soplan en los nudos.",
+            "verse 113:5": "Y del mal del envidioso cuando envidia."
+        },
+        "Swahili": {
+            "verse 113:1": "Sema: Najikinga kwa Mola Mlezi wa mapambazuko,",
+            "verse 113:2": "Na shari ya alivyo viumba,",
+            "verse 113:3": "Na shari ya giza la usiku liingiapo,",
+            "verse 113:4": "Na shari ya wanao pulizia mafundoni,",
+            "verse 113:5": "Na shari ya hasidi anapo husudu."
+        },
+        "Swedish": {
+            "verse 113:1": "SÄG: \"Jag söker skydd hos gryningens Herre,",
+            "verse 113:2": "mot det onda i det som Han har skapat,",
+            "verse 113:3": "mot det onda i nattens tätnande mörker,",
+            "verse 113:4": "mot det onda från dem som blåser på knutar,",
+            "verse 113:5": "och mot det onda i avunden från den som avundas.\""
+        },
+        "Tajik": {
+            "verse 113:1": "Бигӯ: «Ба Парвардигори субҳгоҳ паноҳ мебарам,",
+            "verse 113:2": "аз шарри он чӣ биёфаридааст",
+            "verse 113:3": "ва аз шарри шаб чун дарояд",
+            "verse 113:4": "ва аз шарри ҷодугароне, ки дар гиреҳҳо афсун медаманд",
+            "verse 113:5": "ва аз шарри ҳасуд чун ҳасад мекунад!»"
+        },
+        "Tamil": {
+            "verse 113:1": "(நபியே!) நீர் சொல்வீராக: அதிகாலையின் இறைவனிடத்தில் நான் காவல் தேடுகிறேன்.",
+            "verse 113:2": "அவன் படைத்தவற்றின் தீங்கை விட்டும்-",
+            "verse 113:3": "இருள் பரவும் போது ஏற்படும் இரவின் தீங்கை விட்டும்-",
+            "verse 113:4": "இன்னும், முடிச்சுகளில் (மந்திரித்து) ஊதும் பெண்களின் தீங்கை விட்டும்,",
+            "verse 113:5": "பொறாமைக்காரன் பொறாமை கொள்ளும் போதுண்டாகும் தீங்கை விட்டும் (காவல் தேடுகிறேன்)."
+        },
+        "Tatar": {
+            "verse 113:1": "Әйт, әй Мухәммәд, \"Мин сыенамын таңның Раббысы Аллаһу тагаләгә күренеп вә күренмичә килә торган һәртөрле зарарлардан.",
+            "verse 113:2": "Бар кылынган, яратылган һәр мәхлукның нинди булса да зарарыннан.",
+            "verse 113:3": "Вә караңгы төннең зарарыннан сыгынамын, һәркайчан караңгылыгы белән җир өстен капласа.",
+            "verse 113:4": "Дәхи сихыр – ырым төеннәренә төкерүче өрүче сихерче хатыннар явызлыгыннан, зарарыннан сыгынамын.",
+            "verse 113:5": "Һәм көнче дошманның авызлыкларыннан, зарарларыннан сыенамын, һәркайчан ул көнчелек ачуы белән зарар тидерергә теләсә."
+        },
+        "Telugu": {
+            "verse 113:1": "ఇలా అను: నేను ఉదయ కాలపు ప్రభువు అయిన (అల్లాహ్) శరణు వేడుకుంటున్నాను",
+            "verse 113:2": "ఆయన సృష్టించిన ప్రతిదాని కీడు నుండి",
+            "verse 113:3": "మరియు చిమ్మచీకటి కీడు నుండి, ఎప్పుడైతే అది క్రమ్ముకుంటుందో",
+            "verse 113:4": "మరియు ముడుల మీద మంత్రించి ఊదే వారి కీడు నుండి",
+            "verse 113:5": "మరియు అసూయపరుడి కీడు నుండి, ఎప్పుడైతే అతడు అసూయపడతాడో"
+        },
+        "Thai": {
+            "verse 113:1": "จงกล่าวเถิด มุฮัมมัด ข้าพระองค์ขอความคุ้มครองต่อพระเจ้าแห่งรุ่งอรุณ",
+            "verse 113:2": "ให้พ้นจากความชั่วร้ายที่พระองค์ได้ทรงบันดาลขึ้น",
+            "verse 113:3": "และจากความชั่วร้ายแห่งความมืดของเวลากลางคืนเมื่อมันแผ่คลุม",
+            "verse 113:4": "และจากความชั่วร้ายของบรรดาผู้เสกเป่าในปมเงื่อน",
+            "verse 113:5": "และจากความชั่วร้ายของผู้อิจฉาเมื่อเขาอิจฉา"
+        },
+        "Turkish": {
+            "verse 113:1": "De ki: \"Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden, düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin şerrinden, tan yerini ağartan Rabbe sığınırım.\"",
+            "verse 113:2": "De ki: \"Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden, düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin şerrinden, tan yerini ağartan Rabbe sığınırım.\"",
+            "verse 113:3": "De ki: \"Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden, düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin şerrinden, tan yerini ağartan Rabbe sığınırım.\"",
+            "verse 113:4": "De ki: \"Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden, düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin şerrinden, tan yerini ağartan Rabbe sığınırım.\"",
+            "verse 113:5": "De ki: \"Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden, düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin şerrinden, tan yerini ağartan Rabbe sığınırım.\""
+        },
+        "Urdu": {
+            "verse 113:1": "کہو کہ میں صبح کے پروردگار کی پناہ مانگتا ہوں",
+            "verse 113:2": "ہر چیز کی بدی سے جو اس نے پیدا کی",
+            "verse 113:3": "اور شب تاریکی کی برائی سے جب اس کااندھیرا چھا جائے",
+            "verse 113:4": "اور گنڈوں پر (پڑھ پڑھ کر) پھونکنے والیوں کی برائی سے",
+            "verse 113:5": "اور حسد کرنے والے کی برائی سے جب حسد کرنے لگے"
+        },
+        "Uyghur": {
+            "verse 113:1": "«مەخلۇقاتنىڭ شەررىدىن، قاراڭغۇلۇقى بىلەن كىرگەن كېچىنىڭ شەررىدىن، تۈگۈنلەرگە دەم سالغۇچى سېھىرگەرلەرنىڭ شەررىدىن، ھەسەتخورنىڭ ھەسەت قىلغان چاغدىكى شەررىدىن سۈبھىنىڭ پەرۋەردىگارى (اﷲ) غا سېغىنىپ پاناھ تىلەيمەن» دېگىن",
+            "verse 113:2": "«مەخلۇقاتنىڭ شەررىدىن، قاراڭغۇلۇقى بىلەن كىرگەن كېچىنىڭ شەررىدىن، تۈگۈنلەرگە دەم سالغۇچى سېھىرگەرلەرنىڭ شەررىدىن، ھەسەتخورنىڭ ھەسەت قىلغان چاغدىكى شەررىدىن سۈبھىنىڭ پەرۋەردىگارى (اﷲ) غا سېغىنىپ پاناھ تىلەيمەن» دېگىن",
+            "verse 113:3": "«مەخلۇقاتنىڭ شەررىدىن، قاراڭغۇلۇقى بىلەن كىرگەن كېچىنىڭ شەررىدىن، تۈگۈنلەرگە دەم سالغۇچى سېھىرگەرلەرنىڭ شەررىدىن، ھەسەتخورنىڭ ھەسەت قىلغان چاغدىكى شەررىدىن سۈبھىنىڭ پەرۋەردىگارى (اﷲ) غا سېغىنىپ پاناھ تىلەيمەن» دېگىن",
+            "verse 113:4": "«مەخلۇقاتنىڭ شەررىدىن، قاراڭغۇلۇقى بىلەن كىرگەن كېچىنىڭ شەررىدىن، تۈگۈنلەرگە دەم سالغۇچى سېھىرگەرلەرنىڭ شەررىدىن، ھەسەتخورنىڭ ھەسەت قىلغان چاغدىكى شەررىدىن سۈبھىنىڭ پەرۋەردىگارى (اﷲ) غا سېغىنىپ پاناھ تىلەيمەن» دېگىن",
+            "verse 113:5": "«مەخلۇقاتنىڭ شەررىدىن، قاراڭغۇلۇقى بىلەن كىرگەن كېچىنىڭ شەررىدىن، تۈگۈنلەرگە دەم سالغۇچى سېھىرگەرلەرنىڭ شەررىدىن، ھەسەتخورنىڭ ھەسەت قىلغان چاغدىكى شەررىدىن سۈبھىنىڭ پەرۋەردىگارى (اﷲ) غا سېغىنىپ پاناھ تىلەيمەن» دېگىن"
+        },
+        "Uzbek": {
+            "verse 113:1": "Тонг Роббисидан паноҳ сўрайман.",
+            "verse 113:2": "У яратган нарсалар ёмонлигидан.",
+            "verse 113:3": "Ва кириб келган қоронғулик ёмонлигидан.",
+            "verse 113:4": "Ва тугунларга дам солувчилар ёмонлигидан.",
+            "verse 113:5": "Ва ҳасад қилган ҳасадчининг ёмонлигидан, деб айт."
+        },
+        "Vietnamese": {
+            "verse 113:1": "Ngươi (Thiên Sứ Muhammad) hãy nói: “Bề tôi cầu xin Thượng Đế của bình minh che chở.",
+            "verse 113:2": "“Tránh khỏi những điều xấu mà Ngài đã tạo.”",
+            "verse 113:3": "“Tránh khỏi những điều xấu của bóng đêm khi nó bao phủ.”",
+            "verse 113:4": "“Tránh khỏi những điều xấu từ những kẻ phù phép vào những chiếc gút thắt.”",
+            "verse 113:5": "“Và tránh khỏi sự hãm hại của những kẻ ganh ghét và đố kỵ.”"
+        },
+        "Yoruba": {
+            "verse 113:1": "So pe: \"Mo sa di Oluwa owuro kutukutu",
+            "verse 113:2": "nibi aburu ohun ti O da",
+            "verse 113:3": "ati nibi aburu oru nigba ti o ba sookun",
+            "verse 113:4": "ati nibi aburu awon (opidan) t’o n fenu fategun tuetue sinu awon onde",
+            "verse 113:5": "ati nibi aburu onilara nigba ti o ba se ilara"
         }
     }
 }

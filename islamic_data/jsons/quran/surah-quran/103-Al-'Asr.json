@@ -5,7 +5,6 @@
     "revelation_order": 13,
     "bismillah_pre": true,
     "verses_count": 3,
-    "source": "Sayyid Abul Ala Maududi - Tafhim al-Qur'an - The Meaning of the Quran",
     "short_text": "The Surah takes its name from the word al-'asr occurring in the first verse.",
     "text": [
         "The Surah takes its name from the word al-'asr occurring in the  first verse .",
@@ -14,425 +13,276 @@
         "Theme and Subject Matter",
         "This Surah is a inimitable specimen of comprehensiveness and brevity. A whole world of meaning has been compressed into its few brief words, which is too vast in content to be fully expressed even in a book. In the surah, in a clear and plain way, the way to true success for man and the way to ruin and destruction for him have both been stated. Imam Ash Shafi'i has very rightly said that if the people only considered this Surah well, it alone would suffice them for their guidance. How important this Surah was in the sight of the Companions can be judged from the tradition cited from Hadrat Abdullah bin Hisn ad-Darimi Abu Madinah, according to which whenever any two of them met, they would not part company until they had recited Surah Al-Asr to each other. (Tabarani)"
     ],
+    "quran-source": "`https://surahquran.com`",
     "description": "The surah that opens with the oath of the Divine One swearing by the decline of Time and humankind’s absolute loss of every single thing but righteousness, truth, patience, and faith. It takes its name from the phrase “by time” (wal- ʿāṣr) as mentioned in verse 1. The surah shows the way to salvation. The image of a declining day suggests the stage in the day, or in life, when only a short while is left for those wishing to make up for lost time.The surah is also known as: Afternoon, The Decline of Time, The Declining Day, The Epoch, The Late Afternoon, Time and Age, Time through the Ages.",
-    "name_translation": "TIME",
+    "name_translation": "Time",
     "name_complex": "Al-‘Asr",
     "surah_name_ar": "العصر",
     "verses": {
-        "languages": {
-            "albanian": {
-                "translators": {
-                    "1": {
-                        "Efendi Nahi": {
-                            "verse 103:1": "Betohem në kohë, -",
-                            "verse 103:2": "me të vërtetë, njeriu është në humbje,",
-                            "verse 103:3": "përveç atyre që besojnë dhe punojnë vepra të mira, dhe të cilët rekomandojnë njëri-tjetrit të vërtetën (fenë Islame), dhe të cilët i rekomandojnë njëri-tjetrit durimin, (në zbatimin e urdhërave të Perëndisë)."
-                        }
-                    }
-                }
-            },
-            "azerbaijani": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "And olsun axşam çağına (ikindi vaxtına, əsr namazına, zamana və ya Peyğəmbərin əsrinə) ki,",
-                            "verse 103:2": "İnsan (ömrünü bihudə işlərə sərf etməklə, dünyanı axirətdən üstün tutmaqla) ziyan içindədir?",
-                            "verse 103:3": "Yalnız iman gətirib yaxşı əməllər edən, bir-birinə haqqı tövsiyə edən və səbri tövsiyə edən kimsələrdən başqa! (Belələri Cənnətə nail olub əbədi səadətə qovuşanlardır!)"
-                        }
-                    }
-                }
-            },
-            "bosnian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "Tako mi vremena -",
-                            "verse 103:2": "čovjek, doista, gubi,",
-                            "verse 103:3": "samo ne oni koji vjeruju i dobra djela čine, i koji jedni drugima istinu preporučuju i koji jedni drugima preporučuju strpljenje."
-                        }
-                    }
-                }
-            },
-            "bengali": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "কসম যুগের (সময়ের),",
-                            "verse 103:2": "নিশ্চয় মানুষ ক্ষতিগ্রস্ত;",
-                            "verse 103:3": "কিন্তু তারা নয়, যারা বিশ্বাস স্থাপন করে ও সৎকর্ম করে এবং পরস্পরকে তাকীদ করে সত্যের এবং তাকীদ করে সবরের। ক্ষতিগ্রস্ত;"
-                        }
-                    }
-                }
-            },
-            "bulgarian": {
-                "translators": {
-                    "1": {
-                        "Tzvetan Theophanov": {
-                            "verse 103:1": "Кълна се в следобеда -",
-                            "verse 103:2": "човекът е в загуба,",
-                            "verse 103:3": "освен онези, които вярват и вършат праведни дела, и взаимно се наставляват за истината, и взаимно се наставляват за търпението."
-                        }
-                    }
-                }
-            },
-            "chinese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "以時光盟誓，",
-                            "verse 103:2": "一切人確是在虧折之中，",
-                            "verse 103:3": "惟信道而且行善，并以真理相勸，以堅忍相勉的人則不然。 一切人確是在虧折之中，"
-                        }
-                    }
-                }
-            },
-            "czech": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "Při osudu!",
-                            "verse 103:2": "Věru že člověk spěje v záhubu!",
-                            "verse 103:3": "Kromě těch, kdož uvěřili a zbožné skutky konali a vzájemně se k pravdě a neochvějnosti nabádali."
-                        }
-                    }
-                }
-            },
-            "dutch": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "Bij de tijd.",
-                            "verse 103:2": "Voorzeker, de mens is te midden van verlies.",
-                            "verse 103:3": "Behalve degenen die geloven en goede werken doen, en elkander tot waarheid, en geduld aansporen."
-                        }
-                    }
-                }
-            },
-            "english": {
-                "translators": {
-                    "1": {
-                        "Marmaduke Pickthall": {
-                            "verse 103:1": "By the declining day,",
-                            "verse 103:2": "Lo! man is a state of loss,",
-                            "verse 103:3": "Save those who believe and do good works, and exhort one another to truth and exhort one another to endurance."
-                        }
-                    },
-                    "2": {
-                        "Abdullah Yusuf Ali": {
-                            "verse 103:1": "By (the Token of) Time (through the ages),",
-                            "verse 103:2": "Verily Man is in loss,",
-                            "verse 103:3": "Except such as have Faith, and do righteous deeds, and (join together) in the mutual teaching of Truth, and of Patience and Constancy."
-                        }
-                    },
-                    "3": {
-                        "Arthur J. Arberry": {
-                            "verse 103:1": "By the afternoon!",
-                            "verse 103:2": "Surely Man is in the way of loss,",
-                            "verse 103:3": "save those who believe, and do righteous deeds, and counsel each other unto the truth, and counsel each other to be steadfast."
-                        }
-                    },
-                    "4": {
-                        "Muhammad Asad": {
-                            "verse 103:1": "CONSIDER the flight of time!",
-                            "verse 103:2": "Verily, man is bound to lose himself",
-                            "verse 103:3": "unless he be of those who attain to faith, and do good works, and enjoin upon one another the keeping to truth, and enjoin upon one another patience in adversity."
-                        }
-                    },
-                    "5": {
-                        "Martin Lings": {
-                            "verse 103:1": "By the declining day.",
-                            "verse 103:2": "Verily mankind is in ruinous loss.",
-                            "verse 103:3": "Except they that believe and do good works, and exhort one another unto truth and unto patience.",
-                            "verse 103:4": "Used• Unpublished Material (1938-2005) BOOKS•",
-                            "verse 103:5": "The Book of Certainty (1952) •",
-                            "verse 103:6": "A Sufi Saint of the Twentieth Century (1961) •",
-                            "verse 103:7": "What is Sufism (1975) •",
-                            "verse 103:8": "The Quranic Art of Calligraphy and Illumination (1976) •",
-                            "verse 103:9": "Muhammad (1983) •",
-                            "verse 103:10": "Symbol and Archetype (1991) •",
-                            "verse 103:11": "Sufi Poems (2004) •",
-                            "verse 103:12": "Mecca (2004) •",
-                            "verse 103:13": "Return to the Spirit (2005) •",
-                            "verse 103:14": "Splendours of Qur’an Calligraphy and Illumination (2005) ARTICLES•",
-                            "verse 103:15": "“Proofs of Islam”(1954).",
-                            "verse 103:16": "“The Islamic and Christian Conceptions of the March of Time” (1954) The Islamic Quarterly, Vol.",
-                            "verse 103:17": "“The Origins of Sufism (1956) The Islamic Quarterly, Vol.",
-                            "verse 103:18": "“Sufism”: Religion in the Middle East (1969); ed.",
-                            "verse 103:19": "“Sufi Answers to Questions On Ultimate Reality”: Studies in Comparative Religions 1979 Summer/Autumn •",
-                            "verse 103:20": "“The Nature and Origin of Sufism”: Islamic Spirituality (1985) •",
-                            "verse 103:21": "“Mystical Poetry”: The Cambridge History of Arabic Literature, Vol.",
-                            "verse 103:22": "“The Quranic Doctrine of the Afterlife” •",
-                            "verse 103:23": "“The Quranic Origins of Sufism” •",
-                            "verse 103:24": "“Human Origins and Destinies According to the Great Religions of the World” •",
-                            "verse 103:25": "“Metaphysics and the Perennial Philosophy” •",
-                            "verse 103:26": "“An Introduction to Islam” •",
-                            "verse 103:27": "“The Universality of the Quran” •",
-                            "verse 103:28": "Private Talks Books",
-                            "verse 103:29": "without Quranic Ayaat• Collected Poems• Ancient Beliefs and Modern Superstitions• The Eleventh Hour• The Secret of ShakespeareArticles without Quranic Ayaat• “Signs of the Times”: Studies in Comparative Religions 1970 Winter• “Ibn Aliwah” Encyclopedia of Islam, Second Edition• “Kabd” Encyclopedia of Islam, Second Edition Books"
-                        }
-                    },
-                    "6": {
-                        "Mufti Muhammad Taqi Uthmani": {
-                            "verse 103:1": "(I swear) by the Time,",
-                            "verse 103:2": "man is in a state of loss indeed,",
-                            "verse 103:3": "except those who believed and did righteous deeds, and exhorted each other to follow truth, and exhorted each other to observe patience."
-                        }
-                    },
-                    "7": {
-                        "Royal Aal al-Bayt Institute Translation": {
-                            "verse 103:1": "By Time!",
-                            "verse 103:2": "Verily man is in [a state of] loss,",
-                            "verse 103:3": "except those who believe, and perform righteous deeds, and enjoin one another to",
-                            "verse 103:4": "the truth, and enjoin one another to patience."
-                        }
-                    },
-                    "8": {
-                        "Recitations of Ibrahim walk from saheeh international": {
-                            "verse 103:1": "By the passing time (whose rotation bears witness to the affairs of mankind).",
-                            "verse 103:2": "Indeed, man is at a loss (for he is losing his valuable lifetime),",
-                            "verse 103:3": "Except for those who believe and do good deeds and exhort one another to truth and exhort one another to patience (in the face of hardships and afflictions that are faced whilst preaching the Din",
-                            "verse 103:4": "of truth)."
-                        }
-                    }
-                }
-            },
-            "finnish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "Kautta kuluvan ajan,",
-                            "verse 103:2": "ihminen on totisesti mennyttä,",
-                            "verse 103:3": "lukuunottomatta niitä, jotka uskovat ja hyvää tekevät, soveltavat toisiinsa totuutta ja kehoittavat toisiaan kestävyyteen."
-                        }
-                    }
-                }
-            },
-            "french": {
-                "translators": {
-                    "1": {
-                        "Jean-Louis Michon": {
-                            "verse 103:1": "Par le déclin du jour !",
-                            "verse 103:2": "Certes, l'homme court à sa perte,",
-                            "verse 103:3": "à l'exception de ceux qui croient et accomplissent des oeuvres pies, s'exhortent mutuellement à la Vérité et s'exhortent mutuellement à la patience."
-                        }
-                    },
-                    "2": {
-                        "Muhammad Hamidullah ": {
-                            "verse 103:1": "Par le Temps !",
-                            "verse 103:2": "L’homme est certes, en perdition,",
-                            "verse 103:3": "sauf ceux qui croient et accomplissent les bonnes oeuvres, s’enjoignent mutuellement la vérité et s’enjoignent mutuellement l’endurance."
-                        }
-                    }
-                }
-            },
-            "german": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "Bei der Zeit,",
-                            "verse 103:2": "Wahrlich, der Mensch ist in einem Zustande des Verlusts,",
-                            "verse 103:3": "Außer denen, die glauben und gute Werke tun und einander zur Wahrheit mahnen und einander zum Ausharren mahnen."
-                        }
-                    }
-                }
-            },
-            "hindi": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "uekt+s vlz dh d+le",
-                            "verse 103:2": "cs’kd bUlku ?kkVs esa gS",
-                            "verse 103:3": "exj tks yksx bZeku yk,] vkSj vPNs dke djrs jgs vkSj vkil esa gd+ dk gqDe vkSj lcz dh olh;r djrss jgs"
-                        }
-                    }
-                }
-            },
-            "indonesian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "Demi masa.",
-                            "verse 103:2": "Sesungguhnya manusia itu benar-benar berada dalam kerugian,",
-                            "verse 103:3": "kecuali orang-orang yang beriman dan mengerjakan amal saleh dan nasehat menasehati supaya menta’ati kebenaran dan nasehat menasehati supaya menetapi kesabaran."
-                        }
-                    }
-                }
-            },
-            "italian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "Per il Tempo!",
-                            "verse 103:2": "Invero l'uomo è in perdita,",
-                            "verse 103:3": "eccetto coloro che credono e compiono il bene, vicendevolmente si raccomandano la verità e vicendevolmente si raccomandano la pazienza."
-                        }
-                    }
-                }
-            },
-            "japanese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "時間にかけて（誓う）。",
-                            "verse 103:2": "本当に人間は，喪失の中にいる。",
-                            "verse 103:3": "信仰して善行に勤しみ，互いに真理を勧めあい，また忍耐を勧めあう者たちの外は。 本当に人間は，喪失の中にいる。"
-                        }
-                    }
-                }
-            },
-            "korean": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "세월을 두고 맹세하사",
-                            "verse 103:2": "실로 모든 인간은 멸망케 되 니라",
-                            "verse 103:3": "그러나 믿음으로 의로운 일을실천하며 서로가 서로에게 진리를권고하며 인내하는 자들은 제외라"
-                        }
-                    }
-                }
-            },
-            "kurdish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "سوێند به زه‌مانه‌، سوێند به‌کاتی عه‌سر.",
-                            "verse 103:2": "به‌ڕاستی ئاده‌میزاد له زه‌ره‌رمه‌ندی و خه‌ساره‌تمه‌ندیدایه‌.",
-                            "verse 103:3": "بێجگه له‌وانه‌ی که باوه‌ڕیان هێناوه‌و کارو کرده‌وه چاکه‌کانیان ئه‌نجامداوه‌و ئامۆژگاری یه‌کتریشیان کردووه که هه‌میشه پابه‌ندی حه‌ق بن (پابه‌ندی حه‌قیش پێویستی به خۆگری هه‌یه‌)، له‌به‌ر ئه‌وه به‌رده‌وام ئامۆژگاری یه‌کتریان کردووه تا هه‌میشه و به‌رده‌وام، خۆگرو ئارامگریش بن."
-                        }
-                    }
-                }
-            },
-            "malay": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "Demi Masa!",
-                            "verse 103:2": "Sesungguhnya manusia itu dalam kerugian;",
-                            "verse 103:3": "Kecuali orang-orang yang beriman dan beramal soleh dan mereka pula berpesan-pesan dengan kebenaran serta berpesan-pesan dengan sabar."
-                        }
-                    }
-                }
-            },
-            "persian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "به عصر سوگند،",
-                            "verse 103:2": "كه انسانها همه در زيانند;",
-                            "verse 103:3": "مگر كسانى كه ايمان آورده و اعمال صالح انجام داده‏اند، و يكديگر را به حق سفارش كرده و يكديگر را به شكيبايى و استقامت توصيه نموده‏اند!"
-                        }
-                    }
-                }
-            },
-            "portuguese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "Pela era,",
-                            "verse 103:2": "Que o homem está na perdição,",
-                            "verse 103:3": "Salvo os fiéis, que praticam o bem, aconselham-se na verdade e recomendam-se, uns aos outros, a paciência e a perseverança!"
-                        }
-                    }
-                }
-            },
-            "romanian": {
-                "translators": {
-                    "1": {
-                        "Lucrarea (traducere úi editare) a fost realizată de către": {
-                            "verse 103:1": "Jur pe timp!",
-                            "verse 103:2": "Cã omul va fi în pierdere,",
-                            "verse 103:3": "Afarã de aceia care cred și împlinesc fapte bune și se îndeamnã unul pe altul cãtre Adevãr și se îndeamnã unul pe altul la rãbdare."
-                        }
-                    },
-                    "2": {
-                        "George Grigore, Coranul": {
-                            "verse 103:1": "Pe amiază!",
-                            "verse 103:2": "Omul este sortit pierzaniei!",
-                            "verse 103:3": "Nu şi cei care cred însă, cei care săvârşesc fapte bune, cei care se îndeamnă întru adevăr, cei care se îndeamnă întru răbdare! pierzaniei!"
-                        }
-                    }
-                }
-            },
-            "russian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "В знак времени (как Моегознаменья), —",
-                            "verse 103:2": "Уверь, что человек всегда убытоктерпит,",
-                            "verse 103:3": "Помимо тех, кто верует,Деянья добрые творит,Заповедает истину средь братьевИ к терпеливой стойкости зовет."
-                        }
-                    }
-                }
-            },
-            "spanish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "¡Por la tarde!",
-                            "verse 103:2": "En verdad, el hombre camina hacia su perdición,",
-                            "verse 103:3": "Excepto quienes crean, obren bien, se recomienden mutuamente la verdad y se recomienden mutuamente la paciencia."
-                        }
-                    }
-                }
-            },
-            "tamil": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "காலத்தின் மீது சத்தியமாக.",
-                            "verse 103:2": "நிச்சயமாக மனிதன் நஷ்டத்தில் இருக்கின்றான்.",
-                            "verse 103:3": "ஆயினும், எவர்கள் ஈமான் கொண்டு ஸாலிஹான (நல்ல) அமல்கள் செய்து, சத்தியத்தைக் கொண்டு ஒருவருக்கொருவர் உபதேசம் செய்து, மேலும் பொறுமையைக் கொண்டும் ஒருவருக்கொருவர் உபதேசிக்கிறார்களோ அவர்களைத் தவிர (அவர்கள் நஷ்டத்திலில்லை)."
-                        }
-                    }
-                }
-            },
-            "thai": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "ขอสาบานด้วยกาลเวลา",
-                            "verse 103:2": "แท้จริง มนุษย์นั้น อยู่ในการขาดทุน",
-                            "verse 103:3": "นอกจากบรรดาผู้ศรัทธา และกระทำความดีทั้งหลาย และตักเตือนกันและกันในสิ่งที่เป็นสัจธรรม และตักเตือนกันและกัน ให้มีความอดทน"
-                        }
-                    }
-                }
-            },
-            "turkish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "Asra yemin ederim ki",
-                            "verse 103:2": "İnsan gerçekten ziyan içindedir.",
-                            "verse 103:3": "Bundan ancak iman edip iyi ameller işleyenler, birbirlerine hakkı tavsiye edenler ve sabrı tavsiye edenler müstesnadır."
-                        }
-                    }
-                }
-            },
-            "urdu": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "عصر کی قسم",
-                            "verse 103:2": "زمانہ کي قَسم (جس کي گردش انساني حالات پر گواہ ہے) يا:نماز عصر کي قسم (کہ وہ سب نمازوں کا وسط ہے) يا:وقت عصر کي قسم (جب دن بھر چمکنے والا سورج خود ڈوبنے کا منظر پيش کرتا ہے) يا:زمان? بعثت مصطفي? (صلي اللہ عليہ وآلہ وسلم) کي قَسم (جو سارے زمانوں کا ماحصل اور مقصود ہے)o",
-                            "verse 103:3": "بيشک انسان خسارے ميں ہے (کہ وہ عمرِ عزيز گنوا رہا ہے)o",
-                            "verse 103:4": "کہ انسان نقصان میں ہے",
-                            "verse 103:5": "مگر وہ لوگ جو ایمان لائے اور نیک عمل کرتے رہے اور آپس میں حق (بات) کی تلقین اور صبر کی تاکید کرتے رہے",
-                            "verse 103:6": "سوائے ان لوگوں کے جو ايمان لے آئے اور نيک عمل کرتے رہے اور (معاشرے ميں) ايک دوسرے کو حق کي تلقين کرتے رہے اور (تبليغِ حق کے نتيجے ميں پيش آمدہ مصائب و آلام ميں) باہم صبر کي تاکيد کرتے رہےo رہے"
-                        }
-                    }
-                }
-            },
-            "uzbek": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 103:1": "Аср билан қасам.",
-                            "verse 103:2": "Албатта, инсон хусрондадир.",
-                            "verse 103:3": "Магар иймон келтирганлар ва солиҳ амаллар қилганлар, бир-бирларини ҳақга чақирганлар ва бир-бирларини сабрга чақирганлар мустаснодир."
-                        }
-                    }
-                }
-            }
+        "Albanian": {
+            "verse 103:1": "Betohem në kohë, -",
+            "verse 103:2": "me të vërtetë, njeriu është në humbje,",
+            "verse 103:3": "përveç atyre që besojnë dhe punojnë vepra të mira, dhe të cilët rekomandojnë njëri-tjetrit të vërtetën (fenë Islame), dhe të cilët i rekomandojnë njëri-tjetrit durimin, (në zbatimin e urdhërave të Perëndisë)."
+        },
+        "Amharic": {
+            "verse 103:1": "በጊዜያቱ እምላለሁ፡፡",
+            "verse 103:2": "ሰው ሁሉ በእርግጥ በከሳራ ውስጥ ነው፡፡",
+            "verse 103:3": "እነዚያ ያመኑትና መልካሞችን የሠሩት፣ በእውነትም አደራ የተባባሉት፣ በመታገስም አደራ የተባባሉት ብቻ ሲቀሩ፡፡"
+        },
+        "Arabic": {
+            "verse 103:1": "ِرْصَعْلاَو",
+            "verse 103:2": "ٍرْسُخ يِفَل َناَسنِإْلا َّنِإ",
+            "verse 103:3": "ِرْبَّصلاِب اْوَصاَوَتَو ِّقَحْلاِب اْوَصاَوَتَو ِتاَحِلاَّصلا اوُلِمَعَو اوُنَمآ َنيِذَّلا اَّلِإ"
+        },
+        "Azerbaijani": {
+            "verse 103:1": "And olsun axşam çağına!",
+            "verse 103:2": "Həqiqətən, insan ziyan içərisindədir.",
+            "verse 103:3": "Yalnız iman gətirib yaxşı işlər görənlər, bir-birinə haqqı məsləhət görənlər və bir-birinə səbirli olmağı məsləhət edənlərdən başqa."
+        },
+        "Bengali": {
+            "verse 103:1": "কসম যুগের (সময়ের),",
+            "verse 103:2": "নিশ্চয় মানুষ ক্ষতিগ্রস্ত;",
+            "verse 103:3": "কিন্তু তারা নয়, যারা বিশ্বাস স্থাপন করে ও সৎকর্ম করে এবং পরস্পরকে তাকীদ করে সত্যের এবং তাকীদ করে সবরের।"
+        },
+        "Berber Amazigh": {
+            "verse 103:1": "S wakud!",
+            "verse 103:2": "Ih, amdan, war ccekk, ar di lexsaôa.",
+            "verse 103:3": "Kkes ed wid iumnen, ixeddmen ayen ilhan, ippemyenhun ar tidep, ippemyenhun ar ûûbeô."
+        },
+        "Bosnian": {
+            "verse 103:1": "Tako mi vremena –",
+            "verse 103:2": "čovjek, doista, gubi,",
+            "verse 103:3": "samo ne oni koji vjeruju i dobra djela čine, i koji jedni drugima istinu preporučuju i koji jedni drugima preporučuju strpljenje."
+        },
+        "Bulgarian": {
+            "verse 103:1": "Кълна се в следобеда -",
+            "verse 103:2": "човекът е в загуба,",
+            "verse 103:3": "освен онези, които вярват и вършат праведни дела, и взаимно се наставляват за истината, и взаимно се наставляват за търпението."
+        },
+        "Chinese": {
+            "verse 103:1": "以时光盟誓，",
+            "verse 103:2": "一切人确是在亏折之中，",
+            "verse 103:3": "惟信道而且行善，并以真理相劝，以坚忍相勉的人则不然。"
+        },
+        "Danish": {
+            "verse 103:1": "Bij de tijd",
+            "verse 103:2": "Voorzeker, de mens is te midden van verlies",
+            "verse 103:3": "Behalve degenen die geloven en goede werken doen, en elkander tot waarheid, en geduld aansporen"
+        },
+        "Dutch": {
+            "verse 103:1": "Bij de tijd.",
+            "verse 103:2": "Voorwaar, de mens lijdt zeker verlies.",
+            "verse 103:3": "Behalve degenen die geloven en goede daden verrichten en elkaar aansporen tot de Waarheid en elkaar aansporen tot geduld."
+        },
+        "English": {
+            "verse 103:1": "By time,",
+            "verse 103:2": "Indeed, mankind is in loss,",
+            "verse 103:3": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience."
+        },
+        "Filipino": {
+            "verse 103:1": "Sa pamamagitan ng Al-Asr (paglipas ng mga sandali sa tangkay ng panahon)",
+            "verse 103:2": "Katotohanan! Ang tao ay nasa kawalan (at pagkapahamak)",
+            "verse 103:3": "Maliban sa mga sumasampalataya (sa Kaisahan ni Allah at sa Islam), at nagsisigawa ng mga kabutihan at magkabalikat sa pagtuturo ng Katotohanan (alalaong baga, nagtatagubilin sa kanya [kanila] na magsagawa ng lahat ng uri ng mabubuting gawa na ipinag-uutos ni Allah at pag-iwas sa lahat ng masasamang gawa na ipinagbabawal ni Allah), at nagtatagubilin sa isa’t isa sa pagtitiyaga at pagiging matatag (sa mga pagdurusa, kapinsalaan, at sakit na maaaring maranasan ng sinuman sa panahon ng kanyang pangangaral ng Kanyang Pananampalataya, atbp., tungo sa Kapakanan ni Allah)"
+        },
+        "French": {
+            "verse 103:1": "Par le Temps!",
+            "verse 103:2": "L'homme est certes, en perdition,",
+            "verse 103:3": "sauf ceux qui croient et accomplissent les bonnes œuvres, s'enjoignent mutuellement la vérité et s'enjoignent mutuellement l'endurance."
+        },
+        "Fulah": {
+            "verse 103:1": "E waqtu asri",
+            "verse 103:2": "Pellet neɗɗo woni ko e perte",
+            "verse 103:3": "Si wonah ɓeen gomɗimɓe ɓe golli golle moƴƴ ɗe, hino woodani ɓe njoɓdi ndi taƴondirtaa"
+        },
+        "German": {
+            "verse 103:1": "Beim Zeitalter!",
+            "verse 103:2": "Der Mensch befindet sich wahrlich in Verlust,",
+            "verse 103:3": "außer denjenigen, die glauben und rechtschaffene Werke tun und einander die Wahrheit eindringlich empfehlen und einander die Standhaftigkeit eindringlich empfehlen."
+        },
+        "Hausa": {
+            "verse 103:1": "Ina rantsuwa da zãmani.",
+            "verse 103:2": "Lalle ne mutum yana a cikin hasara.",
+            "verse 103:3": "Fãce waɗanda suka yi ĩmani, kuma suka aikata ayyukan ƙwarai, kuma suka yi wa juna wasiyya da bin gaskiya, kuma suka yi wa juna wasiyya da yin haƙuri (su kam, basu cikin hasara)."
+        },
+        "Hindi": {
+            "verse 103:1": "नमाज़े अस्र की क़सम",
+            "verse 103:2": "बेशक इन्सान घाटे में है",
+            "verse 103:3": "मगर जो लोग ईमान लाए, और अच्छे काम करते रहे और आपस में हक़ का हुक्म और सब्र की वसीयत करते रहे"
+        },
+        "Indonesian": {
+            "verse 103:1": "Demi masa.",
+            "verse 103:2": "Sesungguhnya manusia itu benar-benar dalam kerugian,",
+            "verse 103:3": "kecuali orang-orang yang beriman dan mengerjakan amal saleh dan nasehat menasehati supaya mentaati kebenaran dan nasehat menasehati supaya menetapi kesabaran."
+        },
+        "Italian": {
+            "verse 103:1": "Per il Tempo!",
+            "verse 103:2": "Invero l’uomo è in perdita,",
+            "verse 103:3": "eccetto coloro che credono e compiono il bene, vicendevolmente si raccomandano la verità e vicendevolmente si raccomandano la pazienza."
+        },
+        "Japanese": {
+            "verse 103:1": "時間にかけて（誓う）。",
+            "verse 103:2": "本当に人間は，喪失の中にいる。",
+            "verse 103:3": "信仰して善行に勤しみ，互いに真理を勧めあい，また忍耐を勧めあう者たちの外は。"
+        },
+        "Jawa": {
+            "verse 103:1": "dhemi wektu",
+            "verse 103:2": "Sayekti manungsa iku temen ana sajeroning kapitunan",
+            "verse 103:3": "Kajaba kang padha angestu sarta anindakake panggawe becik, apa dene weling - wineling ing bener, serta weling wineling ing shabar"
+        },
+        "Kazakh": {
+            "verse 103:1": "Асрмен ант етемін",
+            "verse 103:2": "Анығында, адам баласы сөзсіз, зиянда",
+            "verse 103:3": "тек иманға келген әрі ізгі амал жасаған және бір-біріне ақиқатты насихат етіп, өсиеттеген әрі бір-біріне сабырды насихат етіп, өсиеттегендерден басқалары"
+        },
+        "Korean": {
+            "verse 103:1": "세월을 두고 맹세하사세월을 두고 맹세하사",
+            "verse 103:2": "실로 모든 인간은 멸망케 되 니라실로 모든 인간은 멸망케 되 니라",
+            "verse 103:3": "그러나 믿음으로 의로운 일을실천하며 서로가 서로에게 진리를권고하며 인내하는 자들은 제외라그러나 믿음으로 의로운 일을실천하며 서로가 서로에게 진리를권고하며 인내하는 자들은 제외라"
+        },
+        "Kurdish": {
+            "verse 103:1": "Bi gav û dananسوێند به زه‌مانه‌، سوێند به‌کاتی عه‌سر.",
+            "verse 103:2": "(Sond dixum!) ku meriv di zîyanêdaninبه‌ڕاستی ئاده‌میزاد له زه‌ره‌رمه‌ندی و خه‌ساره‌تمه‌ندیدایه‌.",
+            "verse 103:3": "Ji\tpêştirêwan\t(merivne)\tku\tbawerkirine\tûkarê\taştî\tkirine\tû\tşîreta (parisandina) mafê û şîreta bi hewdana (1i ser cefadanê) li hev dikinبێجگه له‌وانه‌ی که باوه‌ڕیان هێناوه‌و کارو کرده‌وه چاکه‌کانیان ئه‌نجامداوه‌و ئامۆژگاری یه‌کتریشیان کردووه که هه‌میشه پابه‌ندی حه‌ق بن (پابه‌ندی حه‌قیش پێویستی به خۆگری هه‌یه‌)، له‌به‌ر ئه‌وه به‌رده‌وام ئامۆژگاری یه‌کتریان کردووه تا هه‌میشه و به‌رده‌وام، خۆگرو ئارامگریش بن."
+        },
+        "Kyrgyz": {
+            "verse 103:1": "Асыргаант",
+            "verse 103:2": "Албетте, (ар бир) инсан зыянда",
+            "verse 103:3": "Ал эми, ыйман келтирген, салих (сооп) амалдарды жасаган жана бири-бирине акыйкаттык менен сабырдуулукту осуят (насаат) кылгандар гана (зыянда эмес)"
+        },
+        "Malay": {
+            "verse 103:1": "Demi Masa!",
+            "verse 103:2": "Sesungguhnya manusia itu dalam kerugian -",
+            "verse 103:3": "Kecuali orang-orang yang beriman dan beramal soleh, dan mereka pula berpesan-pesan dengan kebenaran serta berpesan-pesan dengan sabar."
+        },
+        "Malayalam": {
+            "verse 103:1": "കാലം തന്നെയാണ് സത്യം,",
+            "verse 103:2": "തീര്‍ച്ചയായും മനുഷ്യന്‍ നഷ്ടത്തില്‍ തന്നെയാകുന്നു;",
+            "verse 103:3": "വിശ്വസിക്കുകയും സല്‍കര്‍മ്മങ്ങള്‍ പ്രവര്‍ത്തിക്കുകയും, സത്യം കൈക്കൊള്ളാന്‍ അന്യോന്യം ഉപദേശിക്കുകയും ക്ഷമ കൈക്കൊള്ളാന്‍ അന്യോന്യം ഉപദേശിക്കുകയും ചെയ്തവരൊഴികെ."
+        },
+        "Norwegian": {
+            "verse 103:1": "Ved tidens makt!",
+            "verse 103:2": "Mennesket kommer visselig til kort!",
+            "verse 103:3": "Unntatt er de som tror og lever rettskaffent, som legger hverandre sannheten på hjertet, og standhaftighet."
+        },
+        "Pashto": {
+            "verse 103:1": "قسم دى په عصر (مازیګر، یا زمانه)",
+            "verse 103:2": "چې بېشكه یقینًا انسان په زیان (او تاوان) كې دى",
+            "verse 103:3": "غیر له هغو كسانو نه چې ایمان يې راوړى دى او نېك عملونه يې كړې دي او یو بل ته يې د حق (دین) وصیت كړى دى، او یو بل ته يې د صبر وصیت كړى دى"
+        },
+        "Persian": {
+            "verse 103:1": "سوگند به اين زمان،",
+            "verse 103:2": "كه آدمى در خسران است.",
+            "verse 103:3": "مگر آنها كه ايمان آوردند و كارهاى شايسته كردند و يكديگر را به حق سفارش كردند و يكديگر را به صبر سفارش كردند."
+        },
+        "Polish": {
+            "verse 103:1": "Na porę przedwieczorną!",
+            "verse 103:2": "Zaprawdę, człowiek jest na drodze zguby!",
+            "verse 103:3": "Z wyjątkiem tych, którzy uwierzyli i czynili dobre dzieła, i zachęcali się wzajemnie do prawdy, i zachęcali się wzajemnie do cierpliwości."
+        },
+        "Portuguese": {
+            "verse 103:1": "Pela era,",
+            "verse 103:2": "Que o homem está na perdição,",
+            "verse 103:3": "Salvo os fiéis, que praticam o bem, aconselham-se na verdade e recomendam-se, uns aos outros, a paciência e a perseverança!"
+        },
+        "Punjabi": {
+            "verse 103:1": "ਸਹੁੰ ਹੈ, ਜ਼ਮਾਨੇ ਦੀ।",
+            "verse 103:2": "ਬੇਸ਼ੱਕ ਮਨੁੱਖ ਘਾਟੇ ਵਿਚ ਹਨ।",
+            "verse 103:3": "ਪਰੰਤੂ ਜਿਹੜੇ ਲੋਕ ਈਮਾਨ ਲਿਆਏ ਅਤੇ ਚੰਗੇ ਕਰਮ ਕੀਤੇ ਅਤੇ ਉਨ੍ਹਾਂ ਨੇ ਇੱਕ ਦੂਜੇ ਨੂੰ ਸੱਚਾਈ ਦਾ ਉਪਦੇਸ਼ ਦਿੱਤਾ। ਅਤੇ ਉਨ੍ਹਾਂ ਨੇ ਇੱਕ ਦੂਜੇ ਨੂੰ ਧੀਰਜ ਰੱਖਣ ਦਾ ਉਪੇਦਸ਼ ਦਿੱਤਾ।"
+        },
+        "Roman english": {
+            "verse 103:1": "Wal` asr",
+            "verse 103:2": "Innal insaana lafee khusr",
+            "verse 103:3": "Il lal lazeena aamanu wa `amilus saali haati wa tawa saw bil haqqi wa tawa saw bis sabr"
+        },
+        "Russian": {
+            "verse 103:1": "В знак времени (как Моего знаменья), -",
+            "verse 103:2": "Уверь, что человек всегда убыток терпит,",
+            "verse 103:3": "Помимо тех, кто верует, Деянья добрые творит, Заповедает истину средь братьев И к терпеливой стойкости зовет."
+        },
+        "Sindhi": {
+            "verse 103:1": "پوياڙيءَ جو قسم آھي.",
+            "verse 103:2": "ته بيشڪ ماڻھو گھاٽي ۾ آھي.",
+            "verse 103:3": "سواءِ انھن جي جن ايمان آندو ۽ چڱا ڪم ڪيا ۽ ھڪ ٻئي کي سچ جي وصيّت ڪيائون، ۽ ھڪ ٻئي کي صبر جي وصّيت ڪيائون."
+        },
+        "Sinhalese": {
+            "verse 103:1": "කාලය මත දිවුරමින්.",
+            "verse 103:2": "සැබැවින්ම මිනිස් වර්ගයා අලාභයෙහි පසු වෙයි.",
+            "verse 103:3": "නමුත් (සත්යය) විශ්වාස කර, දැහැමි ක්‍රියාවන් ඉටු කර, තවද සත්ය පිළිබඳ එකිනෙකාට උපදෙස් දී, තවද ඉවසීම පිළිබඳව ද එකිනෙකාට උපදෙස් දුන් අය හැර."
+        },
+        "Somali": {
+            "verse 103:1": "Eebe wuxuu ku dhartay Waqtiga Casarka ah.",
+            "verse 103:2": "In Dadku khasaaro ku sugunyahay.",
+            "verse 103:3": "Marka laga reebo kuwa rumeeyay xaqa ee Camal fiican fala, isuna dardaarma xaqa, isuna dardaarma Samirka."
+        },
+        "Spanish": {
+            "verse 103:1": "Por el Tiempo!",
+            "verse 103:2": "Que es cierto que el hombre está en pérdida.",
+            "verse 103:3": "Pero no así los que creen, llevan a cabo las acciones de bien, se encomiendan la verdad y se encomiendan la paciencia"
+        },
+        "Swahili": {
+            "verse 103:1": "Naapa kwa Zama!",
+            "verse 103:2": "Hakika binaadamu bila ya shaka yumo katika khasara,",
+            "verse 103:3": "Ila wale walio amini, na wakatenda mema, na wakausiana kwa haki, na wakausiana kusubiri."
+        },
+        "Swedish": {
+            "verse 103:1": "VID DEN flyende tiden!",
+            "verse 103:2": "Människan förbereder helt visst sin egen undergång,",
+            "verse 103:3": "utom de som tror och lever ett rättskaffens liv och råder varandra [att hålla fast vid] sanningen och råder varandra [att bära motgång med] tålamod."
+        },
+        "Tajik": {
+            "verse 103:1": "Савганд ба ин замон,",
+            "verse 103:2": "ки одамӣ дар зиён аст,",
+            "verse 103:3": "ғайри онҳо, ки имон оварданд ва корҳои шоиста карданд ва якдигарро ба ҳақ супориш карданд ва якдигарро ба сабр супориш карданд."
+        },
+        "Tamil": {
+            "verse 103:1": "காலத்தின் மீது சத்தியமாக.",
+            "verse 103:2": "நிச்சயமாக மனிதன் நஷ்டத்தில் இருக்கின்றான்.",
+            "verse 103:3": "ஆயினும், எவர்கள் ஈமான் கொண்டு ஸாலிஹான (நல்ல) அமல்கள் செய்து, சத்தியத்தைக் கொண்டு ஒருவருக்கொருவர் உபதேசம் செய்து, மேலும் பொறுமையைக் கொண்டும் ஒருவருக்கொருவர் உபதேசிக்கிறார்களோ அவர்களைத் தவிர (அவர்கள் நஷ்டத்திலில்லை)."
+        },
+        "Tatar": {
+            "verse 103:1": "Замана, дәвер, кич, икенде намазы, гасыр белән ант итеп әйтәмен ки.",
+            "verse 103:2": "Дөреслектә адәм баласы хәсрәттәдер, кадерле гомерен дөнья өчен генә әрәм итеп зур зарарлануда, кимчелектәдер.",
+            "verse 103:3": "Мәгәр Коръән өйрәткәнчә дөрес юл белән чын иман китереп Ислам динен кабул иткән, һәрвакыт изге гамәлләр кылган, Коръән дәлилләре белән, хактан һич тә аерылмаска бер-берсен өндәшкән, һәм тормыш вә дин мәшәкатьләренә, килгән төрле авырлыкларга, бәла-казаларга сабыр итәргә чыдамлы булырга бер-берсен өндәшкән хак мөэминнәр генә зарарлануда, кимчелектә, хәсрәттә булмаслар."
+        },
+        "Telugu": {
+            "verse 103:1": "కాలం సాక్షిగా",
+            "verse 103:2": "నిశ్చయంగా మానవుడు నష్టంలో ఉన్నాడు",
+            "verse 103:3": "కాని విశ్వసించి, సత్కార్యాలు చేసేవారు మరియు ఒకరికొకరు సత్యాన్ని బోధించుకునే వారు మరియు ఒకరికొకరు సహనాన్ని (స్థైర్యాన్ని) బోధించుకునే వారు తప్ప"
+        },
+        "Thai": {
+            "verse 103:1": "ขอสาบานด้วยกาลเวลา",
+            "verse 103:2": "แท้จริงมนุษย์นั้น อยู่ในการขาดทุน",
+            "verse 103:3": "นอกจากบรรดาผู้ศรัทธาและกระทำความดีทั้งหลาย และตักเตือนกันและกันในสิ่งที่เป็นสัจธรรม และตักเตือนกันและกันให้มีความอดทน"
+        },
+        "Turkish": {
+            "verse 103:1": "İkindi vaktine (Asra; çağa) and olsun ki,",
+            "verse 103:2": "İnsan hiç şüphesiz hüsran içindedir.",
+            "verse 103:3": "Ancak inanıp yararlı iş işleyenler, birbirlerine gerçeği tavsiye edenler ve sabırlı olmayı tavsiye edenler bunun dışındadır."
+        },
+        "Urdu": {
+            "verse 103:1": "عصر کی قسم",
+            "verse 103:2": "کہ انسان نقصان میں ہے",
+            "verse 103:3": "مگر وہ لوگ جو ایمان لائے اور نیک عمل کرتے رہے اور آپس میں حق (بات) کی تلقین اور صبر کی تاکید کرتے رہے"
+        },
+        "Uyghur": {
+            "verse 103:1": "زامان بىلەن قەسەمكى،",
+            "verse 103:2": "ئىمان ئېيتقان، ياخشى ئەمەللەرنى قىلغان، بىر - بىرىگە ھەقنى تەۋسىيە قىلىشقان، بىر - بىرىگە سەۋرىنى تەۋسىيە قىلىشقان كىشىلەردىن باشقا ھەممە ئادەم چوقۇم زىيان ئىچىدىدۇر،",
+            "verse 103:3": "ئىمان ئېيتقان، ياخشى ئەمەللەرنى قىلغان، بىر - بىرىگە ھەقنى تەۋسىيە قىلىشقان، بىر - بىرىگە سەۋرىنى تەۋسىيە قىلىشقان كىشىلەردىن باشقا ھەممە ئادەم چوقۇم زىيان ئىچىدىدۇر"
+        },
+        "Uzbek": {
+            "verse 103:1": "Аср билан қасам.",
+            "verse 103:2": "Албатта, инсон хусрондадир.",
+            "verse 103:3": "Магар иймон келтирганлар ва солиҳ амаллар қилганлар, бир-бирларини ҳақга чақирганлар ва бир-бирларини сабрга чақирганлар мустаснодир."
+        },
+        "Vietnamese": {
+            "verse 103:1": "Thề bởi thời gian.",
+            "verse 103:2": "Quả thật, con người chắc chắn sẽ ở trong tình trạng thua thiệt.",
+            "verse 103:3": "Trừ những ai có đức tin và hành thiện, khuyên bảo nhau điều chân lý và khuyên bảo nhau kiên nhẫn."
+        },
+        "Yoruba": {
+            "verse 103:1": "Allahu bura pelu akoko irole aye",
+            "verse 103:2": "Dajudaju eniyan wa ninu ofo",
+            "verse 103:3": "Ayafi awon t’o gbagbo ni ododo, ti won se awon ise rere, ti won so asotele ododo laaarin ara won, ti won si tun so asotele suuru laaarin ara won"
         }
     }
 }

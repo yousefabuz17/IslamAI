@@ -1,0 +1,583 @@
+{
+    "id": 99,
+    "name_simple": "Az-Zalzalah",
+    "revelation_place": "madinah",
+    "revelation_order": 93,
+    "bismillah_pre": true,
+    "verses_count": 8,
+    "short_text": "The name of this surah is derived from the word zilzal in the first verse.",
+    "text": [
+        "It is derived from the word zilzal in the first verse.",
+        "Period of Revelation",
+        "Whether or not Surah Az-Zalzalah was revealed in Makkah or Madinah is disputed. Ibn Masud, Ata, Jabir, and Mjahid say that it is a Makki Surah and a statement of Ibn Abbas also supports this view. On the contrary, Qatadah and Muqatil say that it is Madani and another statement of Ibn Abbas also has been cited in support of this view. That it is a Madani Surah is reasoned from a tradition from Hadrat Abu Said Khudri, which Ibn Abi Hatim has related from him. He says: \"When the verse 'Fa-man ya mal mithqala dharratin khairan yarah, wa man ya mal mithqala dharratin sharran yarah', was revealed, I said: 'O Messenger of Allah, shall I really see my deeds?' The Holy Messenger replied in the affirmative. I submitted: 'And every major sin?' He replied 'yes.' I said: 'And the minor sins too?' He replied 'yes.' Thereupon I exclaimed that I would then be ruined. The Holy Prophet said: Rejoice, O Abu Sa'id, for each good act will be equal to ten good acts like it.\" The basis of the argument for this Surah being Madani is that Hadrat Abu Sa'ld Khudri was an inhabitant of Madinah and reached maturity after the Battle of Uhud. Therefore, if this Surah was revealed in his presence, as is apparent from his statement, it must be a Madani Surah. However, the practice that the Companions and their immediate successors followed in respect of the occasion of the revelation of the verses and Surahs, has already been explained in the Introduction to Surah Ad-Dahr above. Therefore, a Companion's saying that a verse was sent down on this or that particular occasion is no proof that it was sent down on that very occasion. It may well be that after coming of age, Hadrat Abu Sa'id heard this Surah for the first time from the Holy Prophet, terrified by its last portion, might have asked the Holy Prophet the questions which we have cited above, and he might have narrated the incident saying that when this verse was revealed he put this and this question to the Holy Prophet. In the absence of this tradition every reader who reads the Quran with understandings will feel that it is a Makki Surah. In addition, from its theme and style one would feel that it must have been sent down in the earliest stage at Makkah when the fundamental principles and beliefs of Islam were being presented before the people in a concise but highly effective manner.",
+        "Theme and Subject Matter",
+        "The surah's theme is the second life after death and presentation in it before man of the full record of the deeds done by him in the world. In the first three sentences it has been told briefly how the second life after death will take place and how confounding it will be for man. In the next two sentences it has been said that this very earth on which man has lived and performed all kinds of deeds thoughtlessly, and about which he never could imagine that this lifeless thing would at some point in the future bear witness to his deeds, will speak out on that Day by Allah's command and will state in respect of each individual person, what act he had committed at a particular time and place. Then, it has been said that men on that Day, rising from their graves, will come out in their varied groups from all corners of the earth, to be shown their deeds and works, and their presentation of the deeds will be so complete and detailed that not an atom's weight of any good or evil act will be left unnoticed or hidden from his eyes."
+    ],
+    "quran-source": "`https://altafsir.com`",
+    "description": "The surah that opens with the mention of The Quake of the earth in utter destruction at the end of the world. It takes its name from “the quake” (al-zalzalah) mentioned in verse 1. The surah deals with scenes from the Day of Judgement.The surah is also known as: The Convulsion, The Earthquake, The Quaking, The Shaking, The Shock.",
+    "name_translation": "The Quake",
+    "name_complex": "Al-Zalzalah",
+    "surah_name_ar": "الزلزلة",
+    "verses": {
+        "languages": {
+            "albanian": {
+                "translators": {
+                    "1": {
+                        "Efendi Nahi": {
+                            "verse 99:1": "Kur Toka të dridhet me dridhjen e tmerrshme të saj,",
+                            "verse 99:2": "dhe kur ajo (Toka) të nxjerrë materiale nga brendia e saj,",
+                            "verse 99:3": "dhe njeriu të thërret: “Cka ka ajo?!”",
+                            "verse 99:4": "atë Ditë ajo tregon lajmet e veta (veprat e mira dhe të këqia) që kanë ngjarë në të,",
+                            "verse 99:5": "sepse, Zoti yt e ka urdhëruar atë.",
+                            "verse 99:6": "Atë Ditë, njerëzit do të paraqiten në grupe-grupe (të ndara), për t’ju treguar veprat e tyre:",
+                            "verse 99:7": "ai që ka punuar ndonjë të mirë, qoftë ajo e vogël madje sa thërmia, do ta shohin atë,",
+                            "verse 99:8": "kurse ai që ka punuar të keqe, qoftë madje sa thërmia – do ta shohin atë."
+                        }
+                    }
+                }
+            },
+            "azerbaijani": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "Yer özünə məxsus bir şiddətlə lərzəyə gəlib titrəyəcəyi zaman;",
+                            "verse 99:2": "Yer öz yükünü çıxardıb atacağı zaman;",
+                            "verse 99:3": "İnsan (təəccüblə): \"Buna (bu yerə) nə olub?\" - deyəcəyi zaman -",
+                            "verse 99:4": "Məhz o gün (yer) öz hekayətini söyləyəcəkdir -",
+                            "verse 99:5": "Cünki (bunu) ona sənin Rəbbin vəhy etmişdir (buyurmuşdur)!",
+                            "verse 99:6": "O gün insanlar əməllərinin özlərinə göstərilməsi üçün (qəbirlərindən məhşərə) dəstə-dəstə çıxacaqlar! (Cənnətliklər sağ tərəfə, cəhənnəmliklər isə sol tərəfdə olacaqlar).",
+                            "verse 99:7": "Kim (dünyada) zərrə qədər yaxşı iş görmüşdürsə, onu (onun xeyrini) görəcəkdir (mükafatını alacaqdır).",
+                            "verse 99:8": "Kim də zərrə qədər pis iş görmüşdürsə, onu (onun zərərini) görəcəkdir (cəzasını çəkəcəkdir)."
+                        }
+                    }
+                }
+            },
+            "bosnian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "Kada se Zemlja najžešćim potresom svojim potrese",
+                            "verse 99:2": "i kada Zemlja izbaci terete svoje,",
+                            "verse 99:3": "i čovjek uzvikne: \"Šta joj je?!\" -",
+                            "verse 99:4": "toga Dana će ona vijesti svoje kazivati",
+                            "verse 99:5": "jer će joj Gospodar tvoj narediti.",
+                            "verse 99:6": "Tog Dana će se ljudi odvojeno pojaviti da im se pokažu djela njihova;",
+                            "verse 99:7": "onaj ko bude uradio koliko trun dobra - vidjeće ga,",
+                            "verse 99:8": "a onaj ko bude uradio koliko trun zla - vidjeće ga."
+                        }
+                    }
+                }
+            },
+            "bengali": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "যখন পৃথিবী তার কম্পনে প্রকম্পিত হবে,",
+                            "verse 99:2": "যখন সে তার বোঝা বের করে দেবে।",
+                            "verse 99:3": "এবং মানুষ বলবে, এর কি হল ?",
+                            "verse 99:4": "সেদিন সে তার বৃত্তান্ত বর্ণনা করবে,",
+                            "verse 99:5": "কারণ, আপনার পালনকর্তা তাকে আদেশ করবেন।",
+                            "verse 99:6": "সেদিন মানুষ বিভিন্ন দলে প্রকাশ পাবে, যাতে তাদেরকে তাদের কৃতকর্ম দেখানো হয়।",
+                            "verse 99:7": "অতঃপর কেউ অণু পরিমাণ সৎকর্ম করলে তা দেখতে পাবে",
+                            "verse 99:8": "এবং কেউ অণু পরিমাণ অসৎকর্ম করলে তাও দেখতে পাবে।"
+                        }
+                    }
+                }
+            },
+            "bulgarian": {
+                "translators": {
+                    "1": {
+                        "Tzvetan Theophanov": {
+                            "verse 99:1": "Когато земята бъде разтърсена в трус",
+                            "verse 99:2": "и земята изхвърли своите товари,",
+                            "verse 99:3": "и човек рече: Какво й е?,",
+                            "verse 99:4": "в този Ден тя ще разкаже своите вести,",
+                            "verse 99:5": "защото твоят Господ й е внушил.",
+                            "verse 99:6": "В този Ден хората ще излязат на групи, за да им бъдат показани техните дела.",
+                            "verse 99:7": "Който извърши добро, дори с тежест на прашинка, ще го види.",
+                            "verse 99:8": "И който извърши зло, дори с тежест на прашинка, ще го види."
+                        }
+                    }
+                }
+            },
+            "chinese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "當大地猛烈地震動 ,",
+                            "verse 99:2": "拋其重擔 ,",
+                            "verse 99:3": "說\"大地怎麼啦 ?\"",
+                            "verse 99:4": "在那日 ,大地將報告它的消息。",
+                            "verse 99:5": "因為你的主已啟示了它 ;",
+                            "verse 99:6": "在那日 ,人們將紛紛地離散 ,",
+                            "verse 99:7": "以便他們得見自己行為的報應。",
+                            "verse 99:8": "行一個小螞蟻重的善事者 ,將見其善報 ;作一個小螞蟻重的惡事者 , 將見其惡報。"
+                        }
+                    }
+                }
+            },
+            "czech": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "Až se země bude otřásat svým zemětřesením,",
+                            "verse 99:2": "až země svá břemena vyvrhne,",
+                            "verse 99:3": "člověk se zeptá: \"Co se s ní děje?\"",
+                            "verse 99:4": "V ten den bude země vyprávět své děje",
+                            "verse 99:5": "podle toho, jak jí to Pán tvůj vnukne.",
+                            "verse 99:6": "V ten den se lidé vynoří v houfech, aby jim byly ukázány jejich činy.",
+                            "verse 99:7": "A kdo učinil dobra jen za váhu prášku, uzří je,",
+                            "verse 99:8": "a kdo učinil zla jen za váhu prášku, uzří je."
+                        }
+                    }
+                }
+            },
+            "dutch": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "Wanneer de aarde hevig zal worden geschud,",
+                            "verse 99:2": "En zij haar binnenste naar buiten zal keren,",
+                            "verse 99:3": "En de mens zal zeggen: \"Wat is er met haar gebeurd?\"",
+                            "verse 99:4": "Op die Dag zal de aarde haar geschiedenis mededelen,",
+                            "verse 99:5": "Omdat uw Heer het haar heeft geopenbaard.",
+                            "verse 99:6": "Op die Dag zullen de mensen in verschillende groepen te voorschijn komen opdat hun hun werken getoond zullen worden.",
+                            "verse 99:7": "Wie ter grootte van een atoom goed deed, zal dit aanschouwen.",
+                            "verse 99:8": "En wie ter grootte van een atoom kwaad deed, zal ook dat aanschouwen."
+                        }
+                    }
+                }
+            },
+            "english": {
+                "translators": {
+                    "1": {
+                        "Marmaduke Pickthall": {
+                            "verse 99:1": "When Earth is shaken with her (final) earthquake",
+                            "verse 99:2": "And Earth yieldeth up her burdens,",
+                            "verse 99:3": "And man saith: What aileth her ?",
+                            "verse 99:4": "That day she will relate her chronicles,",
+                            "verse 99:5": "Because thy Lord inspireth her.",
+                            "verse 99:6": "That day mankind will issue forth in scattered groups to be shown their deeds.",
+                            "verse 99:7": "And whoso doeth good an atom’s weight will see it then,",
+                            "verse 99:8": "And whoso doeth ill an atom’s weight will see it then."
+                        }
+                    },
+                    "2": {
+                        "Abdullah Yusuf Ali": {
+                            "verse 99:1": "When the earth is shaken to her (utmost) convulsion,",
+                            "verse 99:2": "And the earth throws up her burdens (from within),",
+                            "verse 99:3": "And man cries (distressed): ’What is the matter with her?’-",
+                            "verse 99:4": "On that Day will she declare her tidings:",
+                            "verse 99:5": "For that thy Lord will have given her inspiration.",
+                            "verse 99:6": "On that Day will men proceed in companies sorted out, to be shown the deeds that they (had done).",
+                            "verse 99:7": "Then shall anyone who has done an atom’s weight of good, see it!",
+                            "verse 99:8": "And anyone who has done an atom’s weight of evil, shall see it."
+                        }
+                    },
+                    "3": {
+                        "Arthur J. Arberry": {
+                            "verse 99:1": "When earth is shaken with a mighty shaking",
+                            "verse 99:2": "and earth brings forth her burdens,",
+                            "verse 99:3": "and Man says., ’What ails her?’",
+                            "verse 99:4": "upon that day she shall tell her tidings",
+                            "verse 99:5": "for that her Lord has inspired her.",
+                            "verse 99:6": "Upon that day men shall issue in scatterings to see their works,",
+                            "verse 99:7": "and whoso has done an atom’s weight of good shall see it,",
+                            "verse 99:8": "and whoso has done an atom’s weight of evil shall see it."
+                        }
+                    },
+                    "4": {
+                        "Muhammad Asad": {
+                            "verse 99:1": "WHEN THE EARTH quakes with her [last] mighty quaking,",
+                            "verse 99:2": "and [when] the earth yields up her burdens,",
+                            "verse 99:3": "and man cries out, \"What has happened to her?\" –",
+                            "verse 99:4": "on that Day will she recount all her tidings,",
+                            "verse 99:5": "as thy Sustainer will have inspired her to do.",
+                            "verse 99:6": "On that Day will all men come forward, cut off from one another, to be shown their [past] deeds.",
+                            "verse 99:7": "And so, he who shall have done an atom’s weight of good, shall behold it;",
+                            "verse 99:8": "and he who shall have done an atom’s weight of evil, shall behold it."
+                        }
+                    },
+                    "5": {
+                        "Martin Lings": {
+                            "Fix": ""
+                        }
+                    },
+                    "6": {
+                        "Mufti Muhammad Taqi Uthmani": {
+                            "verse 99:1": "When the earth will be trembled with its quake,",
+                            "verse 99:2": "and the earth will bring forth its burdens,",
+                            "verse 99:3": "and man will say, “What has happened to it?”",
+                            "verse 99:4": "That day it will describe all its happenings,",
+                            "verse 99:5": "because its Lord will have so commanded it.",
+                            "verse 99:6": "That day the people will come back (from the place of reckoning) in different groups, so that they may be shown (the fruits of) their deeds.",
+                            "verse 99:7": "So, whoever does any good act (even) to the weight of a particle will see it.",
+                            "verse 99:8": "And whoever does evil (even) to the weight of a particle will see it."
+                        }
+                    },
+                    "7": {
+                        "Royal Aal al-Bayt Institute Translation": {
+                            "verse 99:1": "When earth is shaken with its [final] quake,",
+                            "verse 99:2": "and the earth brings forth its burdens,",
+                            "verse 99:3": "and man says, ‘What is wrong with it?’",
+                            "verse 99:4": "On that day it shall relate its chronicles,",
+                            "verse 99:5": "for its Lord will have inspired it.",
+                            "verse 99:6": "On that day mankind shall issue forth in separate groups to be shown their deeds.",
+                            "verse 99:7": "So whoever does an atom’s weight of good shall see it,",
+                            "verse 99:8": "and whoever does an atom’s weight of evil shall see it."
+                        }
+                    },
+                    "8": {
+                        "Recitations of Ibrahim walk from saheeh international": {
+                            "verse 99:1": "When the earth will be violently shaken with a high-scale quake,",
+                            "verse 99:2": "And when the earth will throw out (all) her burdens,",
+                            "verse 99:3": "And man (bewildered and baffled) will say: ‘What has happened to her?’",
+                            "verse 99:4": "On that Day, she will herself bring to light her experiences,",
+                            "verse 99:5": "For your Lord will have made subservient to her (the symbolic language of) sharp signals.",
+                            "verse 99:6": "On that Day, people will form up in different groups, (in diverse conditions,) so that they may be shown their works.",
+                            "verse 99:7": "Then he who will have done even an atom’s weight of good will see it.",
+                            "verse 99:8": "And he who will have done even an atom’s weight of evil will (also) see it."
+                        }
+                    }
+                }
+            },
+            "finnish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "Kun maa järkkyy omasta järinästään,",
+                            "verse 99:2": "kun se purkaa esiin kuormansa",
+                            "verse 99:3": "ja kun ihminen kysyy: »Mikä sitä vaivaa?»",
+                            "verse 99:4": "sinä päivänä on se sanova sanomansa,",
+                            "verse 99:5": "kun Herrasi on antanut siihen käskyn;",
+                            "verse 99:6": "sinä päivänä astuvat (kuolleet) ihmiset esiin erilaisissa ryhmissä näkemään tekojaan.",
+                            "verse 99:7": "Silloin se, joka on tehnyt hyvää hiukkasenkin verran, on sen näkevä,",
+                            "verse 99:8": "ja se, joka on tehnyt pahaa hiukkasenkin verran, saa sen havaita."
+                        }
+                    }
+                }
+            },
+            "french": {
+                "translators": {
+                    "1": {
+                        "Jean-Louis Michon": {
+                            "verse 99:1": "Lorsque la terre sera secouée par son tremblement,",
+                            "verse 99:2": "que la terre rejettera ses fardeaux",
+                            "verse 99:3": "et que l'homme s'exclamera : \" Qu'a-t-elle ? \"",
+                            "verse 99:4": "Ce Jour-là, elle relatera sa chronique",
+                            "verse 99:5": "d'après ce que ton Seigneur lui aura révélé.",
+                            "verse 99:6": "Ce Jour-là, les hommes surgiront par groupes pour que leur soient montrées leurs actions.",
+                            "verse 99:7": "Alors, celui qui aura fait le poids d'un atome de bien le verra,",
+                            "verse 99:8": "et celui qui aura fait le poids d'un atome de mal le verra."
+                        }
+                    },
+                    "2": {
+                        "Muhammad Hamidullah ": {
+                            "verse 99:1": "Quand la terre tremblera d’un violent tremblement,",
+                            "verse 99:2": "et que la terre fera sortir ses fardeaux ,",
+                            "verse 99:3": "et que l’homme dira : «Qu’a-t-elle ? »",
+                            "verse 99:4": "ce jour-là, elle contera son histoire,",
+                            "verse 99:5": "selon ce que ton Seigneur lui aura révélé .",
+                            "verse 99:6": "Ce jour-là, les gens sortiront séparément pour que leur soient montrées leurs oeuvres.",
+                            "verse 99:7": "Quiconque fait un bien fût-ce du poids d’un atome, le verra,",
+                            "verse 99:8": "et quiconque fait un mal fût-ce du poids d’un atome, le verra."
+                        }
+                    }
+                }
+            },
+            "german": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "Wenn die Erde erschüttert wird,",
+                            "verse 99:2": "Und die Erde ihre Lasten herausgibt,",
+                            "verse 99:3": "Und der Mensch spricht: «Was ist ihr?»",
+                            "verse 99:4": "An jenem Tage wird sie ihre Geschichten erzählen;",
+                            "verse 99:5": "Weil Sich dein Herr in bezug auf sie offenbart hat.",
+                            "verse 99:6": "An jenem Tage werden die Menschen in zerstreuten Gruppen hervorkommen, damit ihnen ihre Werke gezeigt werden.",
+                            "verse 99:7": "Wer auch nur eines Stäubchens Gewicht Gutes tut, der wird es dann schauen,",
+                            "verse 99:8": "Und wer auch nur eines Stäubchens Gewicht Böses tut, der wird es dann schauen."
+                        }
+                    }
+                }
+            },
+            "hindi": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "tc t+ehu cM+s t+ksjksa ds lkFk t+yt+yss esa vk tk,xh",
+                            "verse 99:2": "vkSj t+ehu vius vUnj ds cks>s ¼eknu;kr eqnsZ ox+Sjg½ fudky Mkysxh",
+                            "verse 99:3": "vkSj ,d bUlku dgsxk fd mldks D;k gks x;k gS",
+                            "verse 99:4": "ml jkst+ og vius lc gkykr c;ku dj nsxh",
+                            "verse 99:5": "D;ksafd rqEgkjs ijojfnxkj us mldks gqDe fn;k gksxk",
+                            "verse 99:6": "ml fnu yksx fxjksg fxjksg ¼viuh dczksa ls½ fudysaxs rkfd vius vkeky dks ns[ks",
+                            "verse 99:7": "rks ftl Ó[+l us t+jkZ cjkcj usdh dh og mls ns[k ysxk",
+                            "verse 99:8": "vkSj ftl Ó[+l us t+jkZ cjkcj cnh dh gS rks mls ns[k ysxk"
+                        }
+                    }
+                }
+            },
+            "indonesian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "Apabila bumi digoncangkan dengan goncangannya (yang dahsyat),",
+                            "verse 99:2": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung) nya,",
+                            "verse 99:3": "dan manusia bertanya: \"Mengapa bumi (jadi begini)?\",",
+                            "verse 99:4": "pada hari itu bumi menceritakan beritanya,",
+                            "verse 99:5": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) kepadanya.",
+                            "verse 99:6": "Pada hari itu manusia ke luar dari kuburnya dalam keadaan yang bermacam-macam, supaya diperlihatkan kepada mereka (balasan) pekerjaan mereka.",
+                            "verse 99:7": "Barang siapa yang mengerjakan kebaikan seberat zarah pun, niscaya dia akan melihat (balasan) nya.",
+                            "verse 99:8": "Dan barang siapa yang mengerjakan kejahatan seberat zarah pun, niscaya dia akan melihat (balasan) nya pula."
+                        }
+                    }
+                }
+            },
+            "italian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "Quando la terra sarà agitata nel terremoto ,",
+                            "verse 99:2": "la terra rigetterà i suoi fardelli ,",
+                            "verse 99:3": "e dirà l'uomo: « Cosa le succede?»",
+                            "verse 99:4": "In quel Giorno racconterà le sue storie ,",
+                            "verse 99:5": "giacché il tuo Signore gliele avrà ispirate.",
+                            "verse 99:6": "In quel Giorno gli uomini usciranno in gruppi , affinché siano mostrate loro le loro opere .",
+                            "verse 99:7": "Chi avrà fatto [anche solo] il peso di un atomo di bene lo vedrà,",
+                            "verse 99:8": "e chi avrà fatto [anche solo] il peso di atomo di male lo vedrà ."
+                        }
+                    }
+                }
+            },
+            "japanese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "大地が激しく揺れ，",
+                            "verse 99:2": "大地がその重荷を投げ出し，",
+                            "verse 99:3": "「かれ（大地）に何事が起ったのか。」と人が言う時。",
+                            "verse 99:4": "その日（大地は）凡ての消息を語ろう，",
+                            "verse 99:5": "あなたの主が啓示されたことを。",
+                            "verse 99:6": "その日，人びとは分別された集団となって（地中から）進み出て，かれらの行ったことが示されるであろう。",
+                            "verse 99:7": "一微塵の重さでも，善を行った者はそれを見る。",
+                            "verse 99:8": "一微塵の重さでも，悪を行った者はそれを見る。"
+                        }
+                    }
+                }
+            },
+            "korean": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "대지가 심하게 진동을 하며",
+                            "verse 99:2": "대지가 그속에 있는 것들을 밀어내도다",
+                            "verse 99:3": "인간은 비탄하고 고함치며 어 찌된 일이뇨",
+                            "verse 99:4": "그날 대지는 그의 소식을 얘기하리니",
+                            "verse 99:5": "실로 주님은 그에 관해 계시하였노라",
+                            "verse 99:6": "그날 사람들은 여기 저기 무덤에서 떼지어 나와 그들의 업적들을보이노라",
+                            "verse 99:7": "티끌만한 선이라도 실천한 자 는 그것이 복이 됨을 알 것이며",
+                            "verse 99:8": "티끌만한 악이라도 저지른 자 는 그것이 악이 됨을 알리라"
+                        }
+                    }
+                }
+            },
+            "kurdish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "کاتێك زه‌وی ده‌هێنرێته له‌رزه‌و بوومه‌له‌رزه زۆر به‌هێزه‌که‌ی بۆ پێشهات.",
+                            "verse 99:2": "هه‌رچی له زه‌ویدا هه‌بوو له مادده سه‌نگینه‌کانی ناوی ده‌ری په‌ڕاندو هێنایه ده‌ره‌وه‌.",
+                            "verse 99:3": "(ئه‌و کاته‌) ئاده‌میزادیش ده‌ڵێت: ئه‌وه چیه‌تی، بۆ وای لێهات (ئیماندار هه‌ست ده‌کات کۆتایی دنیایه‌و به‌رپابوونی ڕۆژی قیامه‌ته‌، بێ ئیمانیش سه‌ری لێده‌شێوێت و نازانێت به‌ره‌و کوێ ڕابکات).",
+                            "verse 99:4": "له‌و ڕۆژه‌دا زه‌وی هه‌واڵه‌کانی خۆی ده‌گێڕێته‌وه‌...",
+                            "verse 99:5": "به‌هۆی ئه‌وه‌ی که په‌روه‌ردگارت ڕایگه‌یاندووه (ئه‌ی ئینسان) فه‌رمانی بۆ ده‌رکردووه (کاتی کۆتایی هاتنیه‌تی).",
+                            "verse 99:6": "ئه‌و ڕۆژه خه‌ڵکی ده‌سته ده‌سته به‌ره‌و گۆڕه‌پانی لێپرسینه‌وه ده‌رده‌چن، به‌په‌رش و بڵاوی، تا کارو کرده‌وه‌کانیان ببیننه‌وه (دیاره که نامه‌ی کرده‌وه‌کان تۆمار کراوه به‌ده‌نگ و ڕه‌نگه‌وه‌).",
+                            "verse 99:7": "جا ئه‌وه‌ی به‌قه‌ده‌ر سه‌نگی گه‌ردیله‌یه‌ك خێرو چاکه‌ی ئه‌نجام دابێت ده‌یبینێته‌وه‌.",
+                            "verse 99:8": "ئه‌وه‌ش که به‌قه‌ده‌ر سه‌نگی گه‌ردیله‌یه‌ك شه‌ڕو خراپه‌ی هه‌بێت، ده‌یبینێته‌وه‌."
+                        }
+                    }
+                }
+            },
+            "malay": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "Apabila bumi digegarkan dengan gegaran yang sedahsyat-dahsyatnya,",
+                            "verse 99:2": "Serta bumi itu mengeluarkan segala isinya,",
+                            "verse 99:3": "Dan berkatalah manusia (dengan perasaan gerun): Apa yang sudah terjadi kepada bumi?",
+                            "verse 99:4": "Pada hari itu bumi pun menceritakan khabar beritanya:",
+                            "verse 99:5": "Bahawa Tuhanmu telah memerintahnya (berlaku demikian).",
+                            "verse 99:6": "Pada hari itu manusia akan keluar berselerak (dari kubur masing-masing) untuk diperlihatkan kepada mereka (balasan) amal-amal mereka.",
+                            "verse 99:7": "Maka sesiapa berbuat kebajikan seberat zarah, nescaya akan dilihatnya (dalam surat amalnya)!",
+                            "verse 99:8": "Dan sesiapa berbuat kejahatan seberat zarah, nescaya akan dilihatnya (dalam surat amalnya)!"
+                        }
+                    }
+                }
+            },
+            "persian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "هنگامى كه زمين شديدا به لرزه درآيد،",
+                            "verse 99:2": "و زمين بارهاى سنگينش را خارج سازد!",
+                            "verse 99:3": "و انسان مى‏گويد: «زمين را چه مى‏شود (كه اين گونه مى‏لرزد)؟!»",
+                            "verse 99:4": "در آن روز زمين تمام خبرهايش را بازگو مى‏كند;",
+                            "verse 99:5": "چرا كه پروردگارت به او وحى كرده است!",
+                            "verse 99:6": "در آن روز مردم بصورت گروه‏هاى پراكنده (از قبرها) خارج مى‏شوند تا اعمالشان به آنها نشان داده شود!",
+                            "verse 99:7": "پس هر كس هموزن ذره‏اى كار خير انجام دهد آن را مى‏بيند!",
+                            "verse 99:8": "و هر كس هموزن ذره‏اى كار بد كرده آن را مى‏بيند!"
+                        }
+                    }
+                }
+            },
+            "portuguese": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "Quando a terra executar o seu tremor predestinado,",
+                            "verse 99:2": "E descarregar os seus fardos,",
+                            "verse 99:3": "O homem dirá: Que ocorre com ela?",
+                            "verse 99:4": "Nesse dia, ela declarará as suas notícias,",
+                            "verse 99:5": "Porque o teu Senhor lhas terá revelado.",
+                            "verse 99:6": "Nesse dia, os homens comparecerão, em massa, para verem as suas obras.",
+                            "verse 99:7": "Quem tiver feito o bem, quer seja do peso de um átomo, vê-lo-á.",
+                            "verse 99:8": "Quem tiver feito o mal, quer seja do peso de um átomo, vê-lo-á."
+                        }
+                    }
+                }
+            },
+            "romanian": {
+                "translators": {
+                    "1": {
+                        "Lucrarea (traducere úi editare) a fost realizată de către": {
+                            "verse 99:1": "Când pãmântul va fi zgâlțâit de cutremur",
+                            "verse 99:2": "Și va scoate pãmântul poverile lui",
+                            "verse 99:3": "Și omul va zice \"Ce se întâmplã cu el?\",",
+                            "verse 99:4": "În ziua aceea , va spune el veștile ce le are,",
+                            "verse 99:5": "Pentru cã Domnul tãu îi va inspira lui.",
+                            "verse 99:6": "În Ziua aceea, oamenii vor ieși în cete , pentru ca sã li se arate faptele lor.",
+                            "verse 99:7": "Cel care a fãcut un bine cât un grãunte de colb, îl va vedea,",
+                            "verse 99:8": "Dupã cum, cel care a fãcut un rãu cât un grãunte de colb, îl vavedea."
+                        }
+                    },
+                    "2": {
+                        "George Grigore, Coranul": {
+                            "verse 99:1": "Când pământul fi-va zgâlţâit de cutremur,",
+                            "verse 99:2": "când pământul îşi va arunca afară lăuntrurile sale,",
+                            "verse 99:3": "se va întreba omul: “Ce s-a întâmplat, oare?!”",
+                            "verse 99:4": "În Ziua aceea, el îşi va spune povestea",
+                            "verse 99:5": "precum i-a dezvăluit-o Domnul tău.",
+                            "verse 99:6": "În Ziua aceea, oamenii se vor scula în cete ca faptele să şi le vadă.",
+                            "verse 99:7": "Chiar cât un fir de praf, cine a făcut un bine, îl va vedea.",
+                            "verse 99:8": "Chiar cât un fir de praf, cine a făcut un rău, îl va vedea."
+                        }
+                    }
+                }
+            },
+            "russian": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "Когда в конвульсиях земля забьется,",
+                            "verse 99:2": "И на поверхность бремя тяжкое своеизвергнет,",
+                            "verse 99:3": "И возгласит (в отчаянии) человек:«Что происходит с ней?» —",
+                            "verse 99:4": "В тот ДеньСвое известие она объявит,",
+                            "verse 99:5": "Как было ей открыто Господом ее.",
+                            "verse 99:6": "И двинутсяВ тот ДеньРаздельными толпами люди,И им предстанет все содеянное имина земле.",
+                            "verse 99:7": "И тот, кто сотворил добро величинойс пылинку,Узрит его!",
+                            "verse 99:8": "Узрит и тот, кто зло величинойс пылинку совершил."
+                        }
+                    }
+                }
+            },
+            "spanish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "Cuando sea sacudida la tierra por su terremoto,",
+                            "verse 99:2": "expulse la tierra su carga",
+                            "verse 99:3": "y el hombre se pregunte: «¿Qué es lo que le pasa?»,",
+                            "verse 99:4": "ese día contará sus noticias,",
+                            "verse 99:5": "según lo que tu Señor le inspire.",
+                            "verse 99:6": "Ese día los hombres surgirán en grupos, para que se les muestren sus obras.",
+                            "verse 99:7": "Quien haya hecho el peso de un átomo de bien, lo verá.",
+                            "verse 99:8": "Y quien haya hecho el peso de un átomo de mal, lo verá."
+                        }
+                    }
+                }
+            },
+            "tamil": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "பூமி பெரும் அதிர்ச்சியாக - அதிர்ச்சி அடையும் போது",
+                            "verse 99:2": "இன்னும், பூமி தன் சுமைகளை வெளிப்படுத்தும் போது-",
+                            "verse 99:3": "\"அதற்கு என்ன நேர்ந்தது?\" என்று மனிதன் கேட்கும் போது-",
+                            "verse 99:4": "அந்நாளில், அது தன் செய்திகளை அறிவிக்கும்.",
+                            "verse 99:5": "(அவ்வாறு அறிவிக்குமாறு) உம்முடைய இறைவன் அதற்கு வஹீ மூலம் அறித்ததனால்.",
+                            "verse 99:6": "அந்நாளில், மக்கள் தங்கள் வினைகள் காண்பிக்கப்படும் பொருட்டு, பல பிரிவினர்களாகப் பிரிந்து வருவார்கள்.",
+                            "verse 99:7": "எனவே, எவர் ஓர் அணுவளவு நன்மை செய்திருந்தாலும் அத(ற்குரிய பல)னை அவர் கண்டு கொள்வார்.",
+                            "verse 99:8": "அன்றியும், எவன் ஓர் அனுவளவு தீமை செய்திருந்தாலும், அ(தற்குரிய பல)னையும் அவன் கண்டு கொள்வான்."
+                        }
+                    }
+                }
+            },
+            "thai": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "เมื่อแผ่นดินถูกให้ไหวอย่างสั่นสะท้านของมัน",
+                            "verse 99:2": "และเมื่อแผ่นดินได้ระบายของหนักของมันออกมา",
+                            "verse 99:3": "และมนุษย์จะกล่าวว่า เกิดอะไรขึ้นแก่มันเล่า",
+                            "verse 99:4": "ในวันนั้นมันจะบอกข่าวคราวของมัน",
+                            "verse 99:5": "ว่าแท้จริงพระเจ้าได้มีบัญชาแก่มัน",
+                            "verse 99:6": "ในวันนั้นมนุษย์จะกระจายออกมาเป็นหมู่ ๆ เพื่อพวกเขาจะถูกให้เห็นผลงานของพวกเขา",
+                            "verse 99:7": "ดังนั้นผู้ใดกระทำความดีหนักเท่าละอองธุลี เขาก็จะเห็นมัน",
+                            "verse 99:8": "ส่วนผู้ใดกระทำความชั่วหนักเท่าละอองธุ"
+                        }
+                    }
+                }
+            },
+            "turkish": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "Yerküre kendine has sarsıntısıyla sallandığı,",
+                            "verse 99:2": "Toprak ağırlıklarını dışarı çıkardığı,",
+                            "verse 99:3": "Ve insan \"Ne oluyor buna!\" dediği vakit,",
+                            "verse 99:4": "İşte o gün (yer) haberlerini anlatır,",
+                            "verse 99:5": "Rabbinin ona bildirmesiyle.",
+                            "verse 99:6": "O gün insanlar amellerini görmeleri (karşılığını almaları) için darmadağınık geri dönüp gelirler.",
+                            "verse 99:7": "Kim zerre miktarı hayır yapmışsa onu görür.",
+                            "verse 99:8": "Kim de zerre miktarı şer işlemişse onu görür."
+                        }
+                    }
+                }
+            },
+            "urdu": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "Fix": ""
+                        }
+                    }
+                }
+            },
+            "uzbek": {
+                "translators": {
+                    "1": {
+                        "null": {
+                            "verse 99:1": "Вақтики, ер ўзига хос зилзилага тушса.",
+                            "verse 99:2": "Ва ер ўз юкларини отиб чиқарса.",
+                            "verse 99:3": "Ва инсон, унга нима бўлди?!, деса.",
+                            "verse 99:4": "Ўша кунда у(ер) ўз хабарини айтадир.",
+                            "verse 99:5": "Сенинг Роббинг унга ваҳий юборганини.",
+                            "verse 99:6": "Ўша кунда одамлар гуруҳ-гуруҳ бўлиб, амалларини кўриш учун жойларидан қўзғаладир.",
+                            "verse 99:7": "Бас, ким зарра оғирлигида яхшилик қилса ҳам кўрадир.",
+                            "verse 99:8": "Ва ким зарра оғирлигида ёмонлик қилса ҳам кўрадир. (Яхшиликнинг ҳам, ёмонликнинг ҳам катта-кичиги бўлмайди. Ҳаммасининг ҳисоб-китоби бўлади, қиёматда жавоб бериш керак. Ҳар доим яхшиликни қилиб, агар у кўзга кўринмас зарра миқдорида бўлса ҳам ёмонликдан қочиш керак.)"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

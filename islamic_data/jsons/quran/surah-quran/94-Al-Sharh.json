@@ -5,7 +5,6 @@
     "revelation_order": 12,
     "bismillah_pre": true,
     "verses_count": 8,
-    "source": "Sayyid Abul Ala Maududi - Tafhim al-Qur'an - The Meaning of the Quran",
     "short_text": "The Surah is so designated after the first sentence.",
     "text": [
         "\n",
@@ -26,618 +25,541 @@
         "In conclusion, the Holy Prophet has been instructed, so as to say, \"You can develop the power to bear and resist the hardships of the initial stage only by one means, and it is this: \\`When you are free from your occupations, you should devote yourself to the labor and toil of worship, and turn all your attention exclusively to your Lord'.\"This same instruction has been given him in much greater detail in Surah Al-Muzzammil: 1-9.",
         "\n"
     ],
+    "quran-source": "`https://surahquran.com`",
     "description": "The surah that opens with a reassurance to the Prophet Muhammad that his divine appointment to receive God’s revelation has been nothing less than the Opening of the breast to sacred wisdom and guidance, and that thereby he has been honoured for all time, made well-able to bear the mantle of prophethood, and that ultimately and inevitably he shall be eased unto success. It is named “opening” after the phrase “did We not open” (a lam nashraḥ) in verse 1. The surah is a continuation of the reassurance and encouragement given in the previous surah.The surah is also known as: Broadened Breast, Comfort, Consolation, Relief, The Expanding, The Expansion, The Opening Up, The Opening of The Heart, The Opening-Up of the Heart.",
-    "name_translation": "OPENING",
+    "name_translation": "Opening",
     "name_complex": "Al-Sharh",
     "surah_name_ar": "الشرح",
     "verses": {
-        "languages": {
-            "albanian": {
-                "translators": {
-                    "1": {
-                        "Efendi Nahi": {
-                            "verse 94:1": "Vallë, a nuk ta kemi zgjëruar krahërorin (zemrën tënde),",
-                            "verse 94:2": "dhe ta kemi heqë barrën ty,",
-                            "verse 94:3": "e cila të ka rënduar tepër kurrizin tënd,",
-                            "verse 94:4": "dhe e kemi ngritur lart emrin (kujtimin) tënd!",
-                            "verse 94:5": "E, me të vërtetë, me vështirësi – arrihet në lehtësi,",
-                            "verse 94:6": "me të vërtetë, me vështirësi – arrihet në lehtësi (lumturi)!",
-                            "verse 94:7": "E, kur ta kryejsh njërën punë, filloja tjetrës (menjëherë)",
-                            "verse 94:8": "dhe (vetëm) te Zoti yt syno (drejtohu)! (menjëherë)"
-                        }
-                    }
-                }
-            },
-            "azerbaijani": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "(Ya Peyğəmbər!) Məgər Biz (haqqı bilmək, elm və hikmət dəryası etmək üçün) sənin köksünü (qəlbini) açıb genişlətmədikmi?! (Allahın öz lütfü ilə köksünü açıb genişlətdiyi kimsənin qəlbinə Şeytan vəsvəsə sala bilməz.",
-                            "verse 94:2": "Ağır yükünü səndən götürmədikmi?! (Sənin peyğəmbərlik yükünü yüngülləşdirmədikmi?!)",
-                            "verse 94:3": "(Elə bir yük ki) sənin belini bükürdü.",
-                            "verse 94:4": "Sənin ad-sanını (şan-şöhrətini) ucaltmadıqmı?! (Yerdə, göydə səndən söhbət gedər; xütbələrdə adın çəkilər!)",
-                            "verse 94:5": "Şübhəsiz ki, hər çətinlikdən sonra bir asanlıq gələr! (Asanlıq yalnız çətinliklə hasil olar!)",
-                            "verse 94:6": "Həqiqətən, hər çətinlikdən sonra bir asanlıq gələr! (Buna görə də çətinliklərə səbirlə dözmək lazımdır!)",
-                            "verse 94:7": "(Ya Peyğəmbər!) Elə ki (risaləti təbliğ etməkdən və ya dünya işlərindən) azad oldun, qalx (dua et)! (Axirət üçün çalış-vuruş!)",
-                            "verse 94:8": "Və ancaq Rəbbinə yalvar! (Uzünü Allaha çevirib yalnız Onun köməyinə bel bağla, Ona tərəf yönəl !)"
-                        }
-                    }
-                }
-            },
-            "bosnian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "Zar grudi tvoje nismo prostranim učinili,",
-                            "verse 94:2": "i breme tvoje s tebe skinuli,",
-                            "verse 94:3": "koje je pleća tvoja tištilo,",
-                            "verse 94:4": "i spomen na tebe visoko uzdigli!",
-                            "verse 94:5": "Ta, zaista, s mukom je i last,",
-                            "verse 94:6": "zaista, s mukom je i last!",
-                            "verse 94:7": "A kad završiš, molitvi se predaj",
-                            "verse 94:8": "i samo se Gospodaru svome obraćaj! predaj"
-                        }
-                    }
-                }
-            },
-            "bengali": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "আমি কি আপনার বক্ষ উম্মুক্ত করে দেইনি?",
-                            "verse 94:2": "আমি লাঘব করেছি আপনার বোঝা,",
-                            "verse 94:3": "যা ছিল আপনার জন্যে অতিশয় দুঃসহ।",
-                            "verse 94:4": "আমি আপনার আলোচনাকে সমুচ্চ করেছি।",
-                            "verse 94:5": "নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।",
-                            "verse 94:6": "নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।",
-                            "verse 94:7": "অতএব, যখন অবসর পান পরিশ্রম করুন।",
-                            "verse 94:8": "এবং আপনার পালনকর্তার প্রতি মনোনিবেশ করুন। করুন।"
-                        }
-                    }
-                }
-            },
-            "bulgarian": {
-                "translators": {
-                    "1": {
-                        "Tzvetan Theophanov": {
-                            "verse 94:1": "Не разтворихме ли Ние твоята гръд [о, Мухаммад]?",
-                            "verse 94:2": "И снехме от теб бремето,",
-                            "verse 94:3": "което тегнеше на твоя гръб.",
-                            "verse 94:4": "И възвисихме твоето споменаване.",
-                            "verse 94:5": "С трудността има и леснина.",
-                            "verse 94:6": "Да, с трудността има и леснина.",
-                            "verse 94:7": "И когато приключиш,",
-                            "verse 94:8": "се труди усърдно,",
-                            "verse 94:9": "и на своя Господ се посвещавай! усърдно,"
-                        }
-                    }
-                }
-            },
-            "chinese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "難道我沒有為你而開拓你的胸襟嗎？",
-                            "verse 94:2": "我卸下了你的重任",
-                            "verse 94:3": "即使你的背擔負過重的，",
-                            "verse 94:4": "而提高了你的聲望，",
-                            "verse 94:5": "與艱難相伴的，確是容易，",
-                            "verse 94:6": "與艱難相伴的，確是容易，",
-                            "verse 94:7": "當你的事務完畢時，",
-                            "verse 94:8": "你應當勤勞，你應當向你的主懇求。 當你的事務完畢時，"
-                        }
-                    }
-                }
-            },
-            "czech": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "Což jsme ti hruď tvou neotevřeli",
-                            "verse 94:2": "a nesňali s tebe tvé břemeno,",
-                            "verse 94:3": "jež záda tvá tak tížilo,",
-                            "verse 94:4": "a pověst tvou jsme do výše nezvedli?",
-                            "verse 94:5": "Vždyť se strastmi i úleva přichází,",
-                            "verse 94:6": "věru že se strastmi i úleva přichází!",
-                            "verse 94:7": "A až se uvolníš, pak dál se namáhej",
-                            "verse 94:8": "a k Pánu svému v touze spěj! namáhej"
-                        }
-                    }
-                }
-            },
-            "dutch": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "Hebben Wij uw borst niet voor u verruimd?",
-                            "verse 94:2": "En uw last niet van u weggenomen?",
-                            "verse 94:3": "Die uw rug bezwaarde?",
-                            "verse 94:4": "En uw roem niet verheven?",
-                            "verse 94:5": "Voorwaar, zo komt gemak naast ongemak.",
-                            "verse 94:6": "Voorwaar, gemak komt naast ongemak.",
-                            "verse 94:7": "Wanneer gij verlicht zijt, streef dan verder.",
-                            "verse 94:8": "En wend u tot uw Heer."
-                        }
-                    }
-                }
-            },
-            "english": {
-                "translators": {
-                    "1": {
-                        "Marmaduke Pickthall": {
-                            "verse 94:1": "Have We not caused thy bosom to dilate,",
-                            "verse 94:2": "And eased thee of the burden",
-                            "verse 94:3": "Which weighed down thy back;",
-                            "verse 94:4": "And exalted thy fame ?",
-                            "verse 94:5": "But lo! with hardship goeth ease,",
-                            "verse 94:6": "Lo! with hardship goeth ease;",
-                            "verse 94:7": "So when thou art relieved, still toil",
-                            "verse 94:8": "And strive to please thy Lord."
-                        }
-                    },
-                    "2": {
-                        "Abdullah Yusuf Ali": {
-                            "verse 94:1": "Have We not expanded thee thy breast?-",
-                            "verse 94:2": "And removed from thee thy burden",
-                            "verse 94:3": "The which did gall thy back?-",
-                            "verse 94:4": "And raised high the esteem (in which) thou (art held)?",
-                            "verse 94:5": "So, verily, with every difficulty, there is relief:",
-                            "verse 94:6": "Verily, with every difficulty there is relief.",
-                            "verse 94:7": "Therefore, when thou art free (from thine immediate task), still labour hard,",
-                            "verse 94:8": "And to thy Lord turn (all) thy attention."
-                        }
-                    },
-                    "3": {
-                        "Arthur J. Arberry": {
-                            "verse 94:1": "Did We not expand thy breast for thee",
-                            "verse 94:2": "and lift from thee thy burden,",
-                            "verse 94:3": "the burden that weighed down thy back?",
-                            "verse 94:4": "And exalted for you your esteem?",
-                            "verse 94:5": "So truly with hardship comes ease,",
-                            "verse 94:6": "truly with hardship comes ease.",
-                            "verse 94:7": "So when thou art empty, labour,",
-                            "verse 94:8": "and let thy Lord be thy Quest."
-                        }
-                    },
-                    "4": {
-                        "Muhammad Asad": {
-                            "verse 94:1": "HAVE WE NOT opened up thy heart,",
-                            "verse 94:2": "and lifted from thee the burden",
-                            "verse 94:3": "that had weighed so heavily on thy back?",
-                            "verse 94:4": "And [have We not] raised thee high in dignity?",
-                            "verse 94:5": "And, behold, with every hardship comes ease:",
-                            "verse 94:6": "verily, with every hardship comes ease!",
-                            "verse 94:7": "Hence, when thou art freed [from distress], remain steadfast,",
-                            "verse 94:8": "and unto thy Sustainer turn with love."
-                        }
-                    },
-                    "5": {
-                        "Martin Lings": {
-                            "verse 94:1": "Have we not expanded thy breast.",
-                            "verse 94:2": "In truth, after difficulty cometh ease.",
-                            "verse 94:3": "with hardship cometh ease.",
-                            "verse 94:4": "Used• Unpublished Material (1938-2005) BOOKS•",
-                            "verse 94:5": "The Book of Certainty (1952) •",
-                            "verse 94:6": "A Sufi Saint of the Twentieth Century (1961) •",
-                            "verse 94:7": "What is Sufism (1975) •",
-                            "verse 94:8": "The Quranic Art of Calligraphy and Illumination (1976) •",
-                            "verse 94:9": "Muhammad (1983) •",
-                            "verse 94:10": "Symbol and Archetype (1991) •",
-                            "verse 94:11": "Sufi Poems (2004) •",
-                            "verse 94:12": "Mecca (2004) •",
-                            "verse 94:13": "Return to the Spirit (2005) •",
-                            "verse 94:14": "Splendours of Qur’an Calligraphy and Illumination (2005) ARTICLES•",
-                            "verse 94:15": "“Proofs of Islam”(1954).",
-                            "verse 94:16": "“The Islamic and Christian Conceptions of the March of Time” (1954) The Islamic Quarterly, Vol.",
-                            "verse 94:17": "“The Origins of Sufism (1956) The Islamic Quarterly, Vol.",
-                            "verse 94:18": "“Sufism”: Religion in the Middle East (1969); ed.",
-                            "verse 94:19": "“Sufi Answers to Questions On Ultimate Reality”: Studies in Comparative Religions 1979 Summer/Autumn •",
-                            "verse 94:20": "“The Nature and Origin of Sufism”: Islamic Spirituality (1985) •",
-                            "verse 94:21": "“Mystical Poetry”: The Cambridge History of Arabic Literature, Vol.",
-                            "verse 94:22": "“The Quranic Doctrine of the Afterlife” •",
-                            "verse 94:23": "“The Quranic Origins of Sufism” •",
-                            "verse 94:24": "“Human Origins and Destinies According to the Great Religions of the World” •",
-                            "verse 94:25": "“Metaphysics and the Perennial Philosophy” •",
-                            "verse 94:26": "“An Introduction to Islam” •",
-                            "verse 94:27": "“The Universality of the Quran” •",
-                            "verse 94:28": "Private Talks Books",
-                            "verse 94:29": "without Quranic Ayaat• Collected Poems• Ancient Beliefs and Modern Superstitions• The Eleventh Hour• The Secret of ShakespeareArticles without Quranic Ayaat• “Signs of the Times”: Studies in Comparative Religions 1970 Winter• “Ibn Aliwah” Encyclopedia of Islam, Second Edition• “Kabd” Encyclopedia of Islam, Second Edition Books"
-                        }
-                    },
-                    "6": {
-                        "Mufti Muhammad Taqi Uthmani": {
-                            "verse 94:1": "Have We not caused your bosom to be wide open for you?",
-                            "verse 94:2": "And We removed from you your burden",
-                            "verse 94:3": "that had (almost) broken your back,",
-                            "verse 94:4": "and We raised high your name.",
-                            "verse 94:5": "So, undoubtedly, along with the hardship there is ease.",
-                            "verse 94:6": "Undoubtedly, along with the hardship there is ease.",
-                            "verse 94:7": "So, when you are free (from collective services), toil hard (in worship),",
-                            "verse 94:8": "and towards your Lord turn with eagerness."
-                        }
-                    },
-                    "7": {
-                        "Royal Aal al-Bayt Institute Translation": {
-                            "verse 94:1": "Did We not expand your breast for you,",
-                            "verse 94:2": "and relieve you of your burden,",
-                            "verse 94:3": "that which weighed down your back?",
-                            "verse 94:4": "Did We not exalt your mention?",
-                            "verse 94:5": "For truly with hardship comes ease.",
-                            "verse 94:6": "Truly with hardship comes ease.",
-                            "verse 94:7": "So when you are finished, toil",
-                            "verse 94:8": "and seek your Lord."
-                        }
-                    },
-                    "8": {
-                        "Recitations of Ibrahim walk from saheeh international": {
-                            "verse 94:1": "Have We not broadened your breast for you (for the light of knowledge, wisdom and spiritual gnosis)?",
-                            "verse 94:2": "And We have taken off the load (of grief of the Umma )",
-                            "verse 94:3": "from you,",
-                            "verse 94:4": "(The load) which was growing heavier on your (holy) back.",
-                            "verse 94:5": "And We exalted for you your remembrance (by annexing it to Ours everywhere in the world and in the Hereafter).",
-                            "verse 94:6": "So surely ease (comes) with every hardship.",
-                            "verse 94:7": "Verily, with (this) hardship (too) there is ease.",
-                            "verse 94:8": "So when you are free (from educating the Umma (Community), preaching the Din (Religion) and fighting, and fulfilling your responsibilities), then strive hard (in remembrance and the worship of your Lord),",
-                            "verse 94:9": "And turn to your Lord earnestly."
-                        }
-                    }
-                }
-            },
-            "finnish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "Emmekö Me ole avartanut rintaasi?",
-                            "verse 94:2": "Emmekö ole sinulta ottanut pois kuormasi,",
-                            "verse 94:3": "joka raskaana painoi hartioillasi,",
-                            "verse 94:4": "ja korottanut sinun arvoasi?",
-                            "verse 94:5": "Totisesti, helpotus seuraa vastuksia,",
-                            "verse 94:6": "ja vastoinkäymistä seuraa huojennus.",
-                            "verse 94:7": "Kun siis olet vapaa työstä, rukoile ahkerasti",
-                            "verse 94:8": "ja palvele Herraasi koko sydämestäsi."
-                        }
-                    }
-                }
-            },
-            "french": {
-                "translators": {
-                    "1": {
-                        "Jean-Louis Michon": {
-                            "verse 94:1": "N'avons-Nous pas dilaté ta poitrine ?",
-                            "verse 94:2": "Et ne t'avons-Nous pas déchargé de ton fardeau,",
-                            "verse 94:3": "celui qui pesait sur ton dos ?",
-                            "verse 94:4": "Et n'avons-Nous pas exalté ta renommée ?",
-                            "verse 94:5": "Certes, avec la difficulté il y a une facilité !",
-                            "verse 94:6": "Certes, avec la difficulté il y a une facilité !",
-                            "verse 94:7": "Aussi, lorsque tu t'es acquitté [de tes occupations], fais un effort,",
-                            "verse 94:8": "et vers ton Seigneur tourne-toi avec ferveur."
-                        }
-                    },
-                    "2": {
-                        "Muhammad Hamidullah ": {
-                            "verse 94:1": "N’avons-Nous pas ouvert pour toi ta poitrine ?",
-                            "verse 94:2": "Et ne t’avons-Nous pas déchargé du fardeau",
-                            "verse 94:3": "qui accablait ton dos ?",
-                            "verse 94:4": "Et exalté pour toi ta renommée ?",
-                            "verse 94:5": "A côté de la difficulté est, certes, une facilité !",
-                            "verse 94:6": "A côté de la difficulté, est certes, une facilité !",
-                            "verse 94:7": "Quand tu te libères, donc, lève-toi ,",
-                            "verse 94:8": "et à ton Seigneur aspire."
-                        }
-                    }
-                }
-            },
-            "german": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "Haben Wir dir nicht deine Brust erschlossen,",
-                            "verse 94:2": "Und dir abgenommen deine Last,",
-                            "verse 94:3": "Die dir den Rücken niederwuchtete,",
-                            "verse 94:4": "Und haben Wir (nicht) deinen Ruf erhöht?",
-                            "verse 94:5": "Also, wahrlich, kommt mit der Drangsal die Erleichterung,",
-                            "verse 94:6": "Wahrlich, mit der Drangsal kommt die Erleichterung.",
-                            "verse 94:7": "Wenn du nun entlastet bist, mühe dich eifrig.",
-                            "verse 94:8": "Und deinem Herrn widme dich ganz."
-                        }
-                    }
-                }
-            },
-            "hindi": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "¼,s jlwy½ D;k geus rqEgkjk lhuk bYe ls dq’kknk ugha dj fn;k ¼t:j fd;k½",
-                            "verse 94:2": "vkSj rqe ij ls og cks> mrkj fn;k",
-                            "verse 94:3": "ftlus rqEgkjh dej rksM+ j[kh Fkh",
-                            "verse 94:4": "vkSj rqEgkjk ft+Ø Hkh cqyUn dj fn;k",
-                            "verse 94:5": "rks ¼gk¡½ il cs’kd nq’kokjh ds lkFk gh vklkuh gS",
-                            "verse 94:6": ";d+huu nq’okjh ds lkFk vklkuh gS",
-                            "verse 94:7": "rks tc rqe Qkfjx+ gks tkvks rks eqd+jZj dj nks",
-                            "verse 94:8": "vkSj fQj vius ijojfnxkj dh rjQ jx+cr djks"
-                        }
-                    }
-                }
-            },
-            "indonesian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "Bukankah Kami telah melapangkan untukmu dadamu?,",
-                            "verse 94:2": "Dan Kami telah menghilangkan dari padamu bebanmu,",
-                            "verse 94:3": "yang memberatkan punggungmu?",
-                            "verse 94:4": "Dan Kami tinggikan bagimu sebutan (nama)mu.",
-                            "verse 94:5": "Karena sesungguhnya sesudah kesulitan itu ada kemudahan,",
-                            "verse 94:6": "sesungguhnya sesudah kesulitan itu ada kemudahan.",
-                            "verse 94:7": "Maka apabila kamu telah selesai (dari sesuatu urusan), kerjakanlah dengan sungguh-sungguh (urusan) yang lain,",
-                            "verse 94:8": "dan hanya kepada Tuhanmulah hendaknya kamu berharap."
-                        }
-                    }
-                }
-            },
-            "italian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "Non ti abbiamo forse aperto il petto [alla fede] ?",
-                            "verse 94:2": "E non ti abbiamo sbarazzato del fardello",
-                            "verse 94:3": "che gravava sulle tue spalle?",
-                            "verse 94:4": "[Non abbiamo] innalzato la tua fama ?",
-                            "verse 94:5": "In verità per ogni difficoltà c'è una facilità .",
-                            "verse 94:6": "Sì, per ogni difficoltà c'è una facilità .",
-                            "verse 94:7": "Appena ne hai il tempo , mettiti dunque ritto ,",
-                            "verse 94:8": "e aspira al tuo Signore."
-                        }
-                    }
-                }
-            },
-            "japanese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "われは，あなたの胸を広げなかったか。",
-                            "verse 94:2": "あなたから重荷を降したではないか。",
-                            "verse 94:3": "それは，あなたの背中を押し付けていた。",
-                            "verse 94:4": "またわれは，あなたの名声を高めたではないか。",
-                            "verse 94:5": "本当に困難と共に，安楽はあり，",
-                            "verse 94:6": "本当に困難と共に，安楽はある。",
-                            "verse 94:7": "それで（当面の務めから）楽になったら，更に労苦して，",
-                            "verse 94:8": "（只一筋に）あなたの主に傾� するがいい。 それで（当面の務めから）楽になったら，更に労苦して，"
-                        }
-                    }
-                }
-            },
-            "korean": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "하나님이 그대의 마음을 펼치사)",
-                            "verse 94:2": "",
-                            "verse 94:3": "그대의 무거운 짐을 덜어 주었으며)",
-                            "verse 94:4": "",
-                            "verse 94:5": "그대의 등에 있는 그 점은 무거운 것이었노라",
-                            "verse 94:6": "하나님이 그대의 위치를 높이 두었으며",
-                            "verse 94:7": "고난이 있으되 구원을 받을 것이라)",
-                            "verse 94:8": "",
-                            "verse 94:9": "실로 고난이 있으되 구원을 받을 것이라",
-                            "verse 94:10": "그러므로 쉬지 말고 노력하며",
-                            "verse 94:11": "주님께 강구하라"
-                        }
-                    }
-                }
-            },
-            "kurdish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "(ئه‌ی محمد صلی الله علیه وسلم) ئایا دڵ و ده‌روون و سینه‌مان گوشادو ئاسووده نه‌کردیت؟!",
-                            "verse 94:2": "ئایا باری گرانمان له‌سه‌ر شانی تۆ لانه‌برد؟!",
-                            "verse 94:3": "ئه‌وه‌ی که پشتی تۆی هیلاك و ماندوو کردبوو؟!",
-                            "verse 94:4": "ناوو ناوبانگی تۆمان به‌رزو بڵند نه‌کرده‌وه (له شایه‌تماندا هاوڕێ له‌گه‌ڵ ناوی ئێمه‌دا ناوت ده‌برێت، ناوت له‌سه‌ر زاری فریشته و په‌ری و گرۆی ئاده‌میزاده‌).",
-                            "verse 94:5": "به‌ڕاستی هاوڕێ له‌گه‌ڵ ته‌نگانه‌دا خۆشی و ئاسووده‌یی دێت.",
-                            "verse 94:6": "بێگومان به دڵنیاییه‌وه هاوڕێ له‌گه‌ڵ ته‌نگانه‌دا خۆشی و ئاسووده‌یی هه‌ر ده‌بێت.",
-                            "verse 94:7": "جا کاتێك له‌کارێکی خێر ده‌بیته‌وه‌، خۆت ماندوو بکه به‌کارێکی خێری تره‌وه‌.",
-                            "verse 94:8": "با هه‌میشه‌و به‌رده‌وام حه‌زو ئاره‌زووت بۆ به‌ده‌ستهێنانی ڕه‌زامه‌ندی خوا بێت، به‌رده‌وام خه‌ڵکیش هان بده تا په‌روه‌ردگارت بناسن و له هه‌وڵی ڕه‌زامه‌ندی ئه‌ودا بن."
-                        }
-                    }
-                }
-            },
-            "malay": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "Bukankah Kami telah melapangkan bagimu: Dadamu (wahai Muhammad serta mengisinya dengan iman dan hidayat petunjuk)?",
-                            "verse 94:2": "Dan Kami telah meringankan daripadamu: Bebanmu (menyiarkan Islam);",
-                            "verse 94:3": "Yang memberati tanggunganmu, (dengan memberikan berbagai kemudahan dalam melaksanakannya)?",
-                            "verse 94:4": "Dan Kami telah meninggikan bagimu: Sebutan namamu (dengan mengurniakan pangkat Nabi dan berbagai kemuliaan)?",
-                            "verse 94:5": "Oleh itu, maka (tetapkanlah kepercayaanmu) bahawa sesungguhnya tiap-tiap kesukaran disertai kemudahan,",
-                            "verse 94:6": "(Sekali lagi ditegaskan): Bahawa sesungguhnya tiap-tiap kesukaran disertai kemudahan.",
-                            "verse 94:7": "Kemudian apabila engkau telah selesai (daripada sesuatu amal soleh), maka bersungguh-sungguhlah engkau berusaha (mengerjakan amal soleh yang lain),",
-                            "verse 94:8": "Dan kepada Tuhanmu sahaja hendaklah engkau memohon (apa yang engkau gemar dan ingini)."
-                        }
-                    }
-                }
-            },
-            "persian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "آيا ما سينه تو را گشاده نساختيم،",
-                            "verse 94:2": "و بار سنگين تو را از تو برنداشتيم؟!",
-                            "verse 94:3": "همان بارى كه سخت بر پشت تو سنگينى مى‏كرد!",
-                            "verse 94:4": "و آوازه تو را بلند ساختيم!",
-                            "verse 94:5": "به يقين با (هر) سختى آسانى است!",
-                            "verse 94:6": "(آرى) مسلما با (هر) سختى آسانى است،",
-                            "verse 94:7": "پس هنگامى كه از كار مهمى فارغ مى‏شوى به مهم ديگرى پرداز،",
-                            "verse 94:8": "و به سوى پروردگارت توجه كن!"
-                        }
-                    }
-                }
-            },
-            "portuguese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "Acaso, não confortamos o teu peito,",
-                            "verse 94:2": "E aliviamos o teu fardo,",
-                            "verse 94:3": "Que feria as tuas costas,",
-                            "verse 94:4": "E enaltecemos a tua reputação?",
-                            "verse 94:5": "Em verdade, com a adversidade está a facilidade!",
-                            "verse 94:6": "Certamente, com a adversidade está a facilidade!",
-                            "verse 94:7": "Assim, pois, quando estiveres livre (dos teus afazeres), continua a prédica,",
-                            "verse 94:8": "E volta para o teu Senhor (toda) a atenção."
-                        }
-                    }
-                }
-            },
-            "romanian": {
-                "translators": {
-                    "1": {
-                        "Lucrarea (traducere úi editare) a fost realizată de către": {
-                            "verse 94:1": "Oare nu ți-am deschis ție pieptul",
-                            "verse 94:2": "Și nu am îndepãrtat de la tine povara ta,",
-                            "verse 94:3": "Care-ți apasã pe spinare?",
-                            "verse 94:4": "Și nu am înãlțat pomenirea ta?",
-                            "verse 94:5": "Alãturi de greu vine și ușorul!",
-                            "verse 94:6": "Alãturi de greu vine și ușorul!",
-                            "verse 94:7": "Iar atunci când vei termina, trudește,",
-                            "verse 94:8": "Dorindu-L pe Domnul tãu! trudește,"
-                        }
-                    },
-                    "2": {
-                        "George Grigore, Coranul": {
-                            "verse 94:1": "Nu ţi-am deschis Noi oare pieptul?",
-                            "verse 94:2": "Nu ţi-am luat povara",
-                            "verse 94:3": "care-ţi frângea spatele?",
-                            "verse 94:4": "N-am înălţat Noi oare amintirea ta?",
-                            "verse 94:5": "Cu greul vine uşorul!",
-                            "verse 94:6": "Da, cu greul vine uşorul!",
-                            "verse 94:7": "Când ai isprăvit munca, ridică-te",
-                            "verse 94:8": "şi către Domnul tău căută cu dor! ridică-te"
-                        }
-                    }
-                }
-            },
-            "russian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "Мы разве не раскрыли грудь твою?",
-                            "verse 94:2": "С души твоей не сняли бремя,",
-                            "verse 94:3": "Которое тебе саднило спину?",
-                            "verse 94:4": "И не возвысили ту честь, к которойты приставлен?",
-                            "verse 94:5": "Ведь, истинно,За каждой тягостью наступитоблегченье.",
-                            "verse 94:6": "Поистине,За каждой тягостью настанетоблегченье.",
-                            "verse 94:7": "И вот когда покончишь (с тяготойв молитве),Трудиться продолжай и дальше",
-                            "verse 94:8": "И все усилия Владыке своему направь."
-                        }
-                    }
-                }
-            },
-            "spanish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "¿No te hemos infundido ánimo,",
-                            "verse 94:2": "Liberado de la carga",
-                            "verse 94:3": "Que agobiaba tu espalda",
-                            "verse 94:4": "Y alzado tu reputación?",
-                            "verse 94:5": "¡La adversidad y la felicidad van a una!",
-                            "verse 94:6": "¡La adversidad y la felicidad van a una!",
-                            "verse 94:7": "Cuando estés libre, ¡mantente diligente!",
-                            "verse 94:8": "Y a tu Señor ¡deséale ardientemente!"
-                        }
-                    }
-                }
-            },
-            "tamil": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "நாம், உம் இதயத்தை உமக்காக விரிவாக்கவில்லையா?",
-                            "verse 94:2": "மேலும், நாம் உம்மை விட்டும் உம் சுமையை இறக்கினோம்.",
-                            "verse 94:3": "அது உம் முதுகை முறித்துக் கொண்டுடிருந்தது.",
-                            "verse 94:4": "மேலும், நாம் உமக்காக உம்முடைய புகழை மேலோங்கச் செய்தோம்.",
-                            "verse 94:5": "ஆதலின் நிச்சயமாகத் துன்பத்துடன் இன்பம் இருக்கிறது.",
-                            "verse 94:6": "நிச்சயமாக துன்பத்துடன் இன்பம் இருக்கிறது.",
-                            "verse 94:7": "எனவே, (வேலைகளிலிருந்து) நீர் ஓய்ந்ததும் (இறைவழியிலும், வணக்கத்திலும்) முயல்வீராக.",
-                            "verse 94:8": "மேலும், முழு மனத்துடன் உம் இறைவன் பால் சார்ந்து விடுவீராக."
-                        }
-                    }
-                }
-            },
-            "thai": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "เรามิได้เปิดหัวอกของเจ้าแก่เจ้าดอกหรือ ?",
-                            "verse 94:2": "และเราได้ปลดเปลื้องภาระหนักของเจ้าออกจากเจ้าแล้ว",
-                            "verse 94:3": "ซึ่งเป็นภาระหนักอึ้งบนหลังของเจ้า",
-                            "verse 94:4": "และเราได้ยกย่องให้แก่เจ้าแล้ว ซึ่งการกล่าวถึงเจ้า",
-                            "verse 94:5": "ฉะนั้นแท้จริงหลังจากความยากลำบากก็จะมีความง่าย",
-                            "verse 94:6": "แท้จริงหลังจากความยากลำบากก็จะมีความง่าย",
-                            "verse 94:7": "ดังนั้นเมื่อเจ้าเสร็จสิ้น (จากงานหนึ่งแล้ว) ก็จงลำบากต่อไป",
-                            "verse 94:8": "และยังพระเจ้าของเจ้าเท่านั้นก็จงมุ่งปรารถนาเถิด"
-                        }
-                    }
-                }
-            },
-            "turkish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "Biz senin göğsünü açıp genişletmedik mi?",
-                            "verse 94:2": "Yükünü senden alıp atmadık mı?",
-                            "verse 94:3": "O senin belini büken yükü .",
-                            "verse 94:4": "Senin şânını ve ününü yüceltmedik mi?",
-                            "verse 94:5": "Elbette zorluğun yanında bir kolaylık vardır.",
-                            "verse 94:6": "Gerçekten, zorlukla beraber bir kolaylık daha vardır.",
-                            "verse 94:7": "Boş kaldın mı hemen (başka) işe koyul,",
-                            "verse 94:8": "Yalnız Rabbine yönel."
-                        }
-                    }
-                }
-            },
-            "urdu": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "(اے محمد) کیا ہم نے تمہارا سینہ کھول نہیں دیا؟ (بیشک کھول دیا)",
-                            "verse 94:2": "کيا ہم نے آپ کي خاطر آپ کا سينہ (انوارِ علم و حکمت اور معرفت کے لئے) کشادہ نہيں فرما دياo",
-                            "verse 94:3": "اور ہم نے آپ کا (غمِ امت کا وہ) بار آپ سے اتار دياo",
-                            "verse 94:4": "اور تم پر سے بوجھ بھی اتار دیا",
-                            "verse 94:5": "جس نے تمہاری پیٹھ توڑ رکھی تھی",
-                            "verse 94:6": "جو آپ کي پشتِ (مبارک) پر گراں ہو رہا تھاo",
-                            "verse 94:7": "اور ہم نے آپ کي خاطر آپ کا ذکر (اپنے ذکر کے ساتھ ملا کر دنيا و آخرت ميں ہر جگہ) بلند فرما دياo",
-                            "verse 94:8": "اور تمہارا ذکر بلند کیا",
-                            "verse 94:9": "ہاں ہاں مشکل کے ساتھ آسانی بھی ہے",
-                            "verse 94:10": "سو بيشک ہر دشواري کے ساتھ آساني (آتي) ہےo",
-                            "verse 94:11": "يقيناً (اس) دشواري کے ساتھ آساني (بھي) ہےo",
-                            "verse 94:12": "(اور) بے شک مشکل کے ساتھ آسانی ہے",
-                            "verse 94:13": "تو جب فارغ ہوا کرو تو (عبادت میں) محنت کیا کرو",
-                            "verse 94:14": "پس جب آپ (تعليمِ امت، تبليغ و جہاد اور ادائيگيِ فرائض سے) فارغ ہوں تو (ذکر و عبادت ميں) محنت فرمايا کريںo",
-                            "verse 94:15": "اور اپنے رب کي طرف راغب ہو جايا کريںo",
-                            "verse 94:16": "اور اپنے پروردگار کی طرف متوجہ ہو جایا کرو کريںo"
-                        }
-                    }
-                }
-            },
-            "uzbek": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 94:1": "Сенинг кўксингни кенг қилиб қўймадикми?",
-                            "verse 94:2": "Ва сенинг юкингни енгиллатмадикми?",
-                            "verse 94:3": "У сенинг елкангни босиб турган эди.",
-                            "verse 94:4": "Ва сенинг зикрингни юқори кўтардик.",
-                            "verse 94:5": "Бас, албатта, бир қийинчилик билан осончилик бордир.",
-                            "verse 94:6": "Албатта, бир қийинчилик билан осончилик бордир.",
-                            "verse 94:7": "Фориғ бўлсанг, ибодатига урингин.",
-                            "verse 94:8": "Ва фақат Роббингга рағбат қил."
-                        }
-                    }
-                }
-            }
+        "Albanian": {
+            "verse 94:1": "Vallë, a nuk ta kemi zgjëruar krahërorin (zemrën tënde),",
+            "verse 94:2": "dhe ta kemi heqë barrën ty,",
+            "verse 94:3": "e cila të ka rënduar tepër kurrizin tënd,",
+            "verse 94:4": "dhe e kemi ngritur lart emrin (kujtimin) tënd!",
+            "verse 94:5": "E, me të vërtetë, me vështirësi – arrihet në lehtësi,",
+            "verse 94:6": "me të vërtetë, me vështirësi – arrihet në lehtësi (lumturi)!",
+            "verse 94:7": "E, kur ta kryejsh njërën punë, filloja tjetrës (menjëherë)",
+            "verse 94:8": "dhe (vetëm) te Zoti yt syno (drejtohu)!"
+        },
+        "Amharic": {
+            "verse 94:1": "ልብህን ለአንተ አላሰፋንልህምን? (አስፍተንልሃል)፡፡",
+            "verse 94:2": "ሸክምህንም ካንተ አውርደንልሃል፡፡",
+            "verse 94:3": "ያንን ጀርባህን ያከበደውን (ሸክም)፡፡",
+            "verse 94:4": "መወሳትህንም ላንተ ከፍ አድርገንልሃል፡፡",
+            "verse 94:5": "ከችግርም ጋር ምቾት አልለ፡፡",
+            "verse 94:6": "ከችግር ጋር በእርግጥ ምቾት አልለ፡፡",
+            "verse 94:7": "በጨረስክም ጊዜ ልፋ፡፡ (ቀጥል)፡፡",
+            "verse 94:8": "ወደ ጌታህም ብቻ ከጅል፡፡"
+        },
+        "Arabic": {
+            "verse 94:1": "َكَرْدَص َكَل ْحَرْشَن ْمَلَأ",
+            "verse 94:2": "َكَرْزِو َكنَع اَنْعَضَوَو",
+            "verse 94:3": "َكَرْهَظ َضَقنَأ يِذَّلا",
+            "verse 94:4": "َكَرْكِذ َكَل اَنْعَفَرَو",
+            "verse 94:5": "اًرْسُي ِرْسُعْلا َعَم َّنِإَف",
+            "verse 94:6": "اًرْسُي ِرْسُعْلا َعَم َّنِإ",
+            "verse 94:7": "ْبَصناَف َتْغَرَف اَذِإَف",
+            "verse 94:8": "بَغْراَف َكِّبَر ٰىَلِإَو"
+        },
+        "Azerbaijani": {
+            "verse 94:1": "Məgər Biz sənin üçün köksünü açmadıqmı?",
+            "verse 94:2": "Yükünü səndən götürmədikmi?",
+            "verse 94:3": "Onlar belini bükürdü.",
+            "verse 94:4": "Biz adını sənə görə ucaltmadıqmı?",
+            "verse 94:5": "Sözsüz ki, hər çətinliyin ardınca asanlıq gəlir.",
+            "verse 94:6": "Əlbəttə ki, hər çətinliyin ardınca asanlıq gəlir.",
+            "verse 94:7": "İşlərini qurtaran kimi Allah yolunda çalış!",
+            "verse 94:8": "Ancaq Rəbbinə üz tut!"
+        },
+        "Bengali": {
+            "verse 94:1": "আমি কি আপনার বক্ষ উম্মুক্ত করে দেইনি?",
+            "verse 94:2": "আমি লাঘব করেছি আপনার বোঝা,",
+            "verse 94:3": "যা ছিল আপনার জন্যে অতিশয় দুঃসহ।",
+            "verse 94:4": "আমি আপনার আলোচনাকে সমুচ্চ করেছি।",
+            "verse 94:5": "নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।",
+            "verse 94:6": "নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।",
+            "verse 94:7": "অতএব, যখন অবসর পান পরিশ্রম করুন।",
+            "verse 94:8": "এবং আপনার পালনকর্তার প্রতি মনোনিবেশ করুন।"
+        },
+        "Berber Amazigh": {
+            "verse 94:1": "Day ur ak Ncelleê ara idmaren ik?",
+            "verse 94:2": "Nekkes ak taâkkwemt ik,",
+            "verse 94:3": "ihban aârur ik.",
+            "verse 94:4": "Nefka azal i ism ik.",
+            "verse 94:5": "Ih, cedda s talwit.",
+            "verse 94:6": "S tidep, cedda s talwit.",
+            "verse 94:7": "Ma ur tce$wlev, elhi d laxeôt ik.",
+            "verse 94:8": "Eô$eb $ef Mass ik."
+        },
+        "Bosnian": {
+            "verse 94:1": "Zar grudi tvoje nismo prostranim učinili,",
+            "verse 94:2": "i breme tvoje s tebe skinuli,",
+            "verse 94:3": "koje je pleća tvoja tištilo,",
+            "verse 94:4": "i spomen na tebe visoko uzdigli!",
+            "verse 94:5": "Ta, zaista, s mukom je i last,",
+            "verse 94:6": "zaista, s mukom je i last!",
+            "verse 94:7": "A kad završiš, molitvi se predaj",
+            "verse 94:8": "i samo se Gospodaru svome obraćaj!"
+        },
+        "Bulgarian": {
+            "verse 94:1": "Не разтворихме ли Ние твоята гръд  [о, Мухаммад]?",
+            "verse 94:2": "И снехме от теб бремето,",
+            "verse 94:3": "което тегнеше на твоя гръб.",
+            "verse 94:4": "И възвисихме твоето споменаване.",
+            "verse 94:5": "С трудността има и леснина.",
+            "verse 94:6": "Да, с трудността има и леснина.",
+            "verse 94:7": "И когато приключиш, [пак] се труди усърдно,",
+            "verse 94:8": "и на своя Господ се посвещавай!"
+        },
+        "Chinese": {
+            "verse 94:1": "难道我没有为你而开拓你的胸襟吗？",
+            "verse 94:2": "我卸下了你的重任",
+            "verse 94:3": "即使你的背担负过重的，",
+            "verse 94:4": "而提高了你的声望，",
+            "verse 94:5": "与艰难相伴的，确是容易，",
+            "verse 94:6": "与艰难相伴的，确是容易，",
+            "verse 94:7": "当你的事务完毕时，",
+            "verse 94:8": "你应当勤劳，你应当向你的主恳求。"
+        },
+        "Danish": {
+            "verse 94:1": "Hebben Wij uw borst niet voor u verruimd",
+            "verse 94:2": "En uw last niet van u weggenomen",
+            "verse 94:3": "Die uw rug bezwaarde",
+            "verse 94:4": "En uw roem niet verheven",
+            "verse 94:5": "Voorwaar, zo komt gemak naast ongemak",
+            "verse 94:6": "Voorwaar, gemak komt naast ongemak",
+            "verse 94:7": "Wanneer gij verlicht zijt, streef dan verder",
+            "verse 94:8": "En wend u tot uw Heer"
+        },
+        "Dutch": {
+            "verse 94:1": "Hebben Wij niet jouw borst verruimd (O Mohammed)?",
+            "verse 94:2": "En Wij hebben jouw last van je weggenomen.",
+            "verse 94:3": "Die jouw rug belastte.",
+            "verse 94:4": "En Wij hebben jouw roem verhoogd.",
+            "verse 94:5": "Voorwaar, zo komt met de moeilijkeid de verlichting.",
+            "verse 94:6": "Voorwaar, met de moeilijkheid komt de verlichting.",
+            "verse 94:7": "Wanneer jij dan een taak volbracht hebt, streef dan (verder).",
+            "verse 94:8": "En richt jouw verlangen tot jouw Heer."
+        },
+        "English": {
+            "verse 94:1": "Did We not expand for you, [O Muhammad], your breast?",
+            "verse 94:2": "And We removed from you your burden",
+            "verse 94:3": "Which had weighed upon your back",
+            "verse 94:4": "And raised high for you your repute.",
+            "verse 94:5": "For indeed, with hardship [will be] ease.",
+            "verse 94:6": "Indeed, with hardship [will be] ease.",
+            "verse 94:7": "So when you have finished [your duties], then stand up [for worship].",
+            "verse 94:8": "And to your Lord direct [your] longing."
+        },
+        "Filipino": {
+            "verse 94:1": "Hindi baga Aming binuksan ang iyong dibdib para sa iyo (o Muhammad)",
+            "verse 94:2": "At pinawi sa iyo ang pasan mong hirap",
+            "verse 94:3": "Na nagpapabigat sa iyong likuran",
+            "verse 94:4": "At iniakyat nang mataas ang iyong kabantugan",
+            "verse 94:5": "Katotohanan! Sa bawat kahirapan ay may kaginhawan",
+            "verse 94:6": "Katotohanan, sa kahirapan ay may kaginhawahan (alalaong baga, mayroong isang kahirapan sa dalawang ginhawa, kaya’t ang isang kahirapan ay hindi maaaring dumaig sa dalawang ginhawa)",
+            "verse 94:7": "Kaya’t kung ikaw ay matapos na (sa iyong hanapbuhay o pinagkakaabalahan), kung gayon, ikaw ay tumindig sa pagsamba kay Allah (alalaong baga, ang tumindig sa pananalangin)",
+            "verse 94:8": "At sa iyong Panginoon mo (lamang) 964 ibaling (ang lahat mong pansin at pag-asa) at iyong mga panikluhod"
+        },
+        "French": {
+            "verse 94:1": "N'avons-Nous pas ouvert pour toi ta poitrine?",
+            "verse 94:2": "Et ne t'avons-Nous pas déchargé du fardeau",
+            "verse 94:3": "qui accablait ton dos?",
+            "verse 94:4": "Et exalté pour toi ta renommée?",
+            "verse 94:5": "A côté de la difficulté est, certes, une facilité!",
+            "verse 94:6": "A côté de la difficulté est, certes, une facilité!",
+            "verse 94:7": "Quand tu te libères, donc, lève-toi,",
+            "verse 94:8": "et à ton Seigneur aspire."
+        },
+        "Fulah": {
+            "verse 94:1": "Mbela Min njaacnaani ma ɓernde ma",
+            "verse 94:2": "Min ittan ma bakkatuuji ma",
+            "verse 94:3": "Oon nisnuɗo keeci ma",
+            "verse 94:4": "Min ɓamtan ma Innde ma",
+            "verse 94:5": "Pellet kala satteende na wondi e newaare",
+            "verse 94:6": "Pellet satteende kala na wondi e yaajeende",
+            "verse 94:7": "Si A hantinii tampu",
+            "verse 94:8": "E faade joom Ma reerɗu"
+        },
+        "German": {
+            "verse 94:1": "Haben Wir dir nicht deine Brust aufgetan",
+            "verse 94:2": "und dir deine Last abgenommen,",
+            "verse 94:3": "die deinen Rücken niederdrückte,",
+            "verse 94:4": "und dir dein Ansehen erhöht?",
+            "verse 94:5": "Also gewiß, mit der Erschwernis ist Erleichterung,",
+            "verse 94:6": "gewiß, mit der Erschwernis ist Erleichterung.",
+            "verse 94:7": "Wenn du nun fertig bist, dann strenge dich an",
+            "verse 94:8": "und nach deinem Herrn richte dein Begehren aus."
+        },
+        "Hausa": {
+            "verse 94:1": "Ba Mu bũɗa maka zũciyarka ba (dõmin ɗaukar haƙuri da fahimta)?",
+            "verse 94:2": "Kuma Muka saryar maka da nauyinka, Ashe.",
+            "verse 94:3": "Wanda ya nauyayi bãyanka?",
+            "verse 94:4": "Kuma Muka ɗaukaka maka ambatonka?",
+            "verse 94:5": "To, lalle ne tãre da tsananin nan akwai wani sauƙi.",
+            "verse 94:6": "Lalle ne tãre da tsananin nan akwai wani sauƙi.",
+            "verse 94:7": "Sabõda haka idan ka ƙãre (ibãda) sai ka kafu (kana rõƙon Allah).",
+            "verse 94:8": "Kuma zuwa ga Ubangijinka ka yi kwaɗayi."
+        },
+        "Hindi": {
+            "verse 94:1": "(ऐ रसूल) क्या हमने तुम्हारा सीना इल्म से कुशादा नहीं कर दिया (जरूर किया)",
+            "verse 94:2": "और तुम पर से वह बोझ उतार दिया",
+            "verse 94:3": "जिसने तुम्हारी कमर तोड़ रखी थी",
+            "verse 94:4": "और तुम्हारा ज़िक्र भी बुलन्द कर दिया",
+            "verse 94:5": "तो (हाँ) पस बेशक दुशवारी के साथ ही आसानी है",
+            "verse 94:6": "यक़ीनन दुश्वारी के साथ आसानी है",
+            "verse 94:7": "तो जब तुम फारिग़ हो जाओ तो मुक़र्रर कर दो",
+            "verse 94:8": "और फिर अपने परवरदिगार की तरफ रग़बत करो"
+        },
+        "Indonesian": {
+            "verse 94:1": "Bukankah Kami telah melapangkan untukmu dadamu?,",
+            "verse 94:2": "dan Kami telah menghilangkan daripadamu bebanmu,",
+            "verse 94:3": "yang memberatkan punggungmu?",
+            "verse 94:4": "Dan Kami tinggikan bagimu sebutan (nama)mu,",
+            "verse 94:5": "Karena sesungguhnya sesudah kesulitan itu ada kemudahan,",
+            "verse 94:6": "sesungguhnya sesudah kesulitan itu ada kemudahan.",
+            "verse 94:7": "Maka apabila kamu telah selesai (dari sesuatu urusan), kerjakanlah dengan sungguh-sungguh (urusan) yang lain,",
+            "verse 94:8": "dan hanya kepada Tuhanmulah hendaknya kamu berharap."
+        },
+        "Italian": {
+            "verse 94:1": "Non ti abbiamo forse aperto il petto [alla fede]?",
+            "verse 94:2": "E non ti abbiamo sbarazzato del fardello",
+            "verse 94:3": "che gravava sulle tue spalle?",
+            "verse 94:4": "[Non abbiamo] innalzato la tua fama?",
+            "verse 94:5": "In verità per ogni difficoltà c'è una facilità.",
+            "verse 94:6": "Sì, per ogni difficoltà c'è una facilità.",
+            "verse 94:7": "Appena ne hai il tempo, mettiti dunque ritto,",
+            "verse 94:8": "e aspira al tuo Signore."
+        },
+        "Japanese": {
+            "verse 94:1": "われは，あなたの胸を広げなかったか。",
+            "verse 94:2": "あなたから重荷を降したではないか。",
+            "verse 94:3": "それは，あなたの背中を押し付けていた。",
+            "verse 94:4": "またわれは，あなたの名声を高めたではないか。",
+            "verse 94:5": "本当に困難と共に，安楽はあり，",
+            "verse 94:6": "本当に困難と共に，安楽はある。",
+            "verse 94:7": "それで（当面の務めから）楽になったら，更に労苦して，",
+            "verse 94:8": "（只一筋に）あなたの主に傾倒するがいい。"
+        },
+        "Jawa": {
+            "verse 94:1": "(Muhammad) apa Ingsun ora wus madhangake atinira",
+            "verse 94:2": "Lan wus ngenthengake gendhonganira kang abot, anggonira dadi utusan",
+            "verse 94:3": "Kang ngebot - ngeboti gegerira",
+            "verse 94:4": "Lan wus junjung sira bab kasebute jenengira (samongsa asmaningsun disebut, jeneng ira uga disebut)",
+            "verse 94:5": "Temen sawuse nglakoni rekasa bakal nemu gampang",
+            "verse 94:6": "Nyata sawuse ngelakoni reaka mesthi nemu gampang",
+            "verse 94:7": "Samongsa wis rampung (saka salah sijine urusan) banjur nyerempenga urusan liyane",
+            "verse 94:8": "Lan marang Pangeranira iku mligi dadia tujuanira"
+        },
+        "Kazakh": {
+            "verse 94:1": "Ей, Мұхаммед! Біз саған көкірегіңді ашпадық па",
+            "verse 94:2": "Әрі сенен жүгіңді алмадық па",
+            "verse 94:3": "арқаңа ауыртпалық түсірген",
+            "verse 94:4": "Әрі сенің еске алынуыңды жоғарылатпадық па",
+            "verse 94:5": "Негізінде, қиыншылықпен бірге жеңілдік бар",
+            "verse 94:6": "Шын мәнінде, қиыншылықпен бірге жеңілдік бар",
+            "verse 94:7": "Ал, енді босай қалсаң, тырыс әрекет ет",
+            "verse 94:8": "және Раббыңа қарай ұмтыл"
+        },
+        "Korean": {
+            "verse 94:1": "하나님이 그대의 마음을 펼치사하나님이 그대의 마음을 펼치사 [1])",
+            "verse 94:2": "그대의 무거운 짐을 덜어 주었으며그대의 무거운 짐을 덜어 주었으며 [1])",
+            "verse 94:3": "그대의 등에 있는 그 점은 무거운 것이었노라그대의 등에 있는 그 점은 무거운 것이었노라",
+            "verse 94:4": "하나님이 그대의 위치를 높이 두었으며하나님이 그대의 위치를 높이 두었으며",
+            "verse 94:5": "고난이 있으되 구원을 받을 것이라고난이 있으되 구원을 받을 것이라 [1])",
+            "verse 94:6": "실로 고난이 있으되 구원을 받을 것이라실로 고난이 있으되 구원을 받을 것이라",
+            "verse 94:7": "그러므로 쉬지 말고 노력하며그러므로 쉬지 말고 노력하며",
+            "verse 94:8": "주님께 강구하라주님께 강구하라"
+        },
+        "Kurdish": {
+            "verse 94:1": "(Muhemmed!) maqey me ji bona te ra singê te venekirîye (ku tu îdî zanîna retkokî bi zanî)(ئه‌ی محمد صلی الله علیه وسلم) ئایا دڵ و ده‌روون و سینه‌مان گوشادو ئاسووده نه‌کردیت؟!",
+            "verse 94:2": "Meqey li ser te barê te hil nedayeئایا باری گرانمان له‌سه‌ر شانی تۆ لانه‌برد؟!",
+            "verse 94:3": "Ku ewî (barî ji giranîyê) pişta te dişkênandئه‌وه‌ی که پشتی تۆی هیلاك و ماندوو کردبوو؟!",
+            "verse 94:4": "Maqey me ji bona te ra nav ü dengê te bilind nekirîyeناوو ناوبانگی تۆمان به‌رزو بڵند نه‌کرده‌وه (له شایه‌تماندا هاوڕێ له‌گه‌ڵ ناوی ئێمه‌دا ناوت ده‌برێت، ناوت له‌سه‌ر زاری فریشته و په‌ری و گرۆی ئاده‌میزاده‌).",
+            "verse 94:5": "Îdî bi rastî bi her tengayîyê ra firetîyek heyeبه‌ڕاستی هاوڕێ له‌گه‌ڵ ته‌نگانه‌دا خۆشی و ئاسووده‌یی دێت.",
+            "verse 94:6": "Bi rastî jî bi her tengayîyê ra firetîyek heyeبێگومان به دڵنیاییه‌وه هاوڕێ له‌گه‌ڵ ته‌نگانه‌دا خۆشی و ئاسووده‌یی هه‌ر ده‌بێت.",
+            "verse 94:7": "Îdî gava (Muhemmed!) tu ji karê xwe valabûyî (rabe) bi karekî dinê ra xebatê bike (nehewe)جا کاتێك له‌کارێکی خێر ده‌بیته‌وه‌، خۆت ماندوو بکه به‌کارێکی خێری تره‌وه‌.",
+            "verse 94:8": "Îdî li bal Xuda yê xwe da bizvire (perestî bike)با هه‌میشه‌و به‌رده‌وام حه‌زو ئاره‌زووت بۆ به‌ده‌ستهێنانی ڕه‌زامه‌ندی خوا بێت، به‌رده‌وام خه‌ڵکیش هان بده تا په‌روه‌ردگارت بناسن و له هه‌وڵی ڕه‌زامه‌ندی ئه‌ودا بن."
+        },
+        "Kyrgyz": {
+            "verse 94:1": "(О, Мухаммад!) Биз сенин көкүрөгүңдү кеңейтпедикпи??”",
+            "verse 94:2": "Сенден күнөө(лөрү)ңдү алып салдык",
+            "verse 94:3": "Ал сенин желкеңди эзип турган",
+            "verse 94:4": "Жана Биз сенин атагыңды көтөрдүк",
+            "verse 94:5": "Албетте, кыйынчылык менен бирге жеңилдик бар",
+            "verse 94:6": "Албетте, кыйынчылык менен бирге жеңилдик бар",
+            "verse 94:7": "Эми, качан (намаздан) бошосоң (көп дуба кылууга) тырыш",
+            "verse 94:8": "жана Раббиңе“ гана умтул"
+        },
+        "Malay": {
+            "verse 94:1": "Bukankah Kami telah melapangkan bagimu: dadamu (wahai Muhammad serta mengisinya dengan iman dan hidayah petunjuk) ?",
+            "verse 94:2": "Dan Kami telah meringankan daripadamu: bebanmu (menyiarkan Islam) -",
+            "verse 94:3": "Yang memberati tanggunganmu, (dengan memberikan berbagai kemudahan dalam melaksanakannya)?",
+            "verse 94:4": "Dan Kami telah meninggikan bagimu: sebutan namamu (dengan mengurniakan pangkat Nabi dan berbagai kemuliaan)?",
+            "verse 94:5": "Oleh itu, maka (tetapkanlah kepercayaanmu) bahawa sesungguhnya tiap-tiap kesukaran disertai kemudahan,",
+            "verse 94:6": "(Sekali lagi ditegaskan): bahawa sesungguhnya tiap-tiap kesukaran disertai kemudahan.",
+            "verse 94:7": "Kemudian apabila engkau telah selesai (daripada sesuatu amal soleh), maka bersungguh-sungguhlah engkau berusaha (mengerjakan amal soleh yang lain),",
+            "verse 94:8": "Dan kepada Tuhanmu sahaja hendaklah engkau memohon (apa yang engkau gemar dan ingini)."
+        },
+        "Malayalam": {
+            "verse 94:1": "നിനക്ക് നിന്‍റെ ഹൃദയം നാം വിശാലതയുള്ളതാക്കി തന്നില്ലേ?",
+            "verse 94:2": "നിന്നില്‍ നിന്ന് നിന്‍റെ ആ ഭാരം നാം ഇറക്കിവെക്കുകയും ചെയ്തു.",
+            "verse 94:3": "നിന്‍റെ മുതുകിനെ ഞെരിച്ചു കളഞ്ഞതായ (ഭാരം)",
+            "verse 94:4": "നിനക്ക് നിന്‍റെ കീര്‍ത്തി നാം ഉയര്‍ത്തിത്തരികയും ചെയ്തിരിക്കുന്നു.",
+            "verse 94:5": "എന്നാല്‍ തീര്‍ച്ചയായും ഞെരുക്കത്തിന്‍റെ കൂടെ ഒരു എളുപ്പമുണ്ടായിരിക്കും.",
+            "verse 94:6": "തീര്‍ച്ചയായും ഞെരുക്കത്തിന്‍റെ കൂടെ ഒരു എളുപ്പമുണ്ടായിരിക്കും.",
+            "verse 94:7": "ആകയാല്‍ നിനക്ക് ഒഴിവ് കിട്ടിയാല്‍ നീ അദ്ധ്വാനിക്കുക.",
+            "verse 94:8": "നിന്‍റെ രക്ഷിതാവിലേക്ക് തന്നെ നിന്‍റെ ആഗ്രഹം സമര്‍പ്പിക്കുകയും ചെയ്യുക."
+        },
+        "Norwegian": {
+            "verse 94:1": "Har Vi ikke åpnet ditt hjerte!",
+            "verse 94:2": "Har Vi ikke tatt fra deg din byrde?",
+            "verse 94:3": "Som tynget på din rygg?",
+            "verse 94:4": "Og Vi har hevet din anseelse!",
+            "verse 94:5": "Motgang og medgang følges ad,",
+            "verse 94:6": "ja, visselig, motgang og medgang følges ad.",
+            "verse 94:7": "Når du nå er fri, så anstreng deg,",
+            "verse 94:8": "og søk din Herre!"
+        },
+        "Pashto": {
+            "verse 94:1": "ایا مونږ تا لره ستا سینه نه ده فراخه كړې",
+            "verse 94:2": "او له تا نه مو ستا دروند بار كوز كړى",
+            "verse 94:3": "هغه (بار) چې ستا شا يې كږه (او) درنه كړې وه",
+            "verse 94:4": "او تا لپاره مو ستا ذكر اوچت كړ",
+            "verse 94:5": "نو بېشكه له سختۍ سره اساني شته",
+            "verse 94:6": "بېشكه له سختۍ سره اساني شته",
+            "verse 94:7": "نو كله چې ته فارغ شې، نو (په عبادت كې،) ځان ستړى كوه",
+            "verse 94:8": "او خاص خپل رب ته رغبت (او زاري) كوه"
+        },
+        "Persian": {
+            "verse 94:1": "آيا سينه‌ات را برايت نگشوديم؟",
+            "verse 94:2": "و بار گرانت را از پشتت برنداشتيم؟",
+            "verse 94:3": "بارى كه بر پشت تو سنگينى مى‌كرد؟",
+            "verse 94:4": "آيا تو را بلندآوازه نساختيم؟",
+            "verse 94:5": "پس، از پى دشوارى آسانى است.",
+            "verse 94:6": "هر آينه از پى دشوارى آسانى است.",
+            "verse 94:7": "چون از كار فارغ شوى، به عبادت كوش.",
+            "verse 94:8": "و به پروردگارت مشتاق شو."
+        },
+        "Polish": {
+            "verse 94:1": "Czyż nie otwarliśmy twojej piersi?",
+            "verse 94:2": "Czy nie zdjęliśmy z ciebie twego brzemienia,",
+            "verse 94:3": "Które przytłaczało ci plecy?",
+            "verse 94:4": "Czy nie rozgłosiliśmy twojej sławy?",
+            "verse 94:5": "Obok trudności jest łatwość!",
+            "verse 94:6": "Zaprawdę, obok trudności jest łatwość!",
+            "verse 94:7": "Przeto kiedy masz wolny czas, bądź skupiony",
+            "verse 94:8": "I do twego Pana skieruj twoje pragnienia!"
+        },
+        "Portuguese": {
+            "verse 94:1": "Acaso, não confortamos o teu peito,",
+            "verse 94:2": "E aliviamos o teu fardo,",
+            "verse 94:3": "Que feria as tuas costas,",
+            "verse 94:4": "E enaltecemos a tua reputação?",
+            "verse 94:5": "Em verdade, com a adversidade está a facilidade!",
+            "verse 94:6": "Certamente, com a adversidade está a facilidade!",
+            "verse 94:7": "Assim, pois, quando estiveres livre (dos teus afazeres), continua a prédica,",
+            "verse 94:8": "E volta para o teu Senhor (toda) a atenção."
+        },
+        "Punjabi": {
+            "verse 94:1": "ਕੀ ਅਸੀਂ ਤੁਹਾਡਾ ਸੀਨਾ (ਦਿਲ) ਤੁਹਾਡੇ ਲਈ ਨਹੀਂ’ ਖੋਲ੍ਹ ਦਿੱਤਾ ਹੈ।",
+            "verse 94:2": "ਅਤੇ ਤੁਹਾਡਾ ਉਹ ਭਾਰ ਲਾਹ ਦਿੱਤਾ।",
+            "verse 94:3": "ਜਿਸ ਨੇ ਤੁਹਾਡੀ ਪਿੱਠ ਝੁਕਾ ਦਿੱਤੀ ਸੀ।",
+            "verse 94:4": "ਅਤੇ ਅਸੀਂ’ ਤੁਹਾਡੇ ਨਾਮ ਨੂੰ ਉੱਚਾ ਕਰ ਦਿੱਤਾ।",
+            "verse 94:5": "ਤਾਂ ਔਖ ਦੇ ਨਾਲ ਸੌਖ ਵੀ ਹੈ।",
+            "verse 94:6": "ਬੇਸ਼ੱਕ ਔਖ ਦੇ ਨਾਲ ਸੌਖ ਵੀ ਹੈ।",
+            "verse 94:7": "ਫਿਰ ਤੁਸੀਂ ਵਿਹਲੇ ਹੋ ਜਾਵੋ ਅਤੇ (ਬੰਦਗੀ ਲਈ) ਮਿਹਨਤ ਕਰਿਆ ਕਰੋ।",
+            "verse 94:8": "ਅਤੇ ਆਪਣੇ ਰੱਬ ਵੱਲ ਆਪਣਾ ਧਿਆਨ ਲਗਾਉ।"
+        },
+        "Roman english": {
+            "verse 94:1": "Alam nashrah laka sadrak",
+            "verse 94:2": "Wa wa d`ana `anka wizrak",
+            "verse 94:3": "Allazee anqada zahrak",
+            "verse 94:4": "Wa raf `ana laka zikrak",
+            "verse 94:5": "Fa inna ma`al usri yusra",
+            "verse 94:6": "Inna ma`al `usri yusra",
+            "verse 94:7": "Fa iza faragh ta fansab",
+            "verse 94:8": "Wa ilaa rabbika far ghab"
+        },
+        "Russian": {
+            "verse 94:1": "Мы разве не раскрыли грудь твою?",
+            "verse 94:2": "С души твоей не сняли бремя,",
+            "verse 94:3": "Которое тебе саднило спину?",
+            "verse 94:4": "И не возвысили ту честь, к которой ты приставлен?",
+            "verse 94:5": "Ведь, истинно, За каждой тягостью наступит облегченье.",
+            "verse 94:6": "Поистине, За каждой тягостью настанет облегченье.",
+            "verse 94:7": "И вот когда покончишь (с тяготой в молитве), Трудиться продолжай и дальше",
+            "verse 94:8": "И все усилия Владыке своему направь."
+        },
+        "Sindhi": {
+            "verse 94:1": "(اي پيغمبر) تنھنجو سِينو تولاءِ ڪشادو نه ڪيو اٿون ڇا؟",
+            "verse 94:2": "۽ تنھنجو (اُھو) بار توکان لاٿوسون.",
+            "verse 94:3": "جنھن تنھنجي پٺي کي ڳرو ڪيو ھو.",
+            "verse 94:4": "۽ تنھنجي ساراھ تولاءِ مٿاھين ڪئي سون.",
+            "verse 94:5": "ڇوته بيشڪ اھنج سان گڏ سھنج آھي.",
+            "verse 94:6": "بيشڪ اھنج سان گڏ سھنج آھي.",
+            "verse 94:7": "تنھنڪري جڏھن واندو ٿئين ته (عبادت لاءِ) محنت ڪر.",
+            "verse 94:8": "۽ خاص پنھنجي پالڻھار ڏانھن دل لڳاءِ."
+        },
+        "Sinhalese": {
+            "verse 94:1": "අපි නුඹගේ හදවත නුඹට පුළුල් නොකළෙමු ද?",
+            "verse 94:2": "තවද නුඹගේ බර අපි නුඹගෙන් ඉවත් කළෙමු.",
+            "verse 94:3": "(එය) නුඹේ පිට තළමින් තිබූණි.",
+            "verse 94:4": "තවද නුඹගේ කීර්තිය අපි නුඹට උසස් කළෙමු.",
+            "verse 94:5": "එබැවින් නියත වශයෙන්ම දුෂ්කරතාව සමඟ පහසු ව ඇත.",
+            "verse 94:6": "සැබැවින්ම දුෂ්කාරතාව සමඟ පහසු ව ඇත.",
+            "verse 94:7": "එබැවින්, නුඹ (නුඹගේ ලෞකික කටයුතු) අවසන් කළ විට (මතුලොව කටයුතු සඳහා) කැපවනු.",
+            "verse 94:8": "තවද නුඹගේ පරමාධිපති වෙත යොමු වනු."
+        },
+        "Somali": {
+            "verse 94:1": "Miyannaan kuu waasicinin Laabta (ku nuurinin).",
+            "verse 94:2": "Oonaan ka dajinin culayskii.",
+            "verse 94:3": "dhabarka kaa cusleeyay.",
+            "verse 94:4": "Miyaannaan kor yeelin magacaaga (xusiddaada).",
+            "verse 94:5": "Cidhiidhina waxaa ku dhaw fudayd (faraj).",
+            "verse 94:6": "Cidhiidhina waxaa ku dhaw fudayd.",
+            "verse 94:7": "Ee markaad Salaadda dhammayso isku dhib (Samo fal).",
+            "verse 94:8": "Eebana (Khayr) ka rajee."
+        },
+        "Spanish": {
+            "verse 94:1": "Acaso no te hemos abierto el pecho?",
+            "verse 94:2": "Y te hemos librado de la carga,",
+            "verse 94:3": "que pesaba sobre tu espalda",
+            "verse 94:4": "y hemos puesto tu mención en un lugar elevado?",
+            "verse 94:5": "Porque es cierto que junto a la dificultad hay facilidad.",
+            "verse 94:6": "Sí, junto a la dificultad hay facilidad.",
+            "verse 94:7": "Así pues, cuando hayas acabado, esfuérzate por más",
+            "verse 94:8": "y a tu Señor anhela."
+        },
+        "Swahili": {
+            "verse 94:1": "Hatukukunjulia kifua chako?",
+            "verse 94:2": "Na tukakuondolea mzigo wako,",
+            "verse 94:3": "Ulio vunja mgongo wako?",
+            "verse 94:4": "Na tukakunyanyulia utajo wako?",
+            "verse 94:5": "Basi kwa hakika pamoja na uzito upo wepesi,",
+            "verse 94:6": "Hakika pamoja na uzito upo wepesi.",
+            "verse 94:7": "Na ukipata faragha, fanya juhudi.",
+            "verse 94:8": "Na Mola wako Mlezi ndio mshughulikie."
+        },
+        "Swedish": {
+            "verse 94:1": "HAR VI inte öppnat ditt bröst",
+            "verse 94:2": "och lyft av bördan",
+            "verse 94:3": "som tyngde din rygg?",
+            "verse 94:4": "Och lagt ditt namn i var mans mun?",
+            "verse 94:5": "På prövningen följer lättnad!",
+            "verse 94:6": "[Ja,] på prövningen följer lättnad!",
+            "verse 94:7": "Stå upp, när du har fullgjort [din uppgift],",
+            "verse 94:8": "och vänd dig med hela ditt hjärta [i bön] till din Herre."
+        },
+        "Tajik": {
+            "verse 94:1": "Оё синаатро бароят накушодем?",
+            "verse 94:2": "Ва бори гаронатро аз пуштат барнадоштем?",
+            "verse 94:3": "Боре, ки бар пушти ту сангинӣ мекард?",
+            "verse 94:4": "Оё туро баландовоза насохтем?",
+            "verse 94:5": "Пас аз паи душворӣ осонист!",
+            "verse 94:6": "Албатта аз паи душворӣ осонист.",
+            "verse 94:7": "Чун аз кор фориғ шавӣ, ба ибодат кӯш",
+            "verse 94:8": "ва ба Парвардигорат рағбат намо!"
+        },
+        "Tamil": {
+            "verse 94:1": "நாம், உம் இதயத்தை உமக்காக விரிவாக்கவில்லையா?",
+            "verse 94:2": "மேலும், நாம் உம்மை விட்டும் உம் சுமையை இறக்கினோம்.",
+            "verse 94:3": "அது உம் முதுகை முறித்துக் கொண்டுடிருந்தது.",
+            "verse 94:4": "மேலும், நாம் உமக்காக உம்முடைய புகழை மேலோங்கச் செய்தோம்.",
+            "verse 94:5": "ஆதலின் நிச்சயமாகத் துன்பத்துடன் இன்பம் இருக்கிறது.",
+            "verse 94:6": "நிச்சயமாக துன்பத்துடன் இன்பம் இருக்கிறது.",
+            "verse 94:7": "எனவே, (வேலைகளிலிருந்து) நீர் ஓய்ந்ததும் (இறைவழியிலும், வணக்கத்திலும்) முயல்வீராக.",
+            "verse 94:8": "மேலும், முழு மனத்துடன் உம் இறைவன் பால் சார்ந்து விடுவீராக."
+        },
+        "Tatar": {
+            "verse 94:1": "Әйә Мухәммәд г-м синең күкрәгеңне ачмадыкмы һәм иман, хикмәт белән күңелеңне йомшак кылмадыкмы.",
+            "verse 94:2": "Вә синнән авыр йөкне төшердек түгелме.",
+            "verse 94:3": "Ул авырлык аркаларыңны авырттыра иде түгелме.",
+            "verse 94:4": "Һәм синең исемеңне кешеләр арасында мактаулы зекер белән дәрәҗәгә күтәрдек түгелме?",
+            "verse 94:5": "Дөреслектә файдалы булган җиңеллек авырлыктан соң",
+            "verse 94:6": "Дөреслектә авырлыктан соң гына файдалы җиңеллек табыла.",
+            "verse 94:7": "Бер хәерле эштән бушансаң, икенче хәерле эшне эшләргә тырыш.",
+            "verse 94:8": "Һәм Раббыңның рәхмәтенә кызык, Раббыңа таба ашык, һәм һәрвакыт Ул риза булачак хәерле эшләр белән мәшгуль бул!"
+        },
+        "Telugu": {
+            "verse 94:1": "(ఓ ముహమ్మద్!) ఏమీ? మేము నీ కొరకు నీ హృదయాన్ని తెరువలేదా",
+            "verse 94:2": "మరియు మేము నీ భారాన్ని నీ పై నుండి దించి వేయలేదా",
+            "verse 94:3": "ఏదైతే నీ వెన్నును విరుస్తూ ఉండిందో",
+            "verse 94:4": "మరియు నీ పేరు ప్రతిష్ఠను పైకెత్తలేదా",
+            "verse 94:5": "నిశ్చయంగా, ఎల్లప్పుడు కష్టంతో పాటు సుఖం కూడా ఉంటుంది",
+            "verse 94:6": "నిశ్చయంగా, కష్టంతో పాటు సుఖం కూడా ఉంటుంది",
+            "verse 94:7": "కావున నీకు తీరిక లభించినప్పుడు ఆరాధనలో నిమగ్నుడవైపో",
+            "verse 94:8": "మరియు నీ ప్రభువు నందే ధ్యానం నిలుపు"
+        },
+        "Thai": {
+            "verse 94:1": "เรามิได้เปิดหัวอกของเจ้าแก่เจ้าดอกหรือ ?",
+            "verse 94:2": "และเราได้ปลดเปลื้องภาระหนักของเจ้าออกจากเจ้าแล้ว",
+            "verse 94:3": "ซึ่งเป็นภาระหนักอึ้งบนหลังของเจ้า",
+            "verse 94:4": "และเราได้ยกย่องให้แก่เจ้าแล้ว ซึ่งการกล่าวถึงเจ้า",
+            "verse 94:5": "ฉะนั้นแท้จริงหลังจากความยากลำบากก็จะมีความง่าย",
+            "verse 94:6": "แท้จริงหลังจากความยากลำบากก็จะมีความง่าย",
+            "verse 94:7": "ดังนั้นเมื่อเจ้าเสร็จสิ้น (จากงานหนึ่งแล้ว) ก็จงลำบากต่อไป",
+            "verse 94:8": "และยังพระเจ้าของเจ้าเท่านั้นก็จงมุ่งปรารถนาเถิด"
+        },
+        "Turkish": {
+            "verse 94:1": "Senin gönlünü açmadık mı?",
+            "verse 94:2": "Belini büken yükünü üzerinden almadık mı?",
+            "verse 94:3": "Belini büken yükünü üzerinden almadık mı?",
+            "verse 94:4": "Senin şanını yükseltmedik mi?",
+            "verse 94:5": "Elbette güçlükle beraber şüphesiz bir kolaylık vardır.",
+            "verse 94:6": "Gerçekten, güçlükle beraber bir kolaylık vardır.",
+            "verse 94:7": "Öyleyse, bir işi bitirince diğerine giriş;",
+            "verse 94:8": "Ve ümit edeceğini yalnız Rabbinden iste."
+        },
+        "Urdu": {
+            "verse 94:1": "(اے محمدﷺ) کیا ہم نے تمہارا سینہ کھول نہیں دیا؟ (بےشک کھول دیا)",
+            "verse 94:2": "اور تم پر سے بوجھ بھی اتار دیا",
+            "verse 94:3": "جس نے تمہاری پیٹھ توڑ رکھی تھی",
+            "verse 94:4": "اور تمہارا ذکر بلند کیا",
+            "verse 94:5": "ہاں ہاں مشکل کے ساتھ آسانی بھی ہے",
+            "verse 94:6": "(اور) بے شک مشکل کے ساتھ آسانی ہے",
+            "verse 94:7": "تو جب فارغ ہوا کرو تو (عبادت میں) محنت کیا کرو",
+            "verse 94:8": "اور اپنے پروردگار کی طرف متوجہ ہو جایا کرو"
+        },
+        "Uyghur": {
+            "verse 94:1": "(ئى مۇھەممەد!) سېنىڭ كۆكسىڭنى (ھىدايەت، ھېكمەت ۋە قۇرئاننىڭ نۇرى بىلەن) كەڭ قىلمىدۇقمۇ؟",
+            "verse 94:2": "سېنىڭ بېلىڭنى ئېگىۋەتكەن ئېغىر يۈكنى ئۈستۈڭدىن ئېلىپ تاشلىدۇق",
+            "verse 94:3": "سېنىڭ بېلىڭنى ئېگىۋەتكەن ئېغىر يۈكنى ئۈستۈڭدىن ئېلىپ تاشلىدۇق",
+            "verse 94:4": "سېنىڭ شۆھرىتىڭنى ئۈستۈن قىلدۇق",
+            "verse 94:5": "ئەلۋەتتە ھەر بىر مۈشكۈللۈك بىلەن بىر ئاسانلىق بار",
+            "verse 94:6": "ئەلۋەتتە ھەر بىر مۈشكۈللۈك بىلەن بىر ئاسانلىق بار",
+            "verse 94:7": "(ئى مۇھەممەد! دەۋەتتىن) بوشىغان چېغىڭدا (اﷲ قا) ئىبادەت قىلىشقا تىرىشقىن",
+            "verse 94:8": "پەرۋەردىگارىڭغا يۈزلەنگىن"
+        },
+        "Uzbek": {
+            "verse 94:1": "Сенинг кўксингни кенг қилиб қўймадикми?",
+            "verse 94:2": "Ва сенинг юкингни енгиллатмадикми?",
+            "verse 94:3": "У сенинг елкангни босиб турган эди.",
+            "verse 94:4": "Ва сенинг зикрингни юқори кўтардик.",
+            "verse 94:5": "Бас, албатта, бир қийинчилик билан осончилик бордир.",
+            "verse 94:6": "Албатта, бир қийинчилик билан осончилик бордир.",
+            "verse 94:7": "Фориғ бўлсанг, ибодатига урингин.",
+            "verse 94:8": "Ва фақат Роббингга рағбат қил."
+        },
+        "Vietnamese": {
+            "verse 94:1": "(Hỡi Thiên Sứ Muhammad!) Chẳng phải TA (Allah) đã không mở rộng lồng ngực của Ngươi ư?",
+            "verse 94:2": "(Chẳng phải) TA đã lấy đi khỏi Ngươi gánh nặng,",
+            "verse 94:3": "Đã đè nặng trên lưng Ngươi?",
+            "verse 94:4": "(Chẳng phải) TA đã nâng cao danh tiếng của Ngươi?",
+            "verse 94:5": "Quả thật, đi cùng với khó khăn là sự dễ dàng.",
+            "verse 94:6": "Quả thật, đi cùng với khó khăn là sự dễ dàng.",
+            "verse 94:7": "Vì vậy, khi Ngươi đã hoàn thành (nhiệm vụ của mình), Ngươi hãy đứng dậy (cho lễ nguyện Salah).",
+            "verse 94:8": "Và Ngươi hãy hướng đến Thượng Đế của Ngươi mà hy vọng và nguyện cầu."
+        },
+        "Yoruba": {
+            "verse 94:1": "Se A o sipaya igba-aya re fun o bi",
+            "verse 94:2": "A si gbe ese re kuro lorun re",
+            "verse 94:3": "eyi ti o wo o lorun. amo ti onitoun pada gba ’Islam ibaa je pe o gba a ni owuro",
+            "verse 94:4": "A si gbe iranti oruko re ga fun o",
+            "verse 94:5": "Nitori naa, dajudaju idekun wa leyin inira",
+            "verse 94:6": "Dajudaju idekun wa leyin inira se",
+            "verse 94:7": "Nitori naa, nigba ti o ba buse (lori okan), gbiyanju (omiran)",
+            "verse 94:8": "Odo Oluwa re si ni ki o soju kokoro oore si"
         }
     }
 }

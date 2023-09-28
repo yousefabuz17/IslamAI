@@ -5,7 +5,6 @@
     "revelation_order": 5,
     "bismillah_pre": false,
     "verses_count": 7,
-    "source": "Sayyid Abul Ala Maududi - Tafhim al-Qur'an - The Meaning of the Quran",
     "short_text": "This Surah is named Al-Fatihah because of its subject matter. Fatihah is that which opens a subject or a book or any other thing. In other words, Al-Fatihah is a sort of preface.",
     "text": [
         "This Surah is named Al-Fatihah because of its subject matter. Fatihah is that which opens a subject or a book or any other thing. In other words, Al-Fatihah is a sort of preface.",
@@ -16,604 +15,488 @@
         "This preface is meant to create a strong desire in the heart of the reader to seek guidance from the Lord of the Universe Who alone can grant it. Thus Al-Fatihah indirectly teaches that the best thing for a man is to pray for guidance to the straight path, to study the Quran with the mental attitude of a seeker searching for the truth, and to recognize the fact that the Lord of the Universe is the source of all knowledge. He should, therefore, begin the study of the Quran with a prayer to Him for guidance.",
         "From this theme, it becomes clear that the real relation between Al-Fatihah and the Quran is not that of an introduction to a book but that of a prayer and its answer. Al-Fatihah is the prayer from the servant and the Quran is the answer from the Master to the servant's prayer. The servant prays to Allah to show him guidance and the Master places the whole of the Quran before him in answer to his prayer, as if to say, \"This is the Guidance you begged from Me.\""
     ],
+    "quran-source": "`https://surahquran.com`",
     "description": "The surah that is The Opening to the Quran and the straight way of God. Another common name of the surah is The [Lord’s] Praise (al-Ḥamd). It is seen to be a precise table of contents of the Quranic message and is important in Islamic worship, being an obligatory part of the daily prayer, repeated several times during the day.The surah is also known as: The Exordium, The Opening Chapter, The Opening of the Book, The Prologue.",
-    "name_translation": "THE OPENING",
+    "name_translation": "The Opening",
     "name_complex": "Al-Fâtihah",
     "surah_name_ar": "الفاتحة",
     "verses": {
-        "languages": {
-            "albanian": {
-                "translators": {
-                    "1": {
-                        "Efendi Nahi": {
-                            "verse 1:1": "Me emër të Allahut, Mëshirues dhe Përdëllimtar i Madh.",
-                            "verse 1:2": "Cdo lavdërim i përket Allahut (Perëndisë), Zotit të Gjithësisë",
-                            "verse 1:3": "Mëshirues dhe Përdëllimtar i Madh.",
-                            "verse 1:4": "Sunduesit të ditës së gjukimit.",
-                            "verse 1:5": "Vetëm Ty të adhurojmë dhe vetëm prej Teje ndihmë kërkojmë!",
-                            "verse 1:6": "Udhëzona në rrugë të drejtë.",
-                            "verse 1:7": "Në rrugën e atyre që u ke dhuruar mirësi."
-                        }
-                    }
-                }
-            },
-            "azerbaijani": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "Mərhəmətli, rəhmli Allahın adı ilə!",
-                            "verse 1:2": "Həmd (şükür və tə'rif) olsun Allaha (və ya: Həmd məxsusdur Allaha) - aləmlərin Rəbbinə,",
-                            "verse 1:3": "(Bu dünyada hamıya) mərhəmətli, (axirətdə isə ancaq mö'minlərə) rəhmli olana,",
-                            "verse 1:4": "Haqq-Hesab (qiyamət) gününün sahibinə!",
-                            "verse 1:5": "Biz yalnız Sənə ibadət edirik və yalnız Səndən kömək diləyirik!",
-                            "verse 1:6": "Bizi doğru (düz) yola yönəlt!",
-                            "verse 1:7": "Ne'mət verdiyin kəslərin yoluna! Qəzəbə düçar olmuşların və (haqdan) azmışların (yoluna) yox!"
-                        }
-                    }
-                }
-            },
-            "bosnian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "Tebe, Allaha, Gospodara svjetova, hvalimo,",
-                            "verse 1:2": "Milostivog, Samilosnog,",
-                            "verse 1:3": "Vladara Dana sudnjeg,",
-                            "verse 1:4": "Tebi se klanjamo i od Tebe pomoć tražimo!",
-                            "verse 1:5": "Uputi nas na Pravi put,",
-                            "verse 1:6": "na Put onih kojima si milost Svoju darovao,",
-                            "verse 1:7": "a ne onih koji su protiv sebe srdžbu izazvali, niti onih koji su zalutali! darovao,"
-                        }
-                    }
-                }
-            },
-            "bengali": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "শুরু করছি আল্লাহর নামে যিনি পরম করুণাময়, অতি দয়ালু।",
-                            "verse 1:2": "যাবতীয় প্রশংসা আল্লাহ তা' আলার যিনি সকল সৃষ্টি জগতের পালনকর্তা।",
-                            "verse 1:3": "যিনি নিতান্ত মেহেরবান ও দয়ালু।",
-                            "verse 1:4": "যিনি বিচার দিনের মালিক।",
-                            "verse 1:5": "আমরা একমাত্র তোমারই ইবাদত করি এবং শুধুমাত্র তোমারই সাহায্য প্রার্থনা করি।",
-                            "verse 1:6": "আমাদেরকে সরল পথ দেখাও,",
-                            "verse 1:7": "সে সমস্ত লোকের পথ, যাদেরকে তুমি নেয়ামত দান করেছ। তাদের পথ নয়, যাদের প্রতি তোমার গজব নাযিল হয়েছে এবং যারা পথভ্রষ্ট হয়েছে। দেখাও,"
-                        }
-                    }
-                }
-            },
-            "bulgarian": {
-                "translators": {
-                    "1": {
-                        "Tzvetan Theophanov": {
-                            "verse 1:1": "В името на Аллах, Всемилостивия, Милосърдния!",
-                            "verse 1:2": "Хвала на Аллах - Господа на световете,",
-                            "verse 1:3": "Всемилостивия, Милосърдния,",
-                            "verse 1:4": "Владетеля на Съдния ден!",
-                            "verse 1:5": "Само на Теб служим и Теб за подкрепа зовем.",
-                            "verse 1:6": "Насочи ни по правия път,",
-                            "verse 1:7": "пътя на тези, които си дарил с благодат, а не на ,",
-                            "verse 1:8": "над които тегне гняв, нито на заблудените! ,"
-                        }
-                    }
-                }
-            },
-            "chinese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "奉至仁至慈的真主之名",
-                            "verse 1:2": "一切贊頌，全歸真主，全世界的主，",
-                            "verse 1:3": "至仁至慈的主，",
-                            "verse 1:4": "報應日的主。",
-                            "verse 1:5": "我們只崇拜你，只求你祐助，",
-                            "verse 1:6": "求你引導我們上正路，",
-                            "verse 1:7": "你所祐助者的路，不是受譴怒者的路，也不是迷誤者的路。 求你引導我們上正路，"
-                        }
-                    }
-                }
-            },
-            "czech": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "Ve jménu Boha milosrdného, slitovného.",
-                            "verse 1:2": "Chvála Bohu, Pánu lidstva veškerého,",
-                            "verse 1:3": "Milosrdnému, Slitovnému,",
-                            "verse 1:4": "vládci dne soudného!",
-                            "verse 1:5": "Tebe uctíváme a Tebe o pomoc žádáme,",
-                            "verse 1:6": "veď nás stezkou přímou,",
-                            "verse 1:7": "stezkou těch, jež zahrnuls milostí Svou, ne těch, na něž jsi rozhněván, ani těch, kdo v bludu jsou."
-                        }
-                    }
-                }
-            },
-            "dutch": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "In naam van God, de Barmhartige, de Genadevolle.",
-                            "verse 1:2": "Alle lof zij God, de Heer van de ´Alamin (mensheid, djinns en alles dat bestaat).",
-                            "verse 1:3": "De Barmhartige, de Genadevolle.",
-                            "verse 1:4": "Meester van de Dag des Oordeels.",
-                            "verse 1:5": "U alleen aanbidden wij en U alleen smeken wij om hulp.",
-                            "verse 1:6": "Leid ons op het rechte pad,",
-                            "verse 1:7": "Het pad dergenen, aan wie Gij gunsten hebt geschonken - niet dat van hen, op wie toorn is neergedaald, noch dat der dwalenden."
-                        }
-                    }
-                }
-            },
-            "english": {
-                "translators": {
-                    "1": {
-                        "Marmaduke Pickthall": {
-                            "verse 1:1": "In the name of Allah, the Beneficent, the Merciful.",
-                            "verse 1:2": "Praise be to Allah, Lord of the Worlds,",
-                            "verse 1:3": "The Beneficent, the Merciful.",
-                            "verse 1:4": "Owner of the Day of Judgment,",
-                            "verse 1:5": "Thee (alone) we worship; Thee (alone) we ask for help",
-                            "verse 1:6": "Show us the straight path,",
-                            "verse 1:7": "The path of those whom Thou hast favoured; Not the (path) of those who earn Thine anger nor of those who go astray."
-                        }
-                    },
-                    "2": {
-                        "Abdullah Yusuf Ali": {
-                            "verse 1:1": "In the name of God, Most Gracious, Most Merciful.",
-                            "verse 1:2": "Praise be to God, the Cherisher and Sustainer of the worlds;",
-                            "verse 1:3": "Most Gracious, Most Merciful;",
-                            "verse 1:4": "Master of the Day of Judgment.",
-                            "verse 1:5": "Thee do we worship, and Thine aid we seek.",
-                            "verse 1:6": "Show us the straight way,",
-                            "verse 1:7": "The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray."
-                        }
-                    },
-                    "3": {
-                        "Arthur J. Arberry": {
-                            "verse 1:1": "In the Name of God, the Merciful, the Compassionate",
-                            "verse 1:2": "Praise belongs to God, the Lord of all Being,",
-                            "verse 1:3": "the All-merciful, the All-compassionate,",
-                            "verse 1:4": "the Master of the Day of Doom.",
-                            "verse 1:5": "Thee only we serve; to Thee alone we pray for succour.",
-                            "verse 1:6": "Guide us in the straight path,",
-                            "verse 1:7": "the path of those whom Thou hast blessed, not of those against whom Thou art wrathful, nor of those who are astray."
-                        }
-                    },
-                    "4": {
-                        "Muhammad Asad": {
-                            "verse 1:1": "IN THE NAME OF GOD, THE MOST GRACIOUS, THE DISPENSER OF GRACE",
-                            "verse 1:2": "ALL PRAISE is due to God alone, the Sustainer of all the worlds,",
-                            "verse 1:3": "the Most Gracious, the Dispenser of Grace,",
-                            "verse 1:4": "Lord of the Day of Judgment!",
-                            "verse 1:5": "Thee alone do we worship; and unto Thee alone do we turn for aid.",
-                            "verse 1:6": "Guide us the straight way –",
-                            "verse 1:7": "the way of those upon whom Thou hast bestowed Thy blessings, not of those who have been condemned [by Thee], nor of those who go astray!"
-                        }
-                    },
-                    "5": {
-                        "Martin Lings": {
-                            "verse 1:1": "In the Name of God, the Clement, the Merciful.",
-                            "verse 1:2": "the Name of God, the Infinitely Good, the Ever-Merciful.",
-                            "verse 1:3": "the Name of God, the All-Merciful, the Merciful.",
-                            "verse 1:4": "the Name of God, the Infinitely Good, the All-Merciful.",
-                            "verse 1:5": "In",
-                            "verse 1:6": "the Name of God, the Infinitely Good, the Boundlessly Merciful.",
-                            "verse 1:7": "Praise be to God, the Lord of the worlds.",
-                            "verse 1:8": "",
-                            "verse 1:9": "The Infinitely Good, the All-Merciful.",
-                            "verse 1:10": "Owner of the Day of Judgement.",
-                            "verse 1:11": "of the day of judgement.",
-                            "verse 1:12": "Thee we worship and from Thee we seek help.",
-                            "verse 1:13": "is Thee we adore, and it is in Thee we seek refuge.",
-                            "verse 1:14": "we worship, and in Thee we seek help.",
-                            "verse 1:15": "Lead us on the straight path.",
-                            "verse 1:16": "us upon the way of Transcendence.",
-                            "verse 1:17": "us along the straight path.",
-                            "verse 1:18": "Guide",
-                            "verse 1:19": "us up the ascending path.",
-                            "verse 1:20": "Guide",
-                            "verse 1:21": "us upon the straight path.",
-                            "verse 1:22": "",
-                            "verse 1:23": "The Path of those to whom Thou accordest Thy Grace, not of those who incur Thy wrath, nor of those who go astray.",
-                            "verse 1:24": "upon whom is Thy Grace, not those upon whom is Thy Wrath, nor those who go astray.",
-                            "verse 1:25": "way of those on whom Thy Grace is not those who deserve anger nor those who are astray.",
-                            "verse 1:26": "path of those on whom Thy grace is, not those on whom Thine anger is, nor those who are astray.",
-                            "verse 1:27": "Used• Unpublished Material (1938-2005) BOOKS•",
-                            "verse 1:28": "The Book of Certainty (1952) •",
-                            "verse 1:29": "A Sufi Saint of the Twentieth Century (1961) •",
-                            "verse 1:30": "What is Sufism (1975) •",
-                            "verse 1:31": "The Quranic Art of Calligraphy and Illumination (1976) •",
-                            "verse 1:32": "Muhammad (1983) •",
-                            "verse 1:33": "Symbol and Archetype (1991) •",
-                            "verse 1:34": "Sufi Poems (2004) •",
-                            "verse 1:35": "Mecca (2004) •",
-                            "verse 1:36": "Return to the Spirit (2005) •",
-                            "verse 1:37": "Splendours of Qur’an Calligraphy and Illumination (2005) ARTICLES•",
-                            "verse 1:38": "“Proofs of Islam”(1954).",
-                            "verse 1:39": "“The Islamic and Christian Conceptions of the March of Time” (1954) The Islamic Quarterly, Vol.",
-                            "verse 1:40": "“The Origins of Sufism (1956) The Islamic Quarterly, Vol.",
-                            "verse 1:41": "“Sufism”: Religion in the Middle East (1969); ed.",
-                            "verse 1:42": "“Sufi Answers to Questions On Ultimate Reality”: Studies in Comparative Religions 1979 Summer/Autumn •",
-                            "verse 1:43": "“The Nature and Origin of Sufism”: Islamic Spirituality (1985) •",
-                            "verse 1:44": "“Mystical Poetry”: The Cambridge History of Arabic Literature, Vol.",
-                            "verse 1:45": "“The Quranic Doctrine of the Afterlife” •",
-                            "verse 1:46": "“The Quranic Origins of Sufism” •",
-                            "verse 1:47": "“Human Origins and Destinies According to the Great Religions of the World” •",
-                            "verse 1:48": "“Metaphysics and the Perennial Philosophy” •",
-                            "verse 1:49": "“An Introduction to Islam” •",
-                            "verse 1:50": "“The Universality of the Quran” •",
-                            "verse 1:51": "Private Talks Books",
-                            "verse 1:52": "without Quranic Ayaat• Collected Poems• Ancient Beliefs and Modern Superstitions• The Eleventh Hour• The Secret of ShakespeareArticles without Quranic Ayaat• “Signs of the Times”: Studies in Comparative Religions 1970 Winter• “Ibn Aliwah” Encyclopedia of Islam, Second Edition• “Kabd” Encyclopedia of Islam, Second Edition Books"
-                        }
-                    },
-                    "6": {
-                        "Mufti Muhammad Taqi Uthmani": {
-                            "verse 1:1": "With the name of Allah, the All-Merciful, the Very-Merciful.",
-                            "verse 1:2": "Praise belongs to Allah, the Lord of all the worlds.",
-                            "verse 1:3": "the All-Merciful, the Very Merciful.",
-                            "verse 1:4": "the Master of the Day of Requital.",
-                            "verse 1:5": "You alone do we worship, and from You alone do we seek help.",
-                            "verse 1:6": "Take us on the straight path.",
-                            "verse 1:7": "the path of those on whom You have bestowed Your Grace, not of those who have incurred Your wrath, nor of those who have gone astray."
-                        }
-                    },
-                    "7": {
-                        "Royal Aal al-Bayt Institute Translation": {
-                            "verse 1:1": "In the Name of God, the Compassionate, the Merciful:",
-                            "verse 1:2": "Praise be to God; Lord of all Worlds.",
-                            "verse 1:3": "The Compassionate, the Merciful.",
-                            "verse 1:4": "Master of the Day of Judgement.",
-                            "verse 1:5": "You",
-                            "verse 1:6": "we worship, and You",
-                            "verse 1:7": "we ask for help.",
-                            "verse 1:8": "Guide us to the straight path:",
-                            "verse 1:9": "the path of those whom You have favoured, not [the path] of those against whom there is wrath, nor of those who are astray."
-                        }
-                    },
-                    "8": {
-                        "Recitations of Ibrahim walk from saheeh international": {
-                            "verse 1:1": "All praise be to Allah alone, the Sustainer of all the worlds,",
-                            "verse 1:2": "Most Compassionate, Ever-Merciful,",
-                            "verse 1:3": "Master of the Day of Judgment.",
-                            "verse 1:4": "(O Allah!) You alone do we worship and to You alone do we look for help.",
-                            "verse 1:5": "Show us the straight path,",
-                            "verse 1:6": "The path of those upon whom You have bestowed Your favours,",
-                            "verse 1:7": "Not of those who have been afflicted with wrath, nor of those who have gone astray."
-                        }
-                    }
-                }
-            },
-            "finnish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "Ylistys Jumalalle, maailmojen Valtiaalle,",
-                            "verse 1:2": "armolahjojen Antajalle, laupiaalle Ohjaajalle ja Siunaajalle,",
-                            "verse 1:3": "jonka hallussa yksin on Tilinteon päivä.",
-                            "verse 1:4": "Sinua ainoata palvelemme, Sinua huudamme avuksi.",
-                            "verse 1:5": "Ohjaa meidät oikeata tietä,",
-                            "verse 1:6": "niiden tietä, joiden osana on Sinun mielisuosiosi",
-                            "verse 1:7": "ei niiden tietä, jotka ovat Sinun vihasi alaisia, eikä niiden,jotka harhaan eksyvät."
-                        }
-                    }
-                }
-            },
-            "french": {
-                "translators": {
-                    "1": {
-                        "Jean-Louis Michon": {
-                            "verse 1:1": "Au nom de Dieu, le Miséricordieux, le Clément.",
-                            "verse 1:2": "Louange à Dieu, Seigneur des mondes,",
-                            "verse 1:3": "le Miséricordieux, le Clément,",
-                            "verse 1:4": "Roi du Jour du Jugement.",
-                            "verse 1:5": "C'est Toi que nous adorons, et c'est de Toi que nous implorons le secours.",
-                            "verse 1:6": "Guide-nous sur la voie droite,",
-                            "verse 1:7": "la voie de ceux que Tu as comblés de bienfaits, non de ceux qui encourent Ta colère, ni des égarés."
-                        }
-                    },
-                    "2": {
-                        "Muhammad Hamidullah ": {
-                            "verse 1:1": "Au nom de Dieu, le Tout Miséricordieux, le Très Miséricordieux.",
-                            "verse 1:2": "Louange à Dieu, Seigneur de l’univers.",
-                            "verse 1:3": "Le Tout Miséricordieux, le Très Miséricordieux,",
-                            "verse 1:4": "Maître du Jour de la rétribution.",
-                            "verse 1:5": "C’est Toi",
-                            "verse 1:6": "que nous adorons, et c’est Toi",
-                            "verse 1:7": "dont nous implorons secours.",
-                            "verse 1:8": "Guide-nous dans le droit chemin,",
-                            "verse 1:9": "le chemin de ceux que Tu as comblés de faveurs, non pas de ceux qui ont encouru Ta colère, ni des égarés."
-                        }
-                    }
-                }
-            },
-            "german": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "Im Namen Allahs, des Gnädigen, des Barmherzigen.",
-                            "verse 1:2": "Aller Preis gehört Allah, dem Herrn der Welten,",
-                            "verse 1:3": "Dem Gnädigen, dem Barmherzigen,",
-                            "verse 1:4": "Dem Meister des Gerichtstages.",
-                            "verse 1:5": "Dir allein dienen wir, und zu Dir allein flehen wir um Hilfe.",
-                            "verse 1:6": "Führe uns auf den geraden Weg,",
-                            "verse 1:7": "Den Weg derer, denen Du Gnade erwiesen hast, die nicht (Dein) Mißfallen erregt haben und die nicht irregegangen sind."
-                        }
-                    }
-                }
-            },
-            "hindi": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "’kq: djrk gw¡ [+kq+nk ds uke ls tks cM+k esgjcku fugk;r jge okyk gS",
-                            "verse 1:2": "lc rkjhQ [+kq+nk gh ds fy, lt+kokj gS",
-                            "verse 1:3": "vkSj lkjs tgk¡u dk ikyus okyk cM+k esgjcku jge okyk gS",
-                            "verse 1:4": "jkst+s tt+k dk ekfyd gS",
-                            "verse 1:5": "[+kq+nk;k ge rsjh gh bcknr djrs gSa vkSj rq> gh ls enn pkgrs gSa",
-                            "verse 1:6": "rks gedks lh/kh jkg ij lkfcr d+ne j[k",
-                            "verse 1:7": "mudh jkg ftUgsa rwus ¼viuh½ usver vrk dh gS u mudh jkg ftu ij rsjk x+t+c <+k;k x;k vkSj u xqejkgksa dh"
-                        }
-                    }
-                }
-            },
-            "indonesian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang",
-                            "verse 1:2": "Segala puji bagi Allah, Tuhan semesta alam,",
-                            "verse 1:3": "Maha Pemurah lagi Maha Penyayang,",
-                            "verse 1:4": "Yang menguasai hari pembalasan.",
-                            "verse 1:5": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan",
-                            "verse 1:6": "Tunjukilah kami jalan yang lurus,",
-                            "verse 1:7": "(yaitu) jalan orang-orang yang telah Engkau anugerahkan ni‘mat kepada mereka; bukan (jalan) mereka yang dimurkai (orang-orang yang mengetahui kebenaran dan meninggalkannya), dan bukan (pula jalan) mereka yang sesat (orang-orang yang meninggalkan kebenaran karena ketidaktahuan dan kejahilan)."
-                        }
-                    }
-                }
-            },
-            "italian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "In nome di Allah, il Compassionevole, il Misericordioso",
-                            "verse 1:2": "La lode",
-                            "verse 1:3": "ad Allah 3, Signore dei mondi4,",
-                            "verse 1:4": "il Compassionevole, il Misericordioso,",
-                            "verse 1:5": "Re del Giorno del Giudizio 5.",
-                            "verse 1:6": "Te noi adoriamo e a Te chiediamo aiuto6.",
-                            "verse 1:7": "Guidaci sulla retta via7,",
-                            "verse 1:8": "la via di coloro che hai colmato di grazia8 , non di coloro che [sono incorsi] nella",
-                            "verse 1:9": "ira , né degli sviati."
-                        }
-                    }
-                }
-            },
-            "japanese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "慈悲あまねく慈愛深きアッラーの御名において。",
-                            "verse 1:2": "万有の主，アッラーにこそ凡ての称讃あれ，",
-                            "verse 1:3": "慈悲あまねく慈愛深き御方，",
-                            "verse 1:4": "最後の審きの日の主宰者に。",
-                            "verse 1:5": "わたしたちはあなたにのみ崇め仕え，あなたにのみ御助けを請い願う。",
-                            "verse 1:6": "わたしたちを正しい道に導きたまえ，",
-                            "verse 1:7": "あなたが御恵みを下された人々の道に，あなたの怒りを受けし者，また踏み迷える人々の道ではなく。 わたしたちを正しい道に導きたまえ，"
-                        }
-                    }
-                }
-            },
-            "korean": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "자비로우시고 자애로우신 하나님의 이름으로",
-                            "verse 1:2": "온 우주의 주님이신 하나님께찬미를 드리나이다",
-                            "verse 1:3": "그분은 자애로우시고 자비로 우시며",
-                            "verse 1:4": "심판의 날을 주관하시도다",
-                            "verse 1:5": "우리는 당신만을 경배하오며 당신에게만 구원을 비노니",
-                            "verse 1:6": "저희들을 올바른 길로 인도하여 주시옵소서",
-                            "verse 1:7": "그 길은 당신께서 축복을 내리신 길이며 노여움을 받은 자나방황하는 자들이 걷지않는 가장 올바른 길이옵니다"
-                        }
-                    }
-                }
-            },
-            "kurdish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "به ناوی خوای به‌خشنده‌ی میهره‌بان (به ناوی ئه‌و خوایه‌ی كانگای ڕه‌حمه‌ت و سۆزو به‌زه‌ییه‌).",
-                            "verse 1:2": "‌سوپاس و ستایش هه‌ر شایسته‌ی خوایه و بۆ خوایه‌، که خاوه‌ن و په‌روه‌ردگاری هه‌موو جیهانیان و هه‌موو بوونه‌وه‌ره.",
-                            "verse 1:3": "به‌خشنده‌ی میهره‌بان‌، کانگای ڕه‌حمه‌ت و میهره‌بانیه (ڕه‌حمه‌تی له دنیادا هه‌موو شتێکی گرتۆته‌وه‌، به‌ڵام له قیامه‌تدا ته‌نها بۆ ئیماندارانه‌).",
-                            "verse 1:4": "خاوه‌ن و سه‌رداری ڕۆژی پاداشت و سزایه (پادشای ڕۆژی قیامه‌ته که دادپه‌روه‌ری ڕه‌هاو بێ سنووری تێدا به‌رپا ده‌کات).",
-                            "verse 1:5": "خوایه‌، ته‌نها هه‌ر تۆ ده‌په‌رستین و هه‌ر له‌تۆش داوای یارمه‌تی و پشتیوانی ده‌که‌ین (له کاروباری دین و دنیاماندا، به‌که‌سی تر له به‌ده‌کانت ناکرێت).",
-                            "verse 1:6": "خوایه به‌رده‌وام ڕێنمووییمان بفه‌رموو بۆ ئه‌م ڕێبازی ڕاست و دروستی ئیسلامه‌.",
-                            "verse 1:7": "که به‌رنامه و ڕێبازی ئه‌وانه‌یه له نازو نیعمه‌تی خۆت به‌هره‌وه‌رت کردوون، نه‌مانخه‌یته سه‌ر ڕێبازی ئه‌وانه‌ی خه‌شم و قینیان لێگیراوه (به‌هۆی ئه‌وه‌وه ده‌یزانن و لایانداوه‌)، هه‌روه‌ها نه‌مانخاته سه‌ر ڕێبازی ئه‌وانه‌ش، که سه‌رگه‌ردان و گومڕان (به‌هۆی لاساری و یاخی بوون و نه‌زانینیانه‌وه‌) ئیسلامه‌."
-                        }
-                    }
-                }
-            },
-            "malay": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "Dengan nama Allah, Yang Maha Pemurah, lagi Maha Mengasihani.",
-                            "verse 1:2": "Segala puji tertentu bagi Allah, Tuhan yang Memelihara dan Mentadbirkan sekalian alam.",
-                            "verse 1:3": "Yang Maha Pemurah, lagi Maha Mengasihani.",
-                            "verse 1:4": "Yang Menguasai pemerintahan hari Pembalasan (hari akhirat).",
-                            "verse 1:5": "Engkaulah sahaja (Ya Allah) Yang Kami sembah dan kepada Engkaulah sahaja kami memohon pertolongan.",
-                            "verse 1:6": "Tunjukilah kami jalan yang lurus.",
-                            "verse 1:7": "Iaitu jalan orang-orang yang Engkau telah kurniakan nikmat kepada mereka, bukan (jalan) orang-orang yang Engkau telah murkai dan bukan pula (jalan) orang-orang yang sesat."
-                        }
-                    }
-                }
-            },
-            "persian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "به نام خداوند بخشنده بخشايشگر",
-                            "verse 1:2": "ستايش مخصوص خداوندى است كه پروردگار جهانيان است",
-                            "verse 1:3": "(خداوندى كه) بخشنده و بخشايشگر است (و رحمت عام و خاصش همگان را فرا گرفته)",
-                            "verse 1:4": "(خداوندى كه) مالك روز جزاست",
-                            "verse 1:5": "(پروردگارا!) تنها تو را مى‏پرستيم; و تنها از تو يارى مى‏جوييم",
-                            "verse 1:6": "ما را به راه راست هدايت كن",
-                            "verse 1:7": "راه كسانى كه آنان را مشمول نعمت خود ساختى; نه كسانى كه بر آنان غضب كرده‏اى; و نه گمراهان"
-                        }
-                    }
-                }
-            },
-            "portuguese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "Louvado seja Deus, Senhor do Universo,",
-                            "verse 1:2": "Clemente, o Misericordioso,",
-                            "verse 1:3": "Soberano do Dia do Juízo.",
-                            "verse 1:4": "Só a Ti adoramos e só de Ti imploramos ajuda!",
-                            "verse 1:5": "Guia-nos à senda reta,",
-                            "verse 1:6": "À senda dos que agraciaste, não à dos abominados, nem à dos extraviados."
-                        }
-                    }
-                }
-            },
-            "romanian": {
-                "translators": {
-                    "1": {
-                        "Lucrarea (traducere úi editare) a fost realizată de către": {
-                            "verse 1:1": "În numele lui Allah Cel Milostiv, Îndurãtor [Ar-Rahman, Ar-Rahim] ,",
-                            "verse 1:2": "Laudã lui Allah, al lumilor Stãpânitor,",
-                            "verse 1:3": "Cel Milostiv, Îndurãtor,",
-                            "verse 1:4": "În Ziua de Apoi Stãpânul Cârmuitor,",
-                            "verse 1:5": "Numai pe Tine Te adorãm, numai la Tine cerem ajutor,",
-                            "verse 1:6": "Pe drumul drept Tu fii-ne Cãlãuzitor,",
-                            "verse 1:7": "Drumul celor cu care fost-ai Tu dãruitor, nu al celor pe care Tu Te-ai mâniat,nici al rãtãciților."
-                        }
-                    },
-                    "2": {
-                        "George Grigore, Coranul": {
-                            "verse 1:1": "În numele lui Dumnezeu cel Milos şi Milostiv.",
-                            "verse 1:2": "Slavă lui Dumnezeu, Domnul lumilor,",
-                            "verse 1:3": "Milosul, Milostivul,",
-                            "verse 1:4": "Stăpânul Zilei Judecăţii!",
-                            "verse 1:5": "Ţie ne închinăm, Ţie îţi cerem ajutorul.",
-                            "verse 1:6": "Călăuzeşte-ne pe Calea cea Dreaptă,",
-                            "verse 1:7": "calea celor binecuvântaţi de Tine, şi nu a celor care Te-au supărat, şi nici a celor rătăciţi."
-                        }
-                    }
-                }
-            },
-            "russian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "Во имя Аллаха,Всемилостивого, Милосердного!",
-                            "verse 1:2": "Хвала Аллаху1, Господу миров1а!",
-                            "verse 1:3": "Всемилостив и милосерден (Он Один),",
-                            "verse 1:4": "Дня Судного Один Он властелин.",
-                            "verse 1:5": "Мы предаемся лишь Тебе1бИ лишь к Тебе о помощи взываем:",
-                            "verse 1:6": "«Направь прямой стезею нас,",
-                            "verse 1:7": "Стезею тех,Кто милостью Твоею одарен,А не стезею тех, на ком Твой гнев,И не стезей заблудших»."
-                        }
-                    }
-                }
-            },
-            "spanish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "¡En el nombre de Alá, el Compasivo, el Misericordioso!",
-                            "verse 1:2": "Alabado sea Alá, Señor del universo,",
-                            "verse 1:3": "el Compasivo, el Misericordioso,",
-                            "verse 1:4": "Dueño del día del Juicio,",
-                            "verse 1:5": "A Ti solo servimos y a Ti solo imploramos ayuda.",
-                            "verse 1:6": "Dirígenos por la vía recta,",
-                            "verse 1:7": "la vía de los que Tú has agraciado, no de los que han incurrido en la ira, ni de los extraviados."
-                        }
-                    }
-                }
-            },
-            "tamil": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "அனைத்துப்புகழும்,அகிலங்கள் எல்லாவற்றையும் படைத்து வளர்த்துப் பரிபக்குவப்படுத்தும் (நாயனான) அல்லாஹ்வுக்கே ஆகும்.",
-                            "verse 1:2": "(அவன்) அளவற்ற அருளாளன், நிகரற்ற அன்புடையோன்.",
-                            "verse 1:3": "(அவனே நியாயத்) தீர்ப்பு நாளின் அதிபதி(யும் ஆவான்).",
-                            "verse 1:4": "(இறைவா!) உன்னையே நாங்கள் வணங்குகிறோம், உன்னிடமே நாங்கள் உதவியும் தேடுகிறோம்.",
-                            "verse 1:5": "நீ எங்களை நேர் வழியில் நடத்துவாயாக!",
-                            "verse 1:6": "(அது) நீ எவர்களுக்கு அருள் புரிந்தாயோ அவ்வழி.",
-                            "verse 1:7": "(அது) உன் கோபத்துக்கு ஆளானோர் வழியுமல்ல, நெறி தவறியோர் வழியுமல்ல."
-                        }
-                    }
-                }
-            },
-            "thai": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "ด้วยพระนามแห่งอัลลอฮ์ ผู้ทรงเมตตา ผู้ทรงปรานี",
-                            "verse 1:2": "มวลการสรรเสริญเป็นสิทธิ์ของอัลลอฮ์ ผู้ทรงอภิบาลโลกทั้งหลาย",
-                            "verse 1:3": "ผู้ทรงยิ่งในความเมตตา ผู้ทรงยิ่งในความกรุณา",
-                            "verse 1:4": "ผู้ทรงสิทธิอำนาจในวันตอบแทน",
-                            "verse 1:5": "เฉพาะพระองค์เท่านั้นที่เราขอนมัสการ และเฉพาะพระองค์เท่านั้นที่เราขอความช่วยเหลือ",
-                            "verse 1:6": "โปรดชี้นำเราสู่แนวทางอันเที่ยงตรงด้วยเถิด",
-                            "verse 1:7": "แนวทางของบรรดาผู้ที่พระองค์ ได้ทรงโปรดปรานแก่พวกเขา มิใช่แนวทางของพวกที่ถูกกริ้ว และมิใช่ (แนวทางของ) พวกที่หลงผิด"
-                        }
-                    }
-                }
-            },
-            "turkish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "(Bismillâhirrahmânirrahîm) Rahmân ve rahîm olan Allah'ın adıyla.",
-                            "verse 1:2": "Hamd (övme ve övülme), âlemlerin Rabbi Allah'a mahsustur.",
-                            "verse 1:3": "O, rahmândır ve rahîmdir.",
-                            "verse 1:4": "Ceza gününün mâlikidir.",
-                            "verse 1:5": "Rabbimiz!) Ancak sana kulluk ederiz ve yalnız senden medet umarız.",
-                            "verse 1:6": "Bize doğru yolu göster.",
-                            "verse 1:7": "Kendilerine lütuf ve ikramda bulunduğun kimselerin yolunu;gazaba uğramışların ve sapmışların yolunu değil!"
-                        }
-                    }
-                }
-            },
-            "urdu": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "شروع خدا کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے",
-                            "verse 1:2": "اللہ کے نام سے شروع جو نہايت مہربان ہميشہ رحم فرمانے والا ہے",
-                            "verse 1:3": "سب طرح کی تعریف خدا ہی کو (سزاوار) ہے جو تمام مخلوقات کا پروردگار ہے",
-                            "verse 1:4": "سب تعريفيں اللہ ہي کے لئے ہيں جو تمام جہانوں کي پرورش فرمانے والا ہےo",
-                            "verse 1:5": "نہايت مہربان بہت رحم فرمانے والا ہےo",
-                            "verse 1:6": "بڑا مہربان نہایت رحم والا",
-                            "verse 1:7": "انصاف کے دن کا حاکم",
-                            "verse 1:8": "روزِ جزا کا مالک ہےo",
-                            "verse 1:9": "(اے اللہ!) ہم تيري ہي عبادت کرتے ہيں اور ہم تجھ ہي سے مدد چاہتے ہيںo",
-                            "verse 1:10": "(اے پروردگار) ہم تیری ہی عبادت کرتے ہیں اور تجھ ہی سے مدد مانگتے ہیں",
-                            "verse 1:11": "ہم کو سیدھے رستے چلا ان لوگوں کے رستے جن پر تو اپنا فضل وکرم کرتا رہا",
-                            "verse 1:12": "ہميں سيدھا راستہ دکھاo",
-                            "verse 1:13": "ان لوگوں کا راستہ جن پر تو نے انعام فرماياo ان لوگوں کا نہيں جن پر غضب کيا گيا ہے اور نہ (ہي) گمراہوں کاo",
-                            "verse 1:14": "نہ ان کے جن پر غصے ہوتا رہا اور نہ گمراہوں کے کاo"
-                        }
-                    }
-                }
-            },
-            "uzbek": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 1:1": "Меҳрибон ва раҳмли Аллоҳнинг номи билан бошлайман.",
-                            "verse 1:2": "Барча мақтов, шукрлар оламларнинг тарбиячиси Аллоҳга бўлсин.",
-                            "verse 1:3": "У Роҳман ва Раҳийм.",
-                            "verse 1:4": "У қиёмат кунининг подшоҳи, эгаси.",
-                            "verse 1:5": "Фақат сенгагина ибодат қиламиз ва фақат сендангина ёрдам сўраймиз.",
-                            "verse 1:6": "Бизни тўғри йўлга бошлагин.",
-                            "verse 1:7": "Ўзинг неъмат берганларнинг йўлига (бошлагин), ғазабга дучор бўлганларнинг йўлига эмас, адашганларникига ҳам эмас."
-                        }
-                    }
-                }
-            }
+        "Albanian": {
+            "verse 1:1": "Me emër të Allahut, Mëshirues dhe Përdëllimtar i Madh.",
+            "verse 1:2": "Çdo lavdërim i përket Allahut (Perëndisë), Zotit të Gjithësisë",
+            "verse 1:3": "Mëshirues dhe Përdëllimtar i Madh.",
+            "verse 1:4": "Sunduesit të ditës së gjukimit.",
+            "verse 1:5": "Vetëm Ty të adhurojmë dhe vetëm prej Teje ndihmë kërkojmë!",
+            "verse 1:6": "Udhëzona në rrugë të drejtë.",
+            "verse 1:7": "Në rrugën e atyre që u ke dhuruar mirësi. E jo në (rrugën) e atyre që kanë shkaktuar pezmin (Tënd), as në rrugën e atyre që janë të humbur!"
+        },
+        "Amharic": {
+            "verse 1:1": "በአላህ ስም እጅግ በጣም ሩኅሩህ በጣም አዛኝ በኾነው፡፡",
+            "verse 1:2": "ምስጋና ለአላህ ይገባው የዓለማት ጌታ ለኾነው፤",
+            "verse 1:3": "እጅግ በጣም ርኅሩህ በጣም አዛኝ",
+            "verse 1:4": "የፍርዱ ቀን ባለቤት ለኾነው፡፡",
+            "verse 1:5": "አንተን ብቻ እንግገዛለን፤ አንተንም ብቻ እርዳታን እንለምናለን፡፡",
+            "verse 1:6": "ቀጥተኛውን መንገድ ምራን፡፡",
+            "verse 1:7": "የእነዚያን በነርሱ ላይ በጎ የዋልክላቸውን በነሱ ላይ ያልተቆጣህባቸውንና ያልተሳሳቱትንም ሰዎች መንገድ (ምራን፤ በሉ)፡፡"
+        },
+        "Arabic": {
+            "verse 1:1": "ِميِحَّرلا ِنَٰمْحَّرلا ِهَّللا ِمْسِب",
+            "verse 1:2": "َنيِمَلاَعْلا ِّبَر ِهَّلِل ُدْمَحْلا",
+            "verse 1:3": "ِميِحَّرلا ِنَٰمْحَّرلا",
+            "verse 1:4": "ِنيِّدلا ِمْوَي ِكِلاَم",
+            "verse 1:5": "ُنيِعَتْسَن َكاَّيِإَو ُدُبْعَن َكاَّيِإ",
+            "verse 1:6": "َميِقَتْسُمْلا َطاَرِّصلا اَنِدْها",
+            "verse 1:7": "َنيِّلاَّضلا اَلَو ْمِهْيَلَع ِبوُضْغَمْلا ِرْيَغ ْمِهْيَلَع َتْمَعْنَأ َنيِذَّلا َطاَرِص"
+        },
+        "Azerbaijani": {
+            "verse 1:1": "Mərhəmətli və Rəhmli Allahın adı ilə!",
+            "verse 1:2": "Həmd olsun aləmlərin Rəbbi Allaha,",
+            "verse 1:3": "Mərhəmətli və Rəhmliyə,",
+            "verse 1:4": "Haqq-hesab gününün Hökmdarına!",
+            "verse 1:5": "Biz yalnız Sənə ibadət edir və yalnız Səndən kömək diləyirik.",
+            "verse 1:6": "Bizi doğru yola yönəlt –",
+            "verse 1:7": "nemət bəxş etdiyin şəxslərin yoluna, qəzəbə uğramışların və azmışların yoluna yox!"
+        },
+        "Bengali": {
+            "verse 1:1": "শুরু করছি আল্লাহর নামে যিনি পরম করুণাময়, অতি দয়ালু।",
+            "verse 1:2": "যাবতীয় প্রশংসা আল্লাহ তাআলার যিনি সকল সৃষ্টি জগতের পালনকর্তা।",
+            "verse 1:3": "যিনি নিতান্ত মেহেরবান ও দয়ালু।",
+            "verse 1:4": "যিনি বিচার দিনের মালিক।",
+            "verse 1:5": "আমরা একমাত্র তোমারই ইবাদত করি এবং শুধুমাত্র তোমারই সাহায্য প্রার্থনা করি।",
+            "verse 1:6": "আমাদেরকে সরল পথ দেখাও,",
+            "verse 1:7": "সে সমস্ত লোকের পথ, যাদেরকে তুমি নেয়ামত দান করেছ। তাদের পথ নয়, যাদের প্রতি তোমার গজব নাযিল হয়েছে এবং যারা পথভ্রষ্ট হয়েছে।"
+        },
+        "Berber Amazigh": {
+            "verse 1:1": "S yisem n Öebbi, Aênin Ipêunun,",
+            "verse 1:2": "Ccekôan i Öebbi, Mass imavalen,",
+            "verse 1:3": "Aênin Ipêunun,",
+            "verse 1:4": "Agellid n wass iqeîîiyen.",
+            "verse 1:5": "D Keçç ay naâbed, d Keçç ay nepper d Amâ²iwen;",
+            "verse 1:6": "Awi ya$ d ubrid iweqmen,",
+            "verse 1:7": "Abrid n wid i T$atev; ur n wid i K isserfayen, ne$ n im$eôôqen."
+        },
+        "Bosnian": {
+            "verse 1:1": "U ime Allaha, Milostivog, Samilosnog!",
+            "verse 1:2": "Tebe, Allaha, Gospodara svjetova, hvalimo,",
+            "verse 1:3": "Milostivog, Samilosnog,",
+            "verse 1:4": "Vladara Dana sudnjeg,",
+            "verse 1:5": "Tebi se klanjamo i od Tebe pomoć tražimo!",
+            "verse 1:6": "Uputi nas na Pravi put,",
+            "verse 1:7": "na Put onih kojima si milost Svoju darovao, a ne onih koji su protiv sebe srdžbu izazvali, niti onih koji su zalutali!"
+        },
+        "Bulgarian": {
+            "verse 1:1": "В името на Аллах, Всемилостивия, Милосърдния!",
+            "verse 1:2": "Хвала на Аллах - Господа на световете,",
+            "verse 1:3": "Всемилостивия, Милосърдния,",
+            "verse 1:4": "Владетеля на Съдния ден!",
+            "verse 1:5": "Само на Теб служим и Теб за подкрепа зовем.",
+            "verse 1:6": "Насочи ни по правия път,",
+            "verse 1:7": "пътя на тези, които си дарил с благодат, а не на [тези], над които тегне гняв, нито на заблудените!"
+        },
+        "Chinese": {
+            "verse 1:1": "奉至仁至慈的真主之名",
+            "verse 1:2": "一切赞颂全归真主，众世界 的主，",
+            "verse 1:3": "至仁至慈的主，",
+            "verse 1:4": "报应日的主，",
+            "verse 1:5": "我们只崇拜你，只求你祐助",
+            "verse 1:6": "求你引领我们正路，",
+            "verse 1:7": "你所祐助者的路，不是受谴怒者的路，也不是迷误者的路。"
+        },
+        "Danish": {
+            "verse 1:1": "In naam van Allah, de Barmhartige, de Genadevolle",
+            "verse 1:2": "Alle lof zij Allah, de Heer der Werelden",
+            "verse 1:3": "De Barmhartige, de Genadevolle",
+            "verse 1:4": "Meester van de Dag des Oordeels",
+            "verse 1:5": "U alleen aanbidden wij en U alleen smeken wij om hulp",
+            "verse 1:6": "Leid ons op het rechte pad",
+            "verse 1:7": "Het pad dergenen, aan wie Gij gunsten hebt geschonken - niet dat van hen, op wie toorn is nedergedaald, noch dat der dwalenden"
+        },
+        "Dutch": {
+            "verse 1:1": "In de naam van Allah, de Erbarmer, de Meest Barmhartige.",
+            "verse 1:2": "Alle lof zij Allah, de Heer der Werelden.",
+            "verse 1:3": "De Erbarmer, de Meest Barmhartige.",
+            "verse 1:4": "De Heerser op de Dag des Oordeels.",
+            "verse 1:5": "U alleen aanbidden wij en U alleen vragen wij om hulp.",
+            "verse 1:6": "Leid ons op het rechte Pad.",
+            "verse 1:7": "Het Pad van degenen aan wie U gunsten hebt geschonken, niet van degenen op wie de toorn rust en niet dat van de dwalenden."
+        },
+        "English": {
+            "verse 1:1": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+            "verse 1:2": "[All] praise is [due] to Allah, Lord of the worlds -",
+            "verse 1:3": "The Entirely Merciful, the Especially Merciful,",
+            "verse 1:4": "Sovereign of the Day of Recompense.",
+            "verse 1:5": "It is You we worship and You we ask for help.",
+            "verse 1:6": "Guide us to the straight path -",
+            "verse 1:7": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray."
+        },
+        "Filipino": {
+            "verse 1:1": "Sa Ngalan ni Allah, ang Pinakamahabagin, ang Pinakamaawain",
+            "verse 1:2": "LuwalhatiinsiAllah, angTagapanustos atTagapagtangkilik ng lahat ng mga nilalang",
+            "verse 1:3": "Ang Pinakamahabagin, ang Pinakamaawain",
+            "verse 1:4": "Ang Panginoon (o Hukom) sa Araw ng Paghatol",
+            "verse 1:5": "Kayo lamang ang aming sinasamba, at Kayo lamang ang aming hinihingan ng kalinga",
+            "verse 1:6": "Inyong patnubayan kami sa Matuwid na Landas",
+            "verse 1:7": "Sa landas ng mga ginawaran Ninyo ng Inyong mga biyaya at hindi sa landas na umaani ng Inyong pagkapoot, gayundin naman ay hindi sa landas ng mga napaligaw sa patnubay"
+        },
+        "French": {
+            "verse 1:1": "Au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux.",
+            "verse 1:2": "Louange à Allah, Seigneur de l'univers.",
+            "verse 1:3": "Le Tout Miséricordieux, le Très Miséricordieux,",
+            "verse 1:4": "Maître du Jour de la rétribution.",
+            "verse 1:5": "C'est Toi [Seul] que nous adorons, et c'est Toi [Seul] dont nous implorons secours.",
+            "verse 1:6": "Guide-nous dans le droit chemin,",
+            "verse 1:7": "le chemin de ceux que Tu as comblés de faveurs, non pas de ceux qui ont encouru Ta colère, ni des égarés."
+        },
+        "Fulah": {
+            "verse 1:1": "Mi fuɗɗorii innde Allah jon yurmeende huuɓunde juulɓe e heeferɓe fow ka aduno, jooma yurmeende hertornde julɓe ɓen tun ka laakara",
+            "verse 1:2": "Yettoore nden ko Allah jooma tageefu On woodani",
+            "verse 1:3": "Jooma yurmeende huɓtidinnde e heeriinde",
+            "verse 1:4": "Jooma ñalngu njoɓdiiji",
+            "verse 1:5": "Ko Aan tan min ndewata te ko Aan tan min mballintoo",
+            "verse 1:6": "Feewnu min e laawol pooccingol",
+            "verse 1:7": "Laawol ngol ɓeen ɓe neemin-ɗaa ɓe ngonaa tikkanaaɓe te ɓe majjaani"
+        },
+        "German": {
+            "verse 1:1": "Im Namen Allahs, des Allerbarmers, des Barmherzigen.",
+            "verse 1:2": "(Alles) Lob gehört Allah, dem Herrn der Welten,",
+            "verse 1:3": "dem Allerbarmer, dem Barmherzigen,",
+            "verse 1:4": "dem Herrscher am Tag des Gerichts.",
+            "verse 1:5": "Dir allein dienen wir, und zu Dir allein flehen wir um Hilfe.",
+            "verse 1:6": "Leite uns den geraden Weg,",
+            "verse 1:7": "den Weg derjenigen, denen Du Gunst erwiesen hast, nicht derjenigen, die (Deinen) Zorn erregt haben, und nicht der Irregehenden!"
+        },
+        "Hausa": {
+            "verse 1:1": "Da sũnan Allah, Mai rahama, Mai jin ƙai.",
+            "verse 1:2": "Godiya ta tabbata ga Allah, Ubangijin halittu;",
+            "verse 1:3": "Mai rahama, Mai jin ƙai;",
+            "verse 1:4": "Mai nuna Mulkin Rãnar Sakamako.",
+            "verse 1:5": "Kai muke bauta wa, kuma Kai muke neman taimakonKa.",
+            "verse 1:6": "Ka shiryar da mu ga hanya madaidaiciya.",
+            "verse 1:7": "Hanyar waɗanda Ka yi wa ni'ima, ba waɗanda aka yi wa fushi ba, kuma ba ɓatattu ba."
+        },
+        "Hindi": {
+            "verse 1:1": "अल्लाह के नाम से जो रहमान व रहीम है।",
+            "verse 1:2": "तारीफ़ अल्लाह ही के लिये है जो तमाम क़ायनात का रब है।",
+            "verse 1:3": "रहमान और रहीम है।",
+            "verse 1:4": "रोज़े जज़ा का मालिक है।",
+            "verse 1:5": "हम तेरी ही इबादत करते हैं, और तुझ ही से मदद मांगते है।",
+            "verse 1:6": "हमें सीधा रास्ता दिखा।",
+            "verse 1:7": "उन लोगों का रास्ता जिन पर तूने इनाम फ़रमाया, जो माअतूब नहीं हुए, जो भटके हुए नहीं है।"
+        },
+        "Indonesian": {
+            "verse 1:1": "Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang.",
+            "verse 1:2": "Segala puji bagi Allah, Tuhan semesta alam.",
+            "verse 1:3": "Maha Pemurah lagi Maha Penyayang.",
+            "verse 1:4": "Yang menguasai di Hari Pembalasan.",
+            "verse 1:5": "Hanya Engkaulah yang kami sembah, dan hanya kepada Engkaulah kami meminta pertolongan.",
+            "verse 1:6": "Tunjukilah kami jalan yang lurus,",
+            "verse 1:7": "(yaitu) Jalan orang-orang yang telah Engkau beri nikmat kepada mereka; bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) mereka yang sesat."
+        },
+        "Italian": {
+            "verse 1:1": "In nome di Allah, il Compassionevole, il Misericordioso",
+            "verse 1:2": "La lode [appartiene] ad Allah, Signore dei mondi",
+            "verse 1:3": "il Compassionevole, il Misericordioso,",
+            "verse 1:4": "Re del Giorno del Giudizio.",
+            "verse 1:5": "Te noi adoriamo e a Te chiediamo aiuto.",
+            "verse 1:6": "Guidaci sulla retta via,",
+            "verse 1:7": "la via di coloro che hai colmato di grazia, non di coloro che [sono incorsi] nella [Tua] ira, né degli sviati."
+        },
+        "Japanese": {
+            "verse 1:1": "慈悲あまねく慈愛深きアッラーの御名において。",
+            "verse 1:2": "万有の主，アッラーにこそ凡ての称讃あれ，",
+            "verse 1:3": "慈悲あまねく慈愛深き御方，",
+            "verse 1:4": "最後の審きの日の主宰者に。",
+            "verse 1:5": "わたしたちはあなたにのみ崇め仕え，あなたにのみ御助けを請い願う。",
+            "verse 1:6": "わたしたちを正しい道に導きたまえ，",
+            "verse 1:7": "あなたが御恵みを下された人々の道に，あなたの怒りを受けし者，また踏み迷える人々の道ではなく。"
+        },
+        "Jawa": {
+            "verse 1:1": "Awit ingkang asma Allah kang Maha Murah tur kang Maha Asih",
+            "verse 1:2": "Kabeh puji iku kagungane Allah kang mangerani ’alam kabeh",
+            "verse 1:3": "Kang Maha Murah tur kang Maha Asih",
+            "verse 1:4": "Kang ngratoni ing dina Agama",
+            "verse 1:5": "Namung dhumateng Padhuka kawula manembah, lan namung dhumateng Padhuka kawula nyuwun pitulungan",
+            "verse 1:6": "Dhuh Allah, mugi nedahna margi leres dumateng kawula",
+            "verse 1:7": "(Inggih punika) marginipun para tiyang ingkang sami padhuka paringi nikmat dede (marginipun) tiyang ingkang sami kesasar. (Mugi-mugi Panjenengan nyembadhani panyuwun kawula)"
+        },
+        "Kazakh": {
+            "verse 1:1": "Аса Қайырымды, ерекше Мейірімді Аллаһтың атымен",
+            "verse 1:2": "Барлық мақтау әлемдердің Раббысы Аллаһқа",
+            "verse 1:3": "аса Қайырымды, ерекше Мейірімдіге",
+            "verse 1:4": "Есеп күнінің Билеушісіне",
+            "verse 1:5": "Саған ғана құлшылық жасаймыз әрі Сенен ғана жәрдем тілейміз",
+            "verse 1:6": "Бізді тура жолмен жүргізе гөр",
+            "verse 1:7": "игілікке бөлегендеріңнің жолымен! Ашуға ұшырағандардың және адасқандардың жолымен емес"
+        },
+        "Korean": {
+            "verse 1:1": "가장 자비로우시고 가장 자애로우신 하나님의 이름으로자비로우시고 자애로우신 하나님의 이름으로",
+            "verse 1:2": "모든 찬미는 만유의 주님이신 하나님의 것이라온 우주의 주님이신 하나님께찬미를 드리나이다",
+            "verse 1:3": "가장 자비로우신 분이시며 가장 자애로우신 분그분은 자애로우시고 자비로 우시며",
+            "verse 1:4": "심판의 날의 집권자심판의 날을 주관하시도다",
+            "verse 1:5": "저희는 당신만을 경배하며 당신께만 도움을 요청합니다우리는 당신만을 경배하오며 당신에게만 구원을 비노니",
+            "verse 1:6": "저희를 올곧은 길로 인도하여 주십시오저희들을 올바른 길로 인도하여 주시옵소서",
+            "verse 1:7": "그 길은 당신께서 은총을 베푸신 자들의 길로서, 당신의 노여움을 산 자들의 길도 아니며 방황하는 자들의 길도 아닙니다그 길은 당신께서 축복을 내리신 길이며 노여움을 받은 자나방황하는 자들이 걷지않는 가장 올바른 길이옵니다"
+        },
+        "Kurdish": {
+            "verse 1:1": "Bi navê Yezdanê Dilovan ê Dilovînبه ناوی خوای به‌خشنده‌ی میهره‌بان (به ناوی ئه‌و خوایه‌ی كانگای ڕه‌حمه‌ت و سۆزو به‌زه‌ییه‌).",
+            "verse 1:2": "Çiqas pesindan û sipasî hene! Hemû ji bona Xuda yê cihanê ra ne‌سوپاس و ستایش هه‌ر شایسته‌ی خوایه و بۆ خوایه‌، که خاوه‌ن و په‌روه‌ردگاری هه‌موو جیهانیان و هه‌موو بوونه‌وه‌ره.",
+            "verse 1:3": "Ê mihrîban î dilovanبه‌خشنده‌ی میهره‌بان‌، کانگای ڕه‌حمه‌ت و میهره‌بانیه (ڕه‌حمه‌تی له دنیادا هه‌موو شتێکی گرتۆته‌وه‌، به‌ڵام له قیامه‌تدا ته‌نها بۆ ئیماندارانه‌).",
+            "verse 1:4": "Xudanê roja xelat û celatêخاوه‌ن و سه‌رداری ڕۆژی پاداشت و سزایه (پادشای ڕۆژی قیامه‌ته که دادپه‌روه‌ری ڕه‌هاو بێ سنووری تێدا به‌رپا ده‌کات).",
+            "verse 1:5": "Em her te dihebînin û em tenê ji te alîkarî dixwazinخوایه‌، ته‌نها هه‌ر تۆ ده‌په‌رستین و هه‌ر له‌تۆش داوای یارمه‌تی و پشتیوانی ده‌که‌ین (له کاروباری دین و دنیاماندا، به‌که‌سی تر له به‌ده‌کانت ناکرێت).",
+            "verse 1:6": "Tu me bide ser rêya rastînخوایه به‌رده‌وام ڕێنمووییمان بفه‌رموو بۆ ئه‌م ڕێبازی ڕاست و دروستی ئیسلامه‌.",
+            "verse 1:7": "Rêya ên ku te qencî bi wan kiriye; ne ên xeşim li wan bûye û ne ên rê şaş kirineکه به‌رنامه و ڕێبازی ئه‌وانه‌یه له نازو نیعمه‌تی خۆت به‌هره‌وه‌رت کردوون، نه‌مانخه‌یته سه‌ر ڕێبازی ئه‌وانه‌ی خه‌شم و قینیان لێگیراوه (به‌هۆی ئه‌وه‌وه ده‌یزانن و لایانداوه‌)، هه‌روه‌ها نه‌مانخاته سه‌ر ڕێبازی ئه‌وانه‌ش، که سه‌رگه‌ردان و گومڕان (به‌هۆی لاساری و یاخی بوون و نه‌زانینیانه‌وه‌)"
+        },
+        "Kyrgyz": {
+            "verse 1:1": "Ырайымдуу, Мээримдүү Аллаһтын аты менен (баштаймын)",
+            "verse 1:2": "Ааламдардын Раббиси — Аллаһка алкыш-мактоо болсун",
+            "verse 1:3": "Ал—- Ырайымдуу, Мээримдүү",
+            "verse 1:4": "Кыямат Күндүн падышасы",
+            "verse 1:5": "«Жалгыз Сага гана сыйынабыз жана Сенден гана жардам сурайбыз",
+            "verse 1:6": "(О, Жараткан!) Бизди Туура Жолго баштагын!“",
+            "verse 1:7": "Өзүң жакшылык берген адамдардын? жолуна (баштагын). Каарыңа учурагандардын жана адашкандардын? жолуна эмес»"
+        },
+        "Malay": {
+            "verse 1:1": "Dengan nama Allah, Yang Maha Pemurah, lagi Maha Mengasihani.",
+            "verse 1:2": "Segala puji tertentu bagi Allah, Tuhan yang memelihara dan mentadbirkan sekalian alam.",
+            "verse 1:3": "Yang Maha Pemurah, lagi Maha Mengasihani.",
+            "verse 1:4": "Yang Menguasai pemerintahan hari Pembalasan (hari Akhirat).",
+            "verse 1:5": "Engkaulah sahaja (Ya Allah) Yang Kami sembah, dan kepada Engkaulah sahaja kami memohon pertolongan.",
+            "verse 1:6": "Tunjukilah kami jalan yang lurus.",
+            "verse 1:7": "Iaitu jalan orang-orang yang Engkau telah kurniakan nikmat kepada mereka, bukan (jalan) orang-orang yang Engkau telah murkai, dan bukan pula (jalan) orang-orang yang sesat."
+        },
+        "Malayalam": {
+            "verse 1:1": "പരമകാരുണികനും കരുണാനിധിയുമായ അല്ലാഹുവിന്റെ നാമത്തില്‍ .",
+            "verse 1:2": "സ്തുതി സര്‍വ്വലോക പരിപാലകനായ അല്ലാഹുവിന്നാകുന്നു.",
+            "verse 1:3": "പരമകാരുണികനും കരുണാനിധിയും.",
+            "verse 1:4": "പ്രതിഫല ദിവസത്തിന്റെ ഉടമസ്ഥന്‍.",
+            "verse 1:5": "നിന്നെ മാത്രം ഞങ്ങള്‍ ആരാധിക്കുന്നു. നിന്നോട് മാത്രം ഞങ്ങള്‍ സഹായം തേടുന്നു.",
+            "verse 1:6": "ഞങ്ങളെ നീ നേര്‍മാര്‍ഗത്തില്‍ ചേര്‍ക്കേണമേ.",
+            "verse 1:7": "നീ അനുഗ്രഹിച്ചവരുടെ മാര്‍ഗത്തില്‍ . കോപത്തിന്ന് ഇരയായവരുടെ മാര്‍ഗത്തിലല്ല. പിഴച്ചുപോയവരുടെ മാര്‍ഗത്തിലുമല്ല."
+        },
+        "Norwegian": {
+            "verse 1:1": "I Guds, den Barmhjertiges, den Nåderikes navn",
+            "verse 1:2": "Lovet være Gud, all verdens Herre,",
+            "verse 1:3": "Han, den Barmhjertige, den Nåderike,",
+            "verse 1:4": "Han, Herren over dommens dag.",
+            "verse 1:5": "Deg tilber vi, vi søker hjelp hos Deg.",
+            "verse 1:6": "Led oss på den rette vei!",
+            "verse 1:7": "Deres vei, som Du har beredt glede, ikke deres, som har vakt Din vrede, eller deres, som har valgt den falske vei."
+        },
+        "Pashto": {
+            "verse 1:1": "د الله په نامه سره (شروع كوم) چې ډېر زیات مهربان، بې حده رحم كوونكى دى",
+            "verse 1:2": "ټول (د كمال) صفتونه خاص د الله لپاره دي چې د ټولو عالَمونو ښه پالونكى دى",
+            "verse 1:3": "ډېر زیات مهربان، بې حده رحم كوونكى دى",
+            "verse 1:4": "د بَدلې د ورځې مالك دى",
+            "verse 1:5": "مونږ خاص ستا عبادت كوو او خاص له تا نه مدد غواړو",
+            "verse 1:6": "ته مونږ ته سَمَه (نېغه) لاره وښَیَه",
+            "verse 1:7": "د هغو خلقو لاره چې تا پر هغوى باندې انعام كړى دى؛ چې نه پر هغوى باندې غضب شوى او نه ګمراهان دي"
+        },
+        "Persian": {
+            "verse 1:1": "به نام خداى بخشاينده مهربان‌",
+            "verse 1:2": "ستايش خدا را كه پروردگار جهانيان است.",
+            "verse 1:3": "آن بخشاينده مهربان،",
+            "verse 1:4": "آن فرمانرواى روز جزا.",
+            "verse 1:5": "تنها تو را مى پرستيم و تنها از تو يارى مى‌جوييم.",
+            "verse 1:6": "ما را به راه راست هدايت كن:",
+            "verse 1:7": "راه كسانى كه ايشان را نعمت داده‌اى، نه خشم گرفتگانِ بر آنها و نه گمراهان."
+        },
+        "Polish": {
+            "verse 1:1": "W Imię Boga Miłosiernego i Litościwego!",
+            "verse 1:2": "Chwała Bogu, Panu światów,",
+            "verse 1:3": "Miłosiernemu i Litościwemu,",
+            "verse 1:4": "Królowi Dnia Sądu.",
+            "verse 1:5": "Oto Ciebie czcimy i Ciebie prosimy o pomoc.",
+            "verse 1:6": "Prowadź nas drogą prostą",
+            "verse 1:7": "Drogą tych, których obdarzyłeś dobrodziejstwami; nie zaś tych, na których jesteś zagniewany, i nie tych, którzy błądzą."
+        },
+        "Portuguese": {
+            "verse 1:1": "Em nome de Deus, o Clemente, o Misericordioso.",
+            "verse 1:2": "Louvado seja Deus, Senhor do Universo,",
+            "verse 1:3": "Clemente, o Misericordioso,",
+            "verse 1:4": "Soberano do Dia do Juízo.",
+            "verse 1:5": "Só a Ti adoramos e só de Ti imploramos ajuda!",
+            "verse 1:6": "Guia-nos à senda reta,",
+            "verse 1:7": "À senda dos que agraciaste, não à dos abominados, nem à dos extraviados."
+        },
+        "Punjabi": {
+            "verse 1:1": "ਸ਼ੁਰੂ ਅੱਲਾਹ ਦੇ ਨਾਮ ਨਾਲ ਜਿਹੜਾ ਅਤਿਅੰਤ ਮਿਹਰਬਾਨ ਅਤੇ ਰਹਿਮ ਫ਼ਰਮਾਉਣ ਵਾਲਾ ਹੈ।",
+            "verse 1:2": "ਸੰਪੂਰਨ ਪ੍ਰਸੰਸਾ ਅੱਲਾਹ ਦੇ ਲਈ ਹੈ। ਜੋ ਸਾਰੇ ਜਹਾਨਾਂ ਦਾ ਪਾਲਣਹਾਰ ਹੈ।",
+            "verse 1:3": "ਅਤਿਅੰਤ ਕਿਰਪਾਲੂ ਅਤੇ ਦਿਆਲੂ ਹੈ।",
+            "verse 1:4": "ਇਨਸਾਫ਼ ਦੇ ਦਿਨ ਦਾ ਮਾਲਕ ਹੈ।",
+            "verse 1:5": "ਹੇ ਅੱਲਾਹ! ਅਸੀਂ ਤੇਰੀ ਹੀ ਬੰਦਗੀ ਕਰਦੇ ਹਾਂ ਅਤੇ ਤੇਰੇ ਤੋਂ ਹੀ ਮਦਦ ਚਾਹੁੰਦੇ ਹਾਂ।",
+            "verse 1:6": "ਸਾਨੂੰ ਸਿੱਧਾ ਰਸਤਾ ਦਿਖਾ।",
+            "verse 1:7": "ਉਨ੍ਹਾਂ ਲੋਕਾਂ ਦਾ ਰਸਤਾ (ਦਿਖਾ) ਜਿਨ੍ਹਾਂ ਤੇ ਤੁਹਾਡੀ ਕਿਰਪਾ ਹੋਈ। ਉਨ੍ਹਾਂ ਦਾ ਰਸਤਾ ਨਹੀਂ, ਜਿਨ੍ਹਾਂ ਤੇ ਤੇਰਾ ਕ੍ਰੋਧ ਹੋਇਆ ਅਤੇ ਨਾ ਉਨ੍ਹਾਂ ਲੋਕਾਂ ਦਾ ਜਿਹੜੇ ਸਿੱਧੇ ਰਸਤੇ ਤੋਂ ਭਟਕ ਗਏ।"
+        },
+        "Roman english": {
+            "verse 1:1": "Bismillaahir Rahmaanir Raheem",
+            "verse 1:2": "Alhamdu lillaahi Rabbil `aalameen",
+            "verse 1:3": "Ar-Rahmaanir-Raheem",
+            "verse 1:4": "Maaliki Yawmid-Deen",
+            "verse 1:5": "Iyyaaka na`budu wa lyyaaka nasta`een",
+            "verse 1:6": "Ihdinas-Siraatal-Mustaqeem",
+            "verse 1:7": "Siraatal-lazeena an`amta `alaihim ghayril-maghdoobi `alaihim wa lad-daaalleen"
+        },
+        "Russian": {
+            "verse 1:1": "Во имя Аллаха, Всемилостивого, Милосердного!",
+            "verse 1:2": "Хвала Аллаху, Господу миров!",
+            "verse 1:3": "Всемилостив и милосерден (Он Один),",
+            "verse 1:4": "Дня Судного Один Он властелин.",
+            "verse 1:5": "Мы предаемся лишь Тебе И лишь к Тебе о помощи взываем:",
+            "verse 1:6": "Направь прямой стезею нас,",
+            "verse 1:7": "Стезею тех, Кто милостью Твоею одарен, А не стезею тех, на ком Твой гнев, И не стезей заблудших."
+        },
+        "Sindhi": {
+            "verse 1:1": "الله ٻاجھاري مھربان جي نالي سان (شروع)",
+            "verse 1:2": "سڀ ساراھ (خاص) جھانن جي پالڻھار الله کي جڳائي.",
+            "verse 1:3": "(جو) ٻاجھارو مھربان.",
+            "verse 1:4": "قيامت جي ڏينھن جو مالڪ (آھي).",
+            "verse 1:5": "تنھنجي ئي عبادت ڪيون ٿا ۽ تو کان ئي مدد گھرون ٿا.",
+            "verse 1:6": "اسان کي سڌي واٽ ڏيکار.",
+            "verse 1:7": "جا انھن جي واٽ آھي جن تي فضل ڪيو اٿئي، نه انھن جي (واٽ) جن تي (تنھنجو) ڏمر ٿيل آھي ۽ نه گمراھن جي (واٽ)."
+        },
+        "Sinhalese": {
+            "verse 1:1": "අපරිමිත දයාන්විත අසමසම කරුණාන්විත වූ අල්ලාහ් ගේ නාමයෙනි.",
+            "verse 1:2": "සියලු ප්‍රශංසා ලෝකයන් හි පරමාධිපති වූ අල්ලාහ්ට ම ය.",
+            "verse 1:3": "අපරිමිත දයාන්විතය අසමසම කරුණාන්විත ය.",
+            "verse 1:4": "විනිශ්චය දිනයේ රජු ය.",
+            "verse 1:5": "ඔබට ම අපි නමදිමු. ඔබගෙන් ම අපි උදව් පතමු.",
+            "verse 1:6": "අපට ඍජු මඟ පෙන්වනු මැනව.",
+            "verse 1:7": "ඔබ කවරෙකු ට ආශිර්වාද කළේ ද එම මාර්ගයයි. තමන් කෙරෙහි කෝපය ට ලක් වූවන් හෝ මුළාවූවන් ගේ මාර්ගය නොව."
+        },
+        "Somali": {
+            "verse 1:1": "Magaca Eebe yaan kubillaabaynaa ee Naxariis guud iyo mid gaaraba Naxariista.",
+            "verse 1:2": "Mahad Eebaa iska leh ee barbaariyaha Caalamka ah (Koonka).",
+            "verse 1:3": "Ee naxariis guud iyo mid gaaraba naxariista.",
+            "verse 1:4": "Ee hanta maalinta abaalmarinta (Qiyaamada).",
+            "verse 1:5": "adiga unbaan ku caabudaynaa, adiga unbaana kaa kaalmo waydiisanaynaa (Eebow).",
+            "verse 1:6": "ee nagu hanuuni jidka toosan (Xaqa).",
+            "verse 1:7": "Jidka kuwii aad unicmaysay eedan u cadhoonin dhuminna."
+        },
+        "Spanish": {
+            "verse 1:1": "En el nombre de Allah, el Misericordioso, el Compasivo",
+            "verse 1:2": "Las alabanzas a Allah, Señor de los mundos.",
+            "verse 1:3": "El Misericordioso, el Compasivo.",
+            "verse 1:4": "Rey del Día de la Retribución.",
+            "verse 1:5": "Sólo a Ti te adoramos, sólo en Ti buscamos ayuda.",
+            "verse 1:6": "Guíanos por el camino recto,",
+            "verse 1:7": "el camino de los que has favorecido, no el de los que son motivo de ira, ni el de los extraviados."
+        },
+        "Swahili": {
+            "verse 1:1": "KWA JINA LA MWENYEZI MUNGU MWINGI WA REHEMA MWENYE KUREHEMU.",
+            "verse 1:2": "Sifa njema zote ni za Mwenyezi Mungu, Mola Mlezi wa viumbe vyote;",
+            "verse 1:3": "Mwingi wa Rehema Mwenye Kurehemu;",
+            "verse 1:4": "Mwenye Kumiliki Siku ya Malipo.",
+            "verse 1:5": "Wewe tu tunakuabudu, na Wewe tu tunakuomba msaada.",
+            "verse 1:6": "Tuongoe njia iliyo nyooka,",
+            "verse 1:7": "Njia ya ulio waneemesha, siyo ya walio kasirikiwa, wala walio potea."
+        },
+        "Swedish": {
+            "verse 1:1": "I GUDS, DEN NÅDERIKES, DEN BARMHÄRTIGES NAMN",
+            "verse 1:2": "Lov och pris tillkommer Gud, världarnas Herre,",
+            "verse 1:3": "den Nåderike, den Barmhärtige,",
+            "verse 1:4": "som allsmäktig råder över Domens dag!",
+            "verse 1:5": "Dig tillber vi; Dig anropar vi om hjälp.",
+            "verse 1:6": "Led oss på den raka vägen -",
+            "verse 1:7": "den väg de vandrat som Du har välsignat med Dina gåvor; inte de som har drabbats av [Din] vrede och inte de som har gått vilse!"
+        },
+        "Tajik": {
+            "verse 1:1": "Ба номи Худованди бахшояндаи меҳрубон!",
+            "verse 1:2": "Ситоиш Худоро, ки Парвардигори ҷаҳониён аст.",
+            "verse 1:3": "Бахшояндаи меҳрубон,",
+            "verse 1:4": "Фармонравои рӯзи ҷазо.",
+            "verse 1:5": "Танҳо Туро мепарастем ва танҳо аз Ту ёри меҷӯем.",
+            "verse 1:6": "Моро ба роҳи рост ҳидоят кун:",
+            "verse 1:7": "роҳи касоне, ки онҳоро неъмат додаи, на хашмгирифтагонӣ бар онҳо ва на гумроҳон."
+        },
+        "Tamil": {
+            "verse 1:1": "அளவற்ற அருளாளன், நிகரற்ற அன்பாளன், அல்லாஹ்வின் பெயரால்! (தொடங்குகிறேன்).",
+            "verse 1:2": "அனைத்துப்புகழும், அகிலங்கள் எல்லாவற்றையும் படைத்து வளர்த்துப் பரிபக்குவப்படுத்தும் (நாயனான) அல்லாஹ்வுக்கே ஆகும்.",
+            "verse 1:3": "(அவன்) அளவற்ற அருளாளன், நிகரற்ற அன்புடையோன்.",
+            "verse 1:4": "(அவனே நியாயத்) தீர்ப்பு நாளின் அதிபதி(யும் ஆவான்).",
+            "verse 1:5": "(இறைவா!) உன்னையே நாங்கள் வணங்குகிறோம், உன்னிடமே நாங்கள் உதவியும் தேடுகிறோம்.",
+            "verse 1:6": "நீ எங்களை நேர் வழியில் நடத்துவாயாக!",
+            "verse 1:7": "(அது) நீ எவர்களுக்கு அருள் புரிந்தாயோ அவ்வழி, (அது) உன் கோபத்துக்கு ஆளானோர் வழியுமல்ல, நெறி தவறியோர் வழியுமல்ல."
+        },
+        "Tatar": {
+            "verse 1:1": "Рәхимле шәфкатьле Аллаһ исеме белән башлыйм эшемне.",
+            "verse 1:2": "Чын мактау галәмнәрне, бөтен мәхлукларны тәрбияләүче Аллаһу тәгаләгә тиешле.",
+            "verse 1:3": "Аллаһу тәгалә бу дөньяда барча кешеләргә мәрхәмәтле, ягъни мөэминнәргә дә, көферләргә дә нигъмәтләрен бирә, әмма ахирәттә мөэмин бәндәләренә генә бирәчәк.",
+            "verse 1:4": "Аллаһу тәгалә, гаделлек белән хөкем итүче, ахирәт көненең патшасыдыр.",
+            "verse 1:5": "Ий тәрбиячебез Аллаһ! Без сиңа гына гыйбадәт кылабыз һәм һәр эшебездә синнән генә ярдәм сорыйбыз.",
+            "verse 1:6": "Ий тәрбиячебез Аллаһ! Безләрне туры юлга күндер! (Туры юл – Коръән һәм сөннәт юлыдыр).",
+            "verse 1:7": "Ул юлны Син әүвәлгеләргә ингам итеп бирдең, безләрне Синең ачуың төшкән вә адашкан кешеләрне бидеґәтъ һәм заләләт юлыннан башка юлга күндер, ягъни Сине ачуландырмаган һәм хак юлдан адашмаган кешеләр юлына күндер!"
+        },
+        "Telugu": {
+            "verse 1:1": "అనంత కరుణామయుడు అపార కరుణా ప్రదాత అయిన అల్లాహ్ పేరుతో",
+            "verse 1:2": "సర్వలోకాలకు ప్రభువైన అల్లాహ్ మాత్రమే సమస్త స్తోత్రాలకు అర్హుడు",
+            "verse 1:3": "అనంత కరుణామయుడు, అపార కరుణా ప్రదాత",
+            "verse 1:4": "తీర్పుదినానికి స్వామి",
+            "verse 1:5": "మేము నిన్నే ఆరాధిస్తున్నాము మరియు నీ సహాయాన్నే అర్థిస్తున్నాము",
+            "verse 1:6": "మాకు ఋజుమార్గం వైపునకు మార్గదర్శకత్వం చేయి",
+            "verse 1:7": "నీవు అనుగ్రహించిన వారి మార్గం మాత్రమే (చూపు) నీ ఆగ్రహానికి గురి అయిన వారి (మార్గం కానీ) లేక మార్గభ్రష్టులైన వారి (మార్గం కానీ) కాదు"
+        },
+        "Thai": {
+            "verse 1:1": "ด้วยพระนามของอัลลอฮฺ ผู้ทรงกรุณาปราณี ผู้ทรงเมตตาเสมอ",
+            "verse 1:2": "การสรรเสริญทั้งหลายนั้น เป็นสิทธิของอัลลอฮฺผู้เป็นพระเจ้าแห่งสากลโลก",
+            "verse 1:3": "ผู้ทรงกรุณาปราณี ผู้ทรงเมตตาเสมอ",
+            "verse 1:4": "ผู้ทรงอภิสิทธิ์แห่งวันตอบแทน",
+            "verse 1:5": "เฉพาะพระองค์เท่านั้นที่พวกข้าพระองค์เคารพอิบาดะฮฺ และเฉพาะพระองค์เท่านั้นที่พวกข้าพระองค์ขอความช่วยเหลือ",
+            "verse 1:6": "ขอพระองค์ทรงแนะนำพวกข้าพระองค์ซึ่งทางอันเที่ยงตรง",
+            "verse 1:7": "(คือ) ทางของบรรดาผู้ที่พระองค์ได้ทรงโปรดปราณแก่พวกเขา มิใช่ในทางของพวกที่ถูกกริ้ว และมิใช่ทางของพวกที่หลงผิด"
+        },
+        "Turkish": {
+            "verse 1:1": "Rahman ve Rahim olan Allah'ın adıyla:",
+            "verse 1:2": "Hamd, Alemlerin Rabbi Allah'a mahsustur.",
+            "verse 1:3": "O Rahman ve Rahim'dir,",
+            "verse 1:4": "Din Gününün sahibidir.",
+            "verse 1:5": "Ancak Sana kulluk eder ve yalnız Senden yardım dileriz.",
+            "verse 1:6": "Bizi doğru yola eriştir.",
+            "verse 1:7": "Nimete erdirdiğin kimselerin yoluna; gazaba uğrayanların, ya da sapıtanların yoluna değil."
+        },
+        "Urdu": {
+            "verse 1:1": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے",
+            "verse 1:2": "سب طرح کی تعریف خدا ہی کو (سزاوار) ہے جو تمام مخلوقات کا پروردگار ہے",
+            "verse 1:3": "بڑا مہربان نہایت رحم والا",
+            "verse 1:4": "انصاف کے دن کا حاکم",
+            "verse 1:5": "(اے پروردگار) ہم تیری ہی عبادت کرتے ہیں اور تجھ ہی سے مدد مانگتے ہیں",
+            "verse 1:6": "ہم کو سیدھے رستے چلا",
+            "verse 1:7": "ان لوگوں کے رستے جن پر تو اپنا فضل وکرم کرتا رہا نہ ان کے جن پر غصے ہوتا رہا اور نہ گمراہوں کے"
+        },
+        "Uyghur": {
+            "verse 1:1": "ناھايىتى شەپقەتلىك ۋە مېھرىبان اﷲ نىڭ ئىسمى بىلەن باشلايمەن",
+            "verse 1:2": "جىمى ھەمدۇسانا ئالەملەرنىڭ پەرۋەردىگارى اﷲ قا خاستۇر",
+            "verse 1:3": "اﷲ ناھايىتى شەپقەتلىك ۋە مېھرىباندۇر",
+            "verse 1:4": "قىيامەت كۈنىنىڭ ئىگىسىدۇر",
+            "verse 1:5": "(رەببىمىز) ساڭىلا ئىبادەت قىلىمىز ۋە سەندىنلا ياردەم تىلەيمىز",
+            "verse 1:6": "بىزنى توغرا يولغا باشلىغىن",
+            "verse 1:7": "غەزىپىڭگە يولۇققانلارنىڭ ۋە ئازغانلارنىڭ يولىغا ئەمەس، سەن ئىنئام قىلغانلارنىڭ يولىغا (باشلىغىن)"
+        },
+        "Uzbek": {
+            "verse 1:1": "Меҳрибон ва раҳмли Аллоҳнинг номи билан бошлайман.",
+            "verse 1:2": "Барча мақтов, шукрлар оламларнинг тарбиячиси Аллоҳга бўлсин.",
+            "verse 1:3": "У Роҳман ва Раҳийм...",
+            "verse 1:4": "У қиёмат кунининг подшоҳи, эгаси.",
+            "verse 1:5": "Фақат сенгагина ибодат қиламиз ва фақат сендангина ёрдам сўраймиз.",
+            "verse 1:6": "Бизни тўғри йўлга бошлагин.",
+            "verse 1:7": "Ўзинг неъмат берганларнинг йўлига (бошлагин), ғазабга дучор бўлганларнинг йўлига эмас, адашганларникига ҳам эмас."
+        },
+        "Vietnamese": {
+            "verse 1:1": "Nhân danh Allah, Đấng Độ Lượng, Đấng Khoan Dung",
+            "verse 1:2": "Alhamdulillah (xin tạ ơn, ca ngợi và tán dương Allah), Thượng Đế của vũ trụ và vạn vật.",
+            "verse 1:3": "Đấng Độ Lượng, Đấng Khoan Dung",
+            "verse 1:4": "Đấng Toàn Quyền của Ngày Thưởng Phạt",
+            "verse 1:5": "Duy chỉ Ngài bầy tôi thờ phượng và duy chỉ Ngài bầy tôi cầu xin phù hộ và trợ giúp.",
+            "verse 1:6": "Xin Ngài hướng dẫn bầy tôi đến với con đường ngay chính,",
+            "verse 1:7": "Con đường của những người đã được Ngài ban cho ân huệ, không phải con đường của những kẻ đã bị Ngài giận dữ và cũng không phải con đường của những kẻ lạc lối."
+        },
+        "Yoruba": {
+            "verse 1:1": "Ni oruko Allahu, Ajoke-aye, Asake-orun",
+            "verse 1:2": "Gbogbo ope n je ti Allahu, Oluwa gbogbo eda",
+            "verse 1:3": "Ajoke-aye, Asake-orun",
+            "verse 1:4": "Olukapa-ojo-esan",
+            "verse 1:5": "Iwo nikan ni a n josin fun. Odo Re nikan si ni a n wa oore si",
+            "verse 1:6": "Jijosin fun Allahu nikan soso ati diduro sinsin ninu ijosin Re itumo yii wa bee ninu surah Ali ‘Imron “Fi ese wa rinle sinu ’Islam ona taara.” Nitori naa",
+            "verse 1:7": "ona awon ti O se idera fun,yato si (ona) awon eni-ibinu (iyen, awon yehudi) ati (ona) awon olusina (iyen, awon nasara)"
         }
     }
 }

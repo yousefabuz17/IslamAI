@@ -5,7 +5,6 @@
     "revelation_order": 19,
     "bismillah_pre": true,
     "verses_count": 5,
-    "source": "Sayyid Abul Ala Maududi - Tafhim al-Qur'an - The Meaning of the Quran",
     "short_text": "The Surah derives its name from the word ashab al fil in the very first verse.",
     "text": [
         "The Surah derives its name from the word ashab al fil in the very first verse.",
@@ -37,505 +36,382 @@
         "Theme and Substance",
         "If Surah al-Fil is studied in the light of the historical details given above, one can fully understand well why in this Surah only Allah's inflicting His punishment on the people of the elephant has been referred to and described so briefly. It was an event of recent occurrence, and everyone in Makkah and Arabia was fully aware of it. The Arabs believed that the Ka'bah had been protected in this invasion not by any god or goddess but by Allah Almighty Himself. Then Allah alone had been invoked by the Quraish chiefs for help, and for quite a few years the people of Quraish having been impressed by this event, had worshiped none but Allah. Therefore, there was no need to mention the details in Surah al-Fil, but only a reference to it was enough so that the people of Quraish in particular, and the people of Arabia in general, should consider well in their hearts the message that the Holy Prophet Muhammad (upon whom be Allah's peace and blessings) was giving. For, the only message that he gave was that they should worship and serve none but Allah, the Only and One. Then, they should also consider that if they used force to suppress this invitation to the truth, they would only be inviting the wrath of God, Who had so completely defeated and destroyed the people of the elephants."
     ],
+    "quran-source": "`https://surahquran.com`",
     "description": "The surah that tells of the destruction of the armed force that came to be known as the company of The Elephant, after the animal they intended to use to destroy the Kaʿbah, in the generation before the advent of Islam. This surah is a reference to events that happened in 570 CE, the year of the Prophet Muḥammads birth. It takes its name from “the elephant” (al-fīl) mentioned in verse 2, which refers to the force dispatched by Abrahah (a Christian ruler of Yemen) to Mecca, that is “the men of the elephant” (aṣḥāb al-fīl). The destruction of this army is cited here to encourage the believers and warn the disbelievers.",
-    "name_translation": "THE ELEPHANT",
+    "name_translation": "The Elephant",
     "name_complex": "Al-Fîl",
     "surah_name_ar": "الفيل",
     "verses": {
-        "languages": {
-            "albanian": {
-                "translators": {
-                    "1": {
-                        "Efendi Nahi": {
-                            "verse 105:1": "Vallë, a nuk ke dëgjuar ti se si ka vepruar Zoti yt me ushtrinë (pronarët) e elefantëve?!",
-                            "verse 105:2": "A nuk ju shkuankot dinakëritë e tyre,",
-                            "verse 105:3": "e dërgoi kundër tyre tufa zogjësh – (Ebabilash),",
-                            "verse 105:4": "të cilët hedhnin mbi ta copa dheu (të forcuara si gurë),",
-                            "verse 105:5": "e i bëri ata si ndonjë gjeth që është hëngër (prej krimit – tëjes)? gurë),"
-                        }
-                    }
-                }
-            },
-            "azerbaijani": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "(Ya Peyğəmbər!) Məgər Rəbbinin fil sahiblərinə (Kə'bəni dağıtmaq üçün fillərlə Məkkənin üstünə gələn həbəş ordusuna) nələr etdiyini görmədinmi?!",
-                            "verse 105:2": "Məgər (Rəbbin) onların hiyləsini boşa çıxartmadımı?!",
-                            "verse 105:3": "Onların üstünə qatar-qatar quşlar (əbabil quşları) göndərdi.",
-                            "verse 105:4": "(O quşlar) onlara bişmiş gildən düzəlmiş (möhkəm xırda) daşlar atırdı.",
-                            "verse 105:5": "(Rəbbin) onları (həşərat tərəfindən) yeyilmiş əkin yarpağına (saman çöpünə) döndərdi!"
-                        }
-                    }
-                }
-            },
-            "bosnian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "Zar nisi čuo šta je sa vlasnicima slona Gospodar tvoj uradio!",
-                            "verse 105:2": "Zar lukavstvo njihovo nije omeo",
-                            "verse 105:3": "i protiv njih jata ptica poslao,",
-                            "verse 105:4": "koje su na njih grumenje od gline pečene bacale,",
-                            "verse 105:5": "pa ih On kao lišće koje su crvi istočili učinio? bacale,"
-                        }
-                    }
-                }
-            },
-            "bengali": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "আপনি কি দেখেননি আপনার পালনকর্তা হস্তীবাহিনীর সাথে কিরূপ ব্যবহার করেছেন?",
-                            "verse 105:2": "তিনি কি তাদের চক্রান্ত নস্যাৎ করে দেননি?",
-                            "verse 105:3": "তিনি তাদের উপর প্রেরণ করেছেন ঝাঁকে ঝাঁকে পাখী,",
-                            "verse 105:4": "যারা তাদের উপর পাথরের কংকর নিক্ষেপ করছিল।",
-                            "verse 105:5": "অতঃপর তিনি তাদেরকে ভক্ষিত তৃণসদৃশ করে দেন। করছিল।"
-                        }
-                    }
-                }
-            },
-            "bulgarian": {
-                "translators": {
-                    "1": {
-                        "Tzvetan Theophanov": {
-                            "verse 105:1": "Не видя ли [о, Мухаммад] как постъпи твоят Господ с владетелите на слона?",
-                            "verse 105:2": "Не превърна ли Той коварството им в заблуда?",
-                            "verse 105:3": "И изпрати срещу тях ята от птици,",
-                            "verse 105:4": "които ги замеряха с камъни от печена глина.",
-                            "verse 105:5": "И ги стори да приличат на проядени листа."
-                        }
-                    }
-                }
-            },
-            "chinese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "難道你不知道你的主怎樣處治象的主人們嗎？",
-                            "verse 105:2": "難道他沒有使他們的計謀 ,變成無益的嗎？",
-                            "verse 105:3": "他曾派遣成群的鳥去傷他們 ,",
-                            "verse 105:4": "以粘土石射擊他們 ,",
-                            "verse 105:5": "使他們變成吃剩的乾草一樣。 ,"
-                        }
-                    }
-                }
-            },
-            "czech": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "Neviděls, jak naložil Pán tvůj s lidmi slona?",
-                            "verse 105:2": "Což neobrátil úklad jejich ve zmatky",
-                            "verse 105:3": "a neposlal na ně v hejnech ptáky,",
-                            "verse 105:4": "kteří po nich vrhali oblázky z hlíny pálené,",
-                            "verse 105:5": "a učinil, že podobnými byli slámě ohryzané? pálené,"
-                        }
-                    }
-                }
-            },
-            "dutch": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "Hebt gij niet vernomen, hoe uw Heer de bezitters der olifanten behandelde?",
-                            "verse 105:2": "Heeft Hij hun plannen niet teniet gedaan?",
-                            "verse 105:3": "Zond Hij geen zwermen vogels op hen neer?",
-                            "verse 105:4": "En wierpen deze geen klompen klei?",
-                            "verse 105:5": "Dat hen maakte als fijn gekauwd (door het vee) stro? klei?"
-                        }
-                    }
-                }
-            },
-            "english": {
-                "translators": {
-                    "1": {
-                        "Marmaduke Pickthall": {
-                            "verse 105:1": "Hast thou not seen how thy Lord dealt with the owners of the Elephant ?",
-                            "verse 105:2": "Did He not bring their stratagem to naught,",
-                            "verse 105:3": "And send against them swarms of flying creatures,",
-                            "verse 105:4": "Which pelted them with stones of baked clay,",
-                            "verse 105:5": "And made them like green crops devoured (by cattle) ? clay,"
-                        }
-                    },
-                    "2": {
-                        "Abdullah Yusuf Ali": {
-                            "verse 105:1": "Seest thou not how thy Lord dealt with the Companions of the Elephant?",
-                            "verse 105:2": "Did He not make their treacherous plan go astray?",
-                            "verse 105:3": "And He sent against them Flights of Birds,",
-                            "verse 105:4": "Striking them with stones of baked clay.",
-                            "verse 105:5": "Then did He make them like an empty field of stalks and straw, (of which the corn) has been eaten up."
-                        }
-                    },
-                    "3": {
-                        "Arthur J. Arberry": {
-                            "verse 105:1": "Hast thou not seen how thy Lord did with the Men of the Elephant?",
-                            "verse 105:2": "Did He not make their guile to go astray?",
-                            "verse 105:3": "And He loosed upon them birds in flights,",
-                            "verse 105:4": "hurling against them stones of baked clay",
-                            "verse 105:5": "and He made them like green blades devoured."
-                        }
-                    },
-                    "4": {
-                        "Muhammad Asad": {
-                            "verse 105:1": "ART THOU NOT aware of how thy Sustainer dealt with the Army of the Elephant?",
-                            "verse 105:2": "Did He not utterly confound their artful planning?",
-                            "verse 105:3": "Thus, He let loose upon them great swarms of flying creatures",
-                            "verse 105:4": "which smote them with stone-hard blows of chastisement pre-ordained,",
-                            "verse 105:5": "and caused them to become like a field of grain that has been eaten down to stubble"
-                        }
-                    },
-                    "5": {
-                        "Martin Lings": {
-                            "verse 105:1": "Hast thou not seen how they Lord dealt with the masters of the elephant?",
-                            "verse 105:2": "",
-                            "verse 105:3": "Did He not turn their plots awry?",
-                            "verse 105:4": "",
-                            "verse 105:5": "He sent upon them dense clouds of birds.",
-                            "verse 105:6": "",
-                            "verse 105:7": "That pelted them with inscribed stones.",
-                            "verse 105:8": "",
-                            "verse 105:9": "Thus made He them like greenery eaten down.",
-                            "verse 105:10": "Sources",
-                            "verse 105:11": "Used• Unpublished Material (1938-2005) BOOKS•",
-                            "verse 105:12": "The Book of Certainty (1952) •",
-                            "verse 105:13": "A Sufi Saint of the Twentieth Century (1961) •",
-                            "verse 105:14": "What is Sufism (1975) •",
-                            "verse 105:15": "The Quranic Art of Calligraphy and Illumination (1976) •",
-                            "verse 105:16": "Muhammad (1983) •",
-                            "verse 105:17": "Symbol and Archetype (1991) •",
-                            "verse 105:18": "Sufi Poems (2004) •",
-                            "verse 105:19": "Mecca (2004) •",
-                            "verse 105:20": "Return to the Spirit (2005) •",
-                            "verse 105:21": "Splendours of Qur’an Calligraphy and Illumination (2005) ARTICLES•",
-                            "verse 105:22": "“Proofs of Islam”(1954).",
-                            "verse 105:23": "“The Islamic and Christian Conceptions of the March of Time” (1954) The Islamic Quarterly, Vol.",
-                            "verse 105:24": "“The Origins of Sufism (1956) The Islamic Quarterly, Vol.",
-                            "verse 105:25": "“Sufism”: Religion in the Middle East (1969); ed.",
-                            "verse 105:26": "“Sufi Answers to Questions On Ultimate Reality”: Studies in Comparative Religions 1979 Summer/Autumn •",
-                            "verse 105:27": "“The Nature and Origin of Sufism”: Islamic Spirituality (1985) •",
-                            "verse 105:28": "“Mystical Poetry”: The Cambridge History of Arabic Literature, Vol.",
-                            "verse 105:29": "“The Quranic Doctrine of the Afterlife” •",
-                            "verse 105:30": "“The Quranic Origins of Sufism” •",
-                            "verse 105:31": "“Human Origins and Destinies According to the Great Religions of the World” •",
-                            "verse 105:32": "“Metaphysics and the Perennial Philosophy” •",
-                            "verse 105:33": "“An Introduction to Islam” •",
-                            "verse 105:34": "“The Universality of the Quran” •",
-                            "verse 105:35": "Private Talks Books",
-                            "verse 105:36": "without Quranic Ayaat• Collected Poems• Ancient Beliefs and Modern Superstitions• The Eleventh Hour• The Secret of ShakespeareArticles without Quranic Ayaat• “Signs of the Times”: Studies in Comparative Religions 1970 Winter• “Ibn Aliwah” Encyclopedia of Islam, Second Edition• “Kabd” Encyclopedia of Islam, Second Edition Books"
-                        }
-                    },
-                    "6": {
-                        "Mufti Muhammad Taqi Uthmani": {
-                            "verse 105:1": "Have you not seen how your Lord dealt with the People of the Elephant?",
-                            "verse 105:2": "Has He not turned their plan into nullity?",
-                            "verse 105:3": "And He sent upon them flying birds in flocks,",
-                            "verse 105:4": "throwing upon them stones of baked clay,",
-                            "verse 105:5": "and thus He turned them into an eaten-up chaff."
-                        }
-                    },
-                    "7": {
-                        "Royal Aal al-Bayt Institute Translation": {
-                            "verse 105:1": "Have you not considered the way in which your Lord dealt with the Men of the Elephant?",
-                            "verse 105:2": "Did He not make their stratagem go astray,",
-                            "verse 105:3": "and unleashed upon them swarms of birds,",
-                            "verse 105:4": "pelting them with stones of baked clay,",
-                            "verse 105:5": "thus making them like devoured blades? clay,"
-                        }
-                    },
-                    "8": {
-                        "Recitations of Ibrahim walk from saheeh international": {
-                            "verse 105:1": "Have you not seen how your Lord dealt with those who had elephants?",
-                            "verse 105:2": "Did He not thwart their crafty designs?",
-                            "verse 105:3": "And He sent on to them (ambient) swarms of birds,",
-                            "verse 105:4": "Which pelted them with stone-hard slugs.",
-                            "verse 105:5": "Then (Allah made them perish) like chewed-up chaff."
-                        }
-                    }
-                }
-            },
-            "finnish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "Etkö ole Miettinyt mitä Herrasi teki niille, jotka norsuilla hyökkäsivät?",
-                            "verse 105:2": "Eikö Hän saattanut sekasortoon heidän sotaretkensä?",
-                            "verse 105:3": "Ja lähettänyt heitä vastaan lintuparvia,",
-                            "verse 105:4": "jotka sinkoutuivat heihin kovien kivien lailla.",
-                            "verse 105:5": "Näin Hän teki heistä kuin madonsyömää pellonsänkeä."
-                        }
-                    }
-                }
-            },
-            "french": {
-                "translators": {
-                    "1": {
-                        "Jean-Louis Michon": {
-                            "verse 105:1": "N'as-tu pas vu comment ton Seigneur a agi envers les compagnons de l'éléphant ?",
-                            "verse 105:2": "N'a-t-il pas déjoué leur stratagème,",
-                            "verse 105:3": "et envoyé contre eux des nuées d'oiseaux",
-                            "verse 105:4": "qui leur ont lancé des pierres marquées de sceaux.",
-                            "verse 105:5": "Il les a alors rendus semblables à du chaume dévoré."
-                        }
-                    },
-                    "2": {
-                        "Muhammad Hamidullah ": {
-                            "verse 105:1": "N’as-tu pas vu comment ton Seigneur a agi envers les gens de l’éléphant .",
-                            "verse 105:2": "N’a-t-Il pas rendu leur ruse complètement vaine ?",
-                            "verse 105:3": "et envoyé sur eux des oiseaux par volées",
-                            "verse 105:4": "qui leur lançaient des pierres d’argile ?",
-                            "verse 105:5": "Et Il les a rendus semblables à une paille mâchée."
-                        }
-                    }
-                }
-            },
-            "german": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "Hast du nicht gesehen, wie dein Herr mit den Besitzern des Elefanten verfuhr?",
-                            "verse 105:2": "Machte Er nicht ihren Anschlag zunichte?",
-                            "verse 105:3": "Und Er sandte Schwärme von Vögeln wider sie,",
-                            "verse 105:4": "Die die Ziegel aus Steine von Ton auf sie warfen;",
-                            "verse 105:5": "Und Er machte sie gleich abgeweideten Halmen."
-                        }
-                    }
-                }
-            },
-            "hindi": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": ",s jlwy D;k rqeus ugha ns[kk fd rqEgkjs ijojfnxkj us gkFkh okyksa ds lkFk D;k fd;k",
-                            "verse 105:2": "D;k mlus mudh reke rn~chjsa x+yr ugha dj nha ¼t+:j½",
-                            "verse 105:3": "vkSj mu ij >qUM dh >qUM fpfM+;k¡ Hkst nha",
-                            "verse 105:4": "tks mu ij [kjUtksa dh dadfj;k¡ Qsdrh Fkha",
-                            "verse 105:5": "rks mUgsa pck, gq, Hkwl dh ¼rckg½ dj fn;k"
-                        }
-                    }
-                }
-            },
-            "indonesian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "Apakah kamu tidak memperhatikan bagaimana Tuhanmu telah bertindak terhadap tentara bergajah?",
-                            "verse 105:2": "Bukankah Dia telah menjadikan tipu daya mereka (untuk menghancurkan Ka’bah) itu sia-sia?,",
-                            "verse 105:3": "Dan Dia mengirimkan kepada mereka burung yang berbondong-bondong,",
-                            "verse 105:4": "yang melempari mereka dengan batu (berasal) dari tanah yang terbakar,",
-                            "verse 105:5": "lalu Dia menjadikan mereka seperti daun-daun yang dimakan (ulat)."
-                        }
-                    }
-                }
-            },
-            "italian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "Non hai visto come agì il tuo Signore con quelli dell'elefante?",
-                            "verse 105:2": "Non fece fallire le loro astuzie?",
-                            "verse 105:3": "Mandò contro di loro stormi di uccelli",
-                            "verse 105:4": "lancianti su di loro pietre di argilla indurita.",
-                            "verse 105:5": "Li ridusse come pula svuotata ."
-                        }
-                    }
-                }
-            },
-            "japanese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "あなたの主が，象の仲間に，どう対処なされたか，知らなかったのか。",
-                            "verse 105:2": "かれは，かれらの計略を壊滅させられたではないか。",
-                            "verse 105:3": "かれらの上に群れなす数多の鳥を遣わされ，",
-                            "verse 105:4": "焼き土の礫を投げ付けさせて，",
-                            "verse 105:5": "食い荒らされた藁屑のようになされた。 焼き土の礫を投げ付けさせて，"
-                        }
-                    }
-                }
-            },
-            "korean": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "주님께서 코끼리의 무리를 어떻게 하셨는지 그 소식이 이르지 아니 했느뇨",
-                            "verse 105:2": "그들의 음모를 파멸시켜 버리 지 아니 했더뇨",
-                            "verse 105:3": "하나님은 그들에게 새떼를 보 내어",
-                            "verse 105:4": "모래와 흙으로 된 돌맹이들을 던지셨나니",
-                            "verse 105:5": "그들은 다 갉아 먹어버린 마 른 잎과도 같았더라"
-                        }
-                    }
-                }
-            },
-            "kurdish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "ئایا نه‌تزانیووه (ئه‌ی پێغه‌مبه‌ر صلی الله علیه وسلم) په‌روه‌ردگارت چی کرد به‌خاوه‌ن فیله‌کان؟!",
-                            "verse 105:2": "ئایا سه‌ری لێ نه‌شێواندن و پیلان و نه‌خشه‌کانیانی پووچ نه‌کرده‌وه‌؟!",
-                            "verse 105:3": "پۆل پۆل باڵنده‌ی نه‌نارده سه‌ریان؟!",
-                            "verse 105:4": "تا به‌به‌ردی سه‌نگگڵ (وه‌ك خشتی سووره‌وه کراو)، به‌رد بارانیان بکه‌ن.",
-                            "verse 105:5": "سه‌ره‌نجام وه‌کو پووش و په‌ڵاش و کاری خوراوی لێکردن، (درێژه‌ی ئه‌م به‌سه‌رهاته له { ژیان نامه‌ی پێغه‌مبه‌ری مه‌زندا} له نووسینی مامۆستا عبدالعزیز پاڕه‌زانی دا ته‌ماشا بکه‌)."
-                        }
-                    }
-                }
-            },
-            "malay": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "Tidakkah engkau mengetahui bagaimana Tuhanmu telah melakukan kepada angkatan tentera (yang dipimpin oleh pembawa) Gajah, (yang hendak meruntuhkan Kaabah)?",
-                            "verse 105:2": "Bukankah Tuhanmu telah menjadikan rancangan jahat mereka dalam keadaan yang rugi dan memusnahkan mereka?",
-                            "verse 105:3": "Dan Dia telah menghantarkan kepada mereka (rombongan) burung berpasuk-pasukan;",
-                            "verse 105:4": "Yang melontar mereka dengan batu-batu dari sejenis tanah yang dibakar keras;",
-                            "verse 105:5": "Lalu Dia menjadikan mereka hancur berkecai seperti daun-daun kayu yang dimakan ulat."
-                        }
-                    }
-                }
-            },
-            "persian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "آيا نديدى پروردگارت با فيل سواران ( لشكر ابرهه كه براى نابودى كعبه آمده بودند) چه كرد؟!",
-                            "verse 105:2": "آيا نقشه آنها را در ضلالت و تباهى قرار نداد؟!",
-                            "verse 105:3": "و بر سر آنها پرندگانى را گروه گروه فرستاد،",
-                            "verse 105:4": "كه با سنگهاى كوچكى آنان را هدف قرارمى‏دادند;",
-                            "verse 105:5": "سرانجام آنها را همچون كاه خورده‏شده (و متلاشى) قرار داد!"
-                        }
-                    }
-                }
-            },
-            "portuguese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "Não reparaste no que o teu Senhor fez, com os possuidores dos elefantes?",
-                            "verse 105:2": "Acaso, não desbaratou Ele as suas conspirações,",
-                            "verse 105:3": "Enviando contra eles um bando de criaturas aladas,",
-                            "verse 105:4": "Que lhes arrojaram pedras de argila endurecida",
-                            "verse 105:5": "E os deixou como plantações devastadas (pelo gado)?"
-                        }
-                    }
-                }
-            },
-            "romanian": {
-                "translators": {
-                    "1": {
-                        "Lucrarea (traducere úi editare) a fost realizată de către": {
-                            "verse 105:1": "Oare n-ai vãzut tu ce a fãcut Domnul tãu cu oamenii elefan- tului?!",
-                            "verse 105:2": "Oare nu a fãcut El vicleșugul lor sã fie în deșert?!",
-                            "verse 105:3": "Și a trimis peste ei pãsãri în stoluri,",
-                            "verse 105:4": "Ca sã arunce asupra lor cu pietre din lut ars!",
-                            "verse 105:5": "Și i-a fãcut pe ei ca un ogor mâncat."
-                        }
-                    },
-                    "2": {
-                        "George Grigore, Coranul": {
-                            "verse 105:1": "Nu ai văzut ce a făcut Domnul tău cu oamenii elefantului?",
-                            "verse 105:2": "Oare nu a făcut vicleşugul o rătăcire?",
-                            "verse 105:3": "Oare nu a trimis asupra lor păsări în stoluri,",
-                            "verse 105:4": "ce aruncau peste ei pietre din Iad?",
-                            "verse 105:5": "Şi astfel i-a făcut aidoma unor paie mâncate."
-                        }
-                    }
-                }
-            },
-            "russian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "Видал ли ты, как поступил Господьс людьми слона,",
-                            "verse 105:2": "Разрушив их зловещий план?",
-                            "verse 105:3": "Он против них аба’билей2335 послал,",
-                            "verse 105:4": "Которые комками обожженной глинылюдей слона сразили.",
-                            "verse 105:5": "Затем он превратил их в мертво полеСоломинок и стеблей с разъеденнымнутром."
-                        }
-                    }
-                }
-            },
-            "spanish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "¿No has visto cómo obró tu Señor con los del elefante?",
-                            "verse 105:2": "¿No desbarató su artimaña",
-                            "verse 105:3": "y envió contra ellos bandadas de aves,",
-                            "verse 105:4": "que descargaron sobre ellos piedras de arcilla,",
-                            "verse 105:5": "dejándolos como espigas desgranadas?"
-                        }
-                    }
-                }
-            },
-            "tamil": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "(நபியே!) யானை(ப் படை)க் காரர்களை உம் இறைவன் என்ன செய்தான் என்பதை நீர் பார்க்கவில்லையா?",
-                            "verse 105:2": "அவர்களுடைய சூழ்ச்சியை அவன் பாழாக்கி விடவில்லையா?",
-                            "verse 105:3": "மேலும், அவர்கள் மீது பறவைகளைக் கூட்டங் கூட்டமாக அவன் அனுப்பினான்.",
-                            "verse 105:4": "சுடப்பட்ட சிறு கற்களை அவர்கள் மீது அவை எறிந்தன.",
-                            "verse 105:5": "அதனால், அவர்களை மென்று தின்னப்பட்ட வைக்கோலைப் போல் அவன் ஆக்கி விட்டான்."
-                        }
-                    }
-                }
-            },
-            "thai": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "เจ้าไม่เห็นดอกหรือว่า พระเจ้าของเจ้าได้กระทำกับพวก เจ้าของช้างอย่างไร?",
-                            "verse 105:2": "พระองค์มิได้ทรงทำให้แผนการณ์ของพวกเขาสูญสิ้นดอก หรือ?",
-                            "verse 105:3": "และได้ทรงส่งนกเป็นฝูงๆ ลงมาบนพวกเขา",
-                            "verse 105:4": "มันได้ขว้างพวกเขาด้วยหินที่ทำด้วยดินแข็ง",
-                            "verse 105:5": "แล้วพระองค์ทรงทำให้พวกเขาเป็นเช่นใบไม้ที่ถูก (สัตว์) กิน"
-                        }
-                    }
-                }
-            },
-            "turkish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "Onların kötü planlarını boşa çıkarmadı mı?",
-                            "verse 105:2": "Onların üstüne ebâbil kuşlarını gönderdi.",
-                            "verse 105:3": "O kuşlar, onların üzerlerine pişkin tuğladan yapılmış taşlar atıyordu.",
-                            "verse 105:4": "Böylece Allah onları yenilip çiğnenmiş ekine çevirdi."
-                        }
-                    }
-                }
-            },
-            "urdu": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "کیا تم نے نہیں دیکھا کہ تمہارے پروردگار نے ہاتھی والوں کے ساتھ کیا کیا",
-                            "verse 105:2": "کيا آپ نے نہيں ديکھا کہ آپ کے رب نے ہاتھي والوں کے ساتھ کيا سلوک کياo",
-                            "verse 105:3": "کيا اس نے ان کے مکر و فريب کو باطل و ناکام نہيں کر دياo",
-                            "verse 105:4": "کیا ان کا داؤں غلط نہیں کیا؟ (گیا)",
-                            "verse 105:5": "اور ان پر جھلڑ کے جھلڑ جانور بھیجے",
-                            "verse 105:6": "اور اس نے ان پر (ہر سمت سے) پرندوں کے جھنڈ کے جھنڈ بھيج ديئےo",
-                            "verse 105:7": "جو ان پر کنکريلے پتھر مارتے تھےo",
-                            "verse 105:8": "جو ان پر کھنگر کی پتھریاں پھینکتے تھے",
-                            "verse 105:9": "تو ان کو ایسا کر دیا جیسے کھایا ہوا بھس",
-                            "verse 105:10": "پھر (ا? نے) ان کو کھائے ہوئے بھوسے کي طرح (پامال) کر دياo بھس"
-                        }
-                    }
-                }
-            },
-            "uzbek": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 105:1": "Роббинг фил соҳибларини қандоқ қилганини билмадингми?",
-                            "verse 105:2": "Уларнинг макру ҳийласини зое кетказмадими?",
-                            "verse 105:3": "Ва уларнинг устига тўп-тўп қушларни юбормадими?",
-                            "verse 105:4": "Лойдан пиширилган тошларни отадиганларни?",
-                            "verse 105:5": "Бас, уларни қурт еб ташлаган ўсимликка ўхшатиб юбормадими?."
-                        }
-                    }
-                }
-            }
+        "Albanian": {
+            "verse 105:1": "Vallë, a nuk ke dëgjuar ti se si ka vepruar Zoti yt me ushtrinë (pronarët) e elefantëve?!",
+            "verse 105:2": "A nuk ju shkuankot dinakëritë e tyre,",
+            "verse 105:3": "e dërgoi kundër tyre tufa zogjësh – (Ebabilash),",
+            "verse 105:4": "të cilët hedhnin mbi ta copa dheu (të forcuara si gurë),",
+            "verse 105:5": "e i bëri ata si ndonjë gjeth që është hëngër (prej krimit – tëjes)?"
+        },
+        "Amharic": {
+            "verse 105:1": "በዝሆኑ ባለቤቶች ጌታህ እንዴት እንደሠራ አላወቅህምን?",
+            "verse 105:2": "ተንኮላቸውን በጥፋት ውስጥ (ከንቱ) አላደረገምን? (አድርጓል)፡፡",
+            "verse 105:3": "በእነርሱም ላይ መንጎች የኾኑን ዎፎች ላከ፡፡",
+            "verse 105:4": "ከተጠበሰ ጭቃ በኾነ ድንጋይ የምትወረውርባቸው የኾነችን፤ (አዕዋፍ)፡፡",
+            "verse 105:5": "ቅጠሉ እንደ ተበላ አዝመራም አደረጋቸው፡፡"
+        },
+        "Arabic": {
+            "verse 105:1": "ِليِفْلا ِباَحْصَأِب َكُّبَر َلَعَف َفْيَك َرَت ْمَلَأ",
+            "verse 105:2": "ٍليِلْضَت يِف ْمُهَدْيَك ْلَعْجَي ْمَلَأ",
+            "verse 105:3": "َليِباَبَأ اًرْيَط ْمِهْيَلَع َلَسْرَأَو",
+            "verse 105:4": "ٍليِّجِس نِّم ٍةَراَجِحِب مِهيِمْرَت",
+            "verse 105:5": "ٍلوُكْأَّم ٍفْصَعَك ْمُهَلَعَجَف"
+        },
+        "Azerbaijani": {
+            "verse 105:1": "Rəbbinin fil sahiblərinə nələr etdiyini görmədinmi?",
+            "verse 105:2": "Məgər Rəbbin onların hiyləsini dolaşığa salmadımı?",
+            "verse 105:3": "Onların üzərinə qatar-qatar quşlar göndərdi.",
+            "verse 105:4": "O quşlar ki, onların üstünə odda bişmiş bərk gildən daşlar yağdırdı.",
+            "verse 105:5": "Allah onları sanki yeyilmiş əkin yarpağına döndərdi."
+        },
+        "Bengali": {
+            "verse 105:1": "আপনি কি দেখেননি আপনার পালনকর্তা হস্তীবাহিনীর সাথে কিরূপ ব্যবহার করেছেন?",
+            "verse 105:2": "তিনি কি তাদের চক্রান্ত নস্যাৎ করে দেননি?",
+            "verse 105:3": "তিনি তাদের উপর প্রেরণ করেছেন ঝাঁকে ঝাঁকে পাখী,",
+            "verse 105:4": "যারা তাদের উপর পাথরের কংকর নিক্ষেপ করছিল।",
+            "verse 105:5": "অতঃপর তিনি তাদেরকে ভক্ষিত তৃণসদৃশ করে দেন।"
+        },
+        "Berber Amazigh": {
+            "verse 105:1": "Day ur twalav ara amek Ixdem, Mass ik, i At Lfil?",
+            "verse 105:2": "Day ur Issexôeb ara tixidas nnsen?",
+            "verse 105:3": "Iuzen asen d ifôax ikkaten. ï",
+            "verse 105:4": "Ïîeggiôen d fellasen id$a$en iweccmen.",
+            "verse 105:5": "Irra ten am alim ipwaféen."
+        },
+        "Bosnian": {
+            "verse 105:1": "Zar nisi čuo šta je sa vlasnicima slona Gospodar tvoj uradio!",
+            "verse 105:2": "Zar lukavstvo njihovo nije omeo",
+            "verse 105:3": "i protiv njih jata ptica poslao,",
+            "verse 105:4": "Koje su na njih grumenje od gline pečene bacale,",
+            "verse 105:5": "pa ih On kao lišće koje su crvi istočili učinio?"
+        },
+        "Bulgarian": {
+            "verse 105:1": "Не видя ли [о, Мухаммад] как постъпи твоят Господ с владетелите на слона?",
+            "verse 105:2": "Не превърна ли Той коварството им в заблуда?",
+            "verse 105:3": "И изпрати срещу тях ята от птици,",
+            "verse 105:4": "които ги замеряха с камъни от печена глина.",
+            "verse 105:5": "И ги стори да приличат на проядени листа."
+        },
+        "Chinese": {
+            "verse 105:1": ". 难道你不知道你的主怎样处治象的主人们吗？",
+            "verse 105:2": "难道他没有使他们的计谋, 变成无益的吗？",
+            "verse 105:3": "他曾派遣成群的鸟去伤他们,",
+            "verse 105:4": "以粘土石射击他们,",
+            "verse 105:5": "使他们变成吃剩的干草一样。"
+        },
+        "Danish": {
+            "verse 105:1": "Hebt gij niet vernomen, hoe uw Heer de bezitters der olifanten behandelde",
+            "verse 105:2": "Heeft Hij hun plannen niet teniet gedaan",
+            "verse 105:3": "Zond Hij geen zwermen vogels op hen neer",
+            "verse 105:4": "En wierpen deze geen klompen klei",
+            "verse 105:5": "Dat hen maakte als fijn gekauwd (door het vee) stro"
+        },
+        "Dutch": {
+            "verse 105:1": "Heb jij niet vernomen hoe jouw Heer met de mensen van de olifant heeft gehandeld?",
+            "verse 105:2": "Heeft Hij hun plan niet verijdeld?",
+            "verse 105:3": "En Hij heeft over hen zwermen vogels gezonden.",
+            "verse 105:4": "Die stenen van klei op hen wierpen.",
+            "verse 105:5": "Zo maakte Hij hen als (door wormen) aangevreten bladeren."
+        },
+        "English": {
+            "verse 105:1": "Have you not considered, [O Muhammad], how your Lord dealt with the companions of the elephant?",
+            "verse 105:2": "Did He not make their plan into misguidance?",
+            "verse 105:3": "And He sent against them birds in flocks,",
+            "verse 105:4": "Striking them with stones of hard clay,",
+            "verse 105:5": "And He made them like eaten straw."
+        },
+        "Filipino": {
+            "verse 105:1": "Hindi mo ba napagmalas (O Muhammad) kung paano pinakitunguhan ng iyong Panginoon ang may-ari ng Elepante? [ang hukbo ng mga elepante na nanggaling sa Yemen sa pamumuno ni Abraha Al-Ashram na nagnanais na wasakin ang Ka’ba sa Makkah]",
+            "verse 105:2": "Hindi baga Niya hinadlangan ang kanilang (masamang) balak at (sila ay) mapaligaw",
+            "verse 105:3": "At isinugo Niya laban sa kanila ang mga kawan ng ibon",
+            "verse 105:4": "Na pumupukol sa kanila ng mga bato ng Sijjil (mga batong gawa sa matigas na putik)",
+            "verse 105:5": "At Kanyang ginawa sila na tila mga hungkag na bukirin ng mga dayami (na ang mais dito ay ginasak at kinain ng mga baka)"
+        },
+        "French": {
+            "verse 105:1": "N'as-tu pas vu comment ton Seigneur a agi envers les gens de l'Eléphant?",
+            "verse 105:2": "N'a-t-Il pas rendu leur ruse complètement vaine?",
+            "verse 105:3": "et envoyé sur eux des oiseaux par volées",
+            "verse 105:4": "qui leur lançaient des pierres d'argile?",
+            "verse 105:5": "Et Il les a rendus semblables à une paille mâchée."
+        },
+        "Fulah": {
+            "verse 105:1": "Mbela a yi*aani na joom ma waɗi jom ñiiwa",
+            "verse 105:2": "Mbela O waɗaani peeje ko e majjere",
+            "verse 105:3": "O neli e mum en ndiwri abaa biila",
+            "verse 105:4": "Hondi werlooɓe kaaƴe loope joorɗe",
+            "verse 105:5": "O waɗi ɓe hono ñaayka ñaamaaka"
+        },
+        "German": {
+            "verse 105:1": "Siehst du nicht, wie dein Herr mit den Leuten des Elefanten verfuhr?",
+            "verse 105:2": "Ließ Er nicht ihre List verlorengehen",
+            "verse 105:3": "und sandte gegen sie Vögel in aufeinanderfolgenden Schwärmen,",
+            "verse 105:4": "die sie mit Steinen aus gebranntem Lehm bewarfen,",
+            "verse 105:5": "und sie so wie abgefressene Halme machte?"
+        },
+        "Hausa": {
+            "verse 105:1": "Ashe, ba ka ga yadda Ubangijinka Ya aikata ga mutanen giwa ba?",
+            "verse 105:2": "Ashe, bai sanya kaidinsu a cikin ɓata ba?",
+            "verse 105:3": "Kuma Ya sako, a kansu, wasu tsuntsãye, jama'a-jama'a.",
+            "verse 105:4": "Suna jifar su da wasu duwatsu na yumɓun wuta.",
+            "verse 105:5": "Sa'an nan Ya sanya su kamar karmami wanda aka cinye?"
+        },
+        "Hindi": {
+            "verse 105:1": "ऐ रसूल क्या तुमने नहीं देखा कि तुम्हारे परवरदिगार ने हाथी वालों के साथ क्या किया",
+            "verse 105:2": "क्या उसने उनकी तमाम तद्बीरें ग़लत नहीं कर दीं (ज़रूर)",
+            "verse 105:3": "और उन पर झुन्ड की झुन्ड चिड़ियाँ भेज दीं",
+            "verse 105:4": "जो उन पर खरन्जों की कंकरियाँ फेकती थीं",
+            "verse 105:5": "तो उन्हें चबाए हुए भूस की (तबाह) कर दिया"
+        },
+        "Indonesian": {
+            "verse 105:1": "Apakah kamu tidak memperhatikan bagaimana Tuhanmu telah bertindak terhadap tentara bergajah?",
+            "verse 105:2": "Bukankah Dia telah menjadikan tipu daya mereka (untuk menghancurkan Ka'bah) itu sia-sia?",
+            "verse 105:3": "dan Dia mengirimkan kapada mereka burung yang berbondong-bondong,",
+            "verse 105:4": "yang melempari mereka dengan batu (berasal) dari tanah yang terbakar,",
+            "verse 105:5": "lalu Dia menjadikan mereka seperti daun-daun yang dimakan (ulat)."
+        },
+        "Italian": {
+            "verse 105:1": "Non hai visto come agì il tuo Signore con quelli dell’elefante?",
+            "verse 105:2": "Non fece fallire le loro astuzie?",
+            "verse 105:3": "Mandò contro di loro stormi di uccelli",
+            "verse 105:4": "lancianti su di loro pietre di argilla indurita.",
+            "verse 105:5": "Li ridusse come pula svuotata."
+        },
+        "Japanese": {
+            "verse 105:1": "あなたの主が，象の仲間に，どう対処なされたか，知らなかったのか。",
+            "verse 105:2": "かれは，かれらの計略を壊滅させられたではないか。",
+            "verse 105:3": "かれらの上に群れなす数多の鳥を遣わされ，",
+            "verse 105:4": "焼き土の礫を投げ付けさせて，",
+            "verse 105:5": "食い荒らされた藁屑のようになされた。"
+        },
+        "Jawa": {
+            "verse 105:1": "Opo sira orang deleng piye Allah anggone numpes marang mungsuh kang teka nunggah gajah",
+            "verse 105:2": "Apa Panjenengane ora dadekake perange larut morat - marit",
+            "verse 105:3": "Allah ngutus manuk Aba Bil agolong - golong (supaya mongsa) dheweke",
+            "verse 105:4": "ngrutugi dheweke kelawan watu kang panas",
+            "verse 105:5": "Banjur Panjenengane dadekake dheweke sirna mati kabeh kaya godhong kang dipangan hewan"
+        },
+        "Kazakh": {
+            "verse 105:1": "Ей, Мұхаммед! Раббыңның піл иелеріне не істегенін білмедің бе",
+            "verse 105:2": "Сонда олардың айлакерліктерін адасуға айналдырмады ма",
+            "verse 105:3": "әрі оларға құстарды топ-тобымен жібермеді ме",
+            "verse 105:4": "Құстар оларды балшықтан күйдірілген тастармен атқылады",
+            "verse 105:5": "сөйтіп оларды дәні желініп тапталған сабандай қылды"
+        },
+        "Korean": {
+            "verse 105:1": "주님께서 코끼리의 무리를 어떻게 하셨는지 그 소식이 이르지 아니 했느뇨주님께서 코끼리의 무리를 어떻게 하셨는지 그 소식이 이르지 아니 했느뇨",
+            "verse 105:2": "그들의 음모를 파멸시켜 버리 지 아니 했더뇨그들의 음모를 파멸시켜 버리 지 아니 했더뇨",
+            "verse 105:3": "하나님은 그들에게 새떼를 보 내어하나님은 그들에게 새떼를 보 내어",
+            "verse 105:4": "모래와 흙으로 된 돌맹이들을 던지셨나니모래와 흙으로 된 돌맹이들을 던지셨나니",
+            "verse 105:5": "그들은 다 갉아 먹어버린 마 른 잎과도 같았더라그들은 다 갉아 먹어버린 마 른 잎과도 같았더라"
+        },
+        "Kurdish": {
+            "verse 105:1": "Maqey te nedît, ku Xuda te hevalê fîlan (ça şapat kirîye)ئایا نه‌تزانیووه (ئه‌ی پێغه‌مبه‌ر صلی الله علیه وسلم) په‌روه‌ردگارت چی کرد به‌خاوه‌ن فیله‌کان؟!",
+            "verse 105:2": "Maqey (Xuda yê te) endeza wan(nexistîye şimitandina) wundabûna wanئایا سه‌ری لێ نه‌شێواندن و پیلان و نه‌خشه‌کانیانی پووچ نه‌کرده‌وه‌؟!",
+            "verse 105:3": "Û (Xuda yê te)li serwan da refref (Çukê bi nav hecheck) şandîyeپۆل پۆل باڵنده‌ی نه‌نارده سه‌ریان؟!",
+            "verse 105:4": "Ku ewan (hecheckan) li ser wan da (xuryêkeviran) di avêtinتا به‌به‌ردی سه‌نگگڵ (وه‌ك خشتی سووره‌وه کراو)، به‌رد بارانیان بکه‌ن.",
+            "verse 105:5": "Îdî (Xuda yête ewan wusa qul-qulî kirin, te digo qey) ewan belgê kurma xarîne(wusa bedena wan qulbû ye)سه‌ره‌نجام وه‌کو پووش و په‌ڵاش و کاری خوراوی لێکردن، (درێژه‌ی ئه‌م به‌سه‌رهاته له { ژیان نامه‌ی پێغه‌مبه‌ری مه‌زندا} له نووسینی مامۆستا عبدالعزیز پاڕه‌زانی دا ته‌ماشا بکه‌)."
+        },
+        "Kyrgyz": {
+            "verse 105:1": "(О, Мухаммад!) Раббиң пил ээлерин эмне кылганын билбедиңби",
+            "verse 105:2": "(Раббиң) алардын (Каабаны бузуп салуу үчүн ойлогон) айла-амалдарын текке кетирбедиби",
+            "verse 105:3": "Жана аларга каршы топ-топ куштарды жиберди",
+            "verse 105:4": "(Куштар чеңгелиндеги) чопо-таштар менен аларды ташбараңга алышты",
+            "verse 105:5": "(Аллаһ) аларды мойсолгон жалбырактай кылып койду"
+        },
+        "Malay": {
+            "verse 105:1": "Tidakkah engkau mengetahui bagaimana Tuhanmu telah melakukan kepada angkatan tentera (yang dipimpin oleh pembawa) Gajah, (yang hendak meruntuhkan Kaabah)?",
+            "verse 105:2": "Bukankah Tuhanmu telah menjadikan rancangan jahat mereka dalam keadaan yang rugi dan memusnahkan mereka?",
+            "verse 105:3": "Dan Ia telah menghantarkan kepada mereka (rombongan) burung berpasuk-pasukan, -",
+            "verse 105:4": "Yang melontar mereka dengan batu-batu dari sejenis tanah yang dibakar keras, -",
+            "verse 105:5": "Lalu Ia menjadikan mereka hancur berkecai seperti daun-daun kayu yang dimakan ulat."
+        },
+        "Malayalam": {
+            "verse 105:1": "ആനക്കാരെക്കൊണ്ട് നിന്‍റെ രക്ഷിതാവ് പ്രവര്‍ത്തിച്ചത് എങ്ങനെ എന്ന് നീ കണ്ടില്ലേ?",
+            "verse 105:2": "അവരുടെ തന്ത്രം അവന്‍ പിഴവിലാക്കിയില്ലേ?",
+            "verse 105:3": "കൂട്ടംകൂട്ടമായിക്കൊണ്ടുള്ള പക്ഷികളെ അവരുടെ നേര്‍ക്ക് അവന്‍ അയക്കുകയും ചെയ്തു.",
+            "verse 105:4": "ചുട്ടുപഴുപ്പിച്ച കളിമണ്‍കല്ലുകള്‍കൊണ്ട് അവരെ എറിയുന്നതായ.",
+            "verse 105:5": "അങ്ങനെ അവന്‍ അവരെ തിന്നൊടുക്കപ്പെട്ട വൈക്കോല്‍ തുരുമ്പുപോലെയാക്കി."
+        },
+        "Norwegian": {
+            "verse 105:1": "Du har vel sett hva Herren gjorde med elefantfolkene?",
+            "verse 105:2": "Lot Han ikke deres list slå feil?",
+            "verse 105:3": "Han sendte over dem fugleflokker,",
+            "verse 105:4": "som kastet på dem steiner av brent leire,",
+            "verse 105:5": "og lot dem bli som avspist vegetasjon."
+        },
+        "Pashto": {
+            "verse 105:1": "ایا ته نه يې خبر شوى چې ستا رب له فیل والاو سره څنګه كار كړى و؟",
+            "verse 105:2": "ایا د هغوى چل (او مكر) يې په ګمراهۍ او زیان كې نه و ګرځولى؟",
+            "verse 105:3": "او په دوى باندې يې ډلې ډلې مرغان راخوشې كړل",
+            "verse 105:4": "چې دغو (مرغانو) به دوى لره په داسې كاڼو ویشتل چې له خټو نه جوړ، په اور پخ شوي وو",
+            "verse 105:5": "نو دغه (خلق) يې د خوړل شویو وښو په شان وګرځول"
+        },
+        "Persian": {
+            "verse 105:1": "آيا نديده‌اى كه پروردگارت با اصحاب فيل چه كرد؟",
+            "verse 105:2": "آيا مكرشان را باطل نساخت؟",
+            "verse 105:3": "و بر سر آنها پرندگانى فوج‌فوج فرستاد،",
+            "verse 105:4": "تا آنها را با سِجّيل سنگباران كردند.",
+            "verse 105:5": "و آنان را چون كاه پس‌مانده در آخور ساخت."
+        },
+        "Polish": {
+            "verse 105:1": "Czy nie widziałeś, jak postąpił twój Pan z towarzyszami słonia?",
+            "verse 105:2": "Czy nie zniweczył ich podstępu?",
+            "verse 105:3": "Czy nie rzucił przeciwko nim ptaków lecących stadami,",
+            "verse 105:4": "Które obrzuciły ich kamieniami z palonej gliny?",
+            "verse 105:5": "I uczynił ich jak objedzone pole zboża."
+        },
+        "Portuguese": {
+            "verse 105:1": "Não reparaste no que o teu Senhor fez, com os possuidores dos elefantes?",
+            "verse 105:2": "Acaso, não desbaratou Ele as suas conspirações,",
+            "verse 105:3": "Enviando contra eles um bando de criaturas aladas,",
+            "verse 105:4": "Que lhes arrojaram pedras de argila endurecida",
+            "verse 105:5": "E os deixou como plantações devastadas (pelo gado)?"
+        },
+        "Punjabi": {
+            "verse 105:1": "ਕੀ ਤੁਸੀਂ ਨਹੀਂ ਵੇਖਿਆ, ਕੀ ਤੁਹਾਡੇ ਰੱਬ ਨੇ ਹਾਥੀ ਵਾਲਿਆਂ ਦੇ ਨਾਲ ਕੀ ਕੀਤਾ।",
+            "verse 105:2": "ਕੀ ਉਸ ਨੇ ਉਨ੍ਹਾਂ ਦੀ ਸਕੀਮ ਨੂੰ ਅਸਫ਼ਲ ਨਹੀਂ ਕਰ ਦਿੱਤਾ",
+            "verse 105:3": "ਅਤੇ ਉਨ੍ਹਾਂ ਤੇ ਝੂੰਡਾਂ ਦੇ ਝੂੰਡ ਚਿੜੀਆਂ ਦੇ(ਅਬਾ-ਬੀਲ) ਭੇਜੇ।",
+            "verse 105:4": "ਜਿਹੜੀਆਂ ਉਨ੍ਹਾਂ ਤੇ ਕੰਕਰਾਂ ਦੀਆਂ ਪੱਥਰੀਆਂ ਸੁੱਟਦੀਆਂ ਸਨ।",
+            "verse 105:5": "ਫਿਰ ਅੱਲਾਹ ਨੇ ਉਨ੍ਹਾਂ ਨੂੰ ਖਾਧੇ ਹੋਏ ਘਾਹ-ਚਾਰੇ ਦੀ ਤਰਾਂ ਕਰ ਦਿੱਤਾ।"
+        },
+        "Roman english": {
+            "verse 105:1": "Alam tara kaifa fa`ala rabbuka bi ashaabil feel",
+            "verse 105:2": "Alam yaj`al kai dahum fee tad leel",
+            "verse 105:3": "Wa arsala `alaihim tairan abaabeel",
+            "verse 105:4": "Tar meehim bi hi jaaratim min sij jeel",
+            "verse 105:5": "Faja `alahum ka`asfim m`akool"
+        },
+        "Russian": {
+            "verse 105:1": "Видал ли ты, как поступил Господь с людьми слона,",
+            "verse 105:2": "Разрушив их зловещий план?",
+            "verse 105:3": "Он против них абАбилей послал,",
+            "verse 105:4": "Которые комками обожженной глины людей слона сразили.",
+            "verse 105:5": "Затем он превратил их в мертво поле Соломинок и стеблей с разъеденным нутром."
+        },
+        "Sindhi": {
+            "verse 105:1": "(اي پيغمبر) نه ڏٺئي ڇا؟ ته تنھنجي پالڻھار ھاٿي وارن سان ڪئن ڪيو؟",
+            "verse 105:2": "سندن بڇڙي رٿ کي ناس نه ڪيائين ڇا؟",
+            "verse 105:3": "۽ وَلر وَلر پکي مٿن موڪليائين.",
+            "verse 105:4": "جن ڪنڪريٽ جون پھڻيون کين ھنيون ٿي.",
+            "verse 105:5": "پوءِ اولڙ گاھ جان کين ڪيائين."
+        },
+        "Sinhalese": {
+            "verse 105:1": "නුඹගේ පරමාධිපති ඇත් සේනාව සමඟ කටයුතු කළේ කෙසේදැ යි නුඹ නුදුටුවෙහිද?",
+            "verse 105:2": "ඔවුන්ගේ කුමන්ත්‍රණය මුළා කිරීමක පත් නොකළේද?",
+            "verse 105:3": "තවද ඔහු ඔවුන් මත රංචු වශයෙන් කුරුල්ලන් එව්වේය.",
+            "verse 105:4": "උන් ඔවුන් මත පුලුස්සන ලද මැටි වලින් වූ ගල් හෙළුවේය.",
+            "verse 105:5": "එවිට ඔවුන් ව කා දමන ලද පිදුරු මෙන් ඔහු පත් කළේය."
+        },
+        "Somali": {
+            "verse 105:1": "Ma Ogtahay sida Eeba ku falay asaxaabtii Maroodiga «Colkii».",
+            "verse 105:2": "Miyaan Eebe ka yeelin dhagartoodii wax dhumay.",
+            "verse 105:3": "Oosan ku dirin korkooda Shimbiro kooxa ah.",
+            "verse 105:4": "Kuna tuuraysa Dhagaxyo la kululeeyay.",
+            "verse 105:5": "Markaas Eebe ka yeelay Bal la daaqay sidiis."
+        },
+        "Spanish": {
+            "verse 105:1": "No has visto lo que hizo tu Señor con los del elefante?",
+            "verse 105:2": "Acaso no hizo que su estratagema fracasara,",
+            "verse 105:3": "enviando contra ellos pájaros en sucesivas bandadas,",
+            "verse 105:4": "que les arrojaban piedras de arcilla,",
+            "verse 105:5": "dejándolos como paja carcomida?"
+        },
+        "Swahili": {
+            "verse 105:1": "Kwani hukuona jinsi Mola wako Mlezi alivyo watenda wale wenye tembo?",
+            "verse 105:2": "Kwani hakujaalia vitimbi vyao kuharibika?",
+            "verse 105:3": "Na akawapelekea ndege makundi kwa makundi,",
+            "verse 105:4": "Wakiwatupia mawe ya udongo wa Motoni,",
+            "verse 105:5": "Akawafanya kama majani yaliyo liwa!"
+        },
+        "Swedish": {
+            "verse 105:1": "HAR DU inte sett hur din Herre gick till väga mot Elefantens armé?",
+            "verse 105:2": "Han gjorde deras krigslist om intet,",
+            "verse 105:3": "när Han sände mot dem svärm efter svärm av fåglar",
+            "verse 105:4": "som lät [ett regn av] stenar hagla över dem - Hans förutbestämda straff! -",
+            "verse 105:5": "Och [där] lät Han dem [ligga utströdda] som de torra stråna på ett avmejat sädesfält."
+        },
+        "Tajik": {
+            "verse 105:1": "Оё надидаӣ, ки Парвардигорат бо асҳоби фил чӣ кард?",
+            "verse 105:2": "Оё макрашонро ботил насохт?",
+            "verse 105:3": "Ва бар сари онҳо паррандагоне села - села фиристод,",
+            "verse 105:4": "то онҳоро бо сиҷҷил сангборон карданд.",
+            "verse 105:5": "Ва ононро чун коҳи пасмонда дар охур сохт."
+        },
+        "Tamil": {
+            "verse 105:1": "(நபியே!) யானை(ப் படை)க் காரர்களை உம் இறைவன் என்ன செய்தான் என்பதை நீர் பார்க்கவில்லையா?",
+            "verse 105:2": "அவர்களுடைய சூழ்ச்சியை அவன் பாழாக்கி விடவில்லையா?",
+            "verse 105:3": "மேலும், அவர்கள் மீது பறவைகளைக் கூட்டங் கூட்டமாக அவன் அனுப்பினான்.",
+            "verse 105:4": "சுடப்பட்ட சிறு கற்களை அவர்கள் மீது அவை எறிந்தன.",
+            "verse 105:5": "அதனால், அவர்களை மென்று தின்னப்பட்ட வைக்கோலைப் போல் அவன் ஆக்கி விட்டான்."
+        },
+        "Tatar": {
+            "verse 105:1": "Әй, Мухәммәд г-м күрмәдеңме, синең Раббың фил ияләреңә нинди җәза биргәнен? (Мухәммәд г-м туган елны Йәмән вәлисе Әбрәһә, хаҗ кылуны Мәккәдән туктатып үзенең шәһәренә күчерү өчен Кәгъбәтүлланы җимереп юк итәм, дип филле ґәскәр белән Мәккәгә килде. Ләкин теләгенә ирешә алмады, Аллаһ аларның өсләренә таш яудырып һәлак итте).",
+            "verse 105:2": "Әйә Раббың аларның мәкерләрен батыл кылып, тырышуларын бушка чыгарды түгелме?",
+            "verse 105:3": "Вә һәлак итмәк өчен алар өстенә төркем-төркем кошлар җибәрде.",
+            "verse 105:4": "Кошлар аларны коелган таш белән атарлар.",
+            "verse 105:5": "Аларны тапталган, чәйнәлгән салам кеби кылды."
+        },
+        "Telugu": {
+            "verse 105:1": "ఏమీ? ఏనుగువారి (సైన్యంతో) నీ ప్రభువు ఎలా వ్యవహరించాడో నీకు తెలియదా",
+            "verse 105:2": "ఏమీ? ఆయన వారి కుట్రను భంగం చేయలేదా",
+            "verse 105:3": "మరియు ఆయన వారిపైకి పక్షుల గుంపులను పంపాడు",
+            "verse 105:4": "అవి (ఆ పక్షులు) వారి మీద మట్టితో చేసి కాల్చిన కంకర రాళ్ళను (సిజ్జీల్) విసురుతూ పోయాయి",
+            "verse 105:5": "ఆ విధంగా ఆయన వారిని (పశువులు) తినివేసిన పొట్టుగా మార్చి వేశాడు"
+        },
+        "Thai": {
+            "verse 105:1": "เจ้าไม่เห็นดอกหรือว่า พระเจ้าของเจ้าได้กระทำกับพวกเจ้าของช้างอย่างไร ?",
+            "verse 105:2": "พระองค์มิได้ทรงทำให้แผนการณ์ของพวกเขาสูญสิ้นดอกหรือ ?",
+            "verse 105:3": "และได้ทรงส่งนกเป็นฝูง ๆ ลงมาบนพวกเขา",
+            "verse 105:4": "มันได้ขว้างพวกเขาด้วยหินที่ทำด้วยดินแข็ง",
+            "verse 105:5": "แล้วพระองค์ทรงทำให้พวกเขาเป็นเช่นใบไม้ที่ถูก (สัตว์) กิน"
+        },
+        "Turkish": {
+            "verse 105:1": "Fil sahiplerine Rabbinin ne ettiğini görmedin mi?",
+            "verse 105:2": "Onların düzenlerini boşa çıkarmadı mı?",
+            "verse 105:3": "Onların üzerine, sert taşlar atan sürülerle kuşlar gönderdi.",
+            "verse 105:4": "Onların üzerine, sert taşlar atan sürülerle kuşlar gönderdi.",
+            "verse 105:5": "Sonunda onları, yenilmiş ekin gibi yaptı."
+        },
+        "Urdu": {
+            "verse 105:1": "کیا تم نے نہیں دیکھا کہ تمہارے پروردگار نے ہاتھی والوں کے ساتھ کیا کیا",
+            "verse 105:2": "کیا ان کا داؤں غلط نہیں کیا؟ (گیا)",
+            "verse 105:3": "اور ان پر جھلڑ کے جھلڑ جانور بھیجے",
+            "verse 105:4": "جو ان پر کھنگر کی پتھریاں پھینکتے تھے",
+            "verse 105:5": "تو ان کو ایسا کر دیا جیسے کھایا ہوا بھس"
+        },
+        "Uyghur": {
+            "verse 105:1": "پەرۋەردىگارىڭنىڭ فىل ئىگىلىرىنى قانداق قىلغانلىقىنى كۆرمىدىڭمۇ؟",
+            "verse 105:2": "ئۇ ئۇلارنىڭ ھىيلە - مىكرىنى بەربات قىلمىدىمۇ؟",
+            "verse 105:3": "ئۇ ئۇلارنىڭ ئۈستىگە توپ - توپ قۇشلارنى ئەۋەتتى",
+            "verse 105:4": "قۇشلار ئۇلارغا ساپال تاشلارنى ئېتىپ،",
+            "verse 105:5": "ئۇلارنى چاينىۋېتىلگەن ساماندەك قىلىۋەتتى"
+        },
+        "Uzbek": {
+            "verse 105:1": "Роббинг фил соҳибларини қандоқ қилганини билмадингми?",
+            "verse 105:2": "Уларнинг макру ҳийласини зое кетказмадими?",
+            "verse 105:3": "Ва уларнинг устига тўп-тўп қушларни юбормадими?",
+            "verse 105:4": "Лойдан пиширилган тошларни отадиганларни?",
+            "verse 105:5": "Бас, уларни қурт еб ташлаган ўсимликка ўхшатиб юбормадими?. Муҳаммад алайҳиссалом «Фил йили»да туғилганлар дейилишининг сабаби ҳам шу."
+        },
+        "Vietnamese": {
+            "verse 105:1": "(Này hỡi Muhammad!) Ngươi đã không thấy cách Thượng Đế của Ngươi đối xử với đoàn quân cưỡi voi ư?",
+            "verse 105:2": "Chẳng phải Ngài đã phá hỏng kế hoạch của bọn chúng?",
+            "verse 105:3": "Chẳng phải Ngài đã gửi đàn chim bay đến thành từng đoàn đến tiêu diệt chúng?",
+            "verse 105:4": "(Đàn chim) đã ném chúng với những viên đá Sijjil.",
+            "verse 105:5": "Làm chúng chết la liệt như những cọng rạ khô sau mùa gặt hái."
+        },
+        "Yoruba": {
+            "verse 105:1": "Se o o ri bi Oluwa re ti se oro ijo elerin ni",
+            "verse 105:2": "Se ko so ete won di ofo bi",
+            "verse 105:3": "O si ran awon eye nikoniko si won",
+            "verse 105:4": "Won n ju won ni okuta amo (t’o ti gbana sara)",
+            "verse 105:5": "O si so won di bii erunrun koriko ajeku gbigbe"
         }
     }
 }

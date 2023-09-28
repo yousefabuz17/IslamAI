@@ -5,7 +5,6 @@
     "revelation_order": 100,
     "bismillah_pre": true,
     "verses_count": 8,
-    "source": "Sayyid Abul Ala Maududi - Tafhim al-Qur'an - The Meaning of the Quran",
     "short_text": "The Surah is called its name after the word al-bayyinah occurring at the end of the first verse.",
     "text": [
         "The Surah is named after the word al-bayyinah occurring at the end of the first verse.",
@@ -18,588 +17,541 @@
         "In this very connection, it has been stated that the Prophets who came from Allah and the Books sent down by Him, did not enjoin anything but that the way of sincere and true service to Allah be adopted, apart from all other ways, that no one else's worship, service or obedience be mixed with His, the salat be established and the zakat be paid. This has always been the true religion. From this also it automatically follows that the followers of the earlier scriptures, straying from this true religion, have added extraneous things to it, which are false, and Allah's Messenger has come to invite them back to the same original faith.",
         "In conclusion, it has been pointed out clearly that the followers of the earlier Books and the idolaters who would refuse to acknowledge this Messenger are the worst of creatures: their punishment is an everlasting Hell; and the people who would believe and act righteously, and would spend life in the world in awe of God, are the best of creatures: their reward is eternal Paradise wherein they will live forever. Allah became well pleased with them and they became well pleased with Allah."
     ],
+    "quran-source": "`https://surahquran.com`",
     "description": "The surah that mentions the advent of the message of the Quran and its Messenger as The Proof of a decisive revelation for both the disputing People of the Scripture and the unbelievers unlettered in God’s word. It is named after “the proof” (al-bayyinah) mentioned in verse 1 and verse 4. The surah spells out the basic tenets of faith, and contrasts the Fire of Hell with the lasting bliss that will be enjoyed by the faithful.The surah is also known as: The Clear Evidence, The Clear Proof, The Clear Sign, The Evidence.",
-    "name_translation": "THE PROOF",
+    "name_translation": "The Proof",
     "name_complex": "Al-Bayyinah",
     "surah_name_ar": "البينة",
     "verses": {
-        "languages": {
-            "albanian": {
-                "translators": {
-                    "1": {
-                        "Efendi Nahi": {
-                            "verse 98:1": "Nuk u larguan nga feja e tyre – mohuesit, që ishin nga idhtarët e Librit, si dhe paganët, deri sa ju erdhi argumenti i qartë:",
-                            "verse 98:2": "Pejgamberi nga Perëndia, i cili lexon broshurat e pastra (nga gabimet),",
-                            "verse 98:3": "në të cilat ka kapituj me dispozita të çmueshme.",
-                            "verse 98:4": "E u ndanë (nuk u pajtuan) ata që patën Librin, vetëm atëherë kur u erdhi argumenti i qartë,",
-                            "verse 98:5": "e janë urdhëruar ata që t’i luten vetëm Perëndisë, që sinqerisht, si besimtarë të vërtetë, të predikojnë fenë dhe të bëjnë namaz, dhe të ndajnë lëmoshën (zeqatin); e kjo është feja e drejtë.",
-                            "verse 98:6": "Ata që nuk besojnë, si ata që patën Libër ashtu edhe paganët, ata, me siguri do të gjenden në zjarrin e skëterrës, në te do të mbeten përherë, ata janë krijesat më të këqia.",
-                            "verse 98:7": "E, me të vërtetë, ata që besojnë dhe punojnë vepra të mira – ata janë krijesat më të mira,",
-                            "verse 98:8": "shpërblimi i tyre te Zoti i tyre janë kopshtet (xhennetet) e Adnit, nëpër të cilat rrjedhin lumenjt ku do të banojnë përherë dhe përgjithmonë."
-                        }
-                    }
-                }
-            },
-            "azerbaijani": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "Kitab əhlindən (yəhudilərdən və xaçpərəstlərdən) kafir olanlar və müşriklər özlərinə açıq-aşkar bir dəlil gəlməyənə qədər (dinlərindən) ayrılan deyildilər.",
-                            "verse 98:2": "(Bu açıq-aşkar dəlil isə) pak səhifələri onlara oxuyan, Allah tərəfindən göndərilmiş peyğəmbərdir (Muhəmməd əleyhissəlamdır).",
-                            "verse 98:3": "O səhifələrdə doğru-dürüst hökmlər vardır.",
-                            "verse 98:4": "Kitab əhli yalnız özlərinə açıq-aydın dəlil (Peyğəmbər və Qur'an) gəldikdən sonra (dində) ayrılığa düşdülər (onlardan kimisi Peyğəmbərə iman gətirdi, kimisi onu inkar etdi, kimisi də şəkk-şübhə içində qaldı).",
-                            "verse 98:5": "Halbuki onlara əmr edilmişdir ki, Allaha - dini yalnız Ona məxsus edərək, batildən haqqa (islama) dönərək - ibadət etsinlər, namaz qılıb zəkat versinlər.",
-                            "verse 98:6": "Həqiqətən, kitab əhlindən kafir olanların və müşriklərin yeri cəhənnəm odudur.",
-                            "verse 98:7": "İman gətirib yaxşı əməllər edənlər isə yaradılmışların ən yaxşılarıdır.",
-                            "verse 98:8": "Onlardan öz Rəbbi yanındakı mükafatı (ağacları) altından çaylar axan Ədn cənnətləridir."
-                        }
-                    }
-                }
-            },
-            "bosnian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "Nisu se nevjernici između sljedbenika Knjige i mnogobošci odvojili, sve dok im nije došao dokaz jasni;",
-                            "verse 98:2": "od Allaha Poslanik, koji čita listove čiste,",
-                            "verse 98:3": "u kojima su propisi ispravni.",
-                            "verse 98:4": "A podvojili su se oni kojima je data Knjiga baš onda kada im je došao dokaz jasni,",
-                            "verse 98:5": "a naređeno im je da se samo Allahu klanjaju, da Mu iskreno, kao pravovjerni, vjeru ispovijedaju, i da molitvu obavljaju, i da milostinju udjeljuju; a to je - ispravna vjera.",
-                            "verse 98:6": "Oni koji ne vjeruju između sljedbenika Knjige i mnogobošci biće, sigurno, u vatri džehennemskoj, u njoj će vječno ostati; oni su najgora stvorenja.",
-                            "verse 98:7": "A oni koji vjeruju i čine dobra djela - oni su, zbilja, najbolja stvorenja,",
-                            "verse 98:8": "njih nagrada u Gospodara njihova čeka; edenski vrtovi kroz koji će rijeke teći, u kojima će vječno i zauvijek boraviti; Allah će biti njima zadovoljan, a i oni će biti Njime zadovoljni."
-                        }
-                    }
-                }
-            },
-            "bengali": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "আহলে-কিতাব ও মুশরেকদের মধ্যে যারা কাফের ছিল, তারা প্রত্যাবর্তন করত না যতক্ষণ না তাদের কাছে সুস্পষ্ট প্রমাণ আসত।",
-                            "verse 98:2": "অর্থাৎ আল্লাহর একজন রসূল, যিনি আবৃত্তি করতেন পবিত্র সহীফা,",
-                            "verse 98:3": "যাতে আছে, সঠিক বিষয়বস্তু।",
-                            "verse 98:4": "অপর কিতাব প্রাপ্তরা যে বিভ্রান্ত হয়েছে, তা হয়েছে তাদের কাছে সুস্পষ্ট প্রমাণ আসার পরেই।",
-                            "verse 98:5": "তাদেরকে এছাড়া কোন নির্দেশ করা হয়নি যে, তারা খাঁটি মনে একনিষ্ঠভাবে আল্লাহর এবাদত করবে, নামায কায়েম করবে এবং যাকাত দেবে। এটাই সঠিক ধর্ম।",
-                            "verse 98:6": "আহলে-কিতাব ও মুশরেকদের মধ্যে যারা কাফের, তারা জাহান্নামের আগুনে স্থায়ীভাবে থাকবে। তারাই সৃষ্টির অধম।",
-                            "verse 98:7": "যারা ঈমান আনে ও সৎকর্ম করে, তারাই সৃষ্টির সেরা।",
-                            "verse 98:8": "তাদের পালনকর্তার কাছে রয়েছে তাদের প্রতিদান চিরকাল বসবাসের জান্নাত, যার তলদেশে নির্ঝরিণী প্রবাহিত। তারা সেখানে থাকবে অনন্তকাল। আল্লাহ তাদের প্রতি সন্তুষ্ট এবং তারা আল্লাহর প্রতি সন্তুষ্ট। এটা তার জন্যে, যে তার পালনকর্তাকে ভয় কর। সেরা।"
-                        }
-                    }
-                }
-            },
-            "bulgarian": {
-                "translators": {
-                    "1": {
-                        "Tzvetan Theophanov": {
-                            "verse 98:1": "Онези от хората на Писанието и съдружаващите, които не вярваха, не се разделиха [с неверието си], докато при тях не дойде ясният знак -",
-                            "verse 98:2": "Пратеник от Аллах, четящ пречистени свитъци [от Корана],",
-                            "verse 98:3": "в които има правдиви писания.",
-                            "verse 98:4": "И дарените с Писанието се разединиха едва след като при тях дойде ясният знак.",
-                            "verse 98:5": "И бе им повелено да се прекланят единствено пред Аллах, предани Нему в религията, правоверни, и да отслужват молитвата, и да дават милостинята закат.",
-                            "verse 98:6": "Онези от хората на Писанието и от съдружаващите, които не вярваха, ще бъдат в Огъня на Ада, там ще пребивават вечно.",
-                            "verse 98:7": "Онези, които вярват и вършат праведни дела, те са най-добрите от творенията.",
-                            "verse 98:8": "Въздаянието им при техния Господ ще са Градините на Адн, сред които реки текат, там ще пребивават вечно и завинаги."
-                        }
-                    }
-                }
-            },
-            "chinese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "信奉天經者和以物配主者，他們中不信道的人沒有離開自己原有的信仰，直到明証來臨他們。",
-                            "verse 98:2": "那個明証是真主所派遣的一個使者，他誦讀純潔的冊頁，",
-                            "verse 98:3": "其中有許多正確的經文。",
-                            "verse 98:4": "信奉天經者，沒有分離，直到明証來臨他們。",
-                            "verse 98:5": "他們只奉命崇拜真主，虔誠敬意，恪遵正教，謹守拜功，完納天課，這是正教。",
-                            "verse 98:6": "信奉天經者和以物配主者，他們中不信道的人，必入火獄，而永居其中；這等人是最惡的人。",
-                            "verse 98:7": "信道而行善的人，是最善的人，",
-                            "verse 98:8": "他們在他們的主那裡的報酬是下臨諸河的常住的樂園，他們將永居其中，真主喜悅他們，他們也喜悅他；這是畏懼真主者所有的。 信道而行善的人，是最善的人，"
-                        }
-                    }
-                }
-            },
-            "czech": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "Ti, kdož z vlastníků Písma a z modloslužebníků jsou nevěřícími, se nezačali uvolňovat, pokud k nim nepřišel důkaz jasný,",
-                            "verse 98:2": "posel od Boha, jenž přednášel jim listy očištěné,",
-                            "verse 98:3": "obsahující Písmo nezměnitelné.",
-                            "verse 98:4": "A nerozdělili se ti, jimž bylo dáno Písmo, leč až poté, co k nim přišel důkaz jasný.",
-                            "verse 98:5": "A přitom jim bylo pouze poručeno, aby uctívali Boha, zasvěcujíce mu upřímně svou víru jako hanífové, aby dodržovali modlitbu a dávali almužnu - a toto je náboženství neměnné.",
-                            "verse 98:6": "A věru ti, kdož jsou nevěřící z vlastníků Písma a z modloslužebníků, přijdou do ohně pekelného a budou v něm nesmrtelní, a to jsou ti nejhorší ze všech stvoření!",
-                            "verse 98:7": "Avšak ti, kdož uvěřili a zbožné skutky konali, to jsou ti nejlepší ze všech stvoření.",
-                            "verse 98:8": "Odměnou jejich u Pána jejich budou zahrady Edenu, pod nimiž řeky tekou a v nichž zůstanou navěky nesmrtelní."
-                        }
-                    }
-                }
-            },
-            "dutch": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "De ongelovigen onder de mensen van het Boek en onder de afgodendienaren konden niet worden bevrijd, vóórdat een duidelijk bewijs tot hen gekomen was,",
-                            "verse 98:2": "Een boodschapper van God, die aan hen de zuivere bladzijden voordroeg.",
-                            "verse 98:3": "Waarin alle geschriften verzameld zijn.",
-                            "verse 98:4": "En de mensen van het Boek werden eerst onenig, nadat het duidelijke teken tot hen gekomen was.",
-                            "verse 98:5": "En daarin werd hun slechts geboden God te aanbidden, oprecht zijnde in gehoorzaamheid jegens Hem, oprecht het gebed te onderhouden en de Zakaat te betalen.",
-                            "verse 98:6": "Voorwaar, de ongelovigen onder de mensen van het Boek en de afgodendienaren zullen in het Vuur der hel geworpen worden, daarin zullen zij verblijven.",
-                            "verse 98:7": "Doch zij die geloven en goede werken doen, zij zijn de beste der schepselen.",
-                            "verse 98:8": "Hun beloning is bij hun Heer; tuinen der eeuwigheid waardoor rivieren stromen en waarin zij voor altijd zullen vertoeven."
-                        }
-                    }
-                }
-            },
-            "english": {
-                "translators": {
-                    "1": {
-                        "Marmaduke Pickthall": {
-                            "verse 98:1": "Those who disbelieve among the People of the Scripture and the idolaters could not have left off (erring) till the clear proof came unto them,",
-                            "verse 98:2": "A messenger from Allah, reading purified pages",
-                            "verse 98:3": "Containing correct scriptures.",
-                            "verse 98:4": "Nor were the People of the Scripture divided until after the clear proof came unto them.",
-                            "verse 98:5": "And they are ordered naught else than to serve Allah, keeping religion pure for Him, as men by nature upright, and to establish worship and to pay the poor-due.",
-                            "verse 98:6": "Lo! those who disbelieve, among the People of the Scripture and the idolaters, will abide in fire of hell.",
-                            "verse 98:7": "(And) lo! those who believe and do good works are the best of created beings.",
-                            "verse 98:8": "Their reward is with their Lord: Gardens of Eden underneath which rivers flow, wherein they dwell for ever."
-                        }
-                    },
-                    "2": {
-                        "Abdullah Yusuf Ali": {
-                            "verse 98:1": "Those who reject (Truth), among the People of the Book and among the Polytheists, were not going to depart (from their ways) until there should come to them Clear Evidence,-",
-                            "verse 98:2": "An apostle from God, rehearsing scriptures kept pure and holy:",
-                            "verse 98:3": "Wherein are laws (or decrees) right and straight.",
-                            "verse 98:4": "Nor did the People of the Book make schisms, until after there came to them Clear Evidence.",
-                            "verse 98:5": "And they have been commanded no more than this: To worship God, offering Him sincere devotion, being true (in faith); to establish regular prayer; and to practise regular charity; and that is the Religion Right and Straight.",
-                            "verse 98:6": "Those who reject (Truth), among the People of the Book and among the Polytheists, will be in Hell-Fire, to dwell therein (for aye).",
-                            "verse 98:7": "Those who have faith and do righteous deeds,- they are the best of creatures.",
-                            "verse 98:8": "Their reward is with God: Gardens of Eternity, beneath which rivers flow; they will dwell therein for ever; God well pleased with them, and they with Him: all this for such as fear their Lord and Cherisher."
-                        }
-                    },
-                    "3": {
-                        "Arthur J. Arberry": {
-                            "verse 98:1": "The unbelievers of the People of the Book and the idolaters would never leave off; till the Clear Sign came to them,",
-                            "verse 98:2": "a Messenger from God, reciting pages purified,",
-                            "verse 98:3": "therein true Books.",
-                            "verse 98:4": "And they scattered not, those that were given the Book, excepting after the Clear Sign came to them.",
-                            "verse 98:5": "They were commanded only to serve God, making the religion His sincerely, men of pure faith, and to perform the prayer, and pay the alms -- that is the religion of the True.",
-                            "verse 98:6": "The unbelievers of the People of the Book and the idolaters shall be in the Fire of Gehenna, therein dwelling forever; those are the worst of creatures.",
-                            "verse 98:7": "But those who believe, and do righteous deeds, those are the best of creatures;",
-                            "verse 98:8": "their recompense is with their Lord-Gardens of Eden, underneath which rivers flow, therein dwelling for ever and ever."
-                        }
-                    },
-                    "4": {
-                        "Muhammad Asad": {
-                            "verse 98:1": "IT IS NOT",
-                            "verse 98:2": "that such as are bent on denying the truth – [be they] from among the followers of earlier revelation or from among those who ascribe divinity to aught beside God – should ever be abandoned [by Him] ere there comes unto them the",
-                            "verse 98:3": "evidence of the truth:",
-                            "verse 98:4": "an apostle from God, conveying [unto them] revelations blest with purity,",
-                            "verse 98:5": "wherein there are ordinances of ever-true soundness and clarity.",
-                            "verse 98:6": "Now those who have been vouchsafed revelation aforetime did break up their unity [of faith] after such an evidence of the truth had come to them.",
-                            "verse 98:7": "And withal, they were not enjoined aught but that they should worship God, sincere in their faith in Him alone, turning away from all that is false; and that they should be constant in prayer; and that they should spend in charity: for this is a moral law endowed with ever-true soundness and clarity.",
-                            "verse 98:8": "Verily, those who [despite all evidence] are bent on denying the truth – [be they] from among the followers of earlier revelation or from among those who ascribe divinity to aught beside God – will find themselves in the fire of hell, therein to abide: they are the worst of all creatures.",
-                            "verse 98:9": "",
-                            "verse 98:10": "verily, those who have attained to faith and do righteous deeds – it is they, they who are the best of all creatures.",
-                            "verse 98:11": "Their reward [awaits them] with God: gardens of perpetual bliss, through which running waters flow, therein to abide beyond the count of time; well-pleased is God with them, and well-pleased are they with Him: all this awaits him who of his Sustainer stands in awe!"
-                        }
-                    },
-                    "5": {
-                        "Martin Lings": {}
-                    },
-                    "6": {
-                        "Mufti Muhammad Taqi Uthmani": {
-                            "verse 98:1": "Those who disbelieved from among the People of the Book and the polytheists were not (expected) to desist (from their wrong beliefs) unless there comes to them a clear proof,",
-                            "verse 98:2": "a messenger from Allah who recites the purified scrolls",
-                            "verse 98:3": "containing (right and) straight writings.",
-                            "verse 98:4": "And those who were given the Book did not disagree but after the clear proof came to them,",
-                            "verse 98:5": "while they were not ordered but to worship Allah, making their submission exclusive for him with no deviation, and to establish Salāh and pay Zakāh .",
-                            "verse 98:6": "Surely those who disbelieved from among the People of the Book and the polytheists will be in the fire of Jahannam , in which they will be living forever.",
-                            "verse 98:7": "As for those who believed and did righteous deeds, they are the best of all human beings.",
-                            "verse 98:8": "Their reward, with their Lord, is gardens of eternity beneath which rivers flow, in which they will be abiding forever."
-                        }
-                    },
-                    "7": {
-                        "Royal Aal al-Bayt Institute Translation": {
-                            "verse 98:1": "The disbelievers from among the People of the Scripture and the idolaters were not going to leave off until the clear proof should come to them;",
-                            "verse 98:2": "a messenger from God reciting pages purified,",
-                            "verse 98:3": "wherein are upright precepts.",
-                            "verse 98:4": "And those who were given the Scripture did not become divided, except after the clear proof had come to them.",
-                            "verse 98:5": "And they were only commanded to worship God devoting religion purely to Him as ?an?fs and to establish prayer and pay the alms.",
-                            "verse 98:6": "Truly the disbelievers from among the People of the Scripture and the idolaters shall be in the fire of Hell, to abide therein — those are the worst of creatures.",
-                            "verse 98:7": "Truly those who believe and perform righteous deeds — they are the best of creatures.",
-                            "verse 98:8": "Their reward with their Lord will be Gardens of Eden underneath which rivers flow, wherein they shall abide forever."
-                        }
-                    },
-                    "8": {
-                        "Recitations of Ibrahim walk from saheeh international": {
-                            "verse 98:1": "The disbelievers from amongst the People of the Book and the idolaters would not desist (from disbelief) until clear proof came to them.",
-                            "verse 98:2": "That (proof) is the (last) Messenger from Allah, who recites (to them) holy pages (of the Glorious Qur’an),",
-                            "verse 98:3": "In which are (written) correct and firm commandments.",
-                            "verse 98:4": "These People of the Book did not dissent amongst themselves (with regard to believing in the Prophethood and Messengership of the Last Messenger and recognizing his holy status), until after the clear proof (of the Prophethood of Muhammad [blessings and peace be upon him]) had come to them.",
-                            "verse 98:5": "Whereas they were commanded to worship only Allah, making their Din (faith and devotion) sincerely His (dissociating from every falsehood) to establish Prayer and to pay Zakat (the Alms-due) regularly.",
-                            "verse 98:6": "Indeed, those who disbelieve from amongst the People of the Book and the polytheists (all) will be (abiding) in the Fire of Hell.",
-                            "verse 98:7": "Indeed, those who believe and keep doing pious actions, it is they who are the best of the creation.",
-                            "verse 98:8": "Their reward is the Gardens of eternal living in the presence of their Lord, with streams flowing under them."
-                        }
-                    }
-                }
-            },
-            "finnish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "Uskottomat sekä Kirjoituksen saaneiden että pakanain keskuudessa eivät epäilleet, ennenkuin tuli selvä todistus,",
-                            "verse 98:2": "Jumalan lähetti, joka luki heille väärentämättömät kirjoitukset,",
-                            "verse 98:3": "jotka sisältävät oikeat määräykset.",
-                            "verse 98:4": "Ja ne, joille Kirjoitus oli annettu, jakaantuivat lahkokuntiin vasta, kun selvä todistus oli tullut heidän osakseen,",
-                            "verse 98:5": "eikä heille annettu muuta käskyä kuin palvella Jumalaa, olla kuuliaisia yksin Hänelle, vilpittöminä suorittaa rukoukset ja uhrata säädetyt almut, sillä tämä on oikea usko.",
-                            "verse 98:6": "Totisesti ne, jotka eivät usko, sekä Kirjoituksen saaneet että pakanat, joutuvat helvetin tuleen ja jäävät sinne ikuisiksi ajoiksi.",
-                            "verse 98:7": "Ne, jotka uskovat ja tekevät hyviä töitä, ovat totisesti parhaita olentoja.",
-                            "verse 98:8": "Heidän palkkansa heidän Herransa luona ovat ikiautuuden puutarhat, joita virrat vilvoittavat ja joissa he saavat asua ikuisesti."
-                        }
-                    }
-                }
-            },
-            "french": {
-                "translators": {
-                    "1": {
-                        "Jean-Louis Michon": {
-                            "verse 98:1": "Les mécréants appartenant aux Gens du Livre et aux associateurs ne peuvent cesser de mécroire tant que la Preuve décisive ne leur est pas parvenue.",
-                            "verse 98:2": "[Mais voici qu'] un Envoyé de Dieu récite des feuillets purifiés",
-                            "verse 98:3": "contenant des Ecritures pérennes.",
-                            "verse 98:4": "Ceux qui avaient reçu le Livre ne se sont divisés qu'après que la Preuve décisive leur fut parvenue.",
-                            "verse 98:5": "Pourtant, il leur a seulement été ordonné d'adorer Dieu comme des croyants sincères, Lui rendant un culte pur, de s'acquitter de la prière et de faire l'aumône.",
-                            "verse 98:6": "Certes, les mécréants appartenant aux Gens du Livre et aux associateurs séjourneront à jamais dans le feu de la Géhenne.",
-                            "verse 98:7": "Certes, ceux qui croient et accomplissent des œuvres pies, ceux-là sont les meilleurs des êtres créés.",
-                            "verse 98:8": "Leur récompense auprès de leur Seigneur sera les Jardins d'Eden sous lesquels coulent les fleuves, où ils demeureront à jamais."
-                        }
-                    },
-                    "2": {
-                        "Muhammad Hamidullah ": {
-                            "verse 98:1": "Les infidèles parmi les gens du Livre, ainsi que les Associateurs, ne cesseront pas de mécroire jusqu’à ce que leur vienne la Preuve évidente :",
-                            "verse 98:2": "un Messager, de la part de Dieu, qui leur récite des feuilles purifiées,",
-                            "verse 98:3": "dans lesquelles se trouvent des prescriptions d’une rectitude parfaite.",
-                            "verse 98:4": "Et ceux à qui le Livre a été donné ne se sont divisés qu’après que la preuve leur fut venue.",
-                            "verse 98:5": "Il ne leur a été commandé, cependant, que d’adorer Dieu, Lui vouant un culte exclusif, d’accomplir la Salat et d’acquitter la Zakat.",
-                            "verse 98:6": "Les infidèles parmi les gens du Livre, ainsi que les Associateurs iront au feu de l’Enfer, pour y demeurer éternellement.",
-                            "verse 98:7": "Quant à ceux qui croient et accomplissent les bonnes oeuvres, ce sont les meilleurs de toute la création.",
-                            "verse 98:8": "Leur récompense auprès de Dieu sera les Jardins de séjour, sous lesquels coulent les ruisseaux, pour y demeurer éternellement."
-                        }
-                    }
-                }
-            },
-            "german": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "Die ungläubig sind unter dem Volk der Schrift und den Götzendienern, konnten (von ihrem Irrtum) nicht eher befreit werden, als bis ein deutlicher Beweis zu ihnen kam:",
-                            "verse 98:2": "Ein Gesandter von Allah, der (ihnen) die reinen Schriften vorliest,",
-                            "verse 98:3": "Worinnen die ewigen Gebote sind.",
-                            "verse 98:4": "Und die, denen die Schrift gegeben ward, waren nicht eher gespalten, als nachdem der deutliche Beweis zu ihnen gekommen war.",
-                            "verse 98:5": "Und doch war ihnen nichts anderes befohlen, als Allah zu dienen, in lauterem Gehorsam gegen Ihn und aufrechtem Glauben, und das Gebet zu verrichten und die Zakat zu zahlen.",
-                            "verse 98:6": "Wahrlich, jene, die ungläubig sind unter dem Volk der Schrift und den Götzendienern, werden im Feuer der Hölle sein, um darin zu bleiben.",
-                            "verse 98:7": "Die aber glauben und gute Werke üben, sie sind die besten Geschöpfe.",
-                            "verse 98:8": "Ihr Lohn ist bei ihrem Herrn: Gärten der Ewigkeit, von Strömen durchflossen; darin werden sie weilen auf immer."
-                        }
-                    }
-                }
-            },
-            "hindi": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "vgys fdrkc vkSj eq’kfjdksa ls tks yksx dkfQj Fks tc rd fd muds ikl [kqyh gq;h nyhysa u igq¡ps og ¼vius dqÝ ls½ ckt+ vkus okys u Fks",
-                            "verse 98:2": "¼;kfu½ [+kqnk ds jlwy tks ikd vkSjkd+ i<+rs gSa ¼vk, vkSj½",
-                            "verse 98:3": "muesa ¼tks½ iqjt+ksj vkSj n:Lr ckrsa fy[kh gq;h gSa ¼lquk;s½",
-                            "verse 98:4": "vgys fdrkc eqrkQ+fjZd+ gq, Hkh rks tc muds ikl [kqyh gq;h nyhy vk pqdh",
-                            "verse 98:5": "¼rc½ vkSj mUgsa rks cl ;s gqDe fn;k x;k Fkk fd fujk [+kqjk mlh dk ,rd+kn j[k ds ckfry ls drjk ds [k+qnk dh bcknr djs vkSj ikcUnh ls uekt+ i<+s vkSj t+dkr vnk djrk jgs vkSj ;gh lPpk nhu gS",
-                            "verse 98:6": "cs’kd vgys fdrkc vkSj eq’kjsdhu ls tks yksx ¼vc rd½ dkfQ+j gSa og nkst+[+k dh vkx esa ¼gksaxs½ ges’kk mlh esa jgsaxs ;gh yksx cnrjhu [+kyk,d+ gSa",
-                            "verse 98:7": "cs’kd tks yksx bZeku yk, vkSj vPNs dke djrs jgs ;gh yksx csgrjhu [k+yk,d+ gSa",
-                            "verse 98:8": "mudh tt+k muds ijojfnxkj ds ;gk¡ ges’kk jgus ¼lgus½ ds ckx+ gSa ftuds uhps ugjsa tkjh gSa vkSj og vkcknqy vkckn ges’kk mlh esa jgsaxs [k+qnk muls jkt+h vkSj og [+kqnk ls [+kq’k ;s ¼tt+k½ [k+kl ml Ó[+l dh gS tks vius ijojfnxkj ls Mjs"
-                        }
-                    }
-                }
-            },
-            "indonesian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "Orang-orang kafir yakni ahli kitab dan orang-orang musyrik (mengatakan bahwa mereka) tidak akan meninggalkan (agamanya) sebelum datang kepada mereka bukti yang nyata,",
-                            "verse 98:2": "(yaitu) seorang Rasul dari Allah (Muhammad) yang membacakan lembaran-lembaran yang disucikan (Al Qur’an),",
-                            "verse 98:3": "di dalamnya terdapat (isi) kitab-kitab yang lurus.",
-                            "verse 98:4": "Dan tidaklah berpecah belah orang-orang yang didatangkan Al Kitab (kepada mereka) melainkan sesudah datang kepada mereka bukti yang nyata.",
-                            "verse 98:5": "Padahal mereka tidak disuruh kecuali supaya menyembah Allah dengan memurnikan keta’atan kepada-Nya dalam (menjalankan) agama dengan lurus dan supaya mereka mendirikan shalat dan menunaikan zakat; dan yang demikian itulah agama yang lurus.",
-                            "verse 98:6": "Sesungguhnya orang-orang kafir yakni ahli Kitab dan orang-orang musyrik (akan masuk) ke neraka Jahannam; mereka kekal di dalamnya.",
-                            "verse 98:7": "Sesungguhnya orang-orang yang beriman dan mengerjakan amal saleh mereka itu adalah sebaik-baik makhluk.",
-                            "verse 98:8": "Balasan mereka di sisi Tuhan mereka ialah surga ’Adn yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya selama-lamanya."
-                        }
-                    }
-                }
-            },
-            "italian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "I miscredenti fra la gente della Scrittura e gli associatori , non cesseranno , finché che non giunga loro la Prova Evidente .",
-                            "verse 98:2": "un Messaggero, da parte di Allah, che legge fogli purissimi ,",
-                            "verse 98:3": "contenenti precetti immutabili.",
-                            "verse 98:4": "Coloro cui fu data la Scrittura non si divisero, finché non giunse loro la Prova Evidente ;",
-                            "verse 98:5": "eppure non ricevettero altro comando che di adorare Allah, tributandoGli un culto esclusivo e sincero , di eseguire l'orazione e di versare la decima .",
-                            "verse 98:6": "In verità i miscredenti fra gente della Scrittura e gli associatori, saranno nel fuoco dell'Inferno, dove rimarranno in perpetuo.",
-                            "verse 98:7": "Quelli che invece credono e compiono il bene sono i migliori di tutta la creazione.",
-                            "verse 98:8": "Presso il loro Signore, la loro ricompensa saranno i Giardini di Eden, dove scorrono i ruscelli, in cui rimarranno in perpetuo."
-                        }
-                    }
-                }
-            },
-            "japanese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "啓典の民の中（真理を）拒否した者も多神教徒も，かれらに明証が来るまで，（道から）離れようとしなかった。",
-                            "verse 98:2": "またアッラーからの使徒が，純聖な書巻を，読んで聞かせるまでは。",
-                            "verse 98:3": "その中には，不滅の正しい記録（� ）がある。",
-                            "verse 98:4": "啓典を授かっている者たちが，分派したのは，明証がかれらに来てから後のことであった。",
-                            "verse 98:5": "かれらの命じられたことは，只アッラーに仕え，かれに信心の誠を尽し，純正に服従，帰依して，礼拝の務めを守り，定めの喜捨をしなさいと，言うだけのことであった。これこそ真正の教えである。",
-                            "verse 98:6": "啓典の民の中（真理を）拒否した者も，多神教徒も，地獄の火に（投げ込まれ）て，その中に永遠に住む。これらは，衆生の中最悪の者である。",
-                            "verse 98:7": "だが信仰して善行に勤しむ者たち，これらは，衆生の中最善の者である。",
-                            "verse 98:8": "かれらへの報奨は，主の御許の，川が下を流れる永遠の園である。永遠にその中に住むであろう。アッラーはかれらを喜ばれ，かれらもかれに満悦する。それは主を畏れる者（への報奨）である。 だが信仰して善行に勤しむ者たち，これらは，衆生の中最善の者である。"
-                        }
-                    }
-                }
-            },
-            "korean": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "성서의 백성들 가운데 진리 를 거역한 자들과 불신자들은 분 명한 예증이 그들에게 이를 때 까지 그들은 길을 떠나려 하지 아니 하였노라",
-                            "verse 98:2": "이 예증은 성스러운 말씀을 낭송할 하나님의 선지자로",
-                            "verse 98:3": "그 안에는 올바른 율법이 있 노라",
-                            "verse 98:4": "성서의 백성들은 그들에게 분명한 예증이 이를 때 까지 의견을달리하지 아니 했으니",
-                            "verse 98:5": "그들에게 주어진 명령은 하 나님을 경배하고 진실한 믿음이 되도록 그분께 헌신하며 기도를 드리고 이슬람세를 바치는 것들이참된 신앙이라",
-                            "verse 98:6": "실로 성서의 백성들 중에 진 리를 거역한 자들과 불신자들은 불지옥에 있게 되리니 그들은 그 안에서 영주하매 가장 사악한 무 리들이라",
-                            "verse 98:7": "그러나 믿음으로 선을 실천하는 자들은 가장 의로운 자들로",
-                            "verse 98:8": "그들을 위해 주님의 보상이 있나니 밑으로 강물이 흐르는 영 생할 에덴의 천국이라 하나님은 그들로 기뻐하시고 그들은 그분으로 기뻐하리니 그것은 주님을 두 려워하는 자에 대한 보상이라"
-                        }
-                    }
-                }
-            },
-            "kurdish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "ئه‌وانه‌ی بێ باوه‌ڕ بوون له خاوه‌نی کتێبه‌کان له‌گه‌ڵ موشریك و هاوه‌ڵگه‌ران، وازیان له بیرو باوه‌ڕی خۆیان هێنا، هه‌تا به‌ڵگه‌و نیشانه‌ی ڕوون و ئاشکرایان بۆ نه‌هات (ده‌رباره‌ی دواهه‌مین پێغه‌مبه‌ر).",
-                            "verse 98:2": "(ئه‌ویش) پێغه‌مبه‌رێکه له‌لایه‌ن خواوه کتێب و نامه‌ی پاك و بێگه‌ردیان به‌سه‌ردا ده‌خوێنێته‌وه (که قورئانه‌).",
-                            "verse 98:3": "چه‌نده‌ها په‌یامی پڕ له ڕێنموویی به نرخی له توێدا هه‌یه‌.",
-                            "verse 98:4": "جا خاوه‌ن کتێبه‌کان ده‌سته ده‌سته‌و پارچه پارچه نه‌بوون، دوای ئه‌وه نه‌بێت که به‌ڵگه‌و نیشانه‌ی ئاشکرایان بۆ هات (ده‌رباره‌ی پێغه‌مبه‌رو قورئان).",
-                            "verse 98:5": "فه‌رمانیشیان پێنه‌درابوو جگه به‌وه‌ی که خواپه‌رستی بکه‌ن و به‌پاکی و دڵسۆزی و ملکه‌چی فه‌رمانبه‌رداری ئاین و به‌رنامه‌که بن و لابده‌ن له هه‌موو ئایینێك و ته‌نها پابه‌ندی ئایینی ئیسلام بن، نوێژیش به‌ڕێك و پێکی ئه‌نجام بده‌ن، زه‌کاتیش له ماڵ و سامانیان ده‌ربکه‌ن، ئه‌وه‌یه ئاینی نامه ڕاست و به‌نرخه‌کانی خوا.",
-                            "verse 98:6": "به‌ڕاستی ئه‌وانه‌ی بێ باوه‌ڕ بوون له خاوه‌ن کتێبه‌کان و موشریك و هاوه‌ڵگه‌ران ده‌خرێنه ناو ئاگری دۆزه‌خه‌وه‌و به نه‌مری تیایدا بۆ هه‌میشه ده‌مێننه‌وه‌، هه‌ر ئه‌وانه‌ن تاوانبارترین و خراپترینی خه‌ڵکانی سه‌رزه‌وی.",
-                            "verse 98:7": "بێگومان ئه‌وانه‌ی ئیمان و باوه‌ڕیان هێناوه‌و کارو کرده‌وه چاکه‌کانیان ئه‌نجامداوه‌، هه‌ر ئه‌وانه‌ن چاکترین و پاکترینی خه‌ڵکانی سه‌ر زه‌وی.",
-                            "verse 98:8": "پاداشتیان لای په‌روه‌ردگاریان به‌هه‌شتی پڕ له باخی چڕه (که کۆشك و ته‌لاره‌کان تیایدا ون بوون)، چه‌نده‌ها ڕووباریش به‌ژێر دره‌خت و به‌به‌رده‌م کۆشکه‌کانیدا ده‌ڕوات و له‌وێ ژیانی هه‌میشه‌یی و به‌رده‌وام بۆ هه‌تا هه‌تایی ده‌به‌نه سه‌ر، ئه‌وانه خوا ڕازیه لێیان، ئه‌وانیش له‌و ڕازین (چۆن ڕازی نابن ئه‌ی په‌روه‌ردگاری ئازیز، به‌ڕاستی نازانین به‌چ زمانێك سوپاسگوزارت بین) بێگومان ئه‌و ڕێزو قه‌دره بۆ ئه‌و که‌سه‌یه که له په‌روه‌ردگاری ترساوه‌و فه‌رمانه‌کانی به‌جێ هێناوه‌."
-                        }
-                    }
-                }
-            },
-            "malay": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "Orang-orang yang kafir dari Ahli Kitab (Yahudi dan Nasrani) serta orang-orang musyrik, tidak akan terlepas (dari kepercayaan dan amalan masing-masing) sehingga datang kepada mereka bukti yang jelas nyata, -",
-                            "verse 98:2": "Iaitu seorang Rasul dari Allah yang membacakan (kepada mereka) Lembaran-lembaran Suci,",
-                            "verse 98:3": "Terkandung di dalamnya pelajaran-pelajaran dan hukum-hukum yang benar.",
-                            "verse 98:4": "Dan orang-orang (Yahudi dan Nasrani) yang diberi Kitab (Taurat dan Injil) itu, tidak berpecah-belah melainkan setelah datang kepada mereka bukti yang jelas nyata.",
-                            "verse 98:5": "Pada hal mereka tidak diperintahkan melainkan supaya menyembah Allah dengan mengikhlaskan ibadat kepadaNya, lagi tetap teguh di atas tauhid dan supaya mereka mendirikan sembahyang serta memberi zakat dan yang demikian itulah agama yang benar.",
-                            "verse 98:6": "Sesungguhnya orang-orang yang kafir dari Ahli Kitab dan orang-orang musyrik itu akan ditempatkan di dalam Neraka Jahannam, kekallah mereka di dalamnya.",
-                            "verse 98:7": "Sesungguhnya orang-orang yang beriman dan beramal soleh, mereka itulah sebaik-baik makhluk.",
-                            "verse 98:8": "Balasan mereka di sisi Tuhannya ialah Syurga Adn (tempat tinggal yang tetap), yang mengalir di bawahnya beberapa sungai; kekallah mereka di dalamnya selama-lamanya; Allah reda akan mereka dan merekapun reda (serta bersyukur) akan nikmat pemberianNya."
-                        }
-                    }
-                }
-            },
-            "persian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "كافران از اهل كتاب و مشركان (مى‏گفتند:) دست از آيين خود برنمى‏دارند تا دليل روشنى براى آنها بيايد،",
-                            "verse 98:2": "پيامبرى از سوى خدا (بيايد) كه صحيفه‏هاى پاكى را (بر آنها) بخواند،",
-                            "verse 98:3": "و در آن نوشته‏هاى صحيح و پرارزشى باشد! (ولى هنگامى كه آمد ايمان نياوردند، مانند اهل كتاب)",
-                            "verse 98:4": "اهل كتاب (نيز در دين خدا) اختلاف نكردند مگر بعد از آنكه دليل روشن براى آنان آمد!",
-                            "verse 98:5": "و به آنها دستورى داده نشده بود جز اينكه خدا را بپرستند در حالى كه دين خود را براى او خالص كنند و از شرك به توحيد بازگردند، نماز را برپا دارند و زكات را بپردازند; و اين است آيين مستقيم و پايدار!",
-                            "verse 98:6": "كافران از اهل كتاب و مشركان در آتش دوزخند، جاودانه در آن مى‏مانند; آنها بدترين مخلوقاتند!",
-                            "verse 98:7": "(اما) كسانى كه ايمان آوردند و اعمال صالح انجام دادند، بهترين مخلوقات (خدا)يند!",
-                            "verse 98:8": "پاداش آنها نزد پروردگارشان باغهاى بهشت جاويدان است كه نهرها از زير درختانش جارى است; هميشه در آن مى‏مانند! (هم) خدا از آنها خشنود است و (هم) آنها از خدا خشنودند; و اين (مقام والا) براى كسى است كه از پروردگارش بترسد!"
-                        }
-                    }
-                }
-            },
-            "portuguese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "Os incrédulos, entre os adeptos do Livro, bem como os idólatras, não desistiriam da sua religião, a não ser quando lhes chegasse a Evidência:",
-                            "verse 98:2": "Um Mensageiro de Deus, que lhes recitasse páginas purificadas,",
-                            "verse 98:3": "Que contivessem escrituras corretas.",
-                            "verse 98:4": "Os adeptos do Livro não se dividiram, senão depois de lhes ter chegado a Evidência,",
-                            "verse 98:5": "E lhes foi ordenado que adorassem sinceramente a Deus, fossem monoteístas, observassem a oração e pagassem o zakat; esta é a verdadeira religião.",
-                            "verse 98:6": "Em verdade, os incrédulos, entre os adeptos do Livro, bem como os idólatras, entrarão no fogo infernal, onde permanecerão eternamente.",
-                            "verse 98:7": "Por outra, os fiéis, que praticam o bem, são as melhores criaturas,",
-                            "verse 98:8": "Cuja recompensa está em seu Senhor: Jardins do Éden, abaixo dos quais correm os rios, onde morarão eternamente."
-                        }
-                    }
-                }
-            },
-            "romanian": {
-                "translators": {
-                    "1": {
-                        "Lucrarea (traducere úi editare) a fost realizată de către": {
-                            "verse 98:1": "Cei care nu au crezut dintre oamenii Cãrții , ca și idolatrii , nu au încetat sã nu creadã pânã nu le-a venit lor Dovada cea limpede:",
-                            "verse 98:2": "Un Trimis din partea lui Allah , care sã le citeascã foi curãțite ,",
-                            "verse 98:3": "În care sunt scripturi cu judecatã dreaptã.",
-                            "verse 98:4": "Și nu s-au despãrțit cei cãrora le-a fost datã Cartea, decât dupã ce le-a venit lor dovada cea limpede .",
-                            "verse 98:5": "Și nu li s-a poruncit decât sã-L adore pe Allah, cu credințã curatã șistatornicã în religia Lui, sã împlineascã Rugãciunea",
-                            "verse 98:6": "și sãachite Dania .",
-                            "verse 98:7": "Și a",
-                            "verse 98:8": "Cei care nu cred dintre oamenii Cãrții, ca și idolatrii, în veci vorpetrece în focul Gheenei.",
-                            "verse 98:9": "Aceia care cred și împlinesc fapte bune, aceia sunt cei mai buni dintre toate fãpturile.",
-                            "verse 98:10": "Rãsplata lor de la Domnul lor sunt Grãdinile Edenului, pe sub care curg pâraie, și în ele vor petrece veșnic, cãci Allah este mulțumit de ei , iar ei sunt mulțumiți de El."
-                        }
-                    },
-                    "2": {
-                        "George Grigore, Coranul": {
-                            "verse 98:1": "Cei dintre oamenii Cărţii care tăgăduiesc, precum şi închinătorii la idoli, nu se vor răsfira până ce nu le va veni dovada desluşită:",
-                            "verse 98:2": "un trimis de la Dumnezeu care recită din suluri prea-curate",
-                            "verse 98:3": "cu scrieri nestemate.",
-                            "verse 98:4": "Celor cărora le-a fost dată Cartea nu s-au despărţit decât după ce le-a venit dovada.",
-                            "verse 98:5": "Nu li s-a poruncit decât să se închine lui Dumnezeu, curaţi Lui în credinţă, precum credincioşii dintâi, să-şi facă rugăciunea şi să dea milostenie.",
-                            "verse 98:6": "Cei dintre oamenii Cărtii care tăgăduiesc, precum şi închinătorii la idoli, în focul Gheenei vor veşnici, căci ei sunt tot ce este mai rău pe lume.",
-                            "verse 98:7": "Cei care cred şi săvârşesc fapte bune, ei sunt tot ce este mai bun pe lume.",
-                            "verse 98:8": "Ei vor avea, drept răsplată, de la Domnul lor, grădinile Edenului pe sub care curg râuri, unde vor veşnici."
-                        }
-                    }
-                }
-            },
-            "russian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "Неверные из тех, кто получилПисанье,И многобожникиНе отошли бы (от своих учений)До той поры, пока к ним не пришлоОткрытое свидетельство (Господне) —",
-                            "verse 98:2": "Посланник от Аллаха, читающий имСвитки2333В их праведности и чистоте,",
-                            "verse 98:3": "В которых с ясностью даныУстановления Господни.",
-                            "verse 98:4": "И не делились меж собоюлюди Книги,А (разделение пришло),Когда явилось Ясное Знаменье.",
-                            "verse 98:5": "И было им повелено уверовать(в Аллаха)И в поклонении Аллаху искренностьблюсти,Быть верным в правоверии своем,И по часам творить молитву,И править милостыню для очищенья.",
-                            "verse 98:6": "Неверные из тех, кто получил Писанье,И многобожникиГореть навечно будут в адовом огне, —Поистине, они — сквернейшиеиз всех созданий!",
-                            "verse 98:7": "Те ж, кто уверовал в АллахаИ праведные действия вершит, —Прекраснейшие из созданий (Бога)!",
-                            "verse 98:8": "Господнею наградой им — Эдемскиесады,Потоками речными омовенны,Где пребывать навечно им."
-                        }
-                    }
-                }
-            },
-            "spanish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "Los que no creen, tanto gente de la Escritura como asociadores, no podían renunciar hasta que les viniera la prueba clara:",
-                            "verse 98:2": "Un Enviado de Dios, que recitara hojas purificadas,",
-                            "verse 98:3": "que contenían Escrituras verdaderas.",
-                            "verse 98:4": "Y quienes recibieron la Escritura no se dividieron sino después de venir a ellos la prueba clara.",
-                            "verse 98:5": "Pero no se les ordenó sino que sirvieran a Dios, rindiéndole culto sincero comohanifes, que hicieran la azalá y dieran el azaque.",
-                            "verse 98:6": "Los que no crean, tanto gente de la Escritura como asociadores estarán, eternamente, en el fuego de la gehena.",
-                            "verse 98:7": "En cambio, los que crean y obren bien, ésos son lo mejor de la creación,",
-                            "verse 98:8": "y tendrán como retribución, junto a su Señor, los jardines del edén, por cuyos bajos fluyen arroyos, en los que estarán eternamente, para siempre."
-                        }
-                    }
-                }
-            },
-            "tamil": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "வேதக்காரர்களிலும், முஷ்ரிக்குகளிலும் எவர்கள் நிராகரிக்கின்றார்களோ, அவர்கள் தங்களிடம் தெளிவான ஆதாரம் வரும் வரை (தம் வழிகளிலிருந்து) விலகுபவர்கள் அல்லர்.",
-                            "verse 98:2": "(அத் தெளிவான ஆதாரம்) அல்லாஹ்விடமிருந்து வந்த தூதர், அவர்களுக்கு பரிசுத்தமான ஆகமங்களை ஓதிக் காண்பிக்கிறார் (என்பது).",
-                            "verse 98:3": "அவற்றில் நிலையான சட்டதிட்டங்கள் வரையப்பட்டுள்ளன.",
-                            "verse 98:4": "எனினும் வேதக்காரர்கள் அவர்களுக்குத் தெளிவான (இந்த) ஆதாரம் வந்த பின்னரேயன்றி அவர்கள் பிளவுபடவில்லை.",
-                            "verse 98:5": "\"அல்லாஹ்வுக்கு வணக்கத்தை தூய்மையாக்கியவர்களாக (தவறான வழியிலிருந்து விலகி சரியான வழியில்) பிடிப்புள்ளவர்களாக அல்லாஹ்வை அவர்கள் வணங்க வேண்டும், மேலும் தொழுகையை அவர்கள் நிலைநாட்டவேண்டும், மேலும் ஜகாத்தை அவர்கள் வழங்க வேண்டும் என்பதைத் தவிர (வேறெதுவும்) அவர்களுக்குக் கட்டளையிடப்படவில்லை.",
-                            "verse 98:6": "நிச்சயமாக வேதக்காரர்களிலும் முஷ்ரிக்குகளிலும் எவர்கள் நிராகரிக்கிறார்களோ அவர்கள் நரக நெருப்பில் இருப்பார்கள் - அதில் என்றென்றும் இருப்பார்கள் - இத்தகையவர்கள்தாம் படைப்புகளில் மிகக் கெட்டவர்கள் ஆவார்கள்.",
-                            "verse 98:7": "நிச்சயமாக, எவர்கள் ஈமான் கொண்டு, ஸாலிஹான (நல்ல) அமல்கள் செய்கிறார்களோ, அவர்கள் தாம் படைப்புகளில் மிக மேலானவர்கள் ஆவார்கள்.",
-                            "verse 98:8": "அவர்களுடைய நற்கூலி, அவர்களுடைய இறைவனிடத்திலுள்ள அத்னு என்னும் சுவர்க்கச் சோலைகளாகும்."
-                        }
-                    }
-                }
-            },
-            "thai": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "บรรดาผู้ปฏิเสธศรัทธาในหมู่อะฮ์ลุลกิตาบและพวกบูชาเจว็ดนั้นจะไม่พ้นจาก (หลักศรัทธาของพวกเขา) จนกว่าจะได้มีหลักฐานอันชัดแจ้งมายังพวกเขา",
-                            "verse 98:2": "คือร่อซู้ลคนหนึ่งจากอัลลอฮ์เพื่ออ่านคัมภีร์อันบริสุทธิ์",
-                            "verse 98:3": "ในคัมภีร์นั้นมีบัญญัติอันเที่ยงตรง",
-                            "verse 98:4": "และบรรดาผู้ที่ได้รับคัมภีร์ (อะฮ์ลุลกิตาบ) นั้น มิได้แตกแยกกัน เว้นแต่หลังจากที่ได้มีหลักฐานอันชัดแจ้งมายังพวกเขาแล้ว",
-                            "verse 98:5": "และพวกเขามิได้ถูกบัญชาให้กระทำอื่นใดนอกจากเพื่อเคารพภักดีต่ออัลลอฮ์ เป็นผู้มีเจตนาบริสุทธิ์ในการภักดีต่อพระองค์ เป็นผู้อยู่ในแนวทางที่เที่ยงตรงและดำรงการละหมาด และจ่ายซะกาต และนั่นแหละคือศาสนาอันเที่ยงธรรม",
-                            "verse 98:6": "แท้จริงบรรดาผู้ปฏิเสธศรัทธาในหมู่อะฮ์ลุลกิตาบและบูชาเจว็ดนั้นจะอยู่ในนรกญะฮันนัม พวกเขาเป็นผู้พำนักอยู่ในนั้นตลอดกาล ชนเหล่านั้นพวกเขาเป็นมนุษย์ที่ชั่วช้ายิ่ง",
-                            "verse 98:7": "แท้จริง บรรดาผู้ศรัทธาและประกอบความดีทั้งหลาย ชนเหล่านั้น พวกเขาเป็นมนุษย์ที่ดียิ่ง",
-                            "verse 98:8": "การตอบแทนของพวกเขา ณ ที่พระเจ้าของพวกเขาคือสวนสวรรค์หลากหลายอันสถาพร ณ เบื้องล่างของมันมีลำน้ำหลายสายไหลผ่าน พวกเขาเป็นผู้พำนักอยู่ในนั้นตลอดกาล อัลลอฮ์ทรงปิติต่อพวกเขา และพวกเขาก็ยินดีในพระองค์ นั่นคือสำหรับผู้ที่กลัวเกรงพระเจ้าของพวกเขา"
-                        }
-                    }
-                }
-            },
-            "turkish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "Apaçık delil kendilerine gelinceye kadar ehl-i kitaptan ve müşriklerden inkârcılar (küfürden) ayrılacak değillerdi.",
-                            "verse 98:2": "(İşte o apaçık delil,) Allah tarafından gönderilen ve tertemiz sahifeleri okuyan bir elçidir.",
-                            "verse 98:3": "En doğru hükümler vardır şu sahifelerde.",
-                            "verse 98:4": "Kendilerine kitap verilenler ancak o açık delil (Peygamber) kendilerine geldikten sonra ayrılığa düştüler.",
-                            "verse 98:5": "Halbuki onlara ancak, dini yalnız O'na has kılarak ve hanifler olarak Allah'a kulluk etmeleri, namaz kılmaları ve zekât vermeleri emrolunmuştu.",
-                            "verse 98:6": "Ehl-i kitap ve müşriklerden olan inkârcılar, içinde ebedî olarak kalacakları cehennem ateşindedirler.",
-                            "verse 98:7": "İman edip sâlih ameller işleyenlere gelince, halkın en hayırlısı da onlardır.",
-                            "verse 98:8": "Onların Rableri katındaki mükâfatları, zemininden ırmaklar akan, içinde devamlı olarak kalacakları Adn cennetleridir."
-                        }
-                    }
-                }
-            },
-            "urdu": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "جو لوگ کافر ہیں (یعنی) اہل کتاب اور مشرک وہ (کفر سے) باز رہنے والے نہ تھے جب تک ان کے پاس کھلی دلیل (نہ) آتی",
-                            "verse 98:2": "اہلِ کتاب ميں سے جو لوگ کافر ہو گئے اور مشرکين اس وقت تک (کفر سے) الگ ہونے والے نہ تھے جب تک ان کے پاس روشن دليل (نہ) آجاتيo",
-                            "verse 98:3": "(وہ دليل) ا? کي طرف سے رسول (آخر الزماں صلي اللہ عليہ وآلہ وسلم) ہيں جو (ان پر) پاکيزہ اوراقِ (قرآن) کي تلاوت فرماتے ہيںo",
-                            "verse 98:4": "(یعنی) خدا کے پیغمبر جو پاک اوراق پڑھتے ہیں",
-                            "verse 98:5": "جن میں( مستحکم) آیتیں لکھی ہوئی ہیں",
-                            "verse 98:6": "جن ميں درست اور مستحکم احکام (درج) ہيںo",
-                            "verse 98:7": "(ان) اہل کتاب ميں (نبي آخر الزماں صلي اللہ عليہ وآلہ وسلم کي نبوت و رسالت پر ايمان لانے اور آپ کي شانِ اقدس کو پہچاننے کے بارے ميں پہلے) کوئي پھوٹ نہ پڑي تھي مگر اس کے بعد کہ جب (بعثتِ محمدي صلي اللہ عليہ وآلہ وسلم کي) روشن دليل ان کے پاس آگئي (تو وہ باہم بٹ گئے کوئي ان پر ايمان لے آيا اور کوئي حسد کے باعث منکر و کافر ہوگيا)o",
-                            "verse 98:8": "اور اہل کتاب جو متفرق (و مختلف) ہوئے ہیں تو دلیل واضح آنے کے بعد( ہوئے ہیں)",
-                            "verse 98:9": "اور ان کو حکم تو یہی ہوا تھا کہ اخلاص عمل کے ساتھ خدا کی عبادت کریں (اور) یکسو ہو کراورنماز پڑھیں اور زکوٰة دیں اور یہی سچا دین ہے",
-                            "verse 98:10": "حالانکہ انہيں فقط يہي حکم ديا گيا تھا کہ صرف اسي کے لئے اپنے دين کو خالص کرتے ہوئے ا? کي عبادت کريں، (ہر باطل سے جدا ہو کر) حق کي طرف يک سُوئي پيدا کريں اور نماز قائم کريں اور زکو?? ديا کريں اور يہي سيدھا اور مضبوط دين ہےo",
-                            "verse 98:11": "بيشک جو لوگ اہلِ کتاب ميں سے کافر ہوگئے اور مشرکين (سب) دوزخ کي آگ ميں (پڑے) ہوں گے وہ ہميشہ اسي ميں رہنے والے ہيں، يہي لوگ بد ترين مخلوق ہيںo",
-                            "verse 98:12": "جو لوگ کافر ہیں (یعنی) اہل کتاب اور مشرک وہ دوزخ کی آگ میں پڑیں گے (اور) ہمیشہ اس میں رہیں گے۔ یہ لوگ سب مخلوق سے بدتر ہیں",
-                            "verse 98:13": "(اور) جو لوگ ایمان لائے اور نیک عمل کرتے رہے وہ تمام خلقت سے بہتر ہیں",
-                            "verse 98:14": "بيشک جو لوگ ايمان لائے اور نيک عمل کرتے رہے وہي لوگ ساري مخلوق سے بہتر ہيںo",
-                            "verse 98:15": "ان کي جزا ان کے رب کے حضور دائمي رہائش کے باغات ہيں جن کے نيچے سے نہريں رواں ہيں، وہ ان ميں ہميشہ ہميشہ رہيں گے، ا? اُن سے راضي ہوگيا ہے اور وہ لوگ اس سے راضي ہيں، يہ (مقام) اس شخص کے لئے ہے جو اپنے رب سے خائف رہاo",
-                            "verse 98:16": "ان کا صلہ ان کے پروردگار کے ہاں ہمیشہ رہنے کے باغ ہیں جن کے نیچے نہریں بہہ رہی ہیں ابدالاباد ان میں رہیں گے۔ خدا ان سے خوش اور وہ اس سے خوش۔ یہ (صلہ) اس کے لیے ہے جو اپنے پروردگار سے ڈرتا رہا رہاo"
-                        }
-                    }
-                }
-            },
-            "uzbek": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 98:1": "Аҳли китоб ва мушриклардан бўлган куфр келтирганларга «баййина» келмагунча ажралмасдилар.",
-                            "verse 98:2": "У (баййина) Аллоҳ тарафидан юборилган Расул бўлиб, покланган саҳифаларни тиловат қиладир.",
-                            "verse 98:3": "Уларда ажойиб битиклар бордир.",
-                            "verse 98:4": "Китоб берилганлар уларга «баййина» келганидан сўнггина бўлиниб кетишди.",
-                            "verse 98:5": "Ҳолбуки, улар фақат Аллоҳгагина ибодат қилишга, Унинг динигагина ихлос қилишга, бошқа динларга мойил бўлмасликка, намозни тўлиқ ўқишга, закот беришга буюрилган эдилар.",
-                            "verse 98:6": "Албатта, аҳли китоб ва мушриклардан бўлган куфр келтирганлар жаҳаннам ўтидадурлар, у ерда абадий қолурлар.",
-                            "verse 98:7": "Албатта, иймон келтирганлар ва солиҳ амалларни қилганлар, ана ўшалар, халойиқнинг энг яхшиларидир.",
-                            "verse 98:8": "Уларнинг мукофотлари Роббилари ҳузуридаги остидан анҳорлар оқиб турган жаннат «адн»дир."
-                        }
-                    }
-                }
-            }
+        "Albanian": {
+            "verse 98:1": "Nuk u larguan nga feja e tyre – mohuesit, që ishin nga idhtarët e Librit, si dhe paganët, deri sa ju erdhi argumenti i qartë:",
+            "verse 98:2": "Pejgamberi nga Perëndia, i cili lexon broshurat e pastra (nga gabimet),",
+            "verse 98:3": "në të cilat ka kapituj me dispozita të çmueshme.",
+            "verse 98:4": "E u ndanë (nuk u pajtuan) ata që patën Librin, vetëm atëherë kur u erdhi argumenti i qartë,",
+            "verse 98:5": "e janë urdhëruar ata që t’i luten vetëm Perëndisë, që sinqerisht, si besimtarë të vërtetë, të predikojnë fenë dhe të bëjnë namaz, dhe të ndajnë lëmoshën (zeqatin); e kjo është feja e drejtë.",
+            "verse 98:6": "Ata që nuk besojnë, si ata që patën Libër ashtu edhe paganët, ata, me siguri do të gjenden në zjarrin e skëterrës, në te do të mbeten përherë, ata janë krijesat më të këqia.",
+            "verse 98:7": "E, me të vërtetë, ata që besojnë dhe punojnë vepra të mira – ata janë krijesat më të mira,",
+            "verse 98:8": "shpërblimi i tyre te Zoti i tyre janë kopshtet (xhennetet) e Adnit, nëpër të cilat rrjedhin lumenjt ku do të banojnë përherë dhe përgjithmonë. Perëndia është i kënaqur me ta, si dhe ata janë të kënaqur me Te. Kjo është dhuratë për ata që i druajnë Zotit të vet."
+        },
+        "Amharic": {
+            "verse 98:1": "እነዚያ ከመጽሐፉ ባለቤቶች ከአጋሪዎቹም የካዱት ግልጹ አስረጅ እስከ መጣላቸው ድረስ (ከነበሩበት ላይ) ተወጋጆች አልነበሩም፡፡",
+            "verse 98:2": "(አስረጁም) ከአላህ የኾነ መልክተኛ የተጥራሩን መጽሐፎች የሚያነብ ነው፡፡",
+            "verse 98:3": "በውስጧ ቀጥተኛ የኾኑ ጽሑፎች ያሉባት የኾነችን፡፡",
+            "verse 98:4": "እነዚያም መጽሐፉን የተሰጡት ሰዎች ግልጽ አስረጅ ከመጣላቸው በኋላ እንጅ አልተለያዩም፡፡",
+            "verse 98:5": "አላህን ሃይማኖትን ለእርሱ ብቻ አጥሪዎች፣ ቀጥተኞች ኾነው ሊግገዙት፣ ሶላትንም አስተካክለው ሊሰግዱ ዘካንም ሊሰጡ እንጅ ያልታዘዙ ሲኾኑ (ተለያዩ)፡፡ ይህም የቀጥተኛይቱ (ሃይማኖት) ድንጋጌ ነው፡፡",
+            "verse 98:6": "እነዚያ ከመጽሐፉ ሰዎች የካዱት፣ አጋሪዎቹም በገሀነም እሳት ውስጥ ናቸው፤ በውስጧ ዘውታሪዎች ሲኾኑ እነዚያ እነርሱ ከፍጥረት ሁሉ ክፉ ናቸው፡፡",
+            "verse 98:7": "እነዚያ ያመኑትና መልካሞችንም የሠሩት፣ እነዚያ እነርሱ ከፍጥረት ሁሉ በላጭ ናቸው፡፡",
+            "verse 98:8": "በጌታቸው ዘንድ ምንዳቸው ከሥሮቻቸው ወንዞች የሚፈሱባቸው የመኖሪያ ገነቶች ነው፡፡ በውስጣቸው ዘለዓለም ዘውታሪዎች ሲኾኑ (ይገቡባቸወል)፡፡ አላህ ከእነርሱ ወደደ፡፡ ከእርሱም ወደዱ፡፡ ይህ ጌታውን ለፈራ ሰው ነው፡፡"
+        },
+        "Arabic": {
+            "verse 98:1": "ُةَنِّيَبْلا ُمُهَيِتْأَت ٰىَّتَح َنيِّكَفنُم َنيِكِرْشُمْلاَو ِباَتِكْلا ِلْهَأ ْنِم اوُرَفَك َنيِذَّلا ِنُكَي ْمَل",
+            "verse 98:2": "ًةَرَّهَطُّم اًفُحُص وُلْتَي ِهَّللا َنِّم ٌلوُسَر",
+            "verse 98:3": "ٌةَمِّيَق ٌبُتُك اَهيِف",
+            "verse 98:4": "ُةَنِّيَبْلا ُمُهْتَءاَج اَم ِدْعَب نِم اَّلِإ َباَتِكْلا اوُتوُأ َنيِذَّلا َقَّرَفَت اَمَو",
+            "verse 98:5": "ِةَمِّيَقْلا ُنيِد َكِلَٰذَو ۚ َةاَكَّزلا اوُتْؤُيَو َةاَلَّصلا اوُميِقُيَو َءاَفَنُح َنيِّدلا ُهَل َنيِصِلْخُم َهَّللا اوُدُبْعَيِل اَّلِإ اوُرِمُأ اَمَو",
+            "verse 98:6": "ِةَّيِرَبْلا ُّرَش ْمُه َكِئَٰلوُأ ۚ اَهيِف َنيِدِلاَخ َمَّنَهَج ِراَن يِف َنيِكِرْشُمْلاَو ِباَتِكْلا ِلْهَأ ْنِم اوُرَفَك َنيِذَّلا َّنِإ",
+            "verse 98:7": "ِةَّيِرَبْلا ُرْيَخ ْمُه َكِئَٰلوُأ ِتاَحِلاَّصلا اوُلِمَعَو اوُنَمآ َنيِذَّلا َّنِإ",
+            "verse 98:8": "ُهَّبَر َيِشَخ ْنَمِل َكِلَٰذ ۚ ُهْنَع اوُضَرَو ْمُهْنَع ُهَّللا َيِضَّر ۖ اًدَبَأ اَهيِف َنيِدِلاَخ ُراَهْنَأْلا اَهِتْحَت نِم يِرْجَت ٍنْدَع ُتاَّنَج ْمِهِّبَر َدنِع ْمُهُؤاَزَج"
+        },
+        "Azerbaijani": {
+            "verse 98:1": "Kitab əhlindən və müşriklərdən inkar edənlər onlara açıq-aydın dəlil gəlməyincə küfrlərindən əl çəkmədilər.",
+            "verse 98:2": "Bu dəlil pak səhifələri oxuyan Allahın göndərdiyi Elçidir.",
+            "verse 98:3": "Onların içində doğru yazılar vardır.",
+            "verse 98:4": "Kitab verilənlər onlara yalnız aydın bir dəlil gəldikdən sonra firqələrə bölündülər.",
+            "verse 98:5": "Halbuki onlara, dini məhz Allaha məxsus edərək, həniflər kimi ibadət etmək, namaz qılmaq və zəkat vermək əmr olunmuşdu. Doğru din də elə budur!",
+            "verse 98:6": "Həqiqətən, Kitab əhlindən və müşriklərdən inkar edənlərin məskəni Cəhənnəm odu olacaq və orada əbədi qalacaqlar. Onlar məxluqatın ən pisləridir.",
+            "verse 98:7": "Şübhəsiz ki, iman gətirib yaxşı işlər görənlər məxluqların ən yaxşısıdırlar.",
+            "verse 98:8": "Onların Rəbbinin yanındakı mükafatı ağacları altından çaylar axan, içində əbədi qalacaqları Ədn bağlarıdır. Allah onlardan razıdır, onlar da Ondan razıdırlar. Bu nemətlər, Rəbbindən qorxan kimsələrdən ötrüdür!"
+        },
+        "Bengali": {
+            "verse 98:1": "আহলে-কিতাব ও মুশরেকদের মধ্যে যারা কাফের ছিল, তারা প্রত্যাবর্তন করত না যতক্ষণ না তাদের কাছে সুস্পষ্ট প্রমাণ আসত।",
+            "verse 98:2": "অর্থাৎ আল্লাহর একজন রসূল, যিনি আবৃত্তি করতেন পবিত্র সহীফা,",
+            "verse 98:3": "যাতে আছে, সঠিক বিষয়বস্তু।",
+            "verse 98:4": "অপর কিতাব প্রাপ্তরা যে বিভ্রান্ত হয়েছে, তা হয়েছে তাদের কাছে সুস্পষ্ট প্রমাণ আসার পরেই।",
+            "verse 98:5": "তাদেরকে এছাড়া কোন নির্দেশ করা হয়নি যে, তারা খাঁটি মনে একনিষ্ঠভাবে আল্লাহর এবাদত করবে, নামায কায়েম করবে এবং যাকাত দেবে। এটাই সঠিক ধর্ম।",
+            "verse 98:6": "আহলে-কিতাব ও মুশরেকদের মধ্যে যারা কাফের, তারা জাহান্নামের আগুনে স্থায়ীভাবে থাকবে। তারাই সৃষ্টির অধম।",
+            "verse 98:7": "যারা ঈমান আনে ও সৎকর্ম করে, তারাই সৃষ্টির সেরা।",
+            "verse 98:8": "তাদের পালনকর্তার কাছে রয়েছে তাদের প্রতিদান চিরকাল বসবাসের জান্নাত, যার তলদেশে নির্ঝরিণী প্রবাহিত। তারা সেখানে থাকবে অনন্তকাল। আল্লাহ তাদের প্রতি সন্তুষ্ট এবং তারা আল্লাহর প্রতি সন্তুষ্ট। এটা তার জন্যে, যে তার পালনকর্তাকে ভয় কর।"
+        },
+        "Berber Amazigh": {
+            "verse 98:1": "Ijehliyen seg At Tezmamt, akked imcurak, ur steôoiâen alamma irs ed, $uôsen, ubeggen:",
+            "verse 98:2": "Amazan s$uô Öebbi, i immalen tiwôeqtin zeddigen;",
+            "verse 98:3": "degsent tira tumâint.",
+            "verse 98:4": "Ur myefrazen wid iwumi teppunefk Tezmamt, armi ten id iusa ubeggen.",
+            "verse 98:5": "Ppwamôen, kan, ad âabden Öebbi s ddin iûfan, ad malen ar tidep, ad bedden i téallit, ad zzekkin. D wagi ay d ddin umâin.",
+            "verse 98:6": "Ih, wid ijehlen, seg At Tezmamt akked imcurak, di tmes n Loahennama ad wekkôen. Widak, d aâar n yimdanen.",
+            "verse 98:7": "Ma d wid ippamnen, i xeddmen ayen ilhan, widak d lxetyaô n yimdanen.",
+            "verse 98:8": "Arraz nnsen, ar Mass nnsen, d leonanat n Âaden, ddawat sen isaffen ppazzalen, degsen ad wekkôen, i lebda. Öebbi Iôuva ten, nitni ôuvan T. Akka i win i ippagwaden Mass is."
+        },
+        "Bosnian": {
+            "verse 98:1": "Nisu se nevjernici između sljedbenika Knjige i mnogobošci odvojili, sve dok im nije došao dokaz jasni;",
+            "verse 98:2": "od Allaha Poslanik, koji čita listove čiste,",
+            "verse 98:3": "u kojima su propisi ispravni.",
+            "verse 98:4": "A podvojili su se oni kojima je data Knjiga baš onda kada im je došao dokaz jasni,",
+            "verse 98:5": "a naređeno im je da se samo Allahu klanjaju, da Mu iskreno, kao pravovjerni, vjeru ispovijedaju, i da molitvu obavljaju, i da milostinju udjeljuju; a to je – ispravna vjera.",
+            "verse 98:6": "Oni koji ne vjeruju između sljedbenika Knjige i mnogobošci biće, sigurno, u vatri džehennemskoj, u njoj će vječno ostati; oni su najgora stvorenja.",
+            "verse 98:7": "A oni koji vjeruju i čine dobra djela – oni su, zbilja, najbolja stvorenja,",
+            "verse 98:8": "njih nagrada u Gospodara njihova čeka; edenski vrtovi kroz koje će rijeke teći, u kojima će vječno i zauvijek boraviti; Allah će biti njima zadovoljan, a i oni će biti Njime zadovoljni. To će biti za onoga koji se bude bojao Gospodara svoga."
+        },
+        "Bulgarian": {
+            "verse 98:1": "Онези от хората на Писанието и съдружаващите, които не вярваха, не се разделиха [с неверието си], докато при тях не дойде ясният знак -",
+            "verse 98:2": "Пратеник от Аллах, четящ пречистени свитъци [от Корана],",
+            "verse 98:3": "в които има правдиви писания.",
+            "verse 98:4": "И дарените с Писанието се разединиха едва след като при тях дойде ясният знак.",
+            "verse 98:5": "И бе им повелено да се прекланят единствено пред Аллах, предани Нему в религията, правоверни, и да отслужват молитвата, и да дават милостинята закат. Това е правдивата религия.",
+            "verse 98:6": "Онези от хората на Писанието и от съдружаващите, които не вярваха, ще бъдат в Огъня на Ада, там ще пребивават вечно. Те са най-лошите от създанията.",
+            "verse 98:7": "Онези, които вярват и вършат праведни дела, те са най-добрите от творенията.",
+            "verse 98:8": "Въздаянието им при техния Господ ще са Градините на Адн, сред които реки текат, там ще пребивават вечно и завинаги. Аллах ще е доволен от тях и те ще бъдат доволни от Него. Това е за всеки, който се страхува от своя Господ."
+        },
+        "Chinese": {
+            "verse 98:1": "信奉天经者和以物配主者，他们中不信道的人没有离开自己原有的信仰，直到明证来临他们。",
+            "verse 98:2": "那个明证是真主所派遣的一个使者，他诵读纯洁的册页，",
+            "verse 98:3": "中有许多正确的经文。",
+            "verse 98:4": "信奉天经者，没有分离，直到明证来临他们。",
+            "verse 98:5": "他们只奉命崇拜真主，虔诚敬意，恪遵正教，谨守拜功，完纳天课，这是正教。",
+            "verse 98:6": "信奉天经者和以物配主者，他们中不信道的人，必入火狱，而永居其中；这等人是最恶的人。",
+            "verse 98:7": "信道而行善的人，是最善的人，",
+            "verse 98:8": "他们在他们的主那里的报酬是下临诸河的常住的乐园，他们将永居其中，真主喜悦他们，他们也喜悦他；这是畏惧真主者所有的。"
+        },
+        "Danish": {
+            "verse 98:1": "De ongelovigen onder de mensen van het Boek en onder de afgodendienaren konden niet worden bevrijd, vóórdat een duidelijk bewijs tot hen gekomen was",
+            "verse 98:2": "Een boodschapper van Allah, die aan hen de zuivere bladzijden voordroeg",
+            "verse 98:3": "Waarin alle geschriften verzameld zijn",
+            "verse 98:4": "En de mensen van het Boek werden eerst onenig, nadat het duidelijke teken tot hen gekomen was",
+            "verse 98:5": "En daarin werd hun slechts geboden Allah te aanbidden, oprecht zijnde in gehoorzaamheid jegens Hem, oprecht het gebed te onderhouden en de Zakaat te betalen. Dat is de ware godsdienst",
+            "verse 98:6": "Voorwaar, de ongelovigen onder de mensen van het Boek en de afgodendienaren zullen in het Vuur der hel geworpen worden, daarin zullen zij verblijven. Zij zijn de slechtste der schepselen",
+            "verse 98:7": "Doch zij die geloven en goede werken doen, zij zijn de beste der schepselen",
+            "verse 98:8": "Hun beloning is bij hun Heer; tuinen der eeuwigheid waardoor rivieren stromen en waarin zij voor altijd zullen vertoeven. Allah zal welbehagen in hen hebben en zij zullen welbehagen in Hem hebben. Dit is voor hem, die zijn Heer vreest"
+        },
+        "Dutch": {
+            "verse 98:1": "De ongelovigen onder de Lieden van de Schrift en de veelgodenaanbidders houden niet op (ongelovig te zijn) tot er een duidelijk bewijs tot hen komt.",
+            "verse 98:2": "Een Boodschapper van Allah die gereinigde bladen voordraagt.",
+            "verse 98:3": "Waarin rechtzinnige boeken (de Koran) zijn.",
+            "verse 98:4": "En degenen aan wie het Boek is gegeven splitsten zich pas op nadat het duidelijke bewijs tot hen gekomen was.",
+            "verse 98:5": "Zij werden niets anders bevolen dan Allah met zuivere aanbidding te aanbidden, als Hoenafâ. En (ook) de shalât te verrichten en de zakât te geven en dat is de rechte godsdienst.",
+            "verse 98:6": "Voorwaar, degenen die ongelovig zijn onder de Lieden van de Schrift en de veelgodenaanbidders zullen in het vuur van de Hel eeuwig levenden zijn. Zij zijn degenen die de slechtste schepsels zijn.",
+            "verse 98:7": "Voorwaar, degenen die geloven en goede werken verrichten, zij zijn degenen die de beste schepselen zijn.",
+            "verse 98:8": "Hun beloningen bij hun Heer zijn de Tuinen van 'Adn (het Paradijs), waar de rivieren onder door stromen, zij zijn eeuwig levenden daarin, voor altijd. Allah is met hen behaagd en zij zijn met Hem behaagd. Dat is voor wie zijn Heer vreest."
+        },
+        "English": {
+            "verse 98:1": "Those who disbelieved among the People of the Scripture and the polytheists were not to be parted [from misbelief] until there came to them clear evidence -",
+            "verse 98:2": "A Messenger from Allah, reciting purified scriptures",
+            "verse 98:3": "Within which are correct writings.",
+            "verse 98:4": "Nor did those who were given the Scripture become divided until after there had come to them clear evidence.",
+            "verse 98:5": "And they were not commanded except to worship Allah, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakah. And that is the correct religion.",
+            "verse 98:6": "Indeed, they who disbelieved among the People of the Scripture and the polytheists will be in the fire of Hell, abiding eternally therein. Those are the worst of creatures.",
+            "verse 98:7": "Indeed, they who have believed and done righteous deeds - those are the best of creatures.",
+            "verse 98:8": "Their reward with Allah will be gardens of perpetual residence beneath which rivers flow, wherein they will abide forever, Allah being pleased with them and they with Him. That is for whoever has feared his Lord."
+        },
+        "Filipino": {
+            "verse 98:1": "Yaong mga hindi sumasampalataya sa lipon ng Angkan ng Kasulatan (mga Hudyo at Kristiyano) at sa pangkat ng mga Pagano (mapagsamba sa diyus-diyosan), at hindi nila iiwan (ang kanilang kawalan ng pananalig) hanggang sa dumatal sa kanila ang Malinaw na Katibayan",
+            "verse 98:2": "Isang Tagapagbalita (Muhammad) mula kay Allah, na dumadalit ng mga dalisay na pahina (ng Qur’an, dalisay sa Al-Batil [kabulaanan, kasinungalingan, atbp)",
+            "verse 98:3": "Na nagtataglay ng tumpak at tuwid na mga batas mula kay Allah",
+            "verse 98:4": "At ang Angkan ng Kasulatan (mga Hudyo at Kristiyano) ay hindi gumagawa ng pagkakaiba noon (sa mga Batas, sa mga Propeta, atbp.) maliban na lamang nang dumatal sa kanila ang Malinaw na Katibayan (alalaong baga, si Propeta Muhammad at anumang ipinahayag sa kanya)",
+            "verse 98:5": "At sila ay hindi pinag-utusan maliban lamang na kanilang sambahin si Allah, at huwag sumamba sa iba maliban pa sa Kanya (huwag mag-akibat ng mga katambal sa Kanya), at nag- aalay ng panalangin nang mahinusay (Iqamat-us-Salat), at nagkakaloob ng Zakat (katungkulang kawanggawa), at ito ang Tumpak na Pananampalataya",
+            "verse 98:6": "Katotohanan, sila na hindi sumasampalataya (sa relihiyong Islam, sa Qur’an at kay Propeta Muhammad) sa lipon ng Angkan ng Kasulatan (mga Hudyo at Kristiyano) at mga Pagano (mapagsamba sa mga diyus-diyosan), ay mananahan sa Apoy ng Impiyerno. Sila ang pinakamasama sa lahat ng mga nilalang",
+            "verse 98:7": "Katotohanan, sila na sumasampalataya (sa Kaisahan ni Allah at sa Kanyang Tagapagbalitang si Muhammad, kasama na rito ang lahat ng mga katungkulang ipinag-uutos sa Islam) at nagsisigawa ng matutuwid at mabubuting gawa, sila ang pinakamainam sa lahat ng mga nilalang",
+            "verse 98:8": "Ang kanilang gantimpala sa kanilang Panginoon ay Halamanan ng Kawalang Hanggan (Paraiso), na sa ilalim nito ay may mga ilog na nagsisidaloy, mananahan sila rito magpakailanman, si Allah ay tunay na nalulugod sa Kanila, gayundin naman sila kay Allah. Ito ay para sa kanya na may pangangamba kay Allah"
+        },
+        "French": {
+            "verse 98:1": "Les infidèles parmi les gens du Livre, ainsi que les Associateurs, ne cesseront pas de mécroire jusqu'à ce que leur vienne la Preuve évidente:",
+            "verse 98:2": "un Messager, de la part d'Allah, qui leur récite des feuilles purifiées,",
+            "verse 98:3": "dans lesquelles se trouvent des prescriptions d'une rectitude parfaite.",
+            "verse 98:4": "Et ceux à qui le Livre a été donné ne se sont divisés qu'après que la preuve leur fut venue.",
+            "verse 98:5": "Il ne leur a été commandé, cependant, que d'adorer Allah, Lui vouant un culte exclusif, d'accomplir la Salât et d'acquitter la Zakât. Et voilà la religion de droiture.",
+            "verse 98:6": "Les infidèles parmi les gens du Livre, ainsi que les Associateurs iront au feu de l'Enfer, pour y demeurer éternellement. De toute la création, ce sont eux les pires.",
+            "verse 98:7": "Quant à ceux qui croient et accomplissent les bonnes œuvres, ce sont les meilleurs de toute la création.",
+            "verse 98:8": "Leur récompense auprès d'Allah sera les Jardins de séjour, sous lesquels coulent les ruisseaux, pour y demeurer éternellement. Allah les agrée et ils L'agréent. Telle sera [la récompense] de celui qui craint son Seigneur."
+        },
+        "Fulah": {
+            "verse 98:1": "Wonaana ɓeen heeferɓe joman defte en ko seertuɓe haa ari e maɓɓe dallillaaji peeñɗi",
+            "verse 98:2": "Ko O nelaaɗo ummaade e Alla dursittooɗo ɗeri laɓɓinaaɗi",
+            "verse 98:3": "Ina heen defte poocciiɗe",
+            "verse 98:4": "Seertaani ɓeen tottaaɓe defte si wonah caggal nde ari e maɓɓe ko ɓanngi",
+            "verse 98:5": "ɓe njamiraako si wonah yoɓe ndew Alla tawa hoɓe laɓɓinani Mbo diine poocciiɗo ɓe ndarana juulde ɓe tottira askal ko ɗuum woni diine poocciiɗo",
+            "verse 98:6": "Pellet ɓeen heeferɓe ummaade e jom defte en e sirkuɓe ina e yiite jahatnama ɓe caasa toon haa pooma ko ɓeen ngoni ɓurɓe bonde e tagoore he",
+            "verse 98:7": "Pellet ɓeen goonɗinɓe ɓe ngolli ko ɓuri moƴƴude ko ɓeen ngoni ɓurbe moƴƴude e winndere he",
+            "verse 98:8": "njoɓdi maɓɓa ka joom maɓɓe ko aljannaaji ɗi caatli ilata e les mum ɓe caasa toon haa pooma Alla na welaaɓe kamɓe ne hoɓe mbelaa Alla ɗum wonande oon kulɗo Alla. @Corrected"
+        },
+        "German": {
+            "verse 98:1": "Diejenigen von den Leuten der Schrift und den Götzendienern, die ungläubig sind, werden sich nicht (eher von ihrem Unglauben) lösen, bis (daß) der klare Beweis zu ihnen kommt,",
+            "verse 98:2": "ein Gesandter von Allah, der gereinigte Blätter verliest,",
+            "verse 98:3": "in denen rechte Schriften sind.",
+            "verse 98:4": "Und diejenigen, denen die Schrift gegeben wurde, haben sich nicht eher gespalten, als bis der klare Beweis zu ihnen gekommen ist.",
+            "verse 98:5": "Und nichts anderes wurde ihnen befohlen, als nur Allah zu dienen und (dabei) Ihm gegenüber aufrichtig in der Religion (zu sein), als Anhänger des rechten Glaubens, und das Gebet zu verrichten und die Abgabe zu entrichten; das ist die Religion des rechten Verhaltens.",
+            "verse 98:6": "Gewiß, diejenigen unter den Leuten der Schrift und den Götzendienern, die ungläubig sind, werden im Feuer der Hölle sein, ewig darin zu bleiben. Das sind die schlechtesten Geschöpfe.",
+            "verse 98:7": "Gewiß, diejenigen aber, die glauben und rechtschaffene Werke tun, das sind die besten Geschöpfe.",
+            "verse 98:8": "Ihr Lohn bei ihrem Herrn sind die Gärten Edens, durcheilt von Bächen, ewig und auf immer darin zu bleiben. Allah hat Wohlgefallen an ihnen, und sie haben Wohlgefallen an Ihm; das ist für jemanden, der seinen Herrn fürchtet."
+        },
+        "Hausa": {
+            "verse 98:1": "Waɗanda suka kãfirta daga mũtanen Littafi, da mushirikai, ba su kasance masu gushewa daga gaskiya ba har hujja ta je musu.",
+            "verse 98:2": "Wani Manzo daga Allah, yana karatun wasu takardu masu tsarki.",
+            "verse 98:3": "A cikinsu akwai wasu littafai mãsu ƙĩma da daraja.",
+            "verse 98:4": "Kuma waɗanda aka bai wa Littafi ba su sãɓa wa juna ba face bayan hujjar ta je musu.",
+            "verse 98:5": "Kuma ba a umarce su da kome ba fãce bauta wa Allah suna mãsu tsarkake addinin gare Shi, mãsu karkata zuwa ga addinin gaskiya, kuma su tsai da salla kuma su bãyar da zakka, kuma wannan shi ne addinin waɗanda suke a kan hanyar ƙwarai.",
+            "verse 98:6": "Lalle ne waɗanda suka kafirta daga mutanen Littafi da mushirikai sana cikin wutar Jahannama suna madawwama a cikinta. Waɗannan su ne mafi ashararancin tãlikai.",
+            "verse 98:7": "Lalle ne waɗanda suka yi ĩmani, kuma suka aikata ayyukan ƙwarai, waɗannan su ne mafifita alherin halitta.",
+            "verse 98:8": "Sakamakonsu, a wurin Ubangijinsu, shi ne gidajen Aljannar zama, ƙoramu na gudãna daga ƙarƙashinsu sunã madawwama a cikinta har abada. Allah Ya yarda da su, kuma su, sun yarda da Shi. wannan sakamako ne ga wanda ya ji tsõron Ubangijinsa."
+        },
+        "Hindi": {
+            "verse 98:1": "अहले किताब और मुशरिकों से जो लोग काफिर थे जब तक कि उनके पास खुली हुई दलीलें न पहुँचे वह (अपने कुफ्र से) बाज़ आने वाले न थे",
+            "verse 98:2": "(यानि) ख़ुदा के रसूल जो पाक औराक़ पढ़ते हैं (आए और)",
+            "verse 98:3": "उनमें (जो) पुरज़ोर और दरूस्त बातें लिखी हुई हैं (सुनाये)",
+            "verse 98:4": "अहले किताब मुताफ़र्रिक़ हुए भी तो जब उनके पास खुली हुई दलील आ चुकी",
+            "verse 98:5": "(तब) और उन्हें तो बस ये हुक्म दिया गया था कि निरा ख़ुरा उसी का एतक़ाद रख के बातिल से कतरा के ख़ुदा की इबादत करे और पाबन्दी से नमाज़ पढ़े और ज़कात अदा करता रहे और यही सच्चा दीन है",
+            "verse 98:6": "बेशक अहले किताब और मुशरेकीन से जो लोग (अब तक) काफ़िर हैं वह दोज़ख़ की आग में (होंगे) हमेशा उसी में रहेंगे यही लोग बदतरीन ख़लाएक़ हैं",
+            "verse 98:7": "बेशक जो लोग ईमान लाए और अच्छे काम करते रहे यही लोग बेहतरीन ख़लाएक़ हैं",
+            "verse 98:8": "उनकी जज़ा उनके परवरदिगार के यहाँ हमेशा रहने (सहने) के बाग़ हैं जिनके नीचे नहरें जारी हैं और वह आबादुल आबाद हमेशा उसी में रहेंगे ख़ुदा उनसे राज़ी और वह ख़ुदा से ख़ुश ये (जज़ा) ख़ास उस शख़्श की है जो अपने परवरदिगार से डरे"
+        },
+        "Indonesian": {
+            "verse 98:1": "Orang-orang kafir yakni ahli Kitab dan orang-orang musyrik (mengatakan bahwa mereka) tidak akan meninggalkan (agamanya) sebelum datang kepada mereka bukti yang nyata,",
+            "verse 98:2": "(yaitu) seorang Rasul dari Allah (Muhammad) yang membacakan lembaran-lembaran yang disucikan (Al Quran),",
+            "verse 98:3": "di dalamnya terdapat (isi) Kitab-kitab yang lurus.",
+            "verse 98:4": "Dan tidaklah berpecah belah orang-orang yang didatangkan Al Kitab (kepada mereka) melainkan sesudah datang kepada mereka bukti yang nyata.",
+            "verse 98:5": "Padahal mereka tidak disuruh kecuali supaya menyembah Allah dengan memurnikan ketaatan kepada-Nya dalam (menjalankan) agama yang lurus, dan supaya mereka mendirikan shalat dan menunaikan zakat; dan yang demikian itulah agama yang lurus.",
+            "verse 98:6": "Sesungguhnya orang-orang yang kafir yakni ahli Kitab dan orang-orang yang musyrik (akan masuk) ke neraka Jahannam; mereka kekal di dalamnya. Mereka itu adalah seburuk-buruk makhluk.",
+            "verse 98:7": "Sesungguhnya orang-orang yang beriman dan mengerjakan amal saleh, mereka itu adalah sebaik-baik makhluk.",
+            "verse 98:8": "Balasan mereka di sisi Tuhan mereka ialah surga 'Adn yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya selama-lamanya. Allah ridha terhadap mereka dan merekapun ridha kepada-Nya. Yang demikian itu adalah (balasan) bagi orang yang takut kepada Tuhannya."
+        },
+        "Italian": {
+            "verse 98:1": "I miscredenti fra la gente della Scrittura e gli associatori, non cesseranno, finché non giunga loro la Prova Evidente,",
+            "verse 98:2": "un Messaggero, da parte di Allah, che legge fogli purissimi,",
+            "verse 98:3": "contenenti precetti immutabili.",
+            "verse 98:4": "Coloro cui fu data la Scrittura non si divisero, finché non giunse loro la Prova Evidente;",
+            "verse 98:5": "eppure non ricevettero altro comando che adorare Allah, tributandoGli un culto esclusivo e sincero, eseguire l'orazione e versare la decima. Questa è la Religione della verità.",
+            "verse 98:6": "In verità i miscredenti, fra gente della Scrittura, e gli associatori, saranno nel fuoco dell'Inferno, dove rimarranno in perpetuo. Di tutta la creazione essi sono i più abbietti.",
+            "verse 98:7": "Quelli che invece credono e compiono il bene sono i migliori di tutta la creazione.",
+            "verse 98:8": "Presso il loro Signore, la loro ricompensa saranno i Giardini di Eden, dove scorrono i ruscelli, in cui rimarranno in perpetuo. Allah si compiace di loro e loro si compiacciono di Lui. Ecco [cosa è riservato] a chi teme il suo Signore."
+        },
+        "Japanese": {
+            "verse 98:1": "啓典の民の中（真理を）拒否した者も多神教徒も，かれらに明証が来るまで，（道から）離れようとしなかった。",
+            "verse 98:2": "またアッラーからの使徒が，純聖な書巻を，読んで聞かせるまでは。",
+            "verse 98:3": "その中には，不滅の正しい記録（掟）がある。",
+            "verse 98:4": "啓典を授かっている者たちが，分派したのは，明証がかれらに来てから後のことであった。",
+            "verse 98:5": "かれらの命じられたことは，只アッラーに仕え，かれに信心の誠を尽し，純正に服従，帰依して，礼拝の務めを守り，定めの喜捨をしなさいと，言うだけのことであった。これこそ真正の教えである。",
+            "verse 98:6": "啓典の民の中（真理を）拒否した者も，多神教徒も，地獄の火に（投げ込まれ）て，その中に永遠に住む。これらは，衆生の中最悪の者である。",
+            "verse 98:7": "だが信仰して善行に勤しむ者たち，これらは，衆生の中最善の者である。",
+            "verse 98:8": "かれらへの報奨は，主の御許の，川が下を流れる永遠の園である。永遠にその中に住むであろう。アッラーはかれらを喜ばれ，かれらもかれに満悦する。それは主を畏れる者（への報奨）である。"
+        },
+        "Jawa": {
+            "verse 98:1": "Sarupane wong kafir kang padha duwe wewatun Kitab, lan wong kang padha nyembah brahala ora gelem mareni kafir ngati katekan tandha yekti",
+            "verse 98:2": "(Muhammad) iku utusaning Allah ngundhangake Quran kang suci",
+            "verse 98:3": "Ing jerone mratelakake hukum kang bener",
+            "verse 98:4": "Lan para kang wis kaparingan kitab mau anggone padha pasulayan (bab pangandel marang Muhammad) sawuse katekan tandha yekti",
+            "verse 98:5": "Lan dheweke iku ora diparentahi apa - apa kajaba laladi ing Allah jejeg anggone nglakoni agamane, lan nglakoni sholat, bayar zakat, hiya iku agama kang bener",
+            "verse 98:6": "Sarupane wong kafir kang nduwe wewaton kitab lan wong kang nyembah brahala, ing tembe disiksa ing neraka Jahanam langgeng salawase awit dheweke titahe Allah kang hala dhewe",
+            "verse 98:7": "Dene sarupane wong kang angestu lan nindakake panggawe becik yaiku becik-beciking manungsa",
+            "verse 98:8": "Ana ngarsaning Pangeran bakal padha diganjar suwarga ’Adn kang ana bengawane mili ana sangisore kekayon ing kono langgeng salawase Allah rena marang dheweke lan dheweke rena marang Panjenengane. Mangkono uku tumrap sapa ing wedi marang Pangerane"
+        },
+        "Kazakh": {
+            "verse 98:1": "Кітап берілген қауымнан күпірлік еткендер Аллаһқақарсы келгендер және мүшріктер Аллаһқа серік қатушылар ажырамаған еді, өздеріне бір ашық дәлел келгенге дейін",
+            "verse 98:2": "пәк жазбаларды оқитын Аллаһ тарапынан жіберілген Елші",
+            "verse 98:3": "Оларда ең тура үкімдер бар",
+            "verse 98:4": "Кітап берілгендер, өздеріне ашық дәлел келгеннен кейін ғана бөлінді",
+            "verse 98:5": "Ал олар, ханиф болған Аллаһты бірлеген түрде Оған діндерін серік қосудан тазартып, құлшылық етуден, намазды орындаудан, зекетті беруден басқаға бұйырылмаған еді. Міне, осы туралық діні",
+            "verse 98:6": "Ақиқатында, Кітап берілген қауымнан күпірлік еткендері Аллаһтың Кітаптарын және Елшілерін мойындамағандар және мүшріктер Аллаһқа серік қосушылар Жаһаннам отында мәңгілік қалады. Міне, солар жаратылғандардың ең жаманы",
+            "verse 98:7": "Анығында, иманға келген және ізгі амал жасағандар, міне, солар жаратылғандардың қайырлысы",
+            "verse 98:8": "Раббысы алдындағы олардың сыйлары астынан өзендер ағып жататын ’Адн бақтары. Олар онда мәңгі қалушылар. Аллаһ олардан разы, олар да Одан разы. Міне, бұл Раббысынан қорыққандар үшін"
+        },
+        "Korean": {
+            "verse 98:1": "성서의 백성들 가운데 진리 를 거역한 자들과 불신자들은 분 명한 예증이 그들에게 이를 때 까지 그들은 길을 떠나려 하지 아니 하였노라성서의 백성들 가운데 진리 를 거역한 자들과 불신자들은 분 명한 예증이 그들에게 이를 때 까지 그들은 길을 떠나려 하지 아니 하였노라",
+            "verse 98:2": "이 예증은 성스러운 말씀을 낭송할 하나님의 선지자로이 예증은 성스러운 말씀을 낭송할 하나님의 선지자로",
+            "verse 98:3": "그 안에는 올바른 율법이 있 노라그 안에는 올바른 율법이 있 노라",
+            "verse 98:4": "성서의 백성들은 그들에게 분명한 예증이 이를 때 까지 의견을달리하지 아니 했으니성서의 백성들은 그들에게 분명한 예증이 이를 때 까지 의견을달리하지 아니 했으니",
+            "verse 98:5": "그들에게 주어진 명령은 하 나님을 경배하고 진실한 믿음이 되도록 그분께 헌신하며 기도를 드리고 이슬람세를 바치는 것들이참된 신앙이라그들에게 주어진 명령은 하 나님을 경배하고 진실한 믿음이 되도록 그분께 헌신하며 기도를 드리고 이슬람세를 바치는 것들이참된 신앙이라",
+            "verse 98:6": "실로 성서의 백성들 중에 진 리를 거역한 자들과 불신자들은 불지옥에 있게 되리니 그들은 그 안에서 영주하매 가장 사악한 무 리들이라실로 성서의 백성들 중에 진 리를 거역한 자들과 불신자들은 불지옥에 있게 되리니 그들은 그 안에서 영주하매 가장 사악한 무 리들이라",
+            "verse 98:7": "그러나 믿음으로 선을 실천하는 자들은 가장 의로운 자들로그러나 믿음으로 선을 실천하는 자들은 가장 의로운 자들로",
+            "verse 98:8": "그들을 위해 주님의 보상이 있나니 밑으로 강물이 흐르는 영 생할 에덴의 천국이라 하나님은 그들로 기뻐하시고 그들은 그분으로 기뻐하리니 그것은 주님을 두 려워하는 자에 대한 보상이라그들을 위해 주님의 보상이 있나니 밑으로 강물이 흐르는 영 생할 에덴의 천국이라 하나님은 그들로 기뻐하시고 그들은 그분으로 기뻐하리니 그것은 주님을 두 려워하는 자에 대한 보상이라"
+        },
+        "Kurdish": {
+            "verse 98:1": "Ewanê xweyê pirtûkên, ku bûn e file û ewanê hevrî çêker hene! Heya ji bona wan ra (berateke) huzwartî neyê (ewan ji hevaltîyan) xwe venabinئه‌وانه‌ی بێ باوه‌ڕ بوون له خاوه‌نی کتێبه‌کان له‌گه‌ڵ موشریك و هاوه‌ڵگه‌ران، وازیان له بیرو باوه‌ڕی خۆیان هێنا، هه‌تا به‌ڵگه‌و نیشانه‌ی ڕوون و ئاشکرایان بۆ نه‌هات (ده‌رباره‌ی دواهه‌مین پێغه‌مبه‌ر).",
+            "verse 98:2": "Ewa (berata) qasidekî wusane ji alîyê Yezdan da hatîye şandinê, ku ji bona wan ra rûpelên paqij bi xûne(ئه‌ویش) پێغه‌مبه‌رێکه له‌لایه‌ن خواوه کتێب و نامه‌ی پاك و بێگه‌ردیان به‌سه‌ردا ده‌خوێنێته‌وه (که قورئانه‌).",
+            "verse 98:3": "Di wan (rûpelan da) nivîsanê (biryarê) wusa hene, mafan bi rastî vedikinچه‌نده‌ها په‌یامی پڕ له ڕێنموویی به نرخی له توێدا هه‌یه‌.",
+            "verse 98:4": "Ewane xweyê pirtûk hene! ji piştî, ku ji bona wan ra berata huzwartî hatîye, paşê dutîretî di nava xwe da çêkirineجا خاوه‌ن کتێبه‌کان ده‌سته ده‌سته‌و پارچه پارچه نه‌بوون، دوای ئه‌وه نه‌بێت که به‌ڵگه‌و نیشانه‌ی ئاشکرایان بۆ هات (ده‌رباره‌ی پێغه‌مبه‌رو قورئان).",
+            "verse 98:5": "Ewan (xweyê pirtûkan) bi tenê (ji alîyê qasid da) hey aha hatibûnê ferman kirinê; ku xurî ji bona Yezdan ra perestî bikin, loma ola rast hey ji bona (Yezdan ra) heye û nimejê bikin û baca malê xwe bidin û ola mafe rast şixwa eva yeفه‌رمانیشیان پێنه‌درابوو جگه به‌وه‌ی که خواپه‌رستی بکه‌ن و به‌پاکی و دڵسۆزی و ملکه‌چی فه‌رمانبه‌رداری ئاین و به‌رنامه‌که بن و لابده‌ن له هه‌موو ئایینێك و ته‌نها پابه‌ندی ئایینی ئیسلام بن، نوێژیش به‌ڕێك و پێکی ئه‌نجام بده‌ن، زه‌کاتیش له ماڵ و سامانیان ده‌ربکه‌ن، ئه‌وه‌یه ئاینی نامه ڕاست و به‌نرخه‌کانی خوا.",
+            "verse 98:6": "Bi rastî ewanê xwedîyê pirtûkne, ku bûne file û ewanê hevrî çêker hene!Ewanê di agirê dojê da her bimînin. Sikne heyîne reşayîyê evan inبه‌ڕاستی ئه‌وانه‌ی بێ باوه‌ڕ بوون له خاوه‌ن کتێبه‌کان و موشریك و هاوه‌ڵگه‌ران ده‌خرێنه ناو ئاگری دۆزه‌خه‌وه‌و به نه‌مری تیایدا بۆ هه‌میشه ده‌مێننه‌وه‌، هه‌ر ئه‌وانه‌ن تاوانبارترین و خراپترینی خه‌ڵکانی سه‌رزه‌وی.",
+            "verse 98:7": "Ewanê bawer kirine û karê aştî kirine hene! Qenctirne heyîna reşayîyê evan inبێگومان ئه‌وانه‌ی ئیمان و باوه‌ڕیان هێناوه‌و کارو کرده‌وه چاکه‌کانیان ئه‌نجامداوه‌، هه‌ر ئه‌وانه‌ن چاکترین و پاکترینی خه‌ڵکانی سه‌ر زه‌وی.",
+            "verse 98:8": "Xelata wan li bal Xuda yê wan behişta xarinane;(Behiştake wusane) ku di binê (darê wêda) çemê (avê) dikişin. Ewanê di wê (behiştê da) her bimînin. Yezdan bi wan qayîl e û ewan jî (ji dana Yezdan) qayîl in. Ewê, ku ji Xuda yê xwe ditirsîya ye (bê gotina wî ne kiriye) heye! Eva xelata ji bona wî ra neپاداشتیان لای په‌روه‌ردگاریان به‌هه‌شتی پڕ له باخی چڕه (که کۆشك و ته‌لاره‌کان تیایدا ون بوون)، چه‌نده‌ها ڕووباریش به‌ژێر دره‌خت و به‌به‌رده‌م کۆشکه‌کانیدا ده‌ڕوات و له‌وێ ژیانی هه‌میشه‌یی و به‌رده‌وام بۆ هه‌تا هه‌تایی ده‌به‌نه سه‌ر، ئه‌وانه خوا ڕازیه لێیان، ئه‌وانیش له‌و ڕازین (چۆن ڕازی نابن ئه‌ی په‌روه‌ردگاری ئازیز، به‌ڕاستی نازانین به‌چ زمانێك سوپاسگوزارت بین) بێگومان ئه‌و ڕێزو قه‌دره بۆ ئه‌و که‌سه‌یه که له په‌روه‌ردگاری ترساوه‌و فه‌رمانه‌کانی به‌جێ هێناوه‌."
+        },
+        "Kyrgyz": {
+            "verse 98:1": "Китеп ээлеринен (яхудийлер жана христиандардан) жана мушриктерден болгон каапырлар аларга Анык Чындык келмейинче (адашуучулугунан) ажырай алышпады",
+            "verse 98:2": "(Анык Чындык) таза барактардагы (Кураанды) окуп берген Аллаһтын элчиси",
+            "verse 98:3": "Ал барактарда акыйкатты баяндаган жазуулар бар",
+            "verse 98:4": "Китеп берилген элдер (яхудийлер менен христиандар) аларга “Анык Чындык” келгенден кийин гана бөлүнүп кетишти",
+            "verse 98:5": "Алар бардык ибадаттарды калыс Аллаһ үчүн гана кылууга, андан (жеке кудайга сыйынуудан) башка динден жүз бурууга, намаз окууга, зекет берүүгө буюрулушкан эле жана дал ушул гана Туура Дин",
+            "verse 98:6": "Китеп элдери жана мушриктерден болгон каапырлар Тозок отунун ичинде! Ал жерде түбөлүк калышат! Алар (чындыкты билип туруп жүз бурганы себептүү) жаратылгандардын эң жаманы",
+            "verse 98:7": "Ал эми ыйман келтирип, салих амалдарды жасаган адамдар... алар — жаратылгандардын эң жакшысы",
+            "verse 98:8": "Раббисинин алдында алардын сыйлыктары — анда \"Адн\" Бейиштер! Алардын түбүнөн дарыялар агып турат жана алар анда түбөлүк калышат. (Мунун себеби) алардан Аллаһ ыраазы болду, алар Аллаһтан ыраазы болушту. Бул (сыйлыктар) Раббисинен корккон адамдар үчүн"
+        },
+        "Malay": {
+            "verse 98:1": "Orang-orang yang kafir dari Ahli Kitab (Yahudi dan Nasrani) serta orang-orang musyrik, tidak akan terlepas (dari kepercayaan dan amalan masing-masing) sehingga datang kepada mereka bukti yang jelas nyata, -",
+            "verse 98:2": "Iaitu seorang Rasul dari Allah yang membacakan (kepada mereka) Lembaran-lembaran Suci,",
+            "verse 98:3": "Terkandung di dalamnya pelajaran-pelajaran dan hukum-hukum yang benar.",
+            "verse 98:4": "Dan orang-orang (Yahudi dan Nasrani) yang diberi Kitab (Taurat dan Injil) itu, tidak berpecah-belah melainkan setelah datang kepada mereka bukti yang jelas nyata.",
+            "verse 98:5": "Pada hal mereka tidak diperintahkan melainkan supaya menyembah Allah dengan mengikhlaskan ibadat kepadaNya, lagi tetap teguh di atas tauhid; dan supaya mereka mendirikan sembahyang serta memberi zakat. Dan yang demikian itulah Ugama yang benar.",
+            "verse 98:6": "Sesungguhnya orang-orang yang kafir dari Ahli Kitab dan orang-orang musyrik itu akan ditempatkan di dalam neraka Jahannam, kekalah mereka di dalamnya. Mereka itulah sejahat-jahat makhluk.",
+            "verse 98:7": "Seungguhnya orang-orang yang beriman dan beramal soleh, mereka itulah sebaik-baik makhluk.",
+            "verse 98:8": "Balasan mereka di sisi Tuhannya ialah syurga Adn (tempat tinggal yang tetap), yang mengalir di bawahnya beberapa sungai; kekalah mereka di dalamnya selama-lamanya; Allah reda akan mereka dan merekapun reda (serta bersyukur) akan nikmat pemberianNya. Balasan yang demikian itu untuk orang-orang yang takut (melanggar perintah) Tuhannya."
+        },
+        "Malayalam": {
+            "verse 98:1": "വേദക്കാരിലും ബഹുദൈവവിശ്വാസികളിലും പെട്ട സത്യനിഷേധികള്‍ വ്യക്തമായ തെളിവ് തങ്ങള്‍ക്ക് കിട്ടുന്നത് വരെ (അവിശ്വാസത്തില്‍ നിന്ന്‌) വേറിട്ട് പോരുന്നവരായിട്ടില്ല.",
+            "verse 98:2": "അതായത് പരിശുദ്ധി നല്‍കപ്പെട്ട ഏടുകള്‍ ഓതികേള്‍പിക്കുന്ന, അല്ലാഹുവിങ്കല്‍ നിന്നുള്ള ഒരു ദൂതന്‍ (വരുന്നതു വരെ)",
+            "verse 98:3": "അവയില്‍ (ഏടുകളില്‍) വക്രതയില്ലാത്ത രേഖകളാണുള്ളത്‌.",
+            "verse 98:4": "വേദം നല്‍കപ്പെട്ടവര്‍ അവര്‍ക്ക് വ്യക്തമായ തെളിവ് വന്നുകിട്ടിയതിന് ശേഷമല്ലാതെ ഭിന്നിക്കുകയുണ്ടായിട്ടില്ല.",
+            "verse 98:5": "കീഴ്‌വണക്കം അല്ലാഹുവിന് മാത്രം ആക്കി കൊണ്ട് ഋജുമനസ്കരായ നിലയില്‍ അവനെ ആരാധിക്കുവാനും, നമസ്കാരം നിലനിര്‍ത്തുവാനും സകാത്ത് നല്‍കുവാനും അല്ലാതെ അവരോട് കല്‍പിക്കപ്പെട്ടിട്ടില്ല. അതത്രെ വക്രതയില്ലാത്ത മതം",
+            "verse 98:6": "തീര്‍ച്ചയായും വേദക്കാരിലും ബഹുദൈവവിശ്വാസികളിലുംപെട്ട സത്യനിഷേധികള്‍ നരകാഗ്നിയിലാകുന്നു. അവരതില്‍ നിത്യവാസികളായിരിക്കും . അക്കൂട്ടര്‍ തന്നെയാകുന്നു സൃഷ്ടികളില്‍ മോശപ്പെട്ടവര്‍.",
+            "verse 98:7": "തീര്‍ച്ചയായും വിശ്വസിക്കുകയും സല്‍കര്‍മ്മങ്ങള്‍ പ്രവര്‍ത്തിക്കുകയും ചെയ്തവരാരോ അവര്‍ തന്നെയാകുന്നു സൃഷ്ടികളില്‍ ഉത്തമര്‍.",
+            "verse 98:8": "അവര്‍ക്ക് അവരുടെ രക്ഷിതാവിങ്കലുള്ള പ്രതിഫലം താഴ്ഭാഗത്തു കൂടി അരുവികള്‍ ഒഴുകുന്ന, സ്ഥിരവാസത്തിനുള്ള സ്വര്‍ഗത്തോപ്പുകളാകുന്നു. അവരതില്‍ നിത്യവാസികളായിരിക്കും; എന്നെന്നേക്കുമായിട്ട്‌. അല്ലാഹു അവരെ പറ്റി തൃപ്തിപ്പെട്ടിരിക്കുന്നു. അവര്‍ അവനെ പറ്റിയും തൃപ്തിപ്പെട്ടിരിക്കുന്നു. ഏതൊരുവന്‍ തന്‍റെ രക്ഷിതാവിനെ ഭയപ്പെട്ടുവോ അവന്നുള്ളതാകുന്നു അത്‌."
+        },
+        "Norwegian": {
+            "verse 98:1": "De vantro blant skriftfolket, og avgudsdyrkerne, kunne ikke bryte ut, før den klare beskjed kom til dem,",
+            "verse 98:2": "– et sendebud fra Gud, som fremleste rene blader",
+            "verse 98:3": "med skriftens rette ord.",
+            "verse 98:4": "Og de som har fått skriften, kom ikke i splittelse, før etter at den klare beskjed var kommet til dem.",
+            "verse 98:5": "De ble kun pålagt å tjene Gud i religiøs oppriktighet overfor ham, som Gud-søkere, og å forrette bønnen og gi det rituelle bidrag. Dette er rett religion.",
+            "verse 98:6": "De vantro blant skriftfolkene og avgudsdyrkerne skal være i helvetes ild, og der skal de være og bli. Disse er de verste skapninger.",
+            "verse 98:7": "Men de som tror og lever rettskaffent, disse er de beste skapninger.",
+            "verse 98:8": "Deres lønn er hos Herren, Edens haver, hvor bekker sildrer, hvor de skal være og bli for alltid. Gud er tilfreds med dem, og de er tilfreds med Ham. Dette for dem som frykter Herren."
+        },
+        "Pashto": {
+            "verse 98:1": "هغه كسان چې كافران شوي دي، چې كتابیان او مشركان دي، جدا كېدونكي نه وو تر دې چې دوى ته ښكاره دلیل راشي",
+            "verse 98:2": "چې د الله له جانبه رسول دى، چې (دوى ته) ډېرې پاكې صحیفې لولي",
+            "verse 98:3": "په دغو (صحیفو) كې ډېر سم (او درست) حكمونه (او فریضې) دي",
+            "verse 98:4": "او اهل كتاب په خپل مینځ كې سره جدا (او مختلف) شوي نه وو مګر وروسته له دې چې دوى ته ښكاره دلیل راغى",
+            "verse 98:5": "حال دا چې دوى ته حكم نه و وركړى شوى مګر په دې چې دوى دې د الله عبادت كوي، په داسې حال كې چې دین (عبادت) دغه (الله) لره خالص كوونكي وي (او) حنیفان (له باطله حق ته راګرځېدونكي) وي، او (د دې چې) دوى دې لمونځ قايموي او زكاۃت دې وركوي اوهم دغه ډېر محكم دین دى",
+            "verse 98:6": "بېشكه هغه كسان چې كافران شوي دي، چې اهل كتاب او مشركان دي، (دوى به) د دوزخ په اور كې وي، چې په ده كې به تل ترتله وي. هم دغه كسان د خلقو بدترین دي",
+            "verse 98:7": "بېشكه هغه كسان چې ایمان يې راوړى دى او نېك عملونه يې كړي دي همدغه كسان د خلقو بهترین دي",
+            "verse 98:8": "د خپل رب په نیز د دوى بدله د تل اوسېدنې جنتونه دي چې د هغو له لاندې ولې بهېږي، چې دوى به په دغو كې تل ترتله همېشه وي، الله له دوى نه راضي شوى دى او دوى له هغه نه راضي شوي دي، دغه (وعده) د هغه چا لپاره ده چې له خپل رب نه وېرېږي"
+        },
+        "Persian": {
+            "verse 98:1": "كافران اهل كتاب و مشركان دست برندارند تا برايشان برهانى روشن بيايد:",
+            "verse 98:2": "پيامبرى از جانب خدا كه صحيفه‌هاى پاك را مى‌خواند.",
+            "verse 98:3": "در آنها نوشته‌هايى است راست و درست.",
+            "verse 98:4": "و اهل كتاب پراكنده نشدند مگر از آن پس كه برايشان برهانى روشن آمد.",
+            "verse 98:5": "و آنان را جز اين فرمان ندادند كه خدا را بپرستند در حالى كه در دين او اخلاص مى‌ورزند. و نماز گزارند و زكات دهند. اين است دين درست و راست.",
+            "verse 98:6": "از اهل كتاب، آنها كه كافرند و نيز مشركان، در آتش جهنمند و در آن همواره خواهند بود. اينان بدترين آفريدگانند.",
+            "verse 98:7": "كسانى كه ايمان آورده‌اند و كارهاى شايسته مى‌كنند بهترين آفريدگانند.",
+            "verse 98:8": "پاداششان در نزد پروردگارشان بهشتهايى است جاويد كه در آن نهرها جارى است. تا ابد در آنجايند. خدا از آنها خشنود است و آنها از خدا خشنودند. و اين خاص كسى است كه از پروردگارش بترسد."
+        },
+        "Polish": {
+            "verse 98:1": "Ci, którzy nie wierzą, spośród ludzi Księgi, jak i bałwochwalcy, nie zmienili się, dopóki nie przyszedł do nich jasny dowód:",
+            "verse 98:2": "Posłaniec od Boga, który recytuje oczyszczone karty,",
+            "verse 98:3": "Zawierające pisma prawdziwe.",
+            "verse 98:4": "Ci, którzy otrzymali Księgę, rozdzielili się dopiero wówczas, kiedy przyszedł do nich jasny dowód.",
+            "verse 98:5": "Zostało im nakazane tylko, aby czcili Boga, wyznając szczerze Jego religię - tak jak hanifowie odprawiali modlitwę i dawali jałmużnę. To jest religia prawdziwa.",
+            "verse 98:6": "Zaprawdę, ci, którzy nie uwierzą, spośród ludzi Księgi i bałwochwalcy, będą w ogniu Gehenny, gdzie będą przebywać na wieki. Oni są najgorsi ze stworzeń!",
+            "verse 98:7": "Zaprawdę, ci, którzy wierzą i którzy czynią dobre dzieła - oni są najlepsi ze stworzeń!",
+            "verse 98:8": "Nagrodą ich u pana będą Ogrody Edenu, gdzie w dole płyną strumyki. Będą tam przebywać na wieki, nieśmiertelni. Bóg będzie z nich zadowolony i oni będą z Niego zadowoleni. - To będzie dla tych, którzy się obawiają swego Pana."
+        },
+        "Portuguese": {
+            "verse 98:1": "Os incrédulos, entre os adeptos do Livro, bem como os idólatras, não desistiriam da sua religião, a não ser quando lhes chegasse a Evidência:",
+            "verse 98:2": "Um Mensageiro de Deus, que lhes recitasse páginas purificadas,",
+            "verse 98:3": "Que contivessem escrituras corretas.",
+            "verse 98:4": "Os adeptos do Livro não se dividiram, senão depois de lhes ter chegado a Evidência,",
+            "verse 98:5": "E lhes foi ordenado que adorassem sinceramente a Deus, fossem monoteístas, observassem a oração e pagassem o zakat; esta é a verdadeira religião.",
+            "verse 98:6": "Em verdade, os incrédulos, entre os adeptos do Livro, bem como os idólatras, entrarão no fogo infernal, onde permanecerão eternamente. Estas são as piores das criaturas!",
+            "verse 98:7": "Por outra, os fiéis, que praticam o bem, são as melhores criaturas,",
+            "verse 98:8": "Cuja recompensa está em seu Senhor: Jardins do Éden, abaixo dos quais correm os rios, onde morarão eternamente. Deus se comprazerá com eles e eles se comprazerão n'Ele. Isto acontecerá com quem teme o seu Senhor."
+        },
+        "Punjabi": {
+            "verse 98:1": "ਕਿਤਾਬਾਂ ਵਾਲੇ (ਯਹੂਦੀ ਅਤੇ ਈਸਾਈ) ਅਤੇ ਮੁਸ਼ਰਿਕੀਨਾ (ਸ਼ਰੀਕ ਮੰਨਣ ਵਾਲੇ) ਵਿਚੋਂ’ ਜਿਨ੍ਹਾਂ ਲੋਕਾਂ ਨੇ ਇਨਕਾਰ ਕੀਤਾ, ਉਹ ਮੰਨਣ ਵਾਲੇ ਨਹੀਂ। ਜਦੋਂ ਤੱਕ ਉਨ੍ਹਾਂ ਦੇ ਕੋਲ ਸਪੱਸ਼ਟ ਪ੍ਰਮਾਣ ਨਾ ਆ ਜਾਵੇ।",
+            "verse 98:2": "ਅੱਲਾਹ ਵੱਲੋਂ ਇੱਕ ਰਸੂਲ ਜਿਹੜਾ ਪਵਿੱਤਰ ਸਹੀਫੇ (ਗੰਥ) ਪੜ੍ਹਕੇ ਸੁਣਾਵੇ।",
+            "verse 98:3": "ਜਿਨ੍ਹਾਂ ਵਿਚ ਠੀਕ ਵਿਸ਼ੇ ਲਿਖੇ ਹੋਣ।",
+            "verse 98:4": "ਅਤੇ ਜਿਹੜੇ ਲੋਕ ਕਿਤਾਬ ਵਾਲੇ ਸਨ, ਉਹ ਸਪੱਸ਼ਟ ਪ੍ਰਮਾਣ ਆ ਜਾਣ ਦੇ ਬਾਅਦ ਹੀ ਵੱਖ-ਵੱਖ ਹੋ ਗਏ।",
+            "verse 98:5": "ਹਾਲਾਂਕਿ ਉਨ੍ਹਾਂ ਨੂੰ ਇਹ ਹੀ ਹੁਕਮ ਦਿੱਤਾ ਗਿਆ ਸੀ, ਕਿ ਉਹ ਅੱਲਾਹ ਦੀ ਇਬਾਦਤ ਕਰਨ। ਉਸ ਲਈ ਦੀਨ ਨੂੰ ਇਕਾਗ਼ਰ ਹੋ ਕੇ ਸ਼ੁੱਧ ਕਰ ਦੇਣ ਅਤੇ ਨਮਾਜ਼ ਸਥਾਪਿਤ ਕਰਨ ਅਤੇ ਜ਼ਕਾਤ ਅਦਾ ਕਰਨ। ਇਹ ਹੀ ਸੱਚਾ ਦੀਨ ਹੈ।",
+            "verse 98:6": "ਬੇਸ਼ੱਕ ਕਿਤਾਬ ਵਾਲੇ ਅਤੇ ਮੁਸ਼ਰਿਕੀਨਾਂ (ਸ਼ਰੀਕ ਮੰਨਣ ਵਾਲੇ) ਵਿਚੋਂ’ ਜਿਨ੍ਹਾਂ ਲੋਕਾਂ ਨੇ ਅਵੱਗਿਆ ਕੀਤੀ, ਉਹ ਨਰਕ ਦੀ ਅੱਗ ਵਿਚ ਪੈਣਗੇ। ਉਹ ਉਸ ਵਿਚ ਹਮੇਸ਼ਾ ਰਹਿਣਗੇ। ਇਹ ਲੋਕ ਹੀ ਸਭ ਤੋਂ ਬ਼ੁਰੇ ਜੀਵ ਹਨ।",
+            "verse 98:7": "ਉਹ ਹੀ ਲੋਕ ਜਿਹੜੇ ਇਮਾਨ ਲਿਆਏ ਅਤੇ ਉਨ੍ਹਾਂ ਨੇ ਚੰਗੇ ਕੰਮ ਕੀਤੇ। ਇਹ ਲੋਕ ਹੀ ਸਭ ਤੋਂ ਚੰਗੇ (ਉੱਤਮ) ਜੀਵ ਹਨ।",
+            "verse 98:8": "ਉਨ੍ਹਾਂ ਦਾ ਬਦਲਾ ਉਨ੍ਹਾਂ ਦੇ ਰੱਬ ਕੋਲ ਹਮੇਸ਼ਾ ਰਹਿਣ ਵਾਲਾ ਬਾਗ਼ ਹੈ, ਜਿਨ੍ਹਾਂ ਦੇ ਥੱਲੇ ਨਹਿਰਾਂ ਵਗਦੀਆਂ ਹੋਣਗੀਆਂ, ਉਹ ਉਨ੍ਹਾਂ ਵਿਚ ਹਮੇਸ਼ਾ ਰਹਿਣਗੇ। ਅੱਲਾਹ ਉਨ੍ਹਾਂ ਤੋਂ ਖੁਸ਼ ਅਤੇ ਉਹ ਅੱਲਾਹ ਤੋਂ ਖੂਸ਼। ਇਹ ਉਸ ਬੰਦੇ ਲਈ ਹੈ, ਜਿਹੜਾ ਆਪਣੇ ਰੱਬ ਤੋਂ ਡਰੇ।"
+        },
+        "Roman english": {
+            "verse 98:1": "Lam ya kunil lazeena kafaru min ahlil kitaabi wal mushri keena mun fak keena hattaa ta-tiya humul bayyinah",
+            "verse 98:2": "Rasoolum minal laahi yatlu suhufam mutahharah",
+            "verse 98:3": "Feeha kutubun qaiyimah",
+            "verse 98:4": "Wa maa tafarraqal lazeena ootul kitaaba il-la mim b`adi ma jaa-at humul baiyyinah",
+            "verse 98:5": "Wa maa umiroo il-la liy`abu dul laaha mukhliseena lahud-deena huna faa-a wa yuqeemus salaahta wa yu-tuz zakaata; wa zaalika deenul qaiyimah",
+            "verse 98:6": "Innal lazeena kafaru min ahlil kitaabi wal mushri keena fee nari jahan nama khaali deena feeha; ulaa-ika hum shar rul ba reeyah",
+            "verse 98:7": "Innal lazeena aamanu wa `amilus saalihaati ula-ika hum khairul bareey yah",
+            "verse 98:8": "Jazaa-uhum inda rabbihim jan naatu `adnin tajree min tahtihal an haaru khalideena feeha abada; radiy-yallaahu `anhum wa ra du `an zaalika liman khashiya rabbah"
+        },
+        "Russian": {
+            "verse 98:1": "Неверные из тех, кто получил Писанье, И многобожники Не отошли бы (от своих учений) До той поры, пока к ним не пришло Открытое свидетельство (Господне) -",
+            "verse 98:2": "Посланник от Аллаха, читающий им Свитки В их праведности и чистоте,",
+            "verse 98:3": "В которых с ясностью даны Установления Господни.",
+            "verse 98:4": "И не делились меж собою люди Книги, А (разделение пришло), Когда явилось Ясное Знаменье.",
+            "verse 98:5": "И было им повелено уверовать (в Аллаха) И в поклонении Аллаху искренность блюсти, Быть верным в правоверии своем, И по часам творить молитву, И править милостыню для очищенья. Это - религия (Господней) правоты И Истина пути, (указанного Богом).",
+            "verse 98:6": "Неверные из тех, кто получил Писанье, И многобожники Гореть навечно будут в адовом огне, - Поистине, они - сквернейшие из всех созданий!",
+            "verse 98:7": "Те ж, кто уверовал в Аллаха И праведные действия вершит, - Прекраснейшие из созданий (Бога)!",
+            "verse 98:8": "Господнею наградой им - Эдемские сады, Потоками речными омовенны, Где пребывать навечно им. И там они - к довольствию Аллаха, И к их довольствию - Аллах; Все это - лишь для тех, Кто гнева Господа страшится."
+        },
+        "Sindhi": {
+            "verse 98:1": "ڪتاب وارن ۽ مشرڪن مان جن انڪار ڪيو سي (ايسين تائين پنھنجي رسم کان) الڳ ٿيڻ وارا نه ھوا جيسين تائين وٽن پڌري حُجّت (نه) اچي.",
+            "verse 98:2": "(يعني) الله جو پيغمبر جو پاڪ صحيفا پڙھي.",
+            "verse 98:3": "جن ۾ سڌا سنوان لکيل حُڪم آھن.",
+            "verse 98:4": "۽ جن کي ڪتاب ڏنو ويو سي پاڻ وٽ پڌري حُجّت جي اچڻ کانپوءِ مُختلف ٿيا.",
+            "verse 98:5": "۽ ھن کانسواءِ (ٻيو) ڪو حڪم نه ڪيو وين ته باطل کان مُنھن موڙي الله جي عبادت ڪن ۽ نماز پڙھندا رھن ۽ زڪوٰة ڏيندا رھن ۽ اھو آھي سڌو دين.",
+            "verse 98:6": "بيشڪ ڪتاب وارن ۽ مشرڪن مان جن ڪفر ڪيو سي دوزخ جي باھ ۾ پوندا منجھس سدائين رھندڙ ھوندا، اھي ئي (ساريءَ) خلق کان (تمام) بڇڙا آھن.",
+            "verse 98:7": "بيشڪ جن ايمان آندو ۽ چڱا ڪم ڪيا اھي ئي (ساريءَ) خَلق کان ڀَلا آھن.",
+            "verse 98:8": "سندن بدلو سندن پالڻھار وٽ ھميشه جي رھڻ وارا باغ آھن جن جي ھيٺان واھيون پيون وھن انھن ۾ ھميشه سدائين رھندا، الله کائن راضي ٿيو ۽ اُھي کانئس راضي ٿيا، اھو (وعدو) انھيءَ لاءِ جيڪو پنھنجي پالڻھار کان ڊنو."
+        },
+        "Sinhalese": {
+            "verse 98:1": "ධර්ම ග්‍රන්ථ සතු ජනයා හා ආදේශ තබන්නන් අතරින් වූ ප්‍රතික්ෂේප කළවුන් හා ආදේශ තබන්නන් තමන් වෙත පැහැදිලි සාධකය පැමිණෙන තෙක් (ප්‍රතික්ෂේප කිරීමෙන්) ඉවත්වන්නෝ නොවූහ.",
+            "verse 98:2": "එය පිවිතුරු කරන ලද ලේඛන කියවන අල්ලාහ්ගෙන් වූ පණිවිඩකරු ය.",
+            "verse 98:3": "එහි ඍජු නීති රීති ඇත.",
+            "verse 98:4": "තවද ධර්ම ග්‍රන්ථය පිරිනමනු ලැබූ ජනයා ඔවුනට පැහැදිලි සාධකය පැමිණීමෙන් පසු ව මිස ඔවුහු වෙන් ව නොගියෝය.",
+            "verse 98:5": "තවද පිවිතුරු දහම අල්ලාහ්ට පුද කරමින් ඔහු ව නැමදීමටත් සලාතය ස්ථාපිත කිරීමටත් zසකාත් පිරිනැමීමටත් මිස ඔවුහු අණ කරනු නොලැබුවෝය. තවද ඍජු දහම වනුයේ එයයි.",
+            "verse 98:6": "සැබැවින්ම පුස්තක ලත් ජනයා අතරින් වූ ප්‍රතික්ෂේප කළවුන් හා ආදේශ තබන්නන් නිරා ගින්නෙහිය. ඔවුහු එහි සදාතනිකයෝ වෙති. ඔවුන්මය මැවීම් අතරින් නපුරුම මැවීම වනුයේ.",
+            "verse 98:7": "සැබැවින්ම විශ්වාස කොට දැහැමි ක්‍රියාවන් කළවුන් වනාහි ඔවුහුමය මැවීම් අතරින් ශ්රේෂ්ඨම මැවීම වනුයේ.",
+            "verse 98:8": "ඔවුන්ගේ පරමාධිපති අබියස වූ ඔවුන්ගේ ප්‍රතිඵල වනුයේ පහළින් ගංගාවන් ගලා බස්නා අද්න් නම් ස්වර්ග උයන්ය. ඔවුහු එහි සදහටම සදාතනිකයෝ වෙති. අල්ලාහ් ඔවුන් ව පිළිගත්තේය. ඔවුහුද ඔහු ව පිළිගත්තෝය. එය තම පරමාධිපතිට බිය වූ අයටය."
+        },
+        "Somali": {
+            "verse 98:1": "Ma aha Kuwii Gaaloobay ee ahaa ehlu kitaabka (Yahuud iyo Nasaara) iyo Gaaladii kuwo ka taga (xumaanta) intuu uga yimaaddo wax cad (xuja ah).",
+            "verse 98:2": "Oo ah Rasuul Eebc oo akhriyi Kutub daahir ah.",
+            "verse 98:3": "Oo xukun fiicani ku yaal.",
+            "verse 98:4": "Mona kala tagin Gaalada ehlu Kitaabka ah intuu uga yimaaddo xaq cad (xasad dartiis).",
+            "verse 98:5": "Dadkana waxaan Eebe caabudiddiisa ahayn lama farin iyagoo u kali yeeli Eebe Diinte, toosanna, Salaaddana oogi Zakadana bixin, Saasina waadiinta toosan.",
+            "verse 98:6": "Kuwa Gaaloobay oo ehlu Kitaabka ah iyo Gaaladii waxay gali Naarta Jahannama ayna Ini waari dhexdeeda, kuwaasina waa kuwa ugli sharbadan khalqiga.",
+            "verse 98:7": "Kuwa rumeeyayse xaqa Camalfiicanna falay kuwaasi waa kuwa ugu khayr badan khalqiga.",
+            "verse 98:8": "Abaalkooda ay Eebe agtiisa kii leeyihiin waa Jannooyin Nagaadi, dhexdeedana ay dureeri Wabiyaal ay kuna waari dhexdeeda waligood, Eebaa ka raalli noqday iyana way ka raali noqdeen, arrintaasna waxay u sugnaatay Ruusii Eeba ka yaaba."
+        },
+        "Spanish": {
+            "verse 98:1": "La gente del Libro que había caído en incredulidad y los asociadores, no han desistido hasta que no les ha llegado la Evidencia.",
+            "verse 98:2": "Un Mensajero que recita páginas purificadas.",
+            "verse 98:3": "Que contienen escritos de rectitud.",
+            "verse 98:4": "Así como aquéllos a los que se les dio el Libro no se dividieron sino después de haberles llegado la Evidencia.",
+            "verse 98:5": "A pesar de que no se les había ordenado sino que adorasen a Allah, rindiéndole sinceramente la adoración, como hanifes y que establecieran el salat y entregaran el zakat.Y esta es la práctica de Adoración auténtica.",
+            "verse 98:6": "Y realmente los que de la gente del Libro y los asociadores, se hayan negado a creer, estarán en el fuego de Yahannam donde serán inmortales. Esos son lo peor de todas las criaturas.",
+            "verse 98:7": "Pero los que creen y llevan a cabo las acciones de bien, son lo mejor de todas las criaturas.",
+            "verse 98:8": "La recompensa que junto a su Señor les espera, son los Jardines de Adn por cuyo suelo corren los ríos.En ellos serán inmortales para siempre.Allah estará satisfecho de ellos y ellos lo estarán de Él.Esto es para quien tema a su Señor."
+        },
+        "Swahili": {
+            "verse 98:1": "Hawakuwa walio kufuru miongoni mwa Watu wa Kitabu na washirikina waache walio nayo mpaka iwajie bayana,",
+            "verse 98:2": "Yaani Mtume aliye toka kwa Mwenyezi Mungu anaye wasomea kurasa zilizo takasika,",
+            "verse 98:3": "Ndani yake mna maandiko yaliyo nyooka.",
+            "verse 98:4": "Wala hawakufarikiana walio pewa Kitabu ila baada ya kuwajia hiyo bayana.",
+            "verse 98:5": "Nao hawakuamrishwa kitu ila wamuabudu Mwenyezi Mungu kwa kumtakasia Dini, wawe waongofu, na washike Sala, na watoe Zaka. Na hiyo ndiyo Dini madhubuti.",
+            "verse 98:6": "Hakika walio kufuru miongoni mwa Watu wa Kitabu na washirikina wataingia katika Moto wa Jahannamu wadumu milele humo. Hao ndio viumbe waovu kabisa.",
+            "verse 98:7": "Hakika walio amini na wakatenda mema, hao ndio bora wa viumbe.",
+            "verse 98:8": "Malipo yao kwa Mola wao Mlezi ni Bustani za daima, zipitazo mito kati yake. Wakae humo milele. Mwenyezi Mungu yu radhi nao, na wao waradhi naye. Hayo ni kwa anaye mwogopa Mola wake Mlezi."
+        },
+        "Swedish": {
+            "verse 98:1": "DE SOM framhärdar i att förneka sanningen, antingen de är efterföljare av äldre tiders uppenbarelser eller sådana som sätter gudar vid Guds sida, utestängdes inte [från Guds nåd] förrän det klara vittnesbördet hade nått dem -",
+            "verse 98:2": "ett sändebud från Gud, som framförde rena, oförvanskade budskap",
+            "verse 98:3": "med sanna, klara och evigt giltiga påbud.",
+            "verse 98:4": "De som i äldre tid fick ta emot uppenbarelser söndrades [i tron] först sedan de nåtts av detta klara vittnesbörd.",
+            "verse 98:5": "Men inga andra påbud gavs dem än att dyrka Gud med ren och uppriktig tro liksom de som i gångna tider sökte sanningen, och att förrätta bönen och att hjälpa de behövande. Detta är den sanna, i människans natur nedlagda religionens klara och evigt giltiga [påbud].",
+            "verse 98:6": "På dem som [trots detta] framhärdar i att förneka sanningen, antingen de är efterföljare av äldre tiders uppenbarelser eller sådana som sätter gudar vid Guds sida, väntar helvetets eld, och där skall de förbli till evig tid; de är de uslaste av alla skapade varelser.",
+            "verse 98:7": "Men de som tror och lever ett rättskaffens liv, de är de bästa av alla skapade varelser.",
+            "verse 98:8": "Belöningen väntar hos deras Herre: Edens lustgårdar, vattnade av bäckar, där de skall förbli till evig tid. Gud är nöjd med dem och de är nöjda [där de njuter] Hans [gåvor]. Detta väntar dem som står i bävan inför sin Herre."
+        },
+        "Tajik": {
+            "verse 98:1": "Кофирони аҳли китоб ва мушрикон даст барнадоранд (аз куфри худ), то барояшон хуҷҷате равшан биёяд —",
+            "verse 98:2": "паёмбаре аз ҷониби Худо, ки сахифаҳои покро мехонад,",
+            "verse 98:3": "дар онҳо навиштаҳоест росту дуруст.",
+            "verse 98:4": "Ва аҳли китоб пароканда шуданд, аз он пас, ки барояшон бурҳоне равшан омад.",
+            "verse 98:5": "Ва ононро фақат ин фармон доданд, ки Худоро бипарастанд, дар ҳоле ки дар дини Ӯ ихлос меварзанд. Ва намоз гузоранду закот диҳанд. Ин аст дини дурусту рост!",
+            "verse 98:6": "Аз аҳли китоб онҳо, ки кофиранд ва, низ мушрикон дар оташи ҷаҳаннаманд ва дар он ҳамеша хоҳанд буд. Инҳо бадтарини офаридагонанд.",
+            "verse 98:7": "Касоне, ки имон овардаанд ва корҳои шоиста мекунанд, беҳтарини офаридагонанд.",
+            "verse 98:8": "Муздашон дар назди Парвардигорашон биҳиштҳоест ҷовид, ки дар он наҳрҳо ҷорист. То абад дар он ҷоянд. Худо аз онҳо розӣ аст ва онҳо аз Худо розианд. Ва ин хоси касест, ки аз Парвардигораш битарсад."
+        },
+        "Tamil": {
+            "verse 98:1": "வேதக்காரர்களிலும், முஷ்ரிக்குகளிலும் எவர்கள் நிராகரிக்கின்றார்களோ, அவர்கள் தங்களிடம் தெளிவான ஆதாரம் வரும் வரை (தம் வழிகளிலிருந்து) விலகுபவர்கள் அல்லர்.",
+            "verse 98:2": "(அத் தெளிவான ஆதாரம்) அல்லாஹ்விடமிருந்து வந்த தூதர், அவர்களுக்கு பரிசுத்தமான ஆகமங்களை ஓதிக் காண்பிக்கிறார் (என்பது).",
+            "verse 98:3": "அவற்றில் நிலையான சட்டதிட்டங்கள் வரையப்பட்டுள்ளன.",
+            "verse 98:4": "எனினும் வேதக்காரர்கள் அவர்களுக்குத் தெளிவான (இந்த) ஆதாரம் வந்த பின்னரேயன்றி அவர்கள் பிளவுபடவில்லை.",
+            "verse 98:5": "\"அல்லாஹ்வுக்கு வணக்கத்தை தூய்மையாக்கியவர்களாக (தவறான வழியிலிருந்து விலகி சரியான வழியில்) பிடிப்புள்ளவர்களாக அல்லாஹ்வை அவர்கள் வணங்க வேண்டும், மேலும் தொழுகையை அவர்கள் நிலைநாட்டவேண்டும், மேலும் ஜகாத்தை அவர்கள் வழங்க வேண்டும் என்பதைத் தவிர (வேறெதுவும்) அவர்களுக்குக் கட்டளையிடப்படவில்லை. இதுதான் நேரான மார்க்கமாகும்.\"",
+            "verse 98:6": "நிச்சயமாக வேதக்காரர்களிலும் முஷ்ரிக்குகளிலும் எவர்கள் நிராகரிக்கிறார்களோ அவர்கள் நரக நெருப்பில் இருப்பார்கள் - அதில் என்றென்றும் இருப்பார்கள் - இத்தகையவர்கள்தாம் படைப்புகளில் மிகக் கெட்டவர்கள் ஆவார்கள்.",
+            "verse 98:7": "நிச்சயமாக, எவர்கள் ஈமான் கொண்டு, ஸாலிஹான (நல்ல) அமல்கள் செய்கிறார்களோ, அவர்கள் தாம் படைப்புகளில் மிக மேலானவர்கள் ஆவார்கள்.",
+            "verse 98:8": "அவர்களுடைய நற்கூலி, அவர்களுடைய இறைவனிடத்திலுள்ள அத்னு என்னும் சுவர்க்கச் சோலைகளாகும். அவற்றின் கீழே ஆறுகள் ஓடிக்கொண்டு இருக்கும்; அவற்றில் அவர்கள் என்றென்றும் தங்கியிருப்பார்கள்; அல்லாஹ்வும் அவர்களைப் பற்றி, திருப்தி அடைவான், அவர்களும் அவனைப்பற்றி திருப்தி அடைவார்கள்; தன் இறைவனுக்குப் பயப்படுகிறாரே அத்தகையவருக்கே இந்த மேலான நிலை உண்டாகும்."
+        },
+        "Tatar": {
+            "verse 98:1": "Китаби кәферләр һәм китапсыз мөшрикләр, көферлекләреннән аерылмадылар, хәтта хакның хаклыгын вә батылның батыллыгын ачык аңлатучы вә хакны батылдан ачык аеручы Коръән килгәнгә чаклы.",
+            "verse 98:2": "Ул аңлатма Аллаһудан килгән рәсүлнең Коръән аятьләрен укымаклыгыдыр, ул аятьләр батылдан (ялганнан) ґәзабтан пак булган һәм сәхифәләрдә язылган Коръән.",
+            "verse 98:3": "Ул сәхифәләрдә һич үзгәрми торган хөкмий аятьләр бардыр. Алар хакны сөйләүче һәм үзгәрүдән пак (Коръән иңгәч кәферләр һәм мөшрикләр, Коръәнне кабул итеп мөселман булдылар. Хәзер дә ул эш дөньяда дәвам итә).",
+            "verse 98:4": "Ул китабий кәферләр, бер-берсеннән аерылмадылар төрле мәзһәбләргә бүленмәделәр мәгәр үзләренә пәйгамбәр килеп хак динне өйрәтеп бер генә юлны ачык күрсәткәннән соң аерылдылар.",
+            "verse 98:5": "Китаплары белән гамәл кылмыйча кәфер булган яһүдләр һәм насаралар, Аллаһ тарафыннан боерылдылар, Аллаһ ризалыгы өчен генә Ислам динен тотарга, Аллаһуга гына гыйбадәт кылырга һәм Аңа итагать итәргә, дәхи намаз укырга, зәкят бирергә, дөреслектә хаклыкта таза торганнарның хак дине әнә шулдыр.",
+            "verse 98:6": "Китапка ышанып та кәфер булган кешеләр һәм китапка ышанмаучы кәферләр алар җәһәннәм утында мәңге калучылардыр. Алар мәхлукатнең иң явызырагыдыр.",
+            "verse 98:7": "Тәхкыйк иман китереп изге гамәлләр кылган хак мөэминнәр, мәхлукларның яхшыларыдыр.",
+            "verse 98:8": "Раббылары хозурында аларның җәзасы Ґәден исемендәге җәннәтләредер, ул җәннәтләрнең асларыннан елгалар агадыр, алар анда мәңге калырлар. Аллаһ алардан разый булды, һәм алар да Аллаһудан разый булдылар. Бу дәрәҗәләр Раббыларыннан курыккан хак мөэминнәргәдер."
+        },
+        "Telugu": {
+            "verse 98:1": "ఎంతవరకైతే స్పష్టమైన నిదర్శనం రాదో! అంత వరకు సత్యతిరస్కారులైన పూర్వగ్రంథ ప్రజలు మరియు బహుదైవారాధకులు (తమ సత్యతిరస్కారాన్ని) మానుకునేవారు కారు",
+            "verse 98:2": "అల్లాహ్ తరఫు నుండి వచ్చిన సందేశహరుడు, వారికి పవిత్ర గ్రంథ పుటలను వినిపిస్తున్నాడు",
+            "verse 98:3": "అందులో సమంజసమైన వ్రాతలు (సత్యోపదేశాలు) ఉన్నాయి",
+            "verse 98:4": "మరియు స్పష్టమైన సూచన వచ్చిన తర్వాతనే గ్రంథ ప్రజలు భేదాభిప్రాయలలో పడ్డారు",
+            "verse 98:5": "మరియు వారికిచ్చిన ఆదేశం: వారు అల్లాహ్ నే ఆరాధించాలని, పూర్తి ఏకాగ్ర చిత్తంతో తమ ధర్మాన్ని (భక్తిని) కేవలం ఆయన కొరకే ప్రత్యేకించుకోవాలని, నమాజ్ ను స్థాపించాలని మరియు జకాత్ ఇవ్వాలని. ఇదే సరైన ధర్మము",
+            "verse 98:6": "నిశ్చయంగా, సత్యతిరస్కారులైన గ్రంథ ప్రజలు మరియు బహుదైవారాధకులు నరకాగ్నిలోకి పోతారు. వారందులో శాశ్వతంగా ఉంటారు. ఇలాంటి వారే, సృష్టిలో అత్యంత నికృష్ట జీవులు",
+            "verse 98:7": "నిశ్చయంగా, విశ్వసించి సత్కార్యాలు చేసేవారు, వారే సృష్టిలో అత్యంత ఉత్కృష్ట జీవులు",
+            "verse 98:8": "వారికి తమ ప్రభువు నుండి లభించే ప్రతిఫలం శాశ్వతమైన స్వర్గవనాలు. వాటిలో క్రింద సెలయేళ్ళు ప్రవహిస్తూ ఉంటాయి. వారు, వాటిలో శాశ్వతంగా కలకాలముంటారు. అల్లాహ్ వారితో ప్రసన్నుడవుతాడు మరియు వారు ఆయనతో సంతుష్టులవుతారు. ఇదే తన ప్రభువుకు భయపడే వ్యక్తికి లభించే ప్రతిఫలం"
+        },
+        "Thai": {
+            "verse 98:1": "บรรดาผู้ปฏิเสธศรัทธาในหมู่อะฮฺลุลกิตาบและพวกบูชาเจว็ดนั้นจะไม่พ้นจาก (หลักศรัทธาของพวกเขา) จนกว่าจะได้มีหลักฐานอันชัดแจ้งมายังพวกเขา",
+            "verse 98:2": "คือร่อซูลคนหนึ่งจากอัลลอฮฺเพื่ออ่านคัมภีร์อันบริสุทธิ์",
+            "verse 98:3": "ในคัมภีร์นั้นมีบัญญัติอันเที่ยงตรง",
+            "verse 98:4": "และบรรดาผู้ที่ได้รับคัมภีร์ (อะฮฺลุลกิตาบ) นั้น มิได้แตกแยกกัน เว้นแต่หลังจากที่ได้มีหลักฐานอันชัดแจ้งมายังพวกเขาแล้ว",
+            "verse 98:5": "และพวกเขามิได้ถูกบัญชาให้กระทำอื่นใดนอกจากเพื่อเคารพภักดีต่ออัลลอฮฺ เป็นผู้มีเจตนาบริสุทธิ์ในการภักดีต่อพระองค์ เป็นผู้อยู่ในแนวทางที่เที่ยงตรงและดำรงการละหมาด และจ่ายซะกาต และนั่นแหละคือศาสนาอันเที่ยงธรรม",
+            "verse 98:6": "แท้จริงบรรดาผู้ปฏิเสธศรัทธาในหมู่อะฮฺลุลกิตาบและบูชาเจว็ดนั้นจะอยู่ในนรกญะฮันนัม พวกเขาเป็นผู้พำนักอยู่ในนั้นตลอดกาล ชนเหล่านั้นพวกเขาเป็นมนุษย์ที่ชั่วช้ายิ่ง",
+            "verse 98:7": "แท้จริง บรรดาผู้ศรัทธาและประกอบความดีทั้งหลาย ชนเหล่านั้น พวกเขาเป็นมนุษย์ที่ดียิ่ง",
+            "verse 98:8": "การตอบแทนของพวกเขา ณ ที่พระเจ้าของพวกเขาคือสวนสวรรค์หลากหลายอันสถาพร ณ เบื้องล่างของมันมีลำน้ำหลายสายไหลผ่าน พวกเขาเป็นผู้พำนักอยู่ในนั้นตลอดกาล อัลลอฮฺทรงปิติต่อพวกเขา และพวกเขาก็ยินดีในพระองค์ นั่นคือสำหรับผู้ที่กลัวเกรงพระเจ้าของพวกเขา"
+        },
+        "Turkish": {
+            "verse 98:1": "Kitap ehlinden ve ortak koşanlardan inkarcılar, kendilerine apaçık bir belge, içinde kesin ve en doğru hükümlerin bulunduğu arınmış sahifeleri okuyan, Allah katından bir Peygamber gelene kadar dinlerinden vazgeçecek değillerdi.",
+            "verse 98:2": "Kitap ehlinden ve ortak koşanlardan inkarcılar, kendilerine apaçık bir belge, içinde kesin ve en doğru hükümlerin bulunduğu arınmış sahifeleri okuyan, Allah katından bir Peygamber gelene kadar dinlerinden vazgeçecek değillerdi.",
+            "verse 98:3": "Kitap ehlinden ve ortak koşanlardan inkarcılar, kendilerine apaçık bir belge, içinde kesin ve en doğru hükümlerin bulunduğu arınmış sahifeleri okuyan, Allah katından bir Peygamber gelene kadar dinlerinden vazgeçecek değillerdi.",
+            "verse 98:4": "Ama, kendilerine kitap verilenler, onlara apaçık belge geldikten sonra ayrılığa düştüler.",
+            "verse 98:5": "Oysa onlar, doğruya yönelerek, dini yalnız Allah'a has kılarak O'na kulluk etmek, namazı kılmak ve zekatı vermekle emrolunmuşlardı. Dosdoğru olan din de budur.",
+            "verse 98:6": "Kitap ehlinden ve ortak koşanlardan inkar edenler, şüphesiz içinde temelli kalacakları cehennem ateşindedirler. İşte bunlar, yaratıkların en kötüsüdürler.",
+            "verse 98:7": "Fakat, inanıp yararlı iş işleyenler, işte onlar da, yaratıkların en iyileridirler.",
+            "verse 98:8": "Onların Rableri katındaki mükafatı, içinde temelli ve sonsuz kalacakları, içlerinden ırmaklar akan Adn cennetleridir. Allah onlardan razıdır. Onlar da Allah'tan razıdır. Bu, Rabbinden korkan kimseyedir."
+        },
+        "Urdu": {
+            "verse 98:1": "جو لوگ کافر ہیں (یعنی) اہل کتاب اور مشرک وہ (کفر سے) باز رہنے والے نہ تھے جب تک ان کے پاس کھلی دلیل (نہ) آتی",
+            "verse 98:2": "(یعنی) خدا کے پیغمبر جو پاک اوراق پڑھتے ہیں",
+            "verse 98:3": "جن میں (مستحکم) آیتیں لکھی ہوئی ہیں",
+            "verse 98:4": "اور اہل کتاب جو متفرق (و مختلف) ہوئے ہیں تو دلیل واضح آنے کے بعد (ہوئے ہیں)",
+            "verse 98:5": "اور ان کو حکم تو یہی ہوا تھا کہ اخلاص عمل کے ساتھ خدا کی عبادت کریں (اور) یکسو ہو کراورنماز پڑھیں اور زکوٰة دیں اور یہی سچا دین ہے",
+            "verse 98:6": "جو لوگ کافر ہیں (یعنی) اہل کتاب اور مشرک وہ دوزخ کی آگ میں پڑیں گے (اور) ہمیشہ اس میں رہیں گے۔ یہ لوگ سب مخلوق سے بدتر ہیں",
+            "verse 98:7": "(اور) جو لوگ ایمان لائے اور نیک عمل کرتے رہے وہ تمام خلقت سے بہتر ہیں",
+            "verse 98:8": "ان کا صلہ ان کے پروردگار کے ہاں ہمیشہ رہنے کے باغ ہیں جن کے نیچے نہریں بہہ رہی ہیں ابدالاباد ان میں رہیں گے۔ خدا ان سے خوش اور وہ اس سے خوش۔ یہ (صلہ) اس کے لیے ہے جو اپنے پروردگار سے ڈرتا رہا"
+        },
+        "Uyghur": {
+            "verse 98:1": "ئەھلى كىتابتىن (يەنى يەھۇدىيلار ۋە ناسارالاردىن) كاپىر بولغانلار ۋە مۇشرىكلار ئۆزلىرىگە روشەن دەلىل كەلگەنگە قەدەر كۇفرىدىن ئايرىلغۇچى بولمىدى",
+            "verse 98:2": "(ئۇ روشەن دەلىل) پاك سەھىپىلەرنى تىلاۋەت قىلىپ تۇرىدىغان، اﷲ تەرىپىدىن كەلگەن پەيغەمبەردۇر",
+            "verse 98:3": "ئۇ سەھىپىلەر توغرا ئەھكاملارنى ئۆز ئىچىگە ئالغان",
+            "verse 98:4": "كىتاب بېرىلگەنلەر (يەنى يەھۇدىيلار ۋە ناسارالار) پەقەت ئۆزلىرىگە روشەن دەلىل كەلگەندىن كېيىنلا ئىختىلاپ قىلىشتى",
+            "verse 98:5": "ئۇلار پەقەت ئىبادەتنى اﷲ قا خالىس قىلغان، ھەق دىنغا ئېتىقاد قىلغان ھالدا (يالغۇز) اﷲ غىلا ئىبادەت قىلىشقا بۇيرۇلدى. نامازنى ئادا قىلىشقا، زاكاتنى بېرىشكە (بۇيرۇلدى)، ئەنە شۇلار (يەنى ئىبادەت، ئىخلاس ناماز، زاكاتلار) توغرا دىندۇر",
+            "verse 98:6": "ئەھلى كىتابتىن ۋە مۇشرىكلاردىن كاپىر بولغانلار ھەقىقەتەن دوزاخقا كىرىدۇ. دوزاختا مەڭگۈ قالىدۇ. ئەنە شۇلار مەخلۇقاتلارنىڭ يامىنىدۇر",
+            "verse 98:7": "ئىمان ئېيتقان ۋە ياخشى ئەمەللەرنى قىلغانلار - ئەنە شۇلار مەخلۇقاتلارنىڭ ياخشىسىدۇر",
+            "verse 98:8": "ئۇلارغا پەرۋەردىگارىنىڭ دەرگاھىدا بېرىلىدىغان مۇكاپات (ئۇلارنىڭ) تۇرار جايى بولغان، ئاستىدىن ئۆستەڭلار ئېقىپ تۇرىدىغان جەننەتلەردۇركى، ئۇلار جەننەتلەردە مەڭگۈ قالىدۇ. اﷲ ئۇلاردىن رازى بولىدۇ، ئۇلارمۇ اﷲ تىن مەمنۇن بولىدۇ. بۇنىڭغا پەرۋەردىگارىدىن قورققان ئادەم ئېرىشىدۇ"
+        },
+        "Uzbek": {
+            "verse 98:1": "Аҳли китоб ва мушриклардан бўлган куфр келтирганларга «баййина» келмагунча ажралмасдилар.",
+            "verse 98:2": "У (баййина) Аллоҳ тарафидан юборилган Расул бўлиб, покланган саҳифаларни тиловат қиладир.",
+            "verse 98:3": "Уларда ажойиб битиклар бордир.",
+            "verse 98:4": "Китоб берилганлар уларга «баййина» келганидан сўнггина бўлиниб кетишди.",
+            "verse 98:5": "Ҳолбуки, улар фақат Аллоҳгагина ибодат қилишга, Унинг динигагина ихлос қилишга, бошқа динларга мойил бўлмасликка, намозни тўлиқ ўқишга, закот беришга буюрилган эдилар. Ана шу тўғри миллатнинг динидир.",
+            "verse 98:6": "Албатта, аҳли китоб ва мушриклардан бўлган куфр келтирганлар жаҳаннам ўтидадурлар, у ерда абадий қолурлар. Ана ўшалар халойиқнинг энг ёмонларидир.",
+            "verse 98:7": "Албатта, иймон келтирганлар ва солиҳ амалларни қилганлар, ана ўшалар, халойиқнинг энг яхшиларидир.",
+            "verse 98:8": "Уларнинг мукофотлари Роббилари ҳузуридаги остидан анҳорлар оқиб турган жаннат «адн»дир. У ерда абадул абад қолажаклар. Аллоҳ улардан рози бўлди, улар ҳам У зотдан рози бўлдилар. Бу Роббисидан қўрққанлар учундир."
+        },
+        "Vietnamese": {
+            "verse 98:1": "Những kẻ không tin thuộc dân Kinh Sách và những kẻ thờ đa thần sẽ không chịu từ bỏ (tín ngưỡng của chúng) cho đến khi có bằng chứng rõ ràng đến với chúng.",
+            "verse 98:2": "(Và một bằng chứng rõ ràng đã đến với chúng, đó là) một Sứ Giả do Allah phái đến đọc các tờ Kinh trong sạch (Qur’an).",
+            "verse 98:3": "Trong đó chứa đựng các sắc chỉ chính trực.",
+            "verse 98:4": "Những kẻ được ban cho Kinh Sách đã không chia rẽ nhau cho tới sau khi có bằng chứng rõ ràng đến với chúng.",
+            "verse 98:5": "Chúng chỉ được lệnh phải thờ phượng một mình Allah, phải toàn tâm và tuyệt đối hết lòng thần phục Ngài, phải dâng lễ nguyện Salah và đóng Zakah. Và đó là một tôn giáo chính thống.",
+            "verse 98:6": "Quả thật, những kẻ không tin thuộc dân Kinh Sách và những kẻ đa thần sẽ bị đày vào Hỏa Ngục, họ sẽ ở trong đó đời đời. Họ là những sinh vật xấu xa và tồi tệ nhất.",
+            "verse 98:7": "Riêng những người có đức tin và hành thiện, họ thực sự là những sinh vật tốt đẹp nhất.",
+            "verse 98:8": "Phần thưởng của họ ở nơi Thượng Đế của họ là những Ngôi Vườn Thiên Đàng bên dưới có các dòng sông chảy. Họ sẽ sống trong đó vĩnh viễn. Allah sẽ hài lòng về họ và họ sẽ toại nguyện về những gì mà Ngài ban cho. Đó là (phần thưởng xứng đáng) cho những ai kính sợ Thượng Đế của họ."
+        },
+        "Yoruba": {
+            "verse 98:1": "Awon t’o sai gbagbo ninu awon ahlul-kitab ati awon osebo, won ko nii kuro ninu aigbagbo won titi di igba ti eri t’o yanju yo fi maa de odo won",
+            "verse 98:2": "Ojise kan lati odo Allahu yo (si) maa ke awon takada mimo",
+            "verse 98:3": "Awon iwe ofin t’o fese rinle si wa ninu re",
+            "verse 98:4": "Awon ti A fun ni tira ko si di ijo otooto afi leyin ti eri t’o yanju de ba won",
+            "verse 98:5": "Awa ko si pa won ni ase kan bi ko se pe ki won josin fun Allahu (ki won je) oluse-afomo esin fun Un, oluduro deede. Ki won kirun, ki won si yo Zakah. Iyen si ni esin t’o fese rinle",
+            "verse 98:6": "Dajudaju awon t’o sai gbagbo (wonyi) ninu awon ahlul-kitab ati awon osebo, won yoo wa ninu Ina. Olusegbere ni won ninu re. Awon wonyen, awon ni eda t’o buru julo",
+            "verse 98:7": "Dajudaju awon t’o gbagbo ni ododo (iyen, awon musulumi), ti won si se awon ise rere, awon wonyen, awon ni eda t’o dara julo",
+            "verse 98:8": "Esan won ni odo Oluwa won ni awon Ogba Idera gbere, ti awon odo n san ni isale re. Olusegbere ni won ninu re titi laelae. Allahu yonu si won. Awon naa yonu si (ohun ti Allahu fun won). Iyen wa fun enikeni ti o ba paya Oluwa re"
         }
     }
 }

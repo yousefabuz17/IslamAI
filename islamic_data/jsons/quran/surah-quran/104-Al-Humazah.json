@@ -5,7 +5,6 @@
     "revelation_order": 32,
     "bismillah_pre": true,
     "verses_count": 9,
-    "source": "Sayyid Abul Ala Maududi - Tafhim al-Qur'an - The Meaning of the Quran",
     "short_text": "The Surah takes its name from the word humazah occurring in the first verse.",
     "text": [
         "The Surah takes its name from the word humazah occurring in the first verse.",
@@ -15,624 +14,594 @@
         "In the surah, some of the evils prevalent among the materialistic hoarders of wealth in the pre-Islamic days have been condemned. Every Arab knew that these evils genuinely existed in their society; they regarded them as evils and nobody thought they were good. After Allah calls attention to this kind of ugly character, the ultimate end in the Hereafter of the people with this kind of character has been stated. Both these things (i.e. the character and his fate in the Hereafter) have been depicted in a way which makes the listener automatically reach the conclusion that such a man deserves to meet such an end, and since people of such character do not suffer any punishment in the world, but seem to be thriving instead, the occurrence of the Hereafter becomes absolutely inevitable.",
         "If this Surah is read in the sequence of the Surahs beginning with Az-Zilzal, one can fully understand how the fundamental beliefs of Islam and its teachings were impressed on the people's minds in the earliest stages in Makkah. In Surah Az-Zilzal, it was said that in the Hereafter man's full record will be placed before him and not an atom's weight of good or evil done by him in the world will have been left unrecorded. In Surah Al-Adiyat, attention was drawn to the plunder and loot, bloodshed and vandalism, prevailing in Arabia before Islam; making the people realize that the way the powers given by God were being abused was indeed an expression of sheer ingratitude to Him. They were told that the matter would not end up in the world, but in the second life after death with not only their deeds but their intentions and motives also being examined. They were informed that their Lord fully well knows which of them deserves reward or punishment. In Surah Al-Qariah after depicting Resurrection, the people were warned that in the Hereafter a man's good or evil end will be dependent on whether the scale of his good deeds was heavier, or the scale of his evil deeds was; in Surah At-Takathur the people were taken to task for the materialistic mentality due to which they remained occupied in seeking increase in worldly benefits, pleasures, comforts and position, and in vying with one another for abundance of everything until death overtook them. Then, warning them of the evil consequences of their heedlessness, they were told that the world was not an open table of food for them to pick and choose whatever they pleased, but for every single blessing that they were enjoying in the world, they would have to render an account to their Lord and Sustainer as to how they obtained it and how they used it. In Surah Al-Asr, it was declared that each member, each group and each community of mankind, even the entire world of humanity, was in manifest loss, if its members were devoid of Faith and righteous deeds and of the practice of exhorting others to truth and patience. Immediately after this comes Surah Al-Humazah, in which after presenting a specimen of leadership of the pre-Islamic age of ignorance, the people have been asked the question: \"What should such a character deserve if not loss and perdition?\""
     ],
+    "quran-source": "`https://surahquran.com`",
     "description": "The surah that opens with a threat of impending aliction and grief to The Scandal-monger or the slanderous reviler, one who, in greediness of wealth and acclaim, defames others. It takes its name from “the slanderer” (humazah) mentioned in verse 1. The surah condemns the greedy backbiter and gives a description of Hell.The surah is also known as: The Backbiter, The Gossipmonger, The Slanderer, The Slanderous Reviler.",
-    "name_translation": "THE SCANDAL-MONGER",
+    "name_translation": "The Scandal-Monger",
     "name_complex": "Al-Humazah",
     "surah_name_ar": "الهمزة",
     "verses": {
-        "languages": {
-            "albanian": {
-                "translators": {
-                    "1": {
-                        "Efendi Nahi": {
-                            "verse 104:1": "Mjer për çdo përqeshës – shpifës,",
-                            "verse 104:2": "që grumbullon pasuri dhe e ruan, (për ardhmërinë e ëndërruar)",
-                            "verse 104:3": "dhe mendon që ajo pasuri e tij, do ta bëjë të pavdekshëm!",
-                            "verse 104:4": "Jo, jo! Mashtrohet! Ai, me të vërtetë, do të hidhet (në) Hutameh (Skëterrë), i habitur;",
-                            "verse 104:5": "E kush të tregon ty se ç’është el-Hutameh?",
-                            "verse 104:6": "Ai është zjarri i ndezur i Zotit,",
-                            "verse 104:7": "i cili do të depërtojë deri në zemër.",
-                            "verse 104:8": "Ai (zjarri) do të jetë i mbyllur mbi ta (si saç),",
-                            "verse 104:9": "në shtylla të gjata flakëruese."
-                        }
-                    }
-                }
-            },
-            "azerbaijani": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "(Dalda) qeybət edib (üzdə) tə'nə vuran hər kəsin vay halına!",
-                            "verse 104:2": "O kimsə ki, mal yığıb onu dönə-dönə sayar (çoxaldar).",
-                            "verse 104:3": "Və elə zənn edər ki, mal-dövləti onu əbədi yaşadacaqdır.",
-                            "verse 104:4": "Xeyr! (Heç də onun güman etdiyi kimi deyildir).",
-                            "verse 104:5": "Sən nə bilirsən (haradan bilirsən) ki, Hütəmə nədir?!",
-                            "verse 104:6": "O, Allahın yanar odudur.",
-                            "verse 104:7": "Elə bir od ki, ürəkləri yandırıb-yaxar.",
-                            "verse 104:8": "O, belələrinin (qeybətçilərin və tə'nə vuranların) üzünə qapanıb kilidlənəcəkdir.",
-                            "verse 104:9": "Onlar (Cəhənnəmdə) hündür sütunlara bağlanmış olacaqlar!"
-                        }
-                    }
-                }
-            },
-            "bosnian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "Teško svakom klevetniku podrugljivcu,",
-                            "verse 104:2": "koji blago gomila i prebrojava ga,",
-                            "verse 104:3": "i misli da će ga blago njegovo besmrtnim učiniti!",
-                            "verse 104:4": "A ne valja tako! On će, sigurno, biti bačen u Džehennem!",
-                            "verse 104:5": "A znaš li ti šta je Džehennem?",
-                            "verse 104:6": "Vatra Allahova razbuktana,",
-                            "verse 104:7": "koja će do srca dopirati.",
-                            "verse 104:8": "Ona će iznad njih biti zatvorena,",
-                            "verse 104:9": "plamenim stupovima zasvođena."
-                        }
-                    }
-                }
-            },
-            "bengali": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "প্রত্যেক পশ্চাতে ও সম্মুখে পরনিন্দাকারীর দুর্ভোগ,",
-                            "verse 104:2": "যে অর্থ সঞ্চিত করে ও গণনা করে",
-                            "verse 104:3": "সে মনে করে যে, তার অর্থ চিরকাল তার সাথে থাকবে!",
-                            "verse 104:4": "কখনও না, সে অবশ্যই নিক্ষিপ্ত হবে পিষ্টকারীর মধ্যে।",
-                            "verse 104:5": "আপনি কি জানেন, পিষ্টকারী কি?",
-                            "verse 104:6": "এটা আল্লাহর প্রজ্জ্বলিত অগ্নি,",
-                            "verse 104:7": "যা হৃদয় পর্যন্ত পৌছবে।",
-                            "verse 104:8": "এতে তাদেরকে বেঁধে দেয়া হবে,",
-                            "verse 104:9": "লম্বা লম্বা খুঁটিতে। হবে,"
-                        }
-                    }
-                }
-            },
-            "bulgarian": {
-                "translators": {
-                    "1": {
-                        "Tzvetan Theophanov": {
-                            "verse 104:1": "Горко на всеки клеветник-хулител,",
-                            "verse 104:2": "който трупа богатство и все го брои!",
-                            "verse 104:3": "Смята, че неговото богатство ще го увековечи.",
-                            "verse 104:4": "Ала не! Ще бъде хвърлен в Трошилото.",
-                            "verse 104:5": "А откъде да знаеш ти какво е Трошилото? -",
-                            "verse 104:6": "Разпаленият Огън на Аллах,",
-                            "verse 104:7": "който прониква до сърцата.",
-                            "verse 104:8": "Той ще бъде затворен над тях",
-                            "verse 104:9": "във високи стълбове."
-                        }
-                    }
-                }
-            },
-            "chinese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "傷哉！每個誹謗者 ,詆毀者 ,",
-                            "verse 104:2": "他聚積財產 ,而當作武器 ,",
-                            "verse 104:3": "他以為他的財產 ,能使他不滅。",
-                            "verse 104:4": "絕不然 ,他必定要被投在毀滅坑中。",
-                            "verse 104:5": "你怎能知道毀滅坑是什麼？",
-                            "verse 104:6": "是真主的燃著的烈活。",
-                            "verse 104:7": "能升到人的心上。",
-                            "verse 104:8": "他們必定要被關在烈火中 ,",
-                            "verse 104:9": "吊在許多很高的柱子上。 ,"
-                        }
-                    }
-                }
-            },
-            "czech": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "Běda každému pomlouvači, jenž na cti utrhá,",
-                            "verse 104:2": "který bohatství hromadí a stále je počítá,",
-                            "verse 104:3": "a že jmění jeho jej učiní nesmrtelným, se domnívá!",
-                            "verse 104:4": "Pozor však, vždyť věru bude uvržen do Drtící!",
-                            "verse 104:5": "Víš ty vůbec, co je to Drtící?",
-                            "verse 104:6": "Boží oheň zažehnutý,",
-                            "verse 104:7": "až k srdcím šlehající",
-                            "verse 104:8": "a nad nimi se v klenbu pojící",
-                            "verse 104:9": "a jak sloupy protažené stojící."
-                        }
-                    }
-                }
-            },
-            "dutch": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "Wee iedere leugenaar en lasteraar!",
-                            "verse 104:2": "Die rijkdommen verzamelt en deze telt,",
-                            "verse 104:3": "Denkende dat zijn schatten hem voor eeuwig zullen behouden.",
-                            "verse 104:4": "Neen, hij zal zeker in het Verterende Vuur worden geworpen.",
-                            "verse 104:5": "En wat weet gij er van wat het verterende Vuur betekent?",
-                            "verse 104:6": "Het is het Vuur dat God heeft aan gewakkerd.",
-                            "verse 104:7": "Dat boven de harten zal opstijgen.",
-                            "verse 104:8": "Voorwaar het zal hen omsluiten",
-                            "verse 104:9": "In uitgestrekte rijen van zuilen."
-                        }
-                    }
-                }
-            },
-            "english": {
-                "translators": {
-                    "1": {
-                        "Marmaduke Pickthall": {
-                            "verse 104:1": "Woe unto every slandering traducer,",
-                            "verse 104:2": "Who hath gathered wealth (of this world) and arranged it.",
-                            "verse 104:3": "He thinketh that his wealth will render him immortal.",
-                            "verse 104:4": "Nay, but verily he will be flung to the Consuming One.",
-                            "verse 104:5": "Ah, what will convey unto thee what the Consuming One is!",
-                            "verse 104:6": "(It is) the fire of Allah, kindled,",
-                            "verse 104:7": "Which leapeth up over the hearts (of men).",
-                            "verse 104:8": "Lo! it is closed in on them",
-                            "verse 104:9": "In outstretched columns."
-                        }
-                    },
-                    "2": {
-                        "Abdullah Yusuf Ali": {
-                            "verse 104:1": "Woe to every (kind of) scandal-monger and-backbiter,",
-                            "verse 104:2": "Who pileth up wealth and layeth it by,",
-                            "verse 104:3": "Thinking that his wealth would make him last for ever!",
-                            "verse 104:4": "By no means! He will be sure to be thrown into That which Breaks to Pieces,",
-                            "verse 104:5": "And what will explain to thee That which Breaks to Pieces?",
-                            "verse 104:6": "(It is) the Fire of (the Wrath of) God kindled (to a blaze),",
-                            "verse 104:7": "The which doth mount (Right) to the Hearts:",
-                            "verse 104:8": "It shall be made into a vault over them,",
-                            "verse 104:9": "In columns outstretched."
-                        }
-                    },
-                    "3": {
-                        "Arthur J. Arberry": {
-                            "verse 104:1": "Woe unto every backbiter, slanderer,",
-                            "verse 104:2": "who has gathered riches and counted them over",
-                            "verse 104:3": "thinking his riches have made him immortal!",
-                            "verse 104:4": "No indeed; he shall be thrust into the Crusher;",
-                            "verse 104:5": "and what shall teach thee what is the Crusher;",
-                            "verse 104:6": "The Fire of God kindled",
-                            "verse 104:7": "roaring over the hearts",
-                            "verse 104:8": "covered down upon them,",
-                            "verse 104:9": "in columns outstretched."
-                        }
-                    },
-                    "4": {
-                        "Muhammad Asad": {
-                            "verse 104:1": "WOE unto every slanderer, fault-finder!",
-                            "verse 104:2": "[Woe unto him] who amasses wealth and counts it a safeguard,",
-                            "verse 104:3": "thinking that his wealth will make him live forever!",
-                            "verse 104:4": "Nay, but [in the life to come such as] he shall indeed be abandoned to crushing torment!",
-                            "verse 104:5": "And what could make thee conceive what that crushing torment will be?",
-                            "verse 104:6": "A fire kindled by God,",
-                            "verse 104:7": "which will rise over the",
-                            "verse 104:8": "hearts:",
-                            "verse 104:9": "verily, it will close in upon them",
-                            "verse 104:10": "in endless columns!",
-                            "verse 104:11": "counts it a safeguard” is based on Jawharī ‘s explanation of this term."
-                        }
-                    },
-                    "5": {
-                        "Martin Lings": {}
-                    },
-                    "6": {
-                        "Mufti Muhammad Taqi Uthmani": {
-                            "verse 104:1": "Woe to every backbiter, derider",
-                            "verse 104:2": "who accumulates wealth and counts it.",
-                            "verse 104:3": "He thinks that his wealth has made him eternal.",
-                            "verse 104:4": "Never! He will certainly be thrown into the Crushing Fire.",
-                            "verse 104:5": "And what may let you know what the Crushing Fire is?",
-                            "verse 104:6": "It is Allah’s kindled fire",
-                            "verse 104:7": "that will peep into the hearts.",
-                            "verse 104:8": "It will be closed on them,",
-                            "verse 104:9": "in outstretched columns."
-                        }
-                    },
-                    "7": {
-                        "Royal Aal al-Bayt Institute Translation": {
-                            "verse 104:1": "Woe to every backbiter, [who is a] slanderer,",
-                            "verse 104:2": "who amasses wealth and counts it over.",
-                            "verse 104:3": "He thinks that his wealth will make him immortal.",
-                            "verse 104:4": "Nay! He will surely be flung into the Crusher.",
-                            "verse 104:5": "And what will show you what the Crusher is?",
-                            "verse 104:6": "[It is] the fire of God, kindled",
-                            "verse 104:7": "which peers over the hearts.",
-                            "verse 104:8": "Lo! it will be closed in on them",
-                            "verse 104:9": "in outstretched columns."
-                        }
-                    },
-                    "8": {
-                        "Recitations of Ibrahim walk from saheeh international": {
-                            "verse 104:1": "Woe to everyone who slanders (face to face) and finds fault (in absence)!",
-                            "verse 104:2": "(Woe to him) who accumulates wealth and keeps counting it!",
-                            "verse 104:3": "He thinks that his riches will keep him alive forever.",
-                            "verse 104:4": "By no means! He will certainly be cast into al-Hutama (the crushing up Fire).",
-                            "verse 104:5": "And what will make you understand what al-Hutama (the crushing up Fire) is?",
-                            "verse 104:6": "(It) is a Fire kindled by Allah.",
-                            "verse 104:7": "That will rise over the hearts (with its torture).",
-                            "verse 104:8": "Indeed, that (Fire) will be closed upon them all around,",
-                            "verse 104:9": "In towering columns (of fierce flames and they will not find any way to escape)."
-                        }
-                    }
-                }
-            },
-            "finnish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "Voi jokaista parjaajaa, panettelijaa,",
-                            "verse 104:2": "joka kerää aarteita ja pitää niitä turvanaan,",
-                            "verse 104:3": "luullen, että hänen rikkautensa on pysyväistä!",
-                            "verse 104:4": "Hänet totisesti singotaan murskaavan surman suuhun.",
-                            "verse 104:5": "Käsitätkö, mikä tuo surma on?",
-                            "verse 104:6": "Tuli, jonka Jumala on sytyttänyt,",
-                            "verse 104:7": "joka leimahtaa syntisiä vastaan.",
-                            "verse 104:8": "Se on totisesti piirittävä heidät ylt'ympäri",
-                            "verse 104:9": "kuin korkeat pilarit."
-                        }
-                    }
-                }
-            },
-            "french": {
-                "translators": {
-                    "1": {
-                        "Jean-Louis Michon": {
-                            "verse 104:1": "Malheur à tout calomniateur sarcastique,",
-                            "verse 104:2": "qui amasse des richesses et en fait le compte !",
-                            "verse 104:3": "Il pense que sa fortune le rendra immortel !",
-                            "verse 104:4": "Mais non !.",
-                            "verse 104:5": "Et qu'est-ce qui te fera connaître ce qu'est la Hûtama ?",
-                            "verse 104:6": "C'est le Feu de Dieu jamais éteint,",
-                            "verse 104:7": "qui pénètre dans les entrailles",
-                            "verse 104:8": "jusqu'à les enfermer",
-                            "verse 104:9": "dans d'immenses colonnes."
-                        }
-                    },
-                    "2": {
-                        "Muhammad Hamidullah ": {
-                            "verse 104:1": "Malheur à tout calomniateur diffamateur,",
-                            "verse 104:2": "qui amasse une fortune et la compte,",
-                            "verse 104:3": "pensant que sa fortune l’immortalisera.",
-                            "verse 104:4": "Mais non ! Il sera certes, jeté dans la Hutamah .",
-                            "verse 104:5": "Et qui te dira ce qu’est la Hutamah ?",
-                            "verse 104:6": "Le Feu attisé de Dieu",
-                            "verse 104:7": "qui monte jusqu’aux coeurs.",
-                            "verse 104:8": "Il se refermera sur eux,",
-                            "verse 104:9": "en colonnes (de flammes) étendues."
-                        }
-                    }
-                }
-            },
-            "german": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "Wehe jedem Lästerer, Verleumder,",
-                            "verse 104:2": "Der Reichtum zusammengeschart hat und ihn berechnet Mal um Mal.",
-                            "verse 104:3": "Er wähnt, sein Reichtum habe ihn unsterblich gemacht.",
-                            "verse 104:4": "Nein! er wird sicherlich bald in das Verzehrende geschleudert werden.",
-                            "verse 104:5": "Und was lehrt dich wissen, was das Verzehrende ist? -",
-                            "verse 104:6": "Das Feuer Allahs, das entzündete,",
-                            "verse 104:7": "Das über die Herzen hinweg züngelt.",
-                            "verse 104:8": "Es wird sich wölben über ihnen",
-                            "verse 104:9": "In ausgestreckten Säulen."
-                        }
-                    }
-                }
-            },
-            "hindi": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "gj rkuk nsus okys pqx+y[+kksj dh [+kjkch gS",
-                            "verse 104:2": "tks eky dks tek djrk gS vkSj fxu fxu dj j[krk gS",
-                            "verse 104:3": "og le>rk gS fd mldk eky mls ges’kk ft+Unk ckd+h j[ksxk",
-                            "verse 104:4": "gjfxt+ ugha og rks t+:j gqrek esa Mkyk tk,xk",
-                            "verse 104:5": "vkSj rqedks D;k ekywe grek D;k gS",
-                            "verse 104:6": "og [+kqnk dh HkM+dkbZ gq;h vkx gS tks ¼ryos ls yxh rks½ fnyksa rd p<+ tk,xh",
-                            "verse 104:7": ";s yksx vkx ds yEcs lqrwuks",
-                            "verse 104:8": "esa Mky dj cUn dj fn,",
-                            "verse 104:9": "tk,¡xs"
-                        }
-                    }
-                }
-            },
-            "indonesian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "Kecelakaanlah bagi setiap pengumpat lagi pencela,",
-                            "verse 104:2": "yang mengumpulkan harta dan menghitung-hitungnya,",
-                            "verse 104:3": "dia mengira bahwa hartanya itu dapat mengekalkannya,",
-                            "verse 104:4": "sekali-kali tidak! Sesungguhnya dia benar-benar akan dilemparkan ke dalam Huthamah.",
-                            "verse 104:5": "Dan tahukah kamu apa Huthamah itu?",
-                            "verse 104:6": "(yaitu) api (yang disediakan) Allah yang dinyalakan,",
-                            "verse 104:7": "yang (membakar) sampai ke hati.",
-                            "verse 104:8": "Sesungguhnya api itu ditutup rapat atas mereka,",
-                            "verse 104:9": "(sedang mereka itu) diikat pada tiang-tiang yang panjang."
-                        }
-                    }
-                }
-            },
-            "italian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "Guai ad ogni diffamatore maldicente,",
-                            "verse 104:2": "che accumula ricchezze e le conta ;",
-                            "verse 104:3": "pensa che la sua ricchezza lo renderà immortale?",
-                            "verse 104:4": "No, sarà certamente gettato nella Voragine .",
-                            "verse 104:5": "E chi mai ti farà comprendere cos'è la Voragine ?",
-                            "verse 104:6": "",
-                            "verse 104:7": "il Fuoco attizzato di Allah,",
-                            "verse 104:8": "che consuma i cuori",
-                            "verse 104:9": "Invero [si chiuderà] su di loro ,",
-                            "verse 104:10": "in estese colonne ."
-                        }
-                    }
-                }
-            },
-            "japanese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "災いなるかな，凡ての悪口を言って中傷する者。",
-                            "verse 104:2": "財を集めて計算する（のに余念のない）者。",
-                            "verse 104:3": "本当にその財が，かれを永久に生かすと考えている。",
-                            "verse 104:4": "断じてそうではない。かれは必ず業火の中に，投げ込まれる。",
-                            "verse 104:5": "業火が，何であるかをあなたに理解させるものは何か。",
-                            "verse 104:6": "（それは）ぼうぼうと燃えているアッラーの火，",
-                            "verse 104:7": "心臓を焼き尽し，",
-                            "verse 104:8": "かれらの頭上に完全に覆い被さり，",
-                            "verse 104:9": "（逃れることの出来ない）列柱の中に。 かれらの頭上に完全に覆い被さり，"
-                        }
-                    }
-                }
-            },
-            "korean": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "뒤에서 중상모략하는 자에게재앙이 있을지니",
-                            "verse 104:2": "그는 재산을 모아 계산에 열 중하며",
-                            "verse 104:3": "그 재산이 현세에서 그를 영 원케 하리라 생각하도다",
-                            "verse 104:4": "그러나 그렇지 아니하니 그는 지옥에 던져지리라",
-                            "verse 104:5": "그 지옥이 무엇이지 무엇이 그대에게 알려주리요",
-                            "verse 104:6": "그것은 하나님의 분노가 타는 불지옥이거늘",
-                            "verse 104:7": "그 뜨거움이 가습을 에워싸고",
-                            "verse 104:8": "그들에게 문이 잠겨져 버리며",
-                            "verse 104:9": "기둥들로 빗장이 내려지노라"
-                        }
-                    }
-                }
-            },
-            "kurdish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "هاوارو ئاهو ناڵه بۆ هه‌ر که‌سێك که به شوێن که‌م و کووڕیدا ده‌گه‌ڕێت و له عه‌یب و عاری خه‌ڵکی ده‌دوێت.",
-                            "verse 104:2": "ئه‌و که‌سه‌ی ماڵ و سامانی زۆری کۆ کردۆته‌وه‌و هه‌ر خه‌ریکی ژماردنێتی و (دڵی پێی خۆشه‌، ڕه‌زیله‌و به‌خشنده نیه‌).",
-                            "verse 104:3": "واده‌زانێت به‌ڕاستی که ماڵ و سامانه‌که‌ی ده‌بێته هۆی ته‌مه‌ن درێژی و نه‌مریی بۆی؟",
-                            "verse 104:4": "نه‌خێر سوێند به‌خوا به سووکی و ڕیسوایی فڕێ ده‌درێته ناو (حطمة) وه‌.",
-                            "verse 104:5": "جا تۆ چووزانی (حطمة) چیه‌؟",
-                            "verse 104:6": "بریتی یه له ئاگری داگیرساوو بڵێسه‌داری خوا.",
-                            "verse 104:7": "ئه‌و ئاگره‌ی ڕوو ده‌کاته ناو جه‌رگه‌ی دڵ و ده‌روونه‌کان (که مه‌ڵبه‌ندی کوفرو خوانه‌ناسی و ڕه‌زیلی یه‌)",
-                            "verse 104:8": "بێگومان ئه‌و ئاگرو دۆزه‌خه له شوێنێکدایه که سه‌رگیراوو ده‌رگا داخراوه له‌سه‌ریان (ڕێگه‌ی قوتار بوونی نیه‌).",
-                            "verse 104:9": "(خوا نه‌ناسان له‌وێ) له‌ناو چه‌ند ستوونێکی ئاگرینی درێژدان (هیچ جم و جوڵێکیان بۆ ناکرێت)."
-                        }
-                    }
-                }
-            },
-            "malay": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "Kecelakaan besar bagi tiap-tiap pencaci, pengeji,",
-                            "verse 104:2": "Yang mengumpulkan harta dan berulang-ulang menghitung kekayaannya;",
-                            "verse 104:3": "Dia menyangka bahawa hartanya itu dapat mengekalkannya (dalam dunia ini)!",
-                            "verse 104:4": "Tidak! Sesungguhnya dia akan dicampakkan ke dalam \"Al-Hutamah\".",
-                            "verse 104:5": "Dan apa jalannya engkau dapat mengetahui, apa dia \"Al-Hutamah\" itu?",
-                            "verse 104:6": "(Al-Hutamah) ialah api Allah yang dinyalakan (dengan perintahNya);",
-                            "verse 104:7": "Yang naik menjulang ke hati;",
-                            "verse 104:8": "Sesungguhnnya api Neraka itu ditutup rapat atas mereka.",
-                            "verse 104:9": "(Mereka terikat di situ) pada batang-batang palang yang melintang panjang."
-                        }
-                    }
-                }
-            },
-            "persian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "واى بر هر عيبجوى مسخره‏كننده‏اى!",
-                            "verse 104:2": "همان كس كه مال فراوانى جمع‏آورى و شماره كرده (بى‏آنكه مشروع و نامشروع آن را حساب كند)!",
-                            "verse 104:3": "او گمان مى‏كند كه اموالش او را جاودانه مى‏سازد!",
-                            "verse 104:4": "چنين نيست كه مى‏پندارد; بزودى در «حطمه‏» ( آتشى خردكننده) پرتاب مى‏شود!",
-                            "verse 104:5": "و تو چه مى‏دانى «حطمه‏» چيست؟!",
-                            "verse 104:6": "آتش برافروخته الهى است،",
-                            "verse 104:7": "آتشى كه از دلها سرمى‏زند!",
-                            "verse 104:8": "اين آتش بر آنها فروبسته شده،",
-                            "verse 104:9": "در ستونهاى كشيده و طولانى!"
-                        }
-                    }
-                }
-            },
-            "portuguese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "Ai de todo o difamador, caluniador",
-                            "verse 104:2": "Que acumula riquezas e as entesoura,",
-                            "verse 104:3": "Pensando que as suas riquezas o imortalizarão!",
-                            "verse 104:4": "Qual! Sem dúvida que ele será precipitado naquilo que consome.",
-                            "verse 104:5": "E o que te fará entender o que é aquilo que consome?",
-                            "verse 104:6": "É o fogo de Deus, aceso,",
-                            "verse 104:7": "Que abrasará os corações.",
-                            "verse 104:8": "Em verdade, isso será desfechado sobre eles.",
-                            "verse 104:9": "Em colunas estendidas!"
-                        }
-                    }
-                }
-            },
-            "romanian": {
-                "translators": {
-                    "1": {
-                        "Lucrarea (traducere úi editare) a fost realizată de către": {
-                            "verse 104:1": "Vai pentru tot clevetitorul și defãimãtorul",
-                            "verse 104:2": "Care strânge avere și o socotește,",
-                            "verse 104:3": "Crezând cã averea sa îl va face nemuritor!",
-                            "verse 104:4": "Dar nu! El va fi aruncat în Al-Hutama!",
-                            "verse 104:5": "Și de unde sã știi tu ce este Al-Hutama?",
-                            "verse 104:6": "Focul aprins al lui Allah,",
-                            "verse 104:7": "Care se înalțã peste inimi.",
-                            "verse 104:8": "El se va închide deasupra lor,",
-                            "verse 104:9": "În coloane întinse ! lor,"
-                        }
-                    },
-                    "2": {
-                        "George Grigore, Coranul": {
-                            "verse 104:1": "Vai clevetitorului — bârfitorului",
-                            "verse 104:2": "care strânge averi şi le numără!",
-                            "verse 104:3": "El crede că averile îi vor da nemurirea!",
-                            "verse 104:4": "Ba nu! El va fi azvârlit în Al-Hutamah!",
-                            "verse 104:5": "Şi cum vei şti tu oare ce este Al-Hutamah?",
-                            "verse 104:6": "Este focul aprins al lui Dumnezeu,",
-                            "verse 104:7": "ce scrutează sufletele,",
-                            "verse 104:8": "boltindu-se asupra lor",
-                            "verse 104:9": "pe trâmbe înalte."
-                        }
-                    }
-                }
-            },
-            "russian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "Будь проклят клеветник и тот,Кто за спиной злословит,",
-                            "verse 104:2": "Тот, кто копит доброИ в закрома его кладет,",
-                            "verse 104:3": "Надеясь, что богатства этиНавечно жизнь ему продлят!",
-                            "verse 104:4": "Поистине, низвергнут будет онв аль хутаму’.",
-                            "verse 104:5": "Как объяснить тебе,Что значит «аль хутама’»?",
-                            "verse 104:6": "Пылающий Огонь,Возжженный гневом Божьим,",
-                            "verse 104:7": "Что захватил сердца и души(скверных)",
-                            "verse 104:8": "И погребальным сводом стал для них",
-                            "verse 104:9": "На вытянутых до небес шестах."
-                        }
-                    }
-                }
-            },
-            "spanish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "¡Ay de todo aquél que difame, que critique,",
-                            "verse 104:2": "que amase hacienda y la cuente una y otra vez,",
-                            "verse 104:3": "creyendo que su hacienda le hará inmortal!",
-                            "verse 104:4": "¡No! ¡Será precipitado, ciertamente, en la hutama !",
-                            "verse 104:5": "Y ¿cómo sabrás qué es la hutama ?",
-                            "verse 104:6": "Es el fuego de Alá encendido,",
-                            "verse 104:7": "Que llega hasta las entrañas.",
-                            "verse 104:8": "Se cerrará sobre ellos",
-                            "verse 104:9": "en extensas columnas."
-                        }
-                    }
-                }
-            },
-            "tamil": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "குறை சொல்லிப் புறம் பேசித் திரியும் ஒவ்வொருவனுக்கும் கேடுதான்.",
-                            "verse 104:2": "(அத்தகையவன் செல்வமே சாசுவதமென எண்ணிப்) பொருளைச் சேகரித்து எண்ணிக் கொண்டே இருக்கின்றான்.",
-                            "verse 104:3": "நிச்சயமாகத், தன் பொருள் தன்னை (உலகில் நித்தியனாக) என்றும் நிலைத்திருக்கச் செய்யுமென்று அவன் எண்ணுகிறான்.",
-                            "verse 104:4": "அப்படியல்ல, நிச்சயமாக அவன் ஹுதமாவில் எறியப்படுவான்.",
-                            "verse 104:5": "ஹுதமா என்ன என்பதை உமக்கு அறிவித்தது எது?",
-                            "verse 104:6": "அது எரிந்து கொண்டிருக்கும் அல்லாஹ்வின் நெருப்பாகும்.",
-                            "verse 104:7": "அது (உடலில் பட்டதும்) இருதயங்களில் பாயும்.",
-                            "verse 104:8": "நிச்சயமாக அது அவர்களைச் சூழ்ந்து மூட்டப்படும்.",
-                            "verse 104:9": "நீண்ட கம்பங்களில் (அவர்கள் கட்டப்பட்டவர்களாக)."
-                        }
-                    }
-                }
-            },
-            "thai": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "ความหายนะจงประสบแด่ทุกผู้นินทา และผู้ใส่ร้ายผู้อื่น",
-                            "verse 104:2": "ซึ่งเขาสะสมทรัพย์สมบัติ และหมั่นนับมันอยู่เสมอ",
-                            "verse 104:3": "โดยคิดว่าทรัพย์สมบัติของเขานั้นจะทำให้เขาอยู่ได้ตลอดไป",
-                            "verse 104:4": "มิใช่เช่นนั้น แน่นอนเขาจะถูกโยนลงไปในไฟนรก (อัลฮุเฏาะมะฮ์)",
-                            "verse 104:5": "และอะไรเล่าที่ทำให้เจ้ารู้ได้ว่า ไฟนรก (อัลฮุเฏาะมะฮ์) นั้นคืออะไร?",
-                            "verse 104:6": "คือไฟของอัลลอฮ์ที่ถูกจุดให้ลุกโชน",
-                            "verse 104:7": "ซึ่งมันจะลุกไหม้เข้าไปในหัวใจ",
-                            "verse 104:8": "แท้จริง มันจะลุกไหม้คลุมบนพวกเขาอย่างมิดชิด",
-                            "verse 104:9": "อยู่ในสภาพของเสาสูงชะลูด"
-                        }
-                    }
-                }
-            },
-            "turkish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "Arkadan çekiştirmeyi, yüze karşı eğlenmeyi âdet edinen herkesin vay haline!",
-                            "verse 104:2": "O ki, toplamış ve onu sayıp durmuştur.",
-                            "verse 104:3": "(O), malının kendisini ebedî kılacağını zanneder.",
-                            "verse 104:4": "Hayır! Andolsun ki o, Hutame'ye atılacaktır.",
-                            "verse 104:5": "Hutame'nin ne olduğunu bilir misin?",
-                            "verse 104:6": "Allah'ın, tutuşturulmuş ateşidir.",
-                            "verse 104:7": "(Yandıkça) tırmanıp kalplerin ta üstüne çıkar.",
-                            "verse 104:8": "O ,onların üzerine kapatılıp kilitlenecektir.",
-                            "verse 104:9": "(Bu ateşin içinde) uzatılmış sütunlara bağlanmışlar."
-                        }
-                    }
-                }
-            },
-            "urdu": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "ہر طعن آمیز اشارتیں کرنے والے چغل خور کی خرابی ہے",
-                            "verse 104:2": "ہر اس شخص کے لئے ہلاکت ہے جو (روبرو) طعنہ زني کرنے والا ہے (اور پسِ پشت) عيب جوئي کرنے والا ہےo",
-                            "verse 104:3": "(خرابي و تباہي ہے اس شخص کے لئے) جس نے مال جمع کيا اور اسے گن گن کر رکھتا ہےo",
-                            "verse 104:4": "جو مال جمع کرتا اور اس کو گن گن کر رکھتا ہے",
-                            "verse 104:5": "(اور) خیال کرتا ہے کہ اس کا مال اس کی ہمیشہ کی زندگی کا موجب ہو گا",
-                            "verse 104:6": "وہ يہ گمان کرتا ہے کہ اس کي دولت اسے ہميشہ زندہ رکھے گيo",
-                            "verse 104:7": "ہرگز نہيں! وہ ضرور حطمہ (يعني چورا چورا کر دينے والي آگ) ميں پھينک ديا جائے گاo",
-                            "verse 104:8": "ہر گز نہیں وہ ضرور حطمہ میں ڈالا جائے گا",
-                            "verse 104:9": "اور تم کیا سمجھے حطمہ کیا ہے؟",
-                            "verse 104:10": "اور آپ کيا سمجھے ہيں کہ حطمہ (چورا چورا کر دينے والي آگ) کيا ہےo",
-                            "verse 104:11": "(يہ) ا? کي بھڑکائي ہوئي آگ ہےo",
-                            "verse 104:12": "وہ خدا کی بھڑکائی ہوئی آگ ہے",
-                            "verse 104:13": "جو دلوں پر جا لپٹے گی",
-                            "verse 104:14": "جو دلوں پر (اپني اذيت کے ساتھ) چڑھ جائے گيo",
-                            "verse 104:15": "بيشک وہ (آگ) ان لوگوں پر ہر طرف سے بند کر دي جائے گيo",
-                            "verse 104:16": "(اور) وہ اس میں بند کر دیئے جائیں گے",
-                            "verse 104:17": "(یعنی آگ کے) لمبے لمبے ستونوں میں",
-                            "verse 104:18": "(بھڑکتے شعلوں کے) لمبے لمبے ستونوں ميں (اور ان لوگوں کے لئے کوئي راہِ فرار نہ رہے گي)o میں"
-                        }
-                    }
-                }
-            },
-            "uzbek": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 104:1": "Ҳар бир обрў тўкувчи ва айбловчига «вайл» бўлсин.",
-                            "verse 104:2": "У мол жамлади ва уни санаб турди.",
-                            "verse 104:3": "У, албатта, уни абадий қолдирур, деб ҳисоблар.",
-                            "verse 104:4": "Йўқ! Албатта у «ҳутома»га хор-зор этиб ташланар.",
-                            "verse 104:5": "«Ҳутома» қандоқ нарса эканини сенга нима билдирар?",
-                            "verse 104:6": "У Аллоҳнинг шиддатли, ўчмас оловидир.",
-                            "verse 104:7": "Қалбгача етиб борадир.",
-                            "verse 104:8": "Албатта, у уларни устидан қоплангандир.",
-                            "verse 104:9": "Узун-узун устунларга боғлангандирлар."
-                        }
-                    }
-                }
-            }
+        "Albanian": {
+            "verse 104:1": "Mjer për çdo përqeshës – shpifës,",
+            "verse 104:2": "që grumbullon pasuri dhe e ruan, (për ardhmërinë e ëndërruar)",
+            "verse 104:3": "dhe mendon që ajo pasuri e tij, do ta bëjë të pavdekshëm!",
+            "verse 104:4": "Jo, jo! Mashtrohet! Ai, me të vërtetë, do të hidhet (në) Hutameh (Skëterrë), i habitur;",
+            "verse 104:5": "E kush të tregon ty se ç’është el-Hutameh?",
+            "verse 104:6": "Ai është zjarri i ndezur i Zotit,",
+            "verse 104:7": "i cili do të depërtojë deri në zemër.",
+            "verse 104:8": "Ai (zjarri) do të jetë i mbyllur mbi ta (si saç),",
+            "verse 104:9": "në shtylla të gjata flakëruese."
+        },
+        "Amharic": {
+            "verse 104:1": "ለሃሜተኛ ለዘላፊ ሁሉ ወዮለት፡፡",
+            "verse 104:2": "ለዚያ ገንዘብን የሰበሰበና የቆጣጠረው (ያደለበውም) ለኾነ ፤(ወዮለት)፡፡",
+            "verse 104:3": "ገንዘቡ የሚያዘወትረው መኾኑን ያስባል፡፡",
+            "verse 104:4": "ይከልከል፤ በሰባሪይቱ (እሳት) ውስጥ በእርግጥ ይጣላል፡፡",
+            "verse 104:5": "ሰባሪይቱም ምን እንደ ኾነች ምን አሳወቀህ?",
+            "verse 104:6": "የተነደደችው የአላህ እሳት ናት፡፡",
+            "verse 104:7": "ያቺ በልቦች ላይ የምትዘልቅ የኾነችው፡፡",
+            "verse 104:8": "እርሷ በእርግጥ በእነርሱ ላይ የተዘጋጀች ናት፡፡",
+            "verse 104:9": "በተዘረጋች አዕማድ ውስጥ (የተዘጋች ናት)፡፡"
+        },
+        "Arabic": {
+            "verse 104:1": "ٍةَزَمُّل ٍةَزَمُه ِّلُكِّل ٌلْيَو",
+            "verse 104:2": "ُهَدَّدَعَو اًلاَم َعَمَج يِذَّلا",
+            "verse 104:3": "ُهَدَلْخَأ ُهَلاَم َّنَأ ُبَسْحَي",
+            "verse 104:4": "ِةَمَطُحْلا يِف َّنَذَبنُيَل ۖ اَّلَك",
+            "verse 104:5": "ُةَمَطُحْلا اَم َكاَرْدَأ اَمَو",
+            "verse 104:6": "ُةَدَقوُمْلا ِهَّللا ُراَن",
+            "verse 104:7": "ِةَدِئْفَأْلا ىَلَع ُعِلَّطَت يِتَّلا",
+            "verse 104:8": "ٌةَدَصْؤُّم مِهْيَلَع اَهَّنِإ",
+            "verse 104:9": "ٍةَدَّدَمُّم ٍدَمَع يِف"
+        },
+        "Azerbaijani": {
+            "verse 104:1": "Hər bir qeybət edənin, tənə vuranın vay halına!",
+            "verse 104:2": "O şəxs ki, mal-dövlət toplayıb onu təkrar-təkrar sayır",
+            "verse 104:3": "və elə güman edir ki, var-dövləti onu əbədi saxlayacaqdır.",
+            "verse 104:4": "Xeyr! O, mütləq Hutəməyə atılacaqdır.",
+            "verse 104:5": "Sən haradan biləsən ki, Hutəmə nədir?",
+            "verse 104:6": "Bu, Allahın qaladığı Oddur.",
+            "verse 104:7": "O Od ki, qalxıb ürəklərə çatacaq.",
+            "verse 104:8": "Həqiqətən, o Od onların üzərində qapanacaqdır.",
+            "verse 104:9": "Özləri də orada yüksək dirəklərə bağlanmış olacaqlar."
+        },
+        "Bengali": {
+            "verse 104:1": "প্রত্যেক পশ্চাতে ও সম্মুখে পরনিন্দাকারীর দুর্ভোগ,",
+            "verse 104:2": "যে অর্থ সঞ্চিত করে ও গণনা করে",
+            "verse 104:3": "সে মনে করে যে, তার অর্থ চিরকাল তার সাথে থাকবে!",
+            "verse 104:4": "কখনও না, সে অবশ্যই নিক্ষিপ্ত হবে পিষ্টকারীর মধ্যে।",
+            "verse 104:5": "আপনি কি জানেন, পিষ্টকারী কি?",
+            "verse 104:6": "এটা আল্লাহর প্রজ্জ্বলিত অগ্নি,",
+            "verse 104:7": "যা হৃদয় পর্যন্ত পৌছবে।",
+            "verse 104:8": "এতে তাদেরকে বেঁধে দেয়া হবে,",
+            "verse 104:9": "লম্বা লম্বা খুঁটিতে।"
+        },
+        "Berber Amazigh": {
+            "verse 104:1": "A ssxev n yal aqeôôav alemmam!",
+            "verse 104:2": "I ijemmlen ayla, iêeppeb it.",
+            "verse 104:3": "Inwa, s wayla, ad iwekkeô.",
+            "verse 104:4": "Xaîi! Ad ippuveggeô ar Tuêvimt.",
+            "verse 104:5": "Anwa ara k yinin d acu p Tuêvimt?",
+            "verse 104:6": "D times n Öebbi i smendagen,",
+            "verse 104:7": "i ippalin $ef ulawen.",
+            "verse 104:8": "Neppat, ih, t$umm iten",
+            "verse 104:9": "s tgwejda $wezzifen."
+        },
+        "Bosnian": {
+            "verse 104:1": "Teško svakom klevetniku-podrugljivcu,",
+            "verse 104:2": "koji blago gomila i prebrojava ga,",
+            "verse 104:3": "i misli da će ga blago njegovo besmrtnim učiniti!",
+            "verse 104:4": "A ne valja tako! On će, sigurno, biti bačen u Džehennem!",
+            "verse 104:5": "A znaš li ti šta je Džehennem?",
+            "verse 104:6": "Vatra Allahova razbuktana,",
+            "verse 104:7": "koja će do srcā dopirati.",
+            "verse 104:8": "Ona će iznad njih biti zatvorena,",
+            "verse 104:9": "plamenim stupovima zasvođena."
+        },
+        "Bulgarian": {
+            "verse 104:1": "Горко на всеки клеветник-хулител,",
+            "verse 104:2": "който трупа богатство и все го брои!",
+            "verse 104:3": "Смята, че неговото богатство ще го увековечи.",
+            "verse 104:4": "Ала не! Ще бъде хвърлен в Трошилото.",
+            "verse 104:5": "А откъде да знаеш ти какво е Трошилото? -",
+            "verse 104:6": "Разпаленият Огън на Аллах,",
+            "verse 104:7": "който прониква до сърцата.",
+            "verse 104:8": "Той ще бъде затворен над тях",
+            "verse 104:9": "във високи стълбове."
+        },
+        "Chinese": {
+            "verse 104:1": "伤哉！每个诽谤者, 诋毁者,",
+            "verse 104:2": "他聚积财产, 而当作武器,",
+            "verse 104:3": "他以为他的财产, 能使他不灭。",
+            "verse 104:4": "绝不然, 他必定要被投在毁灭坑中。",
+            "verse 104:5": "你怎能知道毁灭坑是什麽？",
+            "verse 104:6": "是真主的燃著的烈活。",
+            "verse 104:7": "能升到人的心上。",
+            "verse 104:8": "他们必定要被关在烈火中,",
+            "verse 104:9": "吊在许多很高的柱子上。"
+        },
+        "Danish": {
+            "verse 104:1": "Wee iedere leugenaar en lasteraar",
+            "verse 104:2": "Die rijkdommen verzamelt en deze telt",
+            "verse 104:3": "Denkende dat zijn schatten hem voor eeuwig zullen behouden",
+            "verse 104:4": "Neen, hij zal zeker in het Verterende Vuur worden geworpen",
+            "verse 104:5": "En wat weet gij er van wat het verterende Vuur betekent",
+            "verse 104:6": "Het is het Vuur dat Allah heeft aan gewakkerd",
+            "verse 104:7": "Dat boven de harten zal opstijgen",
+            "verse 104:8": "Voorwaar het zal hen omsluiten",
+            "verse 104:9": "In uitgestrekte rijen van zuilen"
+        },
+        "Dutch": {
+            "verse 104:1": "Wee elke lasteraar en roddelaar.",
+            "verse 104:2": "Degene die bezit verzamelt en het telkens telt.",
+            "verse 104:3": "Hij denkt dat zijn bezit hem eeuwiglevend maakt.",
+            "verse 104:4": "Nee! Hij zal zeker in de vernietiger gesmeten worden.",
+            "verse 104:5": "En wat doet jou weten wat de vernietiger is?",
+            "verse 104:6": "Het door Allah aangestoken Vuur (de Hel).",
+            "verse 104:7": "Dat tot in de harten doordringt.",
+            "verse 104:8": "Voorwaar, het zal hen omhullen.",
+            "verse 104:9": "In langgerekte zuilen."
+        },
+        "English": {
+            "verse 104:1": "Woe to every scorner and mocker",
+            "verse 104:2": "Who collects wealth and [continuously] counts it.",
+            "verse 104:3": "He thinks that his wealth will make him immortal.",
+            "verse 104:4": "No! He will surely be thrown into the Crusher.",
+            "verse 104:5": "And what can make you know what is the Crusher?",
+            "verse 104:6": "It is the fire of Allah, [eternally] fueled,",
+            "verse 104:7": "Which mounts directed at the hearts.",
+            "verse 104:8": "Indeed, Hellfire will be closed down upon them",
+            "verse 104:9": "In extended columns."
+        },
+        "Filipino": {
+            "verse 104:1": "Kasumpa-sumpa (sa kaparusahan) ang bawat makakating dila na naninirang puri at yumuyurak sa talikuran",
+            "verse 104:2": "Na nagsasalansan at nagtitipon ng mga kayamanan",
+            "verse 104:3": "Na nagpapalagay na ang kanyang kayamanan ay makakapagpahaba ng kanyang buhay nang walang hanggan",
+            "verse 104:4": "Walang pagsala! Katotohanang siya ay ihahagis sa dumudurog na Apoy",
+            "verse 104:5": "At ano nga ba ang makakapagpahiwatig sa iyo kung ano ang dumudurog na Apoy",
+            "verse 104:6": "Ito ang Apoy ng Poot ni Allah na Naglalagablab ang Ningas",
+            "verse 104:7": "Na sasadlak sa puso (ng mga tao)",
+            "verse 104:8": "Katotohanang ito ang lulukob sa kanila",
+            "verse 104:9": "Sa mga haligi sa mahabang hanay (alalong baga, sila ay paparusahan sa Apoy na may mga haligi, higaan, atbp)"
+        },
+        "French": {
+            "verse 104:1": "Malheur à tout calomniateur diffamateur,",
+            "verse 104:2": "qui amasse une fortune et la compte,",
+            "verse 104:3": "pensant que sa fortune l'immortalisera.",
+            "verse 104:4": "Mais non! Il sera certes, jeté dans la Hutamah.",
+            "verse 104:5": "Et qui te dira ce qu'est la Hutamah?",
+            "verse 104:6": "Le Feu attisé d'Allah",
+            "verse 104:7": "qui monte jusqu'aux cœurs.",
+            "verse 104:8": "Il se refermera sur eux,",
+            "verse 104:9": "en colonnes (de flammes) étendues."
+        },
+        "Fulah": {
+            "verse 104:1": "Woyli woodanii ño*oowo sanne e juwoowo sanne",
+            "verse 104:2": "Oon denndinɗo jawdi o limi ndi",
+            "verse 104:3": "Hombo sikka jawdi makko ndi saasnat mbo",
+            "verse 104:4": "Alah maɓe mberle e yiite morñatnge",
+            "verse 104:5": "Ko honɗum anndin maa ko woni yiite heltoowe",
+            "verse 104:6": "Ko yiite Alla huɓɓatnge",
+            "verse 104:7": "Ngeen woni yulatnge keeñe",
+            "verse 104:8": "Ngeen de ko nge sokaange e dow maɓɓe",
+            "verse 104:9": "E nge doosɗe pooɗtiiɗe"
+        },
+        "German": {
+            "verse 104:1": "Wehe jedem Stichler und Nörgler,",
+            "verse 104:2": "der Besitz zusammenträgt und ihn zählt und immer wieder zählt,",
+            "verse 104:3": "wobei er meint, daß sein Besitz ihn ewig leben ließe!",
+            "verse 104:4": "Keineswegs! Er wird ganz gewiß in al-Hutama geworfen werden.",
+            "verse 104:5": "Was läßt dich wissen, was al-Hutama ist?",
+            "verse 104:6": "(Sie ist) Allahs entfachtes Feuer,",
+            "verse 104:7": "das Einblick in die Herzen gewinnt.",
+            "verse 104:8": "Gewiß, es wird sie einschließen",
+            "verse 104:9": "in langgestreckten Säulen."
+        },
+        "Hausa": {
+            "verse 104:1": "Bone ya tabbata ga duk mai nune, mai zunɗe (mai raɗa).",
+            "verse 104:2": "Wanda ya tara dũkiya, kuma ya mayar da ita abar tattalinsa.",
+            "verse 104:3": "Yana zaton cẽwa dũkiyarsa za ta dawwamar da shi.",
+            "verse 104:4": "A'aha! Lalle ne zã a jẽfa shi a cikin Huɗama.",
+            "verse 104:5": "Kuma me ya sanar da kai abin da ake ce wa Huɗama?",
+            "verse 104:6": "Wutar Allah ce wadda ake hurawa.",
+            "verse 104:7": "Wadda take lẽƙãwa a kan zukata.",
+            "verse 104:8": "Lalle ne ita abar kullẽwa cea kansu.",
+            "verse 104:9": "A cikin wasu ginshiƙai mĩƙaƙƙu."
+        },
+        "Hindi": {
+            "verse 104:1": "हर ताना देने वाले चुग़लख़ोर की ख़राबी है",
+            "verse 104:2": "जो माल को जमा करता है और गिन गिन कर रखता है",
+            "verse 104:3": "वह समझता है कि उसका माल उसे हमेशा ज़िन्दा बाक़ी रखेगा",
+            "verse 104:4": "हरगिज़ नहीं वह तो ज़रूर हुतमा में डाला जाएगा",
+            "verse 104:5": "और तुमको क्या मालूम हतमा क्या है",
+            "verse 104:6": "वह ख़ुदा की भड़काई हुई आग है जो (तलवे से लगी तो) दिलों तक चढ़ जाएगी",
+            "verse 104:7": "ये लोग आग के लम्बे सुतूनो",
+            "verse 104:8": "में डाल कर बन्द कर दिए",
+            "verse 104:9": "जाएँगे"
+        },
+        "Indonesian": {
+            "verse 104:1": "Kecelakaanlah bagi setiap pengumpat lagi pencela,",
+            "verse 104:2": "yang mengumpulkan harta dan menghitung-hitung,",
+            "verse 104:3": "dia mengira bahwa hartanya itu dapat mengkekalkannya,",
+            "verse 104:4": "sekali-kali tidak! Sesungguhnya dia benar-benar akan dilemparkan ke dalam Huthamah.",
+            "verse 104:5": "Dan tahukah kamu apa Huthamah itu?",
+            "verse 104:6": "(yaitu) api (yang disediakan) Allah yang dinyalakan,",
+            "verse 104:7": "yang (membakar) sampai ke hati.",
+            "verse 104:8": "Sesungguhnya api itu ditutup rapat atas mereka,",
+            "verse 104:9": "(sedang mereka itu) diikat pada tiang-tiang yang panjang."
+        },
+        "Italian": {
+            "verse 104:1": "Guai ad ogni diffamatore maldicente,",
+            "verse 104:2": "che accumula ricchezze e le conta;",
+            "verse 104:3": "pensa che la sua ricchezza lo renderà immortale?",
+            "verse 104:4": "No, sarà certamente gettato nella Voragine.",
+            "verse 104:5": "E chi mai ti farà comprendere cos’è la Voragine?",
+            "verse 104:6": "[È] il Fuoco attizzato di Allah,",
+            "verse 104:7": "che consuma i cuori.",
+            "verse 104:8": "Invero [si chiuderà] su di loro,",
+            "verse 104:9": "in estese colonne."
+        },
+        "Japanese": {
+            "verse 104:1": "災いなるかな，凡ての悪口を言って中傷する者。",
+            "verse 104:2": "財を集めて計算する（のに余念のない）者。",
+            "verse 104:3": "本当にその財が，かれを永久に生かすと考えている。",
+            "verse 104:4": "断じてそうではない。かれは必ず業火の中に，投げ込まれる。",
+            "verse 104:5": "業火が，何であるかをあなたに理解させるものは何か。",
+            "verse 104:6": "（それは）ぼうぼうと燃えているアッラーの火，",
+            "verse 104:7": "心臓を焼き尽し，",
+            "verse 104:8": "かれらの頭上に完全に覆い被さり，",
+            "verse 104:9": "（逃れることの出来ない）列柱の中に。"
+        },
+        "Jawa": {
+            "verse 104:1": "Cilaka temen sarupane wong kang nacat lan nyatur ala (marang Muhammad)",
+            "verse 104:2": "Kang nglumpukake bondho lan milang bandhane ginawe andel - andel (panulak bilai)",
+            "verse 104:3": "Ngira yen bandhane mau bisa nglanggengake awake (luput ing pati)",
+            "verse 104:4": "Luput panemune, wong mau bakal dicemplungake neraka Huthomah",
+            "verse 104:5": "Sapa kang meruhake sira, apa kang kang jenenge Huthomah iku",
+            "verse 104:6": "Huthomah iku neraka kagungane Allah kang diurubake",
+            "verse 104:7": "Kan panase tekan ing ati",
+            "verse 104:8": "Neraka Huthomah kanggo nyiksa wongkang nyatur ala mau ngrukup marang dheweke",
+            "verse 104:9": "Ing sajeroning pathok kang diedekake"
+        },
+        "Kazakh": {
+            "verse 104:1": "Әрбір айып таққышқа, балағаттаушыға қасірет бар",
+            "verse 104:2": "Сондай мал-дүние жиып, оны санаушыға",
+            "verse 104:3": "Ол байлығы, өзін мәңгі қалдырады деп ойлайды",
+            "verse 104:4": "Жоқ, олай емес! Ол міндетті түрде Хутамаға тасталынады",
+            "verse 104:5": "«Хутаманың» не екенін саған не білдірді",
+            "verse 104:6": "Ол Аллаһтың жандырылған оты",
+            "verse 104:7": "сондай, жүректерге жететін",
+            "verse 104:8": "Ақиқатында ол от олардың үстерінен жауып тұрады",
+            "verse 104:9": "созылған діңгектермен"
+        },
+        "Korean": {
+            "verse 104:1": "뒤에서 중상모략하는 자에게재앙이 있을지니뒤에서 중상모략하는 자에게재앙이 있을지니",
+            "verse 104:2": "그는 재산을 모아 계산에 열 중하며그는 재산을 모아 계산에 열 중하며",
+            "verse 104:3": "그 재산이 현세에서 그를 영 원케 하리라 생각하도다그 재산이 현세에서 그를 영 원케 하리라 생각하도다",
+            "verse 104:4": "그러나 그렇지 아니하니 그는 지옥에 던져지리라그러나 그렇지 아니하니 그는 지옥에 던져지리라",
+            "verse 104:5": "그 지옥이 무엇이지 무엇이 그대에게 알려주리요그 지옥이 무엇이지 무엇이 그대에게 알려주리요",
+            "verse 104:6": "그것은 하나님의 분노가 타는 불지옥이거늘그것은 하나님의 분노가 타는 불지옥이거늘",
+            "verse 104:7": "그 뜨거움이 가습을 에워싸고그 뜨거움이 가습을 에워싸고",
+            "verse 104:8": "그들에게 문이 잠겨져 버리며그들에게 문이 잠겨져 버리며",
+            "verse 104:9": "기둥들로 빗장이 내려지노라기둥들로 빗장이 내려지노라"
+        },
+        "Kurdish": {
+            "verse 104:1": "Ewanê ku bi zimanê xwe bi (merivan) tirana dikin û bi çav û birûyê xwe va niqandinêdikin (merivan didine nîşanê hev) hene! Xwelî li wan hemûyan beهاوارو ئاهو ناڵه بۆ هه‌ر که‌سێك که به شوێن که‌م و کووڕیدا ده‌گه‌ڕێت و له عه‌یب و عاری خه‌ڵکی ده‌دوێت.",
+            "verse 104:2": "Ewî mal civandîye qe nahewe, tim ewî malî dihijmireئه‌و که‌سه‌ی ماڵ و سامانی زۆری کۆ کردۆته‌وه‌و هه‌ر خه‌ریکی ژماردنێتی و (دڵی پێی خۆشه‌، ڕه‌زیله‌و به‌خشنده نیه‌).",
+            "verse 104:3": "Ewa guman dike, ku malêewî (di cihanê da) tim carî bide jînandinêواده‌زانێت به‌ڕاستی که ماڵ و سامانه‌که‌ی ده‌بێته هۆی ته‌مه‌ن درێژی و نه‌مریی بۆی؟",
+            "verse 104:4": "Na! (bira ewa wusa guman neke) bi rastî ewê li bal (doja bi nav) Hutem da bê avînêنه‌خێر سوێند به‌خوا به سووکی و ڕیسوایی فڕێ ده‌درێته ناو (حطمة) وه‌.",
+            "verse 104:5": "(Muhemmed!) tu ji ku dizanî, ka Hutem çîyeجا تۆ چووزانی (حطمة) چیه‌؟",
+            "verse 104:6": "(ewa) agirê Yezdan ê ( pêketîye)بریتی یه له ئاگری داگیرساوو بڵێسه‌داری خوا.",
+            "verse 104:7": "Ewa (agira) li ser dilan bilind dibe (qe ji dilan dernakeve)ئه‌و ئاگره‌ی ڕوو ده‌کاته ناو جه‌رگه‌ی دڵ و ده‌روونه‌کان (که مه‌ڵبه‌ندی کوفرو خوانه‌ناسی و ڕه‌زیلی یه‌)",
+            "verse 104:8": "Bi rastî (derê wê dojê) li ser wan hatîye girtinêبێگومان ئه‌و ئاگرو دۆزه‌خه له شوێنێکدایه که سه‌رگیراوو ده‌رگا داخراوه له‌سه‌ریان (ڕێگه‌ی قوتار بوونی نیه‌).",
+            "verse 104:9": "Ewan di (nava) sitünê direj da (bi giredayî) wê bi mînin(خوا نه‌ناسان له‌وێ) له‌ناو چه‌ند ستوونێکی ئاگرینی درێژدان (هیچ جم و جوڵێکیان بۆ ناکرێت)."
+        },
+        "Kyrgyz": {
+            "verse 104:1": "Адамдарды кылыгы жана тили менен шылдыңдаган бардык шылдыңчыга азап-тозок болсун",
+            "verse 104:2": "Ал мал-мүлктү (адал-арамына карабай) чогултту жана эсептеди",
+            "verse 104:3": "Дүйнө-мүлкү аны түбөлүк жашатат деп ойлойт",
+            "verse 104:4": "Жок! Алар (Кыяматта) сөзсүз «Хутамага» ташталат",
+            "verse 104:5": "(О, Мухаммад!) Сен «Хутама» эмне экенин билбейсиң",
+            "verse 104:6": "(Ал) Аллаһтын алоолонгон тозогу",
+            "verse 104:7": "(Денеден тешип өтүп) жүрөктөргө чейин жете турган",
+            "verse 104:8": "Чынында, (тозок) алардын үстүнөн жаап коюлган",
+            "verse 104:9": "(Эшиктери) узун чынжырлар менен (бекемделген)"
+        },
+        "Malay": {
+            "verse 104:1": "Kecelakaan besar bagi tiap-tiap pencaci, pengeji,",
+            "verse 104:2": "Yang mengumpulkan harta dan berulang-ulang menghitung kekayaannya;",
+            "verse 104:3": "Ia menyangka bahawa hartanya itu dapat mengekalkannya (dalam dunia ini)!",
+            "verse 104:4": "Tidak! Sesungguhnya dia akan dicampakkan ke dalam \"Al-Hutamah\".",
+            "verse 104:5": "Dan apa jalannya engkau dapat mengetahui, apa dia \"Al-Hutamah\" itu?",
+            "verse 104:6": "(Al-Hutamah) ialah api Allah yang dinyalakan (dengan perintahNya), -",
+            "verse 104:7": "Yang naik menjulang ke hati;",
+            "verse 104:8": "Sesungguhnnya api neraka itu ditutup rapat atas mereka.",
+            "verse 104:9": "(Mereka terikat di situ) pada batang-batang palang yang melintang panjang."
+        },
+        "Malayalam": {
+            "verse 104:1": "കുത്തുവാക്ക് പറയുന്നവനും അവഹേളിക്കുന്നവനുമായ ഏതൊരാള്‍ക്കും നാശം.",
+            "verse 104:2": "അതായത് ധനം ശേഖരിക്കുകയും അത് എണ്ണിനോക്കിക്കൊണ്ടിരിക്കുകയും ചെയ്യുന്നവന്‌.",
+            "verse 104:3": "അവന്‍റെ ധനം അവന് ശാശ്വത ജീവിതം നല്‍കിയിരിക്കുന്നു എന്ന് അവന്‍ വിചാരിക്കുന്നു.",
+            "verse 104:4": "നിസ്സംശയം, അവന്‍ ഹുത്വമയില്‍ എറിയപ്പെടുക തന്നെ ചെയ്യും.",
+            "verse 104:5": "ഹുത്വമ എന്നാല്‍ എന്താണെന്ന് നിനക്കറിയാമോ?",
+            "verse 104:6": "അത് അല്ലാഹുവിന്‍റെ ജ്വലിപ്പിക്കപ്പെട്ട അഗ്നിയാകുന്നു.",
+            "verse 104:7": "ഹൃദയങ്ങളിലേക്ക് കത്തിപ്പടരുന്നതായ",
+            "verse 104:8": "തീര്‍ച്ചയായും അത് അവരുടെ മേല്‍ അടച്ചുമൂടപ്പെടുന്നതായിരിക്കും.",
+            "verse 104:9": "നീട്ടിയുണ്ടാക്കപ്പെട്ട സ്തംഭങ്ങളിലായിക്കൊണ്ട്‌."
+        },
+        "Norwegian": {
+            "verse 104:1": "Ve over hver ivrig baktaler,",
+            "verse 104:2": "som samler rikdom, og teller og teller,",
+            "verse 104:3": "og tror at hans rikdom har gjort ham udødelig!",
+            "verse 104:4": "Nei, så sannelig, han skal bli kastet i al-Hotama.",
+            "verse 104:5": "Hvordan kan du vite hva al-Hotama er?",
+            "verse 104:6": "Det er Guds opptente Ild,",
+            "verse 104:7": "som går oppover hjertene.",
+            "verse 104:8": "Den hvelver seg over dem",
+            "verse 104:9": "i langstrakte søyler."
+        },
+        "Pashto": {
+            "verse 104:1": "هلاكت دى د هر ډېر غیبت كوونكي، ډېر عیبت لګوونكي لپاره",
+            "verse 104:2": "هغه چې مال يې جمع كړى دى او دغه يې بیا بیا شمېرلى (او ذخیره كړى) دى",
+            "verse 104:3": "دى خیال كوي چې بېشكه د ده مال به دى تل ژوندى وساتي؟",
+            "verse 104:4": "داسې هیڅكله نشي كېدى، دى به خامخا ضرور په حطمه (ماتوونكي او سوځوونكي دوزخ) كې وغورځول شي",
+            "verse 104:5": "او ته څه شي پوه كړې چې حطمه څه شى دى؟",
+            "verse 104:6": "د الله هغه بل كړى شوى اور دى",
+            "verse 104:7": "هغه چې په زړونو راخېژي (او غالب كېږي)",
+            "verse 104:8": "بېشكه دغه (اور) به په دوى باندې (له هره جانبه) رابند كړى شوى وي",
+            "verse 104:9": "په اوږدو (راښكلى شویو) ستنو كې"
+        },
+        "Persian": {
+            "verse 104:1": "واى بر هر غيبت‌كننده عيبجويى؛",
+            "verse 104:2": "آن كه مالى گرد كرد و حساب آن نگه داشت.",
+            "verse 104:3": "مى‌پندارد كه دارايى‌اش جاويدانش گرداند.",
+            "verse 104:4": "نه چنين است. كه او را در حُطَمه اندازند.",
+            "verse 104:5": "و تو چه دانى كه حطمه چيست؟",
+            "verse 104:6": "آتش افروخته خداست،",
+            "verse 104:7": "كه بر دلها غلبه مى‌يابد.",
+            "verse 104:8": "و از هر سو در ميانشان گرفته است،",
+            "verse 104:9": "در شعله‌هايى برافراشته."
+        },
+        "Polish": {
+            "verse 104:1": "Biada każdemu oszczercy zniesławiającemu!",
+            "verse 104:2": "Który gromadzi bogactwo i przygotowuje je!",
+            "verse 104:3": "Sądzi on, że jego bogactwo uczyni go nieśmiertelnym.",
+            "verse 104:4": "Wcale nie! Zostanie on wrzucony do AI-Hutama!",
+            "verse 104:5": "A co ciebie pouczy, co to jest Al-Hutama?",
+            "verse 104:6": "To jest ogień Boga, buchający płomieniem,",
+            "verse 104:7": "Który wznosi się ponad serca!",
+            "verse 104:8": "On nad nimi tworzy sklepienie",
+            "verse 104:9": "Na wydłużonych kolumnach."
+        },
+        "Portuguese": {
+            "verse 104:1": "Ai de todo o difamador, caluniador",
+            "verse 104:2": "Que acumula riquezas e as entesoura,",
+            "verse 104:3": "Pensando que as suas riquezas o imortalizarão!",
+            "verse 104:4": "Qual! Sem dúvida que ele será precipitado naquilo que consome.",
+            "verse 104:5": "E o que te fará entender o que é aquilo que consome?",
+            "verse 104:6": "É o fogo de Deus, aceso,",
+            "verse 104:7": "Que abrasará os corações.",
+            "verse 104:8": "Em verdade, isso será desfechado sobre eles.",
+            "verse 104:9": "Em colunas estendidas!"
+        },
+        "Punjabi": {
+            "verse 104:1": "ਵਿਨਾਸ਼ ਹੈ ਹਰੇਕ ਵਿਅੰਗ ਕੱਸਣ ਵਾਲੇ ਅਤੇ ਨੁਕਸ ਕੱਢਣ ਵਾਲੇ ਲਈ।",
+            "verse 104:2": "ਜਿਸ ਨੇ ਜਾਇਦਾਦ ਨੂੰ ਇਕੱਠਾ ਕੀਤਾ ਅਤੇ ਗਿਣ-ਗਿਣ ਕੇ ਰੱਖਿਆ।",
+            "verse 104:3": "ਉਹ ਸੋਚਦਾ ਹੈ ਕਿ ਉਸ ਦੀ ਜਾਇਦਾਦ ਹਮੇਸ਼ਾ ਉਸ ਦੇ ਨਾਲ ਰਹੇਗੀ।",
+            "verse 104:4": "ਕਦੇ ਵੀ ਨਹੀਂ, ਉਹ ਰੌਂਦਣ ਵਾਲੀ ਜਗ੍ਹਾ ਵਿਚ ਸੁੱਟਿਆ ਜਾਵੇਗਾ।",
+            "verse 104:5": "ਅਤੇ ਤੁਸੀਂ ਕੀ ਜਾਣੋ ਕਿ ਉਹ ਰੌਂਦਣ ਵਾਲੀ ਜਗ੍ਹਾ ਕੀ ਹੈ।",
+            "verse 104:6": "ਅੱਲਾਹ ਦੀ ਭਟਕਾਈ ਹੋਈ ਅੱਗ।",
+            "verse 104:7": "ਜਿਹੜੀ ਦਿਲਾਂ ਤੱਕ ਪੂੰਜੇਗੀ।",
+            "verse 104:8": "ਉਹ ਉਨ੍ਹਾਂ ਲਈ ਬੰਦ ਕਰ ਦਿੱਤੀ ਜਾਵੇਗੀ।",
+            "verse 104:9": "ਉੱਚੇ-ਉੱਚੇ ਖੰਬਿਆਂ ਵਿਚ।"
+        },
+        "Roman english": {
+            "verse 104:1": "Wai lul-li kulli hu mazatil-lumaza",
+            "verse 104:2": "Al-lazi jama`a maalaw wa`addadah",
+            "verse 104:3": "Yahsabu anna maalahu akhladah",
+            "verse 104:4": "Kalla layum ba zanna fil hutamah",
+            "verse 104:5": "Wa maa adraaka mal-hutamah",
+            "verse 104:6": "Narul laahil-mooqada",
+            "verse 104:7": "Al latee tat tali`u `alalafidah",
+            "verse 104:8": "Innaha `alaihim moosada",
+            "verse 104:9": "Fee `amadim-mu mad dadah"
+        },
+        "Russian": {
+            "verse 104:1": "Будь проклят клеветник и тот, Кто за спиной злословит,",
+            "verse 104:2": "Тот, кто копит добро И в закрома его кладет,",
+            "verse 104:3": "Надеясь, что богатства эти Навечно жизнь ему продлят!",
+            "verse 104:4": "Поистине, низвергнут будет он в аль хутамУ.",
+            "verse 104:5": "Как объяснить тебе, Что значит \"аль хутамА\"?",
+            "verse 104:6": "Пылающий Огонь, Возжженный гневом Божьим,",
+            "verse 104:7": "Что захватил сердца и души (скверных)",
+            "verse 104:8": "И погребальным сводом стал для них",
+            "verse 104:9": "На вытянутых до небес шестах."
+        },
+        "Sindhi": {
+            "verse 104:1": "(انھيءَ) سڀڪنھن گلا ڪندڙ عيب ڳوليندڙ لاءِ ويل آھي.",
+            "verse 104:2": "جنھن مال گڏ ڪيو ۽ اُھو ڳڻي ڳڻي رکيائين.",
+            "verse 104:3": "ڀانئيندو آھي ته سندس مال سدائين رھندو.",
+            "verse 104:4": "ھرگز ائين نه آھي ضرور حُطمه ۾ اُڇلائبس.",
+            "verse 104:5": "۽ ڪنھن سمجھايئي ته حُطَمَه ڇا آھي؟",
+            "verse 104:6": "الله جي ٻاريل باھ آھي.",
+            "verse 104:7": "جا دلين تي پھچندي.",
+            "verse 104:8": "بيشڪ اُھا مٿن در بند ڪيل آھي.",
+            "verse 104:9": "(جنھن حالت ۾ اُھي) ڊگھن ٿنڀن ۾ (ٻڌل ھوندا)."
+        },
+        "Sinhalese": {
+            "verse 104:1": "දොස් නගමින් නින්දා බස් කියන, අපහාස කරමින් කේළාම් කියන සෑම කෙනෙකුටම විනාශය අත් වේවා!",
+            "verse 104:2": "ඔහු ධනය රැස් කොට එය ගණන් කරමින් සිටි අයෙකි.",
+            "verse 104:3": "නියත වශයෙන්ම ඔහුගේ ධනය ඔහු ව සදාකල් ජීවත් කරවනු ඇතැ යි ඔහු සිතනු ඇත.",
+            "verse 104:4": "එසේ නොව සැබැවින්ම ඔහු හුතමාවෙ හි හෙළනු ලබයි.",
+            "verse 104:5": "හුතමා ව යනු කුමක්දැ යි නුඹව දැනුවත් කළේ කුමක්ද?",
+            "verse 104:6": "එය අවුළනු ලැබූ අල්ලාහ්ගේ ගින්නය.",
+            "verse 104:7": "එය හදවත් වෙත ළඟා වෙයි.",
+            "verse 104:8": "සැබැවින්ම එය ඔවුන් වට කර ගන්නකි.",
+            "verse 104:9": "උස් කුලුනු තුළ (හිරකර)."
+        },
+        "Somali": {
+            "verse 104:1": "Halaag Wuxuu u Sugnaaday xanle wax ceebeya oo Dhan,",
+            "verse 104:2": "Oo Xoolaha kulmiya (xaqana ku bixinin).",
+            "verse 104:3": "Ma wuxuu malayn in xoolihiisu waarin.",
+            "verse 104:4": "Saas ma aha ee waxaa lagu tuuri (Naarta) Xudhama.",
+            "verse 104:5": "Ma taqaannaa Xudhama.",
+            "verse 104:6": "Waa Naarta Eebe ee la huriyay.",
+            "verse 104:7": "Gubaysana Quluubta (Kulayl dartiis).",
+            "verse 104:8": "Waana lagu dabooli Naartaas Gaalada.",
+            "verse 104:9": "Tiraar la fidiyay yayna ahaan dhexdeeda."
+        },
+        "Spanish": {
+            "verse 104:1": "Perdición para todo el que murmura y difama!",
+            "verse 104:2": "Ese que acumula riqueza y la cuenta.",
+            "verse 104:3": "Cree que su riqueza lo va a hacer inmortal.",
+            "verse 104:4": "Pero no! Será arrojado en al-Hutama.",
+            "verse 104:5": "Y cómo podrás saber qué es al-Hutama?",
+            "verse 104:6": "Es el Fuego de Allah encendido.",
+            "verse 104:7": "Que llega hasta el fondo del corazón.",
+            "verse 104:8": "Se cerrará en torno a ellos",
+            "verse 104:9": "en elevadas columnas."
+        },
+        "Swahili": {
+            "verse 104:1": "Ole wake kila safihi, msengenyaji!",
+            "verse 104:2": "Aliye kusanya mali na kuyahisabu.",
+            "verse 104:3": "Anadhani ya kuwa mali yake yatambakisha milele!",
+            "verse 104:4": "Hasha! Atavurumishwa katika H'ut'ama.",
+            "verse 104:5": "Na nani atakujuvya ni nini H'ut'ama?",
+            "verse 104:6": "Moto wa Mwenyezi Mungu ulio washwa.",
+            "verse 104:7": "Ambao unapanda nyoyoni.",
+            "verse 104:8": "Hakika huo utafungiwa nao",
+            "verse 104:9": "Kwenye nguzo zilio nyooshwa."
+        },
+        "Swedish": {
+            "verse 104:1": "ILLA SKALL det gå den som försöker finna fel hos [andra] och baktalar dem!",
+            "verse 104:2": "[Och] som samlar pengar på hög och [i stället för att göra gott] ägnar sig åt att räkna dem",
+            "verse 104:3": "i förhoppningen att hans rikedom skall ge honom evigt liv!",
+            "verse 104:4": "Nej [han misstar sig]! Han kommer att kastas i Hutamah!",
+            "verse 104:5": "Och vad kan låta dig förstå vad Hutamah betyder",
+            "verse 104:6": "[Det är] Guds eld,",
+            "verse 104:7": "som skall blossa upp och tränga in i [syndarnas] hjärtan;",
+            "verse 104:8": "och sluta sig omkring dem",
+            "verse 104:9": "i ändlösa kolonnader av eld!"
+        },
+        "Tajik": {
+            "verse 104:1": "Вой бар ҳар ғайбаткунандаи айбҷӯе,",
+            "verse 104:2": "он ки моле ҷамъ кард ва ҳисоби он нигаҳ дошт.",
+            "verse 104:3": "Мепиндорад, ки дороияш ҷовидонаш гардонад.",
+            "verse 104:4": "На чунин аст! ки Ӯро дар ҳутамаҳ андозанд.",
+            "verse 104:5": "Ва ту чӣ донӣ, ки ҳутамаҳ чист?",
+            "verse 104:6": "Оташи афрӯхтаи Худост,",
+            "verse 104:7": "ки бар дилҳо ғалаба меёбад.",
+            "verse 104:8": "Он оташ аз ҳар сӯ дар миёнашон гирифтааст,",
+            "verse 104:9": "дар сутунҳои дарози оташӣ дароварда шудааст."
+        },
+        "Tamil": {
+            "verse 104:1": "குறை சொல்லிப் புறம் பேசித் திரியும் ஒவ்வொருவனுக்கும் கேடுதான்.",
+            "verse 104:2": "(அத்தகையவன் செல்வமே சாசுவதமென எண்ணிப்) பொருளைச் சேகரித்து எண்ணிக் கொண்டே இருக்கின்றான்.",
+            "verse 104:3": "நிச்சயமாகத், தன் பொருள் தன்னை (உலகில் நித்தியனாக) என்றும் நிலைத்திருக்கச் செய்யுமென்று அவன் எண்ணுகிறான்.",
+            "verse 104:4": "அப்படியல்ல, நிச்சயமாக அவன் ஹுதமாவில் எறியப்படுவான்.",
+            "verse 104:5": "ஹுதமா என்ன என்பதை உமக்கு அறிவித்தது எது?",
+            "verse 104:6": "அது எரிந்து கொண்டிருக்கும் அல்லாஹ்வின் நெருப்பாகும்.",
+            "verse 104:7": "அது (உடலில் பட்டதும்) இருதயங்களில் பாயும்.",
+            "verse 104:8": "நிச்சயமாக அது அவர்களைச் சூழ்ந்து மூட்டப்படும்.",
+            "verse 104:9": "நீண்ட கம்பங்களில் (அவர்கள் கட்டப்பட்டவர்களாக)."
+        },
+        "Tatar": {
+            "verse 104:1": "Үкенеч вә һәлакәтлектер һәрбер сүз йөртүче гайбәтчегә.",
+            "verse 104:2": "Ул гайбәтче нинди юл белән булса да мал җыйды вә ул малны тиешле урынына бирмичә, саранлык белән яшереп саклады.",
+            "verse 104:3": "Тәхкыйк ул гайбәтче саран, малы аны дөньяда мәңге калдырыр дип уйлыйдыр.",
+            "verse 104:4": "Юк, үз башыңа бәла булган малына таянмасын, ул әлбәттә, җәһәннәм утына ыргытылыр.",
+            "verse 104:5": "Сиңа ул хөтамәне нәрсә белдерде?",
+            "verse 104:6": "Ул Аллаһуның кыздырылган утыдыр.",
+            "verse 104:7": "Ул ут йөрәккә төшәр, эчке әгъзаларны да көйдерер.",
+            "verse 104:8": "Тәхкыйк, ул ут аларга ишекләре бикләнеп мәхкәм (нык) кылынгандыр.",
+            "verse 104:9": "Уттан булган озын баганалар белән."
+        },
+        "Telugu": {
+            "verse 104:1": "అపనిందలు మోపే, చాడీలు చెప్పే ప్రతి ఒక్కడికీ వినాశం తప్పదు",
+            "verse 104:2": "ఎవడైతే ధనాన్ని కూడబెట్టి, మాటి మాటికి దాన్ని లెక్కబెడుతూ ఉంటాడో",
+            "verse 104:3": "తన ధనం, తనను శాశ్వతంగా ఉంచుతుందని అతడు భావిస్తున్నాడు",
+            "verse 104:4": "ఎంత మాత్రం కాదు! అతడు (రాబోయే జీవితంలో) తప్పకుండా అణగ ద్రొక్కబడే నరకాగ్నిలో వేయబడతాడు",
+            "verse 104:5": "ఆ (అణగద్రొక్కబడే) నరకాగ్ని అంటే ఏమిటో నీకు తెలుసా",
+            "verse 104:6": "అల్లాహ్, తీవ్రంగా ప్రజ్వలింపజేసిన అగ్ని",
+            "verse 104:7": "అది గుండెల దాకా చేరుకుంటుంది",
+            "verse 104:8": "నిశ్చయంగా, అది వారి మీద క్రమ్ముకొంటుంది",
+            "verse 104:9": "పొడుగాటి (అగ్ని) స్థంభాల వలే"
+        },
+        "Thai": {
+            "verse 104:1": "ความหายนะจงประสบแด่ทุกผู้นินทาและผู้ใส่ร้ายผู้อื่น",
+            "verse 104:2": "ซึ่งเขาสะสมทรัพย์สมบัติและหมั่นนับมันอยู่เสมอ",
+            "verse 104:3": "โดยคิดว่าทรัพย์สมบัติของเขานั้นจะทำให้เขาอยู่ได้ตลอดไป",
+            "verse 104:4": "มิใช่เช่นนั้น แน่นอนเขาจะถูกโยนลงไปในไฟนรก (อัลฮุเฏามะฮฺ)",
+            "verse 104:5": "และอะไรเล่าที่ทำให้เจ้ารู้ได้ว่า ไฟนรก (อัลฮุเฏาะมะฮฺ) นั้นคืออะไร ?",
+            "verse 104:6": "คือไฟของอัลลอฮฺที่ถูกจุดให้ลุกโชน",
+            "verse 104:7": "ซึ่งมันจะลุกไหม้เข้าไปในหัวใจ",
+            "verse 104:8": "แท้จริงมันจะลุกไหม้คลุมบนพวกเขาอย่างมิดชิด",
+            "verse 104:9": "อยู่ในสภาพของเสาสูงชะลูด"
+        },
+        "Turkish": {
+            "verse 104:1": "Mal toplayarak onu tekrar tekrar sayan, diliyle çekiştirip alay eden kimsenin vay haline!",
+            "verse 104:2": "Mal toplayarak onu tekrar tekrar sayan, diliyle çekiştirip alay eden kimsenin vay haline!",
+            "verse 104:3": "Malının kendisini ölümsüz kılacağını sanır.",
+            "verse 104:4": "Hayır; o, and olsun ki, Hutame'ye atılacaktır.",
+            "verse 104:5": "Hutame'nin ne olduğunu sen bilir misin?",
+            "verse 104:6": "O, yüreklere çökecek olan, Allah'ın tutuşturulmuş ateşidir.",
+            "verse 104:7": "O, yüreklere çökecek olan, Allah'ın tutuşturulmuş ateşidir.",
+            "verse 104:8": "Onlar, uzun sütunlar arasında, her yönden o ateşle kapatılmışlardır.",
+            "verse 104:9": "Onlar, uzun sütunlar arasında, her yönden o ateşle kapatılmışlardır."
+        },
+        "Urdu": {
+            "verse 104:1": "ہر طعن آمیز اشارتیں کرنے والے چغل خور کی خرابی ہے",
+            "verse 104:2": "جو مال جمع کرتا اور اس کو گن گن کر رکھتا ہے",
+            "verse 104:3": "(اور) خیال کرتا ہے کہ اس کا مال اس کی ہمیشہ کی زندگی کا موجب ہو گا",
+            "verse 104:4": "ہر گز نہیں وہ ضرور حطمہ میں ڈالا جائے گا",
+            "verse 104:5": "اور تم کیا سمجھے حطمہ کیا ہے؟",
+            "verse 104:6": "وہ خدا کی بھڑکائی ہوئی آگ ہے",
+            "verse 104:7": "جو دلوں پر جا لپٹے گی",
+            "verse 104:8": "(اور) وہ اس میں بند کر دیئے جائیں گے",
+            "verse 104:9": "(یعنی آگ کے) لمبے لمبے ستونوں میں"
+        },
+        "Uyghur": {
+            "verse 104:1": "(كىشىلەرنى) ئەيىبلىگۈچى سۇخەنچىگە ۋاي!",
+            "verse 104:2": "ئۇ مال توپلىدى ۋە ئۇنى (ياخشىلىق يوللىرىغا سەرپ قىلماي ساقلاش ئۈچۈن) سانىدى",
+            "verse 104:3": "ئۇ مېلى ئۆزىنى (دۇنيادا مەڭگۈ قالدۇرىدۇ دەپ ئويلايدۇ)",
+            "verse 104:4": "ھەرگىز ئۇنداق ئەمەس، ئۇ چوقۇم ھۆتەمەگە تاشلىنىدۇ",
+            "verse 104:5": "ھۆتەمەنىڭ نېمىلىكىنى قانداق بىلەلەيسەن؟",
+            "verse 104:6": "ئۇ، اﷲ نىڭ ياندۇرغان ئوتىدۇركى، (ئۇنىڭ ئەلىمى) يۈرەكلەرگە يېتىپ بارىدۇ",
+            "verse 104:7": "ئۇ، اﷲ نىڭ ياندۇرغان ئوتىدۇركى، (ئۇنىڭ ئەلىمى) يۈرەكلەرگە يېتىپ بارىدۇ",
+            "verse 104:8": "ئۇلار چوقۇم دوزاخقا سولىنىدۇ",
+            "verse 104:9": "ئېگىز تۈۋرۈكلەرگە باغلىنىدۇ"
+        },
+        "Uzbek": {
+            "verse 104:1": "Ҳар бир обрў тўкувчи ва айбловчига «вайл» бўлсин.",
+            "verse 104:2": "У мол жамлади ва уни санаб турди.",
+            "verse 104:3": "У, албатта, уни абадий қолдирур, деб ҳисоблар.",
+            "verse 104:4": "Йўқ! Албатта у «ҳутома»га хор-зор этиб ташланар.",
+            "verse 104:5": "«Ҳутома» қандоқ нарса эканини сенга нима билдирар?",
+            "verse 104:6": "У Аллоҳнинг шиддатли, ўчмас оловидир.",
+            "verse 104:7": "Қалбгача етиб борадир.",
+            "verse 104:8": "Албатта, у уларни устидан қоплангандир.",
+            "verse 104:9": "Узун-узун устунларга боғлангандирлар."
+        },
+        "Vietnamese": {
+            "verse 104:1": "Thật tai hại cho kẻ vu khống và nói xấu người khác.",
+            "verse 104:2": "Kẻ chỉ biết tích lũy tiền bạc và đếm đi đếm lại.",
+            "verse 104:3": "Y tưởng rằng tiền bạc và của cải sẽ làm cho y sống mãi.",
+            "verse 104:4": "Không! Chắc chắn y sẽ bị ném vào Hutamah.",
+            "verse 104:5": "Ngươi (Thiên Sứ Muhammad) biết Hutamah là gì không?",
+            "verse 104:6": "Đó là lửa của Allah, được đốt cháy lên.",
+            "verse 104:7": "Nó sẽ bốc lên tận các quả tim.",
+            "verse 104:8": "Quả thật, nó sẽ bao vây chúng.",
+            "verse 104:9": "Bên trong các cột lửa cháy tỏa rộng."
+        },
+        "Yoruba": {
+            "verse 104:1": "Egbe ni fun gbogbo abuniloju-eni, abunileyin-eni",
+            "verse 104:2": "eni ti o ko owo jo, ti o si ka a lakatunka (lai na an fesin)",
+            "verse 104:3": "O n lero pe dajudaju dukia re yoo mu un se gbere (nile aye)",
+            "verse 104:4": "Rara (ko ri bee). Dajudaju won maa ku u loko sinu Hutomoh ni",
+            "verse 104:5": "Ki si ni o mu o mo ohun t’o n je Hutomoh",
+            "verse 104:6": "(Ohun ni) Ina Allahu ti won n ko (t’o n jo geregere)",
+            "verse 104:7": "eyi ti o maa jo (eda) wo inu okan lo",
+            "verse 104:8": "Dajudaju won maa ti (awon ilekun) Ina pa mo won lori patapata",
+            "verse 104:9": "(Won maa wa) laaarin awon opo kiribiti giga (ninu Ina)"
         }
     }
 }

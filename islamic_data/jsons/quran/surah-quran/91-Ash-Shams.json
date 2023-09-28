@@ -5,7 +5,6 @@
     "revelation_order": 26,
     "bismillah_pre": true,
     "verses_count": 15,
-    "source": "Sayyid Abul Ala Maududi - Tafhim al-Qur'an - The Meaning of the Quran",
     "short_text": "The Surah has been so designated after the word ash-shams with which it opens.",
     "text": [
         "\n",
@@ -19,886 +18,920 @@
         "\n",
         "Its theme is to distinguish the good from the evil and to warn the people, who were refusing to understand this distinction and insisting on following the evil way, of the evil end.",
         "\n",
-        "In view of the subject matter this Surah consists of two parts. The first part consists of vv. 1-10, and the second of vv. 11-15. The first part deals with three things:",
+        "In view of the subject matter, this Surah consists of two parts. The first part consists of vv. 1-10, and the second of vv. 11-15. The first part deals with three things:",
         "\n",
-        "\n\nThat just as the sun and the moon, the day and the night, the earth and the sky, are different from each other and contradictory in their effects and results, so are the good and the evil different front each other and contradictory in their effects and results; they are neither alike in their outward appearance nor can they be alike in their results.\n\n\nThat Allah after giving the human self powers of the body, sense and mind has not left it uninformed in the world, but has instilled into his unconscious by means of a natural inspiration the distinction between good and evil, right and wrong, and the sense of the good to be good and of the evil to be evil.\n\n\nThat the future of man depends on how by using the powers of discrimination, will and judgment that Allah has endowed him with, he develops the good and suppresses the evil tendencies of the self. If he develops the good inclination and frees his self of the evil inclinations, he will attain to eternal success, and if, on the contrary, he suppresses the good and promotes the evil, he will meet with disappointment and failure.\n\n",
+        "\n\nThat just as the sun and the moon, the day and the night, the earth and the sky, are different from each other and contradictory in their effects and results, so are the good and the evil different from each other and contradictory in their effects and results; they are neither alike in their outward appearance nor can they be alike in their results.\n\n\nThat Allah after giving the human self powers of the body, sense and mind has not left it uninformed in the world, but has instilled into his unconscious by means of a natural inspiration the distinction between good and evil, right and wrong, and the sense of the good to be good and of the evil to be evil.\n\n\nThat the future of man depends on how by using the powers of discrimination, will and judgment that Allah has endowed him with, he develops the good and suppresses the evil tendencies of the self. If he develops the good inclination and frees his self of the evil inclinations, he will attain to eternal success, and if, on the contrary, he suppresses the good and promotes the evil, he will meet with disappointment and failure.\n\n",
         "\n",
-        "In the second part citing the historical precedent of the people of Thamud the significance of Prophethood has been brought out. A Messenger is raised in the world, because the inspirational knowledge of good and evil that Allah has placed in human nature, is by itself not enough for the guidance of man, but on account of his failure to understand it fully man has been proposing wrong criteria and theories of good and evil and thus going astray. That is why Allah sent down clear and definite Revelation to the Prophets (peace be upon them) to augment man's natural inspiration so that they may expound to the people as to what is good and what is evil. Likewise, the Prophet Salih (peace be upon him) was sent to the people of Thamud, but the people overwhelmed by the evil of their self, had become so rebellious that they rejected him. And when he presented before them the miracle of the she camel, as demanded by themselves, the most wretched one of them, in spite of his warning,\r\nhamstrung it, in accordance with the will and desire of the people. Consequently, the entire tribe was overtaken by a disaster.",
+        "In the second part citing the historical precedent of the people of Thamud the significance of Prophethood has been brought out. A Messenger is raised in the world, because the inspirational knowledge of good and evil that Allah has placed in human nature, is by itself not enough for the guidance of man, but on account of his failure to understand it fully man has been proposing wrong criteria and theories of good and evil and thus going astray. That is why Allah sent down clear and definite Revelation to the Prophets (peace be upon them) to augment man's natural inspiration so that they may expound to the people as to what is good and what is evil. Likewise, the Prophet Salih (peace be upon him) was sent to the people of Thamud, but the people overwhelmed by the evil of their self had become so rebellious that they rejected him. And when he presented before them the miracle of the she-camel, as demanded by themselves, the most wretched one of them, despite his warning, hamstrung it, in accordance with the will and desire of the people. Consequently, the entire tribe was overtaken by a disaster.",
         "\n",
-        "While narrating this story of the Thamud nowhere in the Surah has it been said \"O people of Quraish, if you rejected your Prophet, Muhammad (upon whom be Allah's peace and blessings), as the Thamud had rejected theirs, you too would meet with the same fate as they met.\" The conditions at that time in Makkah were similar to those that had been created by the wicked among the people of Thamud against the Prophet Salih (peace be upon him). Therefore, the narration of this story in those conditions was by itself enough to suggest to the people of Makkah how precisely this historical precedent applied to them.",
-        "\n"
+        "While narrating this story of the Thamud nowhere in the Surah has it been said \"O people of Quraish, if you rejected your Prophet, Muhammad (upon whom be Allah's peace and blessings), as the Thamud had rejected theirs, you too would meet with the same fate as they met.\" The conditions at that time in Makkah were similar to those that had been created by the wicked among the people of Thamud against the Prophet Salih (peace be upon him). Therefore, the narration of this story in those conditions was by itself enough to suggest to the people of Makkah how precisely this historical precedent applied to them."
     ],
+    "quran-source": "`https://surahquran.com`",
     "description": "The surah that opens with the oath of the Divine One swearing by The Sun as it shines out with morning’s radiance. It is named after “the sun” (al-shams), mentioned in verse 1. The central theme of the surah touch upon purifying or corrupting the soul, with the tribe of Thamūd given as an example of corruption.The surah is also known as: Sol.",
-    "name_translation": "THE SUN",
+    "name_translation": "The Sun",
     "name_complex": "Ash-Shams",
     "surah_name_ar": "الشمس",
     "verses": {
-        "languages": {
-            "albanian": {
-                "translators": {
-                    "1": {
-                        "Efendi Nahi": {
-                            "verse 91:1": "Betohem në Diellin dhe dritën e tij,",
-                            "verse 91:2": "dhe Hënën që e përcjellë",
-                            "verse 91:3": "dhe ditën që e bën të dukshëm atë,",
-                            "verse 91:4": "dhe natën kur e mbulon",
-                            "verse 91:5": "dhe qiellin dhe Atë që e ka ndërtuar (atë);",
-                            "verse 91:6": "dhe Tokën dhe Atë që e ka shtruar atë (Tokën),",
-                            "verse 91:7": "dhe shpirtin (njeriun e parë) dhe Atë që e krijoi",
-                            "verse 91:8": "e ua ka shpjeguar të mirën e të keqen, -",
-                            "verse 91:9": "me të vërtetë, ai që e pastron atë (shpirtin), do të jetë i lumtur,",
-                            "verse 91:10": "e, me të vërtetë do të humbë ai që e devijon atë (shpirtin)!",
-                            "verse 91:11": "Populli i Themudit, nga shfrenimi i vet – ka përgënjeshtruar:",
-                            "verse 91:12": "kur nga mesi i tyre u ngrit një fatzezë,",
-                            "verse 91:13": "i dërguari i Perëndisë (Salihu), ju tha atyre: “Lëreni deven e Perëndisë dhe kujdesuni për kohën kur duhet të pijë ajo!”",
-                            "verse 91:14": "Por ata nuk i besuan (atij), madje e prënë atë (devën) – dhe Zoti i tyre shkatërroi ata për mëkatet e tyre, duke i zhdukur deri në të fundit,",
-                            "verse 91:15": "se, Ai, nuk i druan pasojës nga ajo."
-                        }
-                    }
-                }
-            },
-            "azerbaijani": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "And olsun günəşə və onun işığına (günəşin qalxdığı vaxta);",
-                            "verse 91:2": "And olsun (günəşin) ardınca çıxan aya;",
-                            "verse 91:3": "And olsun onu (günəşi) parlaq edən gündüzə;",
-                            "verse 91:4": "And olsun onu (günəşi) örtən gecəyə;",
-                            "verse 91:5": "And olsun göyə və onu yaradana;",
-                            "verse 91:6": "And olsun yerə və onu döşəyənə;",
-                            "verse 91:7": "And olsun nəfsə və onu yaradana (ona biçim verənə);",
-                            "verse 91:8": "Sonra da ona günahlarını və pis əməllərdən çəkinməsini (xeyir və şəri) öyrədənə ki,",
-                            "verse 91:9": "Nəfsini (günahlardan) təmizləyən mütləq nicat tapacaqdır!",
-                            "verse 91:10": "Onu (günaha) batıran isə, əlbəttə, ziyana uğrayacaqdır.",
-                            "verse 91:11": "Səmud (qövmü) azğınlığı üzündən (Saleh peyğəmbəri) təkzib etmişdi.",
-                            "verse 91:12": "Onların ən rəzili (Allahın bir mö'cüzəsi olaraq qayanın içindən çıxartdığı dəvəni öldürməyə) qalxdığı zaman",
-                            "verse 91:13": "Allahın peyğəmbəri onlara belə demişdi: \"Allahın bu dişi (maya) dəvəsinə (toxunmayın), onun su içməsinə (mane olmayın).",
-                            "verse 91:14": "Lakin onlar (Salehi) yalançı saydılar və onu (dəvəni) tutub kəsdilər.",
-                            "verse 91:15": "(Allah) bu işin aqibətindən qorxmaz! (Allah Səmud qövmünə cəza vermək istəmirdi."
-                        }
-                    }
-                }
-            },
-            "bosnian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "Tako Mi Sunca i svjetla njegova,",
-                            "verse 91:2": "i Mjeseca kada ga prati,",
-                            "verse 91:3": "i dana kada ga vidljivim učini,",
-                            "verse 91:4": "i noći kada ga zakloni,",
-                            "verse 91:5": "i neba i Onoga koji ga sazda,",
-                            "verse 91:6": "i Zemlje i Onoga koji je ravnom učini,",
-                            "verse 91:7": "i duše i Onoga koji je stvori",
-                            "verse 91:8": "pa joj put dobra i put zla shvatljivim učini,",
-                            "verse 91:9": "uspjeće samo onaj ko je očisti,",
-                            "verse 91:10": "a biće izgubljen onaj ko je na stranputicu odvodi!",
-                            "verse 91:11": "Semud je zbog obijesti svoje poricao:",
-                            "verse 91:12": "kad se jedan nesretnik između njih podigao,",
-                            "verse 91:13": "Allahov poslanik im je doviknuo: \"Brinite se o Allahovoj kamili i vremenu kad treba da pije!\",",
-                            "verse 91:14": "ali mu oni nisu povjerovali, već su je zaklali - i Gospodar njihov ih je zbog grijeha njihovih uništio i do posljednjeg istrijebio,",
-                            "verse 91:15": "i ne strahujući zbog toga od odgovornosti."
-                        }
-                    }
-                }
-            },
-            "bengali": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "শপথ সূর্যের ও তার কিরণের,",
-                            "verse 91:2": "শপথ চন্দ্রের যখন তা সূর্যের পশ্চাতে আসে,",
-                            "verse 91:3": "শপথ দিবসের যখন সে সূর্যকে প্রখরভাবে প্রকাশ করে,",
-                            "verse 91:4": "শপথ রাত্রির যখন সে সূর্যকে আচ্ছাদিত করে,",
-                            "verse 91:5": "শপথ আকাশের এবং যিনি তা নির্মাণ করেছেন, তাঁর।",
-                            "verse 91:6": "শপথ পৃথিবীর এবং যিনি তা বিস্তৃত করেছেন, তাঁর,",
-                            "verse 91:7": "শপথ প্রাণের এবং যিনি তা সুবিন্যস্ত করেছেন, তাঁর,",
-                            "verse 91:8": "অতঃপর তাকে তার অসৎকর্ম ও সৎকর্মের জ্ঞান দান করেছেন,",
-                            "verse 91:9": "যে নিজেকে শুদ্ধ করে, সেই সফলকাম হয়।",
-                            "verse 91:10": "এবং যে নিজেকে কলুষিত করে, সে ব্যর্থ মনোরথ হয়।",
-                            "verse 91:11": "সামুদ সম্প্রদায় অবাধ্যতা বশতঃ মিথ্যারোপ করেছিল।",
-                            "verse 91:12": "যখন তাদের সর্বাধিক হতভাগ্য ব্যক্তি তৎপর হয়ে উঠেছিল।",
-                            "verse 91:13": "অতঃপর আল্লাহর রসূল তাদেরকে বলেছিলেনঃ আল্লাহর উষ্ট্রী ও তাকে পানি পান করানোর ব্যাপারে সতর্ক থাক।",
-                            "verse 91:14": "অতঃপর ওরা তার প্রতি মিথ্যারোপ করেছিল এবং উষ্ট্রীর পা কর্তন করেছিল। তাদের পাপের কারণে তাদের পালনকর্তা তাদের উপর ধ্বংস নাযিল করে একাকার করে দিলেন।",
-                            "verse 91:15": "আল্লাহ তা’আলা এই ধ্বংসের কোন বিরূপ পরিণতির আশংকা করেন না। দিলেন।"
-                        }
-                    }
-                }
-            },
-            "bulgarian": {
-                "translators": {
-                    "1": {
-                        "Tzvetan Theophanov": {
-                            "verse 91:1": "Кълна се в слънцето и в неговото сияние,",
-                            "verse 91:2": "и в луната, която го следва,",
-                            "verse 91:3": "и в деня, който го проявява,",
-                            "verse 91:4": "и в нощта, която го покрива,",
-                            "verse 91:5": "и в небето, и в Онзи, Който го е съградил,",
-                            "verse 91:6": "и в земята, и в Онзи, Който я е разпрострял,",
-                            "verse 91:7": "и в душата, и в Онзи, Който я е създал,",
-                            "verse 91:8": "и на нея е посочил [що е] нечестивост и богобоязливост!",
-                            "verse 91:9": "Сполучва онзи, който я пречиства.",
-                            "verse 91:10": "А губи онзи, който се омърсява.",
-                            "verse 91:11": "Самудяните отричаха поради своето непокорство.",
-                            "verse 91:12": "Когато най-злият от тях се втурна към камилата",
-                            "verse 91:13": "и пратеникът на Аллах",
-                            "verse 91:14": "им каза: Не посягайте на камилата на Аллах и не й пречете да пие!,",
-                            "verse 91:15": "ала го взеха за лъжец и я заклаха, - тогава техният Господ ги унищожи заради греха им - поравно.",
-                            "verse 91:16": "Не се страхува Той за последствието."
-                        }
-                    }
-                }
-            },
-            "chinese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "以太陽及其光輝發誓，",
-                            "verse 91:2": "以追隨太陽時的月亮發誓，",
-                            "verse 91:3": "以揭示太陽時的白晝發誓，",
-                            "verse 91:4": "以籠罩太陽時的黑夜發誓，",
-                            "verse 91:5": "以蒼穹及其建築者發誓，",
-                            "verse 91:6": "以大地及其鋪展者發誓，",
-                            "verse 91:7": "以靈魂及使它均衡，",
-                            "verse 91:8": "並啟示他善惡者發誓，",
-                            "verse 91:9": "凡培養自己的性靈者，必定成功；",
-                            "verse 91:10": "凡戕害自己的性靈者，必定失敗。",
-                            "verse 91:11": "賽莫德人已因過分而否認真理。",
-                            "verse 91:12": "當時，他們中最薄命者忙上前來，",
-                            "verse 91:13": "使者就對他們說：「你們讓真主的母駝自由飲水吧。」",
-                            "verse 91:14": "但他們否認使者而宰殺母駝，故他們的主因他們的罪過而毀滅他們，使他們普遍受難。",
-                            "verse 91:15": "他是不顧慮那災難的後果的。 但他們否認使者而宰殺母駝，故他們的主因他們的罪過而毀滅他們，使他們普遍受難。"
-                        }
-                    }
-                }
-            },
-            "czech": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "Při slunci a jeho jasu,",
-                            "verse 91:2": "při měsíci, když je následuje,",
-                            "verse 91:3": "při dni, když je odhaluje,",
-                            "verse 91:4": "při noci, když je zahaluje,",
-                            "verse 91:5": "při nebi a při tom, kdo je vystavěl,",
-                            "verse 91:6": "při zemi a při tom, kdo ji rozprostřel,",
-                            "verse 91:7": "při duši a při tom, kdo dal jí vyrovnanost",
-                            "verse 91:8": "a vdechl jí hříšnost i bohabojnost!",
-                            "verse 91:9": "Kdo ji očistí, ten jistě vydělá,",
-                            "verse 91:10": "a kdo ji zanedbá, ten jistě prodělá.",
-                            "verse 91:11": "Ve vzpurnosti své obvinili Thamúdovci (proroka svého) ze lži,",
-                            "verse 91:12": "když bezbožník největší povstal mezi nimi.",
-                            "verse 91:13": "A pravil jim posel Boží: \"(Nedotýkejte se) velbloudice Boží a nechte ji napít!\"",
-                            "verse 91:14": "Však za lháře jej prohlásili a (velbloudici) podřízli.",
-                            "verse 91:15": "aniž se následků toho obával."
-                        }
-                    }
-                }
-            },
-            "dutch": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "Bij de zon en haar licht,",
-                            "verse 91:2": "En bij de maan als zij deze volgt,",
-                            "verse 91:3": "En bij de dag wanneer hij dezs onthult",
-                            "verse 91:4": "En bij de nacht, wanneer hij haar bedekt,",
-                            "verse 91:5": "En bij de hemel en de schepping er van.",
-                            "verse 91:6": "En bij de aarde en haar uitgestrektheid,",
-                            "verse 91:7": "En bij de ziel en haar volmaaktheid,",
-                            "verse 91:8": "Hij openbaarde haar wat slecht en wat goed (voor haar) is,",
-                            "verse 91:9": "Voorwaar, geslaagd is hij die haar loutert",
-                            "verse 91:10": "En voorzeker hij gaat te gronde die haar te gronde richt.",
-                            "verse 91:11": "De Samoed verloochenden de boodschap in hun opstandigheid.",
-                            "verse 91:12": "Toen de ongelukkigste onder hen opstond,",
-                            "verse 91:13": "Zeide de boodschapper van God: \"Laat de kamelin van God vrij in haar drinken.",
-                            "verse 91:14": "Maar zij verloochenden hem en verlamden haar, daarom vernietigde hun Heer hen totaal om hun zonden en maakte het land met de grond gelijk.",
-                            "verse 91:15": "En Hij vreest de gevolgen hiervan niet."
-                        }
-                    }
-                }
-            },
-            "english": {
-                "translators": {
-                    "1": {
-                        "Marmaduke Pickthall": {
-                            "verse 91:1": "By the sun and his brightness,",
-                            "verse 91:2": "And the moon when she followeth him,",
-                            "verse 91:3": "And the day when it revealeth him,",
-                            "verse 91:4": "And the night when it enshroudeth him,",
-                            "verse 91:5": "And the heaven and Him Who built it,",
-                            "verse 91:6": "And the earth and Him Who spread it,",
-                            "verse 91:7": "And a soul and Him Who perfected it",
-                            "verse 91:8": "And inspired it (with conscience of) what is wrong for it and (what is) right for it.",
-                            "verse 91:9": "He is indeed successful who causeth it to grow,",
-                            "verse 91:10": "And he is indeed a failure who stunteth it.",
-                            "verse 91:11": "(The tribe of) Thamud denied (the truth) in their rebellious pride,",
-                            "verse 91:12": "When the basest of them broke forth",
-                            "verse 91:13": "And the messenger of Allah said: It is the she-camel of Allah, so let her drink!",
-                            "verse 91:14": "But they denied him, and they hamstrung her, so Allah doomed them for their sin and rased (their dwellings).",
-                            "verse 91:15": "He dreadeth not the sequel (of events)."
-                        }
-                    },
-                    "2": {
-                        "Abdullah Yusuf Ali": {
-                            "verse 91:1": "By the Sun and his (glorious) splendour;",
-                            "verse 91:2": "By the Moon as she follows him;",
-                            "verse 91:3": "By the Day as it shows up (the Sun’s) glory;",
-                            "verse 91:4": "By the Night as it conceals it;",
-                            "verse 91:5": "By the Firmament and its (wonderful) structure;",
-                            "verse 91:6": "By the Earth and its (wide) expanse:",
-                            "verse 91:7": "By the Soul, and the proportion and order given to it;",
-                            "verse 91:8": "And its enlightenment as to its wrong and its right;-",
-                            "verse 91:9": "Truly he succeeds that purifies it,",
-                            "verse 91:10": "And he fails that corrupts it!",
-                            "verse 91:11": "The Thamud (people) rejected (their prophet) through their inordinate wrong-doing,",
-                            "verse 91:12": "Behold, the most wicked man among them was deputed (for impiety).",
-                            "verse 91:13": "But the Apostle of God said to them: \"It is a She-camel of God! And (bar her not from) having her drink!\"",
-                            "verse 91:14": "Then they rejected him (as a false prophet), and they hamstrung her.",
-                            "verse 91:15": "And for Him is no fear of its consequences."
-                        }
-                    },
-                    "3": {
-                        "Arthur J. Arberry": {
-                            "verse 91:1": "By the sun and his morning brightness",
-                            "verse 91:2": "and by the moon when she follows him,",
-                            "verse 91:3": "and by the day when it displays him",
-                            "verse 91:4": "and by the night when it enshrouds him!",
-                            "verse 91:5": "By the heaven and That which built it",
-                            "verse 91:6": "and by the earth and That which extended it!",
-                            "verse 91:7": "By the soul, and That which shaped it",
-                            "verse 91:8": "and inspired it to lewdness and godfearing!",
-                            "verse 91:9": "Prosperous is he who purifies it,",
-                            "verse 91:10": "and failed has he who seduces it.",
-                            "verse 91:11": "Thamood cried lies in their insolence",
-                            "verse 91:12": "when the most wretched of them uprose,",
-                            "verse 91:13": "then the Messenger of God said to them, ’The She-camel of God; let her drink!’",
-                            "verse 91:14": "But they cried him lies, and hamstrung her, so their Lord crushed them for their sin, and leveled them:",
-                            "verse 91:15": "and He fears not the issue thereof."
-                        }
-                    },
-                    "4": {
-                        "Muhammad Asad": {
-                            "verse 91:1": "CONSIDER the sun and its radiant brightness,",
-                            "verse 91:2": "and the moon as it reflects the sun!",
-                            "verse 91:3": "Consider the day as it reveals the world,",
-                            "verse 91:4": "and the night as it veils it darkly!",
-                            "verse 91:5": "Consider the sky and its wondrous make,",
-                            "verse 91:6": "and the earth and all its expanse!",
-                            "verse 91:7": "Consider the human self, and how it is formed in accordance with what it is meant to be,",
-                            "verse 91:8": "and how it is imbued with moral failings as well as with consciousness of God!",
-                            "verse 91:9": "To a happy state shall indeed attain he who causes this",
-                            "verse 91:10": "to grow in purity,",
-                            "verse 91:11": "and truly lost is he who buries it [in darkness].",
-                            "verse 91:12": "TO",
-                            "verse 91:13": "TRUTH gave the lie, in their overweening arrogance, [the tribe of] Thamūd,",
-                            "verse 91:14": "when that most hapless wretch from among them rushed forward [to commit his evil deed],",
-                            "verse 91:15": "although God’s apostle had told them, \"It is a she-camel belonging to God, so let her drink [and do her no harm]!\"",
-                            "verse 91:16": "But they gave him the lie, and cruelly slaughtered her – whereupon their Sustainer visited them with utter destruction for this their sin, destroying them all alike:",
-                            "verse 91:17": "for none [of them] had any fear of what might befall them.",
-                            "verse 91:18": "that which has inspired it with its immoral doings (fujūrahā) and its God-consciousness (taqwāhā)” – i."
-                        }
-                    },
-                    "5": {
-                        "Martin Lings": {}
-                    },
-                    "6": {
-                        "Mufti Muhammad Taqi Uthmani": {
-                            "verse 91:1": "I swear by the sun and his broad light,",
-                            "verse 91:2": "and by the moon when she follows him,",
-                            "verse 91:3": "and by the day when it shows his brightness,",
-                            "verse 91:4": "and by the night when it envelops him,",
-                            "verse 91:5": "and by the sky, and the One who built it,",
-                            "verse 91:6": "and by the earth, and the One who spread it,",
-                            "verse 91:7": "and by the soul, and the One who made it well,",
-                            "verse 91:8": "then inspired it with its (instincts of) evil and piety,",
-                            "verse 91:9": "success is really attained by him who purifies it,",
-                            "verse 91:10": "and failure is really suffered by him who pollutes it.",
-                            "verse 91:11": "(The People of) Thamūd denied the truth because of their transgression,",
-                            "verse 91:12": "when rose up the one who was most wretched of them.",
-                            "verse 91:13": "So, the Messenger of Allah said to them, “Be careful of Allah’s she-camel and her right to drink.",
-                            "verse 91:14": "But they rejected him and killed her, so their Lord sent eradicating torment upon them because of their sin, and made it equal for all.",
-                            "verse 91:15": "And He has no fear of its consequence."
-                        }
-                    },
-                    "7": {
-                        "Royal Aal al-Bayt Institute Translation": {
-                            "verse 91:1": "By the sun and her morning light,",
-                            "verse 91:2": "and",
-                            "verse 91:3": "the moon when it follows her,",
-                            "verse 91:4": "and",
-                            "verse 91:5": "the day when it reveals her,",
-                            "verse 91:6": "and",
-                            "verse 91:7": "the night when it enshrouds her.",
-                            "verse 91:8": "By the heaven and the One Who built it,",
-                            "verse 91:9": "and",
-                            "verse 91:10": "the earth and the One Who spread it,",
-                            "verse 91:11": "and",
-                            "verse 91:12": "the soul and the One Who proportioned it,",
-                            "verse 91:13": "and inspired to discern its vices and piety.",
-                            "verse 91:14": "Successful indeed will be the one who purifies it,",
-                            "verse 91:15": "and he will indeed have failed he who eclipses it.",
-                            "verse 91:16": "Thamūd denied because of their rebellious nature,",
-                            "verse 91:17": "when the most wretched of them was dispatched.",
-                            "verse 91:18": "But then the messenger of God said to them, ‘[This is] the she-camel of God, so let her have her drink!’",
-                            "verse 91:19": "But they denied him, then hamstrung her.",
-                            "verse 91:20": "And He does not fear the consequence of it."
-                        }
-                    },
-                    "8": {
-                        "Recitations of Ibrahim walk from saheeh international": {
-                            "verse 91:1": "By the sun and by its brightness,",
-                            "verse 91:2": "And by the moon when it follows the sun (i.",
-                            "verse 91:3": "And by the day when it displays the sun (i.",
-                            "verse 91:4": "And by the night when it draws a veil over the sun (from one of the hemispheres of the earth),",
-                            "verse 91:5": "And by the heaven and by that (energy) which built it (with Allah’s permission in the form of a vast universe),",
-                            "verse 91:6": "And by the earth and by that (force which, by Allah’s command,) pulled it (from the sun far) apart.",
-                            "verse 91:7": "And by the human soul and by the One Who provided it with an all-dimensional poise, proportion and perfection,",
-                            "verse 91:8": "Then He inspired it with (discrimination between) vice and virtue,",
-                            "verse 91:9": "Indeed, the one who purifies his (ill-commanding) self (from all vain and vicious desires and cultivates in it virtue and piousness) succeeds,",
-                            "verse 91:10": "But the one who corrupts himself (in sins and suppresses virtue) is doomed indeed.",
-                            "verse 91:11": "The people of Thamud rejected (their Messenger Salih) due to their rebellion.",
-                            "verse 91:12": "When the most wretched of them stood up,",
-                            "verse 91:13": "Allah’s Messenger said to them: ‘Guard (that) she-camel and (the time of) her taking water.",
-                            "verse 91:14": "But they rejected the Messenger and hamstrung (the she-camel).",
-                            "verse 91:15": "And Allah does not fear any repercussions of this (devastation)."
-                        }
-                    }
-                }
-            },
-            "finnish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "Kautta auringon ja sen kirkkauden,",
-                            "verse 91:2": "kautta valonsa lainaavan kuun,",
-                            "verse 91:3": "kautta päivän, joka paljastaa kaiken näkyväisen,",
-                            "verse 91:4": "kautta yön, joka sen verhoonsa peittää,",
-                            "verse 91:5": "kautta taivaan ja Hänen, joka sen rakensi,",
-                            "verse 91:6": "kautta maan ja Hänen, joka sen laajaksi levitti,",
-                            "verse 91:7": "kautta sielun ja Hänen, joka teki sen täydelliseksi",
-                            "verse 91:8": "ja ilmaisi sille, mikä turmio on totuuden hylkäämisestä ja mikä menestys pahan karttamisesta!",
-                            "verse 91:9": "Totisesti autuas on se, joka säilyttää sielunsa puhtaana,",
-                            "verse 91:10": "ja totisesti on tuhon oma se, joka sen turmelee!",
-                            "verse 91:11": "Tamuud teki syntiä ja väitti totuutta valheeksi.",
-                            "verse 91:12": "Kun kurjimmat heidän joukostaan ryhtyivät riettauksiinsa,",
-                            "verse 91:13": "silloin Jumalan sananjulistaja puhui heille Jumalan naaraskameelista ja sen juottamisesta,",
-                            "verse 91:14": "mutta he kohtelivat häntä kuin valehtelijaa ja katkoivat kameelilta jäsenet, ja heidän Herransa kukisti heidät heidän syntiensä tähden ja tuhosi heidät maan tasalle,",
-                            "verse 91:15": "eikä Hän pelännyt seurauksia."
-                        }
-                    }
-                }
-            },
-            "french": {
-                "translators": {
-                    "1": {
-                        "Jean-Louis Michon": {
-                            "verse 91:1": "Par le soleil et sa clarté !",
-                            "verse 91:2": "Par la lune quand elle le suit !",
-                            "verse 91:3": "Par le jour quand il le fait rayonner !",
-                            "verse 91:4": "Par la nuit quand elle le recouvre !",
-                            "verse 91:5": "Par le ciel et Ce",
-                            "verse 91:6": "qui l'a édifié !",
-                            "verse 91:7": "Par la terre et Ce",
-                            "verse 91:8": "qui l'a étendue !",
-                            "verse 91:9": "Par l'âme et Ce",
-                            "verse 91:10": "qui l'a ordonnée harmonieusement !",
-                            "verse 91:11": "Il lui a inspiré son libertinage et sa piété ;",
-                            "verse 91:12": "bienheureux qui la purifie,",
-                            "verse 91:13": "et malheureux qui l'avilit !",
-                            "verse 91:14": "Les Thamoud, dans leur révolte, criaient au mensonge",
-                            "verse 91:15": "lorsque le plus misérable d'entre eux s'est levé.",
-                            "verse 91:16": "L'Envoyé de Dieu leur avait dit : \" La chamelle de Dieu !.",
-                            "verse 91:17": "Ils l'ont traité de menteur et ils ont tranché les jarrets de la chamelle.",
-                            "verse 91:18": "et leur disparition ne Lui cause nulle appréhension."
-                        }
-                    },
-                    "2": {
-                        "Muhammad Hamidullah ": {
-                            "verse 91:1": "Par le soleil et par sa clarté !",
-                            "verse 91:2": "Et par la lune quand elle le suit !",
-                            "verse 91:3": "Et par le jour quand il l’éclaire !",
-                            "verse 91:4": "Et par la nuit quand elle l’enveloppe !",
-                            "verse 91:5": "Et par le ciel et Celui qui l’a construit !",
-                            "verse 91:6": "Et par la terre et Celui qui l’a étendue !",
-                            "verse 91:7": "Et par l’âme et Celui qui l’a harmonieusement façonnée;",
-                            "verse 91:8": "et lui a alors inspiré son immoralité, de même que sa piété !",
-                            "verse 91:9": "A réussi, certes celui qui la purifie.",
-                            "verse 91:10": "Et est perdu, certes, celui qui la corrompt.",
-                            "verse 91:11": "Les Tamud, par leur transgression, ont crié au mensonge,",
-                            "verse 91:12": "lorsque le plus misérable d’entre eux se leva (pour tuer la chamelle)",
-                            "verse 91:13": "Le Messager de Dieu leur avait dit : «La chamelle de Dieu ! Laissez-la boire»",
-                            "verse 91:14": "Mais, ils le traitèrent de menteur, et la tuèrent.",
-                            "verse 91:15": "Et Dieu n’a aucune crainte des conséquences : tous."
-                        }
-                    }
-                }
-            },
-            "german": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "Bei der Sonne und bei ihrem Glanz,",
-                            "verse 91:2": "Und bei dem Mond, wenn er ihr folgt,",
-                            "verse 91:3": "Und bei dem Tag, wenn er sie enthüllt,",
-                            "verse 91:4": "Und bei der Nacht, wenn sie sie bedeckt,",
-                            "verse 91:5": "Und bei dem Himmel und seiner Erbauung,",
-                            "verse 91:6": "Und bei der Erde und ihrer Ausbreitung,",
-                            "verse 91:7": "Und bei der Seele und ihrer Vollendung -",
-                            "verse 91:8": "Er gewährte ihr den Sinn für das, was für sie unrecht und was für sie recht ist.",
-                            "verse 91:9": "Wahrlich, wer sie lauterer werden läßt, der wird Erfolg haben;",
-                            "verse 91:10": "Und wer sie in Verderbnis hinabsinken läßt, der wird zuschanden.",
-                            "verse 91:11": "Die Thamüd leugneten die Wahrheit in ihrem Trotz.",
-                            "verse 91:12": "Als der Schlechteste unter ihnen aufstand,",
-                            "verse 91:13": "Da sprach der Gesandte Allahs: «Haltet euch fern von der Kamelstute Allahs und von ihrer Tränke!»",
-                            "verse 91:14": "Jedoch sie verwarfen ihn und schnitten ihr die Sehnen durch, darum vernichtete ihr Herr sie gänzlich für ihre Sünde und machte (die Vernichtung) allen gleich.",
-                            "verse 91:15": "Und Er fürchtet die Folgen nicht."
-                        }
-                    }
-                }
-            },
-            "hindi": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "lwjt dh d+le vkSj mldh jkS’kuh dh",
-                            "verse 91:2": "vkSj pk¡n dh tc mlds ihNs fudys",
-                            "verse 91:3": "vkSj fnu dh tc mls pedk ns",
-                            "verse 91:4": "vkSj jkr dh tc mls <k¡d ys",
-                            "verse 91:5": "vkSj vkleku dh vkSj ftlus mls cuk;k",
-                            "verse 91:6": "vkSj t+ehu dh ftlus mls fcNk;k",
-                            "verse 91:7": "vkSj tku dh vkSj ftlus mls nq:Lr fd;k",
-                            "verse 91:8": "fQj mldh cndkjh vkSj ijgst+xkjh dks mls le>k fn;k",
-                            "verse 91:9": "¼d+le gS½ ftlus ml ¼tku½ dks ¼xukg ls½ ikd j[kk og rks dke;kc gqvk",
-                            "verse 91:10": "vkSj ftlus mls ¼xqukg djds½ nck fn;k og ukeqjkn jgk",
-                            "verse 91:11": "d+kSe elwn us viuh ljd’kh ls ¼lkysg iSx+Ecj dks½ >qByk;k]",
-                            "verse 91:12": "tc muesa dk ,d cM+k cnc[+r mB [kM+k gqvk",
-                            "verse 91:13": "rks [+kqnk ds jlwy ¼lkysg½ us muls dgk fd [+kqnk dh Å¡Vuh vkSj mlds ikuh ihus ls rv#Zt+ u djuk",
-                            "verse 91:14": "exj mu yksxksa iSx+Ecj dks >qByk;k vkSj mldh dw¡ps dkV Mkyh rks [+kqnk us muds xqukgksa lcc ls mu ij vt+kc ukft+y fd;k fQj ¼gykd djds½ cjkcj dj fn;k",
-                            "verse 91:15": "vkSj mldks muds cnys dk dksbZ [k+kSQ rks gS ugha"
-                        }
-                    }
-                }
-            },
-            "indonesian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "Demi matahari dan cahayanya di pagi hari,",
-                            "verse 91:2": "dan bulan apabila mengiringinya,",
-                            "verse 91:3": "dan siang apabila menampakkannya,",
-                            "verse 91:4": "dan malam apabila menutupinya,",
-                            "verse 91:5": "dan langit serta pembinaannya,",
-                            "verse 91:6": "dan bumi serta penghamparannya,",
-                            "verse 91:7": "dan jiwa serta penyempurnaannya (ciptaannya),",
-                            "verse 91:8": "maka Allah mengilhamkan kepada jiwa itu (jalan) kefasikan dan ketakwaannya,",
-                            "verse 91:9": "sesungguhnya beruntunglah orang yang menyucikan jiwa itu,",
-                            "verse 91:10": "dan sesungguhnya merugilah orang yang mengotorinya.",
-                            "verse 91:11": "(Kaum) Tsamud telah mendustakan (rasulnya) karena mereka melampaui batas,",
-                            "verse 91:12": "ketika bangkit orang yang paling celaka di antara mereka,",
-                            "verse 91:13": "lalu Rasul Allah (Saleh) berkata kepada mereka: (\"Biarkanlah) unta betina Allah dan minumannya\".",
-                            "verse 91:14": "Lalu mereka mendustakannya dan menyembelih unta itu, maka Tuhan mereka membinasakan mereka disebabkan dosa mereka, lalu Allah menyama-ratakan mereka (dengan tanah).",
-                            "verse 91:15": "dan Allah tidak takut terhadap akibat tindakan-Nya itu."
-                        }
-                    }
-                }
-            },
-            "italian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "Per il sole e il suo fulgore,",
-                            "verse 91:2": "per la luna quando lo segue,",
-                            "verse 91:3": "per il giorno quando rischiara [la terra],",
-                            "verse 91:4": "per la notte quando la copre,",
-                            "verse 91:5": "per il cielo e Ciò che lo ha edificato,",
-                            "verse 91:6": "per la terra e Ciò che l'ha distesa,",
-                            "verse 91:7": "per l'anima e Ciò che l'ha formata armoniosamente",
-                            "verse 91:8": "ispirandole empietà e devozione .",
-                            "verse 91:9": "Ha successo invero chi la purifica,",
-                            "verse 91:10": "è perduto chi la corrompe.",
-                            "verse 91:11": "I Thamûd, per arroganza, tacciarono di menzogna,",
-                            "verse 91:12": "quando si alzò il più miserabile di loro.",
-                            "verse 91:13": "Il Messaggero di Allah aveva detto loro: «",
-                            "verse 91:14": "è la cammella di Allah,",
-                            "verse 91:15": "il suo turno per bere» .",
-                            "verse 91:16": "Lo tacciarono di impostura e le tagliarono i garetti: li annientò il loro Signore per il loro peccato,",
-                            "verse 91:17": "senza temere [di ciò] alcuna conseguenza."
-                        }
-                    }
-                }
-            },
-            "japanese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "太陽とその輝きにおいて，",
-                            "verse 91:2": "それに従う月において，",
-                            "verse 91:3": "（太陽を）輝き現わす昼において，",
-                            "verse 91:4": "それを覆う夜において，",
-                            "verse 91:5": "天と，それを打ち建てた御方において，",
-                            "verse 91:6": "大地と，それを広げた御方において，",
-                            "verse 91:7": "魂と，それを釣合い秩序付けた御方において，",
-                            "verse 91:8": "邪悪と信心に就いて，それ（魂）に示唆した御方において（誓う）。",
-                            "verse 91:9": "本当にそれ（魂）を清める者は成功し，",
-                            "verse 91:10": "それを汚す者は滅びる。",
-                            "verse 91:11": "サムード（の民）は，その法外な行いによって（預言者を）嘘付き呼ばわりした。",
-                            "verse 91:12": "かれらの中の最も邪悪の者が（不信心のため）立ち上がった時，",
-                            "verse 91:13": "アッラーの使徒（サーリフ）はかれらに，「アッラーの雌骼駝である。それに水を飲ませなさい。」と言った。",
-                            "verse 91:14": "だがかれらは，かれを嘘付き者と呼び，その膝の腱を切っ（て不具にし）た。それで主は，その罪のためにかれらを滅ぼし，平らげられた。",
-                            "verse 91:15": "かれは，その結果を顧慮されない。 だがかれらは，かれを嘘付き者と呼び，その膝の腱を切っ（て不具にし）た。それで主は，その罪のためにかれらを滅ぼし，平らげられた。"
-                        }
-                    }
-                }
-            },
-            "korean": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "태양과 그 빛을 두고 맹세하사",
-                            "verse 91:2": "그 뒤를 이은 달을 두고 맹세하며",
-                            "verse 91:3": "태양의 영광을 보여주는 낮을두고 맹세하며",
-                            "verse 91:4": "그것을 숨기는 밤을 두고 맹 세하며",
-                            "verse 91:5": "하늘과 그것을 세운 주님을 두고 맹세하사",
-                            "verse 91:6": "대지와 그것을 펼쳐 놓으신 주님을 두고 맹세하며",
-                            "verse 91:7": "인간과 그것을 창조한 주님을두고 맹세하사",
-                            "verse 91:8": "선과 악이 무엇인가를 이해하 도록 하셨나니",
-                            "verse 91:9": "스스로를 순결하게 하는 자가 승리자이며",
-                            "verse 91:10": "스스로를 불결하게 하는 자 실패한 자라",
-                            "verse 91:11": "사무드 백성은 그들의 오만 으로 예언자를 거역하였으매",
-                            "verse 91:12": "그들 중 가장 사악한 자가 일어섰을 때",
-                            "verse 91:13": "선지자가 그들에게 말하길 그것은 하나님의 암낙타이니 그것 이 물을 마시매 방해하지 말라 하 였으나",
-                            "verse 91:14": "그들은 그를 거역한 후 그 암낙타를 살해하였으니 그 죄악으 로 인하여 주님은 그들을 멸망케 하사 구별없이 완전 멸망케 하셨 노라",
-                            "verse 91:15": "실로 그분은 그 결과에 대하여 조금도 염려하지 아니 하시니라"
-                        }
-                    }
-                }
-            },
-            "kurdish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "سوێند به خۆر و تیشكی خۆراکه له سه‌ره‌تایی ڕۆژدا سه‌رهه‌ڵده‌دا).",
-                            "verse 91:2": "سوێند به مانگ، کاتێك به‌شوێنیدا دێت.",
-                            "verse 91:3": "سوێند به ڕۆژ کاتێک که خۆر ده‌رده‌خات.",
-                            "verse 91:4": "سوێند به شه‌و که خۆر داده‌پۆشیت.",
-                            "verse 91:5": "سوێند به ئاسمان و به‌و زاته به ده‌سه‌ڵاته‌ی دروستی کردووه‌.",
-                            "verse 91:6": "سوێند به زه‌وی و به‌و زاته‌ی که به‌شێوه‌ی هێلکه‌یی دایناوه‌.",
-                            "verse 91:7": "سوێند به ده‌روون و ئه‌و زاته‌ی که به ڕێک و پێکی به‌دیهێناوه‌.",
-                            "verse 91:8": "جا توانای خراپه و چاکه و خوانه‌ناسی و خواناسی تێدا دابین کردووه‌.",
-                            "verse 91:9": "(سوێند به‌وانه هه‌موو) به‌ڕاستی ئه‌و که‌سه سه‌رفرازه که نه‌فسی پاک و پوخته کردووه و ئیمان و ترسی خوای تیادا ڕواندووه‌.",
-                            "verse 91:10": "بێگومان نائومێد بوو ئه‌و که‌سه‌ی نه‌فسی خۆی ناپوخت کرد و ئاڵوده‌ی گوناهو تاوان و خراپه‌ی کرد.",
-                            "verse 91:11": "قه‌ومی ثمود به‌هۆی سه‌رکه‌شی و یاخی بوونیانه‌وه‌، بڕوایان به پێغه‌مبه‌ره‌که‌یان نه‌هێنا.",
-                            "verse 91:12": "کاتێک شه‌قاوه و خوانه‌ناسترین که‌سیان خۆیی ڕاپسکاند (بۆ سه‌ربڕینی وشتره‌که‌).",
-                            "verse 91:13": "جا پێغه‌مبه‌ری خوا (صاڵح) پێی وتن: واز بهێنن له‌م وشتره که موعجیزه‌ی خوایه‌، مۆڵه‌تی بده‌ن له نۆره ئاوه‌که‌ی خۆیدا ئاو بخواته‌وه‌.",
-                            "verse 91:14": "که‌چی بڕوایان به هه‌ره‌شه‌کانی نه‌کرد، ئینجا وشتره‌که‌یان سه‌ربڕی، ئه‌وسا ئیتر په‌روه‌ردگاریان وڵاتی کاولکردن و له‌گه‌ڵ زه‌ویدا ته‌ختی کرد به‌سه‌ریاندا و که‌سیان ڕزگاری نه‌بوو (به‌هۆی گوناهو تاوانیانه‌وه‌).",
-                            "verse 91:15": "له کاتێکدا که خوای به‌ده‌سه‌ڵات له سه‌ره‌نجامی ئه‌و کاره‌یشی هه‌رگیز ناترسێت."
-                        }
-                    }
-                }
-            },
-            "malay": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "Demi matahari dan cahayanya yang terang-benderang;",
-                            "verse 91:2": "Dan bulan apabila ia mengiringinya;",
-                            "verse 91:3": "Dan siang apabila ia memperlihatkannya dengan jelas nyata;",
-                            "verse 91:4": "Dan malam apabila ia menyelubunginya (dengan gelap- gelita),",
-                            "verse 91:5": "Demi langit dan Yang membinanya (dalam bentuk yang kuat kukuh yang melambangkan kekuasaanNya);",
-                            "verse 91:6": "Serta bumi dan Yang menghamparkannya (untuk kemudahan makhluk-makhlukNya);",
-                            "verse 91:7": "Demi diri manusia dan Yang menyempurnakan kejadiannya (dengan kelengkapan yang sesuai dengan keadaannya);",
-                            "verse 91:8": "Serta mengilhamkannya (untuk mengenal) jalan yang membawanya kepada kejahatan, dan yang membawanya kepada bertakwa;",
-                            "verse 91:9": "Sesungguhnya berjayalah orang yang menjadikan dirinya yang sedia bersih bertambah-tambah bersih (dengan iman dan amal kebajikan),",
-                            "verse 91:10": "Dan sesungguhnya hampalah orang yang menjadikan dirinya yang sedia bersih itu susut dan terbenam kebersihannya (dengan sebab kekotoran maksiat).",
-                            "verse 91:11": "(Ingatlah), kaum Thamud telah mendustakan (Rasulnya) dengan sebab perbuatan derhaka mereka yang melampaui batas;",
-                            "verse 91:12": "Ketika orang yang paling jahat di antara mereka menerima perintah dari mereka (supaya membunuh unta yang menjadi mukjizat),",
-                            "verse 91:13": "Maka berkatalah Rasul Allah (Nabi Soleh) kepada mereka: (Janganlah kamu ganggu) unta betina dari Allah itu dan (janganlah kamu menyekatnya daripada mendapat) air minumnya (supaya kamu tidak ditimpa azab)!",
-                            "verse 91:14": "(Setelah Nabi Soleh memberi amaran) lalu mereka mendustakannya serta menyembelih unta itu.",
-                            "verse 91:15": "Dan Allah tidak hiraukan kesudahan (mereka) yang demikian, (kerana itu adalah balasan yang adil)."
-                        }
-                    }
-                }
-            },
-            "persian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "به خورشيد و گسترش نور آن سوگند،",
-                            "verse 91:2": "و به ماه هنگامى كه بعد از آن درآيد،",
-                            "verse 91:3": "و به روز هنگامى كه صفحه زمين را روشن سازد،",
-                            "verse 91:4": "و به شب آن هنگام كه زمين را بپوشاند،",
-                            "verse 91:5": "و قسم به آسمان و كسى كه آسمان را بنا كرده،",
-                            "verse 91:6": "و به زمين و كسى كه آن را گسترانيده،",
-                            "verse 91:7": "و قسم به جان آدمى و آن كس كه آن را (آفريده و) منظم ساخته،",
-                            "verse 91:8": "سپس فجور و تقوا (شر و خيرش) را به او الهام كرده است،",
-                            "verse 91:9": "كه هر كس نفس خود را پاك و تزكيه كرده، رستگار شده;",
-                            "verse 91:10": "و آن كس كه نفس خويش را با معصيت و گناه آلوده ساخته، نوميد و محروم گشته است!",
-                            "verse 91:11": "قوم «ثمود» بر اثر طغيان، (پيامبرشان را) تكذيب كردند،",
-                            "verse 91:12": "آنگاه كه شقى‏ترين آنها بپاخاست،",
-                            "verse 91:13": "و فرستاده الهى ( صالح) به آنان گفت: «ناقه خدا ( همان شترى كه معجزه الهى بود) را با آبشخورش واگذاريد (و مزاحم آن نشويد)!»",
-                            "verse 91:14": "ولى آنها او را تكذيب و ناقه را پى كردند (و به هلاكت رساندند); از اين رو پروردگارشان آنها (و سرزمينشان) را بخاطر گناهانشان در هم كوبيد و با خاك يكسان و صاف كرد!",
-                            "verse 91:15": "و او هرگز از فرجام اين كار ( مجازات ستمگران) بيم ندارد!"
-                        }
-                    }
-                }
-            },
-            "portuguese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "Pelo sol e pelo seu esplendor (matinal),",
-                            "verse 91:2": "Pela lua, que o segue,",
-                            "verse 91:3": "Pelo dia, que o revela,",
-                            "verse 91:4": "Pela noite, que o encobre.",
-                            "verse 91:5": "Pelo firmamento e por Quem o construiu,",
-                            "verse 91:6": "Pela terra e por Quem a dilatou,",
-                            "verse 91:7": "Pela alma e por Quem aperfeiçoou,",
-                            "verse 91:8": "E lhe imprimiu o discernimento entre o que é certo e o que é errado,",
-                            "verse 91:9": "Que será venturoso quem a purificar (a alma),",
-                            "verse 91:10": "E desventurado quem a corromper.",
-                            "verse 91:11": "A tribo de Tamud, por suas transgressões, desmentiu o seu mensageiro.",
-                            "verse 91:12": "E o mais perverso deles se incumbiu (de matar a camela).",
-                            "verse 91:13": "Porém, o mensageiro de Deus lhes disse: É a camela de Deus! Não a priveis da sua bebida!",
-                            "verse 91:14": "Porém, desmentiram-no e a esquartejaram, pelo que o seu Senhor os exterminou, pelos seus pecados, a todos por igual.",
-                            "verse 91:15": "E Ele não teme as conseqüências."
-                        }
-                    }
-                }
-            },
-            "romanian": {
-                "translators": {
-                    "1": {
-                        "Lucrarea (traducere úi editare) a fost realizată de către": {
-                            "verse 91:1": "Pe Soare și pe strãlucirea lui",
-                            "verse 91:2": "Și pe Luna care îi urmeazã!",
-                            "verse 91:3": "Pe ziua care îl face sã strãluceascã",
-                            "verse 91:4": "Și pe noaptea care îl acoperã!",
-                            "verse 91:5": "Pe cer și pe ceea ce l-a înãlțat",
-                            "verse 91:6": "Și pe pãmânt și pe ceea ce l-a fãcut întins!",
-                            "verse 91:7": "Și pe suflet și pe ceea ce l-a plãsmuit",
-                            "verse 91:8": "Și i-a insuflat lui nelegiuirea sa și evlavia sa!",
-                            "verse 91:9": "Izbândește cel care-l curãțește",
-                            "verse 91:10": "Și pierdut este cel care-l stricã!",
-                            "verse 91:11": "A învinuit de minciunã",
-                            "verse 91:12": "Thamud prin trecerea mãsurii,",
-                            "verse 91:13": "Când s-a ridicat cel mai ticãlos dintre ei.",
-                            "verse 91:14": "Trimisul lui Allah le-a zis lor: \"Este cãmila lui Allah, adãpați-o!\"",
-                            "verse 91:15": "Însã ei l-au socotit mincinos și au junghiat-o.",
-                            "verse 91:16": "cuprinzându-i pe toți,",
-                            "verse 91:17": "Fãrã ca El sã Se teamã de urmare! toți,"
-                        }
-                    },
-                    "2": {
-                        "George Grigore, Coranul": {
-                            "verse 91:1": "Pe soare şi lumina sa!",
-                            "verse 91:2": "Pe lună când îi urmează!",
-                            "verse 91:3": "Pe ziuă când îl dezvăluie!",
-                            "verse 91:4": "Pe noapte când îl învăluie!",
-                            "verse 91:5": "Pe cer! Şi cum l-a zidit!",
-                            "verse 91:6": "Pe pământ! Şi cum l-a întins!",
-                            "verse 91:7": "Pe suflet! Şi cum l-a plăsmuit, punând în el desfrâu şi pioşenie!",
-                            "verse 91:8": "Ferice de cel care şi-l mântuie!",
-                            "verse 91:9": "Cel care şi-l întinează însă este pierdut!",
-                            "verse 91:10": "Tamudiţii, în ticăloşia lor, huleau,",
-                            "verse 91:11": "iar cei mai nemernici dintre ei au ieşit în faţă.",
-                            "verse 91:12": "Trimisul lui Dumnezeu le spuse: “Este cămila lui Dumnezeu! Lăsăţi-o să bea!”",
-                            "verse 91:13": "Ei l-au făcut mincinos şi au ologit cămila.",
-                            "verse 91:14": "Pentru păcatul lor, Domnul lor i-a făcut fărâme pe toţi deopotrivă",
-                            "verse 91:15": "şi nu s-a temut de urmare."
-                        }
-                    }
-                }
-            },
-            "russian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "В знак солнца и сияния его",
-                            "verse 91:2": "И в знак луны, что следует за ним,",
-                            "verse 91:3": "В знак дня, когда он раскрывает свет,",
-                            "verse 91:4": "В знак ночи той,Когда (на солнце) свой покров онанакинет, —",
-                            "verse 91:5": "В знак ночи той,Когда (на солнце) свой покров онанакинет, —",
-                            "verse 91:6": "Клянусь землейИ тем, как распростерт ее покров,",
-                            "verse 91:7": "И всякою душой,И соразмерностью ее(Для проживания на сей земле),",
-                            "verse 91:8": "Ее прозрением о том, что праведно,что скверно, —",
-                            "verse 91:9": "Поистине, восторжествует тот,Кто чистоту ее блюдет,",
-                            "verse 91:10": "Потерпит пораженье тот,Кто развратит ее!",
-                            "verse 91:11": "Отвергли своего пророка самудяне,Творя чрезмерные грехи,",
-                            "verse 91:12": "И вот злосчастнейший из нихБыл избран для греха2326.",
-                            "verse 91:13": "Посланник же Аллаха им сказал:«Его верблюдица (пред вами),И вы должны ей не мешать испитьводы».",
-                            "verse 91:14": "Они сочли его лжецомИ ей2327 подрезали (колени).",
-                            "verse 91:15": "Ведь для Него не существует страхаЗа следствие (Его свершений)."
-                        }
-                    }
-                }
-            },
-            "spanish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "¡Por el sol y su claridad!",
-                            "verse 91:2": "¡Por la luna cuando le sigue!",
-                            "verse 91:3": "¡Por el día cuando lo muestra brillante!",
-                            "verse 91:4": "¡Por la noche cuando lo vela!",
-                            "verse 91:5": "¡Por el cielo y Quien lo ha edificado!",
-                            "verse 91:6": "¡Por la tierra y Quien la ha extentido!",
-                            "verse 91:7": "¡Por el alma y Quien le ha dado forma armoniosa,",
-                            "verse 91:8": "instruyéndole sobre su propensión al pecado y su temor de Dios!",
-                            "verse 91:9": "¡Bienaventurado quien la purifique!",
-                            "verse 91:10": "¡Decepcionado, empero, quien la corrompa!",
-                            "verse 91:11": "Los tamudeos, en su arrogancia, desmintieron.",
-                            "verse 91:12": "Cuando el más miserable de entre ellos se alzó.",
-                            "verse 91:13": "El enviado de Dios les dijo: «¡Dejad a la camella de Dios y que beba!»",
-                            "verse 91:14": "Le desmintieron y la desjarretaron.",
-                            "verse 91:15": "sin temer las consecuencias de ello."
-                        }
-                    }
-                }
-            },
-            "tamil": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "சூரியன் மீதும், அதன் பிரகாசத்தின் மீதும் சத்தியமாக",
-                            "verse 91:2": "(பின்) அதனைத் தொடர்ந்து வரும் சந்திரன் மீதும் சத்தியமாக-",
-                            "verse 91:3": "(சூரியனால்) பகல் வெளியாகும்போது, அதன் மீதும் சத்தியமாக-",
-                            "verse 91:4": "(அப்பகலை) மூடிக்கொள்ளும் இரவின் மீதும் சத்தியமாக-",
-                            "verse 91:5": "வானத்தின் மீதும், அதை(ஒழுங்குற) அமைந்திருப்பதின் மீதும் சத்தியமாக-",
-                            "verse 91:6": "பூமியின் மீதும், இன்னும் அதை விரித்ததின் மீதும் சத்தியமாக-",
-                            "verse 91:7": "ஆத்மாவின் மீதும், அதை ஒழுங்குபடுத்தியவன் மீதும் சத்தியமாக-",
-                            "verse 91:8": "அப்பால், அவன் (அல்லாஹ்) அதற்கு அதன் தீமையையும், அதன் நன்மையையும் உணர்த்தினான்.",
-                            "verse 91:9": "அதை (ஆத்மாவை)ப் பரிசுத்தமாக்கியவர் திடமாக வெற்றியடைந்தார்.",
-                            "verse 91:10": "ஆனால் எவன் அதை(ப் பாவத்தில்) புகுத்தினானோ அவன் திட்டமாகத் தோல்வி அடைந்தான்.",
-                            "verse 91:11": "'ஸமூது' (கூட்டத்தினர்) தங்கள் அக்கிரமத்தினால் (ஸாலிஹ் நபியைப்) பொய்ப்பித்தனர்.",
-                            "verse 91:12": "அவர்களில் கேடுகெட்ட ஒருவன் விரைந்து முன் வந்தபோது,",
-                            "verse 91:13": "அல்லாஹ்வின் தூதர் (ஸாலிஹ்) அவர்களை நோக்கி: \"இப் பெண் ஒட்டகம் அல்லாஹ்வுடையது, இது தண்ணீர் அருந்த(த் தடை செய்யாது) விட்டு விடுங்கள்\" என்று கூறினார்.",
-                            "verse 91:14": "ஆனால், அவர்கள் அவரைப் பொய்ப்பித்து, அதன் கால் நரம்பைத் தறித்து விட்டனர் - ஆகவே, அவர்களின் இந்தப் பாவத்தின் காரணமாக அவர்களுடைய இறைவன் அவர்கள் மீது வேதனையை இறக்கி, அவர்கள் யாவரையும் (அழித்துச்) சரியாக்கி விட்டான்.",
-                            "verse 91:15": "அதன் முடிவைப் பற்றி அவன் பயப்படவில்லை."
-                        }
-                    }
-                }
-            },
-            "thai": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "ขอสาบานด้วยดวงอาทิตย์ และแสงสว่างของมัน",
-                            "verse 91:2": "และด้วยดวงจันทร์ เมื่อโคจรตามหลังมัน",
-                            "verse 91:3": "และด้วยเวลากลางวันเมื่อประกายแสงมัน (จากดวงอาทิตย์)",
-                            "verse 91:4": "และด้วยเวลากลางคืนเมื่อปกคลุมมัน",
-                            "verse 91:5": "และด้วยชั้นฟ้า และที่พระองค์ทรงสร้างมัน",
-                            "verse 91:6": "และด้วยแผ่นดิน และที่พระองค์ทรงแผ่มัน",
-                            "verse 91:7": "และด้วยชีวิต และที่พระองค์ทรงทำให้มันสมบูรณ์",
-                            "verse 91:8": "แล้วพระองค์ทรงดลใจมันให้รู้ทางชั่วของมันและทางสำรวมของมัน",
-                            "verse 91:9": "แน่นอนผู้ขัดเกลาชีวิตย่อมได้รับความสำเร็จ",
-                            "verse 91:10": "และแน่นอนผู้หมกมุ่นมัน (ด้วยการทำชั่ว) ย่อมล้มเหลว",
-                            "verse 91:11": "พวกซะมูดได้ปฏิเสธด้วยการละเมิดขอบเขตของพวกเขา",
-                            "verse 91:12": "เมื่อคนเลวทรามที่สุดของพวกเขาได้รีบรุดไป (ฆ่าอูฐตัวเมีย)",
-                            "verse 91:13": "แล้วร่อซู้ลของอัลลอฮ์ จึงกล่าวแก่พวกเขาว่า (อย่าทำร้าย) อูฐของอัลลอฮ์ และ (อย่าขัดขวาง) การดื่มน้ำของมัน",
-                            "verse 91:14": "แต่พวกเขาก็ไม่เชื่อนบีแล้วพวกเขาก็ได้ฆ่ามัน ดังนั้นพระเจ้าของพวกเขาจึงได้ทำลายล้างพวกเขาเนื่องจากเพราะความผิดของพวกเขา แล้วพระองค์ทรงลงโทษพวกเขาอย่างถ้วนหน้ากัน",
-                            "verse 91:15": "และพระองค์มิทรงหวาดหวั่นต่อปั้นปลายพวกมัน"
-                        }
-                    }
-                }
-            },
-            "turkish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "Güneşe ve kuşluk vaktindeki aydınlığına",
-                            "verse 91:2": "Güneşi",
-                            "verse 91:3": "takip ettiğinde Ay'a,",
-                            "verse 91:4": "Onu",
-                            "verse 91:5": "açığa çıkarttığında gündüze,",
-                            "verse 91:6": "Onu",
-                            "verse 91:7": "örttüğünde geceye,",
-                            "verse 91:8": "Gökyüzüne",
-                            "verse 91:9": "ve onu bina edene,",
-                            "verse 91:10": "Yere",
-                            "verse 91:11": "ve onu yapıp döşeyene,",
-                            "verse 91:12": "Nefse",
-                            "verse 91:13": "ve ona birtakım kabiliyetler verene,",
-                            "verse 91:14": "Sonra",
-                            "verse 91:15": "da ona iyilik ve kötülükleri ilham edene yemin ederim ki,",
-                            "verse 91:16": "Nefsini",
-                            "verse 91:17": "kötülüklerden arındıran kurtuluşa ermiştir,",
-                            "verse 91:18": "Onu",
-                            "verse 91:19": "kötülüklere gömen de ziyan etmiştir.",
-                            "verse 91:20": "Semud kavmi azgınlığı yüzünden (Allah'ın elçisini) yalanladı.",
-                            "verse 91:21": "Onların en bedbahtı (deveyi kesmek için) atıldığında,",
-                            "verse 91:22": "Allah'ın",
-                            "verse 91:23": "Resûlü onlara: \"Allah'ın devesine ve onun su hakkına dokunmayın!\" dedi.",
-                            "verse 91:24": "Ama",
-                            "verse 91:25": "onlar, onu yalanladılar ve deveyi kestiler.",
-                            "verse 91:26": "(Allah,",
-                            "verse 91:27": "bu şekilde azap etmenin) âkıbetinden korkacak değil ya! (Allah,"
-                        }
-                    }
-                }
-            },
-            "urdu": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "سورج کی قسم اور اس کی روشنی کی",
-                            "verse 91:2": "سورج کي قَسم اور اس کي روشني کي قَسمo",
-                            "verse 91:3": "اور چاند کي قَسم جب وہ سورج کي پيروي کرے (يعني اس کي روشني سے چمکے)o",
-                            "verse 91:4": "اور چاند کی جب اس کے پیچھے نکلے",
-                            "verse 91:5": "اور دن کی جب اُسے چمکا دے",
-                            "verse 91:6": "اور دن کي قَسم جب وہ سورج کو ظاہر کرے (يعني اسے روشن دکھائے)o",
-                            "verse 91:7": "اور رات کي قَسم جب وہ سورج کو (زمين کي ايک سمت سے) ڈھانپ لےo",
-                            "verse 91:8": "اور رات کی جب اُسے چھپا لے",
-                            "verse 91:9": "اور آسمان کی اور اس ذات کی جس نے اسے بنایا",
-                            "verse 91:10": "اور آسمان کي قَسم اور اس (قوت) کي قَسم جس نے اسے (اذنِ ال?ہي سے ايک وسيع کائنات کي شکل ميں) تعمير کياo",
-                            "verse 91:11": "اور زمين کي قَسم اور اس (قوت) کي قَسم جو اسے (امرِ ال?ہي سے سورج سے کھينچ دور) لے گئيo",
-                            "verse 91:12": "اور زمین کی اور اس کی جس نے اسے پھیلایا",
-                            "verse 91:13": "اور انسان کی اور اس کی جس نے اس (کے اعضا) کو برابر کیا",
-                            "verse 91:14": "اور انساني جان کي قَسم اور اسے ہمہ پہلو توازن و درستگي دينے والے کي قَسمo",
-                            "verse 91:15": "پھر اس نے اسے اس کي بدکاري اور پرہيزگاري (کي تميز) سمجھا ديo",
-                            "verse 91:16": "پھر اس کو بدکاری (سے بچنے) اور پرہیزگاری کرنے کی سمجھ دی",
-                            "verse 91:17": "کہ جس نے (اپنے) نفس (یعنی روح) کو پاک رکھا وہ مراد کو پہنچا",
-                            "verse 91:18": "بيشک وہ شخص فلاح پا گيا جس نے اس (نفس) کو (رذائل سے) پاک کر ليا (اور اس ميں نيکي کي نشو و نما کي)o",
-                            "verse 91:19": "اور بيشک وہ شخص نامراد ہوگيا جس نے اسے (گناہوں ميں) ملوث کر ليا (اور نيکي کو دبا ديا)o",
-                            "verse 91:20": "اور جس نے اسے خاک میں ملایا وہ خسارے میں رہا",
-                            "verse 91:21": "(قوم) ثمود نے اپنی سرکشی کے سبب (پیغمبر کو) جھٹلایا",
-                            "verse 91:22": "ثمود نے اپني سرکشي کے باعث (اپنے پيغمبر صالح عليہ السلام کو) جھٹلاياo",
-                            "verse 91:23": "جبکہ ان ميں سے ايک بڑا بد بخت اٹھاo",
-                            "verse 91:24": "جب ان میں سے ایک نہایت بدبخت اٹھا",
-                            "verse 91:25": "تو خدا کے پیغمبر (صالح) نے ان سے کہا کہ خدا کی اونٹنی اور اس کے پانی پینے کی باری سے عذر کرو",
-                            "verse 91:26": "ان سے ا? کے رسول نے فرمايا: ا? کي (اس) اونٹني اور اس کو پاني پلانے (کے دن) کي حفاظت کرناo",
-                            "verse 91:27": "تو انہوں نے اس (رسول) کو جھٹلا ديا، پھر اس (اونٹني) کي کونچيں کاٹ ڈاليں تو ان کے رب نے ان کے گناہ کي وجہ سے ان پر ہلاکت نازل کر دي، پھر (پوري) بستي کو (تباہ کر کے عذاب ميں سب کو) برابر کر دياo",
-                            "verse 91:28": "مگر انہوں نے پیغمبر کو جھٹلایا اور اونٹنی کی کونچیں کاٹ دیں تو خدا نے ان کیگناہ کے سبب ان پر عذاب نازل کیا اور سب کو (ہلاک کر کے) برابر کر دیا",
-                            "verse 91:29": "اور اس کو ان کے بدلہ لینے کا کچھ بھی ڈر نہیں",
-                            "verse 91:30": "اور ا? کو اس (ہلاکت) کے انجام کا کوئي خوف نہيں ہوتاo نہیں"
-                        }
-                    }
-                }
-            },
-            "uzbek": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 91:1": "Қуёш билан ва унинг зиёси билан қасам.",
-                            "verse 91:2": "Унинг ортидан келадиган Ой билан қасам.",
-                            "verse 91:3": "Ва у(қуёш)ни равшан кўрсатган наҳор билан қасам.",
-                            "verse 91:4": "Ва у(қуёш)ни қоплаган тун билан қасам.",
-                            "verse 91:5": "Ва осмон билан ва унинг бино қилиниши билан қасам.",
-                            "verse 91:6": "Ва ер билан ва унинг тўшалиши билан қасам.",
-                            "verse 91:7": "Ва нафс билан ва унинг бекам-кўст қилиб яратилиши билан қасам.",
-                            "verse 91:8": "Бас, у(нафс)га фужурини ва тақвосини билдирди.",
-                            "verse 91:9": "Батаҳқиқ, ким у(нафс)ни покласа, ютуққа эришади.",
-                            "verse 91:10": "Ва батаҳқиқ, ким у(нафс)ни кирласа, ноумид бўлади.",
-                            "verse 91:11": "Самуд қавми ўз туғёни ила ( Пай ғамбарини) ёлғонга чиқарди.",
-                            "verse 91:12": "Вақтики, (ундаги) энг бадбахт шахс шошилиб турди.",
-                            "verse 91:13": "Бас, уларга Аллоҳнинг Расули «Аллоҳнинг туясига ва унинг сувига тегманглар», деди.",
-                            "verse 91:14": "Бас, уни ёлғончига чиқаришди ва ул(туяни) сўйишди.",
-                            "verse 91:15": "Ва У зот бу ишнинг оқибатидан қўрқмайди."
-                        }
-                    }
-                }
-            }
+        "Albanian": {
+            "verse 91:1": "Betohem në Diellin dhe dritën e tij,",
+            "verse 91:2": "dhe Hënën që e përcjellë",
+            "verse 91:3": "dhe ditën që e bën të dukshëm atë,",
+            "verse 91:4": "dhe natën kur e mbulon",
+            "verse 91:5": "dhe qiellin dhe Atë që e ka ndërtuar (atë);",
+            "verse 91:6": "dhe Tokën dhe Atë që e ka shtruar atë (Tokën),",
+            "verse 91:7": "dhe shpirtin (njeriun e parë) dhe Atë që e krijoi",
+            "verse 91:8": "e ua ka shpjeguar të mirën e të keqen, -",
+            "verse 91:9": "me të vërtetë, ai që e pastron atë (shpirtin), do të jetë i lumtur,",
+            "verse 91:10": "e, me të vërtetë do të humbë ai që e devijon atë (shpirtin)!",
+            "verse 91:11": "Populli i Themudit, nga shfrenimi i vet – ka përgënjeshtruar:",
+            "verse 91:12": "kur nga mesi i tyre u ngrit një fatzezë,",
+            "verse 91:13": "i dërguari i Perëndisë (Salihu), ju tha atyre: “Lëreni deven e Perëndisë dhe kujdesuni për kohën kur duhet të pijë ajo!”",
+            "verse 91:14": "Por ata nuk i besuan (atij), madje e prënë atë (devën) – dhe Zoti i tyre shkatërroi ata për mëkatet e tyre, duke i zhdukur deri në të fundit,",
+            "verse 91:15": "se, Ai, nuk i druan pasojës nga ajo."
+        },
+        "Amharic": {
+            "verse 91:1": "በፀሐይና በብርሃኗ እምላለሁ፡፡",
+            "verse 91:2": "በጨረቃም በተከተላት ጊዜ፤",
+            "verse 91:3": "በቀኑም (ፀሐይን) በገለጻት ጊዜ፤",
+            "verse 91:4": "በሌሊቱም በሸፈናት ጊዜ፤",
+            "verse 91:5": "በሰማይቱም በገነባትም (ጌታ)፤",
+            "verse 91:6": "በምድሪቱም በዘረጋትም፤",
+            "verse 91:7": "በነፍስም ባስተካከላትም፤",
+            "verse 91:8": "አመጽዋንና ፍርሃትዋንም ባሳወቃት (አምላክ እምላለሁ)፡፡",
+            "verse 91:9": "(ከኀጢኣት) ያጠራት ሰው ፍላጎቱን በእርግጥ አገኘ፡፡",
+            "verse 91:10": "(በኀጢኣት) የሸፈናትም ሰው በእውነት አፈረ፡፡",
+            "verse 91:11": "ሠሙድ ወሰን በማለፍዋ አስተባበለች፡፡",
+            "verse 91:12": "ጠማማዋ በተንቀሳቀሰ ጊዜ፡፡",
+            "verse 91:13": "ለእነርሱም የአላህ መልክተኛ (ሷሊህ) «የአላህን ግመል የመጠጥ ተራዋንም (ተጠንቀቁ)» አላቸው፡፡",
+            "verse 91:14": "አስተባበሉትም፡፡ (ቋንጃዋን) ወጓትም፡፡ በኀጢኣታቸውም ምክንያት ጌታቸው (ቅጣትን) በእነርሱ ላይ ደመደመባቸው፤ አስተካከላትም፡፡",
+            "verse 91:15": "ፍጻሜዋንም (የምታስከትለውን) አያፈራም፡፡"
+        },
+        "Arabic": {
+            "verse 91:1": "اَهاَحُضَو ِسْمَّشلاَو",
+            "verse 91:2": "اَهاَلَت اَذِإ ِرَمَقْلاَو",
+            "verse 91:3": "اَهاَّلَج اَذِإ ِراَهَّنلاَو",
+            "verse 91:4": "اَهاَشْغَي اَذِإ ِلْيَّللاَو",
+            "verse 91:5": "اَهاَنَب اَمَو ِءاَمَّسلاَو",
+            "verse 91:6": "اَهاَحَط اَمَو ِضْرَأْلاَو",
+            "verse 91:7": "اَهاَّوَس اَمَو ٍسْفَنَو",
+            "verse 91:8": "اَهاَوْقَتَو اَهَروُجُف اَهَمَهْلَأَف",
+            "verse 91:9": "اَهاَّكَز نَم َحَلْفَأ ْدَق",
+            "verse 91:10": "(اَهاَّسَد نَم َباَخ ْدَقَو",
+            "verse 91:11": "(اَهاَوْغَطِب ُدوُمَث ْتَبَّذَك",
+            "verse 91:12": "(اَهاَقْشَأ َثَعَبنا ِذِإ",
+            "verse 91:13": "(اَهاَيْقُسَو ِهَّللا َةَقاَن ِهَّللا ُلوُسَر ْمُهَل َلاَقَف",
+            "verse 91:14": "(اَهاَّوَسَف ْمِهِبنَذِب مُهُّبَر ْمِهْيَلَع َمَدْمَدَف اَهوُرَقَعَف ُهوُبَّذَكَف",
+            "verse 91:15": "(اَهاَبْقُع ُفاَخَي اَلَو"
+        },
+        "Azerbaijani": {
+            "verse 91:1": "And olsun günəşə və onun saçdığı şəfəqə!",
+            "verse 91:2": "And olsun ondan sonra zühur edən aya!",
+            "verse 91:3": "And olsun günəşi açıqlığa çıxardan gündüzə!",
+            "verse 91:4": "And olsun günəşi bürüyən gecəyə!",
+            "verse 91:5": "And olsun göyə və onu qurana!",
+            "verse 91:6": "And olsun yerə və onu döşəyənə!",
+            "verse 91:7": "And olsun nəfsə və onu yaradıb kamilləşdirənə,",
+            "verse 91:8": "ona günahları və Allahdan qorxmağı təlqin edənə!",
+            "verse 91:9": "Nəfsini günahdan təmizləyən uğur qazanmışdır.",
+            "verse 91:10": "Onu günaha batıran isə ziyana uğramışdır.",
+            "verse 91:11": "Səmud qövmü öz azğınlığı üzündən Allahın elçisini təkzib etdi.",
+            "verse 91:12": "Onların ən bədbəxti dəvəni kəsməyə qalxdıqda",
+            "verse 91:13": "Allahın elçisi onlara dedi: “Allahın bu dişi dəvəsinə toxunmayın və onun su içməsinə mane olmayın!”",
+            "verse 91:14": "Onlar isə peyğəmbəri yalançı sayıb, dəvənin diz vətərini kəsdilər. Onların Rəbbi də bu günahlarına görə onların hamısını qırıb yerlə-yeksan etdi.",
+            "verse 91:15": "Allah günahkarlara etdiyinin nəticəsindən çəkinməz!"
+        },
+        "Bengali": {
+            "verse 91:1": "শপথ সূর্যের ও তার কিরণের,",
+            "verse 91:2": "শপথ চন্দ্রের যখন তা সূর্যের পশ্চাতে আসে,",
+            "verse 91:3": "শপথ দিবসের যখন সে সূর্যকে প্রখরভাবে প্রকাশ করে,",
+            "verse 91:4": "শপথ রাত্রির যখন সে সূর্যকে আচ্ছাদিত করে,",
+            "verse 91:5": "শপথ আকাশের এবং যিনি তা নির্মাণ করেছেন, তাঁর।",
+            "verse 91:6": "শপথ পৃথিবীর এবং যিনি তা বিস্তৃত করেছেন, তাঁর,",
+            "verse 91:7": "শপথ প্রাণের এবং যিনি তা সুবিন্যস্ত করেছেন, তাঁর,",
+            "verse 91:8": "অতঃপর তাকে তার অসৎকর্ম ও সৎকর্মের জ্ঞান দান করেছেন,",
+            "verse 91:9": "যে নিজেকে শুদ্ধ করে, সেই সফলকাম হয়।",
+            "verse 91:10": "এবং যে নিজেকে কলুষিত করে, সে ব্যর্থ মনোরথ হয়।",
+            "verse 91:11": "সামুদ সম্প্রদায় অবাধ্যতা বশতঃ মিথ্যারোপ করেছিল।",
+            "verse 91:12": "যখন তাদের সর্বাধিক হতভাগ্য ব্যক্তি তৎপর হয়ে উঠেছিল।",
+            "verse 91:13": "অতঃপর আল্লাহর রসূল তাদেরকে বলেছিলেনঃ আল্লাহর উষ্ট্রী ও তাকে পানি পান করানোর ব্যাপারে সতর্ক থাক।",
+            "verse 91:14": "অতঃপর ওরা তার প্রতি মিথ্যারোপ করেছিল এবং উষ্ট্রীর পা কর্তন করেছিল। তাদের পাপের কারণে তাদের পালনকর্তা তাদের উপর ধ্বংস নাযিল করে একাকার করে দিলেন।",
+            "verse 91:15": "আল্লাহ তা’আলা এই ধ্বংসের কোন বিরূপ পরিণতির আশংকা করেন না।"
+        },
+        "Berber Amazigh": {
+            "verse 91:1": "S tafugt akked tafat is!",
+            "verse 91:2": "S waggur, mara p ivfeô!",
+            "verse 91:3": "S wass, mi p ifet!",
+            "verse 91:4": "S yiv, mi s isburr!",
+            "verse 91:5": "S igenni, akked Win i t ibnan!",
+            "verse 91:6": "S tmurt, akked Win ip issewsâan!",
+            "verse 91:7": "S teôwiêt, akked Win ip imeslen!",
+            "verse 91:8": "Iwehheb as laâwayeô is, aêezzeb is.",
+            "verse 91:9": "Ni$ irbeê win ip izzazdgen.",
+            "verse 91:10": "Ni$ ixseô win ip itelfen.",
+            "verse 91:11": "Tamud nekkôen, di lbe$wv nnsen.",
+            "verse 91:12": "Mi d ikker umcum mavi nnsen.",
+            "verse 91:13": "Amazan n Öebbi inna yasen: \"tal$wemt n Öebbi, ssewwet ep\"!",
+            "verse 91:14": "Skaddben t; i tel$wemt, gezmen ivaôen. Izâaf fellasen Mass nnsen, ilmend ubekkav nnsen; d$a Isemsawi p.",
+            "verse 91:15": "Ur T icqi w ara iûaôen."
+        },
+        "Bosnian": {
+            "verse 91:1": "Tako Mi Sunca i svjetla njegova,",
+            "verse 91:2": "i Mjeseca kada ga prati,",
+            "verse 91:3": "i dana kada ga vidljivim učini,",
+            "verse 91:4": "i noći kada ga zakloni,",
+            "verse 91:5": "i neba i Onoga koji ga sazda,",
+            "verse 91:6": "i Zemlje i Onoga koji je ravnom učini,",
+            "verse 91:7": "i duše i Onoga koji je stvori",
+            "verse 91:8": "pa joj put dobra i put zla shvatljivim učini,",
+            "verse 91:9": "uspjeće samo onaj ko je očisti,",
+            "verse 91:10": "a biće izgubljen onaj ko je na stranputicu odvodi!",
+            "verse 91:11": "Semud je zbog obijesti svoje poricao:",
+            "verse 91:12": "kad se jedan nesretnik između njih podigao,",
+            "verse 91:13": "Allahov poslanik im je doviknuo: \"Brinite se o Allahovoj kamili i vremenu kad treba da pije!\",",
+            "verse 91:14": "ali mu oni nisu povjerovali, već su je zaklali – i Gospodar njihov ih je zbog grijeha njihovih uništio i do posljednjeg istrijebio,",
+            "verse 91:15": "i ne strahujući zbog toga od odgovornosti."
+        },
+        "Bulgarian": {
+            "verse 91:1": "Кълна се в слънцето и в неговото сияние,",
+            "verse 91:2": "и в луната, която го следва,",
+            "verse 91:3": "и в деня, който го проявява,",
+            "verse 91:4": "и в нощта, която го покрива,",
+            "verse 91:5": "и в небето, и в Онзи, Който го е съградил,",
+            "verse 91:6": "и в земята, и в Онзи, Който я е разпрострял,",
+            "verse 91:7": "и в душата, и в Онзи, Който я е създал,",
+            "verse 91:8": "и на нея е посочил [що е] нечестивост и богобоязливост!",
+            "verse 91:9": "Сполучва онзи, който я пречиства.",
+            "verse 91:10": "А губи онзи, който се омърсява.",
+            "verse 91:11": "Самудяните отричаха поради своето непокорство.",
+            "verse 91:12": "Когато най-злият от тях се втурна към камилата",
+            "verse 91:13": "и пратеникът на Аллах [Салих] им каза: “Не посягайте на камилата на Аллах и не й пречете да пие!”,",
+            "verse 91:14": "ала го взеха за лъжец и я заклаха, - тогава техният Господ ги унищожи заради греха им - поравно.",
+            "verse 91:15": "Не се страхува Той за последствието."
+        },
+        "Chinese": {
+            "verse 91:1": "以太阳及其光辉发誓，",
+            "verse 91:2": "以追随太阳时的月亮发誓，",
+            "verse 91:3": "以揭示太阳时的白昼发誓，",
+            "verse 91:4": "以笼罩太阳时的黑夜发誓，",
+            "verse 91:5": "以苍穹及其建筑者发誓，",
+            "verse 91:6": "以大地及其铺展者发誓，",
+            "verse 91:7": "以灵魂及使它均衡，",
+            "verse 91:8": "并启示他善恶者发誓，",
+            "verse 91:9": "凡培养自己的性灵者，必定成功；",
+            "verse 91:10": "凡戕害自己的性灵者，必定失败。",
+            "verse 91:11": "赛莫德人已因过分而否认真理。",
+            "verse 91:12": "当时，他们中最薄命者忙上前来，",
+            "verse 91:13": "使者就对他们说：你们让真主的母驼自由饮水吧。",
+            "verse 91:14": "但他们否认使者而宰杀母驼，故他们的主因他们的罪过而毁灭他们，使他们普遍受难。",
+            "verse 91:15": "他是不顾虑那灾难的後果的。"
+        },
+        "Danish": {
+            "verse 91:1": "Bij de zon en haar licht",
+            "verse 91:2": "En bij de maan als zij deze volgt",
+            "verse 91:3": "En bij de dag wanneer hij dezs onthult",
+            "verse 91:4": "En bij de nacht, wanneer hij haar bedekt",
+            "verse 91:5": "En bij de hemel en de schepping er van",
+            "verse 91:6": "En bij de aarde en haar uitgestrektheid",
+            "verse 91:7": "En bij de ziel en haar volmaaktheid",
+            "verse 91:8": "Hij openbaarde haar wat slecht en wat goed (voor haar) is",
+            "verse 91:9": "Voorwaar, geslaagd is hij die haar loutert",
+            "verse 91:10": "En voorzeker hij gaat te gronde die haar te gronde richt",
+            "verse 91:11": "De Samoed verloochenden de boodschap in hun opstandigheid",
+            "verse 91:12": "Toen de ongelukkigste onder hen opstond",
+            "verse 91:13": "Zeide de boodschapper van Allah: Laat de kamelin van Allah vrij in haar drinken",
+            "verse 91:14": "Maar zij verloochenden hem en verlamden haar, daarom vernietigde hun Heer hen volkomen om hun zonden en maakte het land met de grond gelijk",
+            "verse 91:15": "En Hij vreest de gevolgen hiervan niet"
+        },
+        "Dutch": {
+            "verse 91:1": "Bij de zon en haar ochtendlicht.",
+            "verse 91:2": "Bij de maan wanneer zij haar (de zon) volgt.",
+            "verse 91:3": "Bij de dag wanneer hij het (duister) verdrijft.",
+            "verse 91:4": "Bij de nacht wanneer hij haar (de aarde) bedekt.",
+            "verse 91:5": "Bij de hemel en Wie haar gebouwd heeft.",
+            "verse 91:6": "Bij de aarde en Wie haar uitgespreid heeft.",
+            "verse 91:7": "Bij de ziel en Wie haar vervolmaakt heeft.",
+            "verse 91:8": "Hij Die haar haar zondigheid en haar vrees (voor Hem) bijgebracht heeft.",
+            "verse 91:9": "Voorwaar, hij die haar (de ziel) loutert, zal welslagen.",
+            "verse 91:10": "En waarlijk verliest hij die haar bederft.",
+            "verse 91:11": "De Tsamoed loochenden in hun buitensporigheid.",
+            "verse 91:12": "Toen de ellendigste onder hen opstond.",
+            "verse 91:13": "Daarop zei de Boodschapper van Allah (Shâlih) tot hen: \"(Sla acht op) de vrouwtjeskameel van Allah en haar drinktijden.\"",
+            "verse 91:14": "Maar zij loochenden hem en slachtten haar. Toen vernietigde hun Heer hen wegens hun zonden en maakte hen met de grond gelijk.",
+            "verse 91:15": "En Hij vreesde de gevolgen daarvan niet."
+        },
+        "English": {
+            "verse 91:1": "By the sun and its brightness",
+            "verse 91:2": "And [by] the moon when it follows it",
+            "verse 91:3": "And [by] the day when it displays it",
+            "verse 91:4": "And [by] the night when it covers it",
+            "verse 91:5": "And [by] the sky and He who constructed it",
+            "verse 91:6": "And [by] the earth and He who spread it",
+            "verse 91:7": "And [by] the soul and He who proportioned it",
+            "verse 91:8": "And inspired it [with discernment of] its wickedness and its righteousness,",
+            "verse 91:9": "He has succeeded who purifies it,",
+            "verse 91:10": "And he has failed who instills it [with corruption].",
+            "verse 91:11": "Thamud denied [their prophet] by reason of their transgression,",
+            "verse 91:12": "When the most wretched of them was sent forth.",
+            "verse 91:13": "And the messenger of Allah [Salih] said to them, \"[Do not harm] the she-camel of Allah or [prevent her from] her drink.\"",
+            "verse 91:14": "But they denied him and hamstrung her. So their Lord brought down upon them destruction for their sin and made it equal [upon all of them].",
+            "verse 91:15": "And He does not fear the consequence thereof."
+        },
+        "Filipino": {
+            "verse 91:1": "At sa pamamagitan ng Araw at sa kanyang marilag na liwanag",
+            "verse 91:2": "At sa pamamagitan ng Buwan kung siya ay sumusubaybay sa kanya (Araw)",
+            "verse 91:3": "At sa pamamagitan ng Maghapon kung ito ay nagpapamalas ng kasikatan (ng Araw)",
+            "verse 91:4": "At sa pamamagitan ng Gabi kung ito ay lumulukob sa kanya (Araw)",
+            "verse 91:5": "At sa pamamagitan ng Kalangitan (Alapaap) at sa Kanya na lumikha roon",
+            "verse 91:6": "At sa pamamagitan ng Kalupaan at Siya na naglatag dito",
+            "verse 91:7": "At sa pamamagitan ng Nafs (si Adan, o tao, o kaluluwa, atbp.), at Siya na lumikha sa kanya nang ganap at angkop na sukat",
+            "verse 91:8": "At Kanyang ipinamalas (sa inspirasyon) sa kanya kung ano ang tumpak at mali",
+            "verse 91:9": "Katotohanang siya na nagpapadalisay ng kanyang sarili ay magtatagumpay (alalaong baga, sumunod at magsagawa ng lahat ng mga ipinag-uutos ni 960 Allah sa pamamagitan ng pagsunod sa Tunay na Pananalig at paggawa ng mga kabutihan)",
+            "verse 91:10": "At katotohanang siya na nagpapasama sa kanyang sarili ay mabibigo (alalaong baga, pagsuway sa mga ipinag-uutos ni Allah sa pamamagitan ng pagtatakwil sa Tunay na Pananalig at pagsamba sa mga diyus-diyosan at paggawa ng mga kasalanan at kabuktutan)",
+            "verse 91:11": "(Ang pamayanan) ni Thamud ay nagtatwa (sa kanilang Propeta) sa pamamagitan ng kanilang paglabag sa kautusan (pagtatakwil sa Tunay na Pananalig at pagsamba sa mga diyus-diyosan at paggawa ng lahat ng uri ng kasalanan)",
+            "verse 91:12": "Pagmasdan! Ang pinakabuktot na tao sa kanilang lipon ay lumantad (upang patayin ang babaeng kamelyo na siyang ipinadala bilang Tanda ni Allah sa Kanyang Propetang si Salih)",
+            "verse 91:13": "Datapuwa’t ang Tagapagbalita ni Allah (Salih) ay nagturing sa kanila: “Maging maingat! Pangambahan ninyo ang masamang kahihinatnan. Iyan ay isang babaeng kamelyo ni Allah! (Siya ay huwag ninyong saktan) at huwag siyang pigilan na uminom!”",
+            "verse 91:14": "Datapuwa’t sila ay nagtakwil sa kanya (bilang huwad na propeta), at kanilang binigti ito (ang babaeng kamelyo). Kaya’t ang kanilang Panginoon ay sumumpa sa kanilang mga kasalanan at winasak silang lahat (mayaman, mahirap, mahina, malakas, mga tahanan, atbp)",
+            "verse 91:15": "At Siya (Allah) ay hindi nangangamba sa anumang kahihinatnan nito (o sa susunod na magaganap)"
+        },
+        "French": {
+            "verse 91:1": "Par le soleil et par sa clarté!",
+            "verse 91:2": "Et par la lune quand elle le suit!",
+            "verse 91:3": "Et par le jour quand il l'éclaire!",
+            "verse 91:4": "Et par la nuit quand elle l'enveloppe!",
+            "verse 91:5": "Et par le ciel et Celui qui l'a construit!",
+            "verse 91:6": "Et par la terre et Celui qui l'a étendue!",
+            "verse 91:7": "Et par l'âme et Celui qui l'a harmonieusement façonnée;",
+            "verse 91:8": "et lui a alors inspiré son immoralité, de même que sa piété!",
+            "verse 91:9": "A réussi, certes, celui qui la purifie.",
+            "verse 91:10": "Et est perdu, certes, celui qui la corrompt.",
+            "verse 91:11": "Les Thamûd, par leur transgression, ont crié au mensonge,",
+            "verse 91:12": "lorsque le plus misérable d'entre eux se leva (pour tuer la chamelle)",
+            "verse 91:13": "Le Messager d'Allah leur avait dit: «La chamelle d'Allah! Laissez-la boire.",
+            "verse 91:14": "Mais, ils le traitèrent de menteur, et la tuèrent. Leur Seigneur les détruisit donc, pour leur péché et étendit Son châtiment sur tous.",
+            "verse 91:15": "Et Allah n'a aucune crainte des conséquences."
+        },
+        "Fulah": {
+            "verse 91:1": "Alla woondarii naange e mbeeta mum",
+            "verse 91:2": "O woondirii lewru sundu rewii e henge",
+            "verse 91:3": "O woondirii ñalawma sombo hunciima",
+            "verse 91:4": "Mi woondarii jemma si mbo arii e niɓɓidde",
+            "verse 91:5": "O woondirii kammu e mahdi mammba",
+            "verse 91:6": "O woondiri leydi O woondiri no ndi wertarii",
+            "verse 91:7": "O woondiri fittaandu e ko foocci ndu",
+            "verse 91:8": "O ɓannginani ndu faajiraagal e kulol Alla",
+            "verse 91:9": "Malaama oon laaɓɓinɗo ndu",
+            "verse 91:10": "Ko goongo pertii oon mutnuɗo fittaandu mum e goopi",
+            "verse 91:11": "Samuudinkooɓe ɓen fenniino Nulaaɓe ɓen",
+            "verse 91:12": "Tuma nde nelaa ɓurɗo hiiteede e mum en",
+            "verse 91:13": "Nelaaɗo Alla maaki ɗum ko ngeloobo njarla ɗaleeba e njaram mabba",
+            "verse 91:14": "ɓe penni mbo ɓe mborii ba, joomiraawo ommbi e dow mum en lepte sabu bakkatuuji mum en O huɓtadi ɓe lepte",
+            "verse 91:15": "O hulaani battane mum"
+        },
+        "German": {
+            "verse 91:1": "Bei der Sonne und ihrer Morgenhelle",
+            "verse 91:2": "und dem Mond, wenn er ihr folgt,",
+            "verse 91:3": "und dem Tag, wenn er sie erscheinen läßt,",
+            "verse 91:4": "und der Nacht, wenn sie sie überdeckt,",
+            "verse 91:5": "und dem Himmel und Dem, Der ihn aufgebaut hat,",
+            "verse 91:6": "und der Erde und Dem, Der sie ausgebreitet hat,",
+            "verse 91:7": "und einer (jeden) Seele und Dem, Der sie zurechtgeformt hat",
+            "verse 91:8": "und ihr dann ihre Sittenlosigkeit und ihre Gottesfurcht eingegeben hat!",
+            "verse 91:9": "Wohl ergehen wird es ja jemandem, der sie läutert,",
+            "verse 91:10": "und enttäuscht sein wird ja, wer sie verkümmern läßt.",
+            "verse 91:11": "Die Tamud erklärten in ihrer Auflehnung (die Botschaft) für Lüge,",
+            "verse 91:12": "als der Unseligste von ihnen sich erhob.",
+            "verse 91:13": "Allahs Gesandter sagte zu ihnen: \"(Achtet auf) Allahs Kamelstute und ihre Trinkzeit.\"",
+            "verse 91:14": "Sie aber bezichtigten ihn der Lüge, und so schnitten sie ihr die Sehnen durch. Da schmetterte ihr Herr sie für ihre Sünde nieder, und so ebnete Er über ihnen die Erde ein.",
+            "verse 91:15": "Und Er (Allah) fürchtet nicht die Folge davon."
+        },
+        "Hausa": {
+            "verse 91:1": "Ina rantsuwa da rãnã da hantsinta.",
+            "verse 91:2": "Kuma da wata idan ya bi ta.",
+            "verse 91:3": "Da yini a lõkacin da ya bayyana ta.",
+            "verse 91:4": "Da dare a lõkacin da ya ke rufe ta.",
+            "verse 91:5": "Da sama da abin da ya gina ta.",
+            "verse 91:6": "Da ƙasã da abin da ya shimfiɗa ta.",
+            "verse 91:7": "Da rai da abin da ya daidaita shi.",
+            "verse 91:8": "Sa'an nan ya sanar da shi fãjircinsa da shiryuwarsa.",
+            "verse 91:9": "Lalle ne wanda ya tsarkake shi (rai) ya sãmi babban rabo.",
+            "verse 91:10": "Kuma lalle ne wanda ya turbuɗe shi (da laifi) ya tãɓe.",
+            "verse 91:11": "Samũdãwa sun ƙaryata (Annabinsu), dõmin girman kansu.",
+            "verse 91:12": "A lõkacin da mafi shaƙãwarsu ya tafi (wurin sõke rãkumar sãlihu).",
+            "verse 91:13": "Sai Manzon Allah ya gaya musu cewa: \"Ina tsõratar da ku ga rãƙumar Allah da ruwan shanta!\"",
+            "verse 91:14": "Sai suka ƙaryata shi, sa'an nan suka sõke ta. Sabõda haka Ubangijinsu Ya darkãke su, sabõda zunubinsu. Sa'an nan Ya daidaita ta (azãbar ga mai laifi da maras laifi).",
+            "verse 91:15": "Kuma bã ya tsõron ãƙibarta (ita halakãwar)."
+        },
+        "Hindi": {
+            "verse 91:1": "सूरज की क़सम और उसकी रौशनी की",
+            "verse 91:2": "और चाँद की जब उसके पीछे निकले",
+            "verse 91:3": "और दिन की जब उसे चमका दे",
+            "verse 91:4": "और रात की जब उसे ढाँक ले",
+            "verse 91:5": "और आसमान की और जिसने उसे बनाया",
+            "verse 91:6": "और ज़मीन की जिसने उसे बिछाया",
+            "verse 91:7": "और जान की और जिसने उसे दुरूस्त किया",
+            "verse 91:8": "फिर उसकी बदकारी और परहेज़गारी को उसे समझा दिया",
+            "verse 91:9": "(क़सम है) जिसने उस (जान) को (गनाह से) पाक रखा वह तो कामयाब हुआ",
+            "verse 91:10": "और जिसने उसे (गुनाह करके) दबा दिया वह नामुराद रहा",
+            "verse 91:11": "क़ौम मसूद ने अपनी सरकशी से (सालेह पैग़म्बर को) झुठलाया,",
+            "verse 91:12": "जब उनमें का एक बड़ा बदबख्त उठ खड़ा हुआ",
+            "verse 91:13": "तो ख़ुदा के रसूल (सालेह) ने उनसे कहा कि ख़ुदा की ऊँटनी और उसके पानी पीने से तअर्रुज़ न करना",
+            "verse 91:14": "मगर उन लोगों पैग़म्बर को झुठलाया और उसकी कूँचे काट डाली तो ख़ुदा ने उनके गुनाहों सबब से उन पर अज़ाब नाज़िल किया फिर (हलाक करके) बराबर कर दिया",
+            "verse 91:15": "और उसको उनके बदले का कोई ख़ौफ तो है नहीं"
+        },
+        "Indonesian": {
+            "verse 91:1": "Demi matahari dan cahayanya di pagi hari,",
+            "verse 91:2": "dan bulan apabila mengiringinya,",
+            "verse 91:3": "dan siang apabila menampakkannya,",
+            "verse 91:4": "dan malam apabila menutupinya,",
+            "verse 91:5": "dan langit serta pembinaannya,",
+            "verse 91:6": "dan bumi serta penghamparannya,",
+            "verse 91:7": "dan jiwa serta penyempurnaannya (ciptaannya),",
+            "verse 91:8": "maka Allah mengilhamkan kepada jiwa itu (jalan) kefasikan dan ketakwaannya.",
+            "verse 91:9": "sesungguhnya beruntunglah orang yang mensucikan jiwa itu,",
+            "verse 91:10": "dan sesungguhnya merugilah orang yang mengotorinya.",
+            "verse 91:11": "(Kaum) Tsamud telah mendustakan (rasulnya) karena mereka melampaui batas,",
+            "verse 91:12": "ketika bangkit orang yang paling celaka di antara mereka,",
+            "verse 91:13": "lalu Rasul Allah (Saleh) berkata kepada mereka: (\"Biarkanlah) unta betina Allah dan minumannya\".",
+            "verse 91:14": "Lalu mereka mendustakannya dan menyembelih unta itu, maka Tuhan mereka membinasakan mereka disebabkan dosa mereka, lalu Allah menyama-ratakan mereka (dengan tanah),",
+            "verse 91:15": "dan Allah tidak takut terhadap akibat tindakan-Nya itu."
+        },
+        "Italian": {
+            "verse 91:1": "Per il sole e il suo fulgore,",
+            "verse 91:2": "per la luna quando lo segue,",
+            "verse 91:3": "per il giorno quando rischiara [la terra],",
+            "verse 91:4": "per la notte quando la copre,",
+            "verse 91:5": "per il cielo e Ciò che lo ha edificato,",
+            "verse 91:6": "per la terra e Ciò che l'ha distesa,",
+            "verse 91:7": "per l'anima e Ciò che l'ha formata armoniosamente",
+            "verse 91:8": "ispirandole empietà e devozione.",
+            "verse 91:9": "Ha successo invero chi la purifica,",
+            "verse 91:10": "è perduto chi la corrompe.",
+            "verse 91:11": "I Thamûd, per arroganza, tacciarono di menzogna,",
+            "verse 91:12": "quando si alzò il più miserabile di loro.",
+            "verse 91:13": "Il Messaggero di Allah aveva detto loro: “[Questa] è la cammella di Allah, [abbia] il suo turno per bere”. [Il profeta Sâlih_ aveva stabilito che la cammella, che Allah (gloria a Lui l'Altissimo) aveva miracolosamente tratto da una roccia, avesse diritto di bere, un giorno su due, all'unica fonte di cui disponevano i Thamûd. In seguito, però, quelli rinnegarono il patto e uccisero la cammella, suscitando la collera e il castigo di Allah. (Vedi anche XI, 64)]",
+            "verse 91:14": "Lo tacciarono di impostura e le tagliarono i garetti: li annientò il loro Signore per il loro peccato,",
+            "verse 91:15": "senza temere [di ciò] alcuna conseguenza."
+        },
+        "Japanese": {
+            "verse 91:1": "太陽とその輝きにおいて，",
+            "verse 91:2": "それに従う月において，",
+            "verse 91:3": "（太陽を）輝き現わす昼において，",
+            "verse 91:4": "それを覆う夜において，",
+            "verse 91:5": "天と，それを打ち建てた御方において，",
+            "verse 91:6": "大地と，それを広げた御方において，",
+            "verse 91:7": "魂と，それを釣合い秩序付けた御方において，",
+            "verse 91:8": "邪悪と信心に就いて，それ（魂）に示唆した御方において（誓う）。",
+            "verse 91:9": "本当にそれ（魂）を清める者は成功し，",
+            "verse 91:10": "それを汚す者は滅びる。",
+            "verse 91:11": "サムード（の民）は，その法外な行いによって（預言者を）嘘付き呼ばわりした。",
+            "verse 91:12": "かれらの中の最も邪悪の者が（不信心のため）立ち上がった時，",
+            "verse 91:13": "アッラーの使徒（サーリフ）はかれらに，「アッラーの雌骼駝である。それに水を飲ませなさい。」と言った。",
+            "verse 91:14": "だがかれらは，かれを嘘付き者と呼び，その膝の腱を切っ（て不具にし）た。それで主は，その罪のためにかれらを滅ぼし，平らげられた。",
+            "verse 91:15": "かれは，その結果を顧慮されない。"
+        },
+        "Jawa": {
+            "verse 91:1": "Dhemi srengenge lan sorote",
+            "verse 91:2": "Dhemi rembulan nalikane mencorong",
+            "verse 91:3": "Dhemi awan nalikane ngatonake srengenge kelawan padhange",
+            "verse 91:4": "Dhemi wengi nalikane nutupi srengenge kelawan petenge",
+            "verse 91:5": "Lan langit sarta yasane",
+            "verse 91:6": "Sarta bumi tuwin gumelare",
+            "verse 91:7": "Apa dene jiwa tuwin sampurnane",
+            "verse 91:8": "Banjur Panjenengane paring weruh kelawan ilham lakuune ala lan becik marang awak mau",
+            "verse 91:9": "Wong kang ngersikake awake saka dosa tetep wong begja",
+            "verse 91:10": "Lan temen kapitunan sapa - sapa sing angregedi jiwane",
+            "verse 91:11": "Bongsa Tsamud gorohake kasunyatan kelawan kesasare",
+            "verse 91:12": "Nalika wong kang cilaka dhewe tangi (jemedhul)",
+            "verse 91:13": "Utusaning Allah (Sholeh) nuli mituturi marang dheweke (Tsamud), \"Aja padha natoni untaning Allah, aja ngarubiru pangombene",
+            "verse 91:14": "Wong Tsamud padha maido (Nabi Sholeh) nuli padha natoni (mbelih) ontane Allah. Pangeran, nuli numpes dheweke marga dosane tumuli sirna kabeh",
+            "verse 91:15": "Pangeran ora kuwatir wekasane (akibate)"
+        },
+        "Kazakh": {
+            "verse 91:1": "Күн және оның жарығымен",
+            "verse 91:2": "әрі оның соңынан ілескен кездегі аймен",
+            "verse 91:3": "және оны күнді анық көрсеткен кездегі күндізбен",
+            "verse 91:4": "әрі оны жапқан кездегі түнмен",
+            "verse 91:5": "Аспан және оны тұрғызғанмен",
+            "verse 91:6": "әрі жермен және оны Жайғанмен",
+            "verse 91:7": "және жанмен әрі оны лайықтап Жасағанмен",
+            "verse 91:8": "сөйтіп оған жанға бұзықтықты әрі тақуалықты Аллаһтың жазасынан қорқып, сақтануды Білдірушімен ант етемін",
+            "verse 91:9": "Оны жанды тазартқан мұратына жетті",
+            "verse 91:10": "Ал, оны күнәға батырған зиянға ұшырады",
+            "verse 91:11": "Шектен шығулары себепті Сәмұд елі Елшіні өтірікшіге шығарды",
+            "verse 91:12": "Сонда олардың ең бақытсызы қозғалғанда",
+            "verse 91:13": "Аллаһтың елшісі Салих оларға: «Аллаһтың түйесіне әрі оның суарылуына тиіспеңдер », деді",
+            "verse 91:14": "Ал, олар болса оны Елшіні өтірікшіге шығарып, оның түйенің тірсегін кесті өлтірді . Сонда, Раббысы олардың қылмыстары үшін бәріне бірдей апат жіберді",
+            "verse 91:15": "Әрі Ол Аллаһ оның салдарынан қауіптенбейді"
+        },
+        "Korean": {
+            "verse 91:1": "태양과 그 빛을 두고 맹세하사태양과 그 빛을 두고 맹세하사",
+            "verse 91:2": "그 뒤를 이은 달을 두고 맹세하며그 뒤를 이은 달을 두고 맹세하며",
+            "verse 91:3": "태양의 영광을 보여주는 낮을두고 맹세하며태양의 영광을 보여주는 낮을두고 맹세하며",
+            "verse 91:4": "그것을 숨기는 밤을 두고 맹 세하며그것을 숨기는 밤을 두고 맹 세하며",
+            "verse 91:5": "하늘과 그것을 세운 주님을 두고 맹세하사하늘과 그것을 세운 주님을 두고 맹세하사",
+            "verse 91:6": "대지와 그것을 펼쳐 놓으신 주님을 두고 맹세하며대지와 그것을 펼쳐 놓으신 주님을 두고 맹세하며",
+            "verse 91:7": "인간과 그것을 창조한 주님을두고 맹세하사인간과 그것을 창조한 주님을두고 맹세하사",
+            "verse 91:8": "선과 악이 무엇인가를 이해하 도록 하셨나니선과 악이 무엇인가를 이해하 도록 하셨나니",
+            "verse 91:9": "스스로를 순결하게 하는 자가 승리자이며스스로를 순결하게 하는 자가 승리자이며",
+            "verse 91:10": "스스로를 불결하게 하는 자 실패한 자라스스로를 불결하게 하는 자 실패한 자라",
+            "verse 91:11": "사무드 백성은 그들의 오만 으로 예언자를 거역하였으매사무드 백성은 그들의 오만 으로 예언자를 거역하였으매",
+            "verse 91:12": "그들 중 가장 사악한 자가 일어섰을 때그들 중 가장 사악한 자가 일어섰을 때",
+            "verse 91:13": "선지자가 그들에게 말하길 그것은 하나님의 암낙타이니 그것 이 물을 마시매 방해하지 말라 하 였으나선지자가 그들에게 말하길 그것은 하나님의 암낙타이니 그것 이 물을 마시매 방해하지 말라 하 였으나",
+            "verse 91:14": "그들은 그를 거역한 후 그 암낙타를 살해하였으니 그 죄악으 로 인하여 주님은 그들을 멸망케 하사 구별없이 완전 멸망케 하셨 노라그들은 그를 거역한 후 그 암낙타를 살해하였으니 그 죄악으 로 인하여 주님은 그들을 멸망케 하사 구별없이 완전 멸망케 하셨 노라",
+            "verse 91:15": "실로 그분은 그 결과에 대하여 조금도 염려하지 아니 하시니라실로 그분은 그 결과에 대하여 조금도 염려하지 아니 하시니라"
+        },
+        "Kurdish": {
+            "verse 91:1": "Bi roj û bi ruhnaya wêسوێند به خۆر و تیشكی خۆراکه له سه‌ره‌تایی ڕۆژدا سه‌رهه‌ڵده‌دا).",
+            "verse 91:2": "Û bi hîva gava li pey (rojê) derdivebeسوێند به مانگ، کاتێك به‌شوێنیدا دێت.",
+            "verse 91:3": "Û bi wî roya gava (roj) ewê (vedike)سوێند به ڕۆژ کاتێک که خۆر ده‌رده‌خات.",
+            "verse 91:4": "Û bi wê şeva gava taritî ewê som dikeسوێند به شه‌و که خۆر داده‌پۆشیت.",
+            "verse 91:5": "Û bi ezman bi avakerê wîسوێند به ئاسمان و به‌و زاته به ده‌سه‌ڵاته‌ی دروستی کردووه‌.",
+            "verse 91:6": "Û bi zemîn û bi wê, ku (zemîn bi gulokî) raxistîyeسوێند به زه‌وی و به‌و زاته‌ی که به‌شێوه‌ی هێلکه‌یی دایناوه‌.",
+            "verse 91:7": "Û bi can û (bi wîyê, ku can) bi rûçikî (afirandîye)سوێند به ده‌روون و ئه‌و زاته‌ی که به ڕێک و پێکی به‌دیهێناوه‌.",
+            "verse 91:8": "Îdî ji bona wî (canî ra) gunehkarî û parisandina (ji gunehan) niqandîyeجا توانای خراپه و چاکه و خوانه‌ناسی و خواناسی تێدا دابین کردووه‌.",
+            "verse 91:9": "Sond dixum! Kîjan canê xwe ji sikatîyan bi parisîne ewa serfiraz bûye(سوێند به‌وانه هه‌موو) به‌ڕاستی ئه‌و که‌سه سه‌رفرازه که نه‌فسی پاک و پوخته کردووه و ئیمان و ترسی خوای تیادا ڕواندووه‌.",
+            "verse 91:10": "Û sond dixum! Kîjan ketibe sikatîyan (ji rêya rast derketibe) bi rastî ewî zîyan kirîyeبێگومان نائومێد بوو ئه‌و که‌سه‌ی نه‌فسی خۆی ناپوخت کرد و ئاڵوده‌ی گوناهو تاوان و خراپه‌ی کرد.",
+            "verse 91:11": "(Komalê)\tSemûd\tji\tqurebûna\txwe\t(Pêxemberê\txwe)\tdabûne derewdêrandinêقه‌ومی ثمود به‌هۆی سه‌رکه‌شی و یاخی بوونیانه‌وه‌، بڕوایان به پێغه‌مبه‌ره‌که‌یان نه‌هێنا.",
+            "verse 91:12": "Gava mêrxasên wan serî hildaneکاتێک شه‌قاوه و خوانه‌ناسترین که‌سیان خۆیی ڕاپسکاند (بۆ سه‌ربڕینی وشتره‌که‌).",
+            "verse 91:13": "Îdî qasêdê Yezdan ji bona wan ra (aha) gotîye: \"hûn dest ji deva Yezdan û ji ava vexarina wê berdinجا پێغه‌مبه‌ری خوا (صاڵح) پێی وتن: واز بهێنن له‌م وشتره که موعجیزه‌ی خوایه‌، مۆڵه‌تی بده‌ن له نۆره ئاوه‌که‌ی خۆیدا ئاو بخواته‌وه‌.",
+            "verse 91:14": "Îdî ewan (mêrxasan pêxember) dane derewdêrandinê; Ewan serê devê jêkirin, îdî Xuda yê wan jî bi sedema gunehê wan şapat li ser wan da pêyweste kir; ewan (bi welatê wan va bi dêrizayî rast kir)که‌چی بڕوایان به هه‌ره‌شه‌کانی نه‌کرد، ئینجا وشتره‌که‌یان سه‌ربڕی، ئه‌وسا ئیتر په‌روه‌ردگاریان وڵاتی کاولکردن و له‌گه‌ڵ زه‌ویدا ته‌ختی کرد به‌سه‌ریاندا و که‌سیان ڕزگاری نه‌بوو (به‌هۆی گوناهو تاوانیانه‌وه‌).",
+            "verse 91:15": "Û (Yezdan bi xweber jî) ji encama (şapatê) natirseله کاتێکدا که خوای به‌ده‌سه‌ڵات له سه‌ره‌نجامی ئه‌و کاره‌یشی هه‌رگیز ناترسێت."
+        },
+        "Kyrgyz": {
+            "verse 91:1": "Күн жана анын жарыгына ант",
+            "verse 91:2": "Анын (Күндүн) артынан келген Айга ант",
+            "verse 91:3": "Жана аны ашкере көргөзгөн күндүзгө ант",
+            "verse 91:4": "Жана аны ороп кала турган түнгө ант",
+            "verse 91:5": "Асманга жана аны (бекем) курганга? ант",
+            "verse 91:6": "Жерге жана аны жайганга ант",
+            "verse 91:7": "Напсиге жана аны (түз жол үстүндө) жаратканга ант!°",
+            "verse 91:8": "Ал (Аллаһ) анын (напсинин) бузукулугуна да, такыбаалыгына да илхам берип койду",
+            "verse 91:9": "Эми, ким напсисин (бузук кулк-мүнөздөн) тазалаган болсо, жеңишке (Бейишке) жетет",
+            "verse 91:10": "Ким аны (күнөө менен) кордогон болсо, (Бейиштен) үмүтсүз калат",
+            "verse 91:11": "Самуд (коому) өзүнүн чектен чыгуусу менен (пайгамбары Салихти) жалганчыга чыгарды",
+            "verse 91:12": "Бир кезде анын эң бактысыз адамы (пайгамбарга берилген моожиза-төөнү союш үчүн) козголду",
+            "verse 91:13": "Аларга Аллаһтын элчиси “Аллаһтын төөсүнө (жамандык кылуудан) жана анын суу ичүүсүнө (тоскоол болуудан абайлагыла. Эгер баш ийбесеңер, силерге Аллаһтын азабы келет!”) деди",
+            "verse 91:14": "Аны “жалганчы” дешти жана (төөнү) союп салышты. Натыйжада (ушул) күнөөлөрү себептүү Раббиси аларды ойрон кылды жана аны (азапты бардыгына) тең кылды",
+            "verse 91:15": "Ал (Аллаһ Таала) бул иштин акыбетинен коркпойт"
+        },
+        "Malay": {
+            "verse 91:1": "Demi matahari dan cahayanya yang terang-benderang;",
+            "verse 91:2": "Dan bulan apabila ia mengiringinya;",
+            "verse 91:3": "Dan siang apabila ia memperlihatkannya dengan jelas nyata;",
+            "verse 91:4": "Dan malam apabila ia menyelubunginya (dengan gelap- gelita),",
+            "verse 91:5": "Demi langit dan Yang membinanya (dalam bentuk yang kuat kukuh - yang melambangkan kekuasaanNya);",
+            "verse 91:6": "Serta bumi dan Yang menghamparkannya (untuk kemudahan makhluk-makhlukNya);",
+            "verse 91:7": "Demi diri manusia dan Yang menyempurnakan kejadiannya (dengan kelengkapan yang sesuai dengan keadaannya);",
+            "verse 91:8": "Serta mengilhamkannya (untuk mengenal) jalan yang membawanya kepada kejahatan, dan yang membawanya kepada bertaqwa; -",
+            "verse 91:9": "Sesungguhnya berjayalah orang yang menjadikan dirinya - yang sedia bersih - bertambah-tambah bersih (dengan iman dan amal kebajikan),",
+            "verse 91:10": "Dan sesungguhnya hampalah orang yang menjadikan dirinya - yang sedia bersih - itu susut dan terbenam kebersihannya (dengan sebab kekotoran maksiat).",
+            "verse 91:11": "(Ingatlah), kaum Thamud telah mendustakan (Rasulnya) dengan sebab perbuatan derhaka mereka yang melampaui batas;",
+            "verse 91:12": "Ketika orang yang paling jahat di antara mereka menerima perintah dari mereka (supaya membunuh unta yang menjadi mukjizat),",
+            "verse 91:13": "Maka berkatalah Rasul Allah (Nabi Soleh) kepada mereka: \" (Janganlah kamu ganggu) unta betina dari Allah itu, dan (janganlah kamu menyekatnya daripada mendapat) air minumnya (supaya kamu tidak ditimpa azab)!\"",
+            "verse 91:14": "(Setelah Nabi Soleh memberi amaran) lalu mereka mendustakannya serta menyembelih unta itu. Dengan sebab dosa mereka, maka Tuhan menimpakan mereka dengan azab yang membinasakan serta Ia meratakan azab itu meliputi mereka (sehingga punah-ranah semuanya).",
+            "verse 91:15": "Dan Allah tidak hiraukan kesudahan (mereka) yang demikian, (kerana itu adalah balasan yang adil)."
+        },
+        "Malayalam": {
+            "verse 91:1": "സൂര്യനും അതിന്‍റെ പ്രഭയും തന്നെയാണ സത്യം.",
+            "verse 91:2": "ചന്ദ്രന്‍ തന്നെയാണ സത്യം; അത് അതിനെ തുടര്‍ന്ന് വരുമ്പോള്‍.",
+            "verse 91:3": "പകലിനെ തന്നെയാണ സത്യം; അത് അതിനെ (സൂര്യനെ) പ്രത്യക്ഷപ്പെടുത്തുമ്പേള്‍",
+            "verse 91:4": "രാത്രിയെ തന്നെയാണ സത്യം; അത് അതിനെ മൂടുമ്പോള്‍.",
+            "verse 91:5": "ആകാശത്തെയും, അതിനെ സ്ഥാപിച്ച രീതിയെയും തന്നെയാണ സത്യം.",
+            "verse 91:6": "ഭൂമിയെയും, അതിനെ വിസ്തൃതമാക്കിയ രീതിയെയും തന്നെയാണ സത്യം.",
+            "verse 91:7": "മനുഷ്യാസ്തിത്വത്തെയും അതിനെ സംവിധാനിച്ച രീതിയെയും തന്നെയാണ സത്യം.",
+            "verse 91:8": "എന്നിട്ട് അതിന്ന് അതിന്‍റെ ദുഷ്ടതയും അതിന്‍റെ സൂക്ഷ്മതയും സംബന്ധിച്ച് അവന്‍ ബോധം നല്‍കുകയും ചെയ്തിരിക്കുന്നു.",
+            "verse 91:9": "തീര്‍ച്ചയായും അതിനെ (അസ്തിത്വത്തെ) പരിശുദ്ധമാക്കിയവന്‍ വിജയം കൈവരിച്ചു.",
+            "verse 91:10": "അതിനെ കളങ്കപ്പെടുത്തിയവന്‍ തീര്‍ച്ചയായും നിര്‍ഭാഗ്യമടയുകയും ചെയ്തു.",
+            "verse 91:11": "ഥമൂദ് ഗോത്രം അതിന്‍റെ ധിക്കാരം മൂലം (സത്യത്തെ) നിഷേധിച്ചു തള്ളുകയുണ്ടായി.",
+            "verse 91:12": "അവരുടെ കൂട്ടത്തിലെ ഏറ്റവും ദുഷ്ടതയുള്ളവന്‍ ഒരുങ്ങി പുറപ്പെട്ട സന്ദര്‍ഭം .",
+            "verse 91:13": "അപ്പോള്‍ അല്ലാഹുവിന്‍റെ ദൂതന്‍ അവരോട് പറഞ്ഞു. അല്ലാഹുവിന്‍റെ ഒട്ടകത്തെയും അതിന്‍റെ വെള്ളം കുടിയും നിങ്ങള്‍ സൂക്ഷിക്കുക",
+            "verse 91:14": "അപ്പോള്‍ അവര്‍ അദ്ദേഹത്തെ നിഷേധിച്ചു തള്ളുകയും അതിനെ (ഒട്ടകത്തെ) അറുകൊല നടത്തുകയും ചെയ്തു. അപ്പോള്‍ അവരുടെ പാപം നിമിത്തം അവരുടെ രക്ഷിതാവ് അവര്‍ക്ക് സമൂല നാശം വരുത്തുകയും (അവര്‍ക്കെല്ലാം) അത് സമമാക്കുകയും ചെയ്തു.",
+            "verse 91:15": "അതിന്‍റെ അനന്തരഫലം അവന്‍ ഭയപ്പെട്ടിരുന്നുമില്ല."
+        },
+        "Norwegian": {
+            "verse 91:1": "Ved solen og dens formiddagsglød!",
+            "verse 91:2": "Ved månen, når den følger den!",
+            "verse 91:3": "Ved dagen, når den lar den lyse!",
+            "verse 91:4": "Ved natten, når den hyller den inn!",
+            "verse 91:5": "Ved himmelen, og Han som bygget den!",
+            "verse 91:6": "Ved jorden, og Han som bredte den ut!",
+            "verse 91:7": "Ved mennesket, og Han som formet det,",
+            "verse 91:8": "og utstyrte det med syndighet og gudsfrykt!",
+            "verse 91:9": "Ham går det godt, som holder seg ren.",
+            "verse 91:10": "Ham går det galt, som lar seg forkomme.",
+            "verse 91:11": "Thamod fornektet i sin oppsetsighet,",
+            "verse 91:12": "da den laveste blant dem stod frem.",
+            "verse 91:13": "Guds sendebud sa til dem: «Guds kamelhoppe! La den drikke!»",
+            "verse 91:14": "Men de holdt ham for løgner og lemlestet den, og så kom Herren over dem for deres synd, og jevnet dem med jorden.",
+            "verse 91:15": "Han var ikke redd for følgene!"
+        },
+        "Pashto": {
+            "verse 91:1": "قسم دى په لمر باندې او د هغه په رڼا باندې",
+            "verse 91:2": "اوسپوږمۍ باندې كله چې په ده پسې وروسته راځي",
+            "verse 91:3": "او په ورځ باندې كله چې دغه (لمر) ښكاره كاندي",
+            "verse 91:4": "او په شپه باندې كله چې دغه (لمر) پټ كاندي (په خپلو تیارو كې)",
+            "verse 91:5": "او په اسمان باندې او په هغه ذات چې دغه يې جوړ كړى دى",
+            "verse 91:6": "او په ځمكه باندې او په هغه ذات چې دغه (ځمكه) يې غوړولې ده",
+            "verse 91:7": "او په نفس باندې او په هغه ذات چې دغه يې ښه برابر كړى دى",
+            "verse 91:8": "نو ده ته يې د ده بدي او د ده تقوٰی (نېكي) الهام كړې (او ورښودلې) ده",
+            "verse 91:9": "چې یقینًا كامیاب شو هغه څوك چې دغه (نفس) يې پاك كړ",
+            "verse 91:10": "او یقینًا نامراده شو هغه څوك چې دغه (نفس) يې په خاورو كې پټ كړ",
+            "verse 91:11": "ثمودیانو د خپلې سركشۍ په سبب (د رسولانو) تكذیب كړى و",
+            "verse 91:12": "كله چې د دوى لوى بدبخت راپورته شو",
+            "verse 91:13": "نو دوى ته د الله رسول وویل: تاسو د الله اوښه او د هغې اوبه څښل پرېږدئ",
+            "verse 91:14": "نو دوى د هغه تكذیب وكړ (دروغجن يې وګاڼه) نو دوى د هغې پړكي (لينګي) پرې كړل (او مړه يې كړه) نو په دوى باندې د دوى رب د خپلو ګناهونو په سبب راګېروونكى عذاب راولېږه، نو دغه (ټول) يې (په هلاكت كې) برابر كړل",
+            "verse 91:15": "او دى (الله) د دغه (هلاكت او عذاب) له انجام نه نه وېرېږي"
+        },
+        "Persian": {
+            "verse 91:1": "سوگند به آفتاب و روشنى‌اش به هنگام چاشت،",
+            "verse 91:2": "و سوگند به ماه چون از پى آن برآيد،",
+            "verse 91:3": "و سوگند به روز چون گيتى را روشن كند،",
+            "verse 91:4": "و سوگند به شب چون فرو پوشدش،",
+            "verse 91:5": "و سوگند به آسمان و آن كه آن را بر آورده،",
+            "verse 91:6": "و سوگند به زمين و آن كه آن را بگسترده،",
+            "verse 91:7": "و سوگند به نفس و آن كه نيكويش بيافريده -",
+            "verse 91:8": "سپس بديها و پرهيزگاريهايش را به او الهام كرده -",
+            "verse 91:9": "كه: هر كه در پاكى آن كوشيد رستگار شد،",
+            "verse 91:10": "و هر كه در پليدى‌اش فرو پوشيد نوميد گرديد.",
+            "verse 91:11": "قوم ثمود از روى سركشى تكذيب كردند.",
+            "verse 91:12": "آنگاه كه شقى ترينشان برخاست.",
+            "verse 91:13": "پيامبر خدا به آنها گفت كه ماده‌شتر خدا را با آبشخورش واگذاريد.",
+            "verse 91:14": "تكذيبش كردند و شتر را پى كردند. پس پروردگارشان به سبب گناهشان بر سرشان عذاب آورد و با خاك يكسان ساخت.",
+            "verse 91:15": "و او از سرانجام آن بيمناك نشد."
+        },
+        "Polish": {
+            "verse 91:1": "Na słońce i na jego jasność poranną!",
+            "verse 91:2": "Na księżyc, kiedy po nim następuje!",
+            "verse 91:3": "Na dzień, kiedy jaśnieje jego blaskiem!",
+            "verse 91:4": "Na noc, kiedy okrywa je ciemnością!",
+            "verse 91:5": "Na niebo i na Tego, który je zbudował!",
+            "verse 91:6": "Na ziemię i na Tego, który ją rozpostarł!",
+            "verse 91:7": "Na duszę i na Tego, który ją ukształtował!",
+            "verse 91:8": "I dał jej skłonność - do nieprawości i bojaźni Bożej.",
+            "verse 91:9": "Pomyślność osiągnął ten, kto ją oczyścił,",
+            "verse 91:10": "Lecz poniósł stratę ten, kto ją zaciemnił!",
+            "verse 91:11": "Odrzucił prawdę lud Samud przez swój bunt,",
+            "verse 91:12": "Kiedy się podniósł najnędzniejszy z nich.",
+            "verse 91:13": "I powiedział do nich posłaniec Boga: \"Oto wielbłądzica Boga! Dajcie jej pić!\"",
+            "verse 91:14": "A oni uznali go za kłamcę i podcięli jej ścięgna. Wtedy Pan zniszczył ich całkowicie za ten grzech i zrównał,",
+            "verse 91:15": "Nie obawiając się żadnych następstw."
+        },
+        "Portuguese": {
+            "verse 91:1": "Pelo sol e pelo seu esplendor (matinal),",
+            "verse 91:2": "Pela lua, que o segue,",
+            "verse 91:3": "Pelo dia, que o revela,",
+            "verse 91:4": "Pela noite, que o encobre.",
+            "verse 91:5": "Pelo firmamento e por Quem o construiu,",
+            "verse 91:6": "Pela terra e por Quem a dilatou,",
+            "verse 91:7": "Pela alma e por Quem aperfeiçoou,",
+            "verse 91:8": "E lhe imprimiu o discernimento entre o que é certo e o que é errado,",
+            "verse 91:9": "Que será venturoso quem a purificar (a alma),",
+            "verse 91:10": "E desventurado quem a corromper.",
+            "verse 91:11": "A tribo de Tamud, por suas transgressões, desmentiu o seu mensageiro.",
+            "verse 91:12": "E o mais perverso deles se incumbiu (de matar a camela).",
+            "verse 91:13": "Porém, o mensageiro de Deus lhes disse: É a camela de Deus! Não a priveis da sua bebida!",
+            "verse 91:14": "Porém, desmentiram-no e a esquartejaram, pelo que o seu Senhor os exterminou, pelos seus pecados, a todos por igual.",
+            "verse 91:15": "E Ele não teme as conseqüências."
+        },
+        "Punjabi": {
+            "verse 91:1": "ਸੰਹੁ ਹੈ ਸੂਰਜ ਦੀ ਅਤੇ ਉਸ ਦੀ ਧੁੱਪ ਦੀ।",
+            "verse 91:2": "ਅਤੇ ਚੰਨ ਦੀ ਜਦੋਂ ਉਹ ਸੂਰਜ ਦੇ ਪਿੱਛੇ ਨਿਕਲੇ।",
+            "verse 91:3": "ਅਤੇ ਦਿਨ ਦੀ, ਜਦੋਂ ਉਹ ਉੱਸ ਨੂੰ ਪ੍ਰਕਾਸ਼ਮਈ ਕਰ ਦੇਵੇ।",
+            "verse 91:4": "ਅਤੇ ਰਾਤ ਦੀ ਜਦੋਂ ਉਹ ਉਸ ਨੂੰ ਛਿਪਾ ਲਵੇ।",
+            "verse 91:5": "ਅਤੇ ਆਕਾਸ਼ ਦੀ, ਅਤੇ (ਉਸ ਦੀ) ਜਿਸ ਨੇ ਉਸ ਨੂੰ ਪੈਦਾ ਕੀਤਾ।",
+            "verse 91:6": "ਅਤੇ ਧਰਤੀ ਦੀ ਅਤੇ (ਉਸ ਦੀ) ਜਿਸ ਨੇ ਇਸ ਨੂੰ ਫ਼ੈਲਾਇਆ।",
+            "verse 91:7": "ਅਤੇ ਜਾਨ ਦੀ ਅਤੇ (ਉਸ ਦੀ) ਜਿਸ ਨੇ ਇਸ ਨੂੰ ਠੀਕ ਕੀਤਾ।",
+            "verse 91:8": "ਫਿਰ ਇਸ ਨੂੰ ਅਕਲ ਦਿੱਤੀ। ਉਸ ਦੀ ਬੁਰਾਈ ਦੀ ਅਤੇ ਭਲਾਈ ਦੀ।",
+            "verse 91:9": "ਸਫ਼ਲ ਹੋਇਆ, ਜਿਸਨੇ ਉਸ (ਰੂਹ) ਨੂੰ ਪਵਿੱਤਰ ਕੀਤਾ।",
+            "verse 91:10": "ਅਤੇ ਅਸਫ਼ਲ ਹੋਇਆ, ਜਿਸ ਨੇ ਉਸ ਨੂੰ ਮੈਲਾ ਕੀਤਾ।",
+            "verse 91:11": "ਸਮੂਦ ਨੇ ਆਪਣੇ ਬਾਗ਼ੀਪੁਣੇ ਕਾਰਣ ਝੁਠਲਾਇਆ।",
+            "verse 91:12": "ਜਦੋਂ ਉਨ੍ਹਾਂ ਵਿਚੋਂ ਇੱਕ ਬਹੁਤ ਮੰਦਭਾਗਾ ਉੱਠ ਖੜ੍ਹਾ ਹੋਇਆ।",
+            "verse 91:13": "ਤਾਂ ਅੱਲਾਹ ਦੇ ਰਸੂਲ ਨੇ ਉਨ੍ਹਾਂ ਨੂੰ ਆਖਿਆ, ਕਿ ਅੱਲਾਹ ਦੀ ਊਠਨੀ ਅਤੇ ਉਸ ਦੇ ਪਾਣੀ ਪੀਣ ਤੋਂ ਸਾਵਧਾਨ ਹੋ ਜਾਵੋ।",
+            "verse 91:14": "ਤਾਂ ਉਨ੍ਹਾਂ ਨੇ ਉਸ ਨੂੰ ਝੁਠਲਾਇਆ, ਫਿਰ ਊਠਨੀ ਨੂੰ ਮਾਰ ਦਿੱਤਾ। ਫਿਰ ਉਨ੍ਹਾਂ ਦੇ ਰੱਬ ਨੇ ਉਨ੍ਹਾਂ ਦੇ ਪਾਪਾਂ ਦੇ ਕਾਰਨ ਉਨ੍ਹਾਂ ਤੇ ਆਫ਼ਤ ਭੇਜੀ। ਫਿਰ ਸਾਰਿਆਂ ਨੂੰ ਤਬਾਹ ਕਰ ਦਿੱਤਾ। ਫਿਰ ਸਭ ਨੂੰ ਬ਼ਰਾਬ਼ਰ ਕਰ ਦਿੱਤਾ।",
+            "verse 91:15": "ਉਹ ਨਹੀਂ ਡਰਦਾ, ਕਿ ਉਸ ਤੋਂ ਪਿਛੋਂ ਕੀ ਹੋਵੇਗਾ।"
+        },
+        "Roman english": {
+            "verse 91:1": "Wash shamsi wa duhaa haa",
+            "verse 91:2": "Wal qamari izaa talaa haa",
+            "verse 91:3": "Wannahaari izaa jallaa haa",
+            "verse 91:4": "Wallaili izaa yaghshaa haa",
+            "verse 91:5": "Wassamaaa`i wa maa banaahaa",
+            "verse 91:6": "Wal ardi wa maa tahaahaa",
+            "verse 91:7": "Wa nafsinw wa maa sawwaahaa",
+            "verse 91:8": "Fa-alhamahaa fujoorahaa wa taqwaahaa",
+            "verse 91:9": "Qad aflaha man zakkaahaa",
+            "verse 91:10": "Wa qad khaaba man dassaahaa",
+            "verse 91:11": "Kazzabat Samoodu bi taghwaahaaa",
+            "verse 91:12": "Izim ba`asa ashqaahaa",
+            "verse 91:13": "Faqaala lahum Rasoolul laahi naaqatal laahi wa suqiyaahaa",
+            "verse 91:14": "Fakazzaboohu fa`aqaroohaa fadamdama `alaihim Rabbuhum bizambihim fasaw waahaa",
+            "verse 91:15": "Wa laa yakhaafu`uqbaahaa"
+        },
+        "Russian": {
+            "verse 91:1": "В знак солнца и сияния его",
+            "verse 91:2": "И в знак луны, что следует за ним,",
+            "verse 91:3": "В знак дня, когда он раскрывает свет,",
+            "verse 91:4": "В знак ночи той, Когда (на солнце) свой покров она накинет, -",
+            "verse 91:5": "Клянусь небесным сводом И (совершенством) тем, с каким он сотворен,",
+            "verse 91:6": "Клянусь землей И тем, как распростерт ее покров,",
+            "verse 91:7": "И всякою душой, И соразмерностью ее (Для проживания на сей земле),",
+            "verse 91:8": "Ее прозрением о том, что праведно, что скверно, -",
+            "verse 91:9": "Поистине, восторжествует тот, Кто чистоту ее блюдет,",
+            "verse 91:10": "Потерпит пораженье тот, Кто развратит ее!",
+            "verse 91:11": "Отвергли своего пророка самудяне, Творя чрезмерные грехи,",
+            "verse 91:12": "И вот злосчастнейший из них Был избран для греха.",
+            "verse 91:13": "Посланник же Аллаха им сказал: \"Его верблюдица (пред вами), И вы должны ей не мешать испить воды\".",
+            "verse 91:14": "Они сочли его лжецом И ей подрезали (колени). И вот за это прегрешенье Господь растряс под ними землю, Затем над ними Он сровнял ее.",
+            "verse 91:15": "Ведь для Него не существует страха За следствие (Его свершений)."
+        },
+        "Sindhi": {
+            "verse 91:1": "سج ۽ اُن جي سوجھري جو قسم آھي.",
+            "verse 91:2": "۽ چنڊ جوقسم آھي جڏھن ان جي پوئتان اچي.",
+            "verse 91:3": "۽ ڏينھن جو (قسم آھي) جڏھن سج کي روشن ڪري.",
+            "verse 91:4": "۽ رات جو (قسم آھي) جڏھن سج کي ڍڪي.",
+            "verse 91:5": "۽ آسمان جو ۽ اُن جو (قسم آھي) جنھن اُن کي بڻايو.",
+            "verse 91:6": "۽ زمين جو ۽ اُنجو (قسم آھي) جنھن اُن کي پکيڙيو.",
+            "verse 91:7": "۽ (ماڻھوءَ جي) جيءُ جو ۽ اُنجو (قسم آھي) جنھن اُن کي جوڙي برابر ڪيو.",
+            "verse 91:8": "پوءِ سندس بدڪاري ۽ سندس پرھيزگاريءَ (جي سڃاڻ) اندر ۾ وڌائينس.",
+            "verse 91:9": "جنھن اُن (نفس) کي (بدڪاريءَ کان) پاڪ ڪيو سو بيشڪ ڇٽو.",
+            "verse 91:10": "۽ جنھن اُن کي (گناھن ۾) پوري ڇڏيو سو بيشڪ ٽوٽي وارو ٿيو.",
+            "verse 91:11": "(قوم) ثمود پنھنجي سرڪشيءَ سببان (پيغمبر کي) ڪوڙو ڀانيو.",
+            "verse 91:12": "جڏھن منجھانئن بلڪل نڀاڳو اُٿيو.",
+            "verse 91:13": "پوءِ الله جي پيغمبر کين چيو ته الله جي ڏاچي ۽ اُن جي پاڻي پيڻ کي آڏو نه ٿيو.",
+            "verse 91:14": "پوءِ پيغمبر کي ڪوڙو ڀانيائون پوءِ ڏاچيءَ جو کُچون ڪپيائون، پوءِ سندن گناھن سببان سندن پالڻھار مٿن عذاب پلٽيو پوءِ اُن (سزا) کي (سڀني) تي ھڪ جھڙو ڪري ڇڏيائين.",
+            "verse 91:15": "۽ (الله) اُن (سزا) جي پڇاڙيءَ کان نه ٿو ڊڄي."
+        },
+        "Sinhalese": {
+            "verse 91:1": "හිරු හා එහි ප්‍රභාව මත දිවුරමින්.",
+            "verse 91:2": "එය පසුපසින් හඹා යන සඳු මත ද දිවුරමින්.",
+            "verse 91:3": "දහවල එය ඔප් නංවන විට එය මත ද දිවුරමින්.",
+            "verse 91:4": "රාත්‍රිය එය ආවරණය කරන විට එය මත ද දිවුරමින්.",
+            "verse 91:5": "අහස හා එය ගොඩ නැගූ අය මත ද දිවුරමින්.",
+            "verse 91:6": "පොළොව හා එය ව්යාප්ත කළ අය මත ද දිවුරමින්.",
+            "verse 91:7": "ආත්මය හා එය සැකසූ අය මත ද දිවුරමින්,",
+            "verse 91:8": "ඔහු එ(ම ආත්ම)යට එහි නපුර ද එහි ධාර්මිකතාව ද ප්‍රවේශ කළේය.",
+            "verse 91:9": "සැබැවින්ම කවරෙක් එ(ම ආත්ම)ය පවිත්‍ර කර ගත්තේ ද ඔහු ජය ලැබීය.",
+            "verse 91:10": "තවද සැබැවින්ම කවරෙක් එය පාපයෙහි ගිල් වූයේ ද ඔහු පරාජයට පත් විය.",
+            "verse 91:11": "සමූද් ජනයා තම සීමා ඉක්මවා යමින් බොරු කළෝය.",
+            "verse 91:12": "ඔවුන්ගේ අභාග්‍යවන්තයා නැගී සිටි විට,",
+            "verse 91:13": "මෙය අල්ලාහ්ගේ ඔටු දෙනයි. තවද උගේ පැන් බොන ස්ථානයයි යැයි අල්ලාහ්ගේ දූතයා ඔවුනට පැවසුවේය.",
+            "verse 91:14": "එවිට ඔවුහු ඔහු ව බොරු කළෝය. පසුව උගේ නහර කපා දැමුවෝය. එබැවින් ඔවුන්ගේ පරමාධිපති ඔවුන්ගේ පාපය හේතුවෙන් ඔවුන් මත වේදනාව පහළ කර සුනු විසුනු කළේය. එමෙන්ම ඔවුන් ව සමතලා කර දැමුවේය.",
+            "verse 91:15": "තවද එහි අවසානය ගැන ඔහු බියවන්නේ නැත."
+        },
+        "Somali": {
+            "verse 91:1": "Eebe wuxuu ku dhaartay Qorraxda iyo Barqinkeeda.",
+            "verse 91:2": "Iyo Dayuxu markuu Qorraxda raaco.",
+            "verse 91:3": "Iyo Maalintu markay ifiso.",
+            "verse 91:4": "Iyo Habeenku markuu daboolo (madoobaado).",
+            "verse 91:5": "Iyo Samada iyo say u dhisantahay.",
+            "verse 91:6": "Iyo Dhulka iyo suu u fidsanyahay.",
+            "verse 91:7": "Iyo Nafta iyo sida Eebe u ekeeyay.",
+            "verse 91:8": "Una tusiyay Jidka xun iyo ka Eebe kayaabiddaba.",
+            "verse 91:9": "Ee waxaa liibaanay Ruxii Naftiisa Daarhiriya.",
+            "verse 91:10": "Waxaana khasaaray Ruuxii Naftiisa xumaan dhex galiya.",
+            "verse 91:11": "Thamuud waxay beeniyeen (xaqii) kibir dartiis.",
+            "verse 91:12": "Marku tagay koodi xumaa (si uu hasha u dilo).",
+            "verse 91:13": "Oo Rasuulkii Eebana ku yidhi, iska daaya Hasha Eebe iyo Cabbideeda.",
+            "verse 91:14": "Wayna beeniyeen Rasuulkii Hashiina way Dileen markaasaa Eebe si daran u caddibay Dambigooda dartiis.",
+            "verse 91:15": "Isagoon Eebe ka yaabaynin cidhib (iyo wax yeello)"
+        },
+        "Spanish": {
+            "verse 91:1": "Por el sol y su claridad matinal!",
+            "verse 91:2": "Por la luna cuando lo sigue!",
+            "verse 91:3": "Por el día cuando lo descubre!",
+            "verse 91:4": "Por la noche cuando lo cubre!",
+            "verse 91:5": "Por el cielo y cómo fue edificado!",
+            "verse 91:6": "Por la tierra y cómo fue extendida!",
+            "verse 91:7": "Por un alma y Quien la modeló!",
+            "verse 91:8": "Y le infundió su rebeldía y su obediencia.",
+            "verse 91:9": "Que habrá triunfado el que la purifique",
+            "verse 91:10": "y habrá perdido quien la lleve al extravío.",
+            "verse 91:11": "Los Zamud, por su exceso, negaron la verdad.",
+            "verse 91:12": "Cuando el más miserable de ellos tuvo la osadía.",
+            "verse 91:13": "Y el Mensajero de Allah les dijo: La camella de Allah y su turno de bebida!",
+            "verse 91:14": "Pero lo negaron y la desjarretaron.Y su Señor los aniquiló por su atrocidad, arrasándolos.",
+            "verse 91:15": "Y no temió sus consecuencias."
+        },
+        "Swahili": {
+            "verse 91:1": "Naapa kwa jua na mwangaza wake!",
+            "verse 91:2": "Na kwa mwezi unapo lifuatia!",
+            "verse 91:3": "Na kwa mchana unapo lidhihirisha!",
+            "verse 91:4": "Na kwa usiku unapo lifunika!",
+            "verse 91:5": "Na kwa mbingu na kwa aliye ijenga!",
+            "verse 91:6": "Na kwa ardhi na kwa aliye itandaza!",
+            "verse 91:7": "Na kwa nafsi na kwa aliye itengeneza!",
+            "verse 91:8": "Kisha akaifahamisha uovu wake na wema wake,",
+            "verse 91:9": "Hakika amefanikiwa aliye itakasa,",
+            "verse 91:10": "Na hakika amekhasiri aliye iviza.",
+            "verse 91:11": "Kina Thamudi walikadhibisha kwa sababu ya upotofu wao,",
+            "verse 91:12": "Alipo simama mwovu wao mkubwa,",
+            "verse 91:13": "Hapo Mtume wa Mwenyezi Mungu alipo waambia: Huyu ni ngamia wa Mwenyezi Mungu, mwacheni anywe maji fungu lake.",
+            "verse 91:14": "Lakini walimkadhibisha na wakamchinja ngamia, kwa hivyo Mola wao Mlezi aliwaangamiza kwa sababu ya dhambi zao na akawafuta kabisa.",
+            "verse 91:15": "Wala Yeye haogopi matokeo yake."
+        },
+        "Swedish": {
+            "verse 91:1": "VID SOLEN och dess [bländande] sken,",
+            "verse 91:2": "och vid månen, när den lånar dess ljus!",
+            "verse 91:3": "Vid dagen, när den gör [jorden] synlig,",
+            "verse 91:4": "och vid natten, när den sveper [världen] i mörker!",
+            "verse 91:5": "Vid himlen och Den som har rest dess [valv],",
+            "verse 91:6": "och vid jorden och Den som har brett ut dess [yta]!",
+            "verse 91:7": "Vid människans väsen och Den som har format henne [med sikte på den uppgift som hon skall fylla],",
+            "verse 91:8": "och nedlagt i henne både syndfullhet och gudsfruktan.",
+            "verse 91:9": "Helt visst skall det gå den väl i händer som [i detta liv] strävar efter att rena [sin själ],",
+            "verse 91:10": "men den som begraver den [i synd och mörker] skall gå mot fördärvet.",
+            "verse 91:11": "I SITT trotsiga högmod förnekade [stammen] Thamud sanningen",
+            "verse 91:12": "och den uslaste bland dem störtade fram [för att utföra sin gemena handling],",
+            "verse 91:13": "trots att Guds sändebud sade till dem: \"[Detta är] Guds kamelsto; vattna henne [och låt henne inte komma till skada]!\"",
+            "verse 91:14": "Men de påstod att han ljög, och så slaktades kamelstoet på det grymma sättet - varpå deras Herre lät straffet drabba dem och förgjorde dem till sista man på grund av deras synd;",
+            "verse 91:15": "ingen [av dem] fruktade nämligen följderna [av dådet]."
+        },
+        "Tajik": {
+            "verse 91:1": "Савганд ба офтоб ва равшаниаш ба ҳангоми чошт",
+            "verse 91:2": "ва савганд ба моҳ чун аз паи он барояд",
+            "verse 91:3": "ва савганд, ба рӯз, чун дунёро равшан кунад",
+            "verse 91:4": "ва савганд ба шаб, чун рӯзро бипушад",
+            "verse 91:5": "ва савганд ба осмону он ки онро бино карда",
+            "verse 91:6": "ва савганд ба замину он ки онро бигустурда",
+            "verse 91:7": "ва савганд, ба нафсу он ки некӯяш биёфарида,",
+            "verse 91:8": "сипас бадиҳову парҳезгориҳояшро ба ӯ илҳом карда,",
+            "verse 91:9": "ки ҳар ки дар покии нафс кӯшид, наҷот ёфт",
+            "verse 91:10": "ва ҳар кӣ дар палидиаш кӯшид, зиён кард.",
+            "verse 91:11": "Қавми Самуд аз рӯи саркашӣ дурӯғ бароварданд.",
+            "verse 91:12": "Он гоҳ ки бадбахттаринашон бархост.",
+            "verse 91:13": "Паёмбари Худо ба онҳо гуфт, ки модашутури Худрро бо навбати оби ӯро бигузоред!",
+            "verse 91:14": "Ӯро дурӯғ бароварданд ва шутурро куштанд. Пас Парвардигорашои ба сабаби гуноҳашод бар сарашон азоб овард ва бо хок яксон сохт.",
+            "verse 91:15": "Ва Ӯ аз оқибати он наметарсад."
+        },
+        "Tamil": {
+            "verse 91:1": "சூரியன் மீதும், அதன் பிரகாசத்தின் மீதும் சத்தியமாக",
+            "verse 91:2": "(பின்) அதனைத் தொடர்ந்து வரும் சந்திரன் மீதும் சத்தியமாக-",
+            "verse 91:3": "(சூரியனால்) பகல் வெளியாகும்போது, அதன் மீதும் சத்தியமாக-",
+            "verse 91:4": "(அப்பகலை) மூடிக்கொள்ளும் இரவின் மீதும் சத்தியமாக-",
+            "verse 91:5": "வானத்தின் மீதும், அதை(ஒழுங்குற) அமைந்திருப்பதின் மீதும் சத்தியமாக-",
+            "verse 91:6": "பூமியின் மீதும், இன்னும் அதை விரித்ததின் மீதும் சத்தியமாக-",
+            "verse 91:7": "ஆத்மாவின் மீதும், அதை ஒழுங்குபடுத்தியவன் மீதும் சத்தியமாக-",
+            "verse 91:8": "அப்பால், அவன் (அல்லாஹ்) அதற்கு அதன் தீமையையும், அதன் நன்மையையும் உணர்த்தினான்.",
+            "verse 91:9": "அதை (ஆத்மாவை)ப் பரிசுத்தமாக்கியவர் திடமாக வெற்றியடைந்தார்.",
+            "verse 91:10": "ஆனால் எவன் அதை(ப் பாவத்தில்) புகுத்தினானோ அவன் திட்டமாகத் தோல்வி அடைந்தான்.",
+            "verse 91:11": "'ஸமூது' (கூட்டத்தினர்) தங்கள் அக்கிரமத்தினால் (ஸாலிஹ் நபியைப்) பொய்ப்பித்தனர்.",
+            "verse 91:12": "அவர்களில் கேடுகெட்ட ஒருவன் விரைந்து முன் வந்தபோது,",
+            "verse 91:13": "அல்லாஹ்வின் தூதர் (ஸாலிஹ்) அவர்களை நோக்கி: \"இப் பெண் ஒட்டகம் அல்லாஹ்வுடையது, இது தண்ணீர் அருந்த(த் தடை செய்யாது) விட்டு விடுங்கள்\" என்று கூறினார்.",
+            "verse 91:14": "ஆனால், அவர்கள் அவரைப் பொய்ப்பித்து, அதன் கால் நரம்பைத் தறித்து விட்டனர் - ஆகவே, அவர்களின் இந்தப் பாவத்தின் காரணமாக அவர்களுடைய இறைவன் அவர்கள் மீது வேதனையை இறக்கி, அவர்கள் யாவரையும் (அழித்துச்) சரியாக்கி விட்டான்.",
+            "verse 91:15": "அதன் முடிவைப் பற்றி அவன் பயப்படவில்லை."
+        },
+        "Tatar": {
+            "verse 91:1": "Кояш белән вә аның нуры белән ант итәм.",
+            "verse 91:2": "Вә ай белән, әгәр ул кояшка иярсә.",
+            "verse 91:3": "Вә көндез белән, әгәр ул караңгылыкны капласа.",
+            "verse 91:4": "Вә төн белән, әгәр яктылыкны капласа.",
+            "verse 91:5": "Вә күк һәм аны бина итүче Аллаһ белән ант итәм.",
+            "verse 91:6": "Вә җир һәм аны түшәүче Аллаһ белән ант итәм.",
+            "verse 91:7": "Вә нәфес белән һәм нәфесне үз файдасына яраклы иткән Аллаһ белән ант итәм.",
+            "verse 91:8": "Өйрәтте Аллаһ ул нәфескә явызлыкны һәм өйрәтте тәкъвалекне, яхшылыкны.",
+            "verse 91:9": "Тәхкыйк коткарды нәфесен гөнаһтан, аны пакьлаган кеше.",
+            "verse 91:10": "Тәхкыйк Аллаһуның нигъмәтләреннән мәхрүм булды, җаһиллек белән нәфесен гөнаһка чумырган кеше.",
+            "verse 91:11": "Сәмуд кавеме пәйгамбәрләрне ялганга тотты, нәфесләренең чиктән чыгуы сәбәпле.",
+            "verse 91:12": "Дөяне үтерергә ашыктылар Сәмуд кавеменең явызлары.",
+            "verse 91:13": "Аларга Аллаһуның расүле Салих г-м: \"Аллаһ дөясенә зарар тидерүдән һәм дөянең өлеше булган суны алудан сакланыгыз\", – диде.",
+            "verse 91:14": "Алар исә Салихны ялганга тоттылар һәм дөяне бугазладылар, Раббылары аларны ґәзаб белән каплады, үзләренең гөнаһлары сәбәпле аларга ґәзабны һәммәсенә тигез бирде.",
+            "verse 91:15": "Аллаһ аларны ґәзаб кылганы өчен ахырда һичкемнән курыкмый."
+        },
+        "Telugu": {
+            "verse 91:1": "సూర్యుని మరియు దాని ఎండ సాక్షిగా",
+            "verse 91:2": "దాని వెనుక వచ్చే చంద్రుని సాక్షిగా",
+            "verse 91:3": "ప్రకాశించే పగటి సాక్షిగా",
+            "verse 91:4": "దానిని క్రమ్ముకునే, రాత్రి సాక్షిగా",
+            "verse 91:5": "ఆకాశం మరియు దానిని నిర్మించిన ఆయన (అల్లాహ్) సాక్షిగా",
+            "verse 91:6": "భూమి మరియు దానిని విస్తరింపజేసిన ఆయన సాక్షిగా",
+            "verse 91:7": "మానవ ఆత్మ మరియు దానిని తీర్చిదిద్దిన ఆయన సాక్షిగా",
+            "verse 91:8": "ఆ తరువాత ఆయనే దానికి దుష్టతనాన్ని మరియు దైవభీతిని తెలియజేశాడు",
+            "verse 91:9": "వాస్తవానికి తన ఆత్మను శుద్ధపరచుకున్నవాడే సఫలుడవుతాడు",
+            "verse 91:10": "మరియు వాస్తవానికి దానిని అణగ ద్రొక్కిన వాడే విఫలుడవుతాడు",
+            "verse 91:11": "సమూద్ జాతి తలబిరుసుతనంతో (ప్రవక్తను) అసత్యవాదుడవని తిరస్కరించింది; తమలోని పరమ దుష్టుడు (ఆ దుష్కార్యం చేయటానికి) లేచినప్పుడు",
+            "verse 91:12": "అల్లాహ్ సందేశహరుడు (సాలిహ్) వారితో: ఈ ఆడ ఒంటె అల్లాహ్ కు చెందింది. కాబట్టి దీనిని (నీళ్ళు) త్రాగనివ్వండి!\" అని అన్నాడు",
+            "verse 91:13": "అయినా వారు అతని (సాలిహ్) మాటను అబద్ధమని తిరస్కరించారు. మరియు దాని (ఆ ఒంటె) వెనక మోకాలి నరాన్ని కోసి, కుంటిదాన్ని చేసి చంపారు",
+            "verse 91:14": "కాబట్టి వారి ప్రభువు వారి పాపానికి పర్యవసానంగా వారి మీద మహా విపత్తును పంపి వారందరినీ నాశనం చేశాడు",
+            "verse 91:15": "మరియు ఆయన (అల్లాహ్) దాని పర్యవసానాన్ని గురించి భయపడలేదు"
+        },
+        "Thai": {
+            "verse 91:1": "ขอสาบานด้วยดวงอาทิตย์ และแสงสว่างของมัน",
+            "verse 91:2": "และด้วยดวงจันทร์ เมื่อโคจรตามหลังมัน",
+            "verse 91:3": "และด้วยเวลากลางวันเมื่อประกายแสงมัน (จากดวงอาทิตย์)",
+            "verse 91:4": "และด้วยเวลากลางคืนเมื่อปกคลุมมัน",
+            "verse 91:5": "และด้วยชั้นฟ้า และที่พระองค์ทรงสร้างมัน",
+            "verse 91:6": "และด้วยแผ่นดิน และที่พระองค์ทรงแผ่มัน",
+            "verse 91:7": "และด้วยชีวิต และที่พระองค์ทรงทำให้มันสมบูรณ์",
+            "verse 91:8": "แล้วพระองค์ทรงดลใจมันให้รู้ทางชั่วของมันและทางสำรวมของมัน",
+            "verse 91:9": "แน่นอนผู้ขัดเกลาชีวิตย่อมได้รับความสำเร็จ",
+            "verse 91:10": "และแน่นอนผู้หมกมุ่นมัน (ด้วยการทำชั่ว) ย่อมล้มเหลว",
+            "verse 91:11": "พวกซะมูดได้ปฏิเสธด้วยการละเมิดขอบเขตของพวกเขา",
+            "verse 91:12": "เมื่อคนเลวทรามที่สุดของพวกเขาได้รีบรุดไป (ฆ่าอูฐตัวเมีย)",
+            "verse 91:13": "แล้วร่อซูลของอัลลอฮฺ จึงกล่าวแก่พวกเขาว่า (อย่าทำร้าย) อูฐของอัลลอฮฺ และ(อย่าขัดขวาง)การดื่มน้ำของมัน",
+            "verse 91:14": "แต่พวกเขาก็ไม่เชื่อนะบีแล้วพวกเขาก็ได้ฆ่ามัน ดังนั้นพระเจ้าของพวกเขาจึงได้ทำลายล้างพวกเขา เนื่องจากเพราะความผิดของพวกเขา แล้วพระองค์ทรงลงโทษพวกเขาอย่างถ้วนหน้ากัน",
+            "verse 91:15": "และพระองค์มิทรงหวาดหวั่นต่อปั้นปลายพวกมัน"
+        },
+        "Turkish": {
+            "verse 91:1": "Güneşe ve onun ışığına,",
+            "verse 91:2": "Ardından gelmekte olan aya,",
+            "verse 91:3": "Onu ortaya koyan gündüze,",
+            "verse 91:4": "Onu bürüyen geceye,",
+            "verse 91:5": "Göğe ve onu yapana,",
+            "verse 91:6": "Yere ve onu yayana,",
+            "verse 91:7": "Kişiye ve onu şekillendirene,",
+            "verse 91:8": "Sonra da ona iyilik ve kötülük kabiliyeti verene and olsun ki:",
+            "verse 91:9": "Kendini arıtan saadete ermiştir.",
+            "verse 91:10": "Kendini fenalıklara gömen kimse de ziyana uğramıştır.",
+            "verse 91:11": "Semud milleti, içlerinden en azgını ileri atılınca, azgınlığı yüzünden peygamberleri yalanladı.",
+            "verse 91:12": "Semud milleti, içlerinden en azgını ileri atılınca, azgınlığı yüzünden peygamberleri yalanladı.",
+            "verse 91:13": "Allah'ın peygamberi onlara, Allah'ın devesini göstermiş ve: \"Allah'ın bu devesine ve onun su hakkına dokunmayın\" demişti.",
+            "verse 91:14": "Onu yalanladılar ve deveyi boğazladılar. Bunun üzerine Rableri, suçlarından dolayı onların üzerine katmerli azap indirdi; yerle bir etti onları.",
+            "verse 91:15": "Bu işin sonundan O'nun korkusu yoktur."
+        },
+        "Urdu": {
+            "verse 91:1": "سورج کی قسم اور اس کی روشنی کی",
+            "verse 91:2": "اور چاند کی جب اس کے پیچھے نکلے",
+            "verse 91:3": "اور دن کی جب اُسے چمکا دے",
+            "verse 91:4": "اور رات کی جب اُسے چھپا لے",
+            "verse 91:5": "اور آسمان کی اور اس ذات کی جس نے اسے بنایا",
+            "verse 91:6": "اور زمین کی اور اس کی جس نے اسے پھیلایا",
+            "verse 91:7": "اور انسان کی اور اس کی جس نے اس (کے اعضا) کو برابر کیا",
+            "verse 91:8": "پھر اس کو بدکاری (سے بچنے) اور پرہیزگاری کرنے کی سمجھ دی",
+            "verse 91:9": "کہ جس نے (اپنے) نفس (یعنی روح) کو پاک رکھا وہ مراد کو پہنچا",
+            "verse 91:10": "اور جس نے اسے خاک میں ملایا وہ خسارے میں رہا",
+            "verse 91:11": "(قوم) ثمود نے اپنی سرکشی کے سبب (پیغمبر کو) جھٹلایا",
+            "verse 91:12": "جب ان میں سے ایک نہایت بدبخت اٹھا",
+            "verse 91:13": "تو خدا کے پیغمبر (صالح) نے ان سے کہا کہ خدا کی اونٹنی اور اس کے پانی پینے کی باری سے عذر کرو",
+            "verse 91:14": "مگر انہوں نے پیغمبر کو جھٹلایا اور اونٹنی کی کونچیں کاٹ دیں تو خدا نے ان کےگناہ کے سبب ان پر عذاب نازل کیا اور سب کو (ہلاک کر کے) برابر کر دیا",
+            "verse 91:15": "اور اس کو ان کے بدلہ لینے کا کچھ بھی ڈر نہیں"
+        },
+        "Uyghur": {
+            "verse 91:1": "قۇياش ۋە ئۇنىڭ نۇرى بىلەن قەسەمكى،",
+            "verse 91:2": "قۇياشقا ئەگەشكەن چاغدىكى ئاي بىلەن قەسەمكى،",
+            "verse 91:3": "قۇياشنى ئاشكارا قىلغان كۈندۈز بىلەن قەسەمكى،",
+            "verse 91:4": "قۇياشنى يوشۇرغان چاغدىكى كېچە بىلەن قەسەمكى،",
+            "verse 91:5": "ئاسمان بىلەن ۋە ئۇنى بىنا قىلغان زات بىلەن قەسەمكى،",
+            "verse 91:6": "زېمىن بىلەن ۋە ئۇنى بىنا قىلغان زات بىلەن قەسەمكى،",
+            "verse 91:7": "روھ بىلەن ۋە ئۇنى چىرايلىق قىلىپ ياراتقان، ئۇنىڭغا ياخشى - يامانلىقنى بىلدۈرگەن زات بىلەن قەسەمكى،",
+            "verse 91:8": "روھ بىلەن ۋە ئۇنى چىرايلىق قىلىپ ياراتقان، ئۇنىڭغا ياخشى - يامانلىقنى بىلدۈرگەن زات بىلەن قەسەمكى،",
+            "verse 91:9": "روھىنى پاك قىلغان ئادەم چوقۇم مۇرادىغا يېتىدۇ",
+            "verse 91:10": "نەپسىنى (كۇفرى ۋە پىسقى - فۇجۇر بىلەن) كەمسىتكەن ئادەم چوقۇم نائۈمىد بولىدۇ",
+            "verse 91:11": "سەمۇد ھەددىدىن ئاشقانلىقى ئۈچۈن (پەيغەمبەرنى) ئىنكار قىلدى",
+            "verse 91:12": "ئەينى زاماندا سەمۇدنىڭ ئەڭ بەتبەخت ئادىمى (مۆجىزە بولۇپ كەلگەن تۆگىنى) ئۆلتۈرۈشكە ئالدىرىدى",
+            "verse 91:13": "ئۇلارغا اﷲ نىڭ پەيغەمبىرى (يەنى سالىھ ئەلەيھىسسالام): «اﷲ نىڭ تۆگىسىگە چېقىلماڭلار، ئۇنى سۇ ئىچىشتىن توسماڭلار» دېدى",
+            "verse 91:14": "ئۇلار پەيغەمبەرنى (يەنى سالىھ ئەلەيھىسسالامنى) يالغانچى قىلدى، تۆگىنى ئۆلتۈردى، گۇناھى تۈپەيلىدىن اﷲ ئۇلارنى تەلتۆكۈس ھالاك قىلدى، ئومۇميۈزلۈك ھالاك قىلدى",
+            "verse 91:15": "اﷲ ئۇنىڭ (يەنى ئۇلارنى ھالاك قىلغانلىقنىڭ) ئاقىۋىتىدىن قورقمايدۇ"
+        },
+        "Uzbek": {
+            "verse 91:1": "Қуёш билан ва унинг зиёси билан қасам.",
+            "verse 91:2": "Унинг ортидан келадиган Ой билан қасам.",
+            "verse 91:3": "Ва у(қуёш)ни равшан кўрсатган наҳор билан қасам.",
+            "verse 91:4": "Ва у(қуёш)ни қоплаган тун билан қасам.",
+            "verse 91:5": "Ва осмон билан ва унинг бино қилиниши билан қасам.",
+            "verse 91:6": "Ва ер билан ва унинг тўшалиши билан қасам.",
+            "verse 91:7": "Ва нафс билан ва унинг бекам-кўст қилиб яратилиши билан қасам.",
+            "verse 91:8": "Бас, у(нафс)га фужурини ва тақвосини билдирди.",
+            "verse 91:9": "Батаҳқиқ, ким у(нафс)ни покласа, ютуққа эришади.",
+            "verse 91:10": "Ва батаҳқиқ, ким у(нафс)ни кирласа, ноумид бўлади.",
+            "verse 91:11": "Самуд қавми ўз туғёни ила ( Пай ғамбарини) ёлғонга чиқарди.",
+            "verse 91:12": "Вақтики, (ундаги) энг бадбахт шахс шошилиб турди.",
+            "verse 91:13": "Бас, уларга Аллоҳнинг Расули «Аллоҳнинг туясига ва унинг сувига тегманглар», деди.",
+            "verse 91:14": "Бас, уни ёлғончига чиқаришди ва ул(туяни) сўйишди.",
+            "verse 91:15": "Ва У зот бу ишнинг оқибатидан қўрқмайди."
+        },
+        "Vietnamese": {
+            "verse 91:1": "Thề bởi mặt trời và khoảng thời gian sau khi nó mọc lên cao.",
+            "verse 91:2": "Thề bởi mặt trăng khi nó theo sau (mặt trời đã lặn khuất).",
+            "verse 91:3": "Thề bởi ban ngày khi nó hiển thị ánh sáng (của mặt trời).",
+            "verse 91:4": "Thề bởi ban đêm khi nó che phủ (mặt trời).",
+            "verse 91:5": "Thề bởi bầu trời và Đấng đã dựng nó.",
+            "verse 91:6": "Thề bởi trái đất và Đấng đã trải rộng nó.",
+            "verse 91:7": "Thề bởi linh hồn và Đấng đã cân đối (hình thể của) nó.",
+            "verse 91:8": "Ngài đã làm cho nó có ý thức và cảm nhận được điều ác và điều thiện.",
+            "verse 91:9": "Người thanh tẩy nó chắc chắn sẽ thành công.",
+            "verse 91:10": "Người làm bẩn nó chắc chắn sẽ thất bại.",
+            "verse 91:11": "Trong sự xấc xược tự phụ của mình, đám dân Thamud đã phủ nhận chân lý.",
+            "verse 91:12": "Khi một nhóm người khốn nạn nhất của chúng đứng dậy.",
+            "verse 91:13": "Sứ giả của Allah đã bảo chúng: “Đây là con lạc đà cái của Allah, các người hãy để cho nó uống nước.”",
+            "verse 91:14": "Nhưng chúng bác bỏ lời nói của Y và đã ra sức làm hại con lạc đà. Vì vậy, Thượng Đế của chúng đã phẫn nộ, Ngài đã trừng phạt và san bằng chúng vì tội lỗi của chúng.",
+            "verse 91:15": "Và Ngài không sợ hậu quả (của việc trừng phạt đó)."
+        },
+        "Yoruba": {
+            "verse 91:1": "(Allahu) bura pelu oorun ati iyaleta re",
+            "verse 91:2": "O tun bura pelu osupa nigba ti o ba (yo) tele (oorun)",
+            "verse 91:3": "O tun bura pelu osan nigba ti o ba mu imole ba okunkun oru",
+            "verse 91:4": "O tun bura pelu ale nigba ti o ba bo osan mole",
+            "verse 91:5": "O tun bura pelu sanmo ati Eni ti O mo on",
+            "verse 91:6": "O tun bura pelu ile ati Eni ti O te e kale",
+            "verse 91:7": "O tun bura pelu emi (eniyan) ati Eni ti O se (orikee re) dogba",
+            "verse 91:8": "O si fi ese (ti emi le da) ati iberu re mo on",
+            "verse 91:9": "Enikeni ti o ba safomo (emi ara) re (nibi ese), o ma ti jere",
+            "verse 91:10": "Enikeni ti o ba fi (iwa ese) ba emi (ara) re je, o ma ti padanu",
+            "verse 91:11": "Ijo Thamud pe ododo niro nipa itayo enu-ala won",
+            "verse 91:12": "(Ranti) nigba ti eni ti ori re buru julo ninu won sare dide (lati gun rakunmi pa)",
+            "verse 91:13": "Nigba naa, Ojise Allahu so fun won pe: \"(E fi) abo rakunmi Allahu ati omi re (sile)",
+            "verse 91:14": "Won pe e niro. Won si gun (rakunmi) pa. Nitori naa, Oluwa won pa won re nitori ese won. O si fi iparun naa kari won",
+            "verse 91:15": "(Eni t’o gun rakunmi pa) ko si paya ikangun oro won"
         }
     }
 }

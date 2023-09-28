@@ -5,7 +5,6 @@
     "revelation_order": 14,
     "bismillah_pre": true,
     "verses_count": 11,
-    "source": "Sayyid Abul Ala Maududi - Tafhim al-Qur'an - The Meaning of the Quran",
     "short_text": "The Surah has been titled so after the word al 'adiyat with which it opens.",
     "text": [
         "The Surah has been titled so after the word al 'adiyat with which it opens.",
@@ -15,701 +14,700 @@
         "Its objective is to make the people realize how evil man becomes when he denies the Hereafter, or becomes heedless of it, and also to warn them that in the Hereafter not only their visible and apparent deeds but even the secrets hidden in their hearts will be subjected to scrutiny.",
         "For this purpose, the general chaos and confusion prevailing in Arabia, with which the whole country was in turmoil, has been presented as an argument. Bloodshed, loot and plunder raged on every side. Tribes were subjecting other tribes to raids, and no one could have peaceful sleep at night from fear that some enemy tribe might raid his settlement early in the morning. Every Arab was fully conscious of this state of affairs and realized that it was wrong. Although the plundered bemoaned their miserable, helpless state and the plunderer rejoiced, when the plunderer himself was plundered, he too realized how abject the condition in which the whole nation was involved was. Referring to this very state of affairs, it has been said: Unaware of the second life after death and his accountability before God in it, man has become ungrateful to his Lord and Sustainer. He is using the powers and abilities given by God for perpetrating tyranny and pillage; blinded by the love of worldly wealth he tries to obtain it by every means, however impure and filthy, and his own state itself testifies that by abusing the powers bestowed by his Lord he is being ungrateful to Him. He would never have behaved so, had he known the time when the dead will be raised from the graves, and when the intentions and motives with which he had done all sorts of deeds in the world, will be exposed and brought out before everyone to see. At that time, the Lord and Sustainer of men shall be well informed of what one has done and what punishment or reward one deserves."
     ],
+    "quran-source": "`https://surahquran.com`",
     "description": "The surah that opens with the mention of galloping war steeds that it calls The Chargers, whose very hoofs strike sparks upon the rocky earth as they carry their riders furiously into the midst of the fray life. It takes its name from “the chargers” (al-ʿadiyāt) mentioned in verse 1. The surah touch upon Gods swearing by the warhorses He has subjected to man’s use that man is ungrateful and misguided.The surah is also known as: Snorting Steeds, The Charging Mares, The Charging Steeds, The War Steeds, Those That Run, Those Who Run.",
-    "name_translation": "THE CHARGERS",
+    "name_translation": "The Chargers",
     "name_complex": "Al-‘Adiyât",
     "surah_name_ar": "العاديات",
     "verses": {
-        "languages": {
-            "albanian": {
-                "translators": {
-                    "1": {
-                        "Efendi Nahi": {
-                            "verse 100:1": "Betohem në atë (kuajt) që vrapojnë duke dihatur,",
-                            "verse 100:2": "e që qesin xixa nga thundrat e tyre,",
-                            "verse 100:3": "dhe sulmojnë (armikun) në mëngjes,",
-                            "verse 100:4": "dhe n’atë rast çojn pluhur,",
-                            "verse 100:5": "të cilët futen në radhët e armikut, -",
-                            "verse 100:6": "me të vërtetë, njeriu është jomirënjohës ndaj Zotit të vet,",
-                            "verse 100:7": "dhe ai, me të vërtetë, për këtë, është i vetëdijshëm,",
-                            "verse 100:8": "dhe, ai është lakmues i madh i pasurisë.",
-                            "verse 100:9": "E, vallë, a nuk e di ai (njeriu), kur do të përzihen (ringjallen) ata që gjenden në varreza",
-                            "verse 100:10": "dhe kur të dali në shesh ajo që është në zemra (e mira dhe e keqja),",
-                            "verse 100:11": "Zoti i tyre, me siguri, atë Ditë do të dijë çdo gjë për ta."
-                        }
-                    }
-                }
-            },
-            "azerbaijani": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "And olsun (cihad zamanı) tövşüyə-tövşüyə qaçan atlara;",
-                            "verse 100:2": "And olsun (dırnaqları ilə daşdan) qığılcım qoparan atlara;",
-                            "verse 100:3": "And olsun sübh çağı hücum edən atlara;",
-                            "verse 100:4": "And olsun o vaxt (və ya: o yerdə) toz-duman qopardan atlara;",
-                            "verse 100:5": "Sonra da onunla (tozanaqla) dəstəyə (düşmən dəstəsinə) təpinən atlara ki,",
-                            "verse 100:6": "İnsan öz Rəbbinə qarşı çox nankordur.",
-                            "verse 100:7": "Və o özü də buna şahiddir.",
-                            "verse 100:8": "Həqiqətən, insan var-dövlətə çox hərisdir!",
-                            "verse 100:9": "Məgər o bilmirmi ki, qəbirlərdə olanlar (dirilib) çıxardılacağı;",
-                            "verse 100:10": "Urəklərdə olanlar faş ediləcəyi zaman",
-                            "verse 100:11": "Həmin gün Rəbbi onları (özlərinin bütün əməllərindən) xəbərdar edəcəkdir (cəzalarını verəcəkdir)!"
-                        }
-                    }
-                }
-            },
-            "bosnian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "Tako mi onih koji dahćući jure",
-                            "verse 100:2": "pa varnice vrcaju,",
-                            "verse 100:3": "i zorom napadaju,",
-                            "verse 100:4": "i dižu tada prašinu",
-                            "verse 100:5": "pa u njoj u gomilu upadaju -",
-                            "verse 100:6": "čovjek je, zaista, Gospodaru svome nezahvalan",
-                            "verse 100:7": "i sam je on toga, doista, svjestan,",
-                            "verse 100:8": "i on je, zato što voli bogatstvo - radiša.",
-                            "verse 100:9": "A zar on ne zna da će, kada budu oživljeni oni koji su u grobovima",
-                            "verse 100:10": "i kada iziđe na vidjelo ono što je u srcima,",
-                            "verse 100:11": "Gospodar njihov toga Dana, sigurno, sve znati o njima."
-                        }
-                    }
-                }
-            },
-            "bengali": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "শপথ উর্ধ্বশ্বাসে চলমান অশ্বসমূহের,",
-                            "verse 100:2": "অতঃপর ক্ষুরাঘাতে অগ্নিবিচ্ছুরক অশ্বসমূহের",
-                            "verse 100:3": "অতঃপর প্রভাতকালে আক্রমণকারী অশ্বসমূহের",
-                            "verse 100:4": "ও যারা সে সময়ে ধুলি উৎক্ষিপ্ত করে",
-                            "verse 100:5": "অতঃপর যারা শক্রদলের অভ্যন্তরে ঢুকে পড়ে-",
-                            "verse 100:6": "নিশ্চয় মানুষ তার পালনকর্তার প্রতি অকৃতজ্ঞ।",
-                            "verse 100:7": "এবং সে অবশ্য এ বিষয়ে অবহিত",
-                            "verse 100:8": "এবং সে নিশ্চিতই ধন-সম্পদের ভালবাসায় মত্ত।",
-                            "verse 100:9": "সে কি জানে না, যখন কবরে যা আছে, তা উত্থিত হবে",
-                            "verse 100:10": "এবং অন্তরে যা আছে, তা অর্জন করা হবে?",
-                            "verse 100:11": "সেদিন তাদের কি হবে, সে সম্পর্কে তাদের পালনকর্তা সবিশেষ জ্ঞাত। হবে?"
-                        }
-                    }
-                }
-            },
-            "bulgarian": {
-                "translators": {
-                    "1": {
-                        "Tzvetan Theophanov": {
-                            "verse 100:1": "Кълна се в [конете -] препускащите с пръхтене",
-                            "verse 100:2": "и мятащите искри с чаткане,",
-                            "verse 100:3": "и връхлитащите сутрин,",
-                            "verse 100:4": "и вдигащи с това прахоляк,",
-                            "verse 100:5": "и врязващи се в множество [от врагове]",
-                            "verse 100:6": "човекът е голям неблагодарник към своя Господ.",
-                            "verse 100:7": "И сам на това е свидетел.",
-                            "verse 100:8": "И е силна любовта му към благата.",
-                            "verse 100:9": "Нима не знае, че когато бъде изкарано това, което е в гробовете,",
-                            "verse 100:10": "и бъде разкрито това, което е в гърдите,",
-                            "verse 100:11": "техният Господ е сведущ за тях в този Ден? гърдите,"
-                        }
-                    }
-                }
-            },
-            "chinese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "以喘息而奔馳的馬隊盟誓 ,",
-                            "verse 100:2": "以蹄發火花的馬隊盟誓 ,",
-                            "verse 100:3": "以早晨出擊 ,",
-                            "verse 100:4": "捲起塵埃 ,",
-                            "verse 100:5": "攻入敵圍的馬隊盟誓 ,",
-                            "verse 100:6": "人對于主 ,確是孤負的。",
-                            "verse 100:7": "他自己對那孤負確是見証的 ,",
-                            "verse 100:8": "他對于財產確是酷好的。",
-                            "verse 100:9": "難道他不知道嗎？當墳中的朽骨被揭發 ,",
-                            "verse 100:10": "胸中的秘密被顯示的時侯 ,",
-                            "verse 100:11": "在那日 ,他們的主 ,確是徹知他們的。 ,"
-                        }
-                    }
-                }
-            },
-            "czech": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "Při pádících, odfrkujících,",
-                            "verse 100:2": "jiskry vykřesávajících,",
-                            "verse 100:3": "za jitra se vynořujících,",
-                            "verse 100:4": "oblaka prachu v něm zviřujících",
-                            "verse 100:5": "a do středu tlupy vtrhujících!",
-                            "verse 100:6": "Vůči svému Pánu člověk vskutku nevděčný je,",
-                            "verse 100:7": "a dokonce sám to dosvědčuje.",
-                            "verse 100:8": "Horlivý však je věru v lásce k majetku!",
-                            "verse 100:9": "Cožpak neví, že až bude to, co je v hrobech, převráceno",
-                            "verse 100:10": "a to, co v hrudích je, odhaleno,",
-                            "verse 100:11": "Pán jejich v ten den dokonale o nich bude zpraven? odhaleno,"
-                        }
-                    }
-                }
-            },
-            "dutch": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "Bij de rossen die snel en snuivend ademen,",
-                            "verse 100:2": "Die vonken uit de hoeven slaan,",
-                            "verse 100:3": "En bij de dageraad plotseling een aan val doen.",
-                            "verse 100:4": "Daarbij stof opwerpen",
-                            "verse 100:5": "En zo door het midden der vijandelijke menigte zich een weg banen.",
-                            "verse 100:6": "Voorwaar, de mens is ondankbaar jegens zijn Heer;",
-                            "verse 100:7": "En waarlijk, hij is daar zelf getuige van.",
-                            "verse 100:8": "En voorzeker, hij heeft een hevige begeerte naar rijkdommen.",
-                            "verse 100:9": "Weet zo iemand dan niet, dat hetgeen in de graven is weder zal worden opgewekt?",
-                            "verse 100:10": "En dat het innerlijk zal worden bekend gemaakt?",
-                            "verse 100:11": "Dat hun Heer hen op die Dag volkomen kent? gemaakt?"
-                        }
-                    }
-                }
-            },
-            "english": {
-                "translators": {
-                    "1": {
-                        "Marmaduke Pickthall": {
-                            "verse 100:1": "By the snorting courses,",
-                            "verse 100:2": "Striking sparks of fire",
-                            "verse 100:3": "And scouring to the raid at dawn,",
-                            "verse 100:4": "Then, therewith, with their trail of dust,",
-                            "verse 100:5": "Cleaving, as one, the centre (of the foe),",
-                            "verse 100:6": "Lo! man is an ingrate unto his Lord",
-                            "verse 100:7": "And lo! he is a witness unto that;",
-                            "verse 100:8": "And lo! in the love of wealth he is violent.",
-                            "verse 100:9": "Knoweth he not that, when the contents of the graves are poured forth",
-                            "verse 100:10": "And the secrets of the breasts are made known,",
-                            "verse 100:11": "On that day will their Lord be perfectly informed concerning them."
-                        }
-                    },
-                    "2": {
-                        "Abdullah Yusuf Ali": {
-                            "verse 100:1": "By the (Steeds) that run, with panting (breath),",
-                            "verse 100:2": "And strike sparks of fire,",
-                            "verse 100:3": "And push home the charge in the morning,",
-                            "verse 100:4": "And raise the dust in clouds the while,",
-                            "verse 100:5": "And penetrate forthwith into the midst (of the foe) en masse;-",
-                            "verse 100:6": "Truly man is, to his Lord, ungrateful;",
-                            "verse 100:7": "And to that (fact) he bears witness (by his deeds);",
-                            "verse 100:8": "And violent is he in his love of wealth.",
-                            "verse 100:9": "Does he not know,- when that which is in the graves is scattered abroad",
-                            "verse 100:10": "And that which is (locked up) in (human) breasts is made manifest-",
-                            "verse 100:11": "That their Lord had been Well-acquainted with them, (even to) that Day."
-                        }
-                    },
-                    "3": {
-                        "Arthur J. Arberry": {
-                            "verse 100:1": "By the snorting chargers,",
-                            "verse 100:2": "by the strikers of fire,",
-                            "verse 100:3": "by the dawn-raiders",
-                            "verse 100:4": "blazing a trail of dust,",
-                            "verse 100:5": "cleaving there with a host!",
-                            "verse 100:6": "Surely Man is ungrateful to his Lord,",
-                            "verse 100:7": "and surely he is a witness against that!",
-                            "verse 100:8": "Surely he is passionate in his love for good things.",
-                            "verse 100:9": "Knows he not that when that which is in the tombs is over-thrown,",
-                            "verse 100:10": "and that which is in the breasts is brought out --",
-                            "verse 100:11": "surely on that day their Lord shall be aware of them! --"
-                        }
-                    },
-                    "4": {
-                        "Muhammad Asad": {
-                            "verse 100:1": "OH, the chargers that run panting,",
-                            "verse 100:2": "sparks of fire striking,",
-                            "verse 100:3": "rushing to assault at morn,",
-                            "verse 100:4": "thereby raising clouds of dust,",
-                            "verse 100:5": "thereby storming",
-                            "verse 100:6": "into any host!",
-                            "verse 100:7": "VERILY, towards his Sustainer man is most ungrateful",
-                            "verse 100:8": "and to this, behold, he",
-                            "verse 100:9": "bears witness indeed:",
-                            "verse 100:10": "for, verily, to the love of wealth is he most ardently devoted.",
-                            "verse 100:11": "But does he not know that [on the Last Day,] when all that is in the graves is raised and brought out,",
-                            "verse 100:12": "and all that is",
-                            "verse 100:13": "in men’s hearts is bared",
-                            "verse 100:14": "that on that Day their Sustainer [will show that He] has always been fully aware of them?"
-                        }
-                    },
-                    "5": {
-                        "Martin Lings": {}
-                    },
-                    "6": {
-                        "Mufti Muhammad Taqi Uthmani": {
-                            "verse 100:1": "(I swear) by those (horses) that run snorting,",
-                            "verse 100:2": "then those that create sparks by striking (their hoofs) on the stones,",
-                            "verse 100:3": "then those that invade at morning,",
-                            "verse 100:4": "then raise, at the same time, a trail of dust,",
-                            "verse 100:5": "then enter, at the same time, into the centre of the (opposing) host,",
-                            "verse 100:6": "man is, indeed, very ungrateful to his Lord,",
-                            "verse 100:7": "and he himself is a witness to that fact,",
-                            "verse 100:8": "and in his love for wealth, he is very intense.",
-                            "verse 100:9": "Does he not then know (what will happen) when all that is contained in the graves will be overturned,",
-                            "verse 100:10": "and all that is contained in the hearts will be exposed.",
-                            "verse 100:11": "Surely your Lord, that day, is fully aware of them."
-                        }
-                    },
-                    "7": {
-                        "Royal Aal al-Bayt Institute Translation": {
-                            "verse 100:1": "By the chargers snorting,",
-                            "verse 100:2": "by the strikers of sparks,",
-                            "verse 100:3": "by the dawn-raiders",
-                            "verse 100:4": "raising therein a trail of dust,",
-                            "verse 100:5": "cleaving therewith a host.",
-                            "verse 100:6": "Verily man is ungrateful to his Lord,",
-                            "verse 100:7": "and verily to that he is a witness.",
-                            "verse 100:8": "And verily in the love of wealth he is avid.",
-                            "verse 100:9": "Does he not know that, when that which is in the graves is strewn,",
-                            "verse 100:10": "and that which is in the breasts is obtained,",
-                            "verse 100:11": "on that day their Lord will indeed be Aware of them? obtained,"
-                        }
-                    },
-                    "8": {
-                        "Recitations of Ibrahim walk from saheeh international": {
-                            "verse 100:1": "By the charging horses that gallop (in the battlefield) and pant,",
-                            "verse 100:2": "And those that produce sparks striking their hoofs on rocks,",
-                            "verse 100:3": "Then they attack (the enemy) at dawn,",
-                            "verse 100:4": "And then raise clouds of dust from the point (of attack),",
-                            "verse 100:5": "And then simultaneously pierce into (the enemy) ranks,",
-                            "verse 100:6": "Indeed, man is most ungrateful to his Lord,",
-                            "verse 100:7": "And verily, he is himself a witness to this ingratitude.",
-                            "verse 100:8": "And indeed, he is quite stubborn in his love of wealth.",
-                            "verse 100:9": "But does he not know when those (dead) in the graves will be raised,",
-                            "verse 100:10": "And secrets which are in hearts will be disclosed?",
-                            "verse 100:11": "Indeed, their Lord will be Well Aware of their (deeds) on that Day."
-                        }
-                    }
-                }
-            },
-            "finnish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "Kautta korskuvien sotaratsujen,",
-                            "verse 100:2": "joiden kavioniskuista säkenöi tulta,",
-                            "verse 100:3": "jotka riuhtoutuvat hyökkäykseen aamulla,",
-                            "verse 100:4": "nostattavat tomupilven ilmaan",
-                            "verse 100:5": "ja syöksyvät sotalaumojen joukkoon,",
-                            "verse 100:6": "totisesti, ihminen on kiittämätön Herraansa kohtaan,",
-                            "verse 100:7": "hänen on itsensä myönnettävä se.",
-                            "verse 100:8": "Miten ahnaasti hän himoitseekaan maallista tavaraa!",
-                            "verse 100:9": "Eikö hän tiedä, että tulee hetki, jolloin kaikki haudoista herätetään,",
-                            "verse 100:10": "jolloin päivänvaloon tulee kaikki, mikä oli poven kätkössä.",
-                            "verse 100:11": "Sinä päivänä heidän Herransa totisesti tuomitsee heidät tietonsa mukaan."
-                        }
-                    }
-                }
-            },
-            "french": {
-                "translators": {
-                    "1": {
-                        "Jean-Louis Michon": {
-                            "verse 100:1": "Par les coursiers haletants,",
-                            "verse 100:2": "ceux qui font jaillir des étincelles,",
-                            "verse 100:3": "et qui surgissent à l'aube,",
-                            "verse 100:4": "et qui font voler la poussière,",
-                            "verse 100:5": "et qui pénètrent au cœur de la mêlée,",
-                            "verse 100:6": "certes, l'homme est ingrat envers son Seigneur,",
-                            "verse 100:7": "et lui-même peut en témoigner ;",
-                            "verse 100:8": "mais son amour des richesses est plus fort.",
-                            "verse 100:9": "Ne sait-il donc pas qu'au moment où sera bouleversé le contenu des tombes",
-                            "verse 100:10": "et où sera récapitulé le contenu des poitrines,",
-                            "verse 100:11": "ce Jour-là, leur Seigneur sera instruit de tout à leur sujet."
-                        }
-                    },
-                    "2": {
-                        "Muhammad Hamidullah ": {
-                            "verse 100:1": "Par les coursiers qui halètent,",
-                            "verse 100:2": "qui font jaillir des étincelles,",
-                            "verse 100:3": "qui attaquent au matin.",
-                            "verse 100:4": "et font ainsi voler la poussière,",
-                            "verse 100:5": "et pénètrent au centre de la troupe ennemie.",
-                            "verse 100:6": "L’homme est, certes, ingrat envers son Seigneur;",
-                            "verse 100:7": "et pourtant, il est certes, témoin de cela;",
-                            "verse 100:8": "et pour l’amour des richesses il est certes ardent.",
-                            "verse 100:9": "Ne sait-il donc pas que lorsque ce qui est dans les tombes sera bouleversé,",
-                            "verse 100:10": "et que sera dévoilé ce qui est dans les poitrines,",
-                            "verse 100:11": "ce jour-là, certes, leur Seigneur sera Parfaitement Connaisseur d’eux ? poitrines,"
-                        }
-                    }
-                }
-            },
-            "german": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "Bei den schnaubenden Rennern,",
-                            "verse 100:2": "Feuerfunken schlagenden,",
-                            "verse 100:3": "Frühmorgens anstürmenden,",
-                            "verse 100:4": "Und damit Staub aufwirbelnden,",
-                            "verse 100:5": "Und dadurch in die Mitte (der Feinde) eindringenden -",
-                            "verse 100:6": "Wahrlich, der Mensch ist undankbar gegen seinen Herrn;",
-                            "verse 100:7": "Wahrlich, er bezeugt es selber;",
-                            "verse 100:8": "Wahrlich, er ist zäh in der Liebe zum Besitz.",
-                            "verse 100:9": "Weiß er denn nicht, daß wenn der Inhalt der Gräber bloßgelegt wird,",
-                            "verse 100:10": "Und das, was in den Herzen ist, offenbar wird,",
-                            "verse 100:11": "Daß ihr Herr (allein) an jenem Tage sie am besten kennt? wird,"
-                        }
-                    }
-                }
-            },
-            "hindi": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "¼x+kft+;ksa ds½ ljiV nkSM+us okys ?kksM+ks dh d+le",
-                            "verse 100:2": "tks uFkuksa ls Q+jjkVs ysrs gSa",
-                            "verse 100:3": "fQj iRFkj ij Vki ekjdj fpaxkfj;k¡ fudkyrs gSa fQj lqcg dks Nkik ekjrs gSa",
-                            "verse 100:4": "¼rks nkSM+ /kwi ls½ cqyUn dj nsrs gSa",
-                            "verse 100:5": "fQj ml oD+r ¼nq’eu ds½ fny esa ?kql tkrs gSa",
-                            "verse 100:6": "¼x+jt+ d+le gS½ fd cs’kd bUlku vius ijojfnxkj dk uk’kqØk gS",
-                            "verse 100:7": "vkSj ;d+huh [+kqnk Hkh mlls okfd+Q+ gS",
-                            "verse 100:8": "vkSj cs’kd og eky dk l[+r gjhl gS",
-                            "verse 100:9": "rks D;k og ;s ugha tkurk fd tc eqnsZ d+czksa ls fudkys tk,¡xs",
-                            "verse 100:10": "vkSj fnyksa ds Hksn t+kfgj dj fn, tk,¡xs",
-                            "verse 100:11": "cs’kd ml fnu mudk ijojfnxkj muls [+kwc okfd+Q+ gksxk"
-                        }
-                    }
-                }
-            },
-            "indonesian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "Demi kuda perang yang berlari kencang dengan terengah-engah,",
-                            "verse 100:2": "dan kuda yang mencetuskan api dengan pukulan (kuku kakinya),",
-                            "verse 100:3": "dan kuda yang menyerang dengan tiba-tiba di waktu pagi,",
-                            "verse 100:4": "maka ia menerbangkan debu,",
-                            "verse 100:5": "dan menyerbu ke tengah-tengah kumpulan musuh,",
-                            "verse 100:6": "sesungguhnya manusia itu sangat ingkar tidak berterima kasih kepada Tuhannya,",
-                            "verse 100:7": "dan sesungguhnya manusia itu menyaksikan (sendiri) keingkarannya,",
-                            "verse 100:8": "dan sesungguhnya dia sangat bakhil karena cintanya kepada harta.",
-                            "verse 100:9": "Maka apakah dia tidak mengetahui apabila dibangkitkan apa yang ada di dalam kubur,",
-                            "verse 100:10": "dan dilahirkan apa yang ada di dalam dada,",
-                            "verse 100:11": "sesungguhnya Tuhan mereka pada hari itu Maha Mengetahui keadaan mereka."
-                        }
-                    }
-                }
-            },
-            "italian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "Per le scalpitanti ansimanti",
-                            "verse 100:2": "che fan sprizzare scintille ,",
-                            "verse 100:3": "che caricano al mattino,",
-                            "verse 100:4": "che fanno volare la polvere,",
-                            "verse 100:5": "che irrompono in mezzo [al nemico].",
-                            "verse 100:6": "Invero l'uomo è ingrato verso il suo Signore,",
-                            "verse 100:7": "invero è ben conscio di ciò.",
-                            "verse 100:8": "Invero è avido per amore delle ricchezze!",
-                            "verse 100:9": "Non sa che, quando sarà messo sottosopra quello che è nelle tombe",
-                            "verse 100:10": "e reso noto quello che è nei petti,",
-                            "verse 100:11": "il loro Signore, in quel Giorno, sarà ben informato su di loro?"
-                        }
-                    }
-                }
-            },
-            "japanese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "吐く息荒く進撃する（馬）において（誓う）。",
-                            "verse 100:2": "蹄に火花を散らし，",
-                            "verse 100:3": "暁に急襲して，",
-                            "verse 100:4": "砂塵を巻き上げ，",
-                            "verse 100:5": "（敵の）軍勢の真っ只中に突入する時。",
-                            "verse 100:6": "本当に人間は，自分の主に対し恩知らずである。",
-                            "verse 100:7": "それに就き，かれは誠に証人であり，",
-                            "verse 100:8": "また富を愛することに熱中する。",
-                            "verse 100:9": "かれは墓の中のものが発き出される時のことを知らないのか。",
-                            "verse 100:10": "また胸の中にあるものが，暴露されるのを。",
-                            "verse 100:11": "本当に主は，その日，かれらに就いて凡て知っておられる。 また胸の中にあるものが，暴露されるのを。"
-                        }
-                    }
-                }
-            },
-            "korean": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "질주하는 말을 두고 맹세하사",
-                            "verse 100:2": "불꽃을 튀기는 말을 두고 맹 세하며",
-                            "verse 100:3": "새벽에 공격하는 말을 두고 맹세하나니",
-                            "verse 100:4": "먼지를 일으키며",
-                            "verse 100:5": "적 깊숙이 돌진하는 말을 두고맹세하사",
-                            "verse 100:6": "실로 인간은 주님께 감사할 줄 모르더라",
-                            "verse 100:7": "인간은 그가 행한 것을 증언 할 것이매",
-                            "verse 100:8": "재물에 탐익하는데만 열중하 노라",
-                            "verse 100:9": "무덤속에 있는 것들이 밖으로 나와 산산히 흩어지고",
-                            "verse 100:10": "그의 심중에 있는 것들이 밝 혀지며",
-                            "verse 100:11": "그날 주님께서 그것들을 아 심으로 충만하다는 것을 인간은 알지 못하느뇨"
-                        }
-                    }
-                }
-            },
-            "kurdish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "سوێند به‌و هۆکارانه‌ی که تیژڕه‌ون و نرکه‌و ناڵه‌یان لێوه دێت.",
-                            "verse 100:2": "به‌و هۆکارانه‌ی کاتێك که ئاگر ده‌که‌نه‌وه‌و بریسکه ده‌ده‌ن.",
-                            "verse 100:3": "به‌و هۆکارانه‌ی که له به‌ره‌به‌یاندا هێرش ده‌به‌نه سه‌ر (ئۆردووی دوژمنان).",
-                            "verse 100:4": "ئینجا ده‌بنه هۆی به‌رپاکردنی ته‌پ و تۆزو گه‌رده‌لوول.",
-                            "verse 100:5": "له‌و کاته‌دا خۆیان ده‌که‌ن به‌ناو جه‌رگه‌ی دوژمناندا.",
-                            "verse 100:6": "سوێند به‌وانه هه‌مووی، به‌ڕاستی ئاده‌میزاد له ئاستی په‌روه‌ردگاریدا زۆر ناسوپاس و حه‌ق نه‌ناسه‌.",
-                            "verse 100:7": "خۆیشی شایه‌ته له‌سه‌ر ئه‌و حاڵه‌ی خۆی، (ڕۆژی قیامه‌ت دان به که‌مته‌ر خه‌می خۆیدا ده‌نێت).",
-                            "verse 100:8": "بێگومان ئاده‌میزاد له خۆشه‌ویستی ساماندا زۆر به‌تین و هه‌ڵپه‌یه (که ده‌ستی لێی گیربوو ڕه‌زیل و ڕژد و چرووکه‌).",
-                            "verse 100:9": "ئایا ئه‌و جۆره که‌سانه نازانن چی پێش دێت کاتێك له گۆڕه‌کان هێنرانه ده‌ره‌وه‌و (زیندوو کرانه‌وه‌)؟!",
-                            "verse 100:10": "هه‌رچیش له سینه‌کاندا هه‌یه هه‌ر هه‌مووی له (کارنامه‌کاندا) به تۆمار کراوی ئاشکرا کران و خرانه به‌رده‌ست!!",
-                            "verse 100:11": "به‌ڕاستی په‌روه‌ردگاریان له‌و ڕۆژه‌دا ئاگادارو شاره‌زایه پێیان (به‌وردی ده‌پرسێته‌وه‌)."
-                        }
-                    }
-                }
-            },
-            "malay": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "Apabila bumi digegarkan dengan gegaran yang sedahsyat-dahsyatnya,",
-                            "verse 100:2": "Serta bumi itu mengeluarkan segala isinya,",
-                            "verse 100:3": "Dan berkatalah manusia (dengan perasaan gerun): Apa yang sudah terjadi kepada bumi?",
-                            "verse 100:4": "Pada hari itu bumi pun menceritakan khabar beritanya:",
-                            "verse 100:5": "Bahawa Tuhanmu telah memerintahnya (berlaku demikian).",
-                            "verse 100:6": "Pada hari itu manusia akan keluar berselerak (dari kubur masing-masing) untuk diperlihatkan kepada mereka (balasan) amal-amal mereka.",
-                            "verse 100:7": "Maka sesiapa berbuat kebajikan seberat zarah, nescaya akan dilihatnya (dalam surat amalnya)!",
-                            "verse 100:8": "Dan sesiapa berbuat kejahatan seberat zarah, nescaya akan dilihatnya (dalam surat amalnya)!",
-                            "verse 100:9": "(Patutkah dia bersikap demikian?) Tidakkah dia mengetahui (bagaimana keadaan) ketika dibongkarkan segala yang ada dalam kubur?",
-                            "verse 100:10": "Dan dikumpul serta didedahkan segala yang terpendam dalam dada?",
-                            "verse 100:11": "Sesungguhnya Tuhan mereka Maha Mengetahui dengan mendalam tentang (balasan yang diberikanNya kepada) mereka pada hari itu."
-                        }
-                    }
-                }
-            },
-            "persian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "سوگند به اسبان دونده (مجاهدان) در حالى كه نفس‏زنان به پيش مى‏رفتند،",
-                            "verse 100:2": "و سوگند به افروزندگان جرقه آتش (در برخورد سمهايشان با سنگهاى بيابان)،",
-                            "verse 100:3": "و سوگند به هجوم آوران سپيده دم",
-                            "verse 100:4": "كه گرد و غبار به هر سو پراكندند،",
-                            "verse 100:5": "و (ناگهان) در ميان دشمن ظاهر شدند،",
-                            "verse 100:6": "كه انسان در برابر نعمتهاى پروردگارش بسيار ناسپاس و بخيل است;",
-                            "verse 100:7": "و او خود (نيز) بر اين معنى گواه است!",
-                            "verse 100:8": "و او علاقه شديد به مال دارد!",
-                            "verse 100:9": "آيا نمى‏داند در آن روز كه تمام كسانى كه در قبرها هستند برانگيخته مى‏شوند،",
-                            "verse 100:10": "و آنچه در درون سينه‏هاست آشكار مى‏گردد،",
-                            "verse 100:11": "در آن روز پروردگارشان از آنها كاملا باخبر است!"
-                        }
-                    }
-                }
-            },
-            "portuguese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "Pelos corcéis resfolegantes,",
-                            "verse 100:2": "Que lanças chispas de fogo,",
-                            "verse 100:3": "Que atacam ao amanhecer,",
-                            "verse 100:4": "E que levantam nuvens de poeira,",
-                            "verse 100:5": "E que irrompem, nas colunas adversárias,",
-                            "verse 100:6": "Que o homem é ingrato para com o seu Senhor.",
-                            "verse 100:7": "- Ele mesmo é testemunha disso! -",
-                            "verse 100:8": "E que é violento quanto ao amor aos bens terrenos.",
-                            "verse 100:9": "Ignoram eles, acaso, que quando os que estão nos sepulcros forem ressuscitados,",
-                            "verse 100:10": "E for revelado tudo quanto encerram os corações (humanos),",
-                            "verse 100:11": "Nesse dia, o seu Senhor estará inteirado deles?"
-                        }
-                    }
-                }
-            },
-            "romanian": {
-                "translators": {
-                    "1": {
-                        "Lucrarea (traducere úi editare) a fost realizată de către": {
-                            "verse 100:1": "Pe alergãtorii gâfâind ,",
-                            "verse 100:2": "Ce scot scântei ,",
-                            "verse 100:3": "Și pornesc la atac dimineața,",
-                            "verse 100:4": "Stârnind colbul ,",
-                            "verse 100:5": "Și pãtrund cu el în mijlocul mulțimii !",
-                            "verse 100:6": "Omul este nemulțumitor fațã de Domnul sãu!",
-                            "verse 100:7": "Și el este martor pentru aceasta.",
-                            "verse 100:8": "Și iubirea lui pentru bogãție este puternicã!",
-                            "verse 100:9": "Oare el nu știe cã atunci când se va risipi ceea ce este în morminte",
-                            "verse 100:10": "Și se va dezvãlui ceea ce este în piepturi,",
-                            "verse 100:11": "Atunci Domnul lor, în Ziua aceea, va fi Bineștiutor",
-                            "verse 100:12": "al lor?!"
-                        }
-                    },
-                    "2": {
-                        "George Grigore, Coranul": {
-                            "verse 100:1": "Pe cei ce galopează sforăitori,",
-                            "verse 100:2": "cei ce scapără scântei,",
-                            "verse 100:3": "cei ce se năpustesc odată cu zorii,",
-                            "verse 100:4": "cei ce stârnesc colbul,",
-                            "verse 100:5": "cei ce pătrund în mijlocul gloatei!",
-                            "verse 100:6": "Da, omul este nerecunoscător faţă de Domnul său:",
-                            "verse 100:7": "Şi el însuşi mărturiseşte aceasta,",
-                            "verse 100:8": "însă aprigă-i este dragostea pentru bunul lumesc.",
-                            "verse 100:9": "Nu ştie el oare că atunci când mormintele-şi vor arunca afară lăuntrurile,",
-                            "verse 100:10": "iar ceea ce este în piepturi va fi scos la iveală,",
-                            "verse 100:11": "în Ziua aceea, Domnul lor, va avea deplina lor ştiinţă? iveală,"
-                        }
-                    }
-                }
-            },
-            "russian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "В знак (Моего знаменья) —скакуны,Что мчатся, и, от бега задыхаясь,",
-                            "verse 100:2": "Бьют искрами (из-под копыт),",
-                            "verse 100:3": "И атакуют на заре,",
-                            "verse 100:4": "И пыль взметают в облака,",
-                            "verse 100:5": "И в стан (врага) врываются всеймассой, —",
-                            "verse 100:6": "Поистине, и Богу своему неблагодаренчеловек —",
-                            "verse 100:7": "И сам свидетельствует это (своимигрешными делами).",
-                            "verse 100:8": "И неотступен в алчности своейК земным богатствам человек.",
-                            "verse 100:9": "Ужель не знает он, что (в тот момент)Извержены все будут из могил,(Чтобы предстать перед СудомВеликим),",
-                            "verse 100:10": "И явным станет все,Что у людей было сокрытов их сердцах?",
-                            "verse 100:11": "Поистине,В тот ДеньГосподь осведомлен о всех."
-                        }
-                    }
-                }
-            },
-            "spanish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "¡Por los corceles jadeantes,",
-                            "verse 100:2": "que hacen saltar chispas,",
-                            "verse 100:3": "cargan el alba,",
-                            "verse 100:4": "levantando, así, una nube de polvo",
-                            "verse 100:5": "y rompen a través de una hueste!",
-                            "verse 100:6": "El hombre, en verdad, es muy desagradecido con su Señor,",
-                            "verse 100:7": "y él es, sí, testigo de ello.",
-                            "verse 100:8": "Y ama ardientemente, sí, los bienes terrenales.",
-                            "verse 100:9": "¿No sabe, acaso, que cuando lo que hay en las sepulturas sea vuelto al revés",
-                            "verse 100:10": "y se haga público lo que hay en los pechos,",
-                            "verse 100:11": "ese día, su Señor estará, ciertamente, bien informado de ellos?"
-                        }
-                    }
-                }
-            },
-            "tamil": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "மூச்சுத்திணற விரைந்து ஓடுபவற்றின் (குதிரைகள்) மீது சத்தியமாக-",
-                            "verse 100:2": "பின்னர், (குளம்பை) அடித்து நெருப்புப் பறக்கச் செய்பவற்றின் மீதும்,",
-                            "verse 100:3": "பின்னர், அதிகாலையில் விரைந்து (எதிரிகள் மீது) பாய்ந்து செல்பவற்றின் மீதும்-",
-                            "verse 100:4": "மேலும், அதனால் புழுதியைக் கிளப்புகின்றவற்றின் மீதும்,",
-                            "verse 100:5": "அப்பால் (பகைப்படையின்) மத்தியில் கூட்டமாக நுழைந்து செல்பவற்றின் மீதும் சத்தியமாக-",
-                            "verse 100:6": "நிச்சயமாக, மனிதன் தன் இறைவனுக்கு நன்றி கெட்டவனாக இருக்கின்றான்.",
-                            "verse 100:7": "அன்றியும், நிச்சயமாக அவனே இதற்குச் சாட்சியாகவும் இருக்கின்றான்.",
-                            "verse 100:8": "இன்னும், நிச்சயமாக அவன் பொருளை நேசிப்பதில் அளவு கடந்தே இருக்கின்றான்.",
-                            "verse 100:9": "அவன் அறிந்து கொள்ளவில்லையா? கப்றுகளிலிருந்து, அவற்றிலிருப்பவை எழுப்பப்படும் போது-",
-                            "verse 100:10": "மேலும், இதயங்களில் உள்ளவை வெளியாக்கப்படும் போது-",
-                            "verse 100:11": "நிச்சயமாக, அவர்களுடைய இறைவன் அவர்களைப்பற்றி, அந்நாளில் நன்கறிந்தவன்."
-                        }
-                    }
-                }
-            },
-            "thai": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "ขอสาบานด้วยม้าที่วิ่งหอบฮัก ๆ",
-                            "verse 100:2": "แล้วด้วยม้าที่กลีบเท้าของมันตีกับหินจนเกิดประกายไฟ",
-                            "verse 100:3": "แล้วด้วยม้าที่จู่โจมศัตรูในยามเช้า",
-                            "verse 100:4": "แล้วมันได้ทำให้ฝุ่นตลบฟุ้งในยามนั้น",
-                            "verse 100:5": "แล้วมันได้บุกเข้าไปท่ามกลางหมู่ศัตรูในยามนั้น",
-                            "verse 100:6": "แท้จริงมนุษย์เป็นผู้เนรคุณต่อพระเจ้าของเขา",
-                            "verse 100:7": "และแท้จริงเขาได้เป็นพยานต่อการนั้นอย่างแน่นอน",
-                            "verse 100:8": "และแท้จริงเขามีความหวงแหน เพราะรักในทรัพย์สมบัติ",
-                            "verse 100:9": "เขาไม่รู้ดอกหรือว่า เมื่อสิ่งที่อยู่ในหลุมฝังศพถูกให้ฟื้นขึ้นมา",
-                            "verse 100:10": "และสิ่งที่อยู่ในหัวอกถูกเผยออก",
-                            "verse 100:11": "แท้จริงพระเจ้าของพวกเขาในวันนั้น ทรงตระหนักในพวกเขาอย่างแน่นอน"
-                        }
-                    }
-                }
-            },
-            "turkish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "Harıl harıl koşanlara,",
-                            "verse 100:2": "(Nallarıyla) çakarak kıvılcım saçanlara,",
-                            "verse 100:3": "(Ansızın) sabah baskını yapanlara,",
-                            "verse 100:4": "Orada tozu dumana katanlara,",
-                            "verse 100:5": "Derken orada bir topluluğun ta ortasına girenlere yemin ederim ki ,",
-                            "verse 100:6": "Şüphesiz insan, Rabbine karşı pek nankördür.",
-                            "verse 100:7": "Şüphesiz buna kendisi de şahittir ,",
-                            "verse 100:8": "Ve o, mal sevgisine de aşırı derecede düşkündür.",
-                            "verse 100:9": "Kabirlerde bulunanların diriltilip dışarı atıldığını düşünmez mi?",
-                            "verse 100:10": "Ve kalplerde gizlenenler ortaya konduğu zaman ,",
-                            "verse 100:11": "Şüphesiz Rableri o gün onlardan tamamıyle haberdardır."
-                        }
-                    }
-                }
-            },
-            "urdu": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "ان سرپٹ دوڑنے والے گھوڑوں کی قسم جو ہانپ اٹھتیہیں",
-                            "verse 100:2": "(ميدانِ جہاد ميں) تيز دوڑنے والے گھوڑوں کي قَسم جو ہانپتے ہيںo",
-                            "verse 100:3": "پھر جو پتھروں پر سُم مار کر چنگارياں نکالتے ہيںo",
-                            "verse 100:4": "پھر (پتھروں پر نعل) مار کر آگ نکالتے ہیں",
-                            "verse 100:5": "پھر صبح کو چھاپہ مارتے ہیں",
-                            "verse 100:6": "پھر جو صبح ہوتے ہي (دشمن پر) اچانک حملہ کر ڈالتے ہيںo",
-                            "verse 100:7": "پھر وہ اس (حملے والي) جگہ سے گرد و غبار اڑاتے ہيںo",
-                            "verse 100:8": "پھر اس میں گرد اٹھاتے ہیں",
-                            "verse 100:9": "پھر اس وقت دشمن کی فوج میں جا گھستے ہیں",
-                            "verse 100:10": "پھر وہ اسي وقت (دشمن کے) لشکر ميں گھس جاتے ہيںo",
-                            "verse 100:11": "بيشک انسان اپنے رب کا بڑا ہي ناشکرا ہےo",
-                            "verse 100:12": "کہ انسان اپنے پروردگار کا احسان ناشناس (اور ناشکرا) ہے",
-                            "verse 100:13": "اور وہ اس سے آگاہ بھی ہے",
-                            "verse 100:14": "اور يقيناً وہ اس (ناشکري) پر خود گواہ ہےo",
-                            "verse 100:15": "اور بيشک وہ مال کي محبت ميں بہت سخت ہےo",
-                            "verse 100:16": "وہ تو مال سے سخت محبت کرنے والا ہے",
-                            "verse 100:17": "کیا وہ اس وقت کو نہیں جانتا کہ جو( مردے) قبروں میں ہیں وہ باہر نکال لیے جائیں گے",
-                            "verse 100:18": "تو کيا اسے معلوم نہيں جب وہ (مُردے) اٹھائے جائيں گے جو قبروں ميں ہيںo",
-                            "verse 100:19": "اور (راز) ظاہر کر ديئے جائيں گے جو سينوں ميں ہيںo",
-                            "verse 100:20": "اور جو (بھید) دلوں میں ہیں وہ ظاہر کر دیئے جائیں گے",
-                            "verse 100:21": "بیشک ان کا پروردگار اس روز ان سے خوب واقف ہوگا",
-                            "verse 100:22": "بيشک ان کا رب اس دن ان (کے اعمال) سے خوب خبردار ہوگاo ہوگا"
-                        }
-                    }
-                }
-            },
-            "uzbek": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 100:1": "Ҳарсиллаб чопувчиотлар билан қасам.",
-                            "verse 100:2": "Ўт чақнатиб чопувчи отлар билан қасам.",
-                            "verse 100:3": "Тонг чоғида ғорат қилувчи отлар билан қасам.",
-                            "verse 100:4": "Ўша пайтда чанг қўзғотдилар.",
-                            "verse 100:5": "Ва у ила жамоа ўртасига (ёриб) кирдилар.",
-                            "verse 100:6": "Албатта, инсон ўз Роббисига ношукрдир.",
-                            "verse 100:7": "Ва албатта, у ана шунга ўзи гувоҳдир.",
-                            "verse 100:8": "Албатта, у мол-дунёга ҳаддан ташқари ўчдир.",
-                            "verse 100:9": "У билмасми?! Қабрдагилар қўзғатилганда.",
-                            "verse 100:10": "Ва кўкракларидаги ошкор бўлганда.",
-                            "verse 100:11": "Ўша кунда Роббилари улардан, хабардор эканини?! бўлганда."
-                        }
-                    }
-                }
-            }
+        "Albanian": {
+            "verse 100:1": "Betohem në atë (kuajt) që vrapojnë duke dihatur,",
+            "verse 100:2": "e që qesin xixa nga thundrat e tyre,",
+            "verse 100:3": "dhe sulmojnë (armikun) në mëngjes,",
+            "verse 100:4": "dhe n’atë rast çojn pluhur,",
+            "verse 100:5": "të cilët futen në radhët e armikut, -",
+            "verse 100:6": "me të vërtetë, njeriu është jomirënjohës ndaj Zotit të vet,",
+            "verse 100:7": "dhe ai, me të vërtetë, për këtë, është i vetëdijshëm,",
+            "verse 100:8": "dhe, ai është lakmues i madh i pasurisë.",
+            "verse 100:9": "E, vallë, a nuk e di ai (njeriu), kur do të përzihen (ringjallen) ata që gjenden në varreza",
+            "verse 100:10": "dhe kur të dali në shesh ajo që është në zemra (e mira dhe e keqja),",
+            "verse 100:11": "Zoti i tyre, me siguri, atë Ditë do të dijë çdo gjë për ta."
+        },
+        "Amharic": {
+            "verse 100:1": "እያለከለኩ ሩዋጮች በኾኑት (ፈረሶች) እምላለሁ፡፡",
+            "verse 100:2": "(በሰኮናቸው) እያጋጩ እሳትን አውጪዎች በኾኑትም፤",
+            "verse 100:3": "በማለዳ ወራሪዎች በኾኑትም፤",
+            "verse 100:4": "በእርሱ አቧራን በቀሰቀሱትም፤",
+            "verse 100:5": "በ(ጠላት) ክቢ መካከል በእርሱ (በጧት) በተጋፈጡትም እምላለሁ፡፡",
+            "verse 100:6": "ሰው ለጌታው ብርቱ ከሓዲ ነው፡፡",
+            "verse 100:7": "እርሱም በዚህ ላይ መስካሪ ነው፡፡",
+            "verse 100:8": "እርሱም ገንዘብን ለመውደድ በጣም ብርቱ ነው፡፡",
+            "verse 100:9": "(ሰው) አያውቅምን? በመቃብሮች ያሉት (ሙታን) በተቀሰቀሱ ጊዜ፤",
+            "verse 100:10": "በልቦች ውስጥ ያለውም ሁሉ በተገለጸ ጊዜ (እንዴት እንደሚኾን)፡፡",
+            "verse 100:11": "ጌታቸው በዚያ ቀን በእነርሱ (ነገር) በእርግጥ ውስጠ አዋቂ ነው፡፡"
+        },
+        "Arabic": {
+            "verse 100:1": "اًحْبَض ِتاَيِداَعْلاَو",
+            "verse 100:2": "اًحْدَق ِتاَيِروُمْلاَف",
+            "verse 100:3": "اًحْبُص ِتاَريِغُمْلاَف",
+            "verse 100:4": "اًعْقَن ِهِب َنْرَثَأَف",
+            "verse 100:5": "اًعْمَج ِهِب َنْطَسَوَف",
+            "verse 100:6": "ٌدوُنَكَل ِهِّبَرِل َناَسنِإْلا َّنِإ",
+            "verse 100:7": "ٌديِهَشَل َكِلَٰذ ٰىَلَع ُهَّنِإَو",
+            "verse 100:8": "ٌديِدَشَل ِرْيَخْلا ِّبُحِل ُهَّنِإَو",
+            "verse 100:9": "ِروُبُقْلا يِف اَم َرِثْعُب اَذِإ ُمَلْعَي اَلَفَأ ۞",
+            "verse 100:10": "(ِروُدُّصلا يِف اَم َلِّصُحَو",
+            "verse 100:11": "(ٌريِبَخَّل ٍذِئَمْوَي ْمِهِب مُهَّبَر َّنِإ"
+        },
+        "Azerbaijani": {
+            "verse 100:1": "And olsun tövşüyə-tövşüyə çapanlara!",
+            "verse 100:2": "And olsun dırnaqları ilə qığılcım çıxaranlara!",
+            "verse 100:3": "And olsun sübh çağı həmlə edənlərə ki,",
+            "verse 100:4": "hücuma keçib tozanaq qaldıraraq",
+            "verse 100:5": "qoşunun içərisinə soxulurlar.",
+            "verse 100:6": "Həqiqətən, insan Rəbbinə qarşı yaman nankordur.",
+            "verse 100:7": "Özü də bunun şahididir.",
+            "verse 100:8": "Həqiqətən, o, var-dövlətə çox hərisdir.",
+            "verse 100:9": "Məgər o bilmir ki, qəbirlərdə olanlar çıxardılacağı",
+            "verse 100:10": "və kökslərdə olanlar aşkar ediləcəyi zaman –",
+            "verse 100:11": "məhz o gün Rəbbi onlardan xəbərdar olacaqdır?"
+        },
+        "Bengali": {
+            "verse 100:1": "শপথ উর্ধ্বশ্বাসে চলমান অশ্বসমূহের,",
+            "verse 100:2": "অতঃপর ক্ষুরাঘাতে অগ্নিবিচ্ছুরক অশ্বসমূহের",
+            "verse 100:3": "অতঃপর প্রভাতকালে আক্রমণকারী অশ্বসমূহের",
+            "verse 100:4": "ও যারা সে সময়ে ধুলি উৎক্ষিপ্ত করে",
+            "verse 100:5": "অতঃপর যারা শক্রদলের অভ্যন্তরে ঢুকে পড়ে-",
+            "verse 100:6": "নিশ্চয় মানুষ তার পালনকর্তার প্রতি অকৃতজ্ঞ।",
+            "verse 100:7": "এবং সে অবশ্য এ বিষয়ে অবহিত",
+            "verse 100:8": "এবং সে নিশ্চিতই ধন-সম্পদের ভালবাসায় মত্ত।",
+            "verse 100:9": "সে কি জানে না, যখন কবরে যা আছে, তা উত্থিত হবে",
+            "verse 100:10": "এবং অন্তরে যা আছে, তা অর্জন করা হবে?",
+            "verse 100:11": "সেদিন তাদের কি হবে, সে সম্পর্কে তাদের পালনকর্তা সবিশেষ জ্ঞাত।"
+        },
+        "Berber Amazigh": {
+            "verse 100:1": "S tid id ippazalen neffôent!",
+            "verse 100:2": "Ifeîîiwjen, ssafagent.",
+            "verse 100:3": "Di tûebêit ara d dehment.",
+            "verse 100:4": "A$ebbaô, sskarent.",
+            "verse 100:5": "Ar tlemmast n ugraw, kecment.",
+            "verse 100:6": "Ih, amdan, i Mass is, d lkaraâ.",
+            "verse 100:7": "U neppa, ard anagi n waya.",
+            "verse 100:8": "Neppa, s tidep, aîas i iêemmel sâaya!",
+            "verse 100:9": "Day ur iéôi ara ar mara d iffe$ i illan deg iéekwan,",
+            "verse 100:10": "i illan deg idmaren, a d ivheô meôôa.",
+            "verse 100:11": "S tidep, assen, Mass nnsen, ippuxebbeô fellasen."
+        },
+        "Bosnian": {
+            "verse 100:1": "Tako mi onih koji dahćući jure,",
+            "verse 100:2": "pa varnice vrcaju,",
+            "verse 100:3": "i zorom napadaju,",
+            "verse 100:4": "i dižu tada prašinu",
+            "verse 100:5": "pa u njoj u gomilu upadaju –",
+            "verse 100:6": "čovjek je, zaista, Gospodaru svome nezahvalan",
+            "verse 100:7": "i sam je on toga, doista, svjestan,",
+            "verse 100:8": "i on je, zato što voli bogatstvo – radiša.",
+            "verse 100:9": "A zar on ne zna da će, kada budu oživljeni oni koji su u grobovima",
+            "verse 100:10": "i kada iziđe na vidjelo ono što je u srcima,",
+            "verse 100:11": "Gospodar njihov toga Dana, sigurno, sve znati o njima?"
+        },
+        "Bulgarian": {
+            "verse 100:1": "Кълна се в [конете -] препускащите с пръхтене",
+            "verse 100:2": "и мятащите искри с чаткане,",
+            "verse 100:3": "и връхлитащите сутрин,",
+            "verse 100:4": "и вдигащи с това прахоляк,",
+            "verse 100:5": "и врязващи се в множество [от врагове]",
+            "verse 100:6": "човекът е голям неблагодарник към своя Господ.",
+            "verse 100:7": "И сам на това е свидетел.",
+            "verse 100:8": "И е силна любовта му към благата.",
+            "verse 100:9": "Нима не знае, че когато бъде изкарано това, което е в гробовете,",
+            "verse 100:10": "и бъде разкрито това, което е в гърдите,",
+            "verse 100:11": "техният Господ е сведущ за тях в този Ден?"
+        },
+        "Chinese": {
+            "verse 100:1": "以喘息而奔驰的马队盟誓,",
+            "verse 100:2": "以蹄发火花的马队盟誓,",
+            "verse 100:3": "以早晨出击,",
+            "verse 100:4": "卷起尘埃,",
+            "verse 100:5": "攻入敌围的马队盟誓,",
+            "verse 100:6": "人对于主, 确是孤负的。",
+            "verse 100:7": "他自己对那孤负确是见证的,",
+            "verse 100:8": "他对于财产确是酷好的。",
+            "verse 100:9": "难道他不知道吗？当坟中的朽骨被揭发,",
+            "verse 100:10": "胸中的秘密被显示的时侯,",
+            "verse 100:11": "在那日, 他们的主, 确是彻知他们的。"
+        },
+        "Danish": {
+            "verse 100:1": "Bij de rossen die snel en snuivend ademen",
+            "verse 100:2": "Die vonken uit de hoeven slaan",
+            "verse 100:3": "En bij de dageraad plotseling een aan val doen",
+            "verse 100:4": "Daarbij stof opwerpen",
+            "verse 100:5": "En zo door het midden der vijandelijke menigte zich een weg banen",
+            "verse 100:6": "Voorwaar, de mens is ondankbaar jegens zijn Heer",
+            "verse 100:7": "En waarlijk, hij is daar zelf getuige van",
+            "verse 100:8": "En voorzeker, hij heeft een hevige begeerte naar rijkdommen",
+            "verse 100:9": "Weet zo iemand dan niet, dat hetgeen in de graven is weder zal worden opgewekt",
+            "verse 100:10": "En dat het innerlijk zal worden bekend gemaakt",
+            "verse 100:11": "Dat hun Heer hen op die Dag volkomen kent"
+        },
+        "Dutch": {
+            "verse 100:1": "Bij de snuivend voortrennenden.",
+            "verse 100:2": "Die vonken slaan.",
+            "verse 100:3": "Die in de ochtendschemering aanvallen.",
+            "verse 100:4": "Die daarbij stof opwerpen.",
+            "verse 100:5": "Die dan het midden van de gelederen (van de vijand) doorbreken.",
+            "verse 100:6": "Voorwaar, de mens is zijn Heer zeker ondankbaar.",
+            "verse 100:7": "En voorwaar, hij is daar zeker getuige van.",
+            "verse 100:8": "En voorwaar, hij heeft zeker een hevige liefde voor bezit.",
+            "verse 100:9": "Weet hij dan niet dat, wanneer naar buiten wordt gekeerd wat in de graven is.",
+            "verse 100:10": "En onthuld wordt wat in de harten is.",
+            "verse 100:11": "Dat hun Heer op die Dag zeker Alwetend over hen is?"
+        },
+        "English": {
+            "verse 100:1": "By the racers, panting,",
+            "verse 100:2": "And the producers of sparks [when] striking",
+            "verse 100:3": "And the chargers at dawn,",
+            "verse 100:4": "Stirring up thereby [clouds of] dust,",
+            "verse 100:5": "Arriving thereby in the center collectively,",
+            "verse 100:6": "Indeed mankind, to his Lord, is ungrateful.",
+            "verse 100:7": "And indeed, he is to that a witness.",
+            "verse 100:8": "And indeed he is, in love of wealth, intense.",
+            "verse 100:9": "But does he not know that when the contents of the graves are scattered",
+            "verse 100:10": "And that within the breasts is obtained,",
+            "verse 100:11": "Indeed, their Lord with them, that Day, is [fully] Acquainted."
+        },
+        "Filipino": {
+            "verse 100:1": "Sa pamamagitan (ng mga kabayo) na tumatakbo na nangangapos (ang hininga)",
+            "verse 100:2": "Na kumikiskis ang tilamsik ng apoy (sa kanilang mga paa)",
+            "verse 100:3": "At gumagalugad sa pagsalakay sa bukang liwayway",
+            "verse 100:4": "At pansamantalang nagtataas ng alikabok sa mga ulap",
+            "verse 100:5": "At nagpupumilit na makapasok sa gitna (ng kaaway)",
+            "verse 100:6": "Katotohanan! Ang tao (na walang pananampalataya) ay walang pagtanaw ng utang na loob sa kanyang Panginoon",
+            "verse 100:7": "At katotohanan na siya ay nagbibigay patotoo (sa pamamagitan ng kanyang mga gawa)",
+            "verse 100:8": "At katotohanang siya ay marahas sa kanyang pagmamahal sa kayamanan",
+            "verse 100:9": "Hindi baga niya batid kung ang laman ng mga libingan ay ilabas at matambad (alalaong baga, ang sangkatauhan ay muling bubuhayin)",
+            "verse 100:10": "At ang lihim ng dibdib (ng mga tao) ay mabubunyag",
+            "verse 100:11": "Katotohanang sa Araw na ito (alalaong baga, ang Araw ng Muling Pagkabuhay), ang kanilang Panginoon ay Lubos na Nakakaalam (sa kanilang mga gawa, at Kanyang babayaran sila ayon sa kanilang mga gawa)"
+        },
+        "French": {
+            "verse 100:1": "Par les coursiers qui halètent,",
+            "verse 100:2": "qui font jaillir des étincelles,",
+            "verse 100:3": "qui attaquent au matin,",
+            "verse 100:4": "et font ainsi voler la poussière,",
+            "verse 100:5": "et pénètrent au centre de la troupe ennemie.",
+            "verse 100:6": "L'homme est, certes, ingrat envers son Seigneur;",
+            "verse 100:7": "et pourtant, il est certes, témoin de cela;",
+            "verse 100:8": "et pour l'amour des richesses il est certes ardent.",
+            "verse 100:9": "Ne sait-il donc pas que lorsque ce qui est dans les tombes sera bouleversé,",
+            "verse 100:10": "et que sera dévoilé ce qui est dans les poitrines,",
+            "verse 100:11": "ce jour-là, certes, leur Seigneur sera Parfaitement Connaisseur d'eux?"
+        },
+        "Fulah": {
+            "verse 100:1": "O woondirii pucci dogooji",
+            "verse 100:2": "E kuɓɓooji taasanɗe",
+            "verse 100:3": "E ɗii baɗatɗi ruggo subaka",
+            "verse 100:4": "ɗi nduuyniri kolce ɗe punndi=sollaaru",
+            "verse 100:5": "ɗi ngoni hakkunde jaambareeɓe e dental añɓe",
+            "verse 100:6": "Pellet neɗɗo ko jeddoowo joom makko",
+            "verse 100:7": "E ko o ceediiɗo ɗuum",
+            "verse 100:8": "Kanko de pellet ko jiɗɗo jam sanne",
+            "verse 100:9": "Mbela o anndah siko o yaltinaama ko woonno e genaale",
+            "verse 100:10": "Yaltine ko woni ko e ɓerɗe",
+            "verse 100:11": "joom mum en ñande heen ko O kumpatiiɗo"
+        },
+        "German": {
+            "verse 100:1": "Bei den schnaubend Rennenden,",
+            "verse 100:2": "den (mit ihren Hufen) Funken Schlagenden,",
+            "verse 100:3": "den am Morgen Angreifenden,",
+            "verse 100:4": "die darin Staub aufwirbeln,",
+            "verse 100:5": "die dann mitten in die Ansammlung eindringen!",
+            "verse 100:6": "Der Mensch ist seinem Herrn gegenüber wahrlich undankbar,",
+            "verse 100:7": "und er (selbst) ist darüber wahrlich Zeuge.",
+            "verse 100:8": "Und er ist in seiner Liebe zum (eigenen) Besten wahrlich heftig.",
+            "verse 100:9": "Weiß er denn nicht? Wenn durchwühlt wird, was in den Gräbern ist,",
+            "verse 100:10": "und herausgeholt wird, was in den Brüsten ist,...",
+            "verse 100:11": "ihr Herr wird an jenem Tag ihrer wahrlich Kundig sein."
+        },
+        "Hausa": {
+            "verse 100:1": "Ina rantsuwa da dawãki mãsu gudu suna fitar da kũkan ciki.",
+            "verse 100:2": "Mãsu ƙyasta wuta (da kõfatansu a kan duwatsu) ƙyastawa.",
+            "verse 100:3": "Sa'an nan mãsu yin hari a lokacin asuba.",
+            "verse 100:4": "Sai su motsar da ƙũra game da shi.",
+            "verse 100:5": "Sai su shiga, game da ita (ƙũrar), a tsakãnin jama'ar maƙiya.",
+            "verse 100:6": "Lalle ne mutum mai tsananin butulci ne ga Ubangijinsa.",
+            "verse 100:7": "Lalle ne shi mai shaida ne a kan laifinsa dl haka.",
+            "verse 100:8": "Kuma 1alle ne ga dũkiya shi mai tsananin so ne.",
+            "verse 100:9": "Shin, bã ya da sanin lõkacin da aka tõne abin da yake cikin kaburbura.",
+            "verse 100:10": "Aka bayyana abin da ke cikin zukata.",
+            "verse 100:11": "Lalle ne Ubangijinsu, game da su a ranar nan Mai ƙididdigewa ne?"
+        },
+        "Hindi": {
+            "verse 100:1": "(ग़ाज़ियों के) सरपट दौड़ने वाले घोड़ो की क़सम",
+            "verse 100:2": "जो नथनों से फ़रराटे लेते हैं",
+            "verse 100:3": "फिर पत्थर पर टाप मारकर चिंगारियाँ निकालते हैं फिर सुबह को छापा मारते हैं",
+            "verse 100:4": "(तो दौड़ धूप से) बुलन्द कर देते हैं",
+            "verse 100:5": "फिर उस वक्त (दुश्मन के) दिल में घुस जाते हैं",
+            "verse 100:6": "(ग़रज़ क़सम है) कि बेशक इन्सान अपने परवरदिगार का नाशुक्रा है",
+            "verse 100:7": "और यक़ीनी ख़ुदा भी उससे वाक़िफ़ है",
+            "verse 100:8": "और बेशक वह माल का सख्त हरीस है",
+            "verse 100:9": "तो क्या वह ये नहीं जानता कि जब मुर्दे क़ब्रों से निकाले जाएँगे",
+            "verse 100:10": "और दिलों के भेद ज़ाहिर कर दिए जाएँगे",
+            "verse 100:11": "बेशक उस दिन उनका परवरदिगार उनसे ख़ूब वाक़िफ़ होगा"
+        },
+        "Indonesian": {
+            "verse 100:1": "Demi kuda perang yang berlari kencang dengan terengah-engah,",
+            "verse 100:2": "dan kuda yang mencetuskan api dengan pukulan (kuku kakinya),",
+            "verse 100:3": "dan kuda yang menyerang dengan tiba-tiba di waktu pagi,",
+            "verse 100:4": "maka ia menerbangkan debu,",
+            "verse 100:5": "dan menyerbu ke tengah-tengah kumpulan musuh,",
+            "verse 100:6": "sesungguhnya manusia itu sangat ingkar, tidak berterima kasih kepada Tuhannya,",
+            "verse 100:7": "dan sesungguhnya manusia itu menyaksikan (sendiri) keingkarannya,",
+            "verse 100:8": "dan sesungguhnya dia sangat bakhil karena cintanya kepada harta.",
+            "verse 100:9": "Maka apakah dia tidak mengetahui apabila dibangkitkan apa yang ada di dalam kubur,",
+            "verse 100:10": "dan dilahirkan apa yang ada di dalam dada,",
+            "verse 100:11": "sesungguhnya Tuhan mereka pada hari itu Maha Mengetahui keadaan mereka."
+        },
+        "Italian": {
+            "verse 100:1": "Per le scalpitanti ansimanti",
+            "verse 100:2": "che fan sprizzare scintille,",
+            "verse 100:3": "che caricano al mattino,",
+            "verse 100:4": "che fanno volare la polvere,",
+            "verse 100:5": "che irrompono in mezzo [al nemico].",
+            "verse 100:6": "Invero l’uomo è ingrato verso il suo Signore,",
+            "verse 100:7": "invero è ben conscio di ciò.",
+            "verse 100:8": "Invero è avido per amore delle ricchezze!",
+            "verse 100:9": "Non sa che, quando sarà messo sottosopra quello che è nelle tombe",
+            "verse 100:10": "e reso noto quello che è nei petti,",
+            "verse 100:11": "il loro Signore, in quel Giorno, sarà ben informato su di loro?"
+        },
+        "Japanese": {
+            "verse 100:1": "吐く息荒く進撃する（馬）において（誓う）。",
+            "verse 100:2": "蹄に火花を散らし，",
+            "verse 100:3": "暁に急襲して，",
+            "verse 100:4": "砂塵を巻き上げ，",
+            "verse 100:5": "（敵の）軍勢の真っ只中に突入する時。",
+            "verse 100:6": "本当に人間は，自分の主に対し恩知らずである。",
+            "verse 100:7": "それに就き，かれは誠に証人であり，",
+            "verse 100:8": "また富を愛することに熱中する。",
+            "verse 100:9": "かれは墓の中のものが発き出される時のことを知らないのか。",
+            "verse 100:10": "また胸の中にあるものが，暴露されるのを。",
+            "verse 100:11": "本当に主は，その日，かれらに就いて凡て知っておられる。"
+        },
+        "Jawa": {
+            "verse 100:1": "Demi jaran kang nyander ana peperangan nganggo nyuwara",
+            "verse 100:2": "Dhemi jaran kang rikat nyandere nganti watu kang disandung metu genine",
+            "verse 100:3": "Dhemi jaran kang dianggo handingkik seteru ing wayah bangun",
+            "verse 100:4": "Wusana ing panggonan kono peteng dening bleduk",
+            "verse 100:5": "Saking petenge, kang andingkik ora weruh dalan tekan tengahe mungsuh",
+            "verse 100:6": "Satemene manungsa (kafir) ora kadunungan panarima marang kabecikkaning Pangeran",
+            "verse 100:7": "Manungsa mau knekseni awake dhewe anggone ora kadunungan bondha banget",
+            "verse 100:8": "Manungsa mau anggone dhemen bondha banget",
+            "verse 100:9": "Apa dheweke ora weruh semangsane apa kang ana kubur ditangekake",
+            "verse 100:10": "Lan diwelehake halane kang diumpetake ana sajeroning ati",
+            "verse 100:11": "Ing dina iku Allah Pangerane waspada banget (marang hala beciking manungsa)"
+        },
+        "Kazakh": {
+            "verse 100:1": "Ант етемін, қатты ентігіп шабатын",
+            "verse 100:2": "әрі тұяқтарынан ұшқын шығаратын",
+            "verse 100:3": "әрі таң ата шабуылдайтын",
+            "verse 100:4": "онымен бұрқырата шаң көтеретін",
+            "verse 100:5": "әрі онымен жаудың ортасына топ бо­лып кіретіндермен",
+            "verse 100:6": "Ақиқатында, адам Раббысына шүкірлік етпеуші Оның берген игіліктерін мойындамаушы",
+            "verse 100:7": "және анығында, ол осыған куә",
+            "verse 100:8": "Әрі шын мәнінде, ол қайырлы нәрселерді сүюде тым қатты",
+            "verse 100:9": "Ал, сонда ол білмей ме, қабірдегілер шығарылған кезде",
+            "verse 100:10": "және көкіректегі нәрселерәшкереленіп, жария болғанда",
+            "verse 100:11": "күмәнсіз, ол күні, Раббысының олар жайлы толық Хабардар екенін"
+        },
+        "Korean": {
+            "verse 100:1": "질주하는 말을 두고 맹세하사질주하는 말을 두고 맹세하사",
+            "verse 100:2": "불꽃을 튀기는 말을 두고 맹 세하며불꽃을 튀기는 말을 두고 맹 세하며",
+            "verse 100:3": "새벽에 공격하는 말을 두고 맹세하나니새벽에 공격하는 말을 두고 맹세하나니",
+            "verse 100:4": "먼지를 일으키며먼지를 일으키며",
+            "verse 100:5": "적 깊숙이 돌진하는 말을 두고맹세하사적 깊숙이 돌진하는 말을 두고맹세하사",
+            "verse 100:6": "실로 인간은 주님께 감사할 줄 모르더라실로 인간은 주님께 감사할 줄 모르더라",
+            "verse 100:7": "인간은 그가 행한 것을 증언 할 것이매인간은 그가 행한 것을 증언 할 것이매",
+            "verse 100:8": "재물에 탐익하는데만 열중하 노라재물에 탐익하는데만 열중하 노라",
+            "verse 100:9": "무덤속에 있는 것들이 밖으로 나와 산산히 흩어지고무덤속에 있는 것들이 밖으로 나와 산산히 흩어지고",
+            "verse 100:10": "그의 심중에 있는 것들이 밝 혀지며그의 심중에 있는 것들이 밝 혀지며",
+            "verse 100:11": "그날 주님께서 그것들을 아 심으로 충만하다는 것을 인간은 알지 못하느뇨그날 주님께서 그것들을 아 심으로 충만하다는 것을 인간은 알지 못하느뇨"
+        },
+        "Kurdish": {
+            "verse 100:1": "Bi wan hespên behindayîسوێند به‌و هۆکارانه‌ی که تیژڕه‌ون و نرکه‌و ناڵه‌یان لێوه دێت.",
+            "verse 100:2": "Û bi wan hespên, ku (bi simên xwe çirûskên) agir derdixinبه‌و هۆکارانه‌ی کاتێك که ئاگر ده‌که‌نه‌وه‌و بریسکه ده‌ده‌ن.",
+            "verse 100:3": "Û bi wan hespên, ku (di êrişa serê sibehê da) tozê derdixinبه‌و هۆکارانه‌ی که له به‌ره‌به‌یاندا هێرش ده‌به‌نه سه‌ر (ئۆردووی دوژمنان).",
+            "verse 100:4": "Û bi wan hespên, ku (bi wê êrişa xwe, bi tozê) şop li pey xwe hîştineئینجا ده‌بنه هۆی به‌رپاکردنی ته‌پ و تۆزو گه‌رده‌لوول.",
+            "verse 100:5": "Bi vî awayî ewan (hespan bi sîyarê xwe va) di nava neyaran da cî vedaneله‌و کاته‌دا خۆیان ده‌که‌ن به‌ناو جه‌رگه‌ی دوژمناندا.",
+            "verse 100:6": "(Bi van sond dixum!) ku meriv bi rastî ji bona Xuda yê xwe ra pir nankor eسوێند به‌وانه هه‌مووی، به‌ڕاستی ئاده‌میزاد له ئاستی په‌روه‌ردگاریدا زۆر ناسوپاس و حه‌ق نه‌ناسه‌.",
+            "verse 100:7": "Û bi xweber jî nihrevanê vê kirina xwe yeخۆیشی شایه‌ته له‌سه‌ر ئه‌و حاڵه‌ی خۆی، (ڕۆژی قیامه‌ت دان به که‌مته‌ر خه‌می خۆیدا ده‌نێت).",
+            "verse 100:8": "Û bi rastî (meriv) ji bona civandina mal ra zor hizkereبێگومان ئاده‌میزاد له خۆشه‌ویستی ساماندا زۆر به‌تین و هه‌ڵپه‌یه (که ده‌ستی لێی گیربوو ڕه‌زیل و ڕژد و چرووکه‌).",
+            "verse 100:9": "Ma qey meriv nizan e, gava tiştên di goran da heyî radibin (ji bona civînê) têne şandinê (we gavê temtêla wan ça dibe)ئایا ئه‌و جۆره که‌سانه نازانن چی پێش دێت کاتێك له گۆڕه‌کان هێنرانه ده‌ره‌وه‌و (زیندوو کرانه‌وه‌)؟!",
+            "verse 100:10": "Wê (gavê çi)di dilê wan da heye derketî ye hatîye xu yandinêهه‌رچیش له سینه‌کاندا هه‌یه هه‌ر هه‌مووی له (کارنامه‌کاندا) به تۆمار کراوی ئاشکرا کران و خرانه به‌رده‌ست!!",
+            "verse 100:11": "(Erê!) di wê rojê da Xuda yê wan bi temtêla wan agahdareبه‌ڕاستی په‌روه‌ردگاریان له‌و ڕۆژه‌دا ئاگادارو شاره‌زایه پێیان (به‌وردی ده‌پرسێته‌وه‌)."
+        },
+        "Kyrgyz": {
+            "verse 100:1": "Алкынып чуркаган тулпарларга ант",
+            "verse 100:2": "(Туягынан) от чачырата чуркаган аттарга ант",
+            "verse 100:3": "Таң азанда (душманга) чабуул койгон аттарга ант",
+            "verse 100:4": "Ошондо алар (чабуулу менен) топуракты ызгытты",
+            "verse 100:5": "Андан соң (душман) топторунун ортосуна жарып кирди",
+            "verse 100:6": "Инсан деген аныгында, Раббисине нашүкүр",
+            "verse 100:7": "Буга анын өзү деле күбөдүр",
+            "verse 100:8": "Ал байлыкты катуу сүйөт",
+            "verse 100:9": "Билбейби ал мүрзөдөгү өлүктөр чыгарылганда",
+            "verse 100:10": "Көкүрөктөгү сырлар ашкере кылынганда",
+            "verse 100:11": "Ошол Күнү Раббиси кабардар го, алардан"
+        },
+        "Malay": {
+            "verse 100:1": "Demi Kuda Perang yang tangkas berlari dengan kedengaran kencang nafasnya,",
+            "verse 100:2": "Serta mencetuskan api dari telapak kakinya,",
+            "verse 100:3": "Dan meluru menyerbu musuh pada waktu subuh,",
+            "verse 100:4": "Sehingga menghamburkan debu pada waktu itu,",
+            "verse 100:5": "Lalu menggempur ketika itu di tengah-tengah kumpulan musuh;",
+            "verse 100:6": "Sesungguhnya manusia sangat tidak bersyukur akan nikmat Tuhannya.",
+            "verse 100:7": "Dan sesungguhnya ia (dengan bawaannya) menerangkan dengan jelas keadaan yang demikian;",
+            "verse 100:8": "Dan sesungguhnya ia melampau sangat sayangkan harta (secara tamak haloba).",
+            "verse 100:9": "(Patutkah ia bersikap demikian?) Tidakkah ia mengetahui (bagaimana keadaan) ketika dibongkarkan segala yang ada dalam kubur?",
+            "verse 100:10": "Dan dikumpul serta didedahkan segala yang terpendam dalam dada?",
+            "verse 100:11": "Sesungguhnya Tuhan mereka Maha Mengetahui dengan mendalam tentang (balasan yang diberikanNya kepada) mereka - pada hari itu."
+        },
+        "Malayalam": {
+            "verse 100:1": "കിതച്ചു കൊണ്ട് ഓടുന്നവയും,",
+            "verse 100:2": "അങ്ങനെ (കുളമ്പ് കല്ലില്‍) ഉരസി തീപ്പൊരി പറപ്പിക്കുന്നവയും,",
+            "verse 100:3": "എന്നിട്ട് പ്രഭാതത്തില്‍ ആക്രമണം നടത്തുന്നവയും ,",
+            "verse 100:4": "അന്നേരത്ത് പൊടിപടലം ഇളക്കിവിട്ടവയും",
+            "verse 100:5": "അതിലൂടെ (ശത്രു) സംഘത്തിന്‍റെ നടുവില്‍ പ്രവേശിച്ചവയും (കുതിരകള്‍) തന്നെ സത്യം.",
+            "verse 100:6": "തീര്‍ച്ചയായും മനുഷ്യന്‍ തന്‍റെ രക്ഷിതാവിനോട് നന്ദികെട്ടവന്‍ തന്നെ.",
+            "verse 100:7": "തീര്‍ച്ചയായും അവന്‍ അതിന്ന് സാക്ഷ്യം വഹിക്കുന്നവനുമാകുന്നു.",
+            "verse 100:8": "തീര്‍ച്ചയായും അവന്‍ ധനത്തോടുള്ള സ്നേഹം കഠിനമായവനാകുന്നു.",
+            "verse 100:9": "എന്നാല്‍ അവന്‍ അറിയുന്നില്ലേ? ഖബ്‌റുകളിലുള്ളത് ഇളക്കിമറിച്ച് പുറത്ത് കൊണ്ട് വരപ്പെടുകയും ,",
+            "verse 100:10": "ഹൃദയങ്ങളിലുള്ളത് വെളിക്ക് കൊണ്ടു വരപ്പെടുകയും ചെയ്താല്‍ ,",
+            "verse 100:11": "തീര്‍ച്ചയായും അവരുടെ രക്ഷിതാവ് അന്നേ ദിവസം അവരെ പറ്റി സൂക്ഷ്മമായി അറിയുന്നവന്‍ തന്നെയാകുന്നു."
+        },
+        "Norwegian": {
+            "verse 100:1": "Ved dem som pruster i galopp,",
+            "verse 100:2": "som slår gnister,",
+            "verse 100:3": "som stormer på ved morgengry",
+            "verse 100:4": "og virvler opp støv under dette,",
+            "verse 100:5": "og derved trenger inn i flokkens midte!",
+            "verse 100:6": "Mennesket er sannelig utakknemlig mot Herren,",
+            "verse 100:7": "og han er selv vitne til det!",
+            "verse 100:8": "Han er sterk i sitt begjær etter livets goder.",
+            "verse 100:9": "Vet han da ikke når det som er i gravene, tømmes ut,",
+            "verse 100:10": "og det som bor i hjertene, bringes frem,",
+            "verse 100:11": "på denne dag er Herren vel underrettet om dem?"
+        },
+        "Pashto": {
+            "verse 100:1": "قسم دى په تېزو ځغلېدونكو اسونو، چې له سینو او ګېډو نه اواز ایستونكي دي",
+            "verse 100:2": "پس (قسم دى) په هغو اسونو چې په خپلو سُمانو سره تیږې وهي او اور را ایستونكي دي",
+            "verse 100:3": "پس (قسم دى) په هغو اسونو چې د سبا په وخت كې لوټمار كوونكي دي",
+            "verse 100:4": "نو په دغه وخت كې دغه (اسونه) ګرد پورته كوي",
+            "verse 100:5": "پس په دغه وخت كې د لويې ډلې په مینځ كې ننوځي",
+            "verse 100:6": "چې بېشكه انسان د خپل رب ډېر ناشكره دى",
+            "verse 100:7": "او بېشكه دى په دې خبره یقینًا ښه خبردار (او ګواه) دى",
+            "verse 100:8": "او بېشكه دى د مال په مینه كې یقینًا ډېر سخت دى",
+            "verse 100:9": "ایا نو دى نه پوهېږي كله چې هغه (مړي) راوښكل شي چې په قبرونو كې دي؟",
+            "verse 100:10": "او هغه څه راښكاره كړى شي چې په سینو كې دي",
+            "verse 100:11": "بېشكه د دوى رب په دغې ورځ كې په دوى باندې یقینًا ښه خبردار دى۔"
+        },
+        "Persian": {
+            "verse 100:1": "سوگند به اسبان دونده‌اى كه نفس‌نفس مى‌زنند،",
+            "verse 100:2": "سوگند به اسبانى كه به سُم از سنگ آتش مى‌جهانند،",
+            "verse 100:3": "و سوگند به اسبانى كه بامدادان هجوم آورند،",
+            "verse 100:4": "و در آنجا غبار برانگيزند،",
+            "verse 100:5": "و در آنجا همه را در ميان گيرند،",
+            "verse 100:6": "كه: آدمى پروردگار خود را سپاس نمى‌گويد،",
+            "verse 100:7": "و او خود بر اين گواه است،",
+            "verse 100:8": "او مال را فراوان دوست دارد.",
+            "verse 100:9": "آيا نمى‌داند كه چون آنچه در گورهاست زنده گردد،",
+            "verse 100:10": "و آنچه در دلها نهان است آشكار شود،",
+            "verse 100:11": "پروردگارشان در آن روز از حالشان آگاه است؟"
+        },
+        "Polish": {
+            "verse 100:1": "Na galopujące, zadyszane,",
+            "verse 100:2": "Krzeszące iskry ognia,.",
+            "verse 100:3": "Które ruszają do ataku rankiem,",
+            "verse 100:4": "Wzbijając tuman kurzu,",
+            "verse 100:5": "I wdzierają się w sam środek gromadnie!",
+            "verse 100:6": "Zaprawdę, człowiek jest niewdzięczny względem swego Pana!",
+            "verse 100:7": "I, zaprawdę, on sam jest tego świadkiem!",
+            "verse 100:8": "Zaprawdę, jego miłość do dóbr jest ogromna!",
+            "verse 100:9": "Czyż on nie wie, że kiedy zostanie wywrócone to, co jest w grobach,",
+            "verse 100:10": "I kiedy zostanie wydobyte na jaw to, co jest w piersiach",
+            "verse 100:11": "- zaprawdę, tego Dnia, ich Pan będzie o nich doskonale powiadomiony!"
+        },
+        "Portuguese": {
+            "verse 100:1": "Pelos corcéis resfolegantes,",
+            "verse 100:2": "Que lanças chispas de fogo,",
+            "verse 100:3": "Que atacam ao amanhecer,",
+            "verse 100:4": "E que levantam nuvens de poeira,",
+            "verse 100:5": "E que irrompem, nas colunas adversárias,",
+            "verse 100:6": "Que o homem é ingrato para com o seu Senhor.",
+            "verse 100:7": "- Ele mesmo é testemunha disso! -",
+            "verse 100:8": "E que é violento quanto ao amor aos bens terrenos.",
+            "verse 100:9": "Ignoram eles, acaso, que quando os que estão nos sepulcros forem ressuscitados,",
+            "verse 100:10": "E for revelado tudo quanto encerram os corações (humanos),",
+            "verse 100:11": "Nesse dia, o seu Senhor estará inteirado deles?"
+        },
+        "Punjabi": {
+            "verse 100:1": "ਸਹੁੰ ਹੈ, ਉਨ੍ਹਾਂ ਘੋੜਿਆਂ ਦੀ ਜਿਹੜੇ ਹੱਫਦੇ ਹੋਏ ਦੌੜਦੇ ਹਨ।",
+            "verse 100:2": "ਫਿਰ ਤੇ ਖੁਰ ਮਾਰ ਕੇ ਚੰਗਿਆੜੀ ਕੱਢਣ ਵਾਲੇ।",
+            "verse 100:3": "ਫਿਰ ਅੰਮ੍ਰਿਤ ਵੇਲੇ ਛਾਪਾ ਮਾਰਨ ਵਾਲੇ।",
+            "verse 100:4": "ਫਿਰ ਉਸ ਵਿਚ ਧੂੜ ਉਡਾਉਣ ਵਾਲੇ।",
+            "verse 100:5": "ਫਿਰ ਉਸ ਸਮੇ ਫੌਜਾਂ ਵਿਚ ਦਾਖ਼ਿਲ ਹੋਣ ਵਾਲੇ।",
+            "verse 100:6": "ਬੇਸ਼ੱਕ ਮਨੁੱਖ ਆਪਣੇ ਰੱਬ ਦਾ ਨਾ-ਸ਼ੁਕਰਾ ਹੈ।",
+            "verse 100:7": "ਅਤੇ ਉਹ ਖੁਦ ਇਸ ਦਾ ਗਵਾਹ ਹੈ।",
+            "verse 100:8": "ਅਤੇ ਉਹ ਧਨ ਦੇ ਮੋਹ ਵਿਚ ਬੇਹੱਦ ਜਕੜਿਆ ਹੋਇਆ ਹੈ।",
+            "verse 100:9": "ਕੀ ਉਹ ਉਸ ਸਮੇ ਨੂੰ ਨਹੀਂ ਜਾਣਦਾ, ਜਦੋਂ ਉਹ ਕਬਰਾਂ ਵਿਚੋਂ ਕੱਢਿਆ ਜਾਵੇਗਾ।",
+            "verse 100:10": "ਅਤੇ ਕੱਢਿਆ ਜਾਵੇਗਾ, ਜਿਹੜਾ (ਭੇਦ) ਦਿਲਾਂ ਵਿਚ ਹੈ।",
+            "verse 100:11": "ਬੇਸ਼ੱਕ ਉਸ ਦਿਨ ਉਨ੍ਹਾਂ ਦਾ ਰੱਬ ਉਨ੍ਹਾਂ ਤੋਂ ਚੰਗੀ ਤਰਾਂ ਜਾਣੂ ਹੋਵੇਗਾ।"
+        },
+        "Roman english": {
+            "verse 100:1": "Wal`aadi yaati dabha",
+            "verse 100:2": "Fal moori yaati qadha",
+            "verse 100:3": "Fal mugheeraati subha",
+            "verse 100:4": "Fa atharna bihee naq`a",
+            "verse 100:5": "Fawa satna bihee jam`a",
+            "verse 100:6": "Innal-insana lirabbihee lakanood",
+            "verse 100:7": "Wa innahu `alaa zaalika la shaheed",
+            "verse 100:8": "Wa innahu lihubbil khairi la shadeed",
+            "verse 100:9": "Afala ya`lamu iza b`uthira ma filquboor",
+            "verse 100:10": "Wa hussila maa fis sudoor",
+            "verse 100:11": "Inna rabbahum bihim yauma `izil la khabeer"
+        },
+        "Russian": {
+            "verse 100:1": "В знак (Моего знаменья) - скакуны, Что мчатся, и, от бега задыхаясь,",
+            "verse 100:2": "Бьют искрами (из-под копыт),",
+            "verse 100:3": "И атакуют на заре,",
+            "verse 100:4": "И пыль взметают в облака,",
+            "verse 100:5": "И в стан (врага) врываются всей массой, -",
+            "verse 100:6": "Поистине, и Богу своему неблагодарен человек -",
+            "verse 100:7": "И сам свидетельствует это (своими грешными делами).",
+            "verse 100:8": "И неотступен в алчности своей К земным богатствам человек.",
+            "verse 100:9": "Ужель не знает он, что (в тот момент) Извержены все будут из могил, (Чтобы предстать перед Судом Великим),",
+            "verse 100:10": "И явным станет все, Что у людей было сокрыто в их сердцах?",
+            "verse 100:11": "Поистине, В тот День Господь осведомлен о всех."
+        },
+        "Sindhi": {
+            "verse 100:1": "ھانبارو ھڻي ڊوڙندڙن گھوڙن جو قَسم آھي.",
+            "verse 100:2": "پوءِ پھڻن تي نعلن ھڻڻ سان چڻنگن ڪڍندڙن (گھوڙن) جوقسم آھي.",
+            "verse 100:3": "پوءِ صبح جي مھل لُٽ ڪندڙ (گھوڙن) جو قسم آھي",
+            "verse 100:4": "جو اُن مھل رئي اُٿارين.",
+            "verse 100:5": "پوءِ اُن گھڙي (دشمنن جي) ٽوليءَ جي وچ ۾ پون.",
+            "verse 100:6": "ته بيشڪ ماڻھو پنھنجي پالڻھار جو وڏو بي شُڪر آھي.",
+            "verse 100:7": "۽ بيشڪ اُھو پاڻ انھن تي شاھد آھي.",
+            "verse 100:8": "۽ بيشڪ اھو مال جي محبت ۾ ڏاڍو آھي.",
+            "verse 100:9": "(اُنھيءَ وقت کي) نه ڄاڻندو آھي ڇا جنھن وقت انھن کي اُٿاربو جيڪي قبرن ۾ نه آھن.",
+            "verse 100:10": "۽ جيڪي سينن ۾ آھي سو پڌرو ڪبو.",
+            "verse 100:11": "بيشڪ اُن ڏينھن سندن پالڻھار سندن (حال جي) خبر رکندڙ آھي."
+        },
+        "Sinhalese": {
+            "verse 100:1": "හති දමමින් වේගයෙන් දිව යන්නන් මත දිවුරමින්,",
+            "verse 100:2": "කුර ගැටීමෙන් ගිනි පුපුරු නංවන්නන් මත ද,",
+            "verse 100:3": "තවද අලුයමෙහි ආක්රමණය කරන්නන් මත ද (දිවුරමින්.)",
+            "verse 100:4": "එවිට එමගින් උන් දූවිලි නංවති.",
+            "verse 100:5": "කණ්ඩායම් වශයෙන් (සතුරන්) මැදට පිවිසෙති.",
+            "verse 100:6": "නියත වශයෙන්ම මිනිසා තම පරමාධිපතිට ගුණමකුය.",
+            "verse 100:7": "තවද ඇත්තෙන්ම ඔහු එයට සාක්ෂිකරුවෙක් වේ.",
+            "verse 100:8": "තවද ඇත්තෙන්ම ඔහු වස්තුවට දැඩි ලෙස ඇලුම් කරන්නෙක් වේ.",
+            "verse 100:9": "නමුත් මිනීවළවල් තුළ ඇති දෑ පිට කරනු ලබන වග ඔහු නොදන්නේ ද?",
+            "verse 100:10": "තවද හදවත් තුළ ඇති දෑ හෙළි කරනු ලබන වග (ඔහු නොදන්නේ) ද?",
+            "verse 100:11": "නියත වශයෙන්ම එදින ඔවුන්ගේ පරමාධිපති ඔවුන් පිළිබඳ ව අභිඥානවන්තය."
+        },
+        "Somali": {
+            "verse 100:1": "Eebe wuxuu ku dhaartay Fardaha Jahaadka u orda iyagoo qaylyi.",
+            "verse 100:2": "iyo kuwa dabka Qoobkooda ku ifiya (guuraha).",
+            "verse 100:3": "Iyo kuwa Cadawga weerara Subaxdii.",
+            "verse 100:4": "Ee Boodhka kiciya.",
+            "verse 100:5": "Cadawgana dhexgala.",
+            "verse 100:6": "Ee Dadku Eebohood waa diideen.",
+            "verse 100:7": "Arrintaasna Dadku wuu ogyahay.",
+            "verse 100:8": "Dadkuna Xoola jacaylka waa ku daranyahay.",
+            "verse 100:9": "Miyuuna ogayn Marka Xabaalaha waxa ku jira la soo bixiyo.",
+            "verse 100:10": "Laabaha waxa ku qarsoonna la muujiyo.",
+            "verse 100:11": "In Eebohood Maalintaas ogyahay."
+        },
+        "Spanish": {
+            "verse 100:1": "Por los que galopan resoplando",
+            "verse 100:2": "y hacen saltar chispas!",
+            "verse 100:3": "Por los que salen de algarada al alba,",
+            "verse 100:4": "levantando una polvareda",
+            "verse 100:5": "y adentrándose en una tropa!",
+            "verse 100:6": "Que es cierto que el hombre es ingrato con su Señor,",
+            "verse 100:7": "siendo Él testigo de ello.",
+            "verse 100:8": "Y es tenaz en su amor por los bienes.",
+            "verse 100:9": "Es que no sabe que cuando se descubra lo que hay en las tumbas",
+            "verse 100:10": "y aparezca lo que encerraban los pechos,",
+            "verse 100:11": "ese día, su Señor, estará perfectamente informado de ellos?"
+        },
+        "Swahili": {
+            "verse 100:1": "Naapa kwa farasi wendao mbio wakipumua,",
+            "verse 100:2": "Na wakitoa moto kwa kupiga kwato zao chini,",
+            "verse 100:3": "Wakishambulia wakati wa asubuhi,",
+            "verse 100:4": "Huku wakitimua vumbi,",
+            "verse 100:5": "Na wakijitoma kati ya kundi,",
+            "verse 100:6": "Hakika mwanaadamu ni mtovu wa fadhila kwa Mola wake Mlezi!",
+            "verse 100:7": "Na hakika yeye mwenyewe bila ya shaka ni shahidi wa hayo!",
+            "verse 100:8": "Naye hakika bila ya shaka ana nguvu za kupenda mali!",
+            "verse 100:9": "Kwani hajui watakapo fufuliwa waliomo makaburini?",
+            "verse 100:10": "Na yakakusanywa yaliomo vifuani?",
+            "verse 100:11": "Kuwa hakika Mola wao Mlezi siku hiyo bila ya shaka atakuwa na khabari zao wote!"
+        },
+        "Swedish": {
+            "verse 100:1": "SE de frustande stridshästarna!",
+            "verse 100:2": "Se hur deras [hovar] slår upp gnistor",
+            "verse 100:3": "när de galopperar till anfall i den tidiga morgonen",
+            "verse 100:4": "[och] hur de river upp moln av damm",
+            "verse 100:5": "när de stormar fram i stridsvimlet!",
+            "verse 100:6": "MÄNNISKAN är sannerligen djupt otacksam mot sin Herre -",
+            "verse 100:7": "om detta vittnar hon själv -",
+            "verse 100:8": "och visar sin kärlek till rikedom i ivern [att samla mer].",
+            "verse 100:9": "Vet hon inte [att] då det som göms i gravarna strös omkring",
+            "verse 100:10": "och det som människorna har dolt i sina hjärtan uppenbaras;",
+            "verse 100:11": "den Dagen [skall det bli uppenbart att] deras Herre var väl underrättad om dem."
+        },
+        "Tajik": {
+            "verse 100:1": "Савганд ба аспони тездав,",
+            "verse 100:2": "савганд ба аспоне, ки ба сум аз санг оташ меҷаҳонанд",
+            "verse 100:3": "ва савганд ба аспоне, ки бомдодон ҳуҷум оваранд",
+            "verse 100:4": "ва дар он ҷо ғубор бархезонанд",
+            "verse 100:5": "ва дар он ҷо дар миён дароянд,",
+            "verse 100:6": "ки одамӣ Парвардигори худро шукр намегӯяд",
+            "verse 100:7": "ва ӯ худ бар ин гувоҳ аст.",
+            "verse 100:8": "Ӯ молро сахт дӯст дорад.",
+            "verse 100:9": "Оё намедонад, ки чун он чӣ дар гӯрҳост, зинда гардад,",
+            "verse 100:10": "ва он чӣ дар дилҳо ниҳон аст, ошкор шавад,",
+            "verse 100:11": "Парвардигорашон дар он рӯз аз ҳолашон огоҳ аст."
+        },
+        "Tamil": {
+            "verse 100:1": "மூச்சுத்திணற விரைந்து ஓடுபவற்றின் (குதிரைகள்) மீது சத்தியமாக-",
+            "verse 100:2": "பின்னர், (குளம்பை) அடித்து நெருப்புப் பறக்கச் செய்பவற்றின் மீதும்,",
+            "verse 100:3": "பின்னர், அதிகாலையில் விரைந்து (எதிரிகள் மீது) பாய்ந்து செல்பவற்றின் மீதும்-",
+            "verse 100:4": "மேலும், அதனால் புழுதியைக் கிளப்புகின்றவற்றின் மீதும்,",
+            "verse 100:5": "அப்பால் (பகைப்படையின்) மத்தியில் கூட்டமாக நுழைந்து செல்பவற்றின் மீதும் சத்தியமாக-",
+            "verse 100:6": "நிச்சயமாக, மனிதன் தன் இறைவனுக்கு நன்றி கெட்டவனாக இருக்கின்றான்.",
+            "verse 100:7": "அன்றியும், நிச்சயமாக அவனே இதற்குச் சாட்சியாகவும் இருக்கின்றான்.",
+            "verse 100:8": "இன்னும், நிச்சயமாக அவன் பொருளை நேசிப்பதில் அளவு கடந்தே இருக்கின்றான்.",
+            "verse 100:9": "அவன் அறிந்து கொள்ளவில்லையா? கப்றுகளிலிருந்து, அவற்றிலிருப்பவை எழுப்பப்படும் போது-",
+            "verse 100:10": "மேலும், இதயங்களில் உள்ளவை வெளியாக்கப்படும் போது-",
+            "verse 100:11": "நிச்சயமாக, அவர்களுடைய இறைவன் அவர்களைப்பற்றி, அந்நாளில் நன்கறிந்தவன்."
+        },
+        "Tatar": {
+            "verse 100:1": "Аллаһ юлында сугыш өчен сулуларын тавышландырып чабкучы атлар илә ант итәм.",
+            "verse 100:2": "Дагалары белән таштан ут чыгарып чабкучы атлар илә ант итәм.",
+            "verse 100:3": "Таң вакытында Аллаһ юлында сугыш өчен ашыгып чабкучы атлар белән ант итәм.",
+            "verse 100:4": "Ул атлар каты чабулары белән тузан күтәрерләр.",
+            "verse 100:5": "Вә бу атлы гаскәр Исламга һәм мөселманнарга зарар итүче кәфер кавеме арасына таң вакытында барып керделәр, аларны туздырмак өчен.",
+            "verse 100:6": "Тәхкыйк кеше үзенең Раббысына вә Аның нигъмәтләренә көфран нигъмәт кылучыдыр, ягъни иман китермичә, Ислам динен кабул итмичә, үзен-үзе һәлак итүчедер.",
+            "verse 100:7": "Тәхкыйк имансыз кеше үзенең имансызлыгына Аллаһуга каршы кылган эшләре белән гуаһдыр.",
+            "verse 100:8": "Вә тәхкыйк Аллаһудан курыкмаган кеше малны артык сөйгәнлеге өчен малга бик каты сарандыр.",
+            "verse 100:9": "Әйә адәм баласы белмиме белерлек, гакылы бар түгелме – кабердәге үлекләр терелеп чыкканда һәм,",
+            "verse 100:10": "күкрәктәге игътикад, уй-фикерләр ачылганда.",
+            "verse 100:11": "Ул көндә Раббылары аларның кылган эшләреннән хәбәрдар икәнен?"
+        },
+        "Telugu": {
+            "verse 100:1": "వగర్చుతూ పరిగెత్తే గుర్రాల సాక్షిగా",
+            "verse 100:2": "తమ ఖురాల తట్టులతో అగ్నికణాలు లేపేవాటి",
+            "verse 100:3": "తెల్లవారుఝామున దాడి చేసేవాటి",
+            "verse 100:4": "(మేఘాల వంటి) దుమ్ము లేపుతూ",
+            "verse 100:5": "(శత్రువుల) సమూహంలో దూరిపోయే వాటి",
+            "verse 100:6": "నిశ్చయంగా, మానవుడు తన ప్రభువు పట్ల ఎంతో కృతఘ్నుడు",
+            "verse 100:7": "మరియు నిశ్చయంగా, దీనికి స్వయంగా అతడే సాక్షి",
+            "verse 100:8": "మరియు నిశ్చయంగా, అతడు సిరిసంపదల వ్యామోహంలో పూర్తిగా మునిగి ఉన్నాడు",
+            "verse 100:9": "ఏమిటి? అతనికి తెలియదా? గోరీలలో ఉన్నదంతా పెళ్ళగించి బయటికి తీయబడినప్పుడు",
+            "verse 100:10": "మరియు (మానవుల) హృదయాలలోని విషయాలన్నీ వెల్లడి చేయబడినప్పుడు",
+            "verse 100:11": "నిశ్చయంగా, ఆ రోజున వారి ప్రభువు వారిని గురించి అంతా తెలుసుకొని ఉంటాడని"
+        },
+        "Thai": {
+            "verse 100:1": "ขอสาบานด้วยม้าที่วิ่งหอบฮัก ๆ",
+            "verse 100:2": "แล้วด้วยม้าที่กลีบเท้าของมันตีกับหินจนเกิดประกายไฟ",
+            "verse 100:3": "แล้วด้วยม้าที่จู่โจมศัตรูในยามเช้า",
+            "verse 100:4": "แล้วมันได้ทำให้ฝุ่นตลบฟุ้งในยามนั้น",
+            "verse 100:5": "แล้วมันได้บุกเข้าไปท่ามกลางหมู่ศัตรูในยามนั้น",
+            "verse 100:6": "แท้จริงมนุษย์เป็นผู้เนรคุณต่อพระเจ้าของเขา",
+            "verse 100:7": "และแท้จริงเขาได้เป็นพยานต่อการนั้นอย่างแน่นอน",
+            "verse 100:8": "และแท้จริงเขามีความหวงแหน เพราะรักในทรัพย์สมบัติ",
+            "verse 100:9": "เขาไม่รู้ดอกหรือว่า เมื่อสิ่งที่อยู่ในหลุมฝังศพถูกให้ฟื้นขึ้นมา",
+            "verse 100:10": "และสิ่งที่อยู่ในหัวอกถูกเผยออก",
+            "verse 100:11": "แท้จริงพระเจ้าของพวกเขาในวันนั้น ทรงตระหนักในพวกเขาอย่างแน่นอน"
+        },
+        "Turkish": {
+            "verse 100:1": "And olsun Allah yolunda koştukça koşanlara;",
+            "verse 100:2": "And olsun kıvılcımlar saçanlara;",
+            "verse 100:3": "Sabah sabah akına çıkanlara;",
+            "verse 100:4": "Ve tozu dumana katanlara;",
+            "verse 100:5": "Düşman topluluğunun içine dalanlara ki:",
+            "verse 100:6": "İnsan gerçekten Rabbine karşı pek nankördür.",
+            "verse 100:7": "Doğrusu kendisi de bunların hepsine şahittir.",
+            "verse 100:8": "Gerçekten mala da pek düşkündür.",
+            "verse 100:9": "İnsan, kabirlerde bulunanların çıkarılacağı ve kalblerde olanların ortaya konulacağı bir zamanın geleceğini bilmez mi?",
+            "verse 100:10": "İnsan, kabirlerde bulunanların çıkarılacağı ve kalblerde olanların ortaya konulacağı bir zamanın geleceğini bilmez mi?",
+            "verse 100:11": "Doğrusu Rableri o gün onların her şeyinden haberdardır."
+        },
+        "Urdu": {
+            "verse 100:1": "ان سرپٹ دوڑنے والے گھوڑوں کی قسم جو ہانپ اٹھتےہیں",
+            "verse 100:2": "پھر (پتھروں پر نعل) مار کر آگ نکالتے ہیں",
+            "verse 100:3": "پھر صبح کو چھاپہ مارتے ہیں",
+            "verse 100:4": "پھر اس میں گرد اٹھاتے ہیں",
+            "verse 100:5": "پھر اس وقت دشمن کی فوج میں جا گھستے ہیں",
+            "verse 100:6": "کہ انسان اپنے پروردگار کا احسان ناشناس (اور ناشکرا) ہے",
+            "verse 100:7": "اور وہ اس سے آگاہ بھی ہے",
+            "verse 100:8": "وہ تو مال سے سخت محبت کرنے والا ہے",
+            "verse 100:9": "کیا وہ اس وقت کو نہیں جانتا کہ جو (مردے) قبروں میں ہیں وہ باہر نکال لیے جائیں گے",
+            "verse 100:10": "اور جو (بھید) دلوں میں ہیں وہ ظاہر کر دیئے جائیں گے",
+            "verse 100:11": "بےشک ان کا پروردگار اس روز ان سے خوب واقف ہوگا"
+        },
+        "Uyghur": {
+            "verse 100:1": "(غازىلارنىڭ دۈشمەنگە ھۇجۇم قىلىشىدا) ھاسىراپ يۈگۈرگۈچى، (قاتتىق يۈگۈرگەنلىكتىن) تۇۋاقلىرىدىن ئوت چىقارغۇچى، ئەتىگەندە (دۈشمەن ئۈستىگە) باستۇرۇپ كىرگۈچى، (قاتتىق چاپقانلىقتىن) توپا - چاڭ چىقارغۇچى، شۇ توپا - چاڭ بىلەن دۈشمەن توپى ئىچىگە كىرىپ كەتكۈچى ئاتلار بىلەن قەسەمكى",
+            "verse 100:2": "(غازىلارنىڭ دۈشمەنگە ھۇجۇم قىلىشىدا) ھاسىراپ يۈگۈرگۈچى، (قاتتىق يۈگۈرگەنلىكتىن) تۇۋاقلىرىدىن ئوت چىقارغۇچى، ئەتىگەندە (دۈشمەن ئۈستىگە) باستۇرۇپ كىرگۈچى، (قاتتىق چاپقانلىقتىن) توپا - چاڭ چىقارغۇچى، شۇ توپا - چاڭ بىلەن دۈشمەن توپى ئىچىگە كىرىپ كەتكۈچى ئاتلار بىلەن قەسەمكى",
+            "verse 100:3": "(غازىلارنىڭ دۈشمەنگە ھۇجۇم قىلىشىدا) ھاسىراپ يۈگۈرگۈچى، (قاتتىق يۈگۈرگەنلىكتىن) تۇۋاقلىرىدىن ئوت چىقارغۇچى، ئەتىگەندە (دۈشمەن ئۈستىگە) باستۇرۇپ كىرگۈچى، (قاتتىق چاپقانلىقتىن) توپا - چاڭ چىقارغۇچى، شۇ توپا - چاڭ بىلەن دۈشمەن توپى ئىچىگە كىرىپ كەتكۈچى ئاتلار بىلەن قەسەمكى",
+            "verse 100:4": "(غازىلارنىڭ دۈشمەنگە ھۇجۇم قىلىشىدا) ھاسىراپ يۈگۈرگۈچى، (قاتتىق يۈگۈرگەنلىكتىن) تۇۋاقلىرىدىن ئوت چىقارغۇچى، ئەتىگەندە (دۈشمەن ئۈستىگە) باستۇرۇپ كىرگۈچى، (قاتتىق چاپقانلىقتىن) توپا - چاڭ چىقارغۇچى، شۇ توپا - چاڭ بىلەن دۈشمەن توپى ئىچىگە كىرىپ كەتكۈچى ئاتلار بىلەن قەسەمكى",
+            "verse 100:5": "(غازىلارنىڭ دۈشمەنگە ھۇجۇم قىلىشىدا) ھاسىراپ يۈگۈرگۈچى، (قاتتىق يۈگۈرگەنلىكتىن) تۇۋاقلىرىدىن ئوت چىقارغۇچى، ئەتىگەندە (دۈشمەن ئۈستىگە) باستۇرۇپ كىرگۈچى، (قاتتىق چاپقانلىقتىن) توپا - چاڭ چىقارغۇچى، شۇ توپا - چاڭ بىلەن دۈشمەن توپى ئىچىگە كىرىپ كەتكۈچى ئاتلار بىلەن قەسەمكى،",
+            "verse 100:6": "ئىنسان ھەقىقەتەن پەرۋەردىگارىنىڭ (نېمەتلىرىنى) شەكسىز ئىنكار قىلغۇچىدۇر",
+            "verse 100:7": "ئىنسان ھەقىقەتەن ئۇنىڭغا (يەنى اﷲ نىڭ نېمىتىنى ئىنكار قىلغانلىقىغا) ئەلۋەتتە ئۆزى گۇۋاھتۇر",
+            "verse 100:8": "ئىنسان پۇل - مالغا ئىنتايىن ھېرىستۇر",
+            "verse 100:9": "قەبرىلەردىكى ئۆلۈكلەر (سىرتقا) چىقىرىلغان، دىللاردىكى سىرلار ئاشكارا قىلىنغان چاغدا، ئۇلارنىڭ ھەممە ئەھۋالىدىن پەرۋەردىگارىنىڭ ھەقىقەتەن خەۋەردار ئىكەنلىكىنى (بۇ نادان ئىنسان) بىلمەمدۇ؟",
+            "verse 100:10": "قەبرىلەردىكى ئۆلۈكلەر (سىرتقا) چىقىرىلغان، دىللاردىكى سىرلار ئاشكارا قىلىنغان چاغدا، ئۇلارنىڭ ھەممە ئەھۋالىدىن پەرۋەردىگارىنىڭ ھەقىقەتەن خەۋەردار ئىكەنلىكىنى (بۇ نادان ئىنسان) بىلمەمدۇ؟",
+            "verse 100:11": "قەبرىلەردىكى ئۆلۈكلەر (سىرتقا) چىقىرىلغان، دىللاردىكى سىرلار ئاشكارا قىلىنغان چاغدا، ئۇلارنىڭ ھەممە ئەھۋالىدىن پەرۋەردىگارىنىڭ ھەقىقەتەن خەۋەردار ئىكەنلىكىنى (بۇ نادان ئىنسان) بىلمەمدۇ؟"
+        },
+        "Uzbek": {
+            "verse 100:1": "Ҳарсиллаб чопувчиотлар билан қасам.",
+            "verse 100:2": "Ўт чақнатиб чопувчи отлар билан қасам.",
+            "verse 100:3": "Тонг чоғида ғорат қилувчи отлар билан қасам.",
+            "verse 100:4": "Ўша пайтда чанг қўзғотдилар.",
+            "verse 100:5": "Ва у ила жамоа ўртасига (ёриб) кирдилар.",
+            "verse 100:6": "Албатта, инсон ўз Роббисига ношукрдир.",
+            "verse 100:7": "Ва албатта, у ана шунга ўзи гувоҳдир.",
+            "verse 100:8": "Албатта, у мол-дунёга ҳаддан ташқари ўчдир.",
+            "verse 100:9": "У билмасми?! Қабрдагилар қўзғатилганда.",
+            "verse 100:10": "Ва кўкракларидаги ошкор бўлганда.",
+            "verse 100:11": "Ўша кунда Роббилари улардан, хабардор эканини?!"
+        },
+        "Vietnamese": {
+            "verse 100:1": "Thề bởi những con chiến mã hùng hậu ra trận.",
+            "verse 100:2": "Với những móng chân bắn ra tia lửa.",
+            "verse 100:3": "Tấn công vào lúc bình minh.",
+            "verse 100:4": "Làm tung bụi mịt mù.",
+            "verse 100:5": "Đồng loạt xông thẳng vào lòng quân địch.",
+            "verse 100:6": "Thật vậy, đối với Thượng Đế của mình, con người thường vô ơn.",
+            "verse 100:7": "Chính y sẽ làm chứng cho điều đó.",
+            "verse 100:8": "Quả thật, y quá đỗi yêu thích tiền tài và của cải.",
+            "verse 100:9": "Y không biết rồi đây những gì nằm trong mộ đều bị quật lên ư?",
+            "verse 100:10": "Và những bí mật trong lòng đều được phơi bày?",
+            "verse 100:11": "Quả thật, vào Ngày đó, Thượng Đế của họ thông toàn mọi điều."
+        },
+        "Yoruba": {
+            "verse 100:1": "Allahu bura pelu awon esin t’o n sare t’o n mi helehele ni oju-ogun",
+            "verse 100:2": "O tun bura pelu awon esin ti patako ese won n sana (nibi ere sisa)",
+            "verse 100:3": "O tun bura pelu awon esin t’o n kolu ota esin ni owuro kutukutu",
+            "verse 100:4": "Won si fi (patako ese won) tu eruku (ile ota) soke",
+            "verse 100:5": "Won tun be gija papo pelu re saaarin akojo ota",
+            "verse 100:6": "Dajudaju eniyan ni alaimoore si Oluwa re",
+            "verse 100:7": "Dajudaju Allahu si n je Elerii lori iyen",
+            "verse 100:8": "Ati pe dajudaju eniyan le gan-an nibi ife oore aye",
+            "verse 100:9": "Se ko mo pe nigba ti won ba tu ohun t’o wa ninu saree jade (fun ajinde)",
+            "verse 100:10": "ti won si tu ohun t’o wa ninu igba-aya eda sita patapata",
+            "verse 100:11": "dajudaju Oluwa won ni Alamotan nipa won ni Ojo yen"
         }
     }
 }

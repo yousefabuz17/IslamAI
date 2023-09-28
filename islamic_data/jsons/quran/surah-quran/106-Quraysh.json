@@ -5,7 +5,6 @@
     "revelation_order": 29,
     "bismillah_pre": true,
     "verses_count": 4,
-    "source": "Sayyid Abul Ala Maududi - Tafhim al-Qur'an - The Meaning of the Quran",
     "short_text": "The Surah has been titled after the word Quraish in the very first verse.",
     "text": [
         "The Surah has been titled after the word Quraish in the very first verse.",
@@ -19,470 +18,329 @@
         "Theme and Substance",
         "As all this was well known in the time of the Holy Prophet's appointment to Prophethood, there was no need to mention it in the Surah. That is why in the four brief sentences of this Surah, Quraish were simply asked to consider: \"When you yourselves acknowledge this House (i e. the Ka'bah) to be Allah's House, and not of the idols, and when you fully well know that it is Allah alone Who has granted you peace by virtue of this House, made your trade and commerce flourish and saving you from destitution favored you with prosperity, you should then worship and serve Him alone.\""
     ],
+    "quran-source": "`https://surahquran.com`",
     "description": "The surah that admonishes the first recipients of the Quran, the Meccan tribe of Quraysh, to give thanks to the One God alone who had long bequeathed to them, in their desert surroundings, abundant provision and security. It takes its name from verse 1, which mentions the Quraysh, the tribe to which the Prophet Muḥammad belonged.The surah is also known as: Koraish, The Quraish, The Quraish (Custodians of the Ka’ba), The Tribe of Quraysh.",
-    "name_translation": "QURAYSH",
+    "name_translation": "Quraysh",
     "name_complex": "Quraysh",
     "surah_name_ar": "قريش",
     "verses": {
-        "languages": {
-            "albanian": {
-                "translators": {
-                    "1": {
-                        "Efendi Nahi": {
-                            "verse 106:1": "(Perëndia e zhduku ushtrinë e elefantëve) për t’i qetësuar Kurejshët,",
-                            "verse 106:2": "t’i qetësojë ata në udhëtimin që bëjnë dimër e verë,",
-                            "verse 106:3": "le të adhurojnë pra Zotin e kësaj shtëpie (Qabes),",
-                            "verse 106:4": "i cili i ushqen (ngop) ata nga uria dhe i siguroi nga frika."
-                        }
-                    }
-                }
-            },
-            "azerbaijani": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "(Ya Peyğəmbər! Qüreyşlilərə de ki) Qüreyşin ülfəti (dostluğu və ya Allahın onlar üçün səfəri asanlaşdırması) xatirinə,",
-                            "verse 106:2": "Onlara qış və yay səfərini müyəssər edilməsi (qışda Yəməndə, yayda Şamda istirahət və ticarət edə bilmələri) xatirinə.",
-                            "verse 106:3": "Bu evin Rəbbinə (Kə'bənin sahibi Allaha) ibadət etsinlər!",
-                            "verse 106:4": "O Allah ki, onları aclıqdan qurtarıb yemək verdi və onlara qorxudan (fil sahiblərinin təhlükəsindən) sonra əmin-amanlıq bəxş etdi."
-                        }
-                    }
-                }
-            },
-            "bosnian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "Zbog navike Kurejšija,",
-                            "verse 106:2": "navike njihove da zimi i ljeti putuju,",
-                            "verse 106:3": "neka se oni Gospodaru hrama ovoga klanjaju,",
-                            "verse 106:4": "koji ih gladne hrani i od straha brani."
-                        }
-                    }
-                }
-            },
-            "bengali": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "কোরাইশের আসক্তির কারণে,",
-                            "verse 106:2": "আসক্তির কারণে তাদের শীত ও গ্রীষ্মকালীন সফরের।",
-                            "verse 106:3": "অতএব তারা যেন এবাদত করে এই ঘরের পালনকর্তার",
-                            "verse 106:4": "যিনি তাদেরকে ক্ষুধায় আহার দিয়েছেন এবং যুদ্ধভীতি থেকে তাদেরকে নিরাপদ করেছেন। পালনকর্তার"
-                        }
-                    }
-                }
-            },
-            "bulgarian": {
-                "translators": {
-                    "1": {
-                        "Tzvetan Theophanov": {
-                            "verse 106:1": "Заради обичая на Курайш,",
-                            "verse 106:2": "техния обичай да пътуват и зиме, и лете,",
-                            "verse 106:3": "нека служат на Господа на този Дом,",
-                            "verse 106:4": "който им даде храна срещу глада и сигурност срещу страха! Дом,"
-                        }
-                    }
-                }
-            },
-            "chinese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "因為保護古來氏 ,",
-                            "verse 106:2": "因為在冬季和夏季的旅行中保護他們 ,",
-                            "verse 106:3": "故教他們崇敬這天房的主 ,",
-                            "verse 106:4": "他曾為飢荒而賑濟他們 ,曾為恐怖而保祐他們。 ,"
-                        }
-                    }
-                }
-            },
-            "czech": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "Pro soudržnost Kurajšovců,",
-                            "verse 106:2": "pro soudržnost jejich, když připravuji zimní a letní karavanu,",
-                            "verse 106:3": "nechť slouží chrámu tohoto Pánu,",
-                            "verse 106:4": "jenž nasytil je a ochránil před hladem Pánu,"
-                        }
-                    }
-                }
-            },
-            "dutch": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "Ter bescherming van de Qoraishieten,",
-                            "verse 106:2": "Ter bescherming op hun zomer- en winterreis.",
-                            "verse 106:3": "Laten zij derhalve de Heer van dit Huis aanbidden.",
-                            "verse 106:4": "Die hen van voedsel tegen honger heeft voorzien en van vrees bevrijd."
-                        }
-                    }
-                }
-            },
-            "english": {
-                "translators": {
-                    "1": {
-                        "Marmaduke Pickthall": {
-                            "verse 106:1": "For the taming of Qureysh.",
-                            "verse 106:2": "For their taming (We cause) the caravans to set forth in winter and summer.",
-                            "verse 106:3": "So let them worship the Lord of this House,",
-                            "verse 106:4": "Who hath fed them against hunger and hath made them safe from fear."
-                        }
-                    },
-                    "2": {
-                        "Abdullah Yusuf Ali": {
-                            "verse 106:1": "For the covenants (of security and safeguard enjoyed) by the Quraish,",
-                            "verse 106:2": "Their covenants (covering) journeys by winter and summer,-",
-                            "verse 106:3": "Let them adore the Lord of this House,",
-                            "verse 106:4": "Who provides them with food against hunger, and with security against fear (of danger)."
-                        }
-                    },
-                    "3": {
-                        "Arthur J. Arberry": {
-                            "verse 106:1": "For the composing of Koraish,",
-                            "verse 106:2": "their composing for the winter and summer caravan!",
-                            "verse 106:3": "So let them serve the Lord of this House",
-                            "verse 106:4": "who has fed them against hunger and secured them from fear."
-                        }
-                    },
-                    "4": {
-                        "Muhammad Asad": {
-                            "verse 106:1": "SO THAT the Quraysh might remain secure,",
-                            "verse 106:2": "secure in their winter and summer journeys.",
-                            "verse 106:3": "Let them, therefore, worship the Sustainer of this Temple,",
-                            "verse 106:4": "who has given them food against hunger, and made them safe from danger."
-                        }
-                    },
-                    "5": {
-                        "Martin Lings": {
-                            "verse 106:1": "For the uniting of the Qoraish.",
-                            "verse 106:2": "the Quraish might be united.",
-                            "verse 106:3": "The winter caravan, the summer caravan.",
-                            "verse 106:4": "for the caravans of winter and summer.",
-                            "verse 106:5": "So worship they the lord of this house.",
-                            "verse 106:6": "let them worship the Lord of this house.",
-                            "verse 106:7": "Who hath fed them against hunger and hath shielded them from fear.",
-                            "verse 106:8": "hath fed them against hunger and shielded them from fear.",
-                            "verse 106:9": "Used• Unpublished Material (1938-2005) BOOKS•",
-                            "verse 106:10": "The Book of Certainty (1952) •",
-                            "verse 106:11": "A Sufi Saint of the Twentieth Century (1961) •",
-                            "verse 106:12": "What is Sufism (1975) •",
-                            "verse 106:13": "The Quranic Art of Calligraphy and Illumination (1976) •",
-                            "verse 106:14": "Muhammad (1983) •",
-                            "verse 106:15": "Symbol and Archetype (1991) •",
-                            "verse 106:16": "Sufi Poems (2004) •",
-                            "verse 106:17": "Mecca (2004) •",
-                            "verse 106:18": "Return to the Spirit (2005) •",
-                            "verse 106:19": "Splendours of Qur’an Calligraphy and Illumination (2005) ARTICLES•",
-                            "verse 106:20": "“Proofs of Islam”(1954).",
-                            "verse 106:21": "“The Islamic and Christian Conceptions of the March of Time” (1954) The Islamic Quarterly, Vol.",
-                            "verse 106:22": "“The Origins of Sufism (1956) The Islamic Quarterly, Vol.",
-                            "verse 106:23": "“Sufism”: Religion in the Middle East (1969); ed.",
-                            "verse 106:24": "“Sufi Answers to Questions On Ultimate Reality”: Studies in Comparative Religions 1979 Summer/Autumn •",
-                            "verse 106:25": "“The Nature and Origin of Sufism”: Islamic Spirituality (1985) •",
-                            "verse 106:26": "“Mystical Poetry”: The Cambridge History of Arabic Literature, Vol.",
-                            "verse 106:27": "“The Quranic Doctrine of the Afterlife” •",
-                            "verse 106:28": "“The Quranic Origins of Sufism” •",
-                            "verse 106:29": "“Human Origins and Destinies According to the Great Religions of the World” •",
-                            "verse 106:30": "“Metaphysics and the Perennial Philosophy” •",
-                            "verse 106:31": "“An Introduction to Islam” •",
-                            "verse 106:32": "“The Universality of the Quran” •",
-                            "verse 106:33": "Private Talks Books",
-                            "verse 106:34": "without Quranic Ayaat• Collected Poems• Ancient Beliefs and Modern Superstitions• The Eleventh Hour• The Secret of ShakespeareArticles without Quranic Ayaat• “Signs of the Times”: Studies in Comparative Religions 1970 Winter• “Ibn Aliwah” Encyclopedia of Islam, Second Edition• “Kabd” Encyclopedia of Islam, Second Edition Books"
-                        }
-                    },
-                    "6": {
-                        "Mufti Muhammad Taqi Uthmani": {
-                            "verse 106:1": "Because of the familiarity of the Quraish,",
-                            "verse 106:2": "that is, their familiarity with the trips of winter and summer,",
-                            "verse 106:3": "they must worship the Lord of this House,",
-                            "verse 106:4": "who gave them food against hunger, and gave them security against fear."
-                        }
-                    },
-                    "7": {
-                        "Royal Aal al-Bayt Institute Translation": {
-                            "verse 106:1": "[In gratitude] for the security of Quraysh,",
-                            "verse 106:2": "their security for the journey of winter and of summer,",
-                            "verse 106:3": "let them worship the Lord of this House,",
-                            "verse 106:4": "Who has fed them against hunger and made them secure from fear."
-                        }
-                    },
-                    "8": {
-                        "Recitations of Ibrahim walk from saheeh international": {
-                            "verse 106:1": "To awake drive amongst the Quraysh,",
-                            "verse 106:2": "They were acclimatized to the summer and winter (commercial) trips.",
-                            "verse 106:3": "So they should worship the Lord of this (Sacred) House (Ka‘ba, to give Him thanks),",
-                            "verse 106:4": "Who has fed them in hunger (i."
-                        }
-                    }
-                }
-            },
-            "finnish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "(Näin tapahtui) suosiosta Kureishien heimoa kohtaan,",
-                            "verse 106:2": "suojelukseksi heille matkoiltaan talvella ja kesällä.",
-                            "verse 106:3": "Palvelkoot he siis tämän huoneen Herraa,",
-                            "verse 106:4": "joka sammuttaa heidän nälkänsä",
-                            "verse 106:5": "ja antaa turvan tunteen heidän pelätessään."
-                        }
-                    }
-                }
-            },
-            "french": {
-                "translators": {
-                    "1": {
-                        "Jean-Louis Michon": {
-                            "verse 106:1": "A l'union des Quraïchites,",
-                            "verse 106:2": "à leur union pour la caravane de l'hiver et celle de l'été !",
-                            "verse 106:3": "Qu'ils adorent donc le Seigneur de cette Maison,",
-                            "verse 106:4": "qui les a nourris et sauvés de la famine, et qui les a délivrés de la peur."
-                        }
-                    },
-                    "2": {
-                        "Muhammad Hamidullah ": {
-                            "verse 106:1": "A cause du pacte des Qoraïsh ,",
-                            "verse 106:2": "De leur pacte",
-                            "verse 106:3": "les voyages d’hiver et d’été .",
-                            "verse 106:4": "Qu’ils adorent donc le Seigneur de cette Maison (la Kaaba).",
-                            "verse 106:5": "qui les a nourris contre la faim et rassurés de la crainte ! Kaaba)."
-                        }
-                    }
-                }
-            },
-            "german": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "Wegen der Vorliebe der Quraisch,",
-                            "verse 106:2": "Ihrer Vorliebe für Reisen im Winter und Sommer,",
-                            "verse 106:3": "Sollten sie den Herrn dieses Hauses verehren,",
-                            "verse 106:4": "Der sie gespeist hat gegen Hunger und sie sicher gemacht vor Furcht."
-                        }
-                    }
-                }
-            },
-            "hindi": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "pw¡fd d+qjS’k dks tkM+s vkSj xehZ ds lQ+j ls ekuwl dj fn;k gS",
-                            "verse 106:2": "rks mudks ekuwl dj nsus dh otg ls",
-                            "verse 106:3": "bl ?kj ¼dkck½ ds ekfyd dh bcknr djuh pkfg,",
-                            "verse 106:4": "ftlus mudks Hkw[k esa [kkuk fn;k vkSj mudks [kkSQ+ ls veu vrk fd;k"
-                        }
-                    }
-                }
-            },
-            "indonesian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "Karena kebiasaan orang-orang Quraisy,",
-                            "verse 106:2": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas.",
-                            "verse 106:3": "Maka hendaklah mereka menyembah Tuhan Pemilik rumah ini (Ka’bah).",
-                            "verse 106:4": "Yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari ketakutan."
-                        }
-                    }
-                }
-            },
-            "italian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "Per il patto dei Coreisciti ,",
-                            "verse 106:2": "per il loro patto delle carovane invernali ed estive .",
-                            "verse 106:3": "Adorino dunque il Signore di questa Casa ,",
-                            "verse 106:4": "Colui che li ha preservati dalla fame e li ha messi al riparo da",
-                            "verse 106:5": "timore."
-                        }
-                    }
-                }
-            },
-            "japanese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "クライシュ族の保護のため，",
-                            "verse 106:2": "冬と夏のかれらの隊商の保護のため，（そのアッラーの御恵みのために）",
-                            "verse 106:3": "かれらに，この聖殿の主に仕えさせよ。",
-                            "verse 106:4": "飢えに際しては，かれらに食物を与え，また恐れに際しては，それを除き心を安らかにして下さる御方に。 かれらに，この聖殿の主に仕えさせよ。"
-                        }
-                    }
-                }
-            },
-            "korean": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "꾸레이쉬 족의 보호를 위하여",
-                            "verse 106:2": "대상으로 하여금 겨울과 여름에 안전하게 여행케 하였노라",
-                            "verse 106:3": "그러므로 이 집의 주님을 그 들로 하여금 경배토록 하라",
-                            "verse 106:4": "그분은 그들을 기아로부터 배불려 주셨고 공포로부터 안전케 하여 주셨노라"
-                        }
-                    }
-                }
-            },
-            "kurdish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "له‌به‌ر ئه‌وه‌ی قوڕه‌یش هۆگر بووه‌و.",
-                            "verse 106:2": "خوی گرتووه به کاروانی زستانه‌ی (یه‌مه‌ن)و کاروانی هاوینه‌ی (شام) بۆ بازرگانی و (دابین کردنی بژێوی).",
-                            "verse 106:3": "که‌واته با په‌روه‌ردگارو خاوه‌نی ئه‌م ماڵه پیرۆزه (که‌عبه‌) بپه‌رستن.",
-                            "verse 106:4": "ئه‌و زاته‌ی له‌برسێتی ڕزگاری کردن و خۆراکی پێبه‌خشین و له ترس و بیمی (جه‌رده و ڕێگران) پاڕاستوونی و ئاسایشی بۆ دابین کردوون."
-                        }
-                    }
-                }
-            },
-            "malay": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "Kerana kebiasaan aman tenteram kaum Quraisy (penduduk Mekah)",
-                            "verse 106:2": "(laitu) kebiasaan aman tenteram perjalanan mereka (menjalankan perniagaan) pada musim sejuk (ke negeri Yaman) dan pada musim panas (ke negeri Syam),",
-                            "verse 106:3": "Maka hendaklah mereka menyembah Tuhan yang menguasai rumah (Kaabah) ini,",
-                            "verse 106:4": "Tuhan yang memberi mereka penghidupan, menyelamatkan mereka dari kelaparan, dan mengamankan mereka dari ketakutan."
-                        }
-                    }
-                }
-            },
-            "persian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "(كيفر لشكر فيل‏سواران) بخاطر اين بود كه قريش (به اين سرزمين مقدس) الفت گيرند (و زمينه ظهور پيامبر فراهم شود)!",
-                            "verse 106:2": "الفت آنها در سفرهاى زمستانه و تابستانه (و بخاطر اين الفت به آن بازگردند)!",
-                            "verse 106:3": "پس (بشكرانه اين نعمت بزرگ) بايد پروردگار اين خانه را عبادت كنند،",
-                            "verse 106:4": "همان كس كه آنها را از گرسنگى نجات داد و از ترس و ناامنى ايمن ساخت"
-                        }
-                    }
-                }
-            },
-            "portuguese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "Pelo convênio dos coraixitas,",
-                            "verse 106:2": "O convênio das viagens de inverno e de verão!",
-                            "verse 106:3": "Que adorem o Senhor desta Casa,",
-                            "verse 106:4": "Que os provê contra a fome e os salvaguarda do temor!"
-                        }
-                    }
-                }
-            },
-            "romanian": {
-                "translators": {
-                    "1": {
-                        "Lucrarea (traducere úi editare) a fost realizată de către": {
-                            "verse 106:1": "Pentru obiceiul",
-                            "verse 106:2": "Qurayș,",
-                            "verse 106:3": "Obiceiul lor pentru cãlãtoria de iarnã și cea de varã,",
-                            "verse 106:4": "Sã-L adore ei pe Stãpânul acestei Case,",
-                            "verse 106:5": "Care-i hrãnește, pãzindu-i de foame și-i ferește pe ei de spaimã! Case,"
-                        }
-                    },
-                    "2": {
-                        "George Grigore, Coranul": {
-                            "verse 106:1": "Pentru învoiala quraişiţilor,",
-                            "verse 106:2": "învoiala lor de unire la caravana de iarnă şi de vară,",
-                            "verse 106:3": "să se închine Domnului acestui Lăcaş,",
-                            "verse 106:4": "căci El, la foame, i-a hrănit; căci El, la teamă, i-a liniştit! Lăcaş,"
-                        }
-                    }
-                }
-            },
-            "russian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "Для единенья корейшитов,",
-                            "verse 106:2": "Для их союза в дальних переходахлетом и зимой —",
-                            "verse 106:3": "Пусть чтят Владыку этого СвятогоДома,",
-                            "verse 106:4": "Кто дал им пищу, и от голода сберег,И от тревог освободил, от страха."
-                        }
-                    }
-                }
-            },
-            "spanish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "Por el pacto de los coraixíes,",
-                            "verse 106:2": "pacto relativo a la caravana de invierno y la de verano,",
-                            "verse 106:3": "¡que sirvan, pues, al Señor de esta Casa,",
-                            "verse 106:4": "que les ha alimentado contra el hambre y dado seguridad frente al temor!"
-                        }
-                    }
-                }
-            },
-            "tamil": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "குறைஷிகளுக்கு விருப்பம் உண்டாக்கி,",
-                            "verse 106:2": "மாரி காலத்துடையவும் கோடைக்காலத்துடையவும் பிரயாணத்தில் அவர்களுக்கு மன விருப்பத்தை உண்டாக்கியமைக்காக-",
-                            "verse 106:3": "இவ்வீட்டின் (கஅபாவின்) இறைவனை அவர்கள் வணங்குவார்களாக.",
-                            "verse 106:4": "அவனே, அவர்களுக்கு பசிக்கு உணவளித்தான்; மேலும் அவர்களுக்கு அச்சத்திலிருந்தும் அபயமளித்தான்."
-                        }
-                    }
-                }
-            },
-            "thai": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "เพื่อให้ความคุ้นเคยแก่ชาวกุเรช",
-                            "verse 106:2": "เพื่อให้ความคุ้นเคยแก่พวกเขา ในการเดินทางในฤดูหนาว (ไปเยเมน) และฤดูร้อน (ไปชาม)",
-                            "verse 106:3": "ดังนั้น จงให้พวกเขาเคารพภักดีพระเจ้า แห่งบ้านหลังนี้เถิด (คืออัลกะอฺบะฮ์)",
-                            "verse 106:4": "ผู้ทรงให้อาหารแก่พวกเขาให้พ้นจากความหิว และทรงให้ความปลอดภัยแก่พวกเขา ให้พ้นจากความหวาดกลัว"
-                        }
-                    }
-                }
-            },
-            "turkish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "Kureyş'e kolaylaştırıldığı,",
-                            "verse 106:2": "Evet, kış ve yaz seyahatleri onlara kolaylaştırıldığı için ,",
-                            "verse 106:3": "Onlar, şu evin Rabbine kulluk etsinler,ki,",
-                            "verse 106:4": "Kendilerini açlıktan doyuran ve her çeşit korkudan emin kıldı."
-                        }
-                    }
-                }
-            },
-            "urdu": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "قریش کے مانوس کرنے کے سبب",
-                            "verse 106:2": "قريش کو رغبت دلانے کے سبب سےo",
-                            "verse 106:3": "انہيں سرديوں اور گرميوں کے (تجارتي) سفر سے مانوس کر دياo",
-                            "verse 106:4": "(یعنی) ان کو جاڑے اور گرمی کے سفر سے مانوس کرنے کے سبب",
-                            "verse 106:5": "لوگوں کو چاہیئے کہ (اس نعمت کے شکر میں) اس گھر کے مالک کی عبادت کریں",
-                            "verse 106:6": "پس انہيں چاہئے کہ اس گھر (خانہ کعبہ) کے رب کي عبادت کريں (تاکہ اس کي شکر گزاري ہو)o",
-                            "verse 106:7": "جس نے انہيں بھوک (يعني فقر و فاقہ کے حالات) ميں کھانا ديا (يعني رِزق فراہم کيا) اور (دشمنوں کے) خوف سے امن بخشا (يعني محفوظ و مامون زندگي سے نوازا)o",
-                            "verse 106:8": "جس نے ان کو بھوک میں کھانا کھلایا اور خوف سے امن بخشا نوازا)o"
-                        }
-                    }
-                }
-            },
-            "uzbek": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 106:1": "Қурайшнинг лозим тутиши қандай яхши!",
-                            "verse 106:2": "Уларнинг қиш ва ёз сафарларини ўзларига лозим тутишлари қандай яхши!",
-                            "verse 106:3": "Бас, улар мана шу Байтнинг Роббисига ибодат қилсинлар!",
-                            "verse 106:4": "У зот уларини очликдан тўқ қилган, хавфдан омон қилгандир."
-                        }
-                    }
-                }
-            }
+        "Albanian": {
+            "verse 106:1": "(Perëndia e zhduku ushtrinë e elefantëve) për t’i qetësuar Kurejshët,",
+            "verse 106:2": "t’i qetësojë ata në udhëtimin që bëjnë dimër e verë,",
+            "verse 106:3": "le të adhurojnë pra Zotin e kësaj shtëpie (Qabes),",
+            "verse 106:4": "i cili i ushqen (ngop) ata nga uria dhe i siguroi nga frika."
+        },
+        "Amharic": {
+            "verse 106:1": "ቁረይሽን ለማላመድ (ባለዝሆኖቹን አጠፋ)፡፡",
+            "verse 106:2": "የብርድና የበጋን ወራት ጉዞ ሊያላምዳቸው ይህንን ሠራ፡፡",
+            "verse 106:3": "ስለዚህ የዚህን ቤት (የከዕባን) ጌታ ይግገዙ፡፡",
+            "verse 106:4": "ያንን ከረኃብ ያበላቸውን ከፍርሃትም ያረካቸውን (ጌታ ያምልኩ)፡፡"
+        },
+        "Arabic": {
+            "verse 106:1": "ٍشْيَرُق ِفاَليِإِل",
+            "verse 106:2": "ِفْيَّصلاَو ِءاَتِّشلا َةَلْحِر ْمِهِفاَليِإ",
+            "verse 106:3": "ِتْيَبْلا اَذَٰه َّبَر اوُدُبْعَيْلَف",
+            "verse 106:4": "ٍفْوَخ ْنِّم مُهَنَمآَو ٍعوُج نِّم مُهَمَعْطَأ يِذَّلا"
+        },
+        "Azerbaijani": {
+            "verse 106:1": "Qureyşin birliyi xatirinə,",
+            "verse 106:2": "onların qış və yay səfərlərindəki birliyi xatirinə",
+            "verse 106:3": "qoy onlar bu Evin Rəbbinə ibadət etsinlər.",
+            "verse 106:4": "Allah onlara aclıqdan sonra yemək verdi və qorxudan sonra əmin-amanlıq bəxş etdi."
+        },
+        "Bengali": {
+            "verse 106:1": "কোরাইশের আসক্তির কারণে,",
+            "verse 106:2": "আসক্তির কারণে তাদের শীত ও গ্রীষ্মকালীন সফরের।",
+            "verse 106:3": "অতএব তারা যেন এবাদত করে এই ঘরের পালনকর্তার",
+            "verse 106:4": "যিনি তাদেরকে ক্ষুধায় আহার দিয়েছেন এবং যুদ্ধভীতি থেকে তাদেরকে নিরাপদ করেছেন।"
+        },
+        "Berber Amazigh": {
+            "verse 106:1": "Ilmend n lemwafqa n Qurayc.",
+            "verse 106:2": "Lemwafqa nnsen $ef inig unebdu akked win n tegrist.",
+            "verse 106:3": "Awufan ad âabden Mass n Uxxam a,",
+            "verse 106:4": "iten Iceççen, ur plaéen, iten Ivemnen, ur ppagwaden."
+        },
+        "Bosnian": {
+            "verse 106:1": "Zbog navike Kurejšija,",
+            "verse 106:2": "navike njihove da zimi i ljeti putuju,",
+            "verse 106:3": "neka se oni Gospodaru hrama ovoga klanjaju,",
+            "verse 106:4": "koji ih gladne hrani i od straha brani."
+        },
+        "Bulgarian": {
+            "verse 106:1": "Заради обичая на Курайш,",
+            "verse 106:2": "техния обичай да пътуват и зиме, и лете,",
+            "verse 106:3": "нека служат на Господа на този Дом,",
+            "verse 106:4": "който им даде храна срещу глада и сигурност срещу страха!"
+        },
+        "Chinese": {
+            "verse 106:1": "因为保护古来氏,",
+            "verse 106:2": "因为在冬季和夏季的旅行中保护他们,",
+            "verse 106:3": "故教他们崇敬这天房的主,",
+            "verse 106:4": "他曾为饥荒而赈济他们, 曾为恐怖而保佑他们。"
+        },
+        "Danish": {
+            "verse 106:1": "Ter bescherming van de Qoraishieten",
+            "verse 106:2": "Ter bescherming op hun zomer- en winterreis",
+            "verse 106:3": "Laten zij derhalve de Heer van dit Huis aanbidden",
+            "verse 106:4": "Die hen van voedsel tegen honger heeft voorzien en van vrees bevrijd"
+        },
+        "Dutch": {
+            "verse 106:1": "Vanwege de gewoonte*1 van de Qoeraisj.",
+            "verse 106:2": "Hun gewoonte van het maken van tochten in de winter en de zomer.",
+            "verse 106:3": "Daarom moeten zij de Heer van dit Huis aanbidden.",
+            "verse 106:4": "Degene Die hun tegen de honger voedt en hen veilig stelt voor de angst."
+        },
+        "English": {
+            "verse 106:1": "For the accustomed security of the Quraysh -",
+            "verse 106:2": "Their accustomed security [in] the caravan of winter and summer -",
+            "verse 106:3": "Let them worship the Lord of this House,",
+            "verse 106:4": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear."
+        },
+        "Filipino": {
+            "verse 106:1": "Sa pagiging bihasa ng mga (Angkan) ni Quraish",
+            "verse 106:2": "(Ay Aming hinayaan) ang mga sasakyan (ng mga Quraish) na bumiyahe ng ligtas sa Taglamig (patungong Timog), at sa Tag-init (patungong Hilaga, ng walang anumang pangangamba)",
+            "verse 106:3": "Kaya’t hayaan sila na sumamba (kayAllah), ang Panginoon ng Tahanang ito (ang Ka’ba sa Makkah)",
+            "verse 106:4": "(Siya, si Allah) ang nagkaloob sa kanila ng pagkain laban sa pagkagutom at laban sa anumang pangamba (at panganib)"
+        },
+        "French": {
+            "verse 106:1": "A cause du pacte des Coraïch,",
+            "verse 106:2": "De leur pacte [concernant] les voyages d'hiver et d'été.",
+            "verse 106:3": "Qu'ils adorent donc le Seigneur de cette Maison [la Ka'ba],",
+            "verse 106:4": "qui les a nourris contre la faim et rassurés de la crainte!"
+        },
+        "Fulah": {
+            "verse 106:1": "Sabu woowde Quraysi en",
+            "verse 106:2": "Goowgol ɓe ɗatngal dabbunde e ceeɗu",
+            "verse 106:3": "Yo ɓe ndew jom ndu suudu",
+            "verse 106:4": "Oon ñamminɗo ɓe saanga heege O hoolni ɓe e kulol"
+        },
+        "German": {
+            "verse 106:1": "Für die Vereinigung der Qurais",
+            "verse 106:2": "ihre Vereinigung während der Reise des Winters und des Sommers.",
+            "verse 106:3": "So sollen sie dem Herrn dieses Hauses dienen,",
+            "verse 106:4": "Der ihnen Speise nach ihrem Hunger gegeben und ihnen Sicherheit nach ihrer Furcht gewährt hat."
+        },
+        "Hausa": {
+            "verse 106:1": "Sabõda sãbon ¡uraishawa.",
+            "verse 106:2": "Sãbonsu na tafiyar hunturu da ta bazara.",
+            "verse 106:3": "Sabõda haka sai su bauta wa Ubangijin wannan Gida (Ka'abah).",
+            "verse 106:4": "wanda Ya ciyar da su (Ya hana su) daga yunwa, kuma Ya amintar da su daga wani tsõro."
+        },
+        "Hindi": {
+            "verse 106:1": "चूँकि क़ुरैश को जाड़े और गर्मी के सफ़र से मानूस कर दिया है",
+            "verse 106:2": "तो उनको मानूस कर देने की वजह से",
+            "verse 106:3": "इस घर (काबा) के मालिक की इबादत करनी चाहिए",
+            "verse 106:4": "जिसने उनको भूख में खाना दिया और उनको खौफ़ से अमन अता किया"
+        },
+        "Indonesian": {
+            "verse 106:1": "Karena kebiasaan orang-orang Quraisy,",
+            "verse 106:2": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas.",
+            "verse 106:3": "Maka hendaklah mereka menyembah Tuhan Pemilik rumah ini (Ka'bah).",
+            "verse 106:4": "Yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari ketakutan."
+        },
+        "Italian": {
+            "verse 106:1": "Per il patto dei Coreisciti,",
+            "verse 106:2": "per il loro patto delle carovane invernali ed estive.",
+            "verse 106:3": "Adorino dunque il Signore di questa Casa,",
+            "verse 106:4": "Colui Che li ha preservati dalla fame e li ha messi al riparo da [ogni] timore."
+        },
+        "Japanese": {
+            "verse 106:1": "クライシュ族の保護のため，",
+            "verse 106:2": "冬と夏のかれらの隊商の保護のため，（そのアッラーの御恵みのために）",
+            "verse 106:3": "かれらに，この聖殿の主に仕えさせよ。",
+            "verse 106:4": "飢えに際しては，かれらに食物を与え，また恐れに際しては，それを除き心を安らかにして下さる御方に。"
+        },
+        "Jawa": {
+            "verse 106:1": "Minangka pangayoming turun Quraisy",
+            "verse 106:2": "Anggone padha manggon ing padunungan ing mongsa panas, lan mangsa adhem",
+            "verse 106:3": "Mulane para wong turun Quraisy kon pada ngawula ing Allah, Pangerane Ka’bah Baitullah",
+            "verse 106:4": "Kang paring pangan tambaning luwe sarta paring aman tentrem kalis saka barang kang dikuwatirake"
+        },
+        "Kazakh": {
+            "verse 106:1": "Құрайштың қауіпсіздігі таңданарлықіс",
+            "verse 106:2": "Олардың қысқы және жазғы сапар- ларындағы қауіпсіздігі",
+            "verse 106:3": "Ендеше олар осы Үйдің Қағбаның Раббысына Құлшылық етсін",
+            "verse 106:4": "оларды аштықтан кейін тамақтандырған және қауіп-қатерден аман еткен"
+        },
+        "Korean": {
+            "verse 106:1": "꾸레이쉬 족의 보호를 위하여꾸레이쉬 족의 보호를 위하여",
+            "verse 106:2": "대상으로 하여금 겨울과 여름에 안전하게 여행케 하였노라대상으로 하여금 겨울과 여름에 안전하게 여행케 하였노라",
+            "verse 106:3": "그러므로 이 집의 주님을 그 들로 하여금 경배토록 하라그러므로 이 집의 주님을 그 들로 하여금 경배토록 하라",
+            "verse 106:4": "그분은 그들을 기아로부터 배불려 주셨고 공포로부터 안전케 하여 주셨노라그분은 그들을 기아로부터 배불려 주셨고 공포로부터 안전케 하여 주셨노라"
+        },
+        "Kurdish": {
+            "verse 106:1": "Bira ji bona hogirîya Qureyşîyanله‌به‌ر ئه‌وه‌ی قوڕه‌یش هۆگر بووه‌و...",
+            "verse 106:2": "Ji bo ku (Yezdan) ewan (Qureyşîyan) hînê barkirina di zivistanê da (li bal Yemenê) û barkirina havînê (ûbal Şamê da kirîye) bikinخوی گرتووه به کاروانی زستانه‌ی (یه‌مه‌ن)و کاروانی هاوینه‌ی (شام) بۆ بازرگانی و (دابین کردنی بژێوی).",
+            "verse 106:3": "Îdî bira ewan (Qureyşîyan) ji bona Xuda yê vî xanî (ku Kebe ye) perestîye bikinکه‌واته با په‌روه‌ردگارو خاوه‌نی ئه‌م ماڵه پیرۆزه (که‌عبه‌) بپه‌رستن.",
+            "verse 106:4": "Ewî (Xuda yê) ewan (Qureyşîyan) ji birsînê têrkirîne û ewan ji tirsê ewle kirineئه‌و زاته‌ی له‌برسێتی ڕزگاری کردن و خۆراکی پێبه‌خشین و له ترس و بیمی (جه‌رده و ڕێگران) پاڕاستوونی و ئاسایشی بۆ دابین کردوون."
+        },
+        "Kyrgyz": {
+            "verse 106:1": "Курайштын ынтымагы үчүн",
+            "verse 106:2": "Кыш жана жай мезгилиндеги сапарында алардын ынтымак-тынчтыгы үчүн",
+            "verse 106:3": "Эми, алар (ар кандай таш-кудай, жыгач-кудайларын таштап, өздөрүнө ынтымак жашоо тартуулаган) ушул Үйдүн (Каабынын) Раббисине гана ибадат кылышсын",
+            "verse 106:4": "Ал (Рабби) каатчылыкта аларды тамактандырды жана коркунуч(тар)дан аман сактады"
+        },
+        "Malay": {
+            "verse 106:1": "Kerana kebiasaan aman tenteram kaum Quraisy (penduduk Makkah)",
+            "verse 106:2": "(laitu) kebiasaan aman tenteram perjalanan mereka (menjalankan perniagaan) pada musim sejuk (ke negeri Yaman), dan pada musim panas (ke negeri Syam),",
+            "verse 106:3": "Maka hendaklah mereka menyembah Tuhan yang menguasai rumah (Kaabah) ini,",
+            "verse 106:4": "Tuhan yang memberi mereka penghidupan: menyelamatkan mereka dari kelaparan, dan mengamankan mereka dari ketakutan."
+        },
+        "Malayalam": {
+            "verse 106:1": "ഖുറൈശ് ഗോത്രത്തെ കൂട്ടിയിണക്കിയതിനാല്‍.",
+            "verse 106:2": "ശൈത്യകാലത്തെയും ഉഷ്ണകാലത്തെയും യാത്രയുമായി അവരെ കൂട്ടിയിണക്കിയതിനാല്‍,",
+            "verse 106:3": "ഈ ഭവനത്തിന്‍റെ രക്ഷിതാവിനെ അവര്‍ ആരാധിച്ചുകൊള്ളട്ടെ.",
+            "verse 106:4": "അതായത് അവര്‍ക്ക് വിശപ്പിന്ന് ആഹാരം നല്‍കുകയും, ഭയത്തിന് പകരം സമാധാനം നല്‍കുകയും ചെയ്തവനെ."
+        },
+        "Norwegian": {
+            "verse 106:1": "For Quraysh-stammens samordning,",
+            "verse 106:2": "samordning av vinter- og sommerkaravanen,",
+            "verse 106:3": "så la dem dyrke Herren over dette Hus (Ka’aba),",
+            "verse 106:4": "Han som gir dem mat mot sult, og trygghet mot frykt!"
+        },
+        "Pashto": {
+            "verse 106:1": "د قریشو له یو بل سره د الفت له وجې نه",
+            "verse 106:2": "د ژمي او اوړي په سفر كې د دوى د الفت په وجه",
+            "verse 106:3": "نو لازم دي چې دوى د دې كور د رب عبادت وكړي",
+            "verse 106:4": "هغه (رب) چې دوى ته يې له لوږې نه (د بچ كولو لپاره) طعام وركړى دى او دوى ته يې له وېرې نه (د ساتلو لپاره) امن (او بې خوفي) وركړې ده"
+        },
+        "Persian": {
+            "verse 106:1": "براى ائتلاف قريش؛",
+            "verse 106:2": "ائتلافشان در سفر زمستانى و تابستانى.",
+            "verse 106:3": "پس بايد پروردگار اين خانه را بپرستند:",
+            "verse 106:4": "آن كه به هنگام گرسنگى طعامشان داد و از بيم در امانشان داشت."
+        },
+        "Polish": {
+            "verse 106:1": "Dla zgody Kurajszytów,",
+            "verse 106:2": "Dla zgody ich w podróżowaniu zimą i latem!",
+            "verse 106:3": "Niech oni czczą Pana tego Domu,",
+            "verse 106:4": "Który ich nakarmił, kiedy byli głodni, i zapewnił im bezpieczeństwo, aby nie żyli w strachu!"
+        },
+        "Portuguese": {
+            "verse 106:1": "Pelo convênio dos coraixitas,",
+            "verse 106:2": "O convênio das viagens de inverno e de verão!",
+            "verse 106:3": "Que adorem o Senhor desta Casa,",
+            "verse 106:4": "Que os provê contra a fome e os salvaguarda do temor!"
+        },
+        "Punjabi": {
+            "verse 106:1": "ਇਸ ਲਈ ਕਿ ਕੁਰੈਸ਼ ਆਦੀ ਹੋ ਗਏ।",
+            "verse 106:2": "ਸਰਦੀ ਅਤੇ ਗਰਮੀ ਦੇ ਸਫ਼ਰ ਦੇ।",
+            "verse 106:3": "ਤਾਂ ਉਨ੍ਹਾਂ ਨੂੰ ਚਾਹੀਦਾ ਹੈ ਕਿ ਉਹ ਇਸ ਘਰ ਦੇ ਰੱਬ ਦੀ ਸ਼ੰਦਗੀ ਕਰਨ।",
+            "verse 106:4": "ਜਿਸ ਨੇ ਉਨ੍ਹਾਂ ਨੂੰ ਕੁੱਖਿਆਂ ਨੂੰ ਭੋਜਨ ਦਿੱਤਾ ਅਤੇ ਭੈਅ ਤੋਂ ਉਨ੍ਹਾਂ ਨੂੰ ਅਮਨ ਦਿੱਤਾ।"
+        },
+        "Roman english": {
+            "verse 106:1": "Li-ilaafi quraish",
+            "verse 106:2": "Elaafihim rihlatash shitaa-i wass saif",
+            "verse 106:3": "Fal y`abudu rabba haazal-bait",
+            "verse 106:4": "Allazi at`amahum min ju`inw-wa-aamana hum min khawf"
+        },
+        "Russian": {
+            "verse 106:1": "Для единенья корейшитов,",
+            "verse 106:2": "Для их союза в дальних переходах летом и зимой -",
+            "verse 106:3": "Пусть чтят Владыку этого Святого Дома,",
+            "verse 106:4": "Кто дал им пищу, и от голода сберег, И от тревог освободил, от страха."
+        },
+        "Sindhi": {
+            "verse 106:1": "قريشين کي اُلفت ڏيارڻ لاءِ.",
+            "verse 106:2": "جو سياري ۽ اونھاري جي سفر سببان کين اُلفت ڏيارڻ آھي.",
+            "verse 106:3": "تنھنڪري گُھرجين ته ھِن گھر جي (انھيءَ) پالڻھار جي عبادت ڪن.",
+            "verse 106:4": "جنھن کين بُک ۾ کاڄ کاريايو، ۽ کين ڀؤ کان امن ڏنو."
+        },
+        "Sinhalese": {
+            "verse 106:1": "කුරෙයිෂ්වරුන්හට හුරුපුරුදුකම් ඇති කිරීම වෙනුවෙන් ද,",
+            "verse 106:2": "ශීත හා ශ්‍රීෂ්ම ඍතුවන් හි (ව්යාපාර කටයුතු සඳහා) තවලමෙහි යෑමට ඔවුන්හට හුරුපුරුදුකම් ඇති කිරීම වෙනුවෙන් ද,",
+            "verse 106:3": "මෙම නිවසේ පරමාධිපතිට ඔවුන් නැමදුම් කරත්වා!",
+            "verse 106:4": "කුසගින්නෙන් (සිටි) ඔවුනට ආහාර පිරිනමා බියෙන් (සිටි) ඔවුනට ආරක්ෂාව පිරිනැමුවේ ඔහුය."
+        },
+        "Somali": {
+            "verse 106:1": "Caadaysigii Qureesheed.",
+            "verse 106:2": "Ay ka caadayeesheen Safarka Xagaaga iyo Jilaalka darteed.",
+            "verse 106:3": "Ha u caabudeen Eebeha Beydkan (Kacbada).",
+            "verse 106:4": "Eebahi ka quudiyay gaajo, kana aamingaliyay cabsi."
+        },
+        "Spanish": {
+            "verse 106:1": "Por la Alianza de los Quraysh.",
+            "verse 106:2": "Sus alianzas para el viaje de invierno y de verano.",
+            "verse 106:3": "Que adoren pues al Señor de esta Casa.",
+            "verse 106:4": "Que los ha alimentado salvándolos del hambre y los ha librado del temor."
+        },
+        "Swahili": {
+            "verse 106:1": "Kwa walivyo zoea Maqureshi,",
+            "verse 106:2": "Kuzoea kwao safari za siku za baridi na siku za joto.",
+            "verse 106:3": "Basi nawamuabudu Mola Mlezi wa Nyumba hii,",
+            "verse 106:4": "Ambaye anawalisha wasipate njaa, na anawalinda na khofu."
+        },
+        "Swedish": {
+            "verse 106:1": "SÅ ATT Quraysh kunde förbli enade och trygga,",
+            "verse 106:2": "enade och trygga vad gäller såväl deras vinter- som deras sommarfärder.",
+            "verse 106:3": "Därför skall de tillbe Herren till denna Helgedom,",
+            "verse 106:4": "som har gett dem föda när hungersnöden hotade och trygghet när fruktan hade fått makt över deras [sinnen]."
+        },
+        "Tajik": {
+            "verse 106:1": "Барои шукри улфату амни Қурайш;",
+            "verse 106:2": "улфату амнашон дар сафари зимистониву тобистонӣ»",
+            "verse 106:3": "Пас бояд Парвардигори ин хонаро (Каъбаро) бипарастанд:",
+            "verse 106:4": "он ки ба ҳангоми гуруснагӣ таъомашон дод ва аз хавф дар амонашон дошт."
+        },
+        "Tamil": {
+            "verse 106:1": "குறைஷிகளுக்கு விருப்பம் உண்டாக்கி,",
+            "verse 106:2": "மாரி காலத்துடையவும் கோடைக்காலத்துடையவும் பிரயாணத்தில் அவர்களுக்கு மன விருப்பத்தை உண்டாக்கியமைக்காக-",
+            "verse 106:3": "இவ்வீட்டின் (கஅபாவின்) இறைவனை அவர்கள் வணங்குவார்களாக.",
+            "verse 106:4": "அவனே, அவர்களுக்கு பசிக்கு உணவளித்தான்; மேலும் அவர்களுக்கு அச்சத்திலிருந்தும் அபயமளித்தான்."
+        },
+        "Tatar": {
+            "verse 106:1": "Кураеш кабиләсенең өлфәтләнүенә ґәҗәбләнегез.",
+            "verse 106:2": "Аларның җәй һәм кыш көннәрендә сәүдә белән сәфәрдә йөрүләрендә өлфәтләнүләренә ґәҗәбләнегез! (Кураеш җәй бер мәртәбә, кыш бер мәртәбә Шамга йә Йәмәнгә сәфәр итәләр иде, сәфәрләре Аллаһ ярдәме илә уңышлы булып Мәккә халкын ризык белән тәэмин итеп торалар иде).",
+            "verse 106:3": "Алар иман китереп ошбу Кәгъбәнең Раббысы булган Аллаһга гыйбадәт кылсыннар һәм Аның биргән нигъмәтләренә шөкер итсеннәр.",
+            "verse 106:4": "Ул – Аллаһ аларны ачлыктан коткарып тук кылды, һәм аларны һәртөрле куркынычлардан имин кылды."
+        },
+        "Telugu": {
+            "verse 106:1": "(అల్లాహ్ రక్షణ మరియు ఆయన కరుణతో) ఖురైషులు (ప్రయాణాలకు) అలవాటు పడ్డారు",
+            "verse 106:2": "(అల్లాహ్ కరుణ మరియు ఆయన రక్షణతో) వారు శీతాకాలపు మరియు వేసవి కాలపు ప్రయాణాలు చేయ గలుగుతున్నారు",
+            "verse 106:3": "కావున వారు ఆ ఆలయ (కఅబహ్) ప్రభువు (అల్లాహ్)ను మాత్రమే ఆరాధించాలి",
+            "verse 106:4": "వారు ఆకలితో ఉన్నప్పుడు ఆయనే వారికి ఆహారమిచ్చాడు మరియు ఆయనే వారిని భయం (ప్రమాదం) నుండి కాపాడాడు"
+        },
+        "Thai": {
+            "verse 106:1": "เพื่อให้ความคุ้นเคยแก่ชาวกุเรช",
+            "verse 106:2": "เพื่อให้ความคุ้นเคยแก่พวกเขาในการเดินทางในฤดูหนาว (ไปเยเมน) และฤดูร้อน (ไปชาม)",
+            "verse 106:3": "ดังนั้น จงให้พวกเขาเคารพภักดีพระเจ้าแห่งบ้านหลังนี้เถิด (คืออัลกะอฺบะฮฺ)",
+            "verse 106:4": "ผู้ทรงให้อาหารแก่พวกเขาให้พ้นจากความหิว และทรงให้ความปลอดภัยแก่พวกเขาให้พ้นจากความหวาดกลัว"
+        },
+        "Turkish": {
+            "verse 106:1": "Kureyş kabilesinin yaz ve kış yolculuklarında uzlaşması ve anlaşması sağlanmıştır.",
+            "verse 106:2": "Kureyş kabilesinin yaz ve kış yolculuklarında uzlaşması ve anlaşması sağlanmıştır.",
+            "verse 106:3": "Öyleyse kendilerini açken doyuran ve korku içindeyken güven veren bu Ev'in (Kabe'nin) Rabbine kulluk etsinler.",
+            "verse 106:4": "Öyleyse kendilerini açken doyuran ve korku içindeyken güven veren bu Ev'in (Kabe'nin) Rabbine kulluk etsinler."
+        },
+        "Urdu": {
+            "verse 106:1": "قریش کے مانوس کرنے کے سبب",
+            "verse 106:2": "(یعنی) ان کو جاڑے اور گرمی کے سفر سے مانوس کرنے کے سبب",
+            "verse 106:3": "لوگوں کو چاہیئے کہ (اس نعمت کے شکر میں) اس گھر کے مالک کی عبادت کریں",
+            "verse 106:4": "جس نے ان کو بھوک میں کھانا کھلایا اور خوف سے امن بخشا"
+        },
+        "Uyghur": {
+            "verse 106:1": "قۇرەيش قوغدالغانلىقلىرى ئۈچۈن،",
+            "verse 106:2": "ئۇلار قىشلىق ۋە يازلىق سەپىرىدە قوغدالغانلىقلىرى ئۈچۈن،",
+            "verse 106:3": "بۇ ئۆي (يەنى بەيتۇللاھ) نىڭ پەرۋەردىگارىغا ئىبادەت قىلسۇنكى، ئۇ ئۇلارنى ئاچلىقتا ئوزۇقلاندۇردى، ئۇلارنى قورقۇنچتىن ئەمىن قىلدى،",
+            "verse 106:4": "بۇ ئۆي (يەنى بەيتۇللاھ) نىڭ پەرۋەردىگارىغا ئىبادەت قىلسۇنكى، ئۇ ئۇلارنى ئاچلىقتا ئوزۇقلاندۇردى، ئۇلارنى قورقۇنچتىن ئەمىن قىلدى"
+        },
+        "Uzbek": {
+            "verse 106:1": "Қурайшнинг лозим тутиши қандай яхши!",
+            "verse 106:2": "Уларнинг қиш ва ёз сафарларини ўзларига лозим тутишлари қандай яхши!",
+            "verse 106:3": "Бас, улар мана шу Байтнинг Роббисига ибодат қилсинлар!",
+            "verse 106:4": "У зот уларини очликдан тўқ қилган, хавфдан омон қилгандир."
+        },
+        "Vietnamese": {
+            "verse 106:1": "Để bảo vệ bộ tộc Quraish được yên bình.",
+            "verse 106:2": "TA (Allah) đã làm bằng an cho họ trong chuyến đi vào mùa đông và chuyến đi vào mùa hè.",
+            "verse 106:3": "Vì vậy, họ phải thờ phượng Thượng Đế của Ngôi Đền thiêng này.",
+            "verse 106:4": "Đấng đã cho họ ăn khi họ đói và ban cho họ sự bình yên khỏi điều sợ hãi."
+        },
+        "Yoruba": {
+            "verse 106:1": "(Ike ni lati odo Allahu) fun idile Ƙuraes lati wa papo ninu aabo",
+            "verse 106:2": "(Ike ni se lati odo Allahu) fun won lati wa papo ninu aabo lori irin-ajo ni igba otutu ati igba ooru",
+            "verse 106:3": "Nitori naa, ki won josin fun Oluwa Ile (Ka‘bah) yii",
+            "verse 106:4": "Eni ti O fun won ni jije (ni asiko) ebi. O si fi won lokan bale ninu ipaya"
         }
     }
 }

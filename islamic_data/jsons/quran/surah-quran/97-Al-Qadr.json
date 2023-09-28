@@ -5,7 +5,6 @@
     "revelation_order": 25,
     "bismillah_pre": true,
     "verses_count": 5,
-    "source": "Sayyid Abul Ala Maududi - Tafhim al-Qur'an - The Meaning of the Quran",
     "short_text": "The Surah has been titled after the word al-qadr in the very first verse.",
     "text": [
         "The Surah has been titled after the word al-qadr in the very first verse.",
@@ -18,520 +17,382 @@
         "First, that it is the night during which destinies are decided; or that it is not an ordinary night like other nights, but a night in which destinies are made or marred. The revelation of this Book on this night is not merely the revelation of a book but an event which will change the destiny of not only the Quraish, or of Arabia, but of the entire world. The same thing has been said in Surah Ad-Dukhan for which please see introduction to that Surah and footnote 3 thereof. The other meaning is that this is a night of unique honor, dignity and glory; so much so that it is better than a thousand months. Thus, the disbelievers of Makkah have been warned, as if to say: \"You on account of your ignorance regard this Book, which Muhammad (upon whom be Allah's peace and blessings) has presented, as a calamity for yourselves and complain that a disaster has befallen you, whereas the night in which it was decreed to be sent down was such a blessed night that a task was accomplished in it for the well being of mankind, which had never been accomplished even during a thousand months of history.\" This also has been said in verse 3 of Ad-Dukhan in another way, which we have explained in the introduction to that Surah.",
         "In conclusion, it has been stated that on this night, the angels and Gabriel descend with every decree (which in verse 4 of Ad-Dukhan has been described as amr-hakim: wise decree) by the leave of their Lord, and it is all peace from evening until morning; that is, there is no interference of evil in it, for all decrees of Allah are intended to promote good and not evil. This is to and beyond the extent that even if a decision to destroy a nation is taken, it is taken for the sake of ultimate good, not evil."
     ],
+    "quran-source": "`https://surahquran.com`",
     "description": "The surah that mentions the moment in which God first revealed the Quran, calling it The Ordainment. It is named after the phrase “the night of ordainment” (laylay al-qadr), mentioned in verse 1. The surah celebrates the night when the first revelation of the Quran was sent down.The surah is also known as: Determination, Honour, Power, The Glory, The Night of Empowering Decree, The Night of Glory, The Night of Power.",
-    "name_translation": "THE ORDAINMENT",
+    "name_translation": "The Ordainment",
     "name_complex": "Al-Qadr",
     "surah_name_ar": "القدر",
     "verses": {
-        "languages": {
-            "albanian": {
-                "translators": {
-                    "1": {
-                        "Efendi Nahi": {
-                            "verse 97:1": "Na kemi fillur ta shpallim (Kur’anin) në natën e Kadrit –",
-                            "verse 97:2": "e kush të tregon ty se ç’është nata e Kadrit?",
-                            "verse 97:3": "Nata e kadrit është më e vlefshme se një mijë muaj –",
-                            "verse 97:4": "engjëjt dhe Xhebraili, me lejen e Zotit të tyre, zbresin në të, për të zbatuar (të gjitha) urdhërat e Zotit,",
-                            "verse 97:5": "përshëndetjet e kësaj nate zgjasin deri në agim."
-                        }
-                    }
-                }
-            },
-            "azerbaijani": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "Həqiqətən, Biz onu (Qur'anı) Qədr gecəsi (lövhi-məhfuzda dünya səmasına) nazil etdik!",
-                            "verse 97:2": "(Ya Peyğəmbər!) Sən nə bilirsən (haradan bilirsən) ki, Qədr gecəsi nədir?!",
-                            "verse 97:3": "Qədr gecəsi (savab cəhətdən) min aydan daha xeyirlidir! (O, ramazan ayının on doqquzuna, iyirmi birinə, iyirmi üçünə, iyirmi beşinə, bir rəvayətə görə isə iyirmi yeddisinə təsadüf edir).",
-                            "verse 97:4": "O gecə mələklər və ruh (Cəbrail) Rəbbinin izni ilə (həmin gündən gələn ilin Qədr gecəsinədək dünyada baş verəcək) hər bir işdən dolayı (Allah dərgahından əmrlər alaraq) yerə enərlər.",
-                            "verse 97:5": "O gecə dan yeri sökülənə kimi (büsbütün) salamatlıqdır! (əmin-amanlıqdır) (Qədr gecəsi heç bir bəla nazil olmaz, o, bütünlüklə xeyir-bərəkətdən ibarətdir."
-                        }
-                    }
-                }
-            },
-            "bosnian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "Mi smo ga počeli objavljivati u Noći Kadr -",
-                            "verse 97:2": "a šta ti misliš šta je Noć Kadr?",
-                            "verse 97:3": "Noć Kadr je bolja od hiljadu mjeseci -",
-                            "verse 97:4": "meleki i Džibril, s dozvolom Gospodara svoga, spuštaju se u njoj zbog odluke svake,",
-                            "verse 97:5": "sigurnost je u njoj sve dok zora ne svane."
-                        }
-                    }
-                }
-            },
-            "bengali": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "আমি একে নাযিল করেছি শবে-কদরে।",
-                            "verse 97:2": "শবে-কদর সমন্ধে আপনি কি জানেন?",
-                            "verse 97:3": "শবে-কদর হল এক হাজার মাস অপেক্ষা শ্রেষ্ঠ।",
-                            "verse 97:4": "এতে প্রত্যেক কাজের জন্যে ফেরেশতাগণ ও রূহ অবতীর্ণ হয় তাদের পালনকর্তার নির্দেশক্রমে।",
-                            "verse 97:5": "এটা নিরাপত্তা, যা ফজরের উদয় পর্যন্ত অব্যাহত থাকে। নির্দেশক্রমে।"
-                        }
-                    }
-                }
-            },
-            "bulgarian": {
-                "translators": {
-                    "1": {
-                        "Tzvetan Theophanov": {
-                            "verse 97:1": "Ние го низпослахме в Нощта на могъществото.",
-                            "verse 97:2": "Но откъде да знаеш ти какво е Нощта на могъществото?",
-                            "verse 97:3": "Нощта на могъществото е по-добра от хиляда месеца.",
-                            "verse 97:4": "Слизат ангелите и Духът",
-                            "verse 97:5": "през нея - с позволението на техния Господ - за всяка повеля.",
-                            "verse 97:6": "Мир е тя до началото на развиделяването."
-                        }
-                    }
-                }
-            },
-            "chinese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "我在那高貴的夜間確已降示它 ,",
-                            "verse 97:2": "你怎能知道那高貴的夜間是什麼？",
-                            "verse 97:3": "那高貴的夜間 ,勝過一千個月 ,",
-                            "verse 97:4": "眾天神和精神 ,奉他們的主的命令 ,為一切事務而在那夜間降臨 ,",
-                            "verse 97:5": "那夜間全是平安的 ,直到黎明顯著的時侯。 ,"
-                        }
-                    }
-                }
-            },
-            "czech": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "Vskutku jsme jej seslali v noci Úradku.",
-                            "verse 97:2": "Víš ty vůbec, co je to noc Úradku?",
-                            "verse 97:3": "Noc Úradku než tisíc měsíců je lepší,",
-                            "verse 97:4": "v ní podle Pána svého dovolení andělé a duch sestupují kvůli každému zjevení.",
-                            "verse 97:5": "A až do východu jitřních červánků je mír v ní."
-                        }
-                    }
-                }
-            },
-            "dutch": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "Waarlijk, Wij hebben u (de Koran) nedergezonden, in de waardevolle nacht.",
-                            "verse 97:2": "Wat weet gij (er van) wat de waardevolle nacht is?",
-                            "verse 97:3": "De waardevolle nacht is beter dan duizend maanden.",
-                            "verse 97:4": "Daarin dalen engelen en de Geest door Gods gebod neder (zeggende)",
-                            "verse 97:5": "\"In alles Vrede,\" tot het rijzen van de dageraad."
-                        }
-                    }
-                }
-            },
-            "english": {
-                "translators": {
-                    "1": {
-                        "Marmaduke Pickthall": {
-                            "verse 97:1": "Lo! We revealed it on the Night of Predestination.",
-                            "verse 97:2": "Ah, what will convey unto thee what the Night of Power is!",
-                            "verse 97:3": "The Night of Power is better than a thousand months.",
-                            "verse 97:4": "The angels and the Spirit descend therein, by the permission of their Lord, with all decrees.",
-                            "verse 97:5": "(The night is) Peace until the rising of the dawn."
-                        }
-                    },
-                    "2": {
-                        "Abdullah Yusuf Ali": {
-                            "verse 97:1": "We have indeed revealed this (Message) in the Night of Power:",
-                            "verse 97:2": "And what will explain to thee what the night of power is?",
-                            "verse 97:3": "The Night of Power is better than a thousand months.",
-                            "verse 97:4": "Therein come down the angels and the Spirit by God’s permission, on every errand:",
-                            "verse 97:5": "Peace!."
-                        }
-                    },
-                    "3": {
-                        "Arthur J. Arberry": {
-                            "verse 97:1": "Behold, We sent it down on the Night of Power;",
-                            "verse 97:2": "And what shall teach thee what is the Night of Power?",
-                            "verse 97:3": "The Night of Power is better than a thousand months;",
-                            "verse 97:4": "in it the angels and the Spirit descend, by the leave of their Lord, upon every command.",
-                            "verse 97:5": "Peace it is, till the rising of dawn."
-                        }
-                    },
-                    "4": {
-                        "Muhammad Asad": {
-                            "verse 97:1": "BEHOLD, from on high have We bestowed this [divine writ] on the Night of Destiny.",
-                            "verse 97:2": "And what could make thee conceive what it is, that Night of Destiny?",
-                            "verse 97:3": "The Night of Destiny is better than a thousand months:",
-                            "verse 97:4": "in hosts descend in it the angels, bearing divine inspiration by their Sustainer’s leave; from all",
-                            "verse 97:5": "that may happen",
-                            "verse 97:6": "does it make secure, until the rise of dawn.",
-                            "verse 97:7": "inspiration."
-                        }
-                    },
-                    "5": {
-                        "Martin Lings": {
-                            "verse 97:1": "Verily We have revealed it in the Night of Worth.",
-                            "verse 97:2": "We sent it down in the Night of Power.",
-                            "verse 97:3": "We sent it down in the Layalti ’l-Qadr.",
-                            "verse 97:4": "And how canst thou tell the Night of Worth? And",
-                            "verse 97:5": "how canst thou tell the Night of Power? And",
-                            "verse 97:6": "what will tell thee what the Laylati ’l-Qadr is?",
-                            "verse 97:7": "The Night of Worth is better than a thousand months.",
-                            "verse 97:8": "The",
-                            "verse 97:9": "Night of Power is better than a thousand months.",
-                            "verse 97:10": "The",
-                            "verse 97:11": "Laylati ‘l-Qadr is better than a thousand months.",
-                            "verse 97:12": "The angels and the spirit descend therein by the leave of their Lord, from all decrees.",
-                            "verse 97:13": "Angels and the Spirit descend therein from the source of all decrees by the leave of their Lord.",
-                            "verse 97:14": "Angels and the Spirit descend….",
-                            "verse 97:15": "Angels and the Spirit descend therein….",
-                            "verse 97:16": "",
-                            "verse 97:17": "In",
-                            "verse 97:18": "it the angels descend, and the Spirit….",
-                            "verse 97:19": "Peace it is until the rising of the dawn.",
-                            "verse 97:20": "it is until the break of dawn.",
-                            "verse 97:21": "Used• Unpublished Material (1938-2005) BOOKS•",
-                            "verse 97:22": "The Book of Certainty (1952) •",
-                            "verse 97:23": "A Sufi Saint of the Twentieth Century (1961) •",
-                            "verse 97:24": "What is Sufism (1975) •",
-                            "verse 97:25": "The Quranic Art of Calligraphy and Illumination (1976) •",
-                            "verse 97:26": "Muhammad (1983) •",
-                            "verse 97:27": "Symbol and Archetype (1991) •",
-                            "verse 97:28": "Sufi Poems (2004) •",
-                            "verse 97:29": "Mecca (2004) •",
-                            "verse 97:30": "Return to the Spirit (2005) •",
-                            "verse 97:31": "Splendours of Qur’an Calligraphy and Illumination (2005) ARTICLES•",
-                            "verse 97:32": "“Proofs of Islam”(1954).",
-                            "verse 97:33": "“The Islamic and Christian Conceptions of the March of Time” (1954) The Islamic Quarterly, Vol.",
-                            "verse 97:34": "“The Origins of Sufism (1956) The Islamic Quarterly, Vol.",
-                            "verse 97:35": "“Sufism”: Religion in the Middle East (1969); ed.",
-                            "verse 97:36": "“Sufi Answers to Questions On Ultimate Reality”: Studies in Comparative Religions 1979 Summer/Autumn •",
-                            "verse 97:37": "“The Nature and Origin of Sufism”: Islamic Spirituality (1985) •",
-                            "verse 97:38": "“Mystical Poetry”: The Cambridge History of Arabic Literature, Vol.",
-                            "verse 97:39": "“The Quranic Doctrine of the Afterlife” •",
-                            "verse 97:40": "“The Quranic Origins of Sufism” •",
-                            "verse 97:41": "“Human Origins and Destinies According to the Great Religions of the World” •",
-                            "verse 97:42": "“Metaphysics and the Perennial Philosophy” •",
-                            "verse 97:43": "“An Introduction to Islam” •",
-                            "verse 97:44": "“The Universality of the Quran” •",
-                            "verse 97:45": "Private Talks Books",
-                            "verse 97:46": "without Quranic Ayaat• Collected Poems• Ancient Beliefs and Modern Superstitions• The Eleventh Hour• The Secret of ShakespeareArticles without Quranic Ayaat• “Signs of the Times”: Studies in Comparative Religions 1970 Winter• “Ibn Aliwah” Encyclopedia of Islam, Second Edition• “Kabd” Encyclopedia of Islam, Second Edition Books"
-                        }
-                    },
-                    "6": {
-                        "Mufti Muhammad Taqi Uthmani": {
-                            "verse 97:1": "We have sent it (the Qur’ān) down in the Night of Qadr.",
-                            "verse 97:2": "And what may let you know what the Night of Qadr is?",
-                            "verse 97:3": "The Night of Qadr is much better than one thousand months.",
-                            "verse 97:4": "The angels and the Spirit descend in it, with the leave of your Lord, along with every command.",
-                            "verse 97:5": "Peace it is till the debut of dawn."
-                        }
-                    },
-                    "7": {
-                        "Royal Aal al-Bayt Institute Translation": {
-                            "verse 97:1": "Lo! We revealed it on the Night of Ordainment.",
-                            "verse 97:2": "And what will show you what the Night of Ordainment is?",
-                            "verse 97:3": "The Night of Ordainment is better than a thousand months.",
-                            "verse 97:4": "The angels and the Spirit descend in it by the leave of their Lord with every command.",
-                            "verse 97:5": "It is peaceful until the rising of the dawn."
-                        }
-                    },
-                    "8": {
-                        "Recitations of Ibrahim walk from saheeh international": {
-                            "verse 97:1": "Surely, We sent down this (Holy Qur’an) during the Night of Destiny.",
-                            "verse 97:2": "And what have you made out what the Night of Destiny is?",
-                            "verse 97:3": "The Night of Destiny is better than a thousand months (in merit, blessings, reward and recompense).",
-                            "verse 97:4": "The angels and the Spirit of Peace (Gabriel) descend by their Lord’s command during this (night) with decrees concerning all matters (of blessings and bounties).",
-                            "verse 97:5": "This (night) is (absolute) peace and security till daybreak."
-                        }
-                    }
-                }
-            },
-            "finnish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "Totisesti olemme ilmaissut sen siunattuna yönä.",
-                            "verse 97:2": "Mistäpä tietäisit, mikä Voiman yö on !",
-                            "verse 97:3": "Siunattu yö on arvokkaampi kuin tuhat kuukautta.",
-                            "verse 97:4": "Silloin laskeutuvat enkelit ja suuri henki Herransa käskyn mukaan kaikenlaisiin tehtäviin.",
-                            "verse 97:5": "Silloin vallitsee rauha ja kestää aamunkoittoon saakka."
-                        }
-                    }
-                }
-            },
-            "french": {
-                "translators": {
-                    "1": {
-                        "Jean-Louis Michon": {
-                            "verse 97:1": "En Vérité, Nous l'avons fait descendre durant la Nuit de la Valeur.",
-                            "verse 97:2": "Mais qu'est-ce qui te fera connaître ce qu'est la Nuit de la Valeur ?",
-                            "verse 97:3": "La Nuit de la Valeur est meilleure que mille mois !",
-                            "verse 97:4": "Les anges et l'Esprit descendent en elle avec la permission de leur Seigneur, munis de tous les décrets.",
-                            "verse 97:5": "Elle est Paix jusqu'au lever de l'aube."
-                        }
-                    },
-                    "2": {
-                        "Muhammad Hamidullah ": {
-                            "verse 97:1": "Nous l’avons certes, fait descendre (le Coran) pendant la nuit d’Al-Qadr.",
-                            "verse 97:2": "Et qui te dira ce qu’est la nuit d’Al-Qadr ?",
-                            "verse 97:3": "La nuit d’Al-Qadr est meilleure que mille mois.",
-                            "verse 97:4": "Durant celle-ci descendent les Anges ainsi que l’Esprit , par permission de leur Seigneur pour tout ordre.",
-                            "verse 97:5": "Elle est paix et salut jusqu’à l’apparition de l’aube."
-                        }
-                    }
-                }
-            },
-            "german": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "Wahrlich, Wir sandten ihn (den Koran) hernieder in der Nacht Al-Qadr.",
-                            "verse 97:2": "Und was lehrt dich wissen, was die Nacht Al-Qadr ist?",
-                            "verse 97:3": "Die Nacht Al-Qadr ist besser als tausend Monde.",
-                            "verse 97:4": "In ihr steigen die Engel herab und der Geist nach dem Gebot ihres Herrn - mit jeder Sache.",
-                            "verse 97:5": "Friede währt bis zum Anbruch der Morgenröte."
-                        }
-                    }
-                }
-            },
-            "hindi": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "geus ¼bl dq+jku½ dks Ócs d+nz esa ukft+y ¼djuk Óq:½ fd;k",
-                            "verse 97:2": "vkSj rqedks D;k ekywe Ócs d+nz D;k gS",
-                            "verse 97:3": "Ócs d+nz ¼ejrck vkSj vey esa½ gt+kj eghuks ls csgrj gS",
-                            "verse 97:4": "bl ¼jkr½ esa Q+fj’rs vkSj ftcjhy ¼lky Hkj dh½ gj ckr dk gqDe ysdj vius ijojfnxkj ds gqDe ls ukft+y gksrs gSa",
-                            "verse 97:5": ";s jkr lqcg ds rqywv gksus rd ¼vt+ljrkik½ lykerh gS"
-                        }
-                    }
-                }
-            },
-            "indonesian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "Sesungguhnya Kami telah menurunkannya (Al Qur’an) pada malam kemuliaan.",
-                            "verse 97:2": "Dan tahukah kamu apakah malam kemuliaan itu?",
-                            "verse 97:3": "Malam kemuliaan itu lebih baik dari seribu bulan.",
-                            "verse 97:4": "Pada malam itu turun malaikat-malaikat dan malaikat Jibril dengan izin Tuhannya untuk mengatur segala urusan.",
-                            "verse 97:5": "Malam itu (penuh) kesejahteraan sampai terbit fajar."
-                        }
-                    }
-                }
-            },
-            "italian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "Invero lo abbiamo fatto scendere nella Notte del Destino .",
-                            "verse 97:2": "E chi potrà farti comprendere cos'é la Notte del Destino?",
-                            "verse 97:3": "La NoNotte del Destino è migliore di mille mesi.",
-                            "verse 97:4": "In essa discendono gli angeli e lo Spirito , con il permesso del loro Signore, per",
-                            "verse 97:5": "ogni decreto .",
-                            "verse 97:6": "E' pace, fino al levarsi dell'alba."
-                        }
-                    }
-                }
-            },
-            "japanese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "本当にわれは，みいつの夜に，この（クルアーン）を下した。",
-                            "verse 97:2": "みいつの夜が何であるかを，あなたに理解させるものは何か。",
-                            "verse 97:3": "みいつの夜は，千月よりも優る。",
-                            "verse 97:4": "（その夜）天使たちと聖霊は，主の許しのもとに，凡ての神命を(斉?)して下る。",
-                            "verse 97:5": "暁の明けるまで，（それは）平安である。 （その夜）天使たちと聖霊は，主の許しのもとに，凡ての神命を(斉?)して下る。"
-                        }
-                    }
-                }
-            },
-            "korean": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "선실로 하나님은 거룩한 밤에이 계시를 내리나니",
-                            "verse 97:2": "거죽한 밤이 무엇인지 무엇이 그대에게 설명하여 주리요",
-                            "verse 97:3": "거룩한 이 밤은 천개월보다 더 훌륭한 밤으로",
-                            "verse 97:4": "이 밤에 천사들과 가브리엘 천사가 주님의 명령을 받아 강림 하여",
-                            "verse 97:5": "아침 동녘까지 머무르며 평안 하소서 라고 인사하더라"
-                        }
-                    }
-                }
-            },
-            "kurdish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "ئێمه به‌ڕاستی قورئانمان دابه‌زاندۆته خواره‌وه له شه‌وێکی به‌فه‌ڕو ڕێزداردا.",
-                            "verse 97:2": "جا تۆ چووزانی شه‌وی به‌فه‌ڕ کامه‌یه‌و چ خێرو به‌ره‌که‌تێکه‌.",
-                            "verse 97:3": "شه‌وی قه‌دری به‌ڕێز له هه‌زار مانگ ڕێزدارو خێردارتره (واته پاداشتی عیباده‌ت و خواپه‌رستی ئه‌و شه‌وه بێ سنووره‌).",
-                            "verse 97:4": "له‌و شه‌وه‌دا فریشته‌کان که جوبره‌ئیلیشیان له‌گه‌ڵدایه‌، داده‌به‌زن له‌سه‌ر ڕووخسه‌ت و مۆڵه‌تی په‌روه‌ردگاریان، به‌جۆره‌ها فرمان و کار (به‌تایبه‌ت بۆ سه‌ردانی خواپه‌رستان، بۆ سه‌ردانی مزگه‌وته‌کان، بۆ گوێگرتن له قورئان و.",
-                            "verse 97:5": "ئه‌و شه‌وه ئاسووده‌یی و ئاشتی و هێمنی و ڕه‌حمه‌ت و میهره‌بانیه‌، هه‌تا کاتی به‌ره‌به‌یان."
-                        }
-                    }
-                }
-            },
-            "malay": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "Sesungguhnya Kami telah menurunkan (Al-Quran) ini pada Malam Lailatul-Qadar,",
-                            "verse 97:2": "Dan apa jalannya engkau dapat mengetahui apa dia kebesaran Malam Lailatul-Qadar itu?",
-                            "verse 97:3": "Malam Lailatul-Qadar lebih baik daripada seribu bulan.",
-                            "verse 97:4": "Pada Malam itu, turun malaikat dan Jibril dengan izin Tuhan mereka, kerana membawa segala perkara (yang ditakdirkan berlakunya pada tahun yang berikut);",
-                            "verse 97:5": "Sejahteralah Malam (yang berkat) itu hingga terbit fajar!"
-                        }
-                    }
-                }
-            },
-            "persian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "ما آن ( ) را در شب قدر نازل كرديم!",
-                            "verse 97:2": "و تو چه مى‏دانى شب قدر چيست؟!",
-                            "verse 97:3": "شب قدر بهتر از هزار ماه است!",
-                            "verse 97:4": "فرشتگان و «روح‏» در آن شب به اذن پروردگارشان براى (تقدير) هر كارى نازل مى‏شوند",
-                            "verse 97:5": "شبى است سرشار از سلامت (و بركت و رحمت) تا طلوع سپيده!"
-                        }
-                    }
-                }
-            },
-            "portuguese": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "Sabei que o revelamos (o Alcorão), na Noite do Decreto.",
-                            "verse 97:2": "E o que te fará entender o que é a Noite do Decreto?",
-                            "verse 97:3": "A Noite do Decreto é melhor do que mil meses.",
-                            "verse 97:4": "Nela descem os anjos e o Espírito (Anjo Gabriel), com a anuência do seu Senhor, para executar todas as Suas ordens.",
-                            "verse 97:5": "(Ela) é paz, até ao romper da aurora!"
-                        }
-                    }
-                }
-            },
-            "romanian": {
-                "translators": {
-                    "1": {
-                        "Lucrarea (traducere úi editare) a fost realizată de către": {
-                            "verse 97:1": "Noi am pogorât",
-                            "verse 97:2": "în noaptea al-Qadr.",
-                            "verse 97:3": "Dar de unde sã știi ce este noaptea al-Qadr?!",
-                            "verse 97:4": "Noaptea al-Qadr este mai bunã decât o mie de luni!",
-                            "verse 97:5": "În timpul ei se coboarã îngerii și Duhul , dupã voia Domnului lor, pentru orice poruncã!",
-                            "verse 97:6": "Ea este pace, pânã la ivirea zorilor! poruncã!"
-                        }
-                    },
-                    "2": {
-                        "George Grigore, Coranul": {
-                            "verse 97:1": "Noi l-am pogorât în Noaptea Sorţii!",
-                            "verse 97:2": "Cum vei ştii tu oare care este Noaptea Sorţii?",
-                            "verse 97:3": "Noaptea Sorţii este mai bună decât o mie de luni!",
-                            "verse 97:4": "Îngerii vor pogorî în ea cu Duhul, cu îngăduinţa Domnului lor, asupra fiecărui lucru.",
-                            "verse 97:5": "Şi Pace va fi până la revărsat de zori! lucru."
-                        }
-                    }
-                }
-            },
-            "russian": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "Мы повелели снизойти Коранув ночь Аль Кадра.",
-                            "verse 97:2": "Как изъяснить тебе, что значит«ночь Аль Кадра»?",
-                            "verse 97:3": "Дороже тысячи (бесплодных)месяцев она!",
-                            "verse 97:4": "В ночь эту ангелы и Дух (Святой)Нисходят с неба с Божьегосоизволенья,Чтобы вершить все повеления Его.",
-                            "verse 97:5": "И в эту ночь до появления зариМир воцаряется (на всей земле)! Его."
-                        }
-                    }
-                }
-            },
-            "spanish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "Lo hemos revelado en la noche del Destino.",
-                            "verse 97:2": "Y ¿cómo sabrás qué es la noche del Destino?",
-                            "verse 97:3": "La noche del Destino vale más de mil meses.",
-                            "verse 97:4": "Los ángeles y el Espíritu descienden en ella, con permiso de su Señor, para fijarlo todo.",
-                            "verse 97:5": "¡Es una noche de paz, hasta el rayar del alba!"
-                        }
-                    }
-                }
-            },
-            "tamil": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "நிச்சயமாக நாம் அதை (குர்ஆனை) கண்ணியமிக்க (லைலத்துல் கத்ர்) என்ற இரவில் இறக்கினோம்.",
-                            "verse 97:2": "மேலும் கண்ணியமிக்க இரவு என்ன என்பதை உமக்கு அறிவித்தது எது?",
-                            "verse 97:3": "கண்ணியமிக்க (அந்த) இரவு ஆயிரம் மாதங்களை விட மிக மேலானதாகும்.",
-                            "verse 97:4": "அதில் மலக்குகளும், ஆன்மாவும் (ஜிப்ரயீலும்) தம் இறைவனின் கட்டளையின் படி (நடைபெற வேண்டிய) சகல காரியங்களுடன் இறங்குகின்றனர்.",
-                            "verse 97:5": "சாந்தி (நிலவியிருக்கும்) அது விடியற்காலை உதயமாகும் வரை இருக்கும்."
-                        }
-                    }
-                }
-            },
-            "thai": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "แท้จริงเราได้ประทานอัลกุรอานลงมาในคืนอัลก็อดร์",
-                            "verse 97:2": "และอะไรเล่าจะทำให้เจ้ารู้ได้ว่าคืนอัลก็อดร์นั้นคืออะไร",
-                            "verse 97:3": "คืนอัลก็อดร์นั้นดียิ่งกว่าหนึ่งพันเดือน",
-                            "verse 97:4": "บรรดามลาอิกะฮ์และอัลรูฮ์ (ญิบรีล) จะลงมาในคืนนั้น โดยอนุมัติแห่งพระเจ้าของพวกเขาเนื่องจากกิจการทุกสิ่ง",
-                            "verse 97:5": "คืนนั้นมีความศานติจนกระทั่งรุ่งอรุณ"
-                        }
-                    }
-                }
-            },
-            "turkish": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "Kadir gecesinin ne olduğunu sen bilir misin?",
-                            "verse 97:2": "Kadir gecesi, bin aydan hayırlıdır.",
-                            "verse 97:3": "O gecede, Rablerinin izniyle melekler ve Ruh (Cebrail), her iş için iner dururlar.",
-                            "verse 97:4": "O gece, esenlik doludur."
-                        }
-                    }
-                }
-            },
-            "urdu": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "ہم نے اس( قرآن) کو شب قدر میں نازل (کرنا شروع) کیا",
-                            "verse 97:2": "بيشک ہم نے اس (قرآن) کو شبِ قدر ميں اتارا ہےo",
-                            "verse 97:3": "اور آپ کيا سمجھے ہيں (کہ) شبِ قدر کيا ہےo",
-                            "verse 97:4": "اور تمہیں کیا معلوم کہ شب قدر کیا ہے؟",
-                            "verse 97:5": "شب قدر ہزار مہینے سے بہتر ہے",
-                            "verse 97:6": "شبِ قدر (فضيلت و برکت اور اَجر و ثواب ميں) ہزار مہينوں سے بہتر ہےo",
-                            "verse 97:7": "اس (رات) ميں فرشتے اور روح الامين (جبرائيل) اپنے رب کے حکم سے (خير و برکت کے) ہر امر کے ساتھ اترتے ہيںo",
-                            "verse 97:8": "اس میں روح (الامین) اور فرشتے ہر کام کے (انتظام کے) لیے اپنے پروردگار کے حکم سے اترتے ہیں",
-                            "verse 97:9": "یہ( رات) طلوع صبح تک (امان اور) سلامتی ہے",
-                            "verse 97:10": "يہ (رات) طلوعِ فجر تک (سراسر) سلامتي ہےo ہے"
-                        }
-                    }
-                }
-            },
-            "uzbek": {
-                "translators": {
-                    "1": {
-                        "null": {
-                            "verse 97:1": "Албатта, Биз у(Қуръон)ни Лайлатул Қадр да туширдик.",
-                            "verse 97:2": "Лайлатул Қадр қандоқ нарса эканини сенга нима билдирди?",
-                            "verse 97:3": "Лайлатул Қадр минг ойдин яхшироқдир.",
-                            "verse 97:4": "Унда фаришталар ва Руҳ Роббилари изни билан барча ишлар учун тушадир.",
-                            "verse 97:5": "У то тонг отгунча салом бўлиб турадир."
-                        }
-                    }
-                }
-            }
+        "Albanian": {
+            "verse 97:1": "Na kemi fillur ta shpallim (Kur’anin) në natën e Kadrit –",
+            "verse 97:2": "e kush të tregon ty se ç’është nata e Kadrit?",
+            "verse 97:3": "Nata e kadrit është më e vlefshme se një mijë muaj –",
+            "verse 97:4": "engjëjt dhe Xhebraili, me lejen e Zotit të tyre, zbresin në të, për të zbatuar (të gjitha) urdhërat e Zotit,",
+            "verse 97:5": "përshëndetjet e kësaj nate zgjasin deri në agim."
+        },
+        "Amharic": {
+            "verse 97:1": "እኛ (ቁርኣኑን) በመወሰኛይቱ ሌሊት አወረድነው፡፡",
+            "verse 97:2": "መወሰኛይቱም ሌሊተ ምን እንደ ኾነች ምን አሳወቀህ?",
+            "verse 97:3": "መወሰኛይቱ ሌሊት ከሺሕ ወር በላጭ ናት፡፡",
+            "verse 97:4": "በርሷ ውስጥ መላእክትና መንፈሱ በጌታቸው ፈቃድ በነገሩ ሁሉ ይወርዳሉ፡፡",
+            "verse 97:5": "እርስዋ እስከ ጎህ መውጣት ድረስ ሰላም ብቻ ናት፡፡"
+        },
+        "Arabic": {
+            "verse 97:1": "ِرْدَقْلا ِةَلْيَل يِف ُهاَنْلَزنَأ اَّنِإ",
+            "verse 97:2": "ِرْدَقْلا ُةَلْيَل اَم َكاَرْدَأ اَمَو",
+            "verse 97:3": "ٍرْهَش ِفْلَأ ْنِّم ٌرْيَخ ِرْدَقْلا ُةَلْيَل",
+            "verse 97:4": "ٍرْمَأ ِّلُك نِّم مِهِّبَر ِنْذِإِب اَهيِف ُحوُّرلاَو ُةَكِئاَلَمْلا ُلَّزَنَت",
+            "verse 97:5": "ِرْجَفْلا ِعَلْطَم ٰىَّتَح َيِه ٌماَلَس"
+        },
+        "Azerbaijani": {
+            "verse 97:1": "Həqiqətən, Biz Quranı Qədr gecəsində nazil etdik!",
+            "verse 97:2": "Sən haradan biləsən ki, Qədr gecəsi nədir?",
+            "verse 97:3": "Qədr gecəsi min aydan xeyirlidir.",
+            "verse 97:4": "O gecə Rəbbinin izni ilə mələklər və Ruh (Cəbrail) hər işə görə yerə enirlər.",
+            "verse 97:5": "O gecə sübh açılanadək əmin-amanlıq olur."
+        },
+        "Bengali": {
+            "verse 97:1": "আমি একে নাযিল করেছি শবে-কদরে।",
+            "verse 97:2": "শবে-কদর সমন্ধে আপনি কি জানেন?",
+            "verse 97:3": "শবে-কদর হল এক হাজার মাস অপেক্ষা শ্রেষ্ঠ।",
+            "verse 97:4": "এতে প্রত্যেক কাজের জন্যে ফেরেশতাগণ ও রূহ অবতীর্ণ হয় তাদের পালনকর্তার নির্দেশক্রমে।",
+            "verse 97:5": "এটা নিরাপত্তা, যা ফজরের উদয় পর্যন্ত অব্যাহত থাকে।"
+        },
+        "Berber Amazigh": {
+            "verse 97:1": "Ni$ Nessader it id deg iv useyyi.",
+            "verse 97:2": "Anwa ara k imlen, d acu ay d iv useyyi?",
+            "verse 97:3": "Iv useyyi yif agim wagguren.",
+            "verse 97:4": "Lmalayek akked ôôuê, ppadren d degs, s wannuf n Mass nnsen, i yal lameô.",
+            "verse 97:5": "Di tifrat i illa alamma d tafrara."
+        },
+        "Bosnian": {
+            "verse 97:1": "Mi smo ga počeli objavljivati u Noći Kadr –",
+            "verse 97:2": "a šta ti misliš šta je Noć Kadr?",
+            "verse 97:3": "Noć Kadr je bolja od hiljadu mjeseci –",
+            "verse 97:4": "meleki i Džibril, s dozvolom Gospodara svoga, spuštaju se u njoj zbog odluke svake,",
+            "verse 97:5": "sigurnost je u njoj sve dok zora ne svane."
+        },
+        "Bulgarian": {
+            "verse 97:1": "Ние го низпослахме в Нощта на могъществото.",
+            "verse 97:2": "Но откъде да знаеш ти какво е Нощта на могъществото?",
+            "verse 97:3": "Нощта на могъществото е по-добра от хиляда месеца.",
+            "verse 97:4": "Слизат ангелите и Духът [Джибрил] през нея - с позволението на техния Господ - за всяка повеля.",
+            "verse 97:5": "Мир е тя до началото на развиделяването."
+        },
+        "Chinese": {
+            "verse 97:1": "我在那高贵的夜间确已降示它,",
+            "verse 97:2": "你怎能知道那高贵的夜间是什麽？",
+            "verse 97:3": "那高贵的夜间, 胜过一千个月,",
+            "verse 97:4": "众天神和精神, 奉他们的主的命令, 为一切事务而在那夜间降临,",
+            "verse 97:5": "那夜间全是平安的, 直到黎明显著的时侯。"
+        },
+        "Danish": {
+            "verse 97:1": "Waarlijk, Wij hebben u (de Koran) nedergezonden, in de waardevolle nacht",
+            "verse 97:2": "Wat weet gij (er van) wat de waardevolle nacht is",
+            "verse 97:3": "De waardevolle nacht is beter dan duizend maanden",
+            "verse 97:4": "Daarin dalen engelen en de Geest door Gods gebod neder (zeggende)",
+            "verse 97:5": "In alles Vrede, tot het rijzen van de dageraad"
+        },
+        "Dutch": {
+            "verse 97:1": "Voorwaar, Wij hebben hem (de Koran) neergezonden in de Waardevolle Nacht (Lailatoel Qadr).",
+            "verse 97:2": "En wat doet jullie weten wat de Waardevolle Nacht is?",
+            "verse 97:3": "De Waardevolle Nacht is beter dan duizend maanden.",
+            "verse 97:4": "De Engelen en de Geest (Djibrîl) daalden in haar neer met de toestemming van hun Heer, voor elke beschikking.",
+            "verse 97:5": "Vrede heerst (in deze nacht), tot aan de ochtendschemering."
+        },
+        "English": {
+            "verse 97:1": "Indeed, We sent the Qur'an down during the Night of Decree.",
+            "verse 97:2": "And what can make you know what is the Night of Decree?",
+            "verse 97:3": "The Night of Decree is better than a thousand months.",
+            "verse 97:4": "The angels and the Spirit descend therein by permission of their Lord for every matter.",
+            "verse 97:5": "Peace it is until the emergence of dawn."
+        },
+        "Filipino": {
+            "verse 97:1": "Katotohanang Aming ipinanaog ang Kapahayagan (ang Qur’an) sa Gabi ng Al-Qadr (Kautusan o Kapangyarihan)",
+            "verse 97:2": "At ano ang makakapagpahiwatig sa iyo kung ano ang Gabi ng Kautusan o Kapangyarihan",
+            "verse 97:3": "Ang Gabi ng Al- Qadr (Kautusan o Kapangyarihan) ay higit na mainam sa isang libong buwan (alalaong baga, ang pagsamba kay Allah sa Gabing ito ay higit na mainam kaysa sa pagsamba sa Kanya sa isang libong buwan o 83 taon at 4 na buwan)",
+            "verse 97:4": "dito ay bumababa ang mga anghel at ruh (Gabriel) sa kapahintulutan ni Allah na may lahat ng Pag- uutos",
+            "verse 97:5": "Kapayapaan! (Sa buong Gabing ito ay mayroong Kapayapaan at Kabutihan mula kay Allah sa Kanyang nananampalatayang mga alipin), hanggang sa pagdatal ng bukang liwayway"
+        },
+        "French": {
+            "verse 97:1": "Nous l'avons certes, fait descendre (le Coran) pendant la nuit d'Al-Qadr.",
+            "verse 97:2": "Et qui te dira ce qu'est la nuit d'Al-Qadr?",
+            "verse 97:3": "La nuit d'Al-Qadr est meilleure que mille mois.",
+            "verse 97:4": "Durant celle-ci descendent les Anges ainsi que l'Esprit, par permission de leur Seigneur pour tout ordre.",
+            "verse 97:5": "Elle est paix et salut jusqu'à l'apparition de l'aube."
+        },
+        "Fulah": {
+            "verse 97:1": "Min tellinii mbo e jemma leylatul qadiri",
+            "verse 97:2": "Holko anndin ma leylatul Qadiri",
+            "verse 97:3": "Leylatu qadri ɓuri ujunere lewru moƴƴude",
+            "verse 97:4": "Malaykaali na telloo wondude e jibriil e sakkitoore joom mum en e kala yamiroore",
+            "verse 97:5": "Kombo kisal tan haa fajiri feera"
+        },
+        "German": {
+            "verse 97:1": "Wir haben ihn ja in der Nacht der Bestimmung hinabgesandt.",
+            "verse 97:2": "Und was läßt dich wissen, was die Nacht der Bestimmung ist?",
+            "verse 97:3": "Die Nacht der Bestimmung ist besser als tausend Monate.",
+            "verse 97:4": "Es kommen die Engel und der Geist in ihr mit der Erlaubnis ihres Herrn mit jeder Angelegenheit herab.",
+            "verse 97:5": "Frieden ist sie bis zum Anbruch der Morgendämmerung."
+        },
+        "Hausa": {
+            "verse 97:1": "Lalle ne Mũ, Mun saukar da shi (Alƙur'ãni) a cikin Lailatul ƙadari (daren daraja)",
+            "verse 97:2": "To, me ya sanar da kai abin da ake cewa Lailatul ¡adari?",
+            "verse 97:3": "Lailatul ¡adari mafi alheri ne daga wasu watanni dubu.",
+            "verse 97:4": "Mala'iku da Rũhi suna sauka a cikinsa da iznin Ubangijinsu sabõda kowane umurni.",
+            "verse 97:5": "Sallama ne shi daren, har fitar alfijiri."
+        },
+        "Hindi": {
+            "verse 97:1": "हमने (इस कुरान) को शबे क़द्र में नाज़िल (करना शुरू) किया",
+            "verse 97:2": "और तुमको क्या मालूम शबे क़द्र क्या है",
+            "verse 97:3": "शबे क़द्र (मरतबा और अमल में) हज़ार महीनो से बेहतर है",
+            "verse 97:4": "इस (रात) में फ़रिश्ते और जिबरील (साल भर की) हर बात का हुक्म लेकर अपने परवरदिगार के हुक्म से नाज़िल होते हैं",
+            "verse 97:5": "ये रात सुबह के तुलूअ होने तक (अज़सरतापा) सलामती है"
+        },
+        "Indonesian": {
+            "verse 97:1": "Sesungguhnya Kami telah menurunkannya (Al Quran) pada malam kemuliaan.",
+            "verse 97:2": "Dan tahukah kamu apakah malam kemuliaan itu?",
+            "verse 97:3": "Malam kemuliaan itu lebih baik dari seribu bulan.",
+            "verse 97:4": "Pada malam itu turun malaikat-malaikat dan malaikat Jibril dengan izin Tuhannya untuk mengatur segala urusan.",
+            "verse 97:5": "Malam itu (penuh) kesejahteraan sampai terbit fajar."
+        },
+        "Italian": {
+            "verse 97:1": "Invero lo abbiamo fatto scendere nella Notte del Destino.",
+            "verse 97:2": "E chi potrà farti comprendere cos'è la Notte del Destino?",
+            "verse 97:3": "La Notte del Destino è migliore di mille mesi.",
+            "verse 97:4": "In essa discendono gli angeli e lo Spirito, con il permesso del loro Signore, per [fissare] ogni decreto.",
+            "verse 97:5": "È pace, fino al levarsi dell'alba."
+        },
+        "Japanese": {
+            "verse 97:1": "本当にわれは，みいつの夜に，この（クルアーン）を下した。",
+            "verse 97:2": "みいつの夜が何であるかを，あなたに理解させるものは何か。",
+            "verse 97:3": "みいつの夜は，千月よりも優る。",
+            "verse 97:4": "（その夜）天使たちと聖霊は，主の許しのもとに，凡ての神命を(斉?)して下る。",
+            "verse 97:5": "暁の明けるまで，（それは）平安である。"
+        },
+        "Jawa": {
+            "verse 97:1": "Sayekti, anggon Ingsun nurunake (Al-Qur’an) ana ing wengi kang mulya",
+            "verse 97:2": "Sapa kang meruhake sira, wengi kang mulya iku apa",
+            "verse 97:3": "Wengi kang mulya iku luwih becik tinimbang sasi",
+            "verse 97:4": "Ing kono para Malaikat sarta ruh padha turun (ing donya) ngestokake parentahing Allah Pangerane tumrap sarupaning prakara",
+            "verse 97:5": "Wengi iku (kebak) kasentosan hingga metune fajar"
+        },
+        "Kazakh": {
+            "verse 97:1": "Ақиқатында, Біз оны Құранды Қадр түнінде түсірдік",
+            "verse 97:2": "Ей, Мұхаммед! Қадр түнінің не екенін саған не білдірді",
+            "verse 97:3": "Қадр түні мың айдан қайырлы",
+            "verse 97:4": "Періштелер және Рух Жәбірейіл онда бұл түні өздерінің Раббысының рұқсатымен барлық істермен түседі",
+            "verse 97:5": "Ол таң рауандағанға дейінгі сәлам амандық түні"
+        },
+        "Korean": {
+            "verse 97:1": "선실로 하나님은 거룩한 밤에이 계시를 내리나니선실로 하나님은 거룩한 밤에이 계시를 내리나니",
+            "verse 97:2": "거죽한 밤이 무엇인지 무엇이 그대에게 설명하여 주리요거죽한 밤이 무엇인지 무엇이 그대에게 설명하여 주리요",
+            "verse 97:3": "거룩한 이 밤은 천개월보다 더 훌륭한 밤으로거룩한 이 밤은 천개월보다 더 훌륭한 밤으로",
+            "verse 97:4": "이 밤에 천사들과 가브리엘 천사가 주님의 명령을 받아 강림 하여이 밤에 천사들과 가브리엘 천사가 주님의 명령을 받아 강림 하여",
+            "verse 97:5": "아침 동녘까지 머무르며 평안 하소서 라고 인사하더라아침 동녘까지 머무르며 평안 하소서 라고 인사하더라"
+        },
+        "Kurdish": {
+            "verse 97:1": "Bi rastî me ewa (Qur´an a) di şevekê wuse da hînartî ye (ku pîvana kirina hemû tiştan di wê şevê da çê dibe)ئێمه به‌ڕاستی قورئانمان دابه‌زاندۆته خواره‌وه له شه‌وێکی به‌فه‌ڕو ڕێزداردا.",
+            "verse 97:2": "(Muhemmed!) ti ji ku dizad ka şeva pivanê çîyeجا تۆ چووزانی شه‌وی به‌فه‌ڕ کامه‌یه‌و چ خێرو به‌ره‌که‌تێکه‌.",
+            "verse 97:3": "Şeva pîvanê şeveke wusane ji hezar mehên (ku di wan mehan da perestî bê kirinê) qenctireشه‌وی قه‌دری به‌ڕێز له هه‌زار مانگ ڕێزدارو خێردارتره (واته پاداشتی عیباده‌ت و خواپه‌رستی ئه‌و شه‌وه بێ سنووره‌).",
+            "verse 97:4": "Ferişte û can bi destüra Xuda yê xwe (şevê da boyerên, ku ji bona wê salê hatine pîvandinê) bi hînartin tîninله‌و شه‌وه‌دا فریشته‌کان که جوبره‌ئیلیشیان له‌گه‌ڵدایه‌، داده‌به‌زن له‌سه‌ر ڕووخسه‌ت و مۆڵه‌تی په‌روه‌ردگاریان، به‌جۆره‌ها فرمان و کار (به‌تایبه‌ت بۆ سه‌ردانی خواپه‌رستان، بۆ سه‌ردانی مزگه‌وته‌کان، بۆ گوێگرتن له قورئان و... هتد).",
+            "verse 97:5": "Heya segura sibehê (ewan feriştan hey) berxudarîyê(di hênirînin)ئه‌و شه‌وه ئاسووده‌یی و ئاشتی و هێمنی و ڕه‌حمه‌ت و میهره‌بانیه‌، هه‌تا کاتی به‌ره‌به‌یان. پێغه‌مبه‌ر صلی الله علیه وسلم فه‌رموویه‌تی: (من قام لیلة القدر ایمانا واحتسبا غفر له ما تقدم من زنبه‌). واته‌: ئه‌وه‌ی شه‌وی قه‌در به‌خواپه‌رستی و یادی خوا بباته سه‌ر به ئیمان و باوه‌ڕی دامه‌زراوو به‌ته‌مابوونی پاداشت و ڕه‌حمه‌ت، خوای گه‌وره له هه‌موو گوناهانی ڕابردووی خۆش ده‌بێت. (بوخاری و موسلیم) ڕیوایه‌تیان کردووه‌."
+        },
+        "Kyrgyz": {
+            "verse 97:1": "Чынында, Биз Кураанды Кадыр Түнүндө түшүрдүк",
+            "verse 97:2": "Кадыр түн эмне экенин (эгер Биз үйрөтпөсөк,) сен кайдан билмек элең",
+            "verse 97:3": "Кадыр түнү миң айдан да жакшы",
+            "verse 97:4": "(Анткени,) бул түнү периштелер жана Рух (Жебирейил) Раббисинин уруксаты боюнча, ар түрдүү иштер менен (жер бетине ) түшүшөт",
+            "verse 97:5": "Ал таңга чейин саламаттык(тын түнү)"
+        },
+        "Malay": {
+            "verse 97:1": "Sesungguhnya Kami telah menurunkan (Al-Quran) ini pada Malam Lailatul-Qadar,",
+            "verse 97:2": "Dan apa jalannya engkau dapat mengetahui apa dia kebesaran Malam Lailatul-Qadar itu?",
+            "verse 97:3": "Malam Lailatul-Qadar lebih baik daripada seribu bulan.",
+            "verse 97:4": "Pada Malam itu, turun malaikat dan Jibril dengan izin Tuhan mereka, kerana membawa segala perkara (yang ditakdirkan berlakunya pada tahun yang berikut);",
+            "verse 97:5": "Sejahteralah Malam (yang berkat) itu hingga terbit fajar!"
+        },
+        "Malayalam": {
+            "verse 97:1": "തീര്‍ച്ചയായും നാം ഇതിനെ (ഖുര്‍ആനിനെ) നിര്‍ണയത്തിന്‍റെ രാത്രിയില്‍ അവതരിപ്പിച്ചിരിക്കുന്നു.",
+            "verse 97:2": "നിര്‍ണയത്തിന്‍റെ രാത്രി എന്നാല്‍ എന്താണെന്ന് നിനക്കറിയാമോ?",
+            "verse 97:3": "നിര്‍ണയത്തിന്‍റെ രാത്രി ആയിരം മാസത്തെക്കാള്‍ ഉത്തമമാകുന്നു.",
+            "verse 97:4": "മലക്കുകളും ആത്മാവും അവരുടെ രക്ഷിതാവിന്‍റെ എല്ലാകാര്യത്തെ സംബന്ധിച്ചുമുള്ള ഉത്തരവുമായി ആ രാത്രിയില്‍ ഇറങ്ങി വരുന്നു.",
+            "verse 97:5": "പ്രഭാതോദയം വരെ അത് സമാധാനമത്രെ."
+        },
+        "Norwegian": {
+            "verse 97:1": "Vi har sendt den ned i skjebnenatten.",
+            "verse 97:2": "Hvordan kan du vel vite hva skjebnenatten er?",
+            "verse 97:3": "Skjebnenatten er mer verdt enn tusen måneder!",
+            "verse 97:4": "I den stiger englene og Ånden ned, på sin Herres bud, med verv av alle slag.",
+            "verse 97:5": "Den er fred til morgenrøden stiger frem."
+        },
+        "Pashto": {
+            "verse 97:1": "بېشكه مونږ دا (قرآن) د قدر په شپه كې نازل كړى دى",
+            "verse 97:2": "او ته څه شي پوه كړې چې د قدر شپه څه شى دى؟",
+            "verse 97:3": "د قدر شپه له زرو میاشتو نه غوره ده",
+            "verse 97:4": "په دغه (شپه) كې (نور) ملايك او روح (جبریل) د خپل رب په حكم سره نازلېږي لپاره (د پوره كولو) د هر (مقرر شوي) كار",
+            "verse 97:5": "(دغه شپه) سلامتیا ده، دغه (شپه) تر سبا ختلو پورې ده"
+        },
+        "Persian": {
+            "verse 97:1": "ما در شب قدرش نازل كرديم.",
+            "verse 97:2": "و تو چه دانى كه شب قدر چيست؟",
+            "verse 97:3": "شب قدر بهتر از هزار ماه است.",
+            "verse 97:4": "در آن شب فرشتگان و روح به فرمان پروردگارشان براى انجام دادن كارها نازل مى‌شوند.",
+            "verse 97:5": "آن شب تا طلوع بامداد همه سلام و درود است."
+        },
+        "Polish": {
+            "verse 97:1": "Zaprawdę, zesłaliśmy go w Noc Przeznaczenia!",
+            "verse 97:2": "A co cię pouczy, co to jest Noc Przeznaczenia?",
+            "verse 97:3": "Noc Przeznaczenia - lepsza niż tysiąc miesięcy!",
+            "verse 97:4": "Aniołowie i Duch zstępują tej Nocy, za pozwoleniem swego Pana, dla wypełnienia wszelkich rozkazów.",
+            "verse 97:5": "Ona to pokój aż do pojawienia się żony porannej"
+        },
+        "Portuguese": {
+            "verse 97:1": "Sabei que o revelamos (o Alcorão), na Noite do Decreto.",
+            "verse 97:2": "E o que te fará entender o que é a Noite do Decreto?",
+            "verse 97:3": "A Noite do Decreto é melhor do que mil meses.",
+            "verse 97:4": "Nela descem os anjos e o Espírito (Anjo Gabriel), com a anuência do seu Senhor, para executar todas as Suas ordens.",
+            "verse 97:5": "(Ela) é paz, até ao romper da aurora!"
+        },
+        "Punjabi": {
+            "verse 97:1": "ਅਸੀਂ ਇਸ ਨੂੰ ਕਦਰ (ਭਾਗਾਂ ਵਾਲੀ, ਅਮੋਲਕ) ਦੀ ਰਾਤ ਨੂੰ ਉਤਾਰਿਆ ਹੈ।",
+            "verse 97:2": "ਅਤੇ ਤੁਸੀਂ ਕੀ ਜਾਣੋ, ਕਿ ਕਦਰ ਦੀ ਰਾਤ ਕੀ ਹੈ।",
+            "verse 97:3": "ਕਦਰ ਦੀ ਰਾਤ ਹਜ਼ਾਰ ਮਹੀਨਿਆਂ ਨਾਲੋਂ ਉੱਤਮ ਹੈ।",
+            "verse 97:4": "ਫ਼ਰਿਸ਼ਤੇ ਅਤੇ ਰੂਹ (ਜਿਬਰੀਲ) (ਇਸ ਰਾਤ) ਨੂੰ ਆਪਣੇ ਰੱਬ ਦੀ ਆਗਿਆ ਨਾਲ ਉੱਤਰਦੇ ਹਨ। ਹਰੇਕ ਹੁਕਮ ਲੈ ਕੇ।",
+            "verse 97:5": "ਇਹ ਰਾਤ ਪਹੂ-ਫੁਟਾਲੇ ਤੱਕ ਸੰਪੂਰਨ ਸਲਾਮਤੀ ਵਾਲੀ ਹੈ।"
+        },
+        "Roman english": {
+            "verse 97:1": "Innaa anzalnaahu fee lailatil qadr",
+            "verse 97:2": "Wa maa adraaka ma lailatul qadr",
+            "verse 97:3": "Lailatul qadri khairum min alfee shahr",
+            "verse 97:4": "Tanaz zalul malaa-ikatu war roohu feeha bi izni-rab bihim min kulli amr",
+            "verse 97:5": "Salaamun hiya hattaa mat la`il fajr"
+        },
+        "Russian": {
+            "verse 97:1": "Мы повелели снизойти Корану в ночь Аль Кадра.",
+            "verse 97:2": "Как изъяснить тебе, что значит \"ночь Аль Кадра\"?",
+            "verse 97:3": "Дороже тысячи (бесплодных) месяцев она!",
+            "verse 97:4": "В ночь эту ангелы и Дух (Святой) Нисходят с неба с Божьего соизволенья, Чтобы вершить все повеления Его.",
+            "verse 97:5": "И в эту ночь до появления зари Мир воцаряется (на всей земле)!"
+        },
+        "Sindhi": {
+            "verse 97:1": "بيشڪ اسان قرآن شب قدر ۾ لاٿو.",
+            "verse 97:2": "۽ ڪنھن سمجھايئي ته شب قدر ڇا آھي.",
+            "verse 97:3": "شب قدر، ھزار مھينن کان ڀلي آھي.",
+            "verse 97:4": "منجھس ملائڪ ۽ رُوح پنھنجي پالڻھار جي حڪم سان سڀڪنھن ڪم (جي پورائي) لاءِ لھندا آھن.",
+            "verse 97:5": "اُنھيءَ رات پرھ ڦُٽڻ تائين سلامتي آھي."
+        },
+        "Sinhalese": {
+            "verse 97:1": "නියත වශයෙන්ම අපි එය බලගතු රාත්‍රියෙහි පහළ කළෙමු.",
+            "verse 97:2": "තවද බලගතු රාත්‍රිය කුමක්දැ යි නුඹ ව දැනුවත් කළේ කුමක්ද?",
+            "verse 97:3": "බලගතු රාත්‍රිය මාස දහසකට වඩා උතුම්ය.",
+            "verse 97:4": "මලක්වරුන් හා ආත්මය (ජිබ්රීල්) තම පරමාධිපතිගේ අනුමැතියෙන් සෑම කරුණක්ම ගෙන එහි පහළ වන්නේය.",
+            "verse 97:5": "ශාන්තියයි! එය අරුණෝදය උදා වන කාලය තෙක් පවතියි."
+        },
+        "Somali": {
+            "verse 97:1": "Annagaa soo dajinnay Quraanka Habeenka LaylatulQadarka ah (sharafta leh).",
+            "verse 97:2": "Ma taqaanna LaylatulQadarka.",
+            "verse 97:3": "Waa Habeen ka khayr badan Kun Bilood (oo kale).",
+            "verse 97:4": "Waxaana soo daga Malaa'igta (kale) iyo Malaku Jibriil habecnkaas idanka Eebe dartiis iyo amarkiisa.",
+            "verse 97:5": "Waana Habeen nabadgalyo inta waagu ka haryi."
+        },
+        "Spanish": {
+            "verse 97:1": "Es cierto que lo hicimos descender en la noche del Decreto.",
+            "verse 97:2": "Y cómo hacerte saber qué es la noche del Decreto?",
+            "verse 97:3": "La noche del Decreto es mejor que mil meses.",
+            "verse 97:4": "En ella descienden los ángeles y el espíritu con las órdenes de tu Señor para cada asunto.",
+            "verse 97:5": "Paz, ella dura hasta el despuntar del alba."
+        },
+        "Swahili": {
+            "verse 97:1": "Hakika Sisi tumeiteremsha Qur'ani katika Laylatul Qadri, Usiku wa Cheo Kitukufu.",
+            "verse 97:2": "Na nini kitacho kujuulisha nini Laylatul Qadri?",
+            "verse 97:3": "Laylatul Qadri ni bora kuliko miezi elfu.",
+            "verse 97:4": "Huteremka Malaika na Roho katika usiku huo kwa idhini ya Mola wao Mlezi kwa kila jambo.",
+            "verse 97:5": "Amani usiku huo mpaka mapambazuko ya alfajiri."
+        },
+        "Swedish": {
+            "verse 97:1": "SE, VI har uppenbarat denna [heliga Skrift] under Allmaktens Natt.",
+            "verse 97:2": "Och vad kan låta dig förstå vad Allmaktens Natt betyder",
+            "verse 97:3": "Allmaktens Natt är mera värd än tusen månader;",
+            "verse 97:4": "då stiger änglarnas härskaror och Anden ned med sin Herres tillstånd för [att utföra] alla [Hans] uppdrag.",
+            "verse 97:5": "Den [Natten andas] fred till dess dagen gryr!"
+        },
+        "Tajik": {
+            "verse 97:1": "Мо дар шаби қадраш нозил кардем! (Қуръонро)",
+            "verse 97:2": "Ва ту чӣ донӣ, ки шаби қадр чист?",
+            "verse 97:3": "Шаби қадр беҳтар аз ҳазор моҳ аст.",
+            "verse 97:4": "Дар он шаб фариштагону рӯҳ ба фармони Парвардигорашон барои анҷом додани корҳо мефароянд.",
+            "verse 97:5": "Он шаб то тулӯъи бомдод ҳама салому эминӣ аст!"
+        },
+        "Tamil": {
+            "verse 97:1": "நிச்சயமாக நாம் அதை (குர்ஆனை) கண்ணியமிக்க (லைலத்துல் கத்ர்) என்ற இரவில் இறக்கினோம்.",
+            "verse 97:2": "மேலும் கண்ணியமிக்க இரவு என்ன என்பதை உமக்கு அறிவித்தது எது?",
+            "verse 97:3": "கண்ணியமிக்க (அந்த) இரவு ஆயிரம் மாதங்களை விட மிக மேலானதாகும்.",
+            "verse 97:4": "அதில் மலக்குகளும், ஆன்மாவும் (ஜிப்ரயீலும்) தம் இறைவனின் கட்டளையின் படி (நடைபெற வேண்டிய) சகல காரியங்களுடன் இறங்குகின்றனர்.",
+            "verse 97:5": "சாந்தி (நிலவியிருக்கும்) அது விடியற்காலை உதயமாகும் வரை இருக்கும்."
+        },
+        "Tatar": {
+            "verse 97:1": "Тәхкыйк Без Коръәнне иңдердек кадер кичендә.",
+            "verse 97:2": "Сиңа кадер кичнең Шәрафәтен вә аның хикмәтен нәрсә белдерде?",
+            "verse 97:3": "Кадер киче, мең айдан да хәерлерәк сәвабы, мең ай кылган гыйбадәттән артыгырактыр.",
+            "verse 97:4": "Кадер кичендә Җәбраил һәм башка фәрештәләр иңәрләр Раббыларының теләге илә һәр кешегә билгеләнгән бер еллык тәкъдир белән.",
+            "verse 97:5": "Кадер кичендә намаз, Коръән укып рузә тоткан мөэминнәргә фәрештәләр Аллаһудан сәлам укырлар. Кадер киченең дәвамы кояш баеганнан башлап таң атканга чаклыдыр. (Коръән рамадан аенда кадер кичендә бердән дөнья күгенә Җәбраил фәрештәгә иңдерелде. Аннары Җәбраил г-м кирәк саен аять-аять пәйгамбәргә китереп торды.)"
+        },
+        "Telugu": {
+            "verse 97:1": "నిశ్చయంగా, మేము దీనిని (ఈ ఖుర్ఆన్ ను) ఘనతగల ఆ రాత్రి (అల్ ఖదర్)లో అవతరింపజేశాము",
+            "verse 97:2": "మరియు ఆ ఘనత గల రాత్రి అంటే ఏమిటో నీకేం తెలుసు",
+            "verse 97:3": "ఆ ఘనత గల రాత్రి వేయి నెలల కంటే శ్రేష్ఠమైనది",
+            "verse 97:4": "ఆ రాత్రిలో దేవదూతలు మరియు ఆత్మ (జిబ్రీల్), తమ ప్రభువు అనుమతితో, ప్రతి వ్యవహారానికి సంబంధించిన) ఆజ్ఞలు తీసుకుని దిగి వస్తారు",
+            "verse 97:5": "ఆ రాత్రిలో తెల్లవారే వరకు శాంతి వర్ధిల్లుతుంది"
+        },
+        "Thai": {
+            "verse 97:1": "แท้จริงเราได้ประทานอัลกุรอานลงมาในคืนอัลก็อดรฺ",
+            "verse 97:2": "และอะไรเล่าจะทำให้เจ้ารู้ได้ว่าคืนอัลก็อดรฺนั้นคืออะไร",
+            "verse 97:3": "คืนอัลก็อดรฺนั้นดียิ่งกว่าหนึ่งพันเดือน",
+            "verse 97:4": "บรรดามะลาอิกะฮฺและอัลรูฮฺ (ญิบริล) จะลงมาในคืนนั้น โดยอนุมัติแห่งพระเจ้าของพวกเขาเนื่องจากกิจการ-ทุกสิ่ง",
+            "verse 97:5": "คืนนั้นมีความศานติจนกระทั่งรุ่งอรุณ"
+        },
+        "Turkish": {
+            "verse 97:1": "Doğrusu, Biz, Kuran'ı kadir gecesinde indirmişizdir.",
+            "verse 97:2": "Kadir gecesinin ne olduğunu sen bilir misin?",
+            "verse 97:3": "Kadir gecesi bin aydan hayırlıdır.",
+            "verse 97:4": "Melekler ve Cebrail o gecede Rablerinin izniyle her türlü iş için inerler.",
+            "verse 97:5": "O gece, tan yerinin ağarmasına kadar bir esenliktir."
+        },
+        "Urdu": {
+            "verse 97:1": "ہم نے اس (قرآن) کو شب قدر میں نازل (کرنا شروع) کیا",
+            "verse 97:2": "اور تمہیں کیا معلوم کہ شب قدر کیا ہے؟",
+            "verse 97:3": "شب قدر ہزار مہینے سے بہتر ہے",
+            "verse 97:4": "اس میں روح (الامین) اور فرشتے ہر کام کے (انتظام کے) لیے اپنے پروردگار کے حکم سے اترتے ہیں",
+            "verse 97:5": "یہ (رات) طلوع صبح تک (امان اور) سلامتی ہے"
+        },
+        "Uyghur": {
+            "verse 97:1": "بىز قۇرئاننى ھەقىقەتەن شەبى قەدرىدە نازىل قىلدۇق",
+            "verse 97:2": "شەبى قەدرىنىڭ نېمە ئىكەنلىكىنى بىلەمسەن؟",
+            "verse 97:3": "شەبى قەدرى (شەرەپ ۋە پەزىلەتتە) مىڭ ئايدىن ئارتۇقتۇر",
+            "verse 97:4": "پەرىشتىلەر ۋە جىبرىئىل شۇ كېچىدە پەرۋەردىگارىنىڭ ئەمرى بىلەن (زېمىنغا اﷲ تەقدىر قىلغان) بارلىق ئىش ئۈچۈن چۈشىدۇ",
+            "verse 97:5": "شۇ كېچە تاڭ يورۇغانغا قەدەر پۈتۈنلەي تىنچ - ئامانلىقتىن ئىبارەتتۇر"
+        },
+        "Uzbek": {
+            "verse 97:1": "Албатта, Биз у(Қуръон)ни Лайлатул Қадр да туширдик.",
+            "verse 97:2": "Лайлатул Қадр қандоқ нарса эканини сенга нима билдирди?",
+            "verse 97:3": "Лайлатул Қадр минг ойдин яхшироқдир.",
+            "verse 97:4": "Унда фаришталар ва Руҳ Роббилари изни билан барча ишлар учун тушадир.",
+            "verse 97:5": "У то тонг отгунча салом бўлиб турадир."
+        },
+        "Vietnamese": {
+            "verse 97:1": "Quả thật, TA (Allah) đã ban (Qur’an) xuống vào một Đêm Định Mệnh.",
+            "verse 97:2": "Ngươi (Thiên Sứ Muhammad) biết Đêm Định Mệnh là gì không?",
+            "verse 97:3": "Đêm Định Mệnh tốt hơn cả một ngàn tháng.",
+            "verse 97:4": "Trong đêm đó, dưới sự cho phép của Thượng Đế, các Thiên Thần và Ruh (Đại Thiên thần Jibril) xuống trần mang theo Quyết định của Ngài về tất cả mọi vấn đề.",
+            "verse 97:5": "(Trong đêm đó), sự bằng an kéo dài cho đến hừng đông."
+        },
+        "Yoruba": {
+            "verse 97:1": "Dajudaju Awa so al-Ƙur’an kale ninu Oru Abiyi",
+            "verse 97:2": "Ki si ni o mu o mo ohun t’o n je Oru Abiyi",
+            "verse 97:3": "Oru Abiyi loore ju egberun osu lo",
+            "verse 97:4": "Awon molaika ati Jibril yo si maa sokale ninu oru naa pelu ase Oluwa won fun gbogbo oro eda kookan",
+            "verse 97:5": "Alaafia ni oru naa titi di asiko afemojumo"
         }
     }
 }
