@@ -6,16 +6,16 @@ from collections import (OrderedDict, namedtuple)
 from concurrent.futures import ThreadPoolExecutor
 from configparser import ConfigParser
 from copy import deepcopy
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from functools import lru_cache
 from multiprocessing import cpu_count
 from pathlib import Path
 from pprint import pprint
 from random import choice
 from time import time
-
+from typing import Set
 from aiohttp import (ClientSession, TCPConnector, client_exceptions)
-from ascii_graph import Pyasciigraph
+# from ascii_graph import Pyasciigraph
 from bs4 import BeautifulSoup
 from docx import Document
 from geocoder import location
@@ -25,8 +25,16 @@ from rapidfuzz import (fuzz, process)
 from tqdm import tqdm
 from unidecode import unidecode
 from string import ascii_lowercase
-from logging import error
+from blueprints.data_loader import DataLoader
 # import tracemalloc
+
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import (TimeoutException, WebDriverException, NoSuchElementException, NoSuchFrameException)
+
+
 
 '''
 IslamAI - Data Collection Module
@@ -45,25 +53,29 @@ Notes:
     ~ tqdm slows the extraction process
     ~ Did not leave any memorable comments/type hints for help. File is not much for showcasing.
 
-All data parsed at once average time:
-    ~5-6 minutes (Exlcuding Processing Surahs)
-    ~10-12 minutes (Processing Surahs only)
+Execution Times:
+    ~5 minutes (All parsed at once, exlcuding `Processing Surahs`)
+    ~37 minutes (`Processing Surahs` only)
 '''
 
 class ConfigInfo:
     _config = None
+    _path = None
     
-    def __init__(self, key='Sources', file_name='sources'):
-        config = self._get_config(key, file_name)
+    def __init__(self, path='', key='Sources', file_name='sources'):
+        config = self._get_config(path, key, file_name)
         for key, value in config.items():
             setattr(self, key, value)
 
     @classmethod
     @lru_cache(maxsize=1)
     def _get_config(cls, *args):
-        key, file_name = args
+        path, key, file_name = args
+        file_name = f'{file_name}.ini'
+        if cls._path is None:
+            cls._path = Path(__file__).parent.absolute() / path
         config_parser = ConfigParser()
-        config_parser.read(Path(__file__).parent.absolute() / f'{file_name}.ini')
+        config_parser.read(cls._path / file_name)
         config = dict(config_parser[key])
         if cls._config is None:
             cls._config = config
@@ -88,35 +100,88 @@ class BaseAPI(metaclass=SingletonMeta):
     
     def __init__(self):
         self.url = self.config
+
+    @classmethod
+    def get_instance(cls):
+        return cls()
+    
+    def _get_rand_token(self):
+        from random import choice
+        rapid_api_url, _, config = self._get_rapidapi(g_config=True)
+        tokens = [i.removeprefix('rapidapi_token') for i in list(vars(config).keys())[1:]]
+        rand_choice = deepcopy(choice(tokens))
+        failed_tokens = dict.fromkeys(tokens)
+        new_headers = self._get_rapidapi(token_num=rand_choice)[1]
+        if rand_choice not in failed_tokens:
+            failed_tokens[rand_choice] = False
+            return (rapid_api_url, new_headers)
+        return (rapid_api_url, new_headers) if not all(list(failed_tokens.values())) else False
     
     @staticmethod
-    def _get_rapidapi():
-        new_config = ConfigInfo('RapidAPI', 'rapidapi')
+    def _get_rapidapi(token_num=1, g_config=False):
+        new_config = ConfigInfo('', 'RapidAPI', 'rapidapi')
         rapid_api_url = f'https://{new_config.rapidapi_host}'
-        rapid_api_token = new_config.rapidapi_token
+        rapid_api_token = getattr(new_config, f'rapidapi_token{token_num}')
         rapid_api_host = rapid_api_url.removeprefix('https://')
         headers = {
                 "X-RapidAPI-Key": rapid_api_token,
                 "X-RapidAPI-Host": rapid_api_host
             }
-        return (rapid_api_url, headers)
+        if not g_config:
+            return (rapid_api_url, headers)
+        return (rapid_api_url, headers, new_config)
+    
+    async def _get_rapidapi_info(self, surahID=1):
+        rapid_api_url, rapid_api_headers = self._get_rapidapi()
+        rapid_api_response = await self._request(endpoint=surahID, url=rapid_api_url,
+                                                headers=rapid_api_headers, slash=True,
+                                                rapidapi=True)
+        if not rapid_api_response:
+            return self._get_rapidapi_info(surahID)
+        return {
+                'description':rapid_api_response.get('description', ''),
+                'name_translation': rapid_api_response.get('translation', '').title()
+                }
     
     async def _request(self, **kwargs):
-        default_values = ('', self.url, None, False)
-        endpoint, url, headers, slash = tuple(kwargs.get(key, default_values[i]) for i, key in enumerate(('endpoint', 'url', 'headers', 'slash')))
+        default_values = (self.url, '', None, False, False)
+        url, endpoint, headers, slash, rapidapi = tuple(kwargs.get(key, default_values[i]) for i, key in enumerate(('url', 'endpoint', 'headers', 'slash', 'rapidapi')))
         slash = '/' if slash else ''
         full_endpoint = f'{url}{slash+str(endpoint)}'
+        response = ''
         try:
             async with ClientSession(connector=TCPConnector(ssl=False, enable_cleanup_closed=True,
                                                             force_close=True, ttl_dns_cache=300),
                                                             raise_for_status=True) as session:
                 async with session.get(full_endpoint, headers=headers) as response:
-                    return await response.json()
+                    response = await response.json()
+                    return response
         except (client_exceptions.ContentTypeError):
-            return await response.text()
-        except (client_exceptions.ServerDisconnectedError):
-            error('Request Connection Failed. Retrying...')
+            response = await response.text()
+            return response
+        except (client_exceptions.ServerDisconnectedError,
+                client_exceptions.ClientConnectionError):
+            await asyncio.sleep(0.5)
             return await self._request(**kwargs)
+        except client_exceptions.ClientResponseError as error_:
+            mask_ = lambda token: token[:4]+('*'*(len(token)-35))
+            rapid_api_url, new_headers = ('', '')
+            if not self._get_rand_token():
+                raise error_('All tokens failed.')
+            if rapidapi and not response:
+                await asyncio.sleep(0.1)
+                headers = kwargs.get('headers', '')
+                rapid_api_url, new_headers = self._get_rand_token()
+                new_token = mask_(new_headers.get('X-RapidAPI-Key', ''))
+            new_kwargs = {
+                'url': rapid_api_url,
+                'headers': new_headers
+                }
+            kwargs.update(new_kwargs)
+            response = await self._request(**kwargs)
+            if response:
+                return response
+            print(f"Token failed. Token ({new_token}) being used.")
     
     @staticmethod
     def best_match(string, **kwargs):
@@ -192,48 +257,171 @@ class BaseAPI(metaclass=SingletonMeta):
         return grouped_index, norm_indexes
     
     async def _extract_contents(self, **kwargs):
-        default_values = ['']*4+[False, self.url]
-        html_file, class_, tag_, endpoint, slash, url = tuple(kwargs.get(key, default_values[i]) for i,key in enumerate(('html_file','class_', 'tag_', 'endpoint', 'slash', 'url')))
+        default_values = ['']*5+[False, self.url] +['']*3
+        html_file, endpoint, slash, url, class_, tag_, style = tuple(kwargs.get(key, default_values[i]) for i,key in enumerate(('html_file', 'endpoint', 'slash', 'url', 'class_', 'tag_', 'style')))
         main_page = await self._request(endpoint=endpoint, slash=slash, url=url) if not html_file else html_file
         soup = BeautifulSoup(main_page, 'html.parser')
         params = {}
+        # for key, value in kwargs.items():
+        #     if key not in ['html_file', 'endpoint', 'slash', 'url']:
+        #         params[key] = value
+        #         if key=='tag_':
+        #             params['name'] = value
+        #         # else:
+        #         #     params['attrs'] = {key: value}
+        # # params.update(kwargs)
+        # # if params:
+        # contents = soup.find_all(**params)
+        # return contents
+        # return soup
         if (class_) and (not tag_):
             params['class_'] = class_
             contents = soup.find_all(**params)
             return contents
-        if (tag_):
+        elif (tag_):
             params['tag_'] = tag_
             contents = soup.find_all(tag_)
             return contents
-        if (tag_ and class_):
+        elif (tag_ and class_):
             params['class_'] = class_
             contents = soup.find_all(tag_, **params)
             return contents
+        elif (tag_ and style):
+            params['style'] = class_
+            contents = soup.find_all(tag_, **params)
+            return contents
+        elif (style):
+            params['style'] = style
+            contents = soup.find_all(**params)
+            return contents
         return soup
+
+    async def get_quran_keyword(self, keyword=''):
+        '''Mainly for RapidAPI'''
+        rapid_api_url, headers = self._get_rapidapi()
+        response = await self._request(endpoint=f'corpus/{keyword}', url=rapid_api_url, slash=True, headers=headers)
+        return response
+
+    @staticmethod
+    def _get_driver():
+        options = webdriver.ChromeOptions()
+        options.add_argument('--headless')
+        driver = webdriver.Chrome(options=options)
+        return driver
+
+    @staticmethod
+    async def _get_element(*args):
+        driver, by, tag_name = args
+        element=None
+        try:
+            wait = WebDriverWait(driver, 10)
+            element = wait.until(EC.presence_of_element_located((by, tag_name)))
+        except (TimeoutException, WebDriverException, NoSuchElementException, NoSuchFrameException):
+            if not element:
+                print(f'Element `{tag_name}` not found. Trying again.')
+                return await BaseAPI._get_element(*args)
+        return element
 
 class QuranAPI(BaseAPI):
     def __init__(self):
         super().__init__()
         self.url = self.config
-        self.endpoint = 'ViewTranslations.asp?Display=yes&SoraNo={}&Ayah=0&toAyah=0&Language={}&LanguageID=2&TranslationBook={}'
-    
-    async def get_keyword(self, keyword=''):
-        '''Mainly for RapidAPI'''
-        rapid_api_url, headers = self._get_rapidapi()
-        response = await self._request(endpoint=f'corpus/{keyword}', url=rapid_api_url, slash=True, headers=headers)
-        return response
-    
-    async def extract_surahs(self, export=False):
-        from selenium import webdriver
-        from selenium.webdriver.common.by import By
-        from selenium.webdriver.support.ui import WebDriverWait
-        from selenium.webdriver.support import expected_conditions as EC
-        from selenium.common.exceptions import TimeoutException
+
+    async def surahquran_extract_surahs(self, export=False):
+        '''lang, ayaID, surahID'''
+        surahquran_endpoint = 'Surah-translation/meanings-language-{}-surah-{}.html'
+
+        async def _get_langs():
+            '''Returns {langID:lang}'''
+            url = self.config.surah_quran
+            main_lang_endpoint = 'Surah-translation/Translating-meanings-Quran-en.html'
+            lang_soup = await self._extract_contents(url=url, endpoint=main_lang_endpoint, slash=True, class_='col-lg-12')
+            unfixed_langs = [i.strip('\n') for i in [i.text.split('- ') for i in lang_soup][1]]
+            chinese_to_jawa = unfixed_langs[1:unfixed_langs.index('Jawa52')+1]
+            telugou = unfixed_langs[-1].split('\n')[0]
+            merge_langs = chinese_to_jawa + [telugou]
+            all_langs = OrderedDict({langID:re.sub(r'\d{0,2}$','',lang) for langID,lang in enumerate(merge_langs,start=1)})
+            return all_langs
+
+        async def _parse_surah(en=False, **kwargs):
+            '''langID, surahID'''
+            langID, surahID = tuple(kwargs.get(i) for _,i in enumerate(('langID', 'surahID')))
+            url = self.url.surah_quran
+            endpoint = surahquran_endpoint.format(langID, surahID)
+            class_ = 'ara' if (langID==2 and not en) else 'her'
+            element_contents = await self._extract_contents(url=url,endpoint=endpoint,slash=True, class_=class_)
+            ara_slicer1 = slice(0,-3) if (langID==2 and not en) else slice(0,None)
+            ara_slicer2 = slice(None, None, -1) if (langID==2 and not en) else slice(0,None)
+            verses = [i.get_text(strip=True)[ara_slicer1][ara_slicer2] for i in element_contents]
+            verse_contents = OrderedDict()
+            for idx, verse in enumerate(verses, start=1):
+                verseID = f'verse {surahID}:{idx}'
+                if verseID not in verse_contents:
+                    verse_contents[verseID] = {}
+                verse_contents[verseID] = verse
+            return verse_contents
+
+        async def _parse_langs(**kwargs):
+            all_langs, en_verses = await asyncio.gather(*[
+                                                _get_langs(),
+                                                _parse_surah(langID=2, en=True, **kwargs)])
+            lang_contents = OrderedDict({'languages': {}})
+            for (langID, lang) in all_langs.items():
+                verses = await _parse_surah(langID=langID, **kwargs)
+                lang_contents['languages'][lang] = verses
+            lang_contents['languages']['English'] = en_verses
+            sorted_languages = {k: v for k, v in sorted(lang_contents['languages'].items())}
+            return sorted_languages
+
+        async def _extract_all():
+            surah_list = await self._surah_list()
+            all_surahs = OrderedDict()
+            for idx, (surahID, surah_name_) in tqdm(enumerate(surah_list.items(), start=1),
+                                                    total=len(surah_list), desc='Processing Surahs (SurahQuran)',
+                                                    unit='MB', colour='green'):
+                surah_name, surah_name_ar = surah_name_['name_complex'], surah_name_['surah_name_ar']
+                surah_contents = await _parse_langs(surahID=surahID)
+                if idx not in all_surahs:
+                    all_surahs[idx] = {}
+                all_surahs[idx] = {
+                                    'name_complex': surah_name,
+                                    'surah_name_ar': surah_name_ar,
+                                    'verses': {**surah_contents}
+                                    }
+                file_name = f'{idx}-{unidecode(surah_name)}'
+                surah_base_contents = await self._surah_base_info(idx, source='`https://surahquran.com`')
+                with open(self.path / 'jsons' / 'quran' / 'surah-quran' / f'{file_name}.json', mode='w', encoding='utf-8') as file:
+                    full_surah = all_surahs[idx]
+                    surah_base_contents.update(full_surah)
+                    json.dump(surah_base_contents, file, indent=4, ensure_ascii=False)
+            return all_surahs
         
-        options = webdriver.ChromeOptions()
-        options.add_argument('--headless')
-        driver = webdriver.Chrome(options=options)
-        
+        if export:
+            return await self._merge_all('all-surahs-surahquran', 'surah-quran')
+        all_surah_contents = await _extract_all()
+        return all_surah_contents
+
+    async def _merge_all(self, file_name, folder_name='json/quran'):
+        all_surah_files = DataLoader(folder_path=f'jsons/quran/{folder_name}')()
+        all_surahs = OrderedDict(sorted({surah_name: surah_contents for surah_name, surah_contents in all_surah_files.items()}.items(),key=lambda item: int(item[0].split('-')[0])))
+        self._exporter(all_surahs, file_name)
+        print(f'All surahs for {folder_name} merged successfully.')
+    
+    async def _surah_list(self):
+        #** Same contents for all surah endpoints
+        altafsir_endpoint = 'ViewTranslations.asp?Display=yes&SoraNo={}&Ayah=0&toAyah=0&Language={}&LanguageID=2&TranslationBook={}'
+        surahID, langID, authorID = (1,2,3)
+        endpoint = altafsir_endpoint.format(*(surahID, langID, authorID))
+        soup = await self._extract_contents(endpoint=endpoint, slash=True, url=self.url.altafsir, tag_='option')
+        old_list = [i.get_text(strip=True).translate(str.maketrans('', '', '\xa0\r\n')).split('(') for i in soup][:114]
+        updated_list = [[i[1].rstrip(')'), re.sub(r'\d{1,3}', '', i[0]).lstrip()] for i in old_list]
+        surah_dict = {idx: {'name_complex': i,
+                            'surah_name_ar': j}
+                            for idx, (i,j) in enumerate(updated_list, start=1)}
+        return surah_dict
+
+    async def altafsir_extract_surahs(self, export=False):
+        altafsir_endpoint = 'ViewTranslations.asp?Display=yes&SoraNo={}&Ayah=0&toAyah=0&Language={}&LanguageID=2&TranslationBook={}'
         #** 'lang_author_ids': {language: [langID, translator(s)ID]}
         lang_author_ids = {
                         'albanian': [27, 19], 'azerbaijani': [24, 0], 'bosnian': [19, 0],
@@ -247,76 +435,58 @@ class QuranAPI(BaseAPI):
                         'tamil': [23, 0], 'thai': [21, 0], 'turkish': [10, 0], 'urdu': [12, 0],
                         'uzbek': [26, 0]
                     }
-
-        async def _surah_list():
-            #** Same contents for all surah endpoints
-            surahID, langID, authorID = (1,2,3)
-            endpoint = self.endpoint.format(*(surahID, langID, authorID))
-            soup = await self._extract_contents(endpoint=endpoint, slash=True, url=self.url.altafsir, tag_='option')
-            old_list = [i.get_text(strip=True).translate(str.maketrans('', '', '\xa0\r\n')).split('(') for i in soup][:114]
-            updated_list = [[i[1].rstrip(')'), re.sub(r'\d{1,3}', '', i[0]).lstrip()] for i in old_list]
-            surah_dict = {idx: {'name_complex':i,
-                                'surah_name_ar': j}
-                                for idx, (i,j) in enumerate(updated_list, start=1)}
-            del (soup, old_list)
-            return surah_dict
         
         async def _get_lang_authors():
             lang_authors = OrderedDict({})
             #**Same langIDs for all languages
             for _, (lang, _) in enumerate(lang_author_ids.items()):
-                endpoint = self.endpoint.format(1, lang_author_ids.get(lang)[0], lang_author_ids.get(lang)[1])
+                endpoint = altafsir_endpoint.format(1, lang_author_ids.get(lang)[0], lang_author_ids.get(lang)[1])
                 soup_ = await self._extract_contents(endpoint=endpoint, slash=True, url=self.url.altafsir, tag_='option')
                 soup = [i.text for i in soup_]
                 authors = soup[soup.index('Uzbek')+1:]
                 updated_authors = [0]if not authors else list(zip(authors, lang_author_ids.get(lang)[1:]))
                 lang_authors[lang] = updated_authors
-            del (soup_)
             return lang_authors
         
-        async def _get_iframe(driver):
-            try:
-                wait = WebDriverWait(driver, 1)
-                iframe_element = wait.until(EC.presence_of_element_located((By.TAG_NAME, 'iframe')))
-            except TimeoutException:
-                wait = WebDriverWait(driver, 5)
-                iframe_element = wait.until(EC.presence_of_element_located((By.TAG_NAME, 'iframe')))
-            
-            #? If still timing out and not correctly finding iframe
-            if not iframe_element:
-                return _get_iframe(driver)
-
-            return iframe_element
-        
         async def _parse_verses(surahID, langID, authorID):
-            #?> Fix 68-Al-Qalam -> Portugues (Altafsir needs to fix this)
-            if (surahID==68 and langID==7):
-                return ''
-            endpoint = self.endpoint.format(surahID, langID, authorID)
+            endpoint = altafsir_endpoint.format(surahID, langID, authorID)
             url = f'{self.url.altafsir}/{endpoint}'
+            driver = self._get_driver()
             driver.get(url)
-            iframe_element = await _get_iframe(driver)
+            iframe_element = await self._get_element(driver, By.TAG_NAME, 'iframe')
             driver.switch_to.frame(iframe_element)
             iframe_content = driver.page_source
             soup = BeautifulSoup(iframe_content, 'html.parser')
             old_contents = [i for i in ' '.join([i.text for i in soup]).split('\n') if i][1:]
-            
+            surah_rapidapi_info = await self._surah_base_info(surahID)
+            verse_count = nested('verses_count', surah_rapidapi_info)[0]
             fixed_contents = ''.join(old_contents).split()
-            grouped_indexes = self._get_sur_indexes(fixed_contents, r'\[(.*?)\]')[0]
-            full_verse = {}
+            try:
+                brack_indexes = [(idx, bracket) for idx,bracket in enumerate(fixed_contents) if re.search(r'(?:\[\d{1,3}:\d{1,3}\])',bracket)]
+                grouped_indexes = [(brack_indexes[i], brack_indexes[i+1]) for i in range(0, len(brack_indexes)-1)]
+                grouped_indexes.append((brack_indexes[-1], (len(''.join(old_contents)), '')))
+            except IndexError:
+                return {'Fix': ''}
+            full_verse = OrderedDict()
             for idx, (i,j) in enumerate(grouped_indexes, start=1):
                 start, end = i[0], j[0]
-                fix_j = re.sub(r'\[(.*?)\]', '', j[1])
-                org_verse = ' '.join(fixed_contents[start+1:end] + [fix_j]).split()
-                verse = ' '.join(org_verse)
-                end_verse = verse if '.' not in verse else verse[:verse.find('.')+1]
-                fix_verse = end_verse if '*' not in end_verse else end_verse[:end_verse.find('*')]
+                fix_j = re.sub(r'(?:\[(.*?)\])', '', j[1])
+                org_verse = ' '.join(fixed_contents[start+1:end] + [fix_j])
+                verse = ''.join(org_verse)
+                #! Fix Here
+
+                final_verse = ('' if not verse
+                                else verse[:verse.find('*')] if re.search(r'\*', verse)
+                                else (verse[:verse.find(' Sources')-5] if re.search(r'\[M\] Sources', verse)
+                                else (verse[:verse.find('Sources')-4] if re.search(r'\[M\]Sources', verse)
+                                else verse)))
+
                 verseID = f'verse {surahID}:{idx}'
+                if len(brack_indexes) != verse_count:
+                    return {'Fix': ''}
                 if verseID not in full_verse:
                     full_verse[verseID] = {}
-                full_verse[f'verse {surahID}:{idx}'] = fix_verse
-            
-            del (soup, old_contents, grouped_indexes)
+                full_verse[f'verse {surahID}:{idx}'] = final_verse.rstrip()
             return full_verse
         
         async def _parser(**kwargs):
@@ -337,15 +507,13 @@ class QuranAPI(BaseAPI):
                     author_contents[author_name] = author_lang_contents
                     lang_contents[idx_] = author_contents
                 all_contents['languages'][lang] = {'translators':lang_contents}
-            del (lang_authors, author_lang_contents)
             return all_contents
         
         async def _extract_all():
-            surah_list = await _surah_list()
+            surah_list = await self._surah_list()
             all_surahs = OrderedDict()
-            for idx, (surah_id, surah_name_) in tqdm(
-                                                    enumerate(surah_list.items(), start=1),
-                                                    total=len(surah_list), desc='Processing Surahs',
+            for idx, (surah_id, surah_name_) in tqdm(enumerate(surah_list.items(), start=1),
+                                                    total=len(surah_list), desc='Processing Surahs (Altafsir)',
                                                     unit='MB', colour='green'):
                 surah_name, surah_name_ar = surah_name_['name_complex'], surah_name_['surah_name_ar']
                 surah_contents = await _parse_langs(surahID=surah_id)
@@ -357,28 +525,115 @@ class QuranAPI(BaseAPI):
                                     'verses': {**surah_contents}
                                     }
                 file_name = f'{idx}-{unidecode(surah_name)}'
-                surah_base_contents = await self._surah_base_info(idx)
-                with open(self.path / 'jsons' / 'quran' / f'{file_name}.json', mode='w', encoding='utf-8') as file:
+                surah_base_contents = await self._surah_base_info(idx, source='`https://altafsir.com`')
+                with open(self.path / 'jsons' / 'quran' / 'altafsir' / f'{file_name}.json', mode='w', encoding='utf-8') as file:
                     full_surah = all_surahs[idx]
                     surah_base_contents.update(full_surah)
                     json.dump(surah_base_contents, file, indent=4, ensure_ascii=False)
-            del (surah_contents, surah_list)
-            if export:
-                return self._exporter(all_surahs, 'all-surahs')
             return all_surahs
-        
+        if export:
+            return await self._merge_all('all-surahs-altafsir', 'altafsir')
         all_surah_contents = await _extract_all()
         return all_surah_contents
 
-    async def _surah_base_info(self, surahID=1):
-        #** RapidAPI info -> description only
+    async def extract_surahs_info(self, export=False):
+        url = self.url.surah_quran
+        main_endpoint = 'transliteration-aya-{}-sora-{}.html'
+        
+        async def _get_descr(*args):
+            '''args: ayaID, surahID'''
+            endpoint = main_endpoint.format(*args)
+            descr = await self._extract_contents(url=url, endpoint=endpoint, slash=True, style='font-size: 12pt;')
+            fix_descr = [re.sub(r'^(\*\d{1,3}\)\.?)','',i.text).rstrip('  \xa0').lstrip() for i in descr][-1]
+            words = re.findall(r'\S+\s*', fix_descr)
+
+            # Adds multiple spaces every 7 words for better readability
+            words_with_spaces = []
+            for i, word in enumerate(words):
+                words_with_spaces.append(word)
+                if (i + 1) % 7 == 0:
+                    words_with_spaces.append('  ')  # Add two spaces for splitting
+
+            description = ''.join(words_with_spaces).split('  ')
+            return description
+
+        @lru_cache(maxsize=1)
+        async def _get_surah_dict():
+            surah_url = self.url.surah_quran
+            surah_endpoint = 'Surah-translation/Quran-language-en-6.html'
+            sur_names = await self._extract_contents(url=surah_url, endpoint=surah_endpoint, slash=True, tag_='td')
+            surah_names = [re.sub(r'^(\d{1,3}\- )','',i.text).strip() for i in sur_names]
+            all_surahs = OrderedDict({idx: surah for idx, surah in enumerate(surah_names, start=1)})
+            return all_surahs
+
+        async def _get_surah_verses(surahID):
+            surah_file = _get_surah_file()
+            en = nested('English', surah_file)
+            fixed = {}
+            for idx,i in enumerate(en, start=1):
+                surah_lst = [verse for _,verse in i.items()]
+                if idx not in fixed:
+                    fixed[idx] = {}
+                fixed[idx] = surah_lst
+            return fixed.get(surahID)
+
+        async def _get_verseID(*args):
+            endpoint = main_endpoint.format(*args)
+            verse = await self._extract_contents(url=url, endpoint=endpoint, slash=True, style='font-size: 13pt;color:green')
+            verse_contents = re.split(r'^(\(\d{1,3}\:\d{1,3}\))',re.sub(r'(\xa0\*\d{1,3})$', '', verse[0].text))[1:]
+            verseID = re.sub(r'[()]','',verse_contents[0]).strip()
+            return verseID
+        
+        @lru_cache(maxsize=1)
+        async def _get_verse_count(surahID):
+            verse_count = await _get_surah_verses(surahID)
+            return len(verse_count)
+
+        @lru_cache(maxsize=1)
+        def _get_surah_file():
+            return DataLoader.load_file('jsons', 'all-surahs-surahquran')
+        
+        async def _parse_all():
+            surah_file = _get_surah_file()
+            surah_dict = await _get_surah_dict()
+            all_surah_contents = OrderedDict()
+
+            for surahID, surah_name in tqdm(surah_dict.items(), desc='Processing Surah Meanings', colour='green', unit='MB'):
+                verse_count, surah_verses = await asyncio.gather(
+                                            _get_verse_count(surahID),
+                                            _get_surah_verses(surahID))
+                all_verse_info = []
+
+                for ayaID, verse in enumerate(surah_verses, start=1):
+                    verse_info = OrderedDict({'id': '', 'verse': '', 'description': ''})
+                    verse_descr = await _get_descr(ayaID, surahID)
+                    id_ = f'[{surahID}:{ayaID}]'
+                    verse_info['id'] = id_
+                    verse_info['verse'] = verse
+                    verse_info['description'] = verse_descr
+                    all_verse_info.append(verse_info.copy())
+
+                all_surah_contents[surahID] = {
+                    'name': surah_name,
+                    'verse-count': verse_count,
+                    'verse-info': all_verse_info
+                }
+                with open(self.path / 'jsons' / 'quran' / 'verse-meanings' / f'{surahID}-{surah_name}.json', mode='w', encoding='utf-8') as file:
+                    surah = all_surah_contents[surahID]
+                    json.dump(surah, file, indent=4)
+            return all_surah_contents
+        all_surah_meanings = await _parse_all()
+        if export:
+            return self._exporter(all_surah_meanings, 'all-surah-meanings')
+        return all_surah_meanings
+
+
+    async def _surah_base_info(self, surahID=1, source=''):
+        #** RapidAPI info -> 'description', 'name_translation'
         #** QuranAPI info -> 'id', 'revelation_place', 'revelation_order', 'bismillah_pre'
         #**                  'verses_count', 'name_simple', {'translated_name': 'name'}
         async def _get_rapid_info():
-            rapid_api_url, rapid_api_headers = self._get_rapidapi()
-            rapid_api_response = await self._request(endpoint=surahID, url=rapid_api_url,
-                                                    headers=rapid_api_headers, slash=True)
-            return {'description':rapid_api_response.get('description', '')}
+            return await self._get_rapidapi_info(surahID)
         
         async def _get_quranapi_info():
             main_url = self.url.quran_url
@@ -394,32 +649,20 @@ class QuranAPI(BaseAPI):
             base_contents, info_contents = base_response['chapter'], info_response['chapter_info']
             base_keys = ('id', 'name_simple', 'revelation_place', 'revelation_order',
                         'bismillah_pre', 'verses_count')
-            info_keys = ('source', 'short_text', 'text')
+            info_keys = ('short_text', 'text')
             base_contents = OrderedDict({key: base_contents[key] for key in base_keys})
             info_contents['text'] = [i.text for i in BeautifulSoup(info_contents['text'], 'html.parser')][1:]
             info_contents = OrderedDict({key: info_contents[key] for key in info_keys})
+            info_contents['quran-source'] = source
             base_contents.update(info_contents)
             return base_contents
         
-        rapidapi_descr, quranapi_contents = await asyncio.gather(
+        rapidapi_info, quranapi_contents = await asyncio.gather(
                         _get_rapid_info(),
                         _get_quranapi_info()
         )
-        quranapi_contents.update(rapidapi_descr)
+        quranapi_contents.update(rapidapi_info)
         return quranapi_contents
-    
-    @classmethod
-    def get_surah(cls, surahID: str=None):
-        list_surahs, _json_file = cls._list_surahs()
-        if surahID is None:
-            pprint(list_surahs)
-            return 'Choose a surah ID'
-        else:
-            return _json_file[str(surahID)]
-    
-    @classmethod
-    def get_instance(cls):
-        return cls()
 
 class HadithAPI(BaseAPI):
     def __init__(self):
@@ -434,7 +677,7 @@ class HadithAPI(BaseAPI):
         async def _extract_urls(**kwargs):
             async def _parser(contents):
                 for book, link in tqdm(contents.items(), total=len(contents), desc='Processing Hadiths', colour='green', unit='MB'):
-                    with open(self.path / 'jsons' / f'book_{book}.json', mode='w', encoding='utf-8') as file2:
+                    with open(self.path / 'jsons' / 'hadiths' / f'book_{book}.json', mode='w', encoding='utf-8') as file2:
                         hadith_json = await self._request(endpoint='', slash=False, url=link)
                         json.dump(hadith_json, file2, indent=4)
                 return file2
@@ -460,7 +703,7 @@ class HadithAPI(BaseAPI):
         author, _  = [kwargs.get(key, default_values[i]) for i, key in enumerate(('author', ''))]
         if author:
             author = self.best_match(author, values_=book_authors)[0]
-            book_json = json.loads((self.path / 'jsons' / f'book_{author}.json').read_text(encoding='utf-8'))
+            book_json = json.loads((self.path / 'jsons' / 'hadiths' / f'book_{author}.json').read_text(encoding='utf-8'))
             return book_json
         else:
             return contents
@@ -502,7 +745,7 @@ class IslamFacts(BaseAPI):
                         formatted = re.sub(r'\((Religion > Islam )\)', '', fun_fact).strip()
                         self.facts.add(formatted)
             fun_facts = dict.fromkeys(self.facts)
-            with open(self.path / 'jsons' / 'islam_facts.json', mode='w', encoding='utf-8') as file1:
+            with open(self.path / 'jsons' / 'islam-facts.json', mode='w', encoding='utf-8') as file1:
                 json.dump(fun_facts, file1, indent=4, ensure_ascii=False)
             return fun_facts
         
@@ -573,8 +816,6 @@ class IslamFacts(BaseAPI):
                                 )
                 org_names = _fixer(True)
                 all_name_contents[org_names[ar_name_idx]] = _extract_name_data()
-            
-            del (main_page, allah_names_html)
             return all_name_contents
         
         all_contents = await _get_name_contents()
@@ -586,7 +827,6 @@ class IslamFacts(BaseAPI):
                                     'Name': name,
                                     'Information': {**information}
                                     }
-        del all_contents
         if export:
             return self._exporter(merged_contents, 'list_allah_names')
         return merged_contents
@@ -614,7 +854,6 @@ class IslamFacts(BaseAPI):
                                                 all_words[7:] if letter=='T' else \
                                                 all_words[2:] if letter=='R' else \
                                                 all_words
-            del (letter_words, all_words)
             return letter_dictionary
         
         async def _extract_all():
@@ -982,7 +1221,6 @@ class ProphetMuhammad(BaseAPI):
                                     'transliteration_en': translation_en,
                                     'table_of_contents': {**toc_contents}
                                     }}
-            del title_page
             return updated_title
         
         async def _parse_chap(start_page, end_page):
@@ -1059,7 +1297,6 @@ class ProphetMuhammad(BaseAPI):
                             ansar[0]: ansar[1],
                             apostle[0]: apostle[1]
                             })
-            del gloss_contents
             return updated_gloss
         
         pdf = self._get_file(path=self.path, file_name=self.title)
@@ -1100,8 +1337,6 @@ class ProphetMuhammad(BaseAPI):
         title_page[self.name]['table_of_contents'] = toc_and_chaps
         full_book = deepcopy(title_page)
         
-        del (title_page, chapters, glossary)
-        
         if export:
             return self._exporter(full_book, 'life_of_prophet_muhammad')
         return full_book
@@ -1119,8 +1354,9 @@ class IslamicStudies(BaseAPI):
         
         def _get_contents(contents, start, end):
             contents = contents[start+1:end]
-            updated_contents = [i.replace('\n','').strip() for i in contents][:-1]
-            return updated_contents
+            updated_contents = [re.sub(r'\s+',' ',i).replace('\n','').strip() for i in contents][:-1]
+            fix623 = [re.sub(r'(:)', r' -', i) if re.match(r'^(623:)', i) else i for i in updated_contents]
+            return fix623
         
         async def _get_credits():
             return soup.find('h3').text
@@ -1140,7 +1376,7 @@ class IslamicStudies(BaseAPI):
             all_contents['Credits'] = credentials
             
             if export:
-                return self._exporter(all_contents, 'islamic_timeline')
+                return self._exporter(all_contents, 'islamic-timeline')
             return all_contents
         
         html_file = open(self.path / 'htmls' / 'Timeline (History of Islam).html', mode='r', encoding='utf-8').read()
@@ -1187,8 +1423,6 @@ class IslamicStudies(BaseAPI):
         
         docx = await _get_docx()
         structured_contents = _content_extractor()
-        del docx
-        
         if export:
             return self._exporter(structured_contents, 'islamic-laws')
         return structured_contents
@@ -1224,7 +1458,6 @@ class IslamicStudies(BaseAPI):
                         {idx: index_name for idx, index_name in enumerate(toc_contents, start=1)},
                         'Credits': credentials}}
             cleaned_html = [i for i in cleaned_html_ if i][8:] #** Excluding toc contents
-            del (html, html_contents)
             return (cleaned_toc, cleaned_html)
         
         async def _structured_contents():
@@ -1257,7 +1490,6 @@ class IslamicStudies(BaseAPI):
                         indexes = (last_idx[-1][0], len(html))
                         contents = _get_contents(html, *indexes)
                         updated_toc[5] = {key: contents}
-                del (toc_indexes, last_idx)
                 return updated_toc
             
             all_contents = OrderedDict({
@@ -1267,7 +1499,6 @@ class IslamicStudies(BaseAPI):
                                         'Credits': toc_contents[title]['Credits']
                                             }
                                         })
-            del (toc_contents, html, title)
             
             if export:
                 with open(self.path / 'jsons' / 'road_to_peace_salvation.json', mode='w', encoding='utf-8') as file:
@@ -1306,7 +1537,6 @@ class IslamPrayer(BaseAPI):
                         elif current_key is not None:
                             structured_dict[current_key] += f'{item} '
                     foundation[title_contents][key] = structured_dict
-            del (page, indexes)
             return foundation
         
         async def _title_contents():
@@ -1366,7 +1596,6 @@ class IslamPrayer(BaseAPI):
             both_fixed[0].update(sev_eight)
             both_fixed[0].update(both_fixed[-1])
             wudu_contents = OrderedDict(both_fixed[0])
-            del (merged_pages, sev_eight, both_indexes, both_fixed)
             return wudu_contents
         
         async def _wudu_rules():
@@ -1384,7 +1613,6 @@ class IslamPrayer(BaseAPI):
                                 else ''.join(contents[:2]): \
                                 contents[1:] if re.search(r'(?:Wudu Tip - \w+)', contents[0]) \
                                 else ''.join(contents[2:]) for contents in merged_rules}
-                del (merged_rules)
                 return rule_contents
                 
             rule_contents = _fix_rules()
@@ -1395,7 +1623,6 @@ class IslamPrayer(BaseAPI):
                             note[0]: note[1:],
                             'Tips': rule_contents
                             }})
-            del (page, rule_contents)
             return structured
         
         
@@ -1407,7 +1634,7 @@ class IslamPrayer(BaseAPI):
                                                                 _wudu_rules()
                                                                 )
         
-        def merge_all():
+        def _merge_all():
             title, desc = title_contents
             all_merged = {
                 'Wudu-Guide': {
@@ -1418,9 +1645,7 @@ class IslamPrayer(BaseAPI):
                         }
             return all_merged
         
-        all_contents = merge_all()
-        
-        del (wudu_guide, title_contents, wudu_contents, foundation)
+        all_contents = _merge_all()
         if export:
             return self._exporter(all_contents, 'wudu-guide')
         return all_contents
@@ -1453,12 +1678,17 @@ class IslamPrayer(BaseAPI):
 class ArabicAPI(BaseAPI):
     def __init__(self):
         super().__init__()
-        self.url = self.config.arabic_lan
+        self.url = self.config
     
     async def arabic_alphabet(self, export=False):
-        endpoint = '/arabic_alphabet.php'
-        soup = await self._extract_contents(endpoint=endpoint, slash=False, url=self.url, tag_='p')
-        return soup
+        path = self.path
+        pdf_file = self._get_file(path, 'arabic-alphabet')
+        return pdf_file
+
+
+
+
+        # return htm_contents
 
 async def main():
     # tracemalloc.start()
@@ -1476,7 +1706,9 @@ async def main():
     async def run_all(default):
         tasks = [asyncio.create_task(task) for task in [
                     # d.extract_qibla_data(default),
-                    a.extract_surahs(default),
+                    # a.surahquran_extract_surahs(default),
+                    # a.altafsir_extract_surahs(default),\
+                    a.extract_surahs_info(default)
                     # a._surah_base_info()
                     # b.get_all_hadiths(parser=default),
                     # c.extract_allah_contents(default),
@@ -1494,7 +1726,6 @@ async def main():
                     ]]
         results = await asyncio.gather(*tasks)
         return results
-    
     start = time()
     # try:
     #     results = await run_all()
@@ -1504,10 +1735,26 @@ async def main():
     #     print(traceback)
     results = await run_all(True)
     end = time()
-    pprint(results)
+    # pprint(results)
     timer = (end-start)
     minutes, seconds = divmod(timer, 60) 
     print(f"Execution Time: {minutes:.0f} minutes and {seconds:.5f} seconds")
 
 if __name__ == '__main__':
-    asyncio.run(main())
+    try:
+        asyncio.run(main())
+    except KeyboardInterrupt:
+        print('Terminated')
+
+
+
+
+
+
+
+
+
+
+
+
+
