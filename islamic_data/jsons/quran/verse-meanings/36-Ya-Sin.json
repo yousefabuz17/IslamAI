@@ -1,9 +1,10 @@
 {
     "name": "Ya-Sin",
+    "id": 36,
     "verse-count": 83,
     "verse-info": [
         {
-            "id": "[36:1]",
+            "verse-id": "[36:1]",
             "verse": "Ya, Seen.",
             "description": [
                 "Ibn 'Abbas, 'Ikrimah, Dahhak, Hasan Basri and",
@@ -16,14 +17,14 @@
             ]
         },
         {
-            "id": "[36:2]",
+            "verse-id": "[36:2]",
             "verse": "By the wise Qur'an.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:3]",
+            "verse-id": "[36:3]",
             "verse": "Indeed you, [O Muhammad], are from among the messengers,",
             "description": [
                 "To begin a discoursc like this does",
@@ -61,14 +62,14 @@
             ]
         },
         {
-            "id": "[36:4]",
+            "verse-id": "[36:4]",
             "verse": "On a straight path.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:5]",
+            "verse-id": "[36:5]",
             "verse": "[This is] a revelation of the Exalted in Might, the Merciful,",
             "description": [
                 "Here, two of the attributes of the",
@@ -96,7 +97,7 @@
             ]
         },
         {
-            "id": "[36:6]",
+            "verse-id": "[36:6]",
             "verse": "That you may warn a people whose forefathers were not warned, so they are unaware.",
             "description": [
                 "Another translation can be: \"You should warn",
@@ -153,7 +154,7 @@
             ]
         },
         {
-            "id": "[36:7]",
+            "verse-id": "[36:7]",
             "verse": "Already the word has come into effect upon most of them, so they do not believe.",
             "description": [
                 "This is about those people who were",
@@ -178,7 +179,7 @@
             ]
         },
         {
-            "id": "[36:8]",
+            "verse-id": "[36:8]",
             "verse": "Indeed, We have put shackles on their necks, and they are to their chins, so they are with heads [kept] aloft.",
             "description": [
                 "\"Fetters\" in this verse implies their own",
@@ -196,7 +197,7 @@
             ]
         },
         {
-            "id": "[36:9]",
+            "verse-id": "[36:9]",
             "verse": "And We have put before them a barrier and behind them a barrier and covered them, so they do not see.",
             "description": [
                 "Set a barrier before them and a",
@@ -213,7 +214,7 @@
             ]
         },
         {
-            "id": "[36:10]",
+            "verse-id": "[36:10]",
             "verse": "And it is all the same for them whether you warn them or do not warn them - they will not believe.",
             "description": [
                 "This dces not mean that it is",
@@ -242,14 +243,14 @@
             ]
         },
         {
-            "id": "[36:11]",
+            "verse-id": "[36:11]",
             "verse": "You can only warn one who follows the message and fears the Most Merciful unseen. So give him good tidings of forgiveness and noble reward.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:12]",
+            "verse-id": "[36:12]",
             "verse": "Indeed, it is We who bring the dead to life and record what they have put forth and what they left behind, and all things We have enumerated in a clear register.",
             "description": [
                 "This shows that three kinds of the",
@@ -284,7 +285,7 @@
             ]
         },
         {
-            "id": "[36:13]",
+            "verse-id": "[36:13]",
             "verse": "And present to them an example: the people of the city, when the messengers came to it -",
             "description": [
                 "The early commentators, generally, have expressed the",
@@ -356,14 +357,14 @@
             ]
         },
         {
-            "id": "[36:14]",
+            "verse-id": "[36:14]",
             "verse": "When We sent to them two but they denied them, so We strengthened them with a third, and they said, \"Indeed, we are messengers to you.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:15]",
+            "verse-id": "[36:15]",
             "verse": "They said, \"You are not but human beings like us, and the Most Merciful has not revealed a thing. You are only telling lies.\"",
             "description": [
                 "In other words, what they wanted to",
@@ -487,14 +488,14 @@
             ]
         },
         {
-            "id": "[36:16]",
+            "verse-id": "[36:16]",
             "verse": "They said, \"Our Lord knows that we are messengers to you,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:17]",
+            "verse-id": "[36:17]",
             "verse": "And we are not responsible except for clear notification.\"",
             "description": [
                 "That is, \"Our only duty is to",
@@ -510,7 +511,7 @@
             ]
         },
         {
-            "id": "[36:18]",
+            "verse-id": "[36:18]",
             "verse": "They said, \"Indeed, we consider you a bad omen. If you do not desist, we will surely stone you, and there will surely touch you, from us, a painful punishment.\"",
             "description": [
                 "What they meant was: \"You are an",
@@ -541,7 +542,7 @@
             ]
         },
         {
-            "id": "[36:19]",
+            "verse-id": "[36:19]",
             "verse": "They said, \"Your omen is with yourselves. Is it because you were reminded? Rather, you are a transgressing people.\"",
             "description": [
                 "That is, \"No one is an evil",
@@ -563,14 +564,14 @@
             ]
         },
         {
-            "id": "[36:20]",
+            "verse-id": "[36:20]",
             "verse": "And there came from the farthest end of the city a man, running. He said, \"O my people, follow the messengers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:21]",
+            "verse-id": "[36:21]",
             "verse": "Follow those who do not ask of you [any] payment, and they are [rightly] guided.",
             "description": [
                 "That servant of God, in this one",
@@ -603,7 +604,7 @@
             ]
         },
         {
-            "id": "[36:22]",
+            "verse-id": "[36:22]",
             "verse": "And why should I not worship He who created me and to whom you will be returned?",
             "description": [
                 "This sentence has two parts. The first",
@@ -626,7 +627,7 @@
             ]
         },
         {
-            "id": "[36:23]",
+            "verse-id": "[36:23]",
             "verse": "Should I take other than Him [false] deities [while], if the Most Merciful intends for me some adversity, their intercession will not avail me at all, nor can they save me?",
             "description": [
                 "That is, \"They are neither such favourites",
@@ -639,7 +640,7 @@
             ]
         },
         {
-            "id": "[36:24]",
+            "verse-id": "[36:24]",
             "verse": "Indeed, I would then be in manifest error.",
             "description": [
                 "\"If I do so\": \"If I make",
@@ -648,7 +649,7 @@
             ]
         },
         {
-            "id": "[36:25]",
+            "verse-id": "[36:25]",
             "verse": "Indeed, I have believed in your Lord, so listen to me.\"",
             "description": [
                 "This sentence again contains a subtle point",
@@ -663,7 +664,7 @@
             ]
         },
         {
-            "id": "[36:26]",
+            "verse-id": "[36:26]",
             "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know",
             "description": [
                 "That is, Inunediately following his martyrdom, the",
@@ -684,7 +685,7 @@
             ]
         },
         {
-            "id": "[36:27]",
+            "verse-id": "[36:27]",
             "verse": "Of how my Lord has forgiven me and placed me among the honored.\"",
             "description": [
                 "This is a specimen of the high",
@@ -737,14 +738,14 @@
             ]
         },
         {
-            "id": "[36:28]",
+            "verse-id": "[36:28]",
             "verse": "And We did not send down upon his people after him any soldiers from the heaven, nor would We have done so.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:29]",
+            "verse-id": "[36:29]",
             "verse": "It was not but one shout, and immediately they were extinguished.",
             "description": [
                 "These words contain a subtle satire. In",
@@ -758,14 +759,14 @@
             ]
         },
         {
-            "id": "[36:30]",
+            "verse-id": "[36:30]",
             "verse": "How regretful for the servants. There did not come to them any messenger except that they used to ridicule him.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:31]",
+            "verse-id": "[36:31]",
             "verse": "Have they not considered how many generations We destroyed before them - that they to them will not return?",
             "description": [
                 "That is, they were annihilated so completely",
@@ -777,14 +778,14 @@
             ]
         },
         {
-            "id": "[36:32]",
+            "verse-id": "[36:32]",
             "verse": "And indeed, all of them will yet be brought present before Us.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:33]",
+            "verse-id": "[36:33]",
             "verse": "And a sign for them is the dead earth. We have brought it to life and brought forth from it grain, and from it they eat.",
             "description": [
                 "Until now the disbelieves of Makkah were",
@@ -812,14 +813,14 @@
             ]
         },
         {
-            "id": "[36:34]",
+            "verse-id": "[36:34]",
             "verse": "And We placed therein gardens of palm trees and grapevines and caused to burst forth therefrom some springs -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:35]",
+            "verse-id": "[36:35]",
             "verse": "That they may eat of His fruit. And their hands have not produced it, so will they not be grateful?",
             "description": [
                 "Another translation of this sentence can be:",
@@ -946,7 +947,7 @@
             ]
         },
         {
-            "id": "[36:36]",
+            "verse-id": "[36:36]",
             "verse": "Exalted is He who created all pairs - from what the earth grows and from themselves and from that which they do not know.",
             "description": [
                 "\"Glorified is He\": \"He is free from",
@@ -1021,7 +1022,7 @@
             ]
         },
         {
-            "id": "[36:37]",
+            "verse-id": "[36:37]",
             "verse": "And a sign for them is the night. We remove from it [the light of] day, so they are [left] in darkness.",
             "description": [
                 "The alternation of the night and day",
@@ -1103,7 +1104,7 @@
             ]
         },
         {
-            "id": "[36:38]",
+            "verse-id": "[36:38]",
             "verse": "And the sun runs [on course] toward its stopping point. That is the determination of the Exalted in Might, the Knowing.",
             "description": [
                 "\"Place of rest\" may either mean the",
@@ -1138,7 +1139,7 @@
             ]
         },
         {
-            "id": "[36:39]",
+            "verse-id": "[36:39]",
             "verse": "And the moon - We have determined for it phases, until it returns [appearing] like the old date stalk.",
             "description": [
                 "That is, the phases of the moon",
@@ -1162,7 +1163,7 @@
             ]
         },
         {
-            "id": "[36:40]",
+            "verse-id": "[36:40]",
             "verse": "It is not allowable for the sun to reach the moon, nor does the night overtake the day, but each, in an orbit, is swimming.",
             "description": [
                 "This sentence can have two meanings and",
@@ -1274,7 +1275,7 @@
             ]
         },
         {
-            "id": "[36:41]",
+            "verse-id": "[36:41]",
             "verse": "And a sign for them is that We carried their forefathers in a laden ship.",
             "description": [
                 "\"A laden vessel\" : the Ark of",
@@ -1291,7 +1292,7 @@
             ]
         },
         {
-            "id": "[36:42]",
+            "verse-id": "[36:42]",
             "verse": "And We created for them from the likes of it that which they ride.",
             "description": [
                 "This indicates that the first vessel ever",
@@ -1308,14 +1309,14 @@
             ]
         },
         {
-            "id": "[36:43]",
+            "verse-id": "[36:43]",
             "verse": "And if We should will, We could drown them; then no one responding to a cry would there be for them, nor would they be saved",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:44]",
+            "verse-id": "[36:44]",
             "verse": "Except as a mercy from Us and provision for a time.",
             "description": [
                 "The signs till now were mentioned as",
@@ -1367,7 +1368,7 @@
             ]
         },
         {
-            "id": "[36:45]",
+            "verse-id": "[36:45]",
             "verse": "But when it is said to them, \"Beware of what is before you and what is behind you; perhaps you will receive mercy... \"",
             "description": [
                 "\"Which you havc left behind\": Which the",
@@ -1376,7 +1377,7 @@
             ]
         },
         {
-            "id": "[36:46]",
+            "verse-id": "[36:46]",
             "verse": "And no sign comes to them from the signs of their Lord except that they are from it turning away.",
             "description": [
                 "\"Revelations\" : Verses of the Divine Book",
@@ -1389,7 +1390,7 @@
             ]
         },
         {
-            "id": "[36:47]",
+            "verse-id": "[36:47]",
             "verse": "And when it is said to them, \"Spend from that which Allah has provided for you,\" those who disbelieve say to those who believe, \"Should we feed one whom, if Allah had willed, He would have fed? You are not but in clear error.\"",
             "description": [
                 "This means to show that disbelief has",
@@ -1405,7 +1406,7 @@
             ]
         },
         {
-            "id": "[36:48]",
+            "verse-id": "[36:48]",
             "verse": "And they say, \"When is this promise, if you should be truthful?\"",
             "description": [
                 "After Tauhid the other question about which",
@@ -1444,14 +1445,14 @@
             ]
         },
         {
-            "id": "[36:49]",
+            "verse-id": "[36:49]",
             "verse": "They do not await except one blast which will seize them while they are disputing.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:50]",
+            "verse-id": "[36:50]",
             "verse": "And they will not be able [to give] any instruction, nor to their people can they return.",
             "description": [
                 "That is, \"The Resurrection will not take",
@@ -1484,7 +1485,7 @@
             ]
         },
         {
-            "id": "[36:51]",
+            "verse-id": "[36:51]",
             "verse": "And the Horn will be blown; and at once from the graves to their Lord they will hasten.",
             "description": [
                 "For the explanation of the blowing of",
@@ -1522,7 +1523,7 @@
             ]
         },
         {
-            "id": "[36:52]",
+            "verse-id": "[36:52]",
             "verse": "They will say, \"O woe to us! Who has raised us up from our sleeping place?\" [The reply will be], \"This is what the Most Merciful had promised, and the messengers told the truth.\"",
             "description": [
                 "That is, \"At that time they will",
@@ -1553,14 +1554,14 @@
             ]
         },
         {
-            "id": "[36:53]",
+            "verse-id": "[36:53]",
             "verse": "It will not be but one blast, and at once they are all brought present before Us.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:54]",
+            "verse-id": "[36:54]",
             "verse": "So today no soul will be wronged at all, and you will not be recompensed except for what you used to do.",
             "description": [
                 "This is what AIlah will tell the",
@@ -1570,7 +1571,7 @@
             ]
         },
         {
-            "id": "[36:55]",
+            "verse-id": "[36:55]",
             "verse": "Indeed the companions of Paradise, that Day, will be amused in [joyful] occupation -",
             "description": [
                 "To understand this one should remember that",
@@ -1594,28 +1595,28 @@
             ]
         },
         {
-            "id": "[36:56]",
+            "verse-id": "[36:56]",
             "verse": "They and their spouses - in shade, reclining on adorned couches.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:57]",
+            "verse-id": "[36:57]",
             "verse": "For them therein is fruit, and for them is whatever they request [or wish]",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:58]",
+            "verse-id": "[36:58]",
             "verse": "[And] \"Peace,\" a word from a Merciful Lord.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:59]",
+            "verse-id": "[36:59]",
             "verse": "[Then He will say], \"But stand apart today, you criminals.",
             "description": [
                 "This can have two meanings:(1) \"Get you",
@@ -1634,14 +1635,14 @@
             ]
         },
         {
-            "id": "[36:60]",
+            "verse-id": "[36:60]",
             "verse": "Did I not enjoin upon you, O children of Adam, that you not worship Satan - [for] indeed, he is to you a clear enemy -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:61]",
+            "verse-id": "[36:61]",
             "verse": "And that you worship [only] Me? This is a straight path.",
             "description": [
                 "Here again Allah has used `ibadat in",
@@ -1713,7 +1714,7 @@
             ]
         },
         {
-            "id": "[36:62]",
+            "verse-id": "[36:62]",
             "verse": "And he had already led astray from among you much of creation, so did you not use reason?",
             "description": [
                 "That is, \"If you had been deprived",
@@ -1733,21 +1734,21 @@
             ]
         },
         {
-            "id": "[36:63]",
+            "verse-id": "[36:63]",
             "verse": "This is the Hellfire which you were promised.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:64]",
+            "verse-id": "[36:64]",
             "verse": "[Enter to] burn therein today for what you used to deny.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:65]",
+            "verse-id": "[36:65]",
             "verse": "That Day, We will seal over their mouths, and their hands will speak to Us, and their feet will testify about what they used to earn.",
             "description": [
                 "This command will be given in respect",
@@ -1794,14 +1795,14 @@
             ]
         },
         {
-            "id": "[36:66]",
+            "verse-id": "[36:66]",
             "verse": "And if We willed, We could have obliterated their eyes, and they would race to [find] the path, and how could they see?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:67]",
+            "verse-id": "[36:67]",
             "verse": "And if We willed, We could have deformed them, [paralyzing them] in their places so they would not be able to proceed, nor could they return.",
             "description": [
                 "After depicting the scene of Resurrection, the",
@@ -1827,7 +1828,7 @@
             ]
         },
         {
-            "id": "[36:68]",
+            "verse-id": "[36:68]",
             "verse": "And he to whom We grant long life We reverse in creation; so will they not understand?",
             "description": [
                 "\"Reverse him in nature,\" means that in",
@@ -1844,7 +1845,7 @@
             ]
         },
         {
-            "id": "[36:69]",
+            "verse-id": "[36:69]",
             "verse": "And We did not give Prophet Muhammad, knowledge of poetry, nor is it befitting for him. It is not but a message and a clear Qur'an",
             "description": [
                 "This is a rejoinder to the disbelievers,",
@@ -1857,7 +1858,7 @@
             ]
         },
         {
-            "id": "[36:70]",
+            "verse-id": "[36:70]",
             "verse": "To warn whoever is alive and justify the word against the disbelievers.",
             "description": [
                 "\"Every living person\" : Every person who",
@@ -1870,7 +1871,7 @@
             ]
         },
         {
-            "id": "[36:71]",
+            "verse-id": "[36:71]",
             "verse": "Do they not see that We have created for them from what Our hands have made, grazing livestock, and [then] they are their owners?",
             "description": [
                 "The word \"hands\" has been used metaphorically",
@@ -1884,14 +1885,14 @@
             ]
         },
         {
-            "id": "[36:72]",
+            "verse-id": "[36:72]",
             "verse": "And We have tamed them for them, so some of them they ride, and some of them they eat.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:73]",
+            "verse-id": "[36:73]",
             "verse": "And for them therein are [other] benefits and drinks, so will they not be grateful?",
             "description": [
                 "It is ingratitude to regard a blessing",
@@ -1922,14 +1923,14 @@
             ]
         },
         {
-            "id": "[36:74]",
+            "verse-id": "[36:74]",
             "verse": "But they have taken besides Allah [false] deities that perhaps they would be helped.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:75]",
+            "verse-id": "[36:75]",
             "verse": "They are not able to help them, and they [themselves] are for them soldiers in attendance.",
             "description": [
                 "That is, the poor false gods themselves",
@@ -1950,7 +1951,7 @@
             ]
         },
         {
-            "id": "[36:76]",
+            "verse-id": "[36:76]",
             "verse": "So let not their speech grieve you. Indeed, We know what they conceal and what they declare.",
             "description": [
                 "The address is to the Holy Prophet.",
@@ -1977,7 +1978,7 @@
             ]
         },
         {
-            "id": "[36:77]",
+            "verse-id": "[36:77]",
             "verse": "Does man not consider that We created him from a [mere] sperm-drop - then at once he is a clear adversary?",
             "description": [
                 "Here the disbelievers' question cited in verse",
@@ -2020,7 +2021,7 @@
             ]
         },
         {
-            "id": "[36:78]",
+            "verse-id": "[36:78]",
             "verse": "And he presents for Us an example and forgets his [own] creation. He says, \"Who will give life to bones while they are disintegrated?\"",
             "description": [
                 "That is, \"He regards Us powerless and",
@@ -2038,14 +2039,14 @@
             ]
         },
         {
-            "id": "[36:79]",
+            "verse-id": "[36:79]",
             "verse": "Say, \"He will give them life who produced them the first time; and He is, of all creation, Knowing.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:80]",
+            "verse-id": "[36:80]",
             "verse": "[It is] He who made for you from the green tree, fire, and then from it you ignite.",
             "description": [
                 "It either means that He has placed",
@@ -2061,21 +2062,21 @@
             ]
         },
         {
-            "id": "[36:81]",
+            "verse-id": "[36:81]",
             "verse": "Is not He who created the heavens and the earth Able to create the likes of them? Yes, [it is so]; and He is the Knowing Creator.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:82]",
+            "verse-id": "[36:82]",
             "verse": "His command is only when He intends a thing that He says to it, \"Be,\" and it is.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[36:83]",
+            "verse-id": "[36:83]",
             "verse": "So exalted is He in whose hand is the realm of all things, and to Him you will be returned.",
             "description": [
                 ""

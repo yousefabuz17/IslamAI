@@ -1,23 +1,24 @@
 {
     "name": "As-Saaffat",
+    "id": 37,
     "verse-count": 182,
     "verse-info": [
         {
-            "id": "[37:1]",
+            "verse-id": "[37:1]",
             "verse": "By those [angels] lined up in rows",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:2]",
+            "verse-id": "[37:2]",
             "verse": "And those who drive [the clouds]",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:3]",
+            "verse-id": "[37:3]",
             "verse": "And those who recite the message,",
             "description": [
                 "The majority of the commentators are agreed",
@@ -64,7 +65,7 @@
             ]
         },
         {
-            "id": "[37:4]",
+            "verse-id": "[37:4]",
             "verse": "Indeed, your God is One,",
             "description": [
                 "This is the Truth to impress which",
@@ -91,7 +92,7 @@
             ]
         },
         {
-            "id": "[37:5]",
+            "verse-id": "[37:5]",
             "verse": "Lord of the heavens and the earth and that between them and Lord of the sunrises.",
             "description": [
                 "The Truth that has been conveyed in",
@@ -147,7 +148,7 @@
             ]
         },
         {
-            "id": "[37:6]",
+            "verse-id": "[37:6]",
             "verse": "Indeed, We have adorned the nearest heaven with an adornment of stars",
             "description": [
                 "\"Lower heaven\" : The nearer heaven which",
@@ -166,7 +167,7 @@
             ]
         },
         {
-            "id": "[37:7]",
+            "verse-id": "[37:7]",
             "verse": "And as protection against every rebellious devil",
             "description": [
                 "That is, \"Heaven is not merely empty",
@@ -194,21 +195,21 @@
             ]
         },
         {
-            "id": "[37:8]",
+            "verse-id": "[37:8]",
             "verse": "[So] they may not listen to the exalted assembly [of angels] and are pelted from every side,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:9]",
+            "verse-id": "[37:9]",
             "verse": "Repelled; and for them is a constant punishment,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:10]",
+            "verse-id": "[37:10]",
             "verse": "Except one who snatches [some words] by theft, but they are pursued by a burning flame, piercing [in brightness].",
             "description": [
                 "To understand this one should keep in",
@@ -255,7 +256,7 @@
             ]
         },
         {
-            "id": "[37:11]",
+            "verse-id": "[37:11]",
             "verse": "Then inquire of them, [O Muhammad], \"Are they a stronger [or more difficult] creation or those [others] We have created?\" Indeed, We created men from sticky clay.",
             "description": [
                 "This is an answer to the suspicions",
@@ -315,28 +316,28 @@
             ]
         },
         {
-            "id": "[37:12]",
+            "verse-id": "[37:12]",
             "verse": "But you wonder, while they mock,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:13]",
+            "verse-id": "[37:13]",
             "verse": "And when they are reminded, they remember not.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:14]",
+            "verse-id": "[37:14]",
             "verse": "And when they see a sign, they ridicule",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:15]",
+            "verse-id": "[37:15]",
             "verse": "And say, \"This is not but obvious magic.",
             "description": [
                 "That is, \"This person is talking of",
@@ -352,21 +353,21 @@
             ]
         },
         {
-            "id": "[37:16]",
+            "verse-id": "[37:16]",
             "verse": "When we have died and become dust and bones, are we indeed to be resurrected?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:17]",
+            "verse-id": "[37:17]",
             "verse": "And our forefathers [as well]?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:18]",
+            "verse-id": "[37:18]",
             "verse": "Say, \"Yes, and you will be [rendered] contemptible.\"",
             "description": [
                 "That is, \"Allah can make of you",
@@ -379,7 +380,7 @@
             ]
         },
         {
-            "id": "[37:19]",
+            "verse-id": "[37:19]",
             "verse": "It will be only one shout, and at once they will be observing.",
             "description": [
                 "That is, \"When the time comes for",
@@ -397,14 +398,14 @@
             ]
         },
         {
-            "id": "[37:20]",
+            "verse-id": "[37:20]",
             "verse": "They will say, \"O woe to us! This is the Day of Recompense.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:21]",
+            "verse-id": "[37:21]",
             "verse": "[They will be told], \"This is the Day of Judgement which you used to deny.\"",
             "description": [
                 "It may be that this is said",
@@ -423,7 +424,7 @@
             ]
         },
         {
-            "id": "[37:22]",
+            "verse-id": "[37:22]",
             "verse": "[The angels will be ordered], \"Gather those who committed wrong, their kinds, and what they used to worship",
             "description": [
                 "\"The unjust people\" dces not only imply",
@@ -443,7 +444,7 @@
             ]
         },
         {
-            "id": "[37:23]",
+            "verse-id": "[37:23]",
             "verse": "Other than Allah, and guide them to the path of Hellfire",
             "description": [
                 "\"Gods\" here implies two kinds of the",
@@ -471,21 +472,21 @@
             ]
         },
         {
-            "id": "[37:24]",
+            "verse-id": "[37:24]",
             "verse": "And stop them; indeed, they are to be questioned.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:25]",
+            "verse-id": "[37:25]",
             "verse": "[They will be asked], \"What is [wrong] with you? Why do you not help each other?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:26]",
+            "verse-id": "[37:26]",
             "verse": "But they, that Day, are in surrender.",
             "description": [
                 "The first sentence will be addressed to",
@@ -526,14 +527,14 @@
             ]
         },
         {
-            "id": "[37:27]",
+            "verse-id": "[37:27]",
             "verse": "And they will approach one another blaming each other.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:28]",
+            "verse-id": "[37:28]",
             "verse": "They will say, \"Indeed, you used to come at us from the right.\"",
             "description": [
                 "The word yamin in Arabic is used",
@@ -549,28 +550,28 @@
             ]
         },
         {
-            "id": "[37:29]",
+            "verse-id": "[37:29]",
             "verse": "The oppressors will say, \"Rather, you [yourselves] were not believers,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:30]",
+            "verse-id": "[37:30]",
             "verse": "And we had over you no authority, but you were a transgressing people.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:31]",
+            "verse-id": "[37:31]",
             "verse": "So the word of our Lord has come into effect upon us; indeed, we will taste [punishment].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:32]",
+            "verse-id": "[37:32]",
             "verse": "And we led you to deviation; indeed, we were deviators.\"",
             "description": [
                 "For explanation, see E.N's 51, 52, 53",
@@ -578,7 +579,7 @@
             ]
         },
         {
-            "id": "[37:33]",
+            "verse-id": "[37:33]",
             "verse": "So indeed they, that Day, will be sharing in the punishment.",
             "description": [
                 "That is, the followers as well as",
@@ -593,28 +594,28 @@
             ]
         },
         {
-            "id": "[37:34]",
+            "verse-id": "[37:34]",
             "verse": "Indeed, that is how We deal with the criminals.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:35]",
+            "verse-id": "[37:35]",
             "verse": "Indeed they, when it was said to them, \"There is no deity but Allah,\" were arrogant",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:36]",
+            "verse-id": "[37:36]",
             "verse": "And were saying, \"Are we to leave our gods for a mad poet?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:37]",
+            "verse-id": "[37:37]",
             "verse": "Rather, the Prophet has come with the truth and confirmed the [previous] messengers.",
             "description": [
                 "Confirmation of the Messengers has three meanings",
@@ -635,28 +636,28 @@
             ]
         },
         {
-            "id": "[37:38]",
+            "verse-id": "[37:38]",
             "verse": "Indeed, you [disbelievers] will be tasters of the painful punishment,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:39]",
+            "verse-id": "[37:39]",
             "verse": "And you will not be recompensed except for what you used to do -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:40]",
+            "verse-id": "[37:40]",
             "verse": "But not the chosen servants of Allah.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:41]",
+            "verse-id": "[37:41]",
             "verse": "Those will have a provision determined -",
             "description": [
                 "\"A known provision\" : A provision All",
@@ -671,7 +672,7 @@
             ]
         },
         {
-            "id": "[37:42]",
+            "verse-id": "[37:42]",
             "verse": "Fruits; and they will be honored",
             "description": [
                 "In this there is a subtle allusion",
@@ -694,21 +695,21 @@
             ]
         },
         {
-            "id": "[37:43]",
+            "verse-id": "[37:43]",
             "verse": "In gardens of pleasure",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:44]",
+            "verse-id": "[37:44]",
             "verse": "On thrones facing one another.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:45]",
+            "verse-id": "[37:45]",
             "verse": "There will be circulated among them a cup [of wine] from a flowing spring,",
             "description": [
                 "That is, `It will not be the",
@@ -767,14 +768,14 @@
             ]
         },
         {
-            "id": "[37:46]",
+            "verse-id": "[37:46]",
             "verse": "White and delicious to the drinkers;",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:47]",
+            "verse-id": "[37:47]",
             "verse": "No bad effect is there in it, nor from it will they be intoxicated.",
             "description": [
                 "That is, the wide of Paradise will",
@@ -814,7 +815,7 @@
             ]
         },
         {
-            "id": "[37:48]",
+            "verse-id": "[37:48]",
             "verse": "And with them will be women limiting [their] glances, with large, [beautiful] eyes,",
             "description": [
                 "\"Restraining their looks\": Restraining their looks from",
@@ -836,35 +837,35 @@
             ]
         },
         {
-            "id": "[37:49]",
+            "verse-id": "[37:49]",
             "verse": "As if they were [delicate] eggs, well-protected.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:50]",
+            "verse-id": "[37:50]",
             "verse": "And they will approach one another, inquiring of each other.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:51]",
+            "verse-id": "[37:51]",
             "verse": "A speaker among them will say, \"Indeed, I had a companion [on earth]",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:52]",
+            "verse-id": "[37:52]",
             "verse": "Who would say, 'Are you indeed of those who believe",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:53]",
+            "verse-id": "[37:53]",
             "verse": "That when we have died and become dust and bones, we will indeed be recompensed?'\"",
             "description": [
                 "That is, \"Were you also one of",
@@ -874,28 +875,28 @@
             ]
         },
         {
-            "id": "[37:54]",
+            "verse-id": "[37:54]",
             "verse": "He will say, \"Would you [care to] look?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:55]",
+            "verse-id": "[37:55]",
             "verse": "And he will look and see him in the midst of the Hellfire.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:56]",
+            "verse-id": "[37:56]",
             "verse": "He will say, \"By Allah, you almost ruined me.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:57]",
+            "verse-id": "[37:57]",
             "verse": "If not for the favor of my Lord, I would have been of those brought in [to Hell].",
             "description": [
                 "This shows how powerful will be man's",
@@ -913,14 +914,14 @@
             ]
         },
         {
-            "id": "[37:58]",
+            "verse-id": "[37:58]",
             "verse": "Then, are we not to die",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:59]",
+            "verse-id": "[37:59]",
             "verse": "Except for our first death, and we will not be punished?\"",
             "description": [
                 "The style clearly shows that while speaking",
@@ -951,21 +952,21 @@
             ]
         },
         {
-            "id": "[37:60]",
+            "verse-id": "[37:60]",
             "verse": "Indeed, this is the great attainment.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:61]",
+            "verse-id": "[37:61]",
             "verse": "For the like of this let the workers [on earth] work.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:62]",
+            "verse-id": "[37:62]",
             "verse": "Is Paradise a better accommodation or the tree of zaqqum?",
             "description": [
                 "Zaqqum is a tree of the cactus",
@@ -976,7 +977,7 @@
             ]
         },
         {
-            "id": "[37:63]",
+            "verse-id": "[37:63]",
             "verse": "Indeed, We have made it a torment for the wrongdoers.",
             "description": [
                 "That is, \"On hearing this the disbelievers",
@@ -988,14 +989,14 @@
             ]
         },
         {
-            "id": "[37:64]",
+            "verse-id": "[37:64]",
             "verse": "Indeed, it is a tree issuing from the bottom of the Hellfire,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:65]",
+            "verse-id": "[37:65]",
             "verse": "Its emerging fruit as if it was heads of the devils.",
             "description": [
                 "Nobody should have the misunderstanding that since",
@@ -1016,21 +1017,21 @@
             ]
         },
         {
-            "id": "[37:66]",
+            "verse-id": "[37:66]",
             "verse": "And indeed, they will eat from it and fill with it their bellies.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:67]",
+            "verse-id": "[37:67]",
             "verse": "Then indeed, they will have after it a mixture of scalding water.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:68]",
+            "verse-id": "[37:68]",
             "verse": "Then indeed, their return will be to the Hellfire.",
             "description": [
                 "This shows that when the dwellers of",
@@ -1044,42 +1045,42 @@
             ]
         },
         {
-            "id": "[37:69]",
+            "verse-id": "[37:69]",
             "verse": "Indeed they found their fathers astray.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:70]",
+            "verse-id": "[37:70]",
             "verse": "So they hastened [to follow] in their footsteps.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:71]",
+            "verse-id": "[37:71]",
             "verse": "And there had already strayed before them most of the former peoples,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:72]",
+            "verse-id": "[37:72]",
             "verse": "And We had already sent among them warners.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:73]",
+            "verse-id": "[37:73]",
             "verse": "Then look how was the end of those who were warned -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:74]",
+            "verse-id": "[37:74]",
             "verse": "But not the chosen servants of Allah.",
             "description": [
                 "That is, they never used their own",
@@ -1090,7 +1091,7 @@
             ]
         },
         {
-            "id": "[37:75]",
+            "verse-id": "[37:75]",
             "verse": "And Noah had certainly called Us, and [We are] the best of responders.",
             "description": [
                 "This theme is related with the preceding",
@@ -1110,7 +1111,7 @@
             ]
         },
         {
-            "id": "[37:76]",
+            "verse-id": "[37:76]",
             "verse": "And We saved him and his family from the great affliction.",
             "description": [
                 "That is, from the severe distress that",
@@ -1128,7 +1129,7 @@
             ]
         },
         {
-            "id": "[37:77]",
+            "verse-id": "[37:77]",
             "verse": "And We made his descendants those remaining [on the earth]",
             "description": [
                 "This can have two meanings: (1) That",
@@ -1146,14 +1147,14 @@
             ]
         },
         {
-            "id": "[37:78]",
+            "verse-id": "[37:78]",
             "verse": "And left for him [favorable mention] among later generations:",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:79]",
+            "verse-id": "[37:79]",
             "verse": "\"Peace upon Noah among the worlds.\"",
             "description": [
                 "That is there is none in the",
@@ -1165,35 +1166,35 @@
             ]
         },
         {
-            "id": "[37:80]",
+            "verse-id": "[37:80]",
             "verse": "Indeed, We thus reward the doers of good.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:81]",
+            "verse-id": "[37:81]",
             "verse": "Indeed, he was of Our believing servants.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:82]",
+            "verse-id": "[37:82]",
             "verse": "Then We drowned the disbelievers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:83]",
+            "verse-id": "[37:83]",
             "verse": "And indeed, among his kind was Abraham,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:84]",
+            "verse-id": "[37:84]",
             "verse": "When he came to his Lord with a sound heart",
             "description": [
                 "\"Approached his Lord\": Turned to his Lord",
@@ -1211,7 +1212,7 @@
             ]
         },
         {
-            "id": "[37:85]",
+            "verse-id": "[37:85]",
             "verse": "[And] when he said to his father and his people, \"What do you worship?",
             "description": [
                 "For further details of this story of",
@@ -1221,14 +1222,14 @@
             ]
         },
         {
-            "id": "[37:86]",
+            "verse-id": "[37:86]",
             "verse": "Is it falsehood [as] gods other than Allah you desire?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:87]",
+            "verse-id": "[37:87]",
             "verse": "Then what is your thought about the Lord of the worlds?\"",
             "description": [
                 "That is, \"Why have you formed such",
@@ -1244,7 +1245,7 @@
             ]
         },
         {
-            "id": "[37:88]",
+            "verse-id": "[37:88]",
             "verse": "And he cast a look at the stars",
             "description": [
                 "The reference is to a particular incident",
@@ -1268,7 +1269,7 @@
             ]
         },
         {
-            "id": "[37:89]",
+            "verse-id": "[37:89]",
             "verse": "And said, \"Indeed, I am [about to be] ill.\"",
             "description": [
                 "This is one of those three things",
@@ -1289,7 +1290,7 @@
             ]
         },
         {
-            "id": "[37:90]",
+            "verse-id": "[37:90]",
             "verse": "So they turned away from him, departing.",
             "description": [
                 "This sentence by itself shows the real",
@@ -1313,7 +1314,7 @@
             ]
         },
         {
-            "id": "[37:91]",
+            "verse-id": "[37:91]",
             "verse": "Then he turned to their gods and said, \"Do you not eat?",
             "description": [
                 "This shows that there were different kinds",
@@ -1322,21 +1323,21 @@
             ]
         },
         {
-            "id": "[37:92]",
+            "verse-id": "[37:92]",
             "verse": "What is [wrong] with you that you do not speak?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:93]",
+            "verse-id": "[37:93]",
             "verse": "And he turned upon them a blow with [his] right hand.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:94]",
+            "verse-id": "[37:94]",
             "verse": "Then the people came toward him, hastening.",
             "description": [
                 "Here the story has been told in",
@@ -1354,28 +1355,28 @@
             ]
         },
         {
-            "id": "[37:95]",
+            "verse-id": "[37:95]",
             "verse": "He said, \"Do you worship that which you [yourselves] carve,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:96]",
+            "verse-id": "[37:96]",
             "verse": "While Allah created you and that which you do?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:97]",
+            "verse-id": "[37:97]",
             "verse": "They said, \"Construct for him a furnace and throw him into the burning fire.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:98]",
+            "verse-id": "[37:98]",
             "verse": "And they intended for him a plan, but We made them the most debased.",
             "description": [
                 "The words in Surah Al-Anbiya`: 69 are",
@@ -1418,7 +1419,7 @@
             ]
         },
         {
-            "id": "[37:99]",
+            "verse-id": "[37:99]",
             "verse": "And [then] he said, \"Indeed, I will go to [where I am ordered by] my Lord; He will guide me.",
             "description": [
                 "The Prophet Abraham said these words on",
@@ -1442,7 +1443,7 @@
             ]
         },
         {
-            "id": "[37:100]",
+            "verse-id": "[37:100]",
             "verse": "My Lord, grant me [a child] from among the righteous.\"",
             "description": [
                 "This prayer by itself shows that the",
@@ -1459,7 +1460,7 @@
             ]
         },
         {
-            "id": "[37:101]",
+            "verse-id": "[37:101]",
             "verse": "So We gave him good tidings of a forbearing boy.",
             "description": [
                 "From this one should not understand that",
@@ -1481,7 +1482,7 @@
             ]
         },
         {
-            "id": "[37:102]",
+            "verse-id": "[37:102]",
             "verse": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast.\"",
             "description": [
                 "One should note that the Prophet Abraham",
@@ -1538,7 +1539,7 @@
             ]
         },
         {
-            "id": "[37:103]",
+            "verse-id": "[37:103]",
             "verse": "And when they had both submitted and he put him down upon his forehead,",
             "description": [
                 "That is, \"The Prophet Abraham did not",
@@ -1552,7 +1553,7 @@
             ]
         },
         {
-            "id": "[37:104]",
+            "verse-id": "[37:104]",
             "verse": "We called to him, \"O Abraham,",
             "description": [
                 "One section of the grammarians says that",
@@ -1582,7 +1583,7 @@
             ]
         },
         {
-            "id": "[37:105]",
+            "verse-id": "[37:105]",
             "verse": "You have fulfilled the vision.\" Indeed, We thus reward the doers of good.",
             "description": [
                 "That is, \"We did not make you",
@@ -1618,7 +1619,7 @@
             ]
         },
         {
-            "id": "[37:106]",
+            "verse-id": "[37:106]",
             "verse": "Indeed, this was the clear trial.",
             "description": [
                 "That is, \"The object was not to",
@@ -1629,7 +1630,7 @@
             ]
         },
         {
-            "id": "[37:107]",
+            "verse-id": "[37:107]",
             "verse": "And We ransomed him with a great sacrifice,",
             "description": [
                 "\"A great sacrifice\" : A ram, as",
@@ -1654,35 +1655,35 @@
             ]
         },
         {
-            "id": "[37:108]",
+            "verse-id": "[37:108]",
             "verse": "And We left for him [favorable mention] among later generations:",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:109]",
+            "verse-id": "[37:109]",
             "verse": "\"Peace upon Abraham.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:110]",
+            "verse-id": "[37:110]",
             "verse": "Indeed, We thus reward the doers of good.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:111]",
+            "verse-id": "[37:111]",
             "verse": "Indeed, he was of Our believing servants.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:112]",
+            "verse-id": "[37:112]",
             "verse": "And We gave him good tidings of Isaac, a prophet from among the righteous.",
             "description": [
                 "Here, the question arises: Who was the",
@@ -2062,21 +2063,21 @@
             ]
         },
         {
-            "id": "[37:113]",
+            "verse-id": "[37:113]",
             "verse": "And We blessed him and Isaac. But among their descendants is the doer of good and the clearly unjust to himself.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:114]",
+            "verse-id": "[37:114]",
             "verse": "And We did certainly confer favor upon Moses and Aaron.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:115]",
+            "verse-id": "[37:115]",
             "verse": "And We saved them and their people from the great affliction,",
             "description": [
                 "\"A great distress\": the distress in which",
@@ -2085,56 +2086,56 @@
             ]
         },
         {
-            "id": "[37:116]",
+            "verse-id": "[37:116]",
             "verse": "And We supported them so it was they who overcame.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:117]",
+            "verse-id": "[37:117]",
             "verse": "And We gave them the explicit Scripture,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:118]",
+            "verse-id": "[37:118]",
             "verse": "And We guided them on the straight path.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:119]",
+            "verse-id": "[37:119]",
             "verse": "And We left for them [favorable mention] among later generations:",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:120]",
+            "verse-id": "[37:120]",
             "verse": "\"Peace upon Moses and Aaron.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:121]",
+            "verse-id": "[37:121]",
             "verse": "Indeed, We thus reward the doers of good.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:122]",
+            "verse-id": "[37:122]",
             "verse": "Indeed, they were of Our believing servants.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:123]",
+            "verse-id": "[37:123]",
             "verse": "And indeed, Elias was from among the messengers,",
             "description": [
                 "The Prophet Elias was from among the",
@@ -2285,14 +2286,14 @@
             ]
         },
         {
-            "id": "[37:124]",
+            "verse-id": "[37:124]",
             "verse": "When he said to his people, \"Will you not fear Allah?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:125]",
+            "verse-id": "[37:125]",
             "verse": "Do you call upon Ba'l and leave the best of creators -",
             "description": [
                 "Lexically, ba al means master, chief and",
@@ -2362,21 +2363,21 @@
             ]
         },
         {
-            "id": "[37:126]",
+            "verse-id": "[37:126]",
             "verse": "Allah, your Lord and the Lord of your first forefathers?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:127]",
+            "verse-id": "[37:127]",
             "verse": "And they denied him, so indeed, they will be brought [for punishment],",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:128]",
+            "verse-id": "[37:128]",
             "verse": "Except the chosen servants of Allah.",
             "description": [
                 "That is \"Only those people will be",
@@ -2387,7 +2388,7 @@
             ]
         },
         {
-            "id": "[37:129]",
+            "verse-id": "[37:129]",
             "verse": "And We left for him [favorable mention] among later generations:",
             "description": [
                 "The treatment that the Israelites meted out",
@@ -2441,7 +2442,7 @@
             ]
         },
         {
-            "id": "[37:130]",
+            "verse-id": "[37:130]",
             "verse": "\"Peace upon Elias.\"",
             "description": [
                 "The words in the original are: Salam-un",
@@ -2461,35 +2462,35 @@
             ]
         },
         {
-            "id": "[37:131]",
+            "verse-id": "[37:131]",
             "verse": "Indeed, We thus reward the doers of good.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:132]",
+            "verse-id": "[37:132]",
             "verse": "Indeed, he was of Our believing servants.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:133]",
+            "verse-id": "[37:133]",
             "verse": "And indeed, Lot was among the messengers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:134]",
+            "verse-id": "[37:134]",
             "verse": "[So mention] when We saved him and his family, all,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:135]",
+            "verse-id": "[37:135]",
             "verse": "Except his wife among those who remained [with the evildoers].",
             "description": [
                 "This implies the wife of the Prophet",
@@ -2499,14 +2500,14 @@
             ]
         },
         {
-            "id": "[37:136]",
+            "verse-id": "[37:136]",
             "verse": "Then We destroyed the others.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:137]",
+            "verse-id": "[37:137]",
             "verse": "And indeed, you pass by them in the morning",
             "description": [
                 "The reference is to the mined habitations",
@@ -2517,14 +2518,14 @@
             ]
         },
         {
-            "id": "[37:138]",
+            "verse-id": "[37:138]",
             "verse": "And at night. Then will you not use reason?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:139]",
+            "verse-id": "[37:139]",
             "verse": "And indeed, Jonah was among the messengers.",
             "description": [
                 "This is the third place where the",
@@ -2537,7 +2538,7 @@
             ]
         },
         {
-            "id": "[37:140]",
+            "verse-id": "[37:140]",
             "verse": "[Mention] when he ran away to the laden ship.",
             "description": [
                 "The word ebaqe in Arabic is used",
@@ -2546,14 +2547,14 @@
             ]
         },
         {
-            "id": "[37:141]",
+            "verse-id": "[37:141]",
             "verse": "And he drew lots and was among the losers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:142]",
+            "verse-id": "[37:142]",
             "verse": "Then the fish swallowed him, while he was blameworthy.",
             "description": [
                 "This is what one understands from a",
@@ -2583,7 +2584,7 @@
             ]
         },
         {
-            "id": "[37:143]",
+            "verse-id": "[37:143]",
             "verse": "And had he not been of those who exalt Allah,",
             "description": [
                 "It has two meanings and both are",
@@ -2602,7 +2603,7 @@
             ]
         },
         {
-            "id": "[37:144]",
+            "verse-id": "[37:144]",
             "verse": "He would have remained inside its belly until the Day they are resurrected.",
             "description": [
                 "This does not mean that the fish",
@@ -2616,7 +2617,7 @@
             ]
         },
         {
-            "id": "[37:145]",
+            "verse-id": "[37:145]",
             "verse": "But We threw him onto the open shore while he was ill.",
             "description": [
                 "That is, \"When the Prophet Jonah confessed",
@@ -2656,7 +2657,7 @@
             ]
         },
         {
-            "id": "[37:146]",
+            "verse-id": "[37:146]",
             "verse": "And We caused to grow over him a gourd vine.",
             "description": [
                 "The Arabic word yaqtin applies to a",
@@ -2671,7 +2672,7 @@
             ]
         },
         {
-            "id": "[37:147]",
+            "verse-id": "[37:147]",
             "verse": "And We sent him to [his people of] a hundred thousand or more.",
             "description": [
                 "The mention of \"a hundred thousand people",
@@ -2695,7 +2696,7 @@
             ]
         },
         {
-            "id": "[37:148]",
+            "verse-id": "[37:148]",
             "verse": "And they believed, so We gave them enjoyment [of life] for a time.",
             "description": [
                 "Some people have taken exception to what",
@@ -2827,7 +2828,7 @@
             ]
         },
         {
-            "id": "[37:149]",
+            "verse-id": "[37:149]",
             "verse": "So inquire of them, [O Muhammad], \"Does your Lord have daughters while they have sons?",
             "description": [
                 "Another theme starts from here. In the",
@@ -2860,56 +2861,56 @@
             ]
         },
         {
-            "id": "[37:150]",
+            "verse-id": "[37:150]",
             "verse": "Or did We create the angels as females while they were witnesses?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:151]",
+            "verse-id": "[37:151]",
             "verse": "Unquestionably, it is out of their [invented] falsehood that they say,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:152]",
+            "verse-id": "[37:152]",
             "verse": "\" Allah has begotten,\" and indeed, they are liars.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:153]",
+            "verse-id": "[37:153]",
             "verse": "Has He chosen daughters over sons?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:154]",
+            "verse-id": "[37:154]",
             "verse": "What is [wrong] with you? How do you make judgement?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:155]",
+            "verse-id": "[37:155]",
             "verse": "Then will you not be reminded?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:156]",
+            "verse-id": "[37:156]",
             "verse": "Or do you have a clear authority?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:157]",
+            "verse-id": "[37:157]",
             "verse": "Then produce your scripture, if you should be truthful.",
             "description": [
                 "That is, \"There can be only two",
@@ -2932,7 +2933,7 @@
             ]
         },
         {
-            "id": "[37:158]",
+            "verse-id": "[37:158]",
             "verse": "And they have claimed between Him and the jinn a lineage, but the jinn have already known that they [who made such claims] will be brought to [punishment].",
             "description": [
                 "Though the word used is al jinnah",
@@ -2947,35 +2948,35 @@
             ]
         },
         {
-            "id": "[37:159]",
+            "verse-id": "[37:159]",
             "verse": "Exalted is Allah above what they describe,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:160]",
+            "verse-id": "[37:160]",
             "verse": "Except the chosen servants of Allah [who do not share in that sin].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:161]",
+            "verse-id": "[37:161]",
             "verse": "So indeed, you [disbelievers] and whatever you worship,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:162]",
+            "verse-id": "[37:162]",
             "verse": "You cannot tempt [anyone] away from Him",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:163]",
+            "verse-id": "[37:163]",
             "verse": "Except he who is to [enter and] burn in the Hellfire.",
             "description": [
                 "Another translation of this verse can be:",
@@ -2996,7 +2997,7 @@
             ]
         },
         {
-            "id": "[37:164]",
+            "verse-id": "[37:164]",
             "verse": "[The angels say], \"There is not among us any except that he has a known position.",
             "description": [
                 "That is, \"Not to speak of being",
@@ -3008,35 +3009,35 @@
             ]
         },
         {
-            "id": "[37:165]",
+            "verse-id": "[37:165]",
             "verse": "And indeed, we are those who line up [for prayer].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:166]",
+            "verse-id": "[37:166]",
             "verse": "And indeed, we are those who exalt Allah.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:167]",
+            "verse-id": "[37:167]",
             "verse": "And indeed, the disbelievers used to say,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:168]",
+            "verse-id": "[37:168]",
             "verse": "\"If we had a message from [those of] the former peoples,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:169]",
+            "verse-id": "[37:169]",
             "verse": "We would have been the chosen servants of Allah.\"",
             "description": [
                 "This same thing has already been mentioned",
@@ -3044,28 +3045,28 @@
             ]
         },
         {
-            "id": "[37:170]",
+            "verse-id": "[37:170]",
             "verse": "But they disbelieved in it, so they are going to know.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:171]",
+            "verse-id": "[37:171]",
             "verse": "And Our word has already preceded for Our servants, the messengers,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:172]",
+            "verse-id": "[37:172]",
             "verse": "[That] indeed, they would be those given victory",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:173]",
+            "verse-id": "[37:173]",
             "verse": "And [that] indeed, Our soldiers will be those who overcome.",
             "description": [
                 "\"Allah's army\": implies the believers who obey",
@@ -3096,14 +3097,14 @@
             ]
         },
         {
-            "id": "[37:174]",
+            "verse-id": "[37:174]",
             "verse": "So, [O Muhammad], leave them for a time.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:175]",
+            "verse-id": "[37:175]",
             "verse": "And see [what will befall] them, for they are going to see.",
             "description": [
                 "That is. `It will not take long",
@@ -3122,49 +3123,49 @@
             ]
         },
         {
-            "id": "[37:176]",
+            "verse-id": "[37:176]",
             "verse": "Then for Our punishment are they impatient?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:177]",
+            "verse-id": "[37:177]",
             "verse": "But when it descends in their territory, then evil is the morning of those who were warned.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:178]",
+            "verse-id": "[37:178]",
             "verse": "And leave them for a time.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:179]",
+            "verse-id": "[37:179]",
             "verse": "And see, for they are going to see.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:180]",
+            "verse-id": "[37:180]",
             "verse": "Exalted is your Lord, the Lord of might, above what they describe.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:181]",
+            "verse-id": "[37:181]",
             "verse": "And peace upon the messengers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[37:182]",
+            "verse-id": "[37:182]",
             "verse": "And praise to Allah, Lord of the worlds.",
             "description": [
                 ""

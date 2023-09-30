@@ -1,9 +1,10 @@
 {
     "name": "Al-Adiyat",
+    "id": 100,
     "verse-count": 11,
     "verse-info": [
         {
-            "id": "[100:1]",
+            "verse-id": "[100:1]",
             "verse": "By the racers, panting,",
             "description": [
                 "There is no indication in the words",
@@ -44,7 +45,7 @@
             ]
         },
         {
-            "id": "[100:2]",
+            "verse-id": "[100:2]",
             "verse": "And the producers of sparks [when] striking",
             "description": [
                 "\"Dashing off sparks\" indicates that the horses",
@@ -54,7 +55,7 @@
             ]
         },
         {
-            "id": "[100:3]",
+            "verse-id": "[100:3]",
             "verse": "And the chargers at dawn,",
             "description": [
                 "The practice among the Arabs was that",
@@ -72,21 +73,21 @@
             ]
         },
         {
-            "id": "[100:4]",
+            "verse-id": "[100:4]",
             "verse": "Stirring up thereby [clouds of] dust,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[100:5]",
+            "verse-id": "[100:5]",
             "verse": "Arriving thereby in the center collectively,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[100:6]",
+            "verse-id": "[100:6]",
             "verse": "Indeed mankind, to his Lord, is ungrateful.",
             "description": [
                 "This is for which an oath has",
@@ -148,7 +149,7 @@
             ]
         },
         {
-            "id": "[100:7]",
+            "verse-id": "[100:7]",
             "verse": "And indeed, he is to that a witness.",
             "description": [
                 "That is his own conscience and his",
@@ -162,7 +163,7 @@
             ]
         },
         {
-            "id": "[100:8]",
+            "verse-id": "[100:8]",
             "verse": "And indeed he is, in love of wealth, intense.",
             "description": [
                 "Literally \"He is most ardent in the",
@@ -186,7 +187,7 @@
             ]
         },
         {
-            "id": "[100:9]",
+            "verse-id": "[100:9]",
             "verse": "But does he not know that when the contents of the graves are scattered",
             "description": [
                 "That is, the dead men will be",
@@ -196,7 +197,7 @@
             ]
         },
         {
-            "id": "[100:10]",
+            "verse-id": "[100:10]",
             "verse": "And that within the breasts is obtained,",
             "description": [
                 "That is all the intentions aims and",
@@ -253,7 +254,7 @@
             ]
         },
         {
-            "id": "[100:11]",
+            "verse-id": "[100:11]",
             "verse": "Indeed, their Lord with them, that Day, is [fully] Acquainted.",
             "description": [
                 "That is, He will be knowing full",

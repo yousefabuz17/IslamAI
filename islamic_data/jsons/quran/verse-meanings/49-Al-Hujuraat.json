@@ -1,9 +1,10 @@
 {
     "name": "Al-Hujuraat",
+    "id": 49,
     "verse-count": 18,
     "verse-info": [
         {
-            "id": "[49:1]",
+            "verse-id": "[49:1]",
             "verse": "O you who have believed, do not put [yourselves] before Allah and His Messenger but fear Allah. Indeed, Allah is Hearing and Knowing.",
             "description": [
                 "This is the foremost and basic demand",
@@ -95,7 +96,7 @@
             ]
         },
         {
-            "id": "[49:2]",
+            "verse-id": "[49:2]",
             "verse": "O you who have believed, do not raise your voices above the voice of the Prophet or be loud to him in speech like the loudness of some of you to others, lest your deeds become worthless while you perceive not.",
             "description": [
                 "This is the etiquette that was taught",
@@ -159,7 +160,7 @@
             ]
         },
         {
-            "id": "[49:3]",
+            "verse-id": "[49:3]",
             "verse": "Indeed, those who lower their voices before the Messenger of Allah - they are the ones whose hearts Allah has tested for righteousness. For them is forgiveness and great reward.",
             "description": [
                 "That is, \"Only those people give due",
@@ -179,14 +180,14 @@
             ]
         },
         {
-            "id": "[49:4]",
+            "verse-id": "[49:4]",
             "verse": "Indeed, those who call you, [O Muhammad], from behind the chambers - most of them do not use reason.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[49:5]",
+            "verse-id": "[49:5]",
             "verse": "And if they had been patient until you [could] come out to them, it would have been better for them. But Allah is Forgiving and Merciful.",
             "description": [
                 "The people who in the blessed time",
@@ -254,7 +255,7 @@
             ]
         },
         {
-            "id": "[49:6]",
+            "verse-id": "[49:6]",
             "verse": "O you who have believed, if there comes to you a disobedient one with information, investigate, lest you harm a people out of ignorance and become, over what you have done, regretful.",
             "description": [
                 "Most of the commentators have expressed the",
@@ -361,7 +362,7 @@
             ]
         },
         {
-            "id": "[49:7]",
+            "verse-id": "[49:7]",
             "verse": "And know that among you is the Messenger of Allah. If he were to obey you in much of the matter, you would be in difficulty, but Allah has endeared to you the faith and has made it pleasing in your hearts and has made hateful to you disbelief, defiance and disobedience. Those are the [rightly] guided.",
             "description": [
                 "This is evident from the context as",
@@ -385,7 +386,7 @@
             ]
         },
         {
-            "id": "[49:8]",
+            "verse-id": "[49:8]",
             "verse": "[It is] as bounty from Allah and favor. And Allah is Knowing and Wise.",
             "description": [
                 "It means this: The whole community of",
@@ -437,7 +438,7 @@
             ]
         },
         {
-            "id": "[49:9]",
+            "verse-id": "[49:9]",
             "verse": "And if two factions among the believers should fight, then make settlement between the two. But if one of them oppresses the other, then fight against the one that oppresses until it returns to the ordinance of Allah. And if it returns, then make settlement between them in justice and act justly. Indeed, Allah loves those who act justly.",
             "description": [
                 "Instead of saying: \"When two parties of",
@@ -986,7 +987,7 @@
             ]
         },
         {
-            "id": "[49:10]",
+            "verse-id": "[49:10]",
             "verse": "The believers are but brothers, so make settlement between your brothers. And fear Allah that you may receive mercy.",
             "description": [
                 "This verse establishes a universal brotherhood of",
@@ -1048,7 +1049,7 @@
             ]
         },
         {
-            "id": "[49:11]",
+            "verse-id": "[49:11]",
             "verse": "O you who have believed, let not a people ridicule [another] people; perhaps they may be better than them; nor let women ridicule [other] women; perhaps they may be better than them. And do not insult one another and do not call each other by [offensive] nicknames. Wretched is the name of disobedience after [one's] faith. And whoever does not repent - then it is those who are the wrongdoers.",
             "description": [
                 "In the preceding two verses after giving",
@@ -1209,7 +1210,7 @@
             ]
         },
         {
-            "id": "[49:12]",
+            "verse-id": "[49:12]",
             "verse": "O you who have believed, avoid much [negative] assumption. Indeed, some assumption is sin. And do not spy or backbite each other. Would one of you like to eat the flesh of his brother when dead? You would detest it. And fear Allah; indeed, Allah is Accepting of repentance and Merciful.",
             "description": [
                 "What is forbidden is not conjecture as",
@@ -1759,7 +1760,7 @@
             ]
         },
         {
-            "id": "[49:13]",
+            "verse-id": "[49:13]",
             "verse": "O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you. Indeed, Allah is Knowing and Acquainted.",
             "description": [
                 "In the preceding verses the Muslims were",
@@ -2072,7 +2073,7 @@
             ]
         },
         {
-            "id": "[49:14]",
+            "verse-id": "[49:14]",
             "verse": "The bedouins say, \"We have believed.\" Say, \"You have not [yet] believed; but say [instead], 'We have submitted,' for faith has not yet entered your hearts. And if you obey Allah and His Messenger, He will not deprive you from your deeds of anything. Indeed, Allah is Forgiving and Merciful.\"",
             "description": [
                 "This does not imply alI the desert",
@@ -2228,28 +2229,28 @@
             ]
         },
         {
-            "id": "[49:15]",
+            "verse-id": "[49:15]",
             "verse": "The believers are only the ones who have believed in Allah and His Messenger and then doubt not but strive with their properties and their lives in the cause of Allah. It is those who are the truthful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[49:16]",
+            "verse-id": "[49:16]",
             "verse": "Say, \"Would you acquaint Allah with your religion while Allah knows whatever is in the heavens and whatever is on the earth, and Allah is Knowing of all things?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[49:17]",
+            "verse-id": "[49:17]",
             "verse": "They consider it a favor to you that they have accepted Islam. Say, \"Do not consider your Islam a favor to me. Rather, Allah has conferred favor upon you that He has guided you to the faith, if you should be truthful.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[49:18]",
+            "verse-id": "[49:18]",
             "verse": "Indeed, Allah knows the unseen [aspects] of the heavens and the earth. And Allah is Seeing of what you do.",
             "description": [
                 ""

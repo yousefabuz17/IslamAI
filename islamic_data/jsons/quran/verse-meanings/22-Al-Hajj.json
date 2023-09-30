@@ -1,9 +1,10 @@
 {
     "name": "Al-Hajj",
+    "id": 22,
     "verse-count": 78,
     "verse-info": [
         {
-            "id": "[22:1]",
+            "verse-id": "[22:1]",
             "verse": "O mankind, fear your Lord. Indeed, the convulsion of the [final] Hour is a terrible thing.",
             "description": [
                 "According to the early commentators, this earthquake",
@@ -43,7 +44,7 @@
             ]
         },
         {
-            "id": "[22:2]",
+            "verse-id": "[22:2]",
             "verse": "On the Day you see it every nursing mother will be distracted from that [child] she was nursing, and every pregnant woman will abort her pregnancy, and you will see the people [appearing] intoxicated while they are not intoxicated; but the punishment of Allah is severe.",
             "description": [
                 "This is to show the intensity and",
@@ -63,7 +64,7 @@
             ]
         },
         {
-            "id": "[22:3]",
+            "verse-id": "[22:3]",
             "verse": "And of the people is he who disputes about Allah without knowledge and follows every rebellious devil.",
             "description": [
                 "They do not indulge in discussions or",
@@ -80,14 +81,14 @@
             ]
         },
         {
-            "id": "[22:4]",
+            "verse-id": "[22:4]",
             "verse": "It has been decreed for every devil that whoever turns to him - he will misguide him and will lead him to the punishment of the Blaze.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[22:5]",
+            "verse-id": "[22:5]",
             "verse": "O People, if you should be in doubt about the Resurrection, then [consider that] indeed, We created you from dust, then from a sperm-drop, then from a clinging clot, and then from a lump of flesh, formed and unformed - that We may show you. And We settle in the wombs whom We will for a specified term, then We bring you out as a child, and then [We develop you] that you may reach your [time of] maturity. And among you is he who is taken in [early] death, and among you is he who is returned to the most decrepit [old] age so that he knows, after [once having] knowledge, nothing. And you see the earth barren, but when We send down upon it rain, it quivers and swells and grows [something] of every beautiful kind.",
             "description": [
                 "\"..... created you .....sperm-drop\": The first man",
@@ -115,7 +116,7 @@
             ]
         },
         {
-            "id": "[22:6]",
+            "verse-id": "[22:6]",
             "verse": "That is because Allah is the Truth and because He gives life to the dead and because He is over all things competent",
             "description": [
                 "The Arabic Text may mean three things:",
@@ -137,7 +138,7 @@
             ]
         },
         {
-            "id": "[22:7]",
+            "verse-id": "[22:7]",
             "verse": "And [that they may know] that the Hour is coming - no doubt about it - and that Allah will resurrect those in the graves.",
             "description": [
                 "In this passage, different stages of the",
@@ -264,7 +265,7 @@
             ]
         },
         {
-            "id": "[22:8]",
+            "verse-id": "[22:8]",
             "verse": "And of the people is he who disputes about Allah without knowledge or guidance or an enlightening book [from Him],",
             "description": [
                 "That is, they are so stiff-necked, proud,",
@@ -282,7 +283,7 @@
             ]
         },
         {
-            "id": "[22:9]",
+            "verse-id": "[22:9]",
             "verse": "Twisting his neck [in arrogance] to mislead [people] from the way of Allah. For him in the world is disgrace, and We will make him taste on the Day of Resurrection the punishment of the Burning Fire [while it is said],",
             "description": [
                 "V , 3 mentioned those people who",
@@ -294,14 +295,14 @@
             ]
         },
         {
-            "id": "[22:10]",
+            "verse-id": "[22:10]",
             "verse": "\"That is for what your hands have put forth and because Allah is not ever unjust to [His] servants.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[22:11]",
+            "verse-id": "[22:11]",
             "verse": "And of the people is he who worships Allah on an edge. If he is touched by good, he is reassured by it; but if he is struck by trial, he turns on his face [to the other direction]. He has lost [this] world and the Hereafter. That is what is the manifest loss.",
             "description": [
                 "This type of man is a time",
@@ -368,14 +369,14 @@
             ]
         },
         {
-            "id": "[22:12]",
+            "verse-id": "[22:12]",
             "verse": "He invokes instead of Allah that which neither harms him nor benefits him. That is what is the extreme error.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[22:13]",
+            "verse-id": "[22:13]",
             "verse": "He invokes one whose harm is closer than his benefit - how wretched the protector and how wretched the associate.",
             "description": [
                 "Vv. 12-13 clarify two things about the",
@@ -401,7 +402,7 @@
             ]
         },
         {
-            "id": "[22:14]",
+            "verse-id": "[22:14]",
             "verse": "Indeed, Allah will admit those who believe and do righteous deeds to gardens beneath which rivers flow. Indeed, Allah does what He intends.",
             "description": [
                 "\"Those who believed and did righteous deeds\"",
@@ -420,7 +421,7 @@
             ]
         },
         {
-            "id": "[22:15]",
+            "verse-id": "[22:15]",
             "verse": "Whoever should think that Allah will not support [Prophet Muhammad] in this world and the Hereafter - let him extend a rope to the ceiling, then cut off [his breath], and let him see: will his effort remove that which enrages [him]?",
             "description": [
                 "There is a great divergence of opinion",
@@ -477,14 +478,14 @@
             ]
         },
         {
-            "id": "[22:16]",
+            "verse-id": "[22:16]",
             "verse": "And thus have We sent the Qur'an down as verses of clear evidence and because Allah guides whom He intends.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[22:17]",
+            "verse-id": "[22:17]",
             "verse": "Indeed, those who have believed and those who were Jews and the Sabeans and the Christians and the Magians and those who associated with Allah - Allah will judge between them on the Day of Resurrection. Indeed Allah is, over all things, Witness.",
             "description": [
                 "This means the \"Muslims\" of every age",
@@ -540,7 +541,7 @@
             ]
         },
         {
-            "id": "[22:18]",
+            "verse-id": "[22:18]",
             "verse": "Do you not see that to Allah prostrates whoever is in the heavens and whoever is on the earth and the sun, the moon, the stars, the mountains, the trees, the moving creatures and many of the people? But upon many the punishment has been justified. And he whom Allah humiliates - for him there is no bestower of honor. Indeed, Allah does what He wills.",
             "description": [
                 "See E.N. 25 Chapter XIII (Ar-Ra`d) and",
@@ -593,7 +594,7 @@
             ]
         },
         {
-            "id": "[22:19]",
+            "verse-id": "[22:19]",
             "verse": "These are two adversaries who have disputed over their Lord. But those who disbelieved will have cut out for them garments of fire. Poured upon their heads will be scalding water",
             "description": [
                 "Here all the disputants about Allah have",
@@ -613,28 +614,28 @@
             ]
         },
         {
-            "id": "[22:20]",
+            "verse-id": "[22:20]",
             "verse": "By which is melted that within their bellies and [their] skins.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[22:21]",
+            "verse-id": "[22:21]",
             "verse": "And for [striking] them are maces of iron.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[22:22]",
+            "verse-id": "[22:22]",
             "verse": "Every time they want to get out of Hellfire from anguish, they will be returned to it, and [it will be said], \"Taste the punishment of the Burning Fire!\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[22:23]",
+            "verse-id": "[22:23]",
             "verse": "Indeed, Allah will admit those who believe and do righteous deeds to gardens beneath which rivers flow. They will be adorned therein with bracelets of gold and pearl, and their garments therein will be silk.",
             "description": [
                 "This is to show that they will",
@@ -645,7 +646,7 @@
             ]
         },
         {
-            "id": "[22:24]",
+            "verse-id": "[22:24]",
             "verse": "And they had been guided [in worldly life] to good speech, and they were guided to the path of the Praiseworthy.",
             "description": [
                 "\"Pure Word\": though it may imply every",
@@ -687,7 +688,7 @@
             ]
         },
         {
-            "id": "[22:25]",
+            "verse-id": "[22:25]",
             "verse": "Indeed, those who have disbelieved and avert [people] from the way of Allah and [from] al-Masjid al-Haram, which We made for the people - equal are the resident therein and one from outside; and [also] whoever intends [a deed] therein of deviation [in religion] or wrongdoing - We will make him taste of a painful punishment.",
             "description": [
                 "\"Those who disbelieved\" were the people who",
@@ -933,7 +934,7 @@
             ]
         },
         {
-            "id": "[22:26]",
+            "verse-id": "[22:26]",
             "verse": "And [mention, O Muhammad], when We designated for Abraham the site of the House, [saying], \"Do not associate anything with Me and purify My House for those who perform Tawaf and those who stand [in prayer] and those who bow and prostrate.",
             "description": [
                 "Some commentators opine that the address to",
@@ -953,7 +954,7 @@
             ]
         },
         {
-            "id": "[22:27]",
+            "verse-id": "[22:27]",
             "verse": "And proclaim to the people the Hajj [pilgrimage]; they will come to you on foot and on every lean camel; they will come from every distant pass -",
             "description": [
                 "The expression \"lean camels\" has been deliberately",
@@ -976,7 +977,7 @@
             ]
         },
         {
-            "id": "[22:28]",
+            "verse-id": "[22:28]",
             "verse": "That they may witness benefits for themselves and mention the name of Allah on known days over what He has provided for them of [sacrificial] animals. So eat of them and feed the miserable and poor.",
             "description": [
                 "\"The benefits\" include both religious and worldly",
@@ -1078,7 +1079,7 @@
             ]
         },
         {
-            "id": "[22:29]",
+            "verse-id": "[22:29]",
             "verse": "Then let them end their untidiness and fulfill their vows and perform Tawaf around the ancient House.\"",
             "description": [
                 "It means that after performing the essential",
@@ -1110,7 +1111,7 @@
             ]
         },
         {
-            "id": "[22:30]",
+            "verse-id": "[22:30]",
             "verse": "That [has been commanded], and whoever honors the sacred ordinances of Allah - it is best for him in the sight of his Lord. And permitted to you are the grazing livestock, except what is recited to you. So avoid the uncleanliness of idols and avoid false statement,",
             "description": [
                 "Though the \"command\" is of a general",
@@ -1128,7 +1129,7 @@
             ]
         },
         {
-            "id": "[22:31]",
+            "verse-id": "[22:31]",
             "verse": "Inclining [only] to Allah, not associating [anything] with Him. And he who associates with Allah - it is as though he had fallen from the sky and was snatched by the birds or the wind carried him down into a remote place.",
             "description": [
                 "\"And the cattle have been made lawful",
@@ -1219,7 +1220,7 @@
             ]
         },
         {
-            "id": "[22:32]",
+            "verse-id": "[22:32]",
             "verse": "That [is so]. And whoever honors the symbols of Allah - indeed, it is from the piety of hearts.",
             "description": [
                 "\"Symbols of God worship\": the performance of",
@@ -1240,7 +1241,7 @@
             ]
         },
         {
-            "id": "[22:33]",
+            "verse-id": "[22:33]",
             "verse": "For you the animals marked for sacrifice are benefits for a specified term; then their place of sacrifice is at the ancient House.",
             "description": [
                 "This is to remove the misunderstanding about",
@@ -1296,7 +1297,7 @@
             ]
         },
         {
-            "id": "[22:34]",
+            "verse-id": "[22:34]",
             "verse": "And for all religion We have appointed a rite [of sacrifice] that they may mention the name of Allah over what He has provided for them of [sacrificial] animals. For your god is one God, so to Him submit. And, [O Muhammad], give good tidings to the humble [before their Lord]",
             "description": [
                 "This verse implies two things:",
@@ -1329,7 +1330,7 @@
             ]
         },
         {
-            "id": "[22:35]",
+            "verse-id": "[22:35]",
             "verse": "Who, when Allah is mentioned, their hearts are fearful, and [to] the patient over what has afflicted them, and the establishers of prayer and those who spend from what We have provided them.",
             "description": [
                 "It means that righteous people spend their",
@@ -1347,7 +1348,7 @@
             ]
         },
         {
-            "id": "[22:36]",
+            "verse-id": "[22:36]",
             "verse": "And the camels and cattle We have appointed for you as among the symbols of Allah; for you therein is good. So mention the name of Allah upon them when lined up [for sacrifice]; and when they are [lifeless] on their sides, then eat from them and feed the needy and the beggar. Thus have We subjected them to you that you may be grateful.",
             "description": [
                 "Seven persons can become partners in the",
@@ -1441,7 +1442,7 @@
             ]
         },
         {
-            "id": "[22:37]",
+            "verse-id": "[22:37]",
             "verse": "Their meat will not reach Allah, nor will their blood, but what reaches Him is piety from you. Thus have We subjected them to you that you may glorify Allah for that [to] which He has guided you; and give good tidings to the doers of good.",
             "description": [
                 "This prescribes a very important condition for",
@@ -1539,7 +1540,7 @@
             ]
         },
         {
-            "id": "[22:38]",
+            "verse-id": "[22:38]",
             "verse": "Indeed, Allah defends those who have believed. Indeed, Allah does not like everyone treacherous and ungrateful.",
             "description": [
                 "' From here the address for the",
@@ -1611,7 +1612,7 @@
             ]
         },
         {
-            "id": "[22:39]",
+            "verse-id": "[22:39]",
             "verse": "Permission [to fight] has been given to those who are being fought, because they were wronged. And indeed, Allah is competent to give them victory.",
             "description": [
                 "This (v. 39) is the first verse",
@@ -1644,7 +1645,7 @@
             ]
         },
         {
-            "id": "[22:40]",
+            "verse-id": "[22:40]",
             "verse": "[They are] those who have been evicted from their homes without right - only because they say, \"Our Lord is Allah.\" And were it not that Allah checks the people, some by means of others, there would have been demolished monasteries, churches, synagogues, and mosques in which the name of Allah is much mentioned. And Allah will surely support those who support Him. Indeed, Allah is Powerful and Exalted in Might.",
             "description": [
                 "The mention of their expulsion from their",
@@ -1722,7 +1723,7 @@
             ]
         },
         {
-            "id": "[22:41]",
+            "verse-id": "[22:41]",
             "verse": "[And they are] those who, if We give them authority in the land, establish prayer and give zakah and enjoin what is right and forbid what is wrong. And to Allah belongs the outcome of [all] matters.",
             "description": [
                 "Those \"who help Allah\" are the people",
@@ -1756,21 +1757,21 @@
             ]
         },
         {
-            "id": "[22:42]",
+            "verse-id": "[22:42]",
             "verse": "And if they deny you, [O Muhammad] - so, before them, did the people of Noah and 'Aad and Thamud deny [their prophets],",
             "description": [
                 "\"The disbelievers of Makkah\"."
             ]
         },
         {
-            "id": "[22:43]",
+            "verse-id": "[22:43]",
             "verse": "And the people of Abraham and the people of Lot",
             "description": [
                 "*"
             ]
         },
         {
-            "id": "[22:44]",
+            "verse-id": "[22:44]",
             "verse": "And the inhabitants of Madyan. And Moses was denied, so I prolonged enjoyment for the disbelievers; then I seized them, and how [terrible] was My reproach.",
             "description": [
                 "The instances of some peoples who rejected",
@@ -1798,7 +1799,7 @@
             ]
         },
         {
-            "id": "[22:45]",
+            "verse-id": "[22:45]",
             "verse": "And how many a city did We destroy while it was committing wrong - so it is [now] fallen into ruin - and [how many] an abandoned well and [how many] a lofty palace.",
             "description": [
                 "In Arabic a \"well\" is synonymous with",
@@ -1808,7 +1809,7 @@
             ]
         },
         {
-            "id": "[22:46]",
+            "verse-id": "[22:46]",
             "verse": "So have they not traveled through the earth and have hearts by which to reason and ears by which to hear? For indeed, it is not eyes that are blinded, but blinded are the hearts which are within the breasts.",
             "description": [
                 "The words \".... the hearts .... blind\"",
@@ -1822,7 +1823,7 @@
             ]
         },
         {
-            "id": "[22:47]",
+            "verse-id": "[22:47]",
             "verse": "And they urge you to hasten the punishment. But Allah will never fail in His promise. And indeed, a day with your Lord is like a thousand years of those which you count.",
             "description": [
                 "This refers to the oft-repeated challenge by",
@@ -1846,14 +1847,14 @@
             ]
         },
         {
-            "id": "[22:48]",
+            "verse-id": "[22:48]",
             "verse": "And for how many a city did I prolong enjoyment while it was committing wrong. Then I seized it, and to Me is the [final] destination.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[22:49]",
+            "verse-id": "[22:49]",
             "verse": "Say, \"O people, I am only to you a clear warner.\"",
             "description": [
                 "That is, \"I am merely a warner",
@@ -1863,7 +1864,7 @@
             ]
         },
         {
-            "id": "[22:50]",
+            "verse-id": "[22:50]",
             "verse": "And those who have believed and done righteous deeds - for them is forgiveness and noble provision.",
             "description": [
                 "\"The Believers shall have forgiveness\" means that",
@@ -1875,14 +1876,14 @@
             ]
         },
         {
-            "id": "[22:51]",
+            "verse-id": "[22:51]",
             "verse": "But the ones who strove against Our verses, [seeking] to cause failure - those are the companions of Hellfire.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[22:52]",
+            "verse-id": "[22:52]",
             "verse": "And We did not send before you any messenger or prophet except that when he spoke [or recited], Satan threw into it [some misunderstanding]. But Allah abolishes that which Satan throws in; then Allah makes precise His verses. And Allah is Knowing and Wise.",
             "description": [
                 "For the distinction between Nabi and Rasul,",
@@ -1919,14 +1920,14 @@
             ]
         },
         {
-            "id": "[22:53]",
+            "verse-id": "[22:53]",
             "verse": "[That is] so He may make what Satan throws in a trial for those within whose hearts is disease and those hard of heart. And indeed, the wrongdoers are in extreme dissension.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[22:54]",
+            "verse-id": "[22:54]",
             "verse": "And so those who were given knowledge may know that it is the truth from your Lord and [therefore] believe in it, and their hearts humbly submit to it. And indeed is Allah the Guide of those who have believed to a straight path.",
             "description": [
                 "That is, \"Allah lets Satan work such",
@@ -2431,7 +2432,7 @@
             ]
         },
         {
-            "id": "[22:55]",
+            "verse-id": "[22:55]",
             "verse": "But those who disbelieve will not cease to be in doubt of it until the Hour comes upon them unexpectedly or there comes to them the punishment of a barren Day.",
             "description": [
                 "The epithet \"barren\" has been applied to",
@@ -2451,28 +2452,28 @@
             ]
         },
         {
-            "id": "[22:56]",
+            "verse-id": "[22:56]",
             "verse": "[All] sovereignty that Day is for Allah; He will judge between them. So they who believed and did righteous deeds will be in the Gardens of Pleasure.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[22:57]",
+            "verse-id": "[22:57]",
             "verse": "And they who disbelieved and denied Our signs - for those there will be a humiliating punishment.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[22:58]",
+            "verse-id": "[22:58]",
             "verse": "And those who emigrated for the cause of Allah and then were killed or died - Allah will surely provide for them a good provision. And indeed, it is Allah who is the best of providers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[22:59]",
+            "verse-id": "[22:59]",
             "verse": "He will surely cause them to enter an entrance with which they will be pleased, and indeed, Allah is Knowing and Forbearing.",
             "description": [
                 "As Allah is All-Knowing, He knows well",
@@ -2485,7 +2486,7 @@
             ]
         },
         {
-            "id": "[22:60]",
+            "verse-id": "[22:60]",
             "verse": "That [is so]. And whoever responds [to injustice] with the equivalent of that with which he was harmed and then is tyrannized - Allah will surely aid him. Indeed, Allah is Pardoning and Forgiving.",
             "description": [
                 "The preceding verses referred to those persecuted",
@@ -2521,7 +2522,7 @@
             ]
         },
         {
-            "id": "[22:61]",
+            "verse-id": "[22:61]",
             "verse": "That is because Allah causes the night to enter the day and causes the day to enter the night and because Allah is Hearing and Seeing.",
             "description": [
                 "\"So it is\" (as stated in the",
@@ -2547,7 +2548,7 @@
             ]
         },
         {
-            "id": "[22:62]",
+            "verse-id": "[22:62]",
             "verse": "That is because Allah is the Truth, and that which they call upon other than Him is falsehood, and because Allah is the Most High, the Grand.",
             "description": [
                 "As Allah is in fact the Sovereign",
@@ -2558,7 +2559,7 @@
             ]
         },
         {
-            "id": "[22:63]",
+            "verse-id": "[22:63]",
             "verse": "Do you not see that Allah has sent down rain from the sky and the earth becomes green? Indeed, Allah is Subtle and Acquainted.",
             "description": [
                 "This verse has a deeper meaning also,",
@@ -2585,7 +2586,7 @@
             ]
         },
         {
-            "id": "[22:64]",
+            "verse-id": "[22:64]",
             "verse": "To Him belongs what is in the heavens and what is on the earth. And indeed, Allah is the Free of need, the Praiseworthy.",
             "description": [
                 "He alone is \"All-Sufficient\" and does not",
@@ -2596,7 +2597,7 @@
             ]
         },
         {
-            "id": "[22:65]",
+            "verse-id": "[22:65]",
             "verse": "Do you not see that Allah has subjected to you whatever is on the earth and the ships which run through the sea by His command? And He restrains the sky from falling upon the earth, unless by His permission. Indeed Allah, to the people, is Kind and Merciful.",
             "description": [
                 "Here \"the sky\" implies the whole of",
@@ -2606,7 +2607,7 @@
             ]
         },
         {
-            "id": "[22:66]",
+            "verse-id": "[22:66]",
             "verse": "And He is the one who gave you life; then He causes you to die and then will [again] give you life. Indeed, mankind is ungrateful.",
             "description": [
                 "That is, \"Though man sees every reality",
@@ -2615,7 +2616,7 @@
             ]
         },
         {
-            "id": "[22:67]",
+            "verse-id": "[22:67]",
             "verse": "For every religion We have appointed rites which they perform. So, [O Muhammad], let the disbelievers not contend with you over the matter but invite them to your Lord. Indeed, you are upon straight guidance.",
             "description": [
                 "That is, \"The Community of every Prophet\"",
@@ -2640,21 +2641,21 @@
             ]
         },
         {
-            "id": "[22:68]",
+            "verse-id": "[22:68]",
             "verse": "And if they dispute with you, then say, \"Allah is most knowing of what you do.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[22:69]",
+            "verse-id": "[22:69]",
             "verse": "Allah will judge between you on the Day of Resurrection concerning that over which you used to differ.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[22:70]",
+            "verse-id": "[22:70]",
             "verse": "Do you not know that Allah knows what is in the heaven and earth? Indeed, that is in a Record. Indeed that, for Allah, is easy.",
             "description": [
                 "In order to understand the significance of",
@@ -2664,7 +2665,7 @@
             ]
         },
         {
-            "id": "[22:71]",
+            "verse-id": "[22:71]",
             "verse": "And they worship besides Allah that for which He has not sent down authority and that of which they have no knowledge. And there will not be for the wrongdoers any helper.",
             "description": [
                 "That is, \"Neither there is any mention",
@@ -2689,7 +2690,7 @@
             ]
         },
         {
-            "id": "[22:72]",
+            "verse-id": "[22:72]",
             "verse": "And when Our verses are recited to them as clear evidences, you recognize in the faces of those who disbelieve disapproval. They are almost on the verge of assaulting those who recite to them Our verses. Say, \"Then shall I inform you of [what is] worse than that? [It is] the Fire which Allah has promised those who disbelieve, and wretched is the destination.\"",
             "description": [
                 "That is, \"You will meet with a",
@@ -2699,7 +2700,7 @@
             ]
         },
         {
-            "id": "[22:73]",
+            "verse-id": "[22:73]",
             "verse": "O people, an example is presented, so listen to it. Indeed, those you invoke besides Allah will never create [as much as] a fly, even if they gathered together for that purpose. And if the fly should steal away from them a [tiny] thing, they could not recover it from him. Weak are the pursuer and pursued.",
             "description": [
                 "This parable has been cited to impress",
@@ -2715,14 +2716,14 @@
             ]
         },
         {
-            "id": "[22:74]",
+            "verse-id": "[22:74]",
             "verse": "They have not appraised Allah with true appraisal. Indeed, Allah is Powerful and Exalted in Might.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[22:75]",
+            "verse-id": "[22:75]",
             "verse": "Allah chooses from the angels messengers and from the people. Indeed, Allah is Hearing and Seeing.",
             "description": [
                 "In continuation of the refutation of shirk,",
@@ -2738,7 +2739,7 @@
             ]
         },
         {
-            "id": "[22:76]",
+            "verse-id": "[22:76]",
             "verse": "He knows what is [presently] before them and what will be after them. And to Allah will be returned [all] matters.",
             "description": [
                 "The Qur'an employs this sentence to refute",
@@ -2766,7 +2767,7 @@
             ]
         },
         {
-            "id": "[22:77]",
+            "verse-id": "[22:77]",
             "verse": "O you who have believed, bow and prostrate and worship your Lord and do good - that you may succeed.",
             "description": [
                 "This is the right way of attaining",
@@ -2837,7 +2838,7 @@
             ]
         },
         {
-            "id": "[22:78]",
+            "verse-id": "[22:78]",
             "verse": "And strive for Allah with the striving due to Him. He has chosen you and has not placed upon you in the religion any difficulty. [It is] the religion of your father, Abraham. Allah named you \"Muslims\" before [in former scriptures] and in this [revelation] that the Messenger may be a witness over you and you may be witnesses over the people. So establish prayer and give zakah and hold fast to Allah. He is your protector; and excellent is the protector, and excellent is the helper.",
             "description": [
                 "The Arabic word Jihad is very comprehensive.",

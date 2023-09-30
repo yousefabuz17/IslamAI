@@ -1,9 +1,10 @@
 {
     "name": "Al-Muminun",
+    "id": 23,
     "verse-count": 118,
     "verse-info": [
         {
-            "id": "[23:1]",
+            "verse-id": "[23:1]",
             "verse": "Certainly will the believers have succeeded:",
             "description": [
                 "\"Believers\", who have attained true success, are",
@@ -52,7 +53,7 @@
             ]
         },
         {
-            "id": "[23:2]",
+            "verse-id": "[23:2]",
             "verse": "They who are during their prayer humbly submissive",
             "description": [
                 "The noble characteristics of the Believers pointed",
@@ -136,7 +137,7 @@
             ]
         },
         {
-            "id": "[23:3]",
+            "verse-id": "[23:3]",
             "verse": "And they who turn away from ill speech",
             "description": [
                 "Literally, laghv is anything nonsensical, meaningless and",
@@ -199,7 +200,7 @@
             ]
         },
         {
-            "id": "[23:4]",
+            "verse-id": "[23:4]",
             "verse": "And they who are observant of zakah",
             "description": [
                 "The word Zakat literally means purification and",
@@ -233,7 +234,7 @@
             ]
         },
         {
-            "id": "[23:5]",
+            "verse-id": "[23:5]",
             "verse": "And they who guard their private parts",
             "description": [
                 "They are modest in every sense of",
@@ -247,14 +248,14 @@
             ]
         },
         {
-            "id": "[23:6]",
+            "verse-id": "[23:6]",
             "verse": "Except from their wives or those their right hands possess, for indeed, they will not be blamed -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:7]",
+            "verse-id": "[23:7]",
             "verse": "But whoever seeks beyond that, then those are the transgressors -",
             "description": [
                 "This is a parenthesis which is meant",
@@ -491,7 +492,7 @@
             ]
         },
         {
-            "id": "[23:8]",
+            "verse-id": "[23:8]",
             "verse": "And they who are to their trusts and their promises attentive",
             "description": [
                 "The Believers fulfil the terms of the",
@@ -529,7 +530,7 @@
             ]
         },
         {
-            "id": "[23:9]",
+            "verse-id": "[23:9]",
             "verse": "And they who carefully maintain their prayers -",
             "description": [
                 "Salawat is plural of Salat. In verse",
@@ -550,7 +551,7 @@
             ]
         },
         {
-            "id": "[23:10]",
+            "verse-id": "[23:10]",
             "verse": "Those are the inheritors",
             "description": [
                 "Firdaus (Paradise) is a common word found",
@@ -609,28 +610,28 @@
             ]
         },
         {
-            "id": "[23:11]",
+            "verse-id": "[23:11]",
             "verse": "Who will inherit al-Firdaus. They will abide therein eternally.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:12]",
+            "verse-id": "[23:12]",
             "verse": "And certainly did We create man from an extract of clay.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:13]",
+            "verse-id": "[23:13]",
             "verse": "Then We placed him as a sperm-drop in a firm lodging.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:14]",
+            "verse-id": "[23:14]",
             "verse": "Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allah, the best of creators.",
             "description": [
                 "For explanation see E.N.'s 5, 6 and",
@@ -669,21 +670,21 @@
             ]
         },
         {
-            "id": "[23:15]",
+            "verse-id": "[23:15]",
             "verse": "Then indeed, after that you are to die.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:16]",
+            "verse-id": "[23:16]",
             "verse": "Then indeed you, on the Day of Resurrection, will be resurrected.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:17]",
+            "verse-id": "[23:17]",
             "verse": "And We have created above you seven layered heavens, and never have We been of [Our] creation unaware.",
             "description": [
                 "The original Arabic word tara `iq has",
@@ -723,7 +724,7 @@
             ]
         },
         {
-            "id": "[23:18]",
+            "verse-id": "[23:18]",
             "verse": "And We have sent down rain from the sky in a measured amount and settled it in the earth. And indeed, We are Able to take it away.",
             "description": [
                 "The \"rain\" may refer to the rainfall,",
@@ -777,7 +778,7 @@
             ]
         },
         {
-            "id": "[23:19]",
+            "verse-id": "[23:19]",
             "verse": "And We brought forth for you thereby gardens of palm trees and grapevines in which for you are abundant fruits and from which you eat.",
             "description": [
                 "That is, other kinds of fruits than",
@@ -789,7 +790,7 @@
             ]
         },
         {
-            "id": "[23:20]",
+            "verse-id": "[23:20]",
             "verse": "And [We brought forth] a tree issuing from Mount Sinai which produces oil and food for those who eat.",
             "description": [
                 "That is, the olive-tree, which is the",
@@ -806,7 +807,7 @@
             ]
         },
         {
-            "id": "[23:21]",
+            "verse-id": "[23:21]",
             "verse": "And indeed, for you in livestock is a lesson. We give you drink from that which is in their bellies, and for you in them are numerous benefits, and from them you eat.",
             "description": [
                 "That is, milk. Refer to An-Nahl (XVI):",
@@ -814,7 +815,7 @@
             ]
         },
         {
-            "id": "[23:22]",
+            "verse-id": "[23:22]",
             "verse": "And upon them and on ships you are carried.",
             "description": [
                 "The benefits of cattle as means of",
@@ -826,7 +827,7 @@
             ]
         },
         {
-            "id": "[23:23]",
+            "verse-id": "[23:23]",
             "verse": "And We had certainly sent Noah to his people, and he said, \"O my people, worship Allah; you have no deity other than Him; then will you not fear Him?\"",
             "description": [
                 "See also Al-A`araf (VII): 59-64, Yunus (X):",
@@ -835,7 +836,7 @@
             ]
         },
         {
-            "id": "[23:24]",
+            "verse-id": "[23:24]",
             "verse": "But the eminent among those who disbelieved from his people said, \"This is not but a man like yourselves who wishes to take precedence over you; and if Allah had willed [to send a messenger], He would have sent down angels. We have not heard of this among our forefathers.",
             "description": [
                 "That is, \"Are you not afraid that",
@@ -921,14 +922,14 @@
             ]
         },
         {
-            "id": "[23:25]",
+            "verse-id": "[23:25]",
             "verse": "He is not but a man possessed with madness, so wait concerning him for a time.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:26]",
+            "verse-id": "[23:26]",
             "verse": "[Noah] said, \"My Lord, support me because they have denied me.\"",
             "description": [
                 "\"Help me against these people\": `Take Thy",
@@ -946,7 +947,7 @@
             ]
         },
         {
-            "id": "[23:27]",
+            "verse-id": "[23:27]",
             "verse": "So We inspired to him, \"Construct the ship under Our observation, and Our inspiration, and when Our command comes and the oven overflows, put into the ship from each [creature] two mates and your family, except those for whom the decree [of destruction] has proceeded. And do not address Me concerning those who have wronged; indeed, they are to be drowned.",
             "description": [
                 "Some commentators think that tanner means the",
@@ -969,7 +970,7 @@
             ]
         },
         {
-            "id": "[23:28]",
+            "verse-id": "[23:28]",
             "verse": "And when you have boarded the ship, you and those with you, then say, 'Praise to Allah who has saved us from the wrongdoing people.'",
             "description": [
                 "The fact that Allah should be praised",
@@ -980,7 +981,7 @@
             ]
         },
         {
-            "id": "[23:29]",
+            "verse-id": "[23:29]",
             "verse": "And say, 'My Lord, let me land at a blessed landing place, and You are the best to accommodate [us].' \"",
             "description": [
                 "\"Landing\" here does not simply mean touching",
@@ -992,7 +993,7 @@
             ]
         },
         {
-            "id": "[23:30]",
+            "verse-id": "[23:30]",
             "verse": "Indeed in that are signs, and indeed, We are ever testing [Our servants].",
             "description": [
                 "At the conclusion of the story of",
@@ -1027,7 +1028,7 @@
             ]
         },
         {
-            "id": "[23:31]",
+            "verse-id": "[23:31]",
             "verse": "Then We produced after them a generation of others.",
             "description": [
                 "The people of `Ad, who were raised",
@@ -1036,14 +1037,14 @@
             ]
         },
         {
-            "id": "[23:32]",
+            "verse-id": "[23:32]",
             "verse": "And We sent among them a messenger from themselves, [saying], \"Worship Allah; you have no deity other than Him; then will you not fear Him?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:33]",
+            "verse-id": "[23:33]",
             "verse": "And the eminent among his people who disbelieved and denied the meeting of the Hereafter while We had given them luxury in the worldly life said, \"This is not but a man like yourselves. He eats of that from which you eat and drinks of what you drink.",
             "description": [
                 "It should be noted that all those",
@@ -1066,7 +1067,7 @@
             ]
         },
         {
-            "id": "[23:34]",
+            "verse-id": "[23:34]",
             "verse": "And if you should obey a man like yourselves, indeed, you would then be losers.",
             "description": [
                 "Some commentators have wrongly opined that the",
@@ -1092,28 +1093,28 @@
             ]
         },
         {
-            "id": "[23:35]",
+            "verse-id": "[23:35]",
             "verse": "Does he promise you that when you have died and become dust and bones that you will be brought forth [once more]?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:36]",
+            "verse-id": "[23:36]",
             "verse": "How far, how far, is that which you are promised.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:37]",
+            "verse-id": "[23:37]",
             "verse": "Life is not but our worldly life - we die and live, but we will not be resurrected.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:38]",
+            "verse-id": "[23:38]",
             "verse": "He is not but a man who has invented a lie about Allah, and we will not believe him.\"",
             "description": [
                 "a. These words show that the people",
@@ -1126,21 +1127,21 @@
             ]
         },
         {
-            "id": "[23:39]",
+            "verse-id": "[23:39]",
             "verse": "He said, \"My Lord, support me because they have denied me.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:40]",
+            "verse-id": "[23:40]",
             "verse": "[Allah] said, \"After a little, they will surely become regretful.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:41]",
+            "verse-id": "[23:41]",
             "verse": "So the shriek seized them in truth, and We made them as [plant] stubble. Then away with the wrongdoing people.",
             "description": [
                 "Lexically, the word ghutha' means the rubbish",
@@ -1150,21 +1151,21 @@
             ]
         },
         {
-            "id": "[23:42]",
+            "verse-id": "[23:42]",
             "verse": "Then We produced after them other generations.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:43]",
+            "verse-id": "[23:43]",
             "verse": "No nation will precede its time [of termination], nor will they remain [thereafter].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:44]",
+            "verse-id": "[23:44]",
             "verse": "Then We sent Our messengers in succession. Every time there came to a nation its messenger, they denied him, so We made them follow one another [to destruction], and We made them narrations. So away with a people who do not believe.",
             "description": [
                 "That is, \"Those who do not believe",
@@ -1172,7 +1173,7 @@
             ]
         },
         {
-            "id": "[23:45]",
+            "verse-id": "[23:45]",
             "verse": "Then We sent Moses and his brother Aaron with Our signs and a clear authority",
             "description": [
                 "The use of \"a clear Authority\" along",
@@ -1189,7 +1190,7 @@
             ]
         },
         {
-            "id": "[23:46]",
+            "verse-id": "[23:46]",
             "verse": "To Pharaoh and his establishment, but they were arrogant and were a haughty people.",
             "description": [
                 "The words in the Text may either",
@@ -1201,7 +1202,7 @@
             ]
         },
         {
-            "id": "[23:47]",
+            "verse-id": "[23:47]",
             "verse": "They said, \"Should we believe two men like ourselves while their people are for us in servitude?\"",
             "description": [
                 "Abid is worshipper. According to the Arabic",
@@ -1216,7 +1217,7 @@
             ]
         },
         {
-            "id": "[23:48]",
+            "verse-id": "[23:48]",
             "verse": "So they denied them and were of those destroyed.",
             "description": [
                 "For fuller details of the story of",
@@ -1228,14 +1229,14 @@
             ]
         },
         {
-            "id": "[23:49]",
+            "verse-id": "[23:49]",
             "verse": "And We certainly gave Moses the Scripture that perhaps they would be guided.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:50]",
+            "verse-id": "[23:50]",
             "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water.",
             "description": [
                 "The wording \"We made the son of",
@@ -1288,7 +1289,7 @@
             ]
         },
         {
-            "id": "[23:51]",
+            "verse-id": "[23:51]",
             "verse": "[Allah said], \"O messengers, eat from the good foods and work righteousness. Indeed, I, of what you do, am Knowing.",
             "description": [
                 "In the preceding passage (vv. 23-50), the",
@@ -1344,7 +1345,7 @@
             ]
         },
         {
-            "id": "[23:52]",
+            "verse-id": "[23:52]",
             "verse": "And indeed this, your religion, is one religion, and I am your Lord, so fear Me.\"",
             "description": [
                 "The original Arabic word ummat (community) comprises",
@@ -1362,7 +1363,7 @@
             ]
         },
         {
-            "id": "[23:53]",
+            "verse-id": "[23:53]",
             "verse": "But the people divided their religion among them into sects - each faction, in what it has, rejoicing.",
             "description": [
                 "This is not a mere statement of",
@@ -1386,7 +1387,7 @@
             ]
         },
         {
-            "id": "[23:54]",
+            "verse-id": "[23:54]",
             "verse": "So leave them in their confusion for a time.",
             "description": [
                 "There is a gap between v. 53",
@@ -1425,14 +1426,14 @@
             ]
         },
         {
-            "id": "[23:55]",
+            "verse-id": "[23:55]",
             "verse": "Do they think that what We extend to them of wealth and children",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:56]",
+            "verse-id": "[23:56]",
             "verse": "Is [because] We hasten for them good things? Rather, they do not perceive.",
             "description": [
                 "This question has been posed as a",
@@ -1538,7 +1539,7 @@
             ]
         },
         {
-            "id": "[23:57]",
+            "verse-id": "[23:57]",
             "verse": "Indeed, they who are apprehensive from fear of their Lord",
             "description": [
                 "That is, they do not live a",
@@ -1551,7 +1552,7 @@
             ]
         },
         {
-            "id": "[23:58]",
+            "verse-id": "[23:58]",
             "verse": "And they who believe in the signs of their Lord",
             "description": [
                 "\"Signs\" here means both Divine Revelations to",
@@ -1566,7 +1567,7 @@
             ]
         },
         {
-            "id": "[23:59]",
+            "verse-id": "[23:59]",
             "verse": "And they who do not associate anything with their Lord",
             "description": [
                 "Though belief in the Revelations itself engrains",
@@ -1582,7 +1583,7 @@
             ]
         },
         {
-            "id": "[23:60]",
+            "verse-id": "[23:60]",
             "verse": "And they who give what they give while their hearts are fearful because they will be returning to their Lord -",
             "description": [
                 "This verse (60) may be elaborated like",
@@ -1615,14 +1616,14 @@
             ]
         },
         {
-            "id": "[23:61]",
+            "verse-id": "[23:61]",
             "verse": "It is those who hasten to good deeds, and they outstrip [others] therein.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:62]",
+            "verse-id": "[23:62]",
             "verse": "And We charge no soul except [with that within] its capacity, and with Us is a record which speaks with truth; and they will not be wronged.",
             "description": [
                 "The enunciation of this fundamental proposition, in",
@@ -1659,7 +1660,7 @@
             ]
         },
         {
-            "id": "[23:63]",
+            "verse-id": "[23:63]",
             "verse": "But their hearts are covered with confusion over this, and they have [evil] deeds besides disbelief which they are doing,",
             "description": [
                 "They are heedless that everything they are",
@@ -1669,7 +1670,7 @@
             ]
         },
         {
-            "id": "[23:64]",
+            "verse-id": "[23:64]",
             "verse": "Until when We seize their affluent ones with punishment, at once they are crying [to Allah] for help.",
             "description": [
                 "The epicureans will probably be punished in",
@@ -1688,7 +1689,7 @@
             ]
         },
         {
-            "id": "[23:65]",
+            "verse-id": "[23:65]",
             "verse": "Do not cry out today. Indeed, by Us you will not be helped.",
             "description": [
                 "That is, they will be told this",
@@ -1696,7 +1697,7 @@
             ]
         },
         {
-            "id": "[23:66]",
+            "verse-id": "[23:66]",
             "verse": "My verses had already been recited to you, but you were turning back on your heels",
             "description": [
                 "That is to say, \"In the worldly",
@@ -1707,7 +1708,7 @@
             ]
         },
         {
-            "id": "[23:67]",
+            "verse-id": "[23:67]",
             "verse": "In arrogance regarding it, conversing by night, speaking evil.",
             "description": [
                 "The meeting places where the people of",
@@ -1717,7 +1718,7 @@
             ]
         },
         {
-            "id": "[23:68]",
+            "verse-id": "[23:68]",
             "verse": "Then have they not reflected over the Qur'an, or has there come to them that which had not come to their forefathers?",
             "description": [
                 "That is, \"Do they mean to imply",
@@ -1749,7 +1750,7 @@
             ]
         },
         {
-            "id": "[23:69]",
+            "verse-id": "[23:69]",
             "verse": "Or did they not know their Messenger, so they are toward him disacknowledging?",
             "description": [
                 "That is, \"Do they reject the Message",
@@ -1782,7 +1783,7 @@
             ]
         },
         {
-            "id": "[23:70]",
+            "verse-id": "[23:70]",
             "verse": "Or do they say, \"In him is madness?\" Rather, he brought them the truth, but most of them, to the truth, are averse.",
             "description": [
                 "That is, \"Do they reject his Message",
@@ -1807,7 +1808,7 @@
             ]
         },
         {
-            "id": "[23:71]",
+            "verse-id": "[23:71]",
             "verse": "But if the Truth had followed their inclinations, the heavens and the earth and whoever is in them would have been ruined. Rather, We have brought them their message, but they, from their message, are turning away.",
             "description": [
                 "This brief sentence expresses a great reality",
@@ -1849,7 +1850,7 @@
             ]
         },
         {
-            "id": "[23:72]",
+            "verse-id": "[23:72]",
             "verse": "Or do you, [O Muhammad], ask them for payment? But the reward of your Lord is best, and He is the best of providers.",
             "description": [
                 "This was yet another proof of the",
@@ -1881,14 +1882,14 @@
             ]
         },
         {
-            "id": "[23:73]",
+            "verse-id": "[23:73]",
             "verse": "And indeed, you invite them to a straight path.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:74]",
+            "verse-id": "[23:74]",
             "verse": "But indeed, those who do not believe in the Hereafter are deviating from the path.",
             "description": [
                 "This was the real reason why they",
@@ -1905,7 +1906,7 @@
             ]
         },
         {
-            "id": "[23:75]",
+            "verse-id": "[23:75]",
             "verse": "And even if We gave them mercy and removed what was upon them of affliction, they would persist in their transgression, wandering blindly.",
             "description": [
                 "The affliction alluded to in this verse",
@@ -1929,14 +1930,14 @@
             ]
         },
         {
-            "id": "[23:76]",
+            "verse-id": "[23:76]",
             "verse": "And We had gripped them with suffering [as a warning], but they did not yield to their Lord, nor did they humbly supplicate, [and will continue thus]",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:77]",
+            "verse-id": "[23:77]",
             "verse": "Until when We have opened before them a door of severe punishment, immediately they will be therein in despair.",
             "description": [
                 "The Arabic word mublis is used for",
@@ -1948,7 +1949,7 @@
             ]
         },
         {
-            "id": "[23:78]",
+            "verse-id": "[23:78]",
             "verse": "And it is He who produced for you hearing and vision and hearts; little are you grateful.",
             "description": [
                 "The disbelievers have been told to consider",
@@ -1959,14 +1960,14 @@
             ]
         },
         {
-            "id": "[23:79]",
+            "verse-id": "[23:79]",
             "verse": "And it is He who has multiplied you throughout the earth, and to Him you will be gathered.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:80]",
+            "verse-id": "[23:80]",
             "verse": "And it is He who gives life and causes death, and His is the alternation of the night and the day. Then will you not reason?",
             "description": [
                 "If one makes the right use of",
@@ -1992,21 +1993,21 @@
             ]
         },
         {
-            "id": "[23:81]",
+            "verse-id": "[23:81]",
             "verse": "Rather, they say like what the former peoples said.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:82]",
+            "verse-id": "[23:82]",
             "verse": "They said, \"When we have died and become dust and bones, are we indeed to be resurrected?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:83]",
+            "verse-id": "[23:83]",
             "verse": "We have been promised this, we and our forefathers, before; this is not but legends of the former peoples.\"",
             "description": [
                 "Their denial of the Life-after-death implied the",
@@ -2015,14 +2016,14 @@
             ]
         },
         {
-            "id": "[23:84]",
+            "verse-id": "[23:84]",
             "verse": "Say, [O Muhammad], \"To whom belongs the earth and whoever is in it, if you should know?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:85]",
+            "verse-id": "[23:85]",
             "verse": "They will say, \"To Allah.\" Say, \"Then will you not remember?\"",
             "description": [
                 "That is, \"If you acknowledge this, why",
@@ -2035,14 +2036,14 @@
             ]
         },
         {
-            "id": "[23:86]",
+            "verse-id": "[23:86]",
             "verse": "Say, \"Who is Lord of the seven heavens and Lord of the Great Throne?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:87]",
+            "verse-id": "[23:87]",
             "verse": "They will say, \"[They belong] to Allah.\" Say, \"Then will you not fear Him?\"",
             "description": [
                 "That is, \"If you acknowledge this, why",
@@ -2062,7 +2063,7 @@
             ]
         },
         {
-            "id": "[23:88]",
+            "verse-id": "[23:88]",
             "verse": "Say, \"In whose hand is the realm of all things - and He protects while none can protect against Him - if you should know?\"",
             "description": [
                 "The word malakut in the Text is",
@@ -2073,7 +2074,7 @@
             ]
         },
         {
-            "id": "[23:89]",
+            "verse-id": "[23:89]",
             "verse": "They will say, \"[All belongs] to Allah.\" Say, \"Then how are you deluded?\"",
             "description": [
                 "In order to understand the significance of",
@@ -2110,7 +2111,7 @@
             ]
         },
         {
-            "id": "[23:90]",
+            "verse-id": "[23:90]",
             "verse": "Rather, We have brought them the truth, and indeed they are liars.",
             "description": [
                 "They are liars because they say that",
@@ -2126,7 +2127,7 @@
             ]
         },
         {
-            "id": "[23:91]",
+            "verse-id": "[23:91]",
             "verse": "Allah has not taken any son, nor has there ever been with Him any deity. [If there had been], then each deity would have taken what it created, and some of them would have sought to overcome others. Exalted is Allah above what they describe [concerning Him].",
             "description": [
                 "It should be, noted that this is",
@@ -2154,7 +2155,7 @@
             ]
         },
         {
-            "id": "[23:92]",
+            "verse-id": "[23:92]",
             "verse": "[He is] Knower of the unseen and the witnessed, so high is He above what they associate [with Him].",
             "description": [
                 "This contains a subtle allusion to the",
@@ -2164,14 +2165,14 @@
             ]
         },
         {
-            "id": "[23:93]",
+            "verse-id": "[23:93]",
             "verse": "Say, [O Muhammad], \"My Lord, if You should show me that which they are promised,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:94]",
+            "verse-id": "[23:94]",
             "verse": "My Lord, then do not place me among the wrongdoing people.\"",
             "description": [
                 "This prayer dces not mean that, God",
@@ -2201,28 +2202,28 @@
             ]
         },
         {
-            "id": "[23:95]",
+            "verse-id": "[23:95]",
             "verse": "And indeed, We are able to show you what We have promised them.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:96]",
+            "verse-id": "[23:96]",
             "verse": "Repel, by [means of] what is best, [their] evil. We are most knowing of what they describe.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:97]",
+            "verse-id": "[23:97]",
             "verse": "And say, \"My Lord, I seek refuge in You from the incitements of the devils,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:98]",
+            "verse-id": "[23:98]",
             "verse": "And I seek refuge in You, my Lord, lest they be present with me.\"",
             "description": [
                 "For explanation, see E.N.'s 71, 72 of",
@@ -2236,7 +2237,7 @@
             ]
         },
         {
-            "id": "[23:99]",
+            "verse-id": "[23:99]",
             "verse": "[For such is the state of the disbelievers], until, when death comes to one of them, he says, \"My Lord, send me back",
             "description": [
                 "In the original Text plural number has",
@@ -2248,7 +2249,7 @@
             ]
         },
         {
-            "id": "[23:100]",
+            "verse-id": "[23:100]",
             "verse": "That I might do righteousness in that which I left behind.\" No! It is only a word he is saying; and behind them is a barrier until the Day they are resurrected.",
             "description": [
                 "It occurs at several places in the",
@@ -2289,7 +2290,7 @@
             ]
         },
         {
-            "id": "[23:101]",
+            "verse-id": "[23:101]",
             "verse": "So when the Horn is blown, no relationship will there be among them that Day, nor will they ask about one another.",
             "description": [
                 "It dces not mean that the father",
@@ -2305,7 +2306,7 @@
             ]
         },
         {
-            "id": "[23:102]",
+            "verse-id": "[23:102]",
             "verse": "And those whose scales are heavy [with good deeds] - it is they who are the successful.",
             "description": [
                 "That is, those whose good deeds will",
@@ -2314,7 +2315,7 @@
             ]
         },
         {
-            "id": "[23:103]",
+            "verse-id": "[23:103]",
             "verse": "But those whose scales are light - those are the ones who have lost their souls, [being] in Hell, abiding eternally.",
             "description": [
                 "For the criterion of \"success\" and \"failure\"",
@@ -2323,7 +2324,7 @@
             ]
         },
         {
-            "id": "[23:104]",
+            "verse-id": "[23:104]",
             "verse": "The Fire will sear their faces, and they therein will have taut smiles.",
             "description": [
                 "The word kalih means a face whose",
@@ -2335,28 +2336,28 @@
             ]
         },
         {
-            "id": "[23:105]",
+            "verse-id": "[23:105]",
             "verse": "[It will be said]. \"Were not My verses recited to you and you used to deny them?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:106]",
+            "verse-id": "[23:106]",
             "verse": "They will say, \"Our Lord, our wretchedness overcame us, and we were a people astray.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:107]",
+            "verse-id": "[23:107]",
             "verse": "Our Lord, remove us from it, and if we were to return [to evil], we would indeed be wrongdoers.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:108]",
+            "verse-id": "[23:108]",
             "verse": "He will say, \"Remain despised therein and do not speak to Me.",
             "description": [
                 "\"....do not speak to Me\" \"...do not",
@@ -2371,21 +2372,21 @@
             ]
         },
         {
-            "id": "[23:109]",
+            "verse-id": "[23:109]",
             "verse": "Indeed, there was a party of My servants who said, 'Our Lord, we have believed, so forgive us and have mercy upon us, and You are the best of the merciful.'",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:110]",
+            "verse-id": "[23:110]",
             "verse": "But you took them in mockery to the point that they made you forget My remembrance, and you used to laugh at them.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:111]",
+            "verse-id": "[23:111]",
             "verse": "Indeed, I have rewarded them this Day for their patient endurance - that they are the attainers [of success].\"",
             "description": [
                 "This is again a reference to those",
@@ -2394,14 +2395,14 @@
             ]
         },
         {
-            "id": "[23:112]",
+            "verse-id": "[23:112]",
             "verse": "[Allah] will say, \"How long did you remain on earth in number of years?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[23:113]",
+            "verse-id": "[23:113]",
             "verse": "They will say, \"We remained a day or part of a day; ask those who enumerate.\"",
             "description": [
                 "For explanation, see Ta Ha (XX): 103",
@@ -2409,7 +2410,7 @@
             ]
         },
         {
-            "id": "[23:114]",
+            "verse-id": "[23:114]",
             "verse": "He will say, \"You stayed not but a little - if only you had known.",
             "description": [
                 "That is, \"Our Messengers warned you that",
@@ -2422,7 +2423,7 @@
             ]
         },
         {
-            "id": "[23:115]",
+            "verse-id": "[23:115]",
             "verse": "Then did you think that We created you uselessly and that to Us you would not be returned?\"",
             "description": [
                 "The Arabic word `abathan in the Text",
@@ -2437,7 +2438,7 @@
             ]
         },
         {
-            "id": "[23:116]",
+            "verse-id": "[23:116]",
             "verse": "So exalted is Allah, the Sovereign, the Truth; there is no deity except Him, Lord of the Noble Throne.",
             "description": [
                 "Allah is above this that He should",
@@ -2447,7 +2448,7 @@
             ]
         },
         {
-            "id": "[23:117]",
+            "verse-id": "[23:117]",
             "verse": "And whoever invokes besides Allah another deity for which he has no proof - then his account is only with his Lord. Indeed, the disbelievers will not succeed.",
             "description": [
                 "It may also be translated as: \"The",
@@ -2463,7 +2464,7 @@
             ]
         },
         {
-            "id": "[23:118]",
+            "verse-id": "[23:118]",
             "verse": "And, [O Muhammad], say, \"My Lord, forgive and have mercy, and You are the best of the merciful.\"",
             "description": [
                 "Compare and contrast this \"prayer\" with verse",

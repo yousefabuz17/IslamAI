@@ -1,30 +1,31 @@
 {
     "name": "At-Tariq",
+    "id": 86,
     "verse-count": 17,
     "verse-info": [
         {
-            "id": "[86:1]",
+            "verse-id": "[86:1]",
             "verse": "By the sky and the night comer -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[86:2]",
+            "verse-id": "[86:2]",
             "verse": "And what can make you know what is the night comer?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[86:3]",
+            "verse-id": "[86:3]",
             "verse": "It is the piercing star -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[86:4]",
+            "verse-id": "[86:4]",
             "verse": "There is no soul but that it has over it a protector.",
             "description": [
                 "\"A Guardian\": Allah Almighty Himself, Who is",
@@ -57,7 +58,7 @@
             ]
         },
         {
-            "id": "[86:5]",
+            "verse-id": "[86:5]",
             "verse": "So let man observe from what he was created.",
             "description": [
                 "After making man ponder over the heavens,",
@@ -90,14 +91,14 @@
             ]
         },
         {
-            "id": "[86:6]",
+            "verse-id": "[86:6]",
             "verse": "He was created from a fluid, ejected,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[86:7]",
+            "verse-id": "[86:7]",
             "verse": "Emerging from between the backbone and the ribs.",
             "description": [
                 "\"Sulb\" is the backbone and \"tara'ib\"the breast-",
@@ -123,7 +124,7 @@
             ]
         },
         {
-            "id": "[86:8]",
+            "verse-id": "[86:8]",
             "verse": "Indeed, Allah, to return him [to life], is Able.",
             "description": [
                 "That is, His bringing tnan into existence",
@@ -164,7 +165,7 @@
             ]
         },
         {
-            "id": "[86:9]",
+            "verse-id": "[86:9]",
             "verse": "The Day when secrets will be put on trial,",
             "description": [
                 "\"The hidden secrets\": the acts of every",
@@ -196,14 +197,14 @@
             ]
         },
         {
-            "id": "[86:10]",
+            "verse-id": "[86:10]",
             "verse": "Then man will have no power or any helper.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[86:11]",
+            "verse-id": "[86:11]",
             "verse": "By the sky which returns [rain]",
             "description": [
                 "The words dhat ar-raj`e have been used",
@@ -221,21 +222,21 @@
             ]
         },
         {
-            "id": "[86:12]",
+            "verse-id": "[86:12]",
             "verse": "And [by] the earth which cracks open,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[86:13]",
+            "verse-id": "[86:13]",
             "verse": "Indeed, the Qur'an is a decisive statement,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[86:14]",
+            "verse-id": "[86:14]",
             "verse": "And it is not amusement.",
             "description": [
                 "That is, just as the falling of",
@@ -250,7 +251,7 @@
             ]
         },
         {
-            "id": "[86:15]",
+            "verse-id": "[86:15]",
             "verse": "Indeed, they are planning a plan,",
             "description": [
                 "That is, these disbelievers are devising every",
@@ -267,7 +268,7 @@
             ]
         },
         {
-            "id": "[86:16]",
+            "verse-id": "[86:16]",
             "verse": "But I am planning a plan.",
             "description": [
                 "That is, \"I am planning that none",
@@ -279,7 +280,7 @@
             ]
         },
         {
-            "id": "[86:17]",
+            "verse-id": "[86:17]",
             "verse": "So allow time for the disbelievers. Leave them awhile.",
             "description": [
                 "That is, \"Leave them for a while",

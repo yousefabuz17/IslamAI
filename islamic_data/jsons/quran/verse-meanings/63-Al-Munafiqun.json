@@ -1,9 +1,10 @@
 {
     "name": "Al-Munafiqun",
+    "id": 63,
     "verse-count": 11,
     "verse-info": [
         {
-            "id": "[63:1]",
+            "verse-id": "[63:1]",
             "verse": "When the hypocrites come to you, [O Muhammad], they say, \"We testify that you are the Messenger of Allah.\" And Allah knows that you are His Messenger, and Allah testifies that the hypocrites are liars.",
             "description": [
                 "That is, \"Although the thing they. are",
@@ -52,7 +53,7 @@
             ]
         },
         {
-            "id": "[63:2]",
+            "verse-id": "[63:2]",
             "verse": "They have taken their oaths as a cover, so they averted [people] from the way of Allah. Indeed, it was evil that they were doing.",
             "description": [
                 "That is, they use the oaths that",
@@ -124,7 +125,7 @@
             ]
         },
         {
-            "id": "[63:3]",
+            "verse-id": "[63:3]",
             "verse": "That is because they believed, and then they disbelieved; so their hearts were sealed over, and they do not understand.",
             "description": [
                 "In this verse \"believing\" means professing the",
@@ -167,7 +168,7 @@
             ]
         },
         {
-            "id": "[63:4]",
+            "verse-id": "[63:4]",
             "verse": "And when you see them, their forms please you, and if they speak, you listen to their speech. [They are] as if they were pieces of wood propped up - they think that every shout is against them. They are the enemy, so beware of them. May Allah destroy them; how are they deluded?",
             "description": [
                 "Hadrat 'Abdullah bin 'Abbas has stated that",
@@ -246,7 +247,7 @@
             ]
         },
         {
-            "id": "[63:5]",
+            "verse-id": "[63:5]",
             "verse": "And when it is said to them, \"Come, the Messenger of Allah will ask forgiveness for you,\" they turn their heads aside and you see them evading while they are arrogant.",
             "description": [
                 "That is, they not only refuse to",
@@ -261,7 +262,7 @@
             ]
         },
         {
-            "id": "[63:6]",
+            "verse-id": "[63:6]",
             "verse": "It is all the same for them whether you ask forgiveness for them or do not ask forgiveness for them; never will Allah forgive them. Indeed, Allah does not guide the defiantly disobedient people.",
             "description": [
                 "This thing was reiterated in Surah At-Taubah,",
@@ -306,14 +307,14 @@
             ]
         },
         {
-            "id": "[63:7]",
+            "verse-id": "[63:7]",
             "verse": "They are the ones who say, \"Do not spend on those who are with the Messenger of Allah until they disband.\" And to Allah belongs the depositories of the heavens and the earth, but the hypocrites do not understand.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[63:8]",
+            "verse-id": "[63:8]",
             "verse": "They say, \"If we return to al-Madinah, the more honored [for power] will surely expel therefrom the more humble.\" And to Allah belongs [all] honor, and to His Messenger, and to the believers, but the hypocrites do not know.",
             "description": [
                 "Hadrat Zaid bin Arqam says: \"When I",
@@ -345,7 +346,7 @@
             ]
         },
         {
-            "id": "[63:9]",
+            "verse-id": "[63:9]",
             "verse": "O you who have believed, let not your wealth and your children divert you from remembrance of Allah. And whoever does that - then those are the losers.",
             "description": [
                 "Now a word of admonition is being",
@@ -390,14 +391,14 @@
             ]
         },
         {
-            "id": "[63:10]",
+            "verse-id": "[63:10]",
             "verse": "And spend [in the way of Allah] from what We have provided you before death approaches one of you and he says, \"My Lord, if only You would delay me for a brief term so I would give charity and be among the righteous.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[63:11]",
+            "verse-id": "[63:11]",
             "verse": "But never will Allah delay a soul when its time has come. And Allah is Acquainted with what you do.",
             "description": [
                 ""

@@ -1,9 +1,10 @@
 {
     "name": "Al-Balad",
+    "id": 90,
     "verse-count": 20,
     "verse-info": [
         {
-            "id": "[90:1]",
+            "verse-id": "[90:1]",
             "verse": "I swear by this city, Makkah -",
             "description": [
                 "As we have explained in E.N.1 of",
@@ -54,7 +55,7 @@
             ]
         },
         {
-            "id": "[90:2]",
+            "verse-id": "[90:2]",
             "verse": "And you, [O Muhammad], are free of restriction in this city -",
             "description": [
                 "Three meanings of the words in the",
@@ -83,7 +84,7 @@
             ]
         },
         {
-            "id": "[90:3]",
+            "verse-id": "[90:3]",
             "verse": "And [by] the father and that which was born [of him],",
             "description": [
                 "As the words \"father and children he",
@@ -96,7 +97,7 @@
             ]
         },
         {
-            "id": "[90:4]",
+            "verse-id": "[90:4]",
             "verse": "We have certainly created man into hardship.",
             "description": [
                 "This is that for which the oaths",
@@ -157,7 +158,7 @@
             ]
         },
         {
-            "id": "[90:5]",
+            "verse-id": "[90:5]",
             "verse": "Does he think that never will anyone overcome him?",
             "description": [
                 "That is: Is man, who is ever",
@@ -190,7 +191,7 @@
             ]
         },
         {
-            "id": "[90:6]",
+            "verse-id": "[90:6]",
             "verse": "He says, \"I have spent wealth in abundance.\"",
             "description": [
                 "Literally: \"I have destroyed heaps of wealth\",",
@@ -227,7 +228,7 @@
             ]
         },
         {
-            "id": "[90:7]",
+            "verse-id": "[90:7]",
             "verse": "Does he think that no one has seen him?",
             "description": [
                 "That is, \"Doesn't this boaster understand that",
@@ -244,14 +245,14 @@
             ]
         },
         {
-            "id": "[90:8]",
+            "verse-id": "[90:8]",
             "verse": "Have We not made for him two eyes?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[90:9]",
+            "verse-id": "[90:9]",
             "verse": "And a tongue and two lips?",
             "description": [
                 "That is, \"\"Have We not given him",
@@ -271,7 +272,7 @@
             ]
         },
         {
-            "id": "[90:10]",
+            "verse-id": "[90:10]",
             "verse": "And have shown him the two ways?",
             "description": [
                 "That is, \"We have not left him",
@@ -295,7 +296,7 @@
             ]
         },
         {
-            "id": "[90:11]",
+            "verse-id": "[90:11]",
             "verse": "But he has not broken through the difficult pass.",
             "description": [
                 "The words in the original are: fa-lagtaham-al-",
@@ -320,35 +321,35 @@
             ]
         },
         {
-            "id": "[90:12]",
+            "verse-id": "[90:12]",
             "verse": "And what can make you know what is [breaking through] the difficult pass?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[90:13]",
+            "verse-id": "[90:13]",
             "verse": "It is the freeing of a slave",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[90:14]",
+            "verse-id": "[90:14]",
             "verse": "Or feeding on a day of severe hunger",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[90:15]",
+            "verse-id": "[90:15]",
             "verse": "An orphan of near relationship",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[90:16]",
+            "verse-id": "[90:16]",
             "verse": "Or a needy person in misery",
             "description": [
                 "Since in the foregoing verses the extravagances",
@@ -469,7 +470,7 @@
             ]
         },
         {
-            "id": "[90:17]",
+            "verse-id": "[90:17]",
             "verse": "And then being among those who believed and advised one another to patience and advised one another to compassion.",
             "description": [
                 "That is, \"In addition to these qualities",
@@ -665,14 +666,14 @@
             ]
         },
         {
-            "id": "[90:18]",
+            "verse-id": "[90:18]",
             "verse": "Those are the companions of the right.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[90:19]",
+            "verse-id": "[90:19]",
             "verse": "But they who disbelieved in Our signs - those are the companions of the left.",
             "description": [
                 "For an explanation of \"the people of",
@@ -682,7 +683,7 @@
             ]
         },
         {
-            "id": "[90:20]",
+            "verse-id": "[90:20]",
             "verse": "Over them will be fire closed in.",
             "description": [
                 "That is, fire will be so covering",

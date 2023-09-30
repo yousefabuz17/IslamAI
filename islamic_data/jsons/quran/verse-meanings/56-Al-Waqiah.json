@@ -1,16 +1,17 @@
 {
     "name": "Al-Waqiah",
+    "id": 56,
     "verse-count": 96,
     "verse-info": [
         {
-            "id": "[56:1]",
+            "verse-id": "[56:1]",
             "verse": "When the Occurrence occurs,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:2]",
+            "verse-id": "[56:2]",
             "verse": "There is, at its occurrence, no denial.",
             "description": [
                 "Opening the discourse with this sentece by",
@@ -64,7 +65,7 @@
             ]
         },
         {
-            "id": "[56:3]",
+            "verse-id": "[56:3]",
             "verse": "It will bring down [some] and raise up [others].",
             "description": [
                 "Literally: \"that which causes (something or somebody",
@@ -84,7 +85,7 @@
             ]
         },
         {
-            "id": "[56:4]",
+            "verse-id": "[56:4]",
             "verse": "When the earth is shaken with convulsion",
             "description": [
                 "That is, it will not be a",
@@ -96,21 +97,21 @@
             ]
         },
         {
-            "id": "[56:5]",
+            "verse-id": "[56:5]",
             "verse": "And the mountains are broken down, crumbling",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:6]",
+            "verse-id": "[56:6]",
             "verse": "And become dust dispersing.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:7]",
+            "verse-id": "[56:7]",
             "verse": "And you become [of] three kinds:",
             "description": [
                 "Although the address apparently is directed to",
@@ -126,7 +127,7 @@
             ]
         },
         {
-            "id": "[56:8]",
+            "verse-id": "[56:8]",
             "verse": "Then the companions of the right - what are the companions of the right?",
             "description": [
                 "The word maintanah in ashab al-maimanah, in",
@@ -149,7 +150,7 @@
             ]
         },
         {
-            "id": "[56:9]",
+            "verse-id": "[56:9]",
             "verse": "And the companions of the left - what are the companions of the left?",
             "description": [
                 "The word mash 'amah in ashab al-mash'amah,",
@@ -172,7 +173,7 @@
             ]
         },
         {
-            "id": "[56:10]",
+            "verse-id": "[56:10]",
             "verse": "And the forerunners, the forerunners -",
             "description": [
                 "Sabiqin (the Foremost) implies the people who",
@@ -215,28 +216,28 @@
             ]
         },
         {
-            "id": "[56:11]",
+            "verse-id": "[56:11]",
             "verse": "Those are the ones brought near [to Allah]",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:12]",
+            "verse-id": "[56:12]",
             "verse": "In the Gardens of Pleasure,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:13]",
+            "verse-id": "[56:13]",
             "verse": "A [large] company of the former peoples",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:14]",
+            "verse-id": "[56:14]",
             "verse": "And a few of the later peoples,",
             "description": [
                 "The commentators have differed as to who",
@@ -299,21 +300,21 @@
             ]
         },
         {
-            "id": "[56:15]",
+            "verse-id": "[56:15]",
             "verse": "On thrones woven [with ornament],",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:16]",
+            "verse-id": "[56:16]",
             "verse": "Reclining on them, facing each other.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:17]",
+            "verse-id": "[56:17]",
             "verse": "There will circulate among them young boys made eternal",
             "description": [
                 "This implies boys who will ever remain",
@@ -343,14 +344,14 @@
             ]
         },
         {
-            "id": "[56:18]",
+            "verse-id": "[56:18]",
             "verse": "With vessels, pitchers and a cup [of wine] from a flowing spring -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:19]",
+            "verse-id": "[56:19]",
             "verse": "No headache will they have therefrom, nor will they be intoxicated -",
             "description": [
                 "For explanation, see E. N . 27",
@@ -360,14 +361,14 @@
             ]
         },
         {
-            "id": "[56:20]",
+            "verse-id": "[56:20]",
             "verse": "And fruit of what they select",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:21]",
+            "verse-id": "[56:21]",
             "verse": "And the meat of fowl, from whatever they desire.",
             "description": [
                 "For explanation, see E.N. 17 of Surah",
@@ -375,14 +376,14 @@
             ]
         },
         {
-            "id": "[56:22]",
+            "verse-id": "[56:22]",
             "verse": "And [for them are] fair women with large, [beautiful] eyes,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:23]",
+            "verse-id": "[56:23]",
             "verse": "The likenesses of pearls well-protected,",
             "description": [
                 "For explanation, see E.N.'s 28, 29 of",
@@ -391,14 +392,14 @@
             ]
         },
         {
-            "id": "[56:24]",
+            "verse-id": "[56:24]",
             "verse": "As reward for what they used to do.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:25]",
+            "verse-id": "[56:25]",
             "verse": "They will not hear therein ill speech or commission of sin -",
             "description": [
                 "This is one of the major blessings",
@@ -421,7 +422,7 @@
             ]
         },
         {
-            "id": "[56:26]",
+            "verse-id": "[56:26]",
             "verse": "Only a saying: \"Peace, peace.\"",
             "description": [
                 "Some commentators and translators have taken the",
@@ -439,14 +440,14 @@
             ]
         },
         {
-            "id": "[56:27]",
+            "verse-id": "[56:27]",
             "verse": "The companions of the right - what are the companions of the right?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:28]",
+            "verse-id": "[56:28]",
             "verse": "[They will be] among lote trees with thorns removed",
             "description": [
                 "That is, lote-trees without thorns on them.",
@@ -458,28 +459,28 @@
             ]
         },
         {
-            "id": "[56:29]",
+            "verse-id": "[56:29]",
             "verse": "And [banana] trees layered [with fruit]",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:30]",
+            "verse-id": "[56:30]",
             "verse": "And shade extended",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:31]",
+            "verse-id": "[56:31]",
             "verse": "And water poured out",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:32]",
+            "verse-id": "[56:32]",
             "verse": "And fruit, abundant [and varied],",
             "description": [
                 "The word !a maqtu ah of the",
@@ -501,28 +502,28 @@
             ]
         },
         {
-            "id": "[56:33]",
+            "verse-id": "[56:33]",
             "verse": "Neither limited [to season] nor forbidden,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:34]",
+            "verse-id": "[56:34]",
             "verse": "And [upon] beds raised high.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:35]",
+            "verse-id": "[56:35]",
             "verse": "Indeed, We have produced the women of Paradise in a [new] creation",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:36]",
+            "verse-id": "[56:36]",
             "verse": "And made them virgins,",
             "description": [
                 "This signifies the virtuous women of the",
@@ -584,7 +585,7 @@
             ]
         },
         {
-            "id": "[56:37]",
+            "verse-id": "[56:37]",
             "verse": "Devoted [to their husbands] and of equal age,",
             "description": [
                 "The word 'uruban is used for the",
@@ -621,63 +622,63 @@
             ]
         },
         {
-            "id": "[56:38]",
+            "verse-id": "[56:38]",
             "verse": "For the companions of the right [who are]",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:39]",
+            "verse-id": "[56:39]",
             "verse": "A company of the former peoples",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:40]",
+            "verse-id": "[56:40]",
             "verse": "And a company of the later peoples.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:41]",
+            "verse-id": "[56:41]",
             "verse": "And the companions of the left - what are the companions of the left?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:42]",
+            "verse-id": "[56:42]",
             "verse": "[They will be] in scorching fire and scalding water",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:43]",
+            "verse-id": "[56:43]",
             "verse": "And a shade of black smoke,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:44]",
+            "verse-id": "[56:44]",
             "verse": "Neither cool nor beneficial.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:45]",
+            "verse-id": "[56:45]",
             "verse": "Indeed they were, before that, indulging in affluence,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:46]",
+            "verse-id": "[56:46]",
             "verse": "And they used to persist in the great violation,",
             "description": [
                 "That is, \"Their prosperity had an adverse",
@@ -691,42 +692,42 @@
             ]
         },
         {
-            "id": "[56:47]",
+            "verse-id": "[56:47]",
             "verse": "And they used to say, \"When we die and become dust and bones, are we indeed to be resurrected?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:48]",
+            "verse-id": "[56:48]",
             "verse": "And our forefathers [as well]?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:49]",
+            "verse-id": "[56:49]",
             "verse": "Say, [O Muhammad], \"Indeed, the former and the later peoples",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:50]",
+            "verse-id": "[56:50]",
             "verse": "Are to be gathered together for the appointment of a known Day.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:51]",
+            "verse-id": "[56:51]",
             "verse": "Then indeed you, O those astray [who are] deniers,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:52]",
+            "verse-id": "[56:52]",
             "verse": "Will be eating from trees of zaqqum",
             "description": [
                 "For the explanation of zaqqum, sec E.N.",
@@ -734,35 +735,35 @@
             ]
         },
         {
-            "id": "[56:53]",
+            "verse-id": "[56:53]",
             "verse": "And filling with it your bellies",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:54]",
+            "verse-id": "[56:54]",
             "verse": "And drinking on top of it from scalding water",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:55]",
+            "verse-id": "[56:55]",
             "verse": "And will drink as the drinking of thirsty camels.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:56]",
+            "verse-id": "[56:56]",
             "verse": "That is their accommodation on the Day of Recompense.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:57]",
+            "verse-id": "[56:57]",
             "verse": "We have created you, so why do you not believe?",
             "description": [
                 "The arguments from here to verse 74",
@@ -780,14 +781,14 @@
             ]
         },
         {
-            "id": "[56:58]",
+            "verse-id": "[56:58]",
             "verse": "Have you seen that which you emit?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:59]",
+            "verse-id": "[56:59]",
             "verse": "Is it you who creates it, or are We the Creator?",
             "description": [
                 "In this brief sentence a very important",
@@ -881,7 +882,7 @@
             ]
         },
         {
-            "id": "[56:60]",
+            "verse-id": "[56:60]",
             "verse": "We have decreed death among you, and We are not to be outdone",
             "description": [
                 "That is, \"Like yow birth yow death",
@@ -907,7 +908,7 @@
             ]
         },
         {
-            "id": "[56:61]",
+            "verse-id": "[56:61]",
             "verse": "In that We will change your likenesses and produce you in that [form] which you do not know.",
             "description": [
                 "That is, \"Just as We were not",
@@ -978,7 +979,7 @@
             ]
         },
         {
-            "id": "[56:62]",
+            "verse-id": "[56:62]",
             "verse": "And you have already known the first creation, so will you not remember?",
             "description": [
                 "That is, \"You already know how you",
@@ -1010,14 +1011,14 @@
             ]
         },
         {
-            "id": "[56:63]",
+            "verse-id": "[56:63]",
             "verse": "And have you seen that [seed] which you sow?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:64]",
+            "verse-id": "[56:64]",
             "verse": "Is it you who makes it grow, or are We the grower?",
             "description": [
                 "The above question drew the people's attention",
@@ -1080,35 +1081,35 @@
             ]
         },
         {
-            "id": "[56:65]",
+            "verse-id": "[56:65]",
             "verse": "If We willed, We could make it [dry] debris, and you would remain in wonder,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:66]",
+            "verse-id": "[56:66]",
             "verse": "[Saying], \"Indeed, we are [now] in debt;",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:67]",
+            "verse-id": "[56:67]",
             "verse": "Rather, we have been deprived.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:68]",
+            "verse-id": "[56:68]",
             "verse": "And have you seen the water that you drink?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:69]",
+            "verse-id": "[56:69]",
             "verse": "Is it you who brought it down from the clouds, or is it We who bring it down?",
             "description": [
                 "That is, \"We have not only made",
@@ -1145,7 +1146,7 @@
             ]
         },
         {
-            "id": "[56:70]",
+            "verse-id": "[56:70]",
             "verse": "If We willed, We could make it bitter, so why are you not grateful?",
             "description": [
                 "In this sentence an important manifestation of",
@@ -1211,14 +1212,14 @@
             ]
         },
         {
-            "id": "[56:71]",
+            "verse-id": "[56:71]",
             "verse": "And have you seen the fire that you ignite?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:72]",
+            "verse-id": "[56:72]",
             "verse": "Is it you who produced its tree, or are We the producer?",
             "description": [
                 "The tree here either implies the tree",
@@ -1230,7 +1231,7 @@
             ]
         },
         {
-            "id": "[56:73]",
+            "verse-id": "[56:73]",
             "verse": "We have made it a reminder and provision for the travelers,",
             "description": [
                 "Making the fire \"a means of remembrance\"",
@@ -1273,7 +1274,7 @@
             ]
         },
         {
-            "id": "[56:74]",
+            "verse-id": "[56:74]",
             "verse": "So exalt the name of your Lord, the Most Great.",
             "description": [
                 "That is, \"Mention His blessed name and",
@@ -1287,7 +1288,7 @@
             ]
         },
         {
-            "id": "[56:75]",
+            "verse-id": "[56:75]",
             "verse": "Then I swear by the setting of the stars,",
             "description": [
                 "That is, \"The truth is not what",
@@ -1301,14 +1302,14 @@
             ]
         },
         {
-            "id": "[56:76]",
+            "verse-id": "[56:76]",
             "verse": "And indeed, it is an oath - if you could know - [most] great.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:77]",
+            "verse-id": "[56:77]",
             "verse": "Indeed, it is a noble Qur'an",
             "description": [
                 "\"The positions of the stars\" : the",
@@ -1345,7 +1346,7 @@
             ]
         },
         {
-            "id": "[56:78]",
+            "verse-id": "[56:78]",
             "verse": "In a Register well-protected;",
             "description": [
                 "This implies the well-guarded Tablet (leuh-mahfuz). For",
@@ -1365,7 +1366,7 @@
             ]
         },
         {
-            "id": "[56:79]",
+            "verse-id": "[56:79]",
             "verse": "None touch it except the purified.",
             "description": [
                 "This is a refutation of the accusation",
@@ -1672,14 +1673,14 @@
             ]
         },
         {
-            "id": "[56:80]",
+            "verse-id": "[56:80]",
             "verse": "[It is] a revelation from the Lord of the worlds.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:81]",
+            "verse-id": "[56:81]",
             "verse": "Then is it to this statement that you are indifferent",
             "description": [
                 "Literally, idhan (from which mudhinun of the",
@@ -1691,7 +1692,7 @@
             ]
         },
         {
-            "id": "[56:82]",
+            "verse-id": "[56:82]",
             "verse": "And make [the thanks for] your provision that you deny [the Provider]?",
             "description": [
                 "In his commentary of taj `aluna rizqa-kum,",
@@ -1714,98 +1715,98 @@
             ]
         },
         {
-            "id": "[56:83]",
+            "verse-id": "[56:83]",
             "verse": "Then why, when the soul at death reaches the throat",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:84]",
+            "verse-id": "[56:84]",
             "verse": "And you are at that time looking on -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:85]",
+            "verse-id": "[56:85]",
             "verse": "And Our angels are nearer to him than you, but you do not see -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:86]",
+            "verse-id": "[56:86]",
             "verse": "Then why do you not, if you are not to be recompensed,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:87]",
+            "verse-id": "[56:87]",
             "verse": "Bring it back, if you should be truthful?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:88]",
+            "verse-id": "[56:88]",
             "verse": "And if the deceased was of those brought near to Allah,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:89]",
+            "verse-id": "[56:89]",
             "verse": "Then [for him is] rest and bounty and a garden of pleasure.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:90]",
+            "verse-id": "[56:90]",
             "verse": "And if he was of the companions of the right,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:91]",
+            "verse-id": "[56:91]",
             "verse": "Then [the angels will say], \"Peace for you; [you are] from the companions of the right.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:92]",
+            "verse-id": "[56:92]",
             "verse": "But if he was of the deniers [who were] astray,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:93]",
+            "verse-id": "[56:93]",
             "verse": "Then [for him is] accommodation of scalding water",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:94]",
+            "verse-id": "[56:94]",
             "verse": "And burning in Hellfire",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:95]",
+            "verse-id": "[56:95]",
             "verse": "Indeed, this is the true certainty,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[56:96]",
+            "verse-id": "[56:96]",
             "verse": "So exalt the name of your Lord, the Most Great.",
             "description": [
                 "Hadrat `Uqbah bin `Amir Juhni relates that",

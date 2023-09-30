@@ -1,9 +1,10 @@
 {
     "name": "Ad-Dhuha",
+    "id": 93,
     "verse-count": 11,
     "verse-info": [
         {
-            "id": "[93:1]",
+            "verse-id": "[93:1]",
             "verse": "By the morning brightness",
             "description": [
                 "Here, the word duha has been used",
@@ -26,7 +27,7 @@
             ]
         },
         {
-            "id": "[93:2]",
+            "verse-id": "[93:2]",
             "verse": "And [by] the night when it covers with darkness,",
             "description": [
                 "The word raja in the original does",
@@ -38,7 +39,7 @@
             ]
         },
         {
-            "id": "[93:3]",
+            "verse-id": "[93:3]",
             "verse": "Your Lord has not taken leave of you, [O Muhammad], nor has He detested [you].",
             "description": [
                 "Traditions show that Revelations to the Holy",
@@ -142,7 +143,7 @@
             ]
         },
         {
-            "id": "[93:4]",
+            "verse-id": "[93:4]",
             "verse": "And the Hereafter is better for you than the first [life].",
             "description": [
                 "This good news was given by Allah",
@@ -180,7 +181,7 @@
             ]
         },
         {
-            "id": "[93:5]",
+            "verse-id": "[93:5]",
             "verse": "And your Lord is going to give you, and you will be satisfied.",
             "description": [
                 "That is \"Although it will take some",
@@ -223,7 +224,7 @@
             ]
         },
         {
-            "id": "[93:6]",
+            "verse-id": "[93:6]",
             "verse": "Did He not find you an orphan and give [you] refuge?",
             "description": [
                 "That is, \"There can be no question",
@@ -252,7 +253,7 @@
             ]
         },
         {
-            "id": "[93:7]",
+            "verse-id": "[93:7]",
             "verse": "And He found you lost and guided [you],",
             "description": [
                 "The word daallan as used in the",
@@ -323,7 +324,7 @@
             ]
         },
         {
-            "id": "[93:8]",
+            "verse-id": "[93:8]",
             "verse": "And He found you poor and made [you] self-sufficient.",
             "description": [
                 "The Holy Prophet's father had left only",
@@ -343,7 +344,7 @@
             ]
         },
         {
-            "id": "[93:9]",
+            "verse-id": "[93:9]",
             "verse": "So as for the orphan, do not oppress [him].",
             "description": [
                 "That is, \"As you yourself have been",
@@ -356,7 +357,7 @@
             ]
         },
         {
-            "id": "[93:10]",
+            "verse-id": "[93:10]",
             "verse": "And as for the petitioner, do not repel [him].",
             "description": [
                 "It has two meanings. (1) If sa",
@@ -389,7 +390,7 @@
             ]
         },
         {
-            "id": "[93:11]",
+            "verse-id": "[93:11]",
             "verse": "But as for the favor of your Lord, report [it].",
             "description": [
                 "The word ni 'mat . (bounty) is",

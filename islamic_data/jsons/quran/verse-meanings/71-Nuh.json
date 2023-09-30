@@ -1,9 +1,10 @@
 {
     "name": "Nuh",
+    "id": 71,
     "verse-count": 28,
     "verse-info": [
         {
-            "id": "[71:1]",
+            "verse-id": "[71:1]",
             "verse": "Indeed, We sent Noah to his people, [saying], \"Warn your people before there comes to them a painful punishment.\"",
             "description": [
                 "\"Warm your people ... \": Warn them",
@@ -16,14 +17,14 @@
             ]
         },
         {
-            "id": "[71:2]",
+            "verse-id": "[71:2]",
             "verse": "He said, \"O my people, indeed I am to you a clear warner,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[71:3]",
+            "verse-id": "[71:3]",
             "verse": "[Saying], 'Worship Allah, fear Him and obey me.",
             "description": [
                 "The three things which the Prophet Noah",
@@ -47,7 +48,7 @@
             ]
         },
         {
-            "id": "[71:4]",
+            "verse-id": "[71:4]",
             "verse": "Allah will forgive you of your sins and delay you for a specified term. Indeed, the time [set by] Allah, when it comes, will not be delayed, if you only knew.' \"",
             "description": [
                 "The sentence yaghfir la-kum min dhunub-i-kum in",
@@ -88,7 +89,7 @@
             ]
         },
         {
-            "id": "[71:5]",
+            "verse-id": "[71:5]",
             "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day.",
             "description": [
                 "Omitting the history of a long period",
@@ -99,7 +100,7 @@
             ]
         },
         {
-            "id": "[71:6]",
+            "verse-id": "[71:6]",
             "verse": "But my invitation increased them not except in flight.",
             "description": [
                 "That is, \"As I went on calling",
@@ -108,7 +109,7 @@
             ]
         },
         {
-            "id": "[71:7]",
+            "verse-id": "[71:7]",
             "verse": "And indeed, every time I invited them that You may forgive them, they put their fingers in their ears, covered themselves with their garments, persisted, and were arrogant with [great] arrogance.",
             "description": [
                 "\"That you might pardon them\": that they",
@@ -149,35 +150,35 @@
             ]
         },
         {
-            "id": "[71:8]",
+            "verse-id": "[71:8]",
             "verse": "Then I invited them publicly.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[71:9]",
+            "verse-id": "[71:9]",
             "verse": "Then I announced to them and [also] confided to them secretly",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[71:10]",
+            "verse-id": "[71:10]",
             "verse": "And said, 'Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[71:11]",
+            "verse-id": "[71:11]",
             "verse": "He will send [rain from] the sky upon you in [continuing] showers",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[71:12]",
+            "verse-id": "[71:12]",
             "verse": "And give you increase in wealth and children and provide for you gardens and provide for you rivers.",
             "description": [
                 "This theme has been expressed at several",
@@ -256,7 +257,7 @@
             ]
         },
         {
-            "id": "[71:13]",
+            "verse-id": "[71:13]",
             "verse": "What is [the matter] with you that you do not attribute to Allah [due] grandeur",
             "description": [
                 "It means: \"As for the petty chiefs",
@@ -273,7 +274,7 @@
             ]
         },
         {
-            "id": "[71:14]",
+            "verse-id": "[71:14]",
             "verse": "While He has created you in stages?",
             "description": [
                 "That is, \"He has brought you to",
@@ -319,21 +320,21 @@
             ]
         },
         {
-            "id": "[71:15]",
+            "verse-id": "[71:15]",
             "verse": "Do you not consider how Allah has created seven heavens in layers",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[71:16]",
+            "verse-id": "[71:16]",
             "verse": "And made the moon therein a [reflected] light and made the sun a burning lamp?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[71:17]",
+            "verse-id": "[71:17]",
             "verse": "And Allah has caused you to grow from the earth a [progressive] growth.",
             "description": [
                 "Here, the creation of man out of",
@@ -347,35 +348,35 @@
             ]
         },
         {
-            "id": "[71:18]",
+            "verse-id": "[71:18]",
             "verse": "Then He will return you into it and extract you [another] extraction.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[71:19]",
+            "verse-id": "[71:19]",
             "verse": "And Allah has made for you the earth an expanse",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[71:20]",
+            "verse-id": "[71:20]",
             "verse": "That you may follow therein roads of passage.' \"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[71:21]",
+            "verse-id": "[71:21]",
             "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[71:22]",
+            "verse-id": "[71:22]",
             "verse": "And they conspired an immense conspiracy.",
             "description": [
                 "\"Mighty plot\": AlI those deceits, deceptions and",
@@ -409,7 +410,7 @@
             ]
         },
         {
-            "id": "[71:23]",
+            "verse-id": "[71:23]",
             "verse": "And said, 'Never leave your gods and never leave Wadd or Suwa' or Yaghuth and Ya'uq and Nasr.",
             "description": [
                 "Of the gods of the Prophet Noah's",
@@ -467,7 +468,7 @@
             ]
         },
         {
-            "id": "[71:24]",
+            "verse-id": "[71:24]",
             "verse": "And already they have misled many. And, [my Lord], do not increase the wrongdoers except in error.\"",
             "description": [
                 "As we have explained in the introduction",
@@ -496,7 +497,7 @@
             ]
         },
         {
-            "id": "[71:25]",
+            "verse-id": "[71:25]",
             "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allah [any] helpers.",
             "description": [
                 "That is, \"Drowning was not their end,",
@@ -522,21 +523,21 @@
             ]
         },
         {
-            "id": "[71:26]",
+            "verse-id": "[71:26]",
             "verse": "And Noah said, \"My Lord, do not leave upon the earth from among the disbelievers an inhabitant.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[71:27]",
+            "verse-id": "[71:27]",
             "verse": "Indeed, if You leave them, they will mislead Your servants and not beget except [every] wicked one and [confirmed] disbeliever.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[71:28]",
+            "verse-id": "[71:28]",
             "verse": "My Lord, forgive me and my parents and whoever enters my house a believer and the believing men and believing women. And do not increase the wrongdoers except in destruction.\"",
             "description": [
                 ""

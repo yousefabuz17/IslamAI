@@ -1,23 +1,24 @@
 {
     "name": "Ar-Rum",
+    "id": 30,
     "verse-count": 60,
     "verse-info": [
         {
-            "id": "[30:1]",
+            "verse-id": "[30:1]",
             "verse": "Alif, Lam, Meem.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[30:2]",
+            "verse-id": "[30:2]",
             "verse": "The Byzantines have been defeated",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[30:3]",
+            "verse-id": "[30:3]",
             "verse": "In the nearest land. But they, after their defeat, will overcome.",
             "description": [
                 "from what lbn `Abbas and the other",
@@ -81,7 +82,7 @@
             ]
         },
         {
-            "id": "[30:4]",
+            "verse-id": "[30:4]",
             "verse": "Within three to nine years. To Allah belongs the command before and after. And that day the believers will rejoice",
             "description": [
                 "That is, \"When the Iranians became victorious",
@@ -102,7 +103,7 @@
             ]
         },
         {
-            "id": "[30:5]",
+            "verse-id": "[30:5]",
             "verse": "In the victory of Allah. He gives victory to whom He wills, and He is the Exalted in Might, the Merciful.",
             "description": [
                 "Ibn 'Abbas, Abu Said Khudri, Sufyan Thauri;,",
@@ -121,14 +122,14 @@
             ]
         },
         {
-            "id": "[30:6]",
+            "verse-id": "[30:6]",
             "verse": "[It is] the promise of Allah. Allah does not fail in His promise, but most of the people do not know.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[30:7]",
+            "verse-id": "[30:7]",
             "verse": "They know what is apparent of the worldly life, but they, of the Hereafter, are unaware.",
             "description": [
                 "That is, \"Although there are plenty of",
@@ -146,7 +147,7 @@
             ]
         },
         {
-            "id": "[30:8]",
+            "verse-id": "[30:8]",
             "verse": "Do they not contemplate within themselves? Allah has not created the heavens and the earth and what is between them except in truth and for a specified term. And indeed, many of the people, in [the matter of] the meeting with their Lord, are disbelievers.",
             "description": [
                 "This in itself is a strong argument",
@@ -321,7 +322,7 @@
             ]
         },
         {
-            "id": "[30:9]",
+            "verse-id": "[30:9]",
             "verse": "Have they not traveled through the earth and observed how was the end of those before them? They were greater than them in power, and they plowed the earth and built it up more than they have built it up, and their messengers came to them with clear evidences. And Allah would not ever have wronged them, but they were wronging themselves.",
             "description": [
                 "This is an historical argument for the",
@@ -426,14 +427,14 @@
             ]
         },
         {
-            "id": "[30:10]",
+            "verse-id": "[30:10]",
             "verse": "Then the end of those who did evil was the worst [consequence] because they denied the signs of Allah and used to ridicule them.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[30:11]",
+            "verse-id": "[30:11]",
             "verse": "Allah begins creation; then He will repeat it; then to Him you will be returned.",
             "description": [
                 "Though this thing has been put forward",
@@ -452,7 +453,7 @@
             ]
         },
         {
-            "id": "[30:12]",
+            "verse-id": "[30:12]",
             "verse": "And the Day the Hour appears the criminals will be in despair.",
             "description": [
                 "\"The Hour\": the Hour of returning to",
@@ -498,7 +499,7 @@
             ]
         },
         {
-            "id": "[30:13]",
+            "verse-id": "[30:13]",
             "verse": "And there will not be for them among their [alleged] partners any intercessors, and they will [then] be disbelievers in their partners.",
             "description": [
                 "\"Associates\" (shuraka') includes three kinds of beings:",
@@ -547,7 +548,7 @@
             ]
         },
         {
-            "id": "[30:14]",
+            "verse-id": "[30:14]",
             "verse": "And the Day the Hour appears - that Day they will become separated.",
             "description": [
                 "That is, \"All communities and groups that",
@@ -615,7 +616,7 @@
             ]
         },
         {
-            "id": "[30:15]",
+            "verse-id": "[30:15]",
             "verse": "And as for those who had believed and done righteous deeds, they will be in a garden [of Paradise], delighted.",
             "description": [
                 "\"A Garden\": A garden of bliss and",
@@ -629,7 +630,7 @@
             ]
         },
         {
-            "id": "[30:16]",
+            "verse-id": "[30:16]",
             "verse": "But as for those who disbelieved and denied Our verses and the meeting of the Hereafter, those will be brought into the punishment [to remain].",
             "description": [
                 "One thing here is noteworthy. \"Good works\"",
@@ -645,7 +646,7 @@
             ]
         },
         {
-            "id": "[30:17]",
+            "verse-id": "[30:17]",
             "verse": "So exalted is Allah when you reach the evening and when you reach the morning.",
             "description": [
                 "\"So\", here, implies: \"When you have come",
@@ -694,7 +695,7 @@
             ]
         },
         {
-            "id": "[30:18]",
+            "verse-id": "[30:18]",
             "verse": "And to Him is [due all] praise throughout the heavens and the earth. And [exalted is He] at night and when you are at noon.",
             "description": [
                 "This verse clearly points to the times",
@@ -843,7 +844,7 @@
             ]
         },
         {
-            "id": "[30:19]",
+            "verse-id": "[30:19]",
             "verse": "He brings the living out of the dead and brings the dead out of the living and brings to life the earth after its lifelessness. And thus will you be brought out.",
             "description": [
                 "That is . \"How can that God",
@@ -872,7 +873,7 @@
             ]
         },
         {
-            "id": "[30:20]",
+            "verse-id": "[30:20]",
             "verse": "And of His signs is that He created you from dust; then, suddenly you were human beings dispersing [throughout the earth].",
             "description": [
                 "It should be noted that from here",
@@ -929,7 +930,7 @@
             ]
         },
         {
-            "id": "[30:21]",
+            "verse-id": "[30:21]",
             "verse": "And of His signs is that He created for you from yourselves mates that you may find tranquillity in them; and He placed between you affection and mercy. Indeed in that are signs for a people who give thought.",
             "description": [
                 "That is, \"The Creator's perfect wisdom is",
@@ -1071,7 +1072,7 @@
             ]
         },
         {
-            "id": "[30:22]",
+            "verse-id": "[30:22]",
             "verse": "And of His signs is the creation of the heavens and the earth and the diversity of your languages and your colors. Indeed in that are signs for those of knowledge.",
             "description": [
                 "That is, \"Their coming into existence from",
@@ -1161,7 +1162,7 @@
             ]
         },
         {
-            "id": "[30:23]",
+            "verse-id": "[30:23]",
             "verse": "And of His signs is your sleep by night and day and your seeking of His bounty. Indeed in that are signs for a people who listen.",
             "description": [
                 "\"To seek bounty\" is to seek the",
@@ -1244,7 +1245,7 @@
             ]
         },
         {
-            "id": "[30:24]",
+            "verse-id": "[30:24]",
             "verse": "And of His signs is [that] He shows you the lightning [causing] fear and aspiration, and He sends down rain from the sky by which He brings to life the earth after its lifelessness. Indeed in that are signs for a people who use reason.",
             "description": [
                 "That is, \"Its thunder and lightning give",
@@ -1293,7 +1294,7 @@
             ]
         },
         {
-            "id": "[30:25]",
+            "verse-id": "[30:25]",
             "verse": "And of His signs is that the heaven and earth remain by His command. Then when He calls you with a [single] call from the earth, immediately you will come forth.",
             "description": [
                 "That is, \"Not only have they come",
@@ -1318,14 +1319,14 @@
             ]
         },
         {
-            "id": "[30:26]",
+            "verse-id": "[30:26]",
             "verse": "And to Him belongs whoever is in the heavens and earth. All are to Him devoutly obedient.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[30:27]",
+            "verse-id": "[30:27]",
             "verse": "And it is He who begins creation; then He repeats it, and that is [even] easier for Him. To Him belongs the highest attribute in the heavens and earth. And He is the Exalted in Might, the Wise.",
             "description": [
                 "That is, \"If it was not difficult",
@@ -1342,7 +1343,7 @@
             ]
         },
         {
-            "id": "[30:28]",
+            "verse-id": "[30:28]",
             "verse": "He presents to you an example from yourselves. Do you have among those whom your right hands possess any partners in what We have provided for you so that you are equal therein [and] would fear them as your fear of one another [within a partnership]? Thus do We detail the verses for a people who use reason.",
             "description": [
                 "In the forgoing section, arguments have been",
@@ -1376,7 +1377,7 @@
             ]
         },
         {
-            "id": "[30:29]",
+            "verse-id": "[30:29]",
             "verse": "But those who wrong follow their [own] desires without knowledge. Then who can guide one whom Allah has sent astray? And for them there are no helpers.",
             "description": [
                 "That is, \"When a person neither thinks",
@@ -1400,7 +1401,7 @@
             ]
         },
         {
-            "id": "[30:30]",
+            "verse-id": "[30:30]",
             "verse": "So direct your face toward the religion, inclining to truth. [Adhere to] the fitrah of Allah upon which He has created [all] people. No change should there be in the creation of Allah. That is the correct religion, but most of the people do not know.",
             "description": [
                 "This \"so\" implies that when the reality",
@@ -1519,7 +1520,7 @@
             ]
         },
         {
-            "id": "[30:31]",
+            "verse-id": "[30:31]",
             "verse": "[Adhere to it], turning in repentance to Him, and fear Him and establish prayer and do not be of those who associate others with Allah",
             "description": [
                 "That is, \"Whoever has adopted an attitude",
@@ -1629,7 +1630,7 @@
             ]
         },
         {
-            "id": "[30:32]",
+            "verse-id": "[30:32]",
             "verse": "[Or] of those who have divided their religion and become sects, every faction rejoicing in what it has.",
             "description": [
                 "This is an allusion to the fact",
@@ -1661,7 +1662,7 @@
             ]
         },
         {
-            "id": "[30:33]",
+            "verse-id": "[30:33]",
             "verse": "And when adversity touches the people, they call upon their Lord, turning in repentance to Him. Then when He lets them taste mercy from Him, at once a party of them associate others with their Lord,",
             "description": [
                 "This is a clear proof of the",
@@ -1680,14 +1681,14 @@
             ]
         },
         {
-            "id": "[30:34]",
+            "verse-id": "[30:34]",
             "verse": "So that they will deny what We have granted them. Then enjoy yourselves, for you are going to know.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[30:35]",
+            "verse-id": "[30:35]",
             "verse": "Or have We sent down to them an authority, and it speaks of what they were associating with Him?",
             "description": [
                 "That is \"What authority have they got",
@@ -1703,7 +1704,7 @@
             ]
         },
         {
-            "id": "[30:36]",
+            "verse-id": "[30:36]",
             "verse": "And when We let the people taste mercy, they rejoice therein, but if evil afflicts them for what their hands have put forth, immediately they despair.",
             "description": [
                 "In the preceding verse tnan has been",
@@ -1726,7 +1727,7 @@
             ]
         },
         {
-            "id": "[30:37]",
+            "verse-id": "[30:37]",
             "verse": "Do they not see that Allah extends provision for whom He wills and restricts [it]? Indeed, in that are signs for a people who believe.",
             "description": [
                 "That is, \"The believers can learn how",
@@ -1752,7 +1753,7 @@
             ]
         },
         {
-            "id": "[30:38]",
+            "verse-id": "[30:38]",
             "verse": "So give the relative his right, as well as the needy and the traveler. That is best for those who desire the countenance of Allah, and it is they who will be the successful.",
             "description": [
                 "It has not been said: \"Give charity",
@@ -1833,7 +1834,7 @@
             ]
         },
         {
-            "id": "[30:39]",
+            "verse-id": "[30:39]",
             "verse": "And whatever you give for interest to increase within the wealth of people will not increase with Allah. But what you give in zakah, desiring the countenance of Allah - those are the multipliers.",
             "description": [
                 "This is the first verse revealed in",
@@ -1924,7 +1925,7 @@
             ]
         },
         {
-            "id": "[30:40]",
+            "verse-id": "[30:40]",
             "verse": "Allah is the one who created you, then provided for you, then will cause you to die, and then will give you life. Are there any of your \"partners\" who does anything of that? Exalted is He and high above what they associate with Him.",
             "description": [
                 "From here again the discourse turns to",
@@ -1947,7 +1948,7 @@
             ]
         },
         {
-            "id": "[30:41]",
+            "verse-id": "[30:41]",
             "verse": "Corruption has appeared throughout the land and sea by [reason of] what the hands of people have earned so He may let them taste part of [the consequence of] what they have done that perhaps they will return [to righteousness].",
             "description": [
                 "This is again an allusion to the",
@@ -1975,7 +1976,7 @@
             ]
         },
         {
-            "id": "[30:42]",
+            "verse-id": "[30:42]",
             "verse": "Say, [O Muhammad], \"Travel through the land and observe how was the end of those before. Most of them were associators [of others with Allah].",
             "description": [
                 "That is, \"The disastrous war between Byzantium",
@@ -1990,7 +1991,7 @@
             ]
         },
         {
-            "id": "[30:43]",
+            "verse-id": "[30:43]",
             "verse": "So direct your face toward the correct religion before a Day comes from Allah of which there is no repelling. That Day, they will be divided.",
             "description": [
                 "That is, \"The Day which neither Allah",
@@ -2000,7 +2001,7 @@
             ]
         },
         {
-            "id": "[30:44]",
+            "verse-id": "[30:44]",
             "verse": "Whoever disbelieves - upon him is [the consequence of] his disbelief. And whoever does righteousness - they are for themselves preparing,",
             "description": [
                 "This is a comprehensive sentence which encompasses",
@@ -2011,14 +2012,14 @@
             ]
         },
         {
-            "id": "[30:45]",
+            "verse-id": "[30:45]",
             "verse": "That He may reward those who have believed and done righteous deeds out of His bounty. Indeed, He does not like the disbelievers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[30:46]",
+            "verse-id": "[30:46]",
             "verse": "And of His signs is that He sends the winds as bringers of good tidings and to let you taste His mercy and so the ships may sail at His command and so you may seek of His bounty, and perhaps you will be grateful.",
             "description": [
                 "That is, to give good news of",
@@ -2036,7 +2037,7 @@
             ]
         },
         {
-            "id": "[30:47]",
+            "verse-id": "[30:47]",
             "verse": "And We have already sent messengers before you to their peoples, and they came to them with clear evidences; then We took retribution from those who committed crimes, and incumbent upon Us was support of the believers.",
             "description": [
                 "That is, \"One kind of the Signs",
@@ -2068,21 +2069,21 @@
             ]
         },
         {
-            "id": "[30:48]",
+            "verse-id": "[30:48]",
             "verse": "It is Allah who sends the winds, and they stir the clouds and spread them in the sky however He wills, and He makes them fragments so you see the rain emerge from within them. And when He causes it to fall upon whom He wills of His servants, immediately they rejoice",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[30:49]",
+            "verse-id": "[30:49]",
             "verse": "Although they were, before it was sent down upon them - before that, in despair.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[30:50]",
+            "verse-id": "[30:50]",
             "verse": "So observe the effects of the mercy of Allah - how He gives life to the earth after its lifelessness. Indeed, that [same one] will give life to the dead, and He is over all things competent.",
             "description": [
                 "There is a subtle allusion in the",
@@ -2107,7 +2108,7 @@
             ]
         },
         {
-            "id": "[30:51]",
+            "verse-id": "[30:51]",
             "verse": "But if We should send a [bad] wind and they saw [their crops] turned yellow, they would remain thereafter disbelievers.",
             "description": [
                 "That is, a frosty wind or a",
@@ -2133,7 +2134,7 @@
             ]
         },
         {
-            "id": "[30:52]",
+            "verse-id": "[30:52]",
             "verse": "So indeed, you will not make the dead hear, nor will you make the deaf hear the call when they turn their backs, retreating.",
             "description": [
                 "That is, those whose consciences have become",
@@ -2154,7 +2155,7 @@
             ]
         },
         {
-            "id": "[30:53]",
+            "verse-id": "[30:53]",
             "verse": "And you cannot guide the blind away from their error. You will only make hear those who believe in Our verses so they are Muslims [in submission to Allah].",
             "description": [
                 "That is, \"It is not for the",
@@ -2171,7 +2172,7 @@
             ]
         },
         {
-            "id": "[30:54]",
+            "verse-id": "[30:54]",
             "verse": "Allah is the one who created you from weakness, then made after weakness strength, then made after strength weakness and white hair. He creates what He wills, and He is the Knowing, the Competent.",
             "description": [
                 "That is, \"The states of childhood and",
@@ -2195,7 +2196,7 @@
             ]
         },
         {
-            "id": "[30:55]",
+            "verse-id": "[30:55]",
             "verse": "And the Day the Hour appears the criminals will swear they had remained but an hour. Thus they were deluded.",
             "description": [
                 "That is, Resurrection, which is being foretold",
@@ -2217,14 +2218,14 @@
             ]
         },
         {
-            "id": "[30:56]",
+            "verse-id": "[30:56]",
             "verse": "But those who were given knowledge and faith will say, \"You remained the extent of Allah 's decree until the Day of Resurrection, and this is the Day of Resurrection, but you did not used to know.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[30:57]",
+            "verse-id": "[30:57]",
             "verse": "So that Day, their excuse will not benefit those who wronged, nor will they be asked to appease [Allah].",
             "description": [
                 "Another translation can be:\". .nor it will",
@@ -2238,21 +2239,21 @@
             ]
         },
         {
-            "id": "[30:58]",
+            "verse-id": "[30:58]",
             "verse": "And We have certainly presented to the people in this Qur'an from every [kind of] example. But, [O Muhammad], if you should bring them a sign, the disbelievers will surely say, \"You [believers] are but falsifiers.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[30:59]",
+            "verse-id": "[30:59]",
             "verse": "Thus does Allah seal the hearts of those who do not know.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[30:60]",
+            "verse-id": "[30:60]",
             "verse": "So be patient. Indeed, the promise of Allah is truth. And let them not disquiet you who are not certain [in faith].",
             "description": [
                 "The allusion is to the promise made",

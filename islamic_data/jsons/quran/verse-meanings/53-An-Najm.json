@@ -1,9 +1,10 @@
 {
     "name": "An-Najm",
+    "id": 53,
     "verse-count": 62,
     "verse-info": [
         {
-            "id": "[53:1]",
+            "verse-id": "[53:1]",
             "verse": "By the star when it descends,",
             "description": [
                 "In the original the word \"an-najm\"has been",
@@ -24,7 +25,7 @@
             ]
         },
         {
-            "id": "[53:2]",
+            "verse-id": "[53:2]",
             "verse": "Your companion [Muhammad] has not strayed, nor has he erred,",
             "description": [
                 "\"Your Companion\" implies the Holy Messenger of",
@@ -98,14 +99,14 @@
             ]
         },
         {
-            "id": "[53:3]",
+            "verse-id": "[53:3]",
             "verse": "Nor does he speak from [his own] inclination.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[53:4]",
+            "verse-id": "[53:4]",
             "verse": "It is not but a revelation revealed,",
             "description": [
                 "It means this: \"The things for which",
@@ -299,7 +300,7 @@
             ]
         },
         {
-            "id": "[53:5]",
+            "verse-id": "[53:5]",
             "verse": "Taught to him by one intense in strength -",
             "description": [
                 "That is, \"There is no human being",
@@ -379,7 +380,7 @@
             ]
         },
         {
-            "id": "[53:6]",
+            "verse-id": "[53:6]",
             "verse": "One of soundness. And he rose to [his] true form",
             "description": [
                 "Ibn `Abbas and Qatadah take dhu mirra-tin",
@@ -403,7 +404,7 @@
             ]
         },
         {
-            "id": "[53:7]",
+            "verse-id": "[53:7]",
             "verse": "While he was in the higher [part of the] horizon.",
             "description": [
                 "The horizon means the eastern edge of",
@@ -424,14 +425,14 @@
             ]
         },
         {
-            "id": "[53:8]",
+            "verse-id": "[53:8]",
             "verse": "Then he approached and descended",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[53:9]",
+            "verse-id": "[53:9]",
             "verse": "And was at a distance of two bow lengths or nearer.",
             "description": [
                 "That i:, \"After appearing on the uppermost",
@@ -455,7 +456,7 @@
             ]
         },
         {
-            "id": "[53:10]",
+            "verse-id": "[53:10]",
             "verse": "And he revealed to His Servant what he revealed.",
             "description": [
                 "The sentence fa auha ila `abd-i -hi",
@@ -527,7 +528,7 @@
             ]
         },
         {
-            "id": "[53:11]",
+            "verse-id": "[53:11]",
             "verse": "The heart did not lie [about] what it saw.",
             "description": [
                 "That is, \"As the Holy Prophet Muhammad",
@@ -674,28 +675,28 @@
             ]
         },
         {
-            "id": "[53:12]",
+            "verse-id": "[53:12]",
             "verse": "So will you dispute with him over what he saw?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[53:13]",
+            "verse-id": "[53:13]",
             "verse": "And he certainly saw him in another descent",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[53:14]",
+            "verse-id": "[53:14]",
             "verse": "At the Lote Tree of the Utmost Boundary -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[53:15]",
+            "verse-id": "[53:15]",
             "verse": "Near it is the Garden of Refuge -",
             "description": [
                 "This is about the Holy Prophet's second",
@@ -750,7 +751,7 @@
             ]
         },
         {
-            "id": "[53:16]",
+            "verse-id": "[53:16]",
             "verse": "When there covered the Lote Tree that which covered [it].",
             "description": [
                 "That is, \"its Splendor and Glory exceeds",
@@ -761,7 +762,7 @@
             ]
         },
         {
-            "id": "[53:17]",
+            "verse-id": "[53:17]",
             "verse": "The sight [of the Prophet] did not swerve, nor did it transgress [its limit].",
             "description": [
                 "That is, \"On the one hand, the",
@@ -804,7 +805,7 @@
             ]
         },
         {
-            "id": "[53:18]",
+            "verse-id": "[53:18]",
             "verse": "He certainly saw of the greatest signs of his Lord.",
             "description": [
                 "This verse clearly starts that the Holy",
@@ -1153,7 +1154,7 @@
             ]
         },
         {
-            "id": "[53:19]",
+            "verse-id": "[53:19]",
             "verse": "So have you considered al-Lat and al-'Uzza?",
             "description": [
                 "That is, \"You regard the teachings being",
@@ -1271,14 +1272,14 @@
             ]
         },
         {
-            "id": "[53:20]",
+            "verse-id": "[53:20]",
             "verse": "And Manat, the third - the other one?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[53:21]",
+            "verse-id": "[53:21]",
             "verse": "Is the male for you and for Him the female?",
             "description": [
                 "That is, \"You held these goddesses as",
@@ -1292,14 +1293,14 @@
             ]
         },
         {
-            "id": "[53:22]",
+            "verse-id": "[53:22]",
             "verse": "That, then, is an unjust division.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[53:23]",
+            "verse-id": "[53:23]",
             "verse": "They are not but [mere] names you have named them - you and your forefathers - for which Allah has sent down no authority. They follow not except assumption and what [their] souls desire, and there has already come to them from their Lord guidance.",
             "description": [
                 "That is, \"Those whom you call gods",
@@ -1348,7 +1349,7 @@
             ]
         },
         {
-            "id": "[53:24]",
+            "verse-id": "[53:24]",
             "verse": "Or is there for man whatever he wishes?",
             "description": [
                 "Another meaning of this verse can be:",
@@ -1360,14 +1361,14 @@
             ]
         },
         {
-            "id": "[53:25]",
+            "verse-id": "[53:25]",
             "verse": "Rather, to Allah belongs the Hereafter and the first [life].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[53:26]",
+            "verse-id": "[53:26]",
             "verse": "And how many angels there are in the heavens whose intercession will not avail at all except [only] after Allah has permitted [it] to whom He wills and approves.",
             "description": [
                 "That is, \"Even if all the angels",
@@ -1383,7 +1384,7 @@
             ]
         },
         {
-            "id": "[53:27]",
+            "verse-id": "[53:27]",
             "verse": "Indeed, those who do not believe in the Hereafter name the angels female names,",
             "description": [
                 "That is, \"Their first folly is that",
@@ -1429,7 +1430,7 @@
             ]
         },
         {
-            "id": "[53:28]",
+            "verse-id": "[53:28]",
             "verse": "And they have thereof no knowledge. They follow not except assumption, and indeed, assumption avails not against the truth at all.",
             "description": [
                 "That is, \"They have not adopted this",
@@ -1444,7 +1445,7 @@
             ]
         },
         {
-            "id": "[53:29]",
+            "verse-id": "[53:29]",
             "verse": "So turn away from whoever turns his back on Our message and desires not except the worldly life.",
             "description": [
                 "Dhikr here may imply the Qur'an as",
@@ -1471,7 +1472,7 @@
             ]
         },
         {
-            "id": "[53:30]",
+            "verse-id": "[53:30]",
             "verse": "That is their sum of knowledge. Indeed, your Lord is most knowing of who strays from His way, and He is most knowing of who is guided.",
             "description": [
                 "This is a parenthetical sentence which has",
@@ -1485,7 +1486,7 @@
             ]
         },
         {
-            "id": "[53:31]",
+            "verse-id": "[53:31]",
             "verse": "And to Allah belongs whatever is in the heavens and whatever is in the earth - that He may recompense those who do evil with [the penalty of] what they have done and recompense those who do good with the best [reward] -",
             "description": [
                 "In other words, neither the question whether",
@@ -1517,7 +1518,7 @@
             ]
         },
         {
-            "id": "[53:32]",
+            "verse-id": "[53:32]",
             "verse": "Those who avoid the major sins and immoralities, only [committing] slight ones. Indeed, your Lord is vast in forgiveness. He was most knowing of you when He produced you from the earth and when you were fetuses in the wombs of your mothers. So do not claim yourselves to be pure; He is most knowing of who fears Him.",
             "description": [
                 "For explanation, see E.N. 53 of An-Nisa.",
@@ -1656,14 +1657,14 @@
             ]
         },
         {
-            "id": "[53:33]",
+            "verse-id": "[53:33]",
             "verse": "Have you seen the one who turned away",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[53:34]",
+            "verse-id": "[53:34]",
             "verse": "And gave a little and [then] refrained?",
             "description": [
                 "The reference is to Walid bin Mughirah",
@@ -1694,7 +1695,7 @@
             ]
         },
         {
-            "id": "[53:35]",
+            "verse-id": "[53:35]",
             "verse": "Does he have knowledge of the unseen, so he sees?",
             "description": [
                 "That is, 'Does he know that this",
@@ -1705,14 +1706,14 @@
             ]
         },
         {
-            "id": "[53:36]",
+            "verse-id": "[53:36]",
             "verse": "Or has he not been informed of what was in the scriptures of Moses",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[53:37]",
+            "verse-id": "[53:37]",
             "verse": "And [of] Abraham, who fulfilled [his obligations] -",
             "description": [
                 "In the following verses a resume is",
@@ -1732,7 +1733,7 @@
             ]
         },
         {
-            "id": "[53:38]",
+            "verse-id": "[53:38]",
             "verse": "That no bearer of burdens will bear the burden of another",
             "description": [
                 "From this verse three cardinal principles are",
@@ -1751,7 +1752,7 @@
             ]
         },
         {
-            "id": "[53:39]",
+            "verse-id": "[53:39]",
             "verse": "And that there is not for man except that [good] for which he strives",
             "description": [
                 "From this verse also three important principles",
@@ -2205,7 +2206,7 @@
             ]
         },
         {
-            "id": "[53:40]",
+            "verse-id": "[53:40]",
             "verse": "And that his effort is going to be seen -",
             "description": [
                 "That is, ' In the Hereafter the",
@@ -2226,21 +2227,21 @@
             ]
         },
         {
-            "id": "[53:41]",
+            "verse-id": "[53:41]",
             "verse": "Then he will be recompensed for it with the fullest recompense",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[53:42]",
+            "verse-id": "[53:42]",
             "verse": "And that to your Lord is the finality",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[53:43]",
+            "verse-id": "[53:43]",
             "verse": "And that it is He who makes [one] laugh and weep",
             "description": [
                 "That is, 'AIIah provides the means both",
@@ -2252,21 +2253,21 @@
             ]
         },
         {
-            "id": "[53:44]",
+            "verse-id": "[53:44]",
             "verse": "And that it is He who causes death and gives life",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[53:45]",
+            "verse-id": "[53:45]",
             "verse": "And that He creates the two mates - the male and female -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[53:46]",
+            "verse-id": "[53:46]",
             "verse": "From a sperm-drop when it is emitted",
             "description": [
                 "For. explanation, see E.N.'s 27 to 30",
@@ -2275,7 +2276,7 @@
             ]
         },
         {
-            "id": "[53:47]",
+            "verse-id": "[53:47]",
             "verse": "And that [incumbent] upon Him is the next creation",
             "description": [
                 "When this verse is read with the",
@@ -2293,7 +2294,7 @@
             ]
         },
         {
-            "id": "[53:48]",
+            "verse-id": "[53:48]",
             "verse": "And that it is He who enriches and suffices",
             "description": [
                 "Different meanings have been given by the",
@@ -2318,7 +2319,7 @@
             ]
         },
         {
-            "id": "[53:49]",
+            "verse-id": "[53:49]",
             "verse": "And that it is He who is the Lord of Sirius",
             "description": [
                 "Shi ra is the brightest star in",
@@ -2348,7 +2349,7 @@
             ]
         },
         {
-            "id": "[53:50]",
+            "verse-id": "[53:50]",
             "verse": "And that He destroyed the first [people of] 'Aad",
             "description": [
                 "'Ad Ula signifies the ancient 'Ad to",
@@ -2362,28 +2363,28 @@
             ]
         },
         {
-            "id": "[53:51]",
+            "verse-id": "[53:51]",
             "verse": "And Thamud - and He did not spare [them] -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[53:52]",
+            "verse-id": "[53:52]",
             "verse": "And the people of Noah before. Indeed, it was they who were [even] more unjust and oppressing.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[53:53]",
+            "verse-id": "[53:53]",
             "verse": "And the overturned towns He hurled down",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[53:54]",
+            "verse-id": "[53:54]",
             "verse": "And covered them by that which He covered.",
             "description": [
                 "'The subdued settlements\": the settlements of the",
@@ -2396,7 +2397,7 @@
             ]
         },
         {
-            "id": "[53:55]",
+            "verse-id": "[53:55]",
             "verse": "Then which of the favors of your Lord do you doubt?",
             "description": [
                 "According to some commentators this sentence also",
@@ -2456,7 +2457,7 @@
             ]
         },
         {
-            "id": "[53:56]",
+            "verse-id": "[53:56]",
             "verse": "This [Prophet] is a warner like the former warners.",
             "description": [
                 "The words in the original are: Hadha",
@@ -2474,7 +2475,7 @@
             ]
         },
         {
-            "id": "[53:57]",
+            "verse-id": "[53:57]",
             "verse": "The Approaching Day has approached.",
             "description": [
                 "That is, \"Do not be under the",
@@ -2498,7 +2499,7 @@
             ]
         },
         {
-            "id": "[53:58]",
+            "verse-id": "[53:58]",
             "verse": "Of it, [from those] besides Allah, there is no remover.",
             "description": [
                 "That is, when the Hour of Judgement",
@@ -2510,7 +2511,7 @@
             ]
         },
         {
-            "id": "[53:59]",
+            "verse-id": "[53:59]",
             "verse": "Then at this statement do you wonder?",
             "description": [
                 "The word hadh-al-Hadith as used in the",
@@ -2531,7 +2532,7 @@
             ]
         },
         {
-            "id": "[53:60]",
+            "verse-id": "[53:60]",
             "verse": "And you laugh and do not weep",
             "description": [
                 "That is, \"Instead of weeping at your",
@@ -2540,7 +2541,7 @@
             ]
         },
         {
-            "id": "[53:61]",
+            "verse-id": "[53:61]",
             "verse": "While you are proudly sporting?",
             "description": [
                 "Two meanings have been given of the",
@@ -2566,7 +2567,7 @@
             ]
         },
         {
-            "id": "[53:62]",
+            "verse-id": "[53:62]",
             "verse": "So prostrate to Allah and worship [Him].",
             "description": [
                 "According to Imam Abu Hanifah, Imam Shafe`i",

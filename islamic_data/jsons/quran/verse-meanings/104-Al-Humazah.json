@@ -1,9 +1,10 @@
 {
     "name": "Al-Humazah",
+    "id": 104,
     "verse-count": 9,
     "verse-info": [
         {
-            "id": "[104:1]",
+            "verse-id": "[104:1]",
             "verse": "Woe to every scorner and mocker",
             "description": [
                 "The words used in the original are",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "id": "[104:2]",
+            "verse-id": "[104:2]",
             "verse": "Who collects wealth and [continuously] counts it.",
             "description": [
                 "This second sentence after the first sentence",
@@ -47,7 +48,7 @@
             ]
         },
         {
-            "id": "[104:3]",
+            "verse-id": "[104:3]",
             "verse": "He thinks that his wealth will make him immortal.",
             "description": [
                 "Another meaning also can be: \"He thinks",
@@ -62,7 +63,7 @@
             ]
         },
         {
-            "id": "[104:4]",
+            "verse-id": "[104:4]",
             "verse": "No! He will surely be thrown into the Crusher.",
             "description": [
                 "The word in the original is la",
@@ -85,14 +86,14 @@
             ]
         },
         {
-            "id": "[104:5]",
+            "verse-id": "[104:5]",
             "verse": "And what can make you know what is the Crusher?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[104:6]",
+            "verse-id": "[104:6]",
             "verse": "It is the fire of Allah, [eternally] fueled,",
             "description": [
                 "Nowhere else in the Qur'an has the",
@@ -108,7 +109,7 @@
             ]
         },
         {
-            "id": "[104:7]",
+            "verse-id": "[104:7]",
             "verse": "Which mounts directed at the hearts.",
             "description": [
                 "Tattali'u is from ittala a, which means",
@@ -136,7 +137,7 @@
             ]
         },
         {
-            "id": "[104:8]",
+            "verse-id": "[104:8]",
             "verse": "Indeed, Hellfire will be closed down upon them",
             "description": [
                 "That is, after the culprits have been",
@@ -147,7 +148,7 @@
             ]
         },
         {
-            "id": "[104:9]",
+            "verse-id": "[104:9]",
             "verse": "In extended columns.",
             "description": [
                 "Fi amad-im-mumaddahah can have several meanings (1)",

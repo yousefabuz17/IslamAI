@@ -1,16 +1,17 @@
 {
     "name": "Ash-Shuara",
+    "id": 26,
     "verse-count": 227,
     "verse-info": [
         {
-            "id": "[26:1]",
+            "verse-id": "[26:1]",
             "verse": "Ta, Seen, Meem.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:2]",
+            "verse-id": "[26:2]",
             "verse": "These are the verses of the clear Book.",
             "description": [
                 "That is, the verses being presented in",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "id": "[26:3]",
+            "verse-id": "[26:3]",
             "verse": "Perhaps, [O Muhammad], you would kill yourself with grief that they will not be believers.",
             "description": [
                 "The words bakhi'un-nafsaka literally mean: \"You would",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "id": "[26:4]",
+            "verse-id": "[26:4]",
             "verse": "If We willed, We could send down to them from the sky a sign for which their necks would remain humbled.",
             "description": [
                 "That is, \"It is not at all",
@@ -153,14 +154,14 @@
             ]
         },
         {
-            "id": "[26:5]",
+            "verse-id": "[26:5]",
             "verse": "And no revelation comes to them anew from the Most Merciful except that they turn away from it.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:6]",
+            "verse-id": "[26:6]",
             "verse": "For they have already denied, but there will come to them the news of that which they used to ridicule.",
             "description": [
                 "That is, the people who show lack",
@@ -195,14 +196,14 @@
             ]
         },
         {
-            "id": "[26:7]",
+            "verse-id": "[26:7]",
             "verse": "Did they not look at the earth - how much We have produced therein from every noble kind?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:8]",
+            "verse-id": "[26:8]",
             "verse": "Indeed in that is a sign, but most of them were not to be believers.",
             "description": [
                 "That is, the seeker after truth does",
@@ -241,7 +242,7 @@
             ]
         },
         {
-            "id": "[26:9]",
+            "verse-id": "[26:9]",
             "verse": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
             "description": [
                 "That is, \"He has the power and",
@@ -257,7 +258,7 @@
             ]
         },
         {
-            "id": "[26:10]",
+            "verse-id": "[26:10]",
             "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people -",
             "description": [
                 "After a brief introduction, historical events have",
@@ -360,7 +361,7 @@
             ]
         },
         {
-            "id": "[26:11]",
+            "verse-id": "[26:11]",
             "verse": "The people of Pharaoh. Will they not fear Allah?\"",
             "description": [
                 "That is, \"O Moses! Just see how",
@@ -372,14 +373,14 @@
             ]
         },
         {
-            "id": "[26:12]",
+            "verse-id": "[26:12]",
             "verse": "He said, \"My Lord, indeed I fear that they will deny me",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:13]",
+            "verse-id": "[26:13]",
             "verse": "And that my breast will tighten and my tongue will not be fluent, so send for Aaron.",
             "description": [
                 "The sentence, \"My breast straitens\", shows that",
@@ -433,7 +434,7 @@
             ]
         },
         {
-            "id": "[26:14]",
+            "verse-id": "[26:14]",
             "verse": "And they have upon me a [claim due to] sin, so I fear that they will kill me.\"",
             "description": [
                 "The allusion is to the incident of",
@@ -457,7 +458,7 @@
             ]
         },
         {
-            "id": "[26:15]",
+            "verse-id": "[26:15]",
             "verse": "[Allah] said, \"No. Go both of you with Our signs; indeed, We are with you, listening.",
             "description": [
                 ". Here by \"Signs\" are meant the",
@@ -468,14 +469,14 @@
             ]
         },
         {
-            "id": "[26:16]",
+            "verse-id": "[26:16]",
             "verse": "Go to Pharaoh and say, 'We are the messengers of the Lord of the worlds,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:17]",
+            "verse-id": "[26:17]",
             "verse": "[Commanded to say], \"Send with us the Children of Israel.\"'\"",
             "description": [
                 "The Mission of the Prophets Moses and",
@@ -492,7 +493,7 @@
             ]
         },
         {
-            "id": "[26:18]",
+            "verse-id": "[26:18]",
             "verse": "[Pharaoh] said, \"Did we not raise you among us as a child, and you remained among us for years of your life?",
             "description": [
                 "This remark of Pharaoh shows that he",
@@ -507,7 +508,7 @@
             ]
         },
         {
-            "id": "[26:19]",
+            "verse-id": "[26:19]",
             "verse": "And [then] you did your deed which you did, and you were of the ungrateful.\"",
             "description": [
                 "The allusion is to the incident of",
@@ -515,7 +516,7 @@
             ]
         },
         {
-            "id": "[26:20]",
+            "verse-id": "[26:20]",
             "verse": "[Moses] said, \"I did it, then, while I was of those astray.",
             "description": [
                 "The word dalalat dces not always mean",
@@ -537,7 +538,7 @@
             ]
         },
         {
-            "id": "[26:21]",
+            "verse-id": "[26:21]",
             "verse": "So I fled from you when I feared you. Then my Lord granted me wisdom and prophethood and appointed me [as one] of the messengers.",
             "description": [
                 "The word. hukm means wisdom, knowledge or",
@@ -547,7 +548,7 @@
             ]
         },
         {
-            "id": "[26:22]",
+            "verse-id": "[26:22]",
             "verse": "And is this a favor of which you remind me - that you have enslaved the Children of Israel?\"",
             "description": [
                 "That is, \"If you had not been",
@@ -565,7 +566,7 @@
             ]
         },
         {
-            "id": "[26:23]",
+            "verse-id": "[26:23]",
             "verse": "Said Pharaoh, \"And what is the Lord of the worlds?\"",
             "description": [
                 "Here the details that Prophet Moses went",
@@ -599,7 +600,7 @@
             ]
         },
         {
-            "id": "[26:24]",
+            "verse-id": "[26:24]",
             "verse": "[Moses] said, \"The Lord of the heavens and earth and that between them, if you should be convinced.\"",
             "description": [
                 "That is, \"I have not been sent",
@@ -614,14 +615,14 @@
             ]
         },
         {
-            "id": "[26:25]",
+            "verse-id": "[26:25]",
             "verse": "[Pharaoh] said to those around him, \"Do you not hear?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:26]",
+            "verse-id": "[26:26]",
             "verse": "[Moses] said, \"Your Lord and the Lord of your first forefathers.\"",
             "description": [
                 "These words were addressed to the chiefs",
@@ -642,14 +643,14 @@
             ]
         },
         {
-            "id": "[26:27]",
+            "verse-id": "[26:27]",
             "verse": "[Pharaoh] said, \"Indeed, your 'messenger' who has been sent to you is mad.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:28]",
+            "verse-id": "[26:28]",
             "verse": "[Moses] said, \"Lord of the east and the west and that between them, if you were to reason.\"",
             "description": [
                 "That is, \"You regard me as a",
@@ -668,7 +669,7 @@
             ]
         },
         {
-            "id": "[26:29]",
+            "verse-id": "[26:29]",
             "verse": "[Pharaoh] said, \"If you take a god other than me, I will surely place you among those imprisoned.\"",
             "description": [
                 "To understated and appreciate this conversation fully,",
@@ -744,7 +745,7 @@
             ]
         },
         {
-            "id": "[26:30]",
+            "verse-id": "[26:30]",
             "verse": "[Moses] said, \"Even if I brought you proof manifest?\"",
             "description": [
                 "That is, \"Will you still deny me",
@@ -758,7 +759,7 @@
             ]
         },
         {
-            "id": "[26:31]",
+            "verse-id": "[26:31]",
             "verse": "[Pharaoh] said, \"Then bring it, if you should be of the truthful.\"",
             "description": [
                 "This reply of Pharaoh shows that he",
@@ -784,7 +785,7 @@
             ]
         },
         {
-            "id": "[26:32]",
+            "verse-id": "[26:32]",
             "verse": "So [Moses] threw his staff, and suddenly it was a serpent manifest.",
             "description": [
                 "Thub an means a serpent. At other",
@@ -800,7 +801,7 @@
             ]
         },
         {
-            "id": "[26:33]",
+            "verse-id": "[26:33]",
             "verse": "And he drew out his hand; thereupon it was white for the observers.",
             "description": [
                 "Some commentators under the influence of the",
@@ -820,14 +821,14 @@
             ]
         },
         {
-            "id": "[26:34]",
+            "verse-id": "[26:34]",
             "verse": "[Pharaoh] said to the eminent ones around him, \"Indeed, this is a learned magician.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:35]",
+            "verse-id": "[26:35]",
             "verse": "He wants to drive you out of your land by his magic, so what do you advise?\"",
             "description": [
                 "The impact of the two miracles can",
@@ -881,21 +882,21 @@
             ]
         },
         {
-            "id": "[26:36]",
+            "verse-id": "[26:36]",
             "verse": "They said, \"Postpone [the matter of] him and his brother and send among the cities gatherers",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:37]",
+            "verse-id": "[26:37]",
             "verse": "Who will bring you every learned, skilled magician.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:38]",
+            "verse-id": "[26:38]",
             "verse": "So the magicians were assembled for the appointment of a well-known day.",
             "description": [
                 "As already mentioned in Surah Ta Ha",
@@ -911,7 +912,7 @@
             ]
         },
         {
-            "id": "[26:39]",
+            "verse-id": "[26:39]",
             "verse": "And it was said to the people, \"Will you congregate",
             "description": [
                 "That is, besides proclamation heralds were sent",
@@ -931,7 +932,7 @@
             ]
         },
         {
-            "id": "[26:40]",
+            "verse-id": "[26:40]",
             "verse": "That we might follow the magicians if they are the predominant?\"",
             "description": [
                 "This sentence confirms the idea that those",
@@ -955,7 +956,7 @@
             ]
         },
         {
-            "id": "[26:41]",
+            "verse-id": "[26:41]",
             "verse": "And when the magicians arrived, they said to Pharaoh, \"Is there indeed for us a reward if we are the predominant?\"",
             "description": [
                 "Such was the mentality of the supporters",
@@ -966,7 +967,7 @@
             ]
         },
         {
-            "id": "[26:42]",
+            "verse-id": "[26:42]",
             "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\"",
             "description": [
                 "This was then the highest honour that",
@@ -1007,14 +1008,14 @@
             ]
         },
         {
-            "id": "[26:43]",
+            "verse-id": "[26:43]",
             "verse": "Moses said to them, \"Throw whatever you will throw.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:44]",
+            "verse-id": "[26:44]",
             "verse": "So they threw their ropes and their staffs and said, \"By the might of Pharaoh, indeed it is we who are predominant.\"",
             "description": [
                 "As soon as they cast down their",
@@ -1034,28 +1035,28 @@
             ]
         },
         {
-            "id": "[26:45]",
+            "verse-id": "[26:45]",
             "verse": "Then Moses threw his staff, and at once it devoured what they falsified.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:46]",
+            "verse-id": "[26:46]",
             "verse": "So the magicians fell down in prostration [to Allah].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:47]",
+            "verse-id": "[26:47]",
             "verse": "They said, \"We have believed in the Lord of the worlds,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:48]",
+            "verse-id": "[26:48]",
             "verse": "The Lord of Moses and Aaron.\"",
             "description": [
                 "This was not merely an acknowledgment of",
@@ -1070,7 +1071,7 @@
             ]
         },
         {
-            "id": "[26:49]",
+            "verse-id": "[26:49]",
             "verse": "[Pharaoh] said, \"You believed Moses before I gave you permission. Indeed, he is your leader who has taught you magic, but you are going to know. I will surely cut off your hands and your feet on opposite sides, and I will surely crucify you all.\"",
             "description": [
                 "This only shows the extreme obstinacy and",
@@ -1100,14 +1101,14 @@
             ]
         },
         {
-            "id": "[26:50]",
+            "verse-id": "[26:50]",
             "verse": "They said, \"No harm. Indeed, to our Lord we will return.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:51]",
+            "verse-id": "[26:51]",
             "verse": "Indeed, we aspire that our Lord will forgive us our sins because we were the first of the believers.\"",
             "description": [
                 "That is, \"We have to return to",
@@ -1169,7 +1170,7 @@
             ]
         },
         {
-            "id": "[26:52]",
+            "verse-id": "[26:52]",
             "verse": "And We inspired to Moses, \"Travel by night with My servants; indeed, you will be pursued.\"",
             "description": [
                 "The mention of migration here does not",
@@ -1213,28 +1214,28 @@
             ]
         },
         {
-            "id": "[26:53]",
+            "verse-id": "[26:53]",
             "verse": "Then Pharaoh sent among the cities gatherers",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:54]",
+            "verse-id": "[26:54]",
             "verse": "[And said], \"Indeed, those are but a small band,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:55]",
+            "verse-id": "[26:55]",
             "verse": "And indeed, they are enraging us,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:56]",
+            "verse-id": "[26:56]",
             "verse": "And indeed, we are a cautious society... \"",
             "description": [
                 "All this shows that Pharaoh in fact",
@@ -1258,14 +1259,14 @@
             ]
         },
         {
-            "id": "[26:57]",
+            "verse-id": "[26:57]",
             "verse": "So We removed them from gardens and springs",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:58]",
+            "verse-id": "[26:58]",
             "verse": "And treasures and honorable station -",
             "description": [
                 "The genera'. mobilization ordered by Pharaoh was",
@@ -1296,7 +1297,7 @@
             ]
         },
         {
-            "id": "[26:59]",
+            "verse-id": "[26:59]",
             "verse": "Thus. And We caused to inherit it the Children of Israel.",
             "description": [
                 "Some commentators have interpreted this verse to",
@@ -1343,21 +1344,21 @@
             ]
         },
         {
-            "id": "[26:60]",
+            "verse-id": "[26:60]",
             "verse": "So they pursued them at sunrise.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:61]",
+            "verse-id": "[26:61]",
             "verse": "And when the two companies saw one another, the companions of Moses said, \"Indeed, we are to be overtaken!\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:62]",
+            "verse-id": "[26:62]",
             "verse": "[Moses] said, \"No! Indeed, with me is my Lord; He will guide me.\"",
             "description": [
                 "That is, \"He will show me the",
@@ -1365,7 +1366,7 @@
             ]
         },
         {
-            "id": "[26:63]",
+            "verse-id": "[26:63]",
             "verse": "Then We inspired to Moses, \"Strike with your staff the sea,\" and it parted, and each portion was like a great towering mountain.",
             "description": [
                 "Literally, tawd is a high mountain. It",
@@ -1413,28 +1414,28 @@
             ]
         },
         {
-            "id": "[26:64]",
+            "verse-id": "[26:64]",
             "verse": "And We advanced thereto the pursuers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:65]",
+            "verse-id": "[26:65]",
             "verse": "And We saved Moses and those with him, all together.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:66]",
+            "verse-id": "[26:66]",
             "verse": "Then We drowned the others.",
             "description": [
                 "That is, Pharaoh and his army."
             ]
         },
         {
-            "id": "[26:67]",
+            "verse-id": "[26:67]",
             "verse": "Indeed in that is a sign, but most of them were not to be believers.",
             "description": [
                 "That is, the Quraish have this lesson",
@@ -1474,14 +1475,14 @@
             ]
         },
         {
-            "id": "[26:68]",
+            "verse-id": "[26:68]",
             "verse": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:69]",
+            "verse-id": "[26:69]",
             "verse": "And recite to them the news of Abraham,",
             "description": [
                 "This part of the life-history of Prophet",
@@ -1544,7 +1545,7 @@
             ]
         },
         {
-            "id": "[26:70]",
+            "verse-id": "[26:70]",
             "verse": "When he said to his father and his people, \"What do you worship?\"",
             "description": [
                 "Obviously the object of this question was",
@@ -1557,7 +1558,7 @@
             ]
         },
         {
-            "id": "[26:71]",
+            "verse-id": "[26:71]",
             "verse": "They said, \"We worship idols and remain to them devoted.\"",
             "description": [
                 "Though everybody knew that they worshipped idols,",
@@ -1571,21 +1572,21 @@
             ]
         },
         {
-            "id": "[26:72]",
+            "verse-id": "[26:72]",
             "verse": "He said, \"Do they hear you when you supplicate?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:73]",
+            "verse-id": "[26:73]",
             "verse": "Or do they benefit you, or do they harm?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:74]",
+            "verse-id": "[26:74]",
             "verse": "They said, \"But we found our fathers doing thus.\"",
             "description": [
                 "That is, \"We do not worship and",
@@ -1611,14 +1612,14 @@
             ]
         },
         {
-            "id": "[26:75]",
+            "verse-id": "[26:75]",
             "verse": "He said, \"Then do you see what you have been worshipping,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:76]",
+            "verse-id": "[26:76]",
             "verse": "You and your ancient forefathers?",
             "description": [
                 "That is, \"Is it enough to say",
@@ -1634,7 +1635,7 @@
             ]
         },
         {
-            "id": "[26:77]",
+            "verse-id": "[26:77]",
             "verse": "Indeed, they are enemies to me, except the Lord of the worlds,",
             "description": [
                 "That is \"When I consider them, I",
@@ -1686,7 +1687,7 @@
             ]
         },
         {
-            "id": "[26:78]",
+            "verse-id": "[26:78]",
             "verse": "Who created me, and He [it is who] guides me.",
             "description": [
                 "This is the first reason for which",
@@ -1709,14 +1710,14 @@
             ]
         },
         {
-            "id": "[26:79]",
+            "verse-id": "[26:79]",
             "verse": "And it is He who feeds me and gives me drink.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:80]",
+            "verse-id": "[26:80]",
             "verse": "And when I am ill, it is He who cures me",
             "description": [
                 "The second reason for worshipping Allah and",
@@ -1758,14 +1759,14 @@
             ]
         },
         {
-            "id": "[26:81]",
+            "verse-id": "[26:81]",
             "verse": "And who will cause me to die and then bring me to life",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:82]",
+            "verse-id": "[26:82]",
             "verse": "And who I aspire that He will forgive me my sin on the Day of Recompense.\"",
             "description": [
                 "The third reason for worshipping none but",
@@ -1820,7 +1821,7 @@
             ]
         },
         {
-            "id": "[26:83]",
+            "verse-id": "[26:83]",
             "verse": "[And he said], \"My Lord, grant me authority and join me with the righteous.",
             "description": [
                 "Hukm here dces not mean \"Prophethood\", because",
@@ -1863,7 +1864,7 @@
             ]
         },
         {
-            "id": "[26:84]",
+            "verse-id": "[26:84]",
             "verse": "And grant me a reputation of honor among later generations.",
             "description": [
                 "\"Grant me true renown among posterity\": \"Grant",
@@ -1904,14 +1905,14 @@
             ]
         },
         {
-            "id": "[26:85]",
+            "verse-id": "[26:85]",
             "verse": "And place me among the inheritors of the Garden of Pleasure.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:86]",
+            "verse-id": "[26:86]",
             "verse": "And forgive my father. Indeed, he has been of those astray.",
             "description": [
                 "Some commentators have interpreted this prayer of",
@@ -1945,7 +1946,7 @@
             ]
         },
         {
-            "id": "[26:87]",
+            "verse-id": "[26:87]",
             "verse": "And do not disgrace me on the Day they are [all] resurrected -",
             "description": [
                 "That is, \"Do not put me to",
@@ -1956,14 +1957,14 @@
             ]
         },
         {
-            "id": "[26:88]",
+            "verse-id": "[26:88]",
             "verse": "The Day when there will not benefit [anyone] wealth or children",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:89]",
+            "verse-id": "[26:89]",
             "verse": "But only one who comes to Allah with a sound heart.\"",
             "description": [
                 "It cannot be said with certainty whether",
@@ -1998,7 +1999,7 @@
             ]
         },
         {
-            "id": "[26:90]",
+            "verse-id": "[26:90]",
             "verse": "And Paradise will be brought near [that Day] to the righteous.",
             "description": [
                 "Verses 90-102 do not seem to be",
@@ -2007,7 +2008,7 @@
             ]
         },
         {
-            "id": "[26:91]",
+            "verse-id": "[26:91]",
             "verse": "And Hellfire will be brought forth for the deviators,",
             "description": [
                 "That is, on the one hand, the",
@@ -2021,28 +2022,28 @@
             ]
         },
         {
-            "id": "[26:92]",
+            "verse-id": "[26:92]",
             "verse": "And it will be said to them, \"Where are those you used to worship",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:93]",
+            "verse-id": "[26:93]",
             "verse": "Other than Allah? Can they help you or help themselves?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:94]",
+            "verse-id": "[26:94]",
             "verse": "So they will be overturned into Hellfire, they and the deviators",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:95]",
+            "verse-id": "[26:95]",
             "verse": "And the soldiers of Iblees, all together.",
             "description": [
                 "Kubkibu in the Text has two meanings:",
@@ -2053,28 +2054,28 @@
             ]
         },
         {
-            "id": "[26:96]",
+            "verse-id": "[26:96]",
             "verse": "They will say while they dispute therein,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:97]",
+            "verse-id": "[26:97]",
             "verse": "\"By Allah, we were indeed in manifest error",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:98]",
+            "verse-id": "[26:98]",
             "verse": "When we equated you with the Lord of the worlds.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:99]",
+            "verse-id": "[26:99]",
             "verse": "And no one misguided us except the criminals.",
             "description": [
                 "This is how the followers will treat",
@@ -2118,7 +2119,7 @@
             ]
         },
         {
-            "id": "[26:100]",
+            "verse-id": "[26:100]",
             "verse": "So now we have no intercessors",
             "description": [
                 "That is, \"Those whom we regarded as",
@@ -2129,7 +2130,7 @@
             ]
         },
         {
-            "id": "[26:101]",
+            "verse-id": "[26:101]",
             "verse": "And not a devoted friend.",
             "description": [
                 "That is, \"We have no sympathizer either",
@@ -2148,7 +2149,7 @@
             ]
         },
         {
-            "id": "[26:102]",
+            "verse-id": "[26:102]",
             "verse": "Then if we only had a return [to the world] and could be of the believers... \"",
             "description": [
                 "That Qur'an has given an answer to",
@@ -2163,7 +2164,7 @@
             ]
         },
         {
-            "id": "[26:103]",
+            "verse-id": "[26:103]",
             "verse": "Indeed in that is a sign, but most of them were not to be believers.",
             "description": [
                 "There are two aspects of the Sign",
@@ -2203,14 +2204,14 @@
             ]
         },
         {
-            "id": "[26:104]",
+            "verse-id": "[26:104]",
             "verse": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:105]",
+            "verse-id": "[26:105]",
             "verse": "The people of Noah denied the messengers",
             "description": [
                 "For comparison, see AI-A`raf: 59-64, Yunus: 71-73,",
@@ -2237,7 +2238,7 @@
             ]
         },
         {
-            "id": "[26:106]",
+            "verse-id": "[26:106]",
             "verse": "When their brother Noah said to them, \"Will you not fear Allah?",
             "description": [
                 "The initial address of Prophet Noah to",
@@ -2254,7 +2255,7 @@
             ]
         },
         {
-            "id": "[26:107]",
+            "verse-id": "[26:107]",
             "verse": "Indeed, I am to you a trustworthy messenger.",
             "description": [
                 "It has two meanings: (1) \"1 present",
@@ -2271,7 +2272,7 @@
             ]
         },
         {
-            "id": "[26:108]",
+            "verse-id": "[26:108]",
             "verse": "So fear Allah and obey me.",
             "description": [
                 "That is, \"When I am a truthiui",
@@ -2298,7 +2299,7 @@
             ]
         },
         {
-            "id": "[26:109]",
+            "verse-id": "[26:109]",
             "verse": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds.",
             "description": [
                 "This is the second of the two",
@@ -2374,7 +2375,7 @@
             ]
         },
         {
-            "id": "[26:110]",
+            "verse-id": "[26:110]",
             "verse": "So fear Allah and obey me.\"",
             "description": [
                 "Repetition of this sentence is not without",
@@ -2398,7 +2399,7 @@
             ]
         },
         {
-            "id": "[26:111]",
+            "verse-id": "[26:111]",
             "verse": "They said, \"Should we believe you while you are followed by the lowest [class of people]?\"",
             "description": [
                 "This answer to Prophet Noah's message of",
@@ -2462,14 +2463,14 @@
             ]
         },
         {
-            "id": "[26:112]",
+            "verse-id": "[26:112]",
             "verse": "He said, \"And what is my knowledge of what they used to do?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:113]",
+            "verse-id": "[26:113]",
             "verse": "Their account is only upon my Lord, if you [could] perceive.",
             "description": [
                 "This is the first answer to their",
@@ -2490,14 +2491,14 @@
             ]
         },
         {
-            "id": "[26:114]",
+            "verse-id": "[26:114]",
             "verse": "And I am not one to drive away the believers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:115]",
+            "verse-id": "[26:115]",
             "verse": "I am only a clear warner.\"",
             "description": [
                 "This is the second answer to their",
@@ -2583,7 +2584,7 @@
             ]
         },
         {
-            "id": "[26:116]",
+            "verse-id": "[26:116]",
             "verse": "They said, \"If you do not desist, O Noah, you will surely be of those who are stoned.\"",
             "description": [
                 "' The words in the Text may",
@@ -2595,7 +2596,7 @@
             ]
         },
         {
-            "id": "[26:117]",
+            "verse-id": "[26:117]",
             "verse": "He said, \"My Lord, indeed my people have denied me.",
             "description": [
                 "That is, \"They have rejected me completely",
@@ -2635,7 +2636,7 @@
             ]
         },
         {
-            "id": "[26:118]",
+            "verse-id": "[26:118]",
             "verse": "Then judge between me and them with decisive judgement and save me and those with me of the believers.\"",
             "description": [
                 "\"Deliver me and the believers with me",
@@ -2650,7 +2651,7 @@
             ]
         },
         {
-            "id": "[26:119]",
+            "verse-id": "[26:119]",
             "verse": "So We saved him and those with him in the laden ship.",
             "description": [
                 "\"Laden Ark\", because the Ark became full",
@@ -2660,28 +2661,28 @@
             ]
         },
         {
-            "id": "[26:120]",
+            "verse-id": "[26:120]",
             "verse": "Then We drowned thereafter the remaining ones.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:121]",
+            "verse-id": "[26:121]",
             "verse": "Indeed in that is a sign, but most of them were not to be believers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:122]",
+            "verse-id": "[26:122]",
             "verse": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:123]",
+            "verse-id": "[26:123]",
             "verse": "'Aad denied the messengers",
             "description": [
                 "For comparison, see Al-A'raf: 65-72, Hud: 50-60;",
@@ -2692,7 +2693,7 @@
             ]
         },
         {
-            "id": "[26:124]",
+            "verse-id": "[26:124]",
             "verse": "When their brother Hud said to them, \"Will you not fear Allah?",
             "description": [
                 "In order to understand this discourse of",
@@ -2746,28 +2747,28 @@
             ]
         },
         {
-            "id": "[26:125]",
+            "verse-id": "[26:125]",
             "verse": "Indeed, I am to you a trustworthy messenger.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:126]",
+            "verse-id": "[26:126]",
             "verse": "So fear Allah and obey me.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:127]",
+            "verse-id": "[26:127]",
             "verse": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:128]",
+            "verse-id": "[26:128]",
             "verse": "Do you construct on every elevation a sign, amusing yourselves,",
             "description": [
                 "That is, \"You build grand buildings merely",
@@ -2778,7 +2779,7 @@
             ]
         },
         {
-            "id": "[26:129]",
+            "verse-id": "[26:129]",
             "verse": "And take for yourselves palaces and fortresses that you might abide eternally?",
             "description": [
                 "That is, ,\"Though you have built other",
@@ -2810,7 +2811,7 @@
             ]
         },
         {
-            "id": "[26:130]",
+            "verse-id": "[26:130]",
             "verse": "And when you strike, you strike as tyrants.",
             "description": [
                 "That is,\"In order to meet the demands",
@@ -2829,49 +2830,49 @@
             ]
         },
         {
-            "id": "[26:131]",
+            "verse-id": "[26:131]",
             "verse": "So fear Allah and obey me.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:132]",
+            "verse-id": "[26:132]",
             "verse": "And fear He who provided you with that which you know,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:133]",
+            "verse-id": "[26:133]",
             "verse": "Provided you with grazing livestock and children",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:134]",
+            "verse-id": "[26:134]",
             "verse": "And gardens and springs.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:135]",
+            "verse-id": "[26:135]",
             "verse": "Indeed, I fear for you the punishment of a terrible day.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:136]",
+            "verse-id": "[26:136]",
             "verse": "They said, \"It is all the same to us whether you advise or are not of the advisors.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:137]",
+            "verse-id": "[26:137]",
             "verse": "This is not but the custom of the former peoples,",
             "description": [
                 "This can have two meanings: (1) \"Whatever",
@@ -2895,14 +2896,14 @@
             ]
         },
         {
-            "id": "[26:138]",
+            "verse-id": "[26:138]",
             "verse": "And we are not to be punished.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:139]",
+            "verse-id": "[26:139]",
             "verse": "And they denied him, so We destroyed them. Indeed in that is a sign, but most of them were not to be believers.",
             "description": [
                 "According to the Qur'an, the people of",
@@ -2928,14 +2929,14 @@
             ]
         },
         {
-            "id": "[26:140]",
+            "verse-id": "[26:140]",
             "verse": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:141]",
+            "verse-id": "[26:141]",
             "verse": "Thamud denied the messengers",
             "description": [
                 "For comparison, see Al-A'raf: 73-79, Hud: 61-68,",
@@ -2967,14 +2968,14 @@
             ]
         },
         {
-            "id": "[26:142]",
+            "verse-id": "[26:142]",
             "verse": "When their brother Salih said to them, \"Will you not fear Allah?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:143]",
+            "verse-id": "[26:143]",
             "verse": "Indeed, I am to you a trustworthy messenger.",
             "description": [
                 "According to the Qur'an, the people of",
@@ -2987,21 +2988,21 @@
             ]
         },
         {
-            "id": "[26:144]",
+            "verse-id": "[26:144]",
             "verse": "So fear Allah and obey me.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:145]",
+            "verse-id": "[26:145]",
             "verse": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:146]",
+            "verse-id": "[26:146]",
             "verse": "Will you be left in what is here, secure [from death],",
             "description": [
                 "hat is, \"Do you consider that your",
@@ -3012,14 +3013,14 @@
             ]
         },
         {
-            "id": "[26:147]",
+            "verse-id": "[26:147]",
             "verse": "Within gardens and springs",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:148]",
+            "verse-id": "[26:148]",
             "verse": "And fields of crops and palm trees with softened fruit?",
             "description": [
                 "Hadim. heavy bunches of ripe, juicy and",
@@ -3028,7 +3029,7 @@
             ]
         },
         {
-            "id": "[26:149]",
+            "verse-id": "[26:149]",
             "verse": "And you carve out of the mountains, homes, with skill.",
             "description": [
                 "Just as the most prominent feature of",
@@ -3111,21 +3112,21 @@
             ]
         },
         {
-            "id": "[26:150]",
+            "verse-id": "[26:150]",
             "verse": "So fear Allah and obey me.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:151]",
+            "verse-id": "[26:151]",
             "verse": "And do not obey the order of the transgressors,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:152]",
+            "verse-id": "[26:152]",
             "verse": "Who cause corruption in the land and do not amend.\"",
             "description": [
                 "That is, \"You should give up obedience",
@@ -3151,7 +3152,7 @@
             ]
         },
         {
-            "id": "[26:153]",
+            "verse-id": "[26:153]",
             "verse": "They said, \"You are only of those affected by magic.",
             "description": [
                 "\"Enchanted person\": Mad and insane person who",
@@ -3165,7 +3166,7 @@
             ]
         },
         {
-            "id": "[26:154]",
+            "verse-id": "[26:154]",
             "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\"",
             "description": [
                 "That is, \"We cannot believe you to",
@@ -3181,7 +3182,7 @@
             ]
         },
         {
-            "id": "[26:155]",
+            "verse-id": "[26:155]",
             "verse": "He said, \"This is a she-camel. For her is a [time of] drink, and for you is a [time of] drink, [each] on a known day.",
             "description": [
                 "From the context it appears that it",
@@ -3248,14 +3249,14 @@
             ]
         },
         {
-            "id": "[26:156]",
+            "verse-id": "[26:156]",
             "verse": "And do not touch her with harm, lest you be seized by the punishment of a terrible day.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:157]",
+            "verse-id": "[26:157]",
             "verse": "But they hamstrung her and so became regretful.",
             "description": [
                 "This dces not mean that as soon",
@@ -3277,7 +3278,7 @@
             ]
         },
         {
-            "id": "[26:158]",
+            "verse-id": "[26:158]",
             "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers.",
             "description": [
                 "As stated at other places in the",
@@ -3307,14 +3308,14 @@
             ]
         },
         {
-            "id": "[26:159]",
+            "verse-id": "[26:159]",
             "verse": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:160]",
+            "verse-id": "[26:160]",
             "verse": "The people of Lot denied the messengers",
             "description": [
                 "For comparison, see Al-A'raf: 80-84, Hud: 7483.",
@@ -3324,35 +3325,35 @@
             ]
         },
         {
-            "id": "[26:161]",
+            "verse-id": "[26:161]",
             "verse": "When their brother Lot said to them, \"Will you not fear Allah?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:162]",
+            "verse-id": "[26:162]",
             "verse": "Indeed, I am to you a trustworthy messenger.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:163]",
+            "verse-id": "[26:163]",
             "verse": "So fear Allah and obey me.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:164]",
+            "verse-id": "[26:164]",
             "verse": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:165]",
+            "verse-id": "[26:165]",
             "verse": "Do you approach males among the worlds",
             "description": [
                 "This can have two meanings: (1) Of",
@@ -3372,7 +3373,7 @@
             ]
         },
         {
-            "id": "[26:166]",
+            "verse-id": "[26:166]",
             "verse": "And leave what your Lord has created for you as mates? But you are a people transgressing.\"",
             "description": [
                 "This can also have two meanings: (1",
@@ -3400,7 +3401,7 @@
             ]
         },
         {
-            "id": "[26:167]",
+            "verse-id": "[26:167]",
             "verse": "They said, \"If you do not desist, O Lot, you will surely be of those evicted.\"",
             "description": [
                 "That is, \"You know that whosoever has",
@@ -3418,14 +3419,14 @@
             ]
         },
         {
-            "id": "[26:168]",
+            "verse-id": "[26:168]",
             "verse": "He said, \"Indeed, I am, toward your deed, of those who detest [it].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:169]",
+            "verse-id": "[26:169]",
             "verse": "My Lord, save me and my family from [the consequence of] what they do.\"",
             "description": [
                 "This may also mean: \"My Lord, deliver",
@@ -3437,14 +3438,14 @@
             ]
         },
         {
-            "id": "[26:170]",
+            "verse-id": "[26:170]",
             "verse": "So We saved him and his family, all,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:171]",
+            "verse-id": "[26:171]",
             "verse": "Except an old woman among those who remained behind.",
             "description": [
                 "This refers to the Prophet Lot`s wife",
@@ -3470,14 +3471,14 @@
             ]
         },
         {
-            "id": "[26:172]",
+            "verse-id": "[26:172]",
             "verse": "Then We destroyed the others.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:173]",
+            "verse-id": "[26:173]",
             "verse": "And We rained upon them a rain [of stones], and evil was the rain of those who were warned.",
             "description": [
                 "This was not a rain of water",
@@ -3564,21 +3565,21 @@
             ]
         },
         {
-            "id": "[26:174]",
+            "verse-id": "[26:174]",
             "verse": "Indeed in that is a sign, but most of them were not to be believers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:175]",
+            "verse-id": "[26:175]",
             "verse": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:176]",
+            "verse-id": "[26:176]",
             "verse": "The companions of the thicket denied the messengers",
             "description": [
                 "The people of Aiykah have been briefly",
@@ -3673,84 +3674,84 @@
             ]
         },
         {
-            "id": "[26:177]",
+            "verse-id": "[26:177]",
             "verse": "When Shu'ayb said to them, \"Will you not fear Allah?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:178]",
+            "verse-id": "[26:178]",
             "verse": "Indeed, I am to you a trustworthy messenger.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:179]",
+            "verse-id": "[26:179]",
             "verse": "So fear Allah and obey me.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:180]",
+            "verse-id": "[26:180]",
             "verse": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:181]",
+            "verse-id": "[26:181]",
             "verse": "Give full measure and do not be of those who cause loss.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:182]",
+            "verse-id": "[26:182]",
             "verse": "And weigh with an even balance.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:183]",
+            "verse-id": "[26:183]",
             "verse": "And do not deprive people of their due and do not commit abuse on earth, spreading corruption.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:184]",
+            "verse-id": "[26:184]",
             "verse": "And fear He who created you and the former creation.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:185]",
+            "verse-id": "[26:185]",
             "verse": "They said, \"You are only of those affected by magic.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:186]",
+            "verse-id": "[26:186]",
             "verse": "You are but a man like ourselves, and indeed, we think you are among the liars.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:187]",
+            "verse-id": "[26:187]",
             "verse": "So cause to fall upon us fragments of the sky, if you should be of the truthful.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:188]",
+            "verse-id": "[26:188]",
             "verse": "He said, \"My Lord is most knowing of what you do.\"",
             "description": [
                 "That is, \"It is not in my",
@@ -3776,7 +3777,7 @@
             ]
         },
         {
-            "id": "[26:189]",
+            "verse-id": "[26:189]",
             "verse": "And they denied him, so the punishment of the day of the black cloud seized them. Indeed, it was the punishment of a terrible day.",
             "description": [
                 "The details of this torment are neither",
@@ -3814,21 +3815,21 @@
             ]
         },
         {
-            "id": "[26:190]",
+            "verse-id": "[26:190]",
             "verse": "Indeed in that is a sign, but most of them were not to be believers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:191]",
+            "verse-id": "[26:191]",
             "verse": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:192]",
+            "verse-id": "[26:192]",
             "verse": "And indeed, the Qur'an is the revelation of the Lord of the worlds.",
             "description": [
                 "At the end of the historical account,",
@@ -3847,7 +3848,7 @@
             ]
         },
         {
-            "id": "[26:193]",
+            "verse-id": "[26:193]",
             "verse": "The Trustworthy Spirit has brought it down",
             "description": [
                 "That is, Angel Gabriel, as mentioned in",
@@ -3872,14 +3873,14 @@
             ]
         },
         {
-            "id": "[26:194]",
+            "verse-id": "[26:194]",
             "verse": "Upon your heart, [O Muhammad] - that you may be of the warners -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:195]",
+            "verse-id": "[26:195]",
             "verse": "In a clear Arabic language.",
             "description": [
                 "This sentence may be related to: \"...",
@@ -3915,7 +3916,7 @@
             ]
         },
         {
-            "id": "[26:196]",
+            "verse-id": "[26:196]",
             "verse": "And indeed, it is [mentioned] in the scriptures of former peoples.",
             "description": [
                 "That is, this very Admonition and Divine",
@@ -4019,7 +4020,7 @@
             ]
         },
         {
-            "id": "[26:197]",
+            "verse-id": "[26:197]",
             "verse": "And has it not been a sign to them that it is recognized by the scholars of the Children of Israel?",
             "description": [
                 "That is, \"The learned men of the",
@@ -4089,14 +4090,14 @@
             ]
         },
         {
-            "id": "[26:198]",
+            "verse-id": "[26:198]",
             "verse": "And even if We had revealed it to one among the foreigners",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:199]",
+            "verse-id": "[26:199]",
             "verse": "And he had recited it to them [perfectly], they would [still] not have been believers in it.",
             "description": [
                 "That is, \"Now when a man from",
@@ -4143,7 +4144,7 @@
             ]
         },
         {
-            "id": "[26:200]",
+            "verse-id": "[26:200]",
             "verse": "Thus have We inserted disbelief into the hearts of the criminals.",
             "description": [
                 "That is, unlike the truth-loving people to",
@@ -4157,7 +4158,7 @@
             ]
         },
         {
-            "id": "[26:201]",
+            "verse-id": "[26:201]",
             "verse": "They will not believe in it until they see the painful punishment.",
             "description": [
                 "The kind of torment with which the",
@@ -4166,14 +4167,14 @@
             ]
         },
         {
-            "id": "[26:202]",
+            "verse-id": "[26:202]",
             "verse": "And it will come to them suddenly while they perceive [it] not.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:203]",
+            "verse-id": "[26:203]",
             "verse": "And they will say, \"May we be reprieved?\"",
             "description": [
                 "That is, \"Until the criminals are actually",
@@ -4185,28 +4186,28 @@
             ]
         },
         {
-            "id": "[26:204]",
+            "verse-id": "[26:204]",
             "verse": "So for Our punishment are they impatient?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:205]",
+            "verse-id": "[26:205]",
             "verse": "Then have you considered if We gave them enjoyment for years",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:206]",
+            "verse-id": "[26:206]",
             "verse": "And then there came to them that which they were promised?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:207]",
+            "verse-id": "[26:207]",
             "verse": "They would not be availed by the enjoyment with which they were provided.",
             "description": [
                 "There is a subtle gap between this",
@@ -4241,14 +4242,14 @@
             ]
         },
         {
-            "id": "[26:208]",
+            "verse-id": "[26:208]",
             "verse": "And We did not destroy any city except that it had warners",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:209]",
+            "verse-id": "[26:209]",
             "verse": "As a reminder; and never have We been unjust.",
             "description": [
                 "That is, \"We could not be blamed",
@@ -4261,7 +4262,7 @@
             ]
         },
         {
-            "id": "[26:210]",
+            "verse-id": "[26:210]",
             "verse": "And the devils have not brought the revelation down.",
             "description": [
                 "After the positive aspect as stated in",
@@ -4291,7 +4292,7 @@
             ]
         },
         {
-            "id": "[26:211]",
+            "verse-id": "[26:211]",
             "verse": "It is not allowable for them, nor would they be able.",
             "description": [
                 "That is, these revelations and themes do",
@@ -4365,7 +4366,7 @@
             ]
         },
         {
-            "id": "[26:212]",
+            "verse-id": "[26:212]",
             "verse": "Indeed they, from [its] hearing, are removed.",
             "description": [
                 "That is, \"Not to speak of interfering",
@@ -4389,7 +4390,7 @@
             ]
         },
         {
-            "id": "[26:213]",
+            "verse-id": "[26:213]",
             "verse": "So do not invoke with Allah another deity and [thus] be among the punished.",
             "description": [
                 "This dces not mean that the Holy",
@@ -4418,7 +4419,7 @@
             ]
         },
         {
-            "id": "[26:214]",
+            "verse-id": "[26:214]",
             "verse": "And warn, [O Muhammad], your closest kindred.",
             "description": [
                 "Just as there could be no concession",
@@ -4540,14 +4541,14 @@
             ]
         },
         {
-            "id": "[26:215]",
+            "verse-id": "[26:215]",
             "verse": "And lower your wing to those who follow you of the believers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:216]",
+            "verse-id": "[26:216]",
             "verse": "And if they disobey you, then say, \"Indeed, I am disassociated from what you are doing.\"",
             "description": [
                 "This can have two meanings: (1) \"Treat",
@@ -4586,7 +4587,7 @@
             ]
         },
         {
-            "id": "[26:217]",
+            "verse-id": "[26:217]",
             "verse": "And rely upon the Exalted in Might, the Merciful,",
             "description": [
                 "That is, \"You should not care at",
@@ -4604,7 +4605,7 @@
             ]
         },
         {
-            "id": "[26:218]",
+            "verse-id": "[26:218]",
             "verse": "Who sees you when you arise",
             "description": [
                 "\"Getting up\" may mean getting up for",
@@ -4614,7 +4615,7 @@
             ]
         },
         {
-            "id": "[26:219]",
+            "verse-id": "[26:219]",
             "verse": "And your movement among those who prostrate.",
             "description": [
                 "This can have several meanings: (1) Allah",
@@ -4669,21 +4670,21 @@
             ]
         },
         {
-            "id": "[26:220]",
+            "verse-id": "[26:220]",
             "verse": "Indeed, He is the Hearing, the Knowing.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:221]",
+            "verse-id": "[26:221]",
             "verse": "Shall I inform you upon whom the devils descend?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[26:222]",
+            "verse-id": "[26:222]",
             "verse": "They descend upon every sinful liar.",
             "description": [
                 "This implies the sorcerers, astrologers, fortune-tellers and",
@@ -4696,7 +4697,7 @@
             ]
         },
         {
-            "id": "[26:223]",
+            "verse-id": "[26:223]",
             "verse": "They pass on what is heard, and most of them are liars.",
             "description": [
                 "This may have two meanings: (1) The",
@@ -4721,7 +4722,7 @@
             ]
         },
         {
-            "id": "[26:224]",
+            "verse-id": "[26:224]",
             "verse": "And the poets - [only] the deviators follow them;",
             "description": [
                 "That is, the people who follow and",
@@ -4775,7 +4776,7 @@
             ]
         },
         {
-            "id": "[26:225]",
+            "verse-id": "[26:225]",
             "verse": "Do you not see that in every valley they roam",
             "description": [
                 "That is, they follow no fixed pattern",
@@ -4863,7 +4864,7 @@
             ]
         },
         {
-            "id": "[26:226]",
+            "verse-id": "[26:226]",
             "verse": "And that they say what they do not do? -",
             "description": [
                 "This characteristic of the poets was just",
@@ -4887,7 +4888,7 @@
             ]
         },
         {
-            "id": "[26:227]",
+            "verse-id": "[26:227]",
             "verse": "Except those [poets] who believe and do righteous deeds and remember Allah often and defend [the Muslims] after they were wronged. And those who have wronged are going to know to what [kind of] return they will be returned.",
             "description": [
                 "Here those poets have made an exception",

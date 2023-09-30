@@ -1,16 +1,17 @@
 {
     "name": "Al-Inshiqaq",
+    "id": 84,
     "verse-count": 25,
     "verse-info": [
         {
-            "id": "[84:1]",
+            "verse-id": "[84:1]",
             "verse": "When the sky has split [open]",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[84:2]",
+            "verse-id": "[84:2]",
             "verse": "And has responded to its Lord and was obligated [to do so]",
             "description": [
                 "Literally: \"... and hears its Lord's Conmtand.\"",
@@ -22,7 +23,7 @@
             ]
         },
         {
-            "id": "[84:3]",
+            "verse-id": "[84:3]",
             "verse": "And when the earth has been extended",
             "description": [
                 "\"When the earth is spread out\": when",
@@ -60,7 +61,7 @@
             ]
         },
         {
-            "id": "[84:4]",
+            "verse-id": "[84:4]",
             "verse": "And has cast out that within it and relinquished [it]",
             "description": [
                 "That is, it will throw out aII",
@@ -71,7 +72,7 @@
             ]
         },
         {
-            "id": "[84:5]",
+            "verse-id": "[84:5]",
             "verse": "And has responded to its Lord and was obligated [to do so] -",
             "description": [
                 "Here, it has not been expressly told",
@@ -86,7 +87,7 @@
             ]
         },
         {
-            "id": "[84:6]",
+            "verse-id": "[84:6]",
             "verse": "O mankind, indeed you are laboring toward your Lord with [great] exertion and will meet it.",
             "description": [
                 "That is, \"You may if you so",
@@ -100,14 +101,14 @@
             ]
         },
         {
-            "id": "[84:7]",
+            "verse-id": "[84:7]",
             "verse": "Then as for he who is given his record in his right hand,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[84:8]",
+            "verse-id": "[84:8]",
             "verse": "He will be judged with an easy account",
             "description": [
                 "That is, his reckoning will be less",
@@ -156,7 +157,7 @@
             ]
         },
         {
-            "id": "[84:9]",
+            "verse-id": "[84:9]",
             "verse": "And return to his people in happiness.",
             "description": [
                 "\"His kinsfolk\": his family and relatives and",
@@ -165,7 +166,7 @@
             ]
         },
         {
-            "id": "[84:10]",
+            "verse-id": "[84:10]",
             "verse": "But as for he who is given his record behind his back,",
             "description": [
                 "In Surah Al Haaqqah: 25, it was",
@@ -186,21 +187,21 @@
             ]
         },
         {
-            "id": "[84:11]",
+            "verse-id": "[84:11]",
             "verse": "He will cry out for destruction",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[84:12]",
+            "verse-id": "[84:12]",
             "verse": "And [enter to] burn in a Blaze.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[84:13]",
+            "verse-id": "[84:13]",
             "verse": "Indeed, he had [once] been among his people in happiness;",
             "description": [
                 "That is, his way of life was",
@@ -226,14 +227,14 @@
             ]
         },
         {
-            "id": "[84:14]",
+            "verse-id": "[84:14]",
             "verse": "Indeed, he had thought he would never return [to Allah].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[84:15]",
+            "verse-id": "[84:15]",
             "verse": "But yes! Indeed, his Lord was ever of him, Seeing.",
             "description": [
                 "That is, it was against God's justice",
@@ -244,28 +245,28 @@
             ]
         },
         {
-            "id": "[84:16]",
+            "verse-id": "[84:16]",
             "verse": "So I swear by the twilight glow",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[84:17]",
+            "verse-id": "[84:17]",
             "verse": "And [by] the night and what it envelops",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[84:18]",
+            "verse-id": "[84:18]",
             "verse": "And [by] the moon when it becomes full",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[84:19]",
+            "verse-id": "[84:19]",
             "verse": "[That] you will surely experience state after state.",
             "description": [
                 "That is, \"You will not remain in",
@@ -299,14 +300,14 @@
             ]
         },
         {
-            "id": "[84:20]",
+            "verse-id": "[84:20]",
             "verse": "So what is [the matter] with them [that] they do not believe,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[84:21]",
+            "verse-id": "[84:21]",
             "verse": "And when the Qur'an is recited to them, they do not prostrate [to Allah]?",
             "description": [
                 "\"They do not fall prostrate\": they do",
@@ -340,14 +341,14 @@
             ]
         },
         {
-            "id": "[84:22]",
+            "verse-id": "[84:22]",
             "verse": "But those who have disbelieved deny,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[84:23]",
+            "verse-id": "[84:23]",
             "verse": "And Allah is most knowing of what they keep within themselves.",
             "description": [
                 "Another meaning also can be: \"Allah knows",
@@ -358,14 +359,14 @@
             ]
         },
         {
-            "id": "[84:24]",
+            "verse-id": "[84:24]",
             "verse": "So give them tidings of a painful punishment,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[84:25]",
+            "verse-id": "[84:25]",
             "verse": "Except for those who believe and do righteous deeds. For them is a reward uninterrupted.",
             "description": [
                 ""

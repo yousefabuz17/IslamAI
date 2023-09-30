@@ -1,16 +1,17 @@
 {
     "name": "As-Sajdah",
+    "id": 32,
     "verse-count": 30,
     "verse-info": [
         {
-            "id": "[32:1]",
+            "verse-id": "[32:1]",
             "verse": "Alif, Lam, Meem.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[32:2]",
+            "verse-id": "[32:2]",
             "verse": "[This is] the revelation of the Book about which there is no doubt from the Lord of the worlds.",
             "description": [
                 "Several Surahs of the Qur'an begin with",
@@ -149,7 +150,7 @@
             ]
         },
         {
-            "id": "[32:3]",
+            "verse-id": "[32:3]",
             "verse": "Or do they say, \"He invented it\"? Rather, it is the truth from your Lord, [O Muhammad], that you may warn a people to whom no warner has come before you [so] perhaps they will be guided.",
             "description": [
                 "Just as in the first verse it",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "id": "[32:4]",
+            "verse-id": "[32:4]",
             "verse": "It is Allah who created the heavens and the earth and whatever is between them in six days; then He established Himself above the Throne. You have not besides Him any protector or any intercessor; so will you not be reminded?",
             "description": [
                 "Now the second objection of the mushriks",
@@ -356,7 +357,7 @@
             ]
         },
         {
-            "id": "[32:5]",
+            "verse-id": "[32:5]",
             "verse": "He arranges [each] matter from the heaven to the earth; then it will ascend to Him in a Day, the extent of which is a thousand years of those which you count.",
             "description": [
                 "That is, \"The events of a thousand",
@@ -419,7 +420,7 @@
             ]
         },
         {
-            "id": "[32:6]",
+            "verse-id": "[32:6]",
             "verse": "That is the Knower of the unseen and the witnessed, the Exalted in Might, the Merciful,",
             "description": [
                 "That is, \"For others one thing may",
@@ -446,7 +447,7 @@
             ]
         },
         {
-            "id": "[32:7]",
+            "verse-id": "[32:7]",
             "verse": "Who perfected everything which He created and began the creation of man from clay.",
             "description": [
                 "That is, \"In this limitless universe He",
@@ -474,7 +475,7 @@
             ]
         },
         {
-            "id": "[32:8]",
+            "verse-id": "[32:8]",
             "verse": "Then He made his posterity out of the extract of a liquid disdained.",
             "description": [
                 "That is, \"In the beginning He created",
@@ -530,7 +531,7 @@
             ]
         },
         {
-            "id": "[32:9]",
+            "verse-id": "[32:9]",
             "verse": "Then He proportioned him and breathed into him from His [created] soul and made for you hearing and vision and hearts; little are you grateful.",
             "description": [
                 "\"Shaped him\": developed him from a microscopic",
@@ -625,7 +626,7 @@
             ]
         },
         {
-            "id": "[32:10]",
+            "verse-id": "[32:10]",
             "verse": "And they say, \"When we are lost within the earth, will we indeed be [recreated] in a new creation?\" Rather, they are, in [the matter of] the meeting with their Lord, disbelievers.",
             "description": [
                 "After answering the disbelievers' objections about the",
@@ -720,7 +721,7 @@
             ]
         },
         {
-            "id": "[32:11]",
+            "verse-id": "[32:11]",
             "verse": "Say, \"The angel of death will take you who has been entrusted with you. Then to your Lord you will be returned.\"",
             "description": [
                 "That is, \"Your `ego' will not mix",
@@ -784,7 +785,7 @@
             ]
         },
         {
-            "id": "[32:12]",
+            "verse-id": "[32:12]",
             "verse": "If you could but see when the criminals are hanging their heads before their Lord, [saying], \"Our Lord, we have seen and heard, so return us [to the world]; we will work righteousness. Indeed, we are [now] certain.\"",
             "description": [
                 "This will be the scene when after",
@@ -794,7 +795,7 @@
             ]
         },
         {
-            "id": "[32:13]",
+            "verse-id": "[32:13]",
             "verse": "And if We had willed, We could have given every soul its guidance, but the word from Me will come into effect [that] \"I will surely fill Hell with jinn and people all together.",
             "description": [
                 "That is, \"Had it been Our will",
@@ -857,7 +858,7 @@
             ]
         },
         {
-            "id": "[32:14]",
+            "verse-id": "[32:14]",
             "verse": "So taste [punishment] because you forgot the meeting of this, your Day; indeed, We have [accordingly] forgotten you. And taste the punishment of eternity for what you used to do.\"",
             "description": [
                 "That is, \"You became so absorbed in",
@@ -867,7 +868,7 @@
             ]
         },
         {
-            "id": "[32:15]",
+            "verse-id": "[32:15]",
             "verse": "Only those believe in Our verses who, when they are reminded by them, fall down in prostration and exalt [Allah] with praise of their Lord, and they are not arrogant.",
             "description": [
                 "In other words, they do not regard",
@@ -880,7 +881,7 @@
             ]
         },
         {
-            "id": "[32:16]",
+            "verse-id": "[32:16]",
             "verse": "They arise from [their] beds; they supplicate their Lord in fear and aspiration, and from what We have provided them, they spend.",
             "description": [
                 "That is, \"They worship their Lord instead",
@@ -911,7 +912,7 @@
             ]
         },
         {
-            "id": "[32:17]",
+            "verse-id": "[32:17]",
             "verse": "And no soul knows what has been hidden for them of comfort for eyes as reward for what they used to do.",
             "description": [
                 "Bukhari, Muslim, Tirmidhi and Imam Ahmad have",
@@ -931,7 +932,7 @@
             ]
         },
         {
-            "id": "[32:18]",
+            "verse-id": "[32:18]",
             "verse": "Then is one who was a believer like one who was defiantly disobedient? They are not equal.",
             "description": [
                 "Here mu min (believer) and Fasiq (sinner)",
@@ -952,7 +953,7 @@
             ]
         },
         {
-            "id": "[32:19]",
+            "verse-id": "[32:19]",
             "verse": "As for those who believed and did righteous deeds, for them will be the Gardens of Refuge as accommodation for what they used to do.",
             "description": [
                 "That is, \"The Gardens will not merely",
@@ -963,14 +964,14 @@
             ]
         },
         {
-            "id": "[32:20]",
+            "verse-id": "[32:20]",
             "verse": "But as for those who defiantly disobeyed, their refuge is the Fire. Every time they wish to emerge from it, they will be returned to it while it is said to them, \"Taste the punishment of the Fire which you used to deny.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[32:21]",
+            "verse-id": "[32:21]",
             "verse": "And we will surely let them taste the nearer punishment short of the greater punishment that perhaps they will repent.",
             "description": [
                 "\"The greater torment\" is the torment of",
@@ -1027,7 +1028,7 @@
             ]
         },
         {
-            "id": "[32:22]",
+            "verse-id": "[32:22]",
             "verse": "And who is more unjust than one who is reminded of the verses of his Lord; then he turns away from them? Indeed We, from the criminals, will take retribution.",
             "description": [
                 "\"The Signs of his Lord\" include alI",
@@ -1090,7 +1091,7 @@
             ]
         },
         {
-            "id": "[32:23]",
+            "verse-id": "[32:23]",
             "verse": "And We certainly gave Moses the Scripture, so do not be in doubt over his meeting. And we made the Torah guidance for the Children of Israel.",
             "description": [
                 "The address apparently is to the Holy",
@@ -1154,7 +1155,7 @@
             ]
         },
         {
-            "id": "[32:24]",
+            "verse-id": "[32:24]",
             "verse": "And We made from among them leaders guiding by Our command when they were patient and [when] they were certain of Our signs.",
             "description": [
                 "That is, \"Whatever progress the children of",
@@ -1197,7 +1198,7 @@
             ]
         },
         {
-            "id": "[32:25]",
+            "verse-id": "[32:25]",
             "verse": "Indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ.",
             "description": [
                 "The allusion is to the differences and",
@@ -1215,7 +1216,7 @@
             ]
         },
         {
-            "id": "[32:26]",
+            "verse-id": "[32:26]",
             "verse": "Has it not become clear to them how many generations We destroyed before them, [as] they walk among their dwellings? Indeed in that are signs; then do they not hear?",
             "description": [
                 "That is, \"Have they not learnt any",
@@ -1232,7 +1233,7 @@
             ]
         },
         {
-            "id": "[32:27]",
+            "verse-id": "[32:27]",
             "verse": "Have they not seen that We drive the water [in clouds] to barren land and bring forth thereby crops from which their livestock eat and [they] themselves? Then do they not see?",
             "description": [
                 "Keeping the context in view it becomes",
@@ -1257,7 +1258,7 @@
             ]
         },
         {
-            "id": "[32:28]",
+            "verse-id": "[32:28]",
             "verse": "And they say, \"When will be this conquest, if you should be truthful?\"",
             "description": [
                 "That is, \"You say that Allah's succour",
@@ -1269,7 +1270,7 @@
             ]
         },
         {
-            "id": "[32:29]",
+            "verse-id": "[32:29]",
             "verse": "Say, [O Muhammad], \"On the Day of Conquest the belief of those who had disbelieved will not benefit them, nor will they be reprieved.\"",
             "description": [
                 "That is, \"It is not a thing",
@@ -1285,7 +1286,7 @@
             ]
         },
         {
-            "id": "[32:30]",
+            "verse-id": "[32:30]",
             "verse": "So turn away from them and wait. Indeed, they are waiting.",
             "description": [
                 ""

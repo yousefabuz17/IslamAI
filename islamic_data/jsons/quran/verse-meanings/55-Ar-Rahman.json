@@ -1,16 +1,17 @@
 {
     "name": "Ar-Rahman",
+    "id": 55,
     "verse-count": 78,
     "verse-info": [
         {
-            "id": "[55:1]",
+            "verse-id": "[55:1]",
             "verse": "The Most Merciful",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:2]",
+            "verse-id": "[55:2]",
             "verse": "Taught the Qur'an,",
             "description": [
                 "That is, the teaching of this Qur'an",
@@ -58,7 +59,7 @@
             ]
         },
         {
-            "id": "[55:3]",
+            "verse-id": "[55:3]",
             "verse": "Created man,",
             "description": [
                 "In other words, as Allah is the",
@@ -125,7 +126,7 @@
             ]
         },
         {
-            "id": "[55:4]",
+            "verse-id": "[55:4]",
             "verse": "[And] taught him eloquence.",
             "description": [
                 "One meaning of the word bayan, as",
@@ -192,7 +193,7 @@
             ]
         },
         {
-            "id": "[55:5]",
+            "verse-id": "[55:5]",
             "verse": "The sun and the moon [move] by precise calculation,",
             "description": [
                 "That is, \"It is a powerful law",
@@ -222,7 +223,7 @@
             ]
         },
         {
-            "id": "[55:6]",
+            "verse-id": "[55:6]",
             "verse": "And the stars and trees prostrate.",
             "description": [
                 "The word used in the original is",
@@ -296,7 +297,7 @@
             ]
         },
         {
-            "id": "[55:7]",
+            "verse-id": "[55:7]",
             "verse": "And the heaven He raised and imposed the balance",
             "description": [
                 "Almost aII the commentators have interpreted mizan",
@@ -322,14 +323,14 @@
             ]
         },
         {
-            "id": "[55:8]",
+            "verse-id": "[55:8]",
             "verse": "That you not transgress within the balance.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:9]",
+            "verse-id": "[55:9]",
             "verse": "And establish weight in justice and do not make deficient the balance.",
             "description": [
                 "That is, \"As you are living in",
@@ -359,7 +360,7 @@
             ]
         },
         {
-            "id": "[55:10]",
+            "verse-id": "[55:10]",
             "verse": "And the earth He laid [out] for the creatures.",
             "description": [
                 "Now from here to verse 20, mention",
@@ -420,14 +421,14 @@
             ]
         },
         {
-            "id": "[55:11]",
+            "verse-id": "[55:11]",
             "verse": "Therein is fruit and palm trees having sheaths [of dates]",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:12]",
+            "verse-id": "[55:12]",
             "verse": "And grain having husks and scented plants.",
             "description": [
                 "That is, grain for men and husk",
@@ -435,7 +436,7 @@
             ]
         },
         {
-            "id": "[55:13]",
+            "verse-id": "[55:13]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 "The word alaa' in the refrain as",
@@ -569,7 +570,7 @@
             ]
         },
         {
-            "id": "[55:14]",
+            "verse-id": "[55:14]",
             "verse": "He created man from clay like [that of] pottery.",
             "description": [
                 "The order of the initial stages of",
@@ -615,7 +616,7 @@
             ]
         },
         {
-            "id": "[55:15]",
+            "verse-id": "[55:15]",
             "verse": "And He created the jinn from a smokeless flame of fire.",
             "description": [
                 "The words in the original are: mim-marij-im-min-nar.",
@@ -709,7 +710,7 @@
             ]
         },
         {
-            "id": "[55:16]",
+            "verse-id": "[55:16]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 "Here, in view of the context, It",
@@ -757,7 +758,7 @@
             ]
         },
         {
-            "id": "[55:17]",
+            "verse-id": "[55:17]",
             "verse": "[He is] Lord of the two sunrises and Lord of the two sunsets.",
             "description": [
                 "'Both the Easts and both the Wests\"",
@@ -804,7 +805,7 @@
             ]
         },
         {
-            "id": "[55:18]",
+            "verse-id": "[55:18]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 "Here also, although in view of the",
@@ -827,14 +828,14 @@
             ]
         },
         {
-            "id": "[55:19]",
+            "verse-id": "[55:19]",
             "verse": "He released the two seas, meeting [side by side];",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:20]",
+            "verse-id": "[55:20]",
             "verse": "Between them is a barrier [so] neither of them transgresses.",
             "description": [
                 "For explanation, see E. N . 68",
@@ -842,14 +843,14 @@
             ]
         },
         {
-            "id": "[55:21]",
+            "verse-id": "[55:21]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:22]",
+            "verse-id": "[55:22]",
             "verse": "From both of them emerge pearl and coral.",
             "description": [
                 "According to Ibn 'Abbas, Qatadah, Ibn Zaid",
@@ -883,7 +884,7 @@
             ]
         },
         {
-            "id": "[55:23]",
+            "verse-id": "[55:23]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 "Here also though the aspect of power",
@@ -901,7 +902,7 @@
             ]
         },
         {
-            "id": "[55:24]",
+            "verse-id": "[55:24]",
             "verse": "And to Him belong the ships [with sails] elevated in the sea like mountains.",
             "description": [
                 "\"His are the ships...\": Ships became possible",
@@ -918,7 +919,7 @@
             ]
         },
         {
-            "id": "[55:25]",
+            "verse-id": "[55:25]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 "Here, the aspect of the blessing; and",
@@ -929,7 +930,7 @@
             ]
         },
         {
-            "id": "[55:26]",
+            "verse-id": "[55:26]",
             "verse": "Everyone upon the earth will perish,",
             "description": [
                 "From hero to vane 30, the jinn",
@@ -978,14 +979,14 @@
             ]
         },
         {
-            "id": "[55:27]",
+            "verse-id": "[55:27]",
             "verse": "And there will remain the Face of your Lord, Owner of Majesty and Honor.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:28]",
+            "verse-id": "[55:28]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 "Here, as the context itself shows, the",
@@ -1007,7 +1008,7 @@
             ]
         },
         {
-            "id": "[55:29]",
+            "verse-id": "[55:29]",
             "verse": "Whoever is within the heavens and earth asks Him; every day He is bringing about a matter.",
             "description": [
                 "That is, \"He is continuously and endlessly",
@@ -1029,7 +1030,7 @@
             ]
         },
         {
-            "id": "[55:30]",
+            "verse-id": "[55:30]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 "Here, alaa seems to have been treed",
@@ -1062,7 +1063,7 @@
             ]
         },
         {
-            "id": "[55:31]",
+            "verse-id": "[55:31]",
             "verse": "We will attend to you, O prominent beings.",
             "description": [
                 "Thaqalan is derived from thiql which means",
@@ -1125,7 +1126,7 @@
             ]
         },
         {
-            "id": "[55:32]",
+            "verse-id": "[55:32]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 "Here, alaa' can also be taken in",
@@ -1158,7 +1159,7 @@
             ]
         },
         {
-            "id": "[55:33]",
+            "verse-id": "[55:33]",
             "verse": "O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allah].",
             "description": [
                 "'The earth and the heavens\": the Universe",
@@ -1179,14 +1180,14 @@
             ]
         },
         {
-            "id": "[55:34]",
+            "verse-id": "[55:34]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:35]",
+            "verse-id": "[55:35]",
             "verse": "There will be sent upon you a flame of fire and smoke, and you will not defend yourselves.",
             "description": [
                 "The word shuwaz, as used in the",
@@ -1199,14 +1200,14 @@
             ]
         },
         {
-            "id": "[55:36]",
+            "verse-id": "[55:36]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:37]",
+            "verse-id": "[55:37]",
             "verse": "And when the heaven is split open and becomes rose-colored like oil -",
             "description": [
                 "This refers to the Day of Resurrection.",
@@ -1221,7 +1222,7 @@
             ]
         },
         {
-            "id": "[55:38]",
+            "verse-id": "[55:38]",
             "verse": "So which of the favors of your Lord would you deny? -",
             "description": [
                 "That is, \"Today you deem Resurrection impossible;",
@@ -1234,7 +1235,7 @@
             ]
         },
         {
-            "id": "[55:39]",
+            "verse-id": "[55:39]",
             "verse": "Then on that Day none will be asked about his sin among men or jinn.",
             "description": [
                 "This is being explained by the subsequent",
@@ -1281,7 +1282,7 @@
             ]
         },
         {
-            "id": "[55:40]",
+            "verse-id": "[55:40]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 "The real basis of the crime according",
@@ -1333,28 +1334,28 @@
             ]
         },
         {
-            "id": "[55:41]",
+            "verse-id": "[55:41]",
             "verse": "The criminals will be known by their marks, and they will be seized by the forelocks and the feet.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:42]",
+            "verse-id": "[55:42]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:43]",
+            "verse-id": "[55:43]",
             "verse": "This is Hell, which the criminals deny.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:44]",
+            "verse-id": "[55:44]",
             "verse": "They will go around between it and scalding water, heated [to the utmost degree].",
             "description": [
                 "That is, \"In Hell they will feel",
@@ -1368,7 +1369,7 @@
             ]
         },
         {
-            "id": "[55:45]",
+            "verse-id": "[55:45]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 "That is, \"Will you even at that",
@@ -1381,7 +1382,7 @@
             ]
         },
         {
-            "id": "[55:46]",
+            "verse-id": "[55:46]",
             "verse": "But for he who has feared the position of his Lord are two gardens -",
             "description": [
                 "'Who dreads... Lord\": who fears God in",
@@ -1419,7 +1420,7 @@
             ]
         },
         {
-            "id": "[55:47]",
+            "verse-id": "[55:47]",
             "verse": "So which of the favors of your Lord would you deny? -",
             "description": [
                 "From here till the end, the word",
@@ -1462,35 +1463,35 @@
             ]
         },
         {
-            "id": "[55:48]",
+            "verse-id": "[55:48]",
             "verse": "Having [spreading] branches.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:49]",
+            "verse-id": "[55:49]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:50]",
+            "verse-id": "[55:50]",
             "verse": "In both of them are two springs, flowing.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:51]",
+            "verse-id": "[55:51]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:52]",
+            "verse-id": "[55:52]",
             "verse": "In both of them are of every fruit, two kinds.",
             "description": [
                 "This can have two meanings: (1) \"The",
@@ -1509,14 +1510,14 @@
             ]
         },
         {
-            "id": "[55:53]",
+            "verse-id": "[55:53]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:54]",
+            "verse-id": "[55:54]",
             "verse": "[They are] reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low.",
             "description": [
                 "That is, \"When their lining will be",
@@ -1526,14 +1527,14 @@
             ]
         },
         {
-            "id": "[55:55]",
+            "verse-id": "[55:55]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:56]",
+            "verse-id": "[55:56]",
             "verse": "In them are women limiting [their] glances, untouched before them by man or jinni -",
             "description": [
                 "This is the real character of the",
@@ -1592,28 +1593,28 @@
             ]
         },
         {
-            "id": "[55:57]",
+            "verse-id": "[55:57]",
             "verse": "So which of the favors of your Lord would you deny? -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:58]",
+            "verse-id": "[55:58]",
             "verse": "As if they were rubies and coral.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:59]",
+            "verse-id": "[55:59]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:60]",
+            "verse-id": "[55:60]",
             "verse": "Is the reward for good [anything] but good?",
             "description": [
                 "That is, \"How, after aII, is it",
@@ -1631,7 +1632,7 @@
             ]
         },
         {
-            "id": "[55:61]",
+            "verse-id": "[55:61]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 "Obviously, the parson who is a denier",
@@ -1659,7 +1660,7 @@
             ]
         },
         {
-            "id": "[55:62]",
+            "verse-id": "[55:62]",
             "verse": "And below them both [in excellence] are two [other] gardens -",
             "description": [
                 "The word dun as used in min",
@@ -1714,14 +1715,14 @@
             ]
         },
         {
-            "id": "[55:63]",
+            "verse-id": "[55:63]",
             "verse": "So which of the favors of your Lord would you deny? -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:64]",
+            "verse-id": "[55:64]",
             "verse": "Dark green [in color].",
             "description": [
                 "The word madhammatan has been used in",
@@ -1731,56 +1732,56 @@
             ]
         },
         {
-            "id": "[55:65]",
+            "verse-id": "[55:65]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:66]",
+            "verse-id": "[55:66]",
             "verse": "In both of them are two springs, spouting.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:67]",
+            "verse-id": "[55:67]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:68]",
+            "verse-id": "[55:68]",
             "verse": "In both of them are fruit and palm trees and pomegranates.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:69]",
+            "verse-id": "[55:69]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:70]",
+            "verse-id": "[55:70]",
             "verse": "In them are good and beautiful women -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:71]",
+            "verse-id": "[55:71]",
             "verse": "So which of the favors of your Lord would you deny? -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:72]",
+            "verse-id": "[55:72]",
             "verse": "Fair ones reserved in pavilions -",
             "description": [
                 "For the explanation of her see E.",
@@ -1847,28 +1848,28 @@
             ]
         },
         {
-            "id": "[55:73]",
+            "verse-id": "[55:73]",
             "verse": "So which of the favors of your Lord would you deny? -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:74]",
+            "verse-id": "[55:74]",
             "verse": "Untouched before them by man or jinni -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:75]",
+            "verse-id": "[55:75]",
             "verse": "So which of the favors of your Lord would you deny? -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:76]",
+            "verse-id": "[55:76]",
             "verse": "Reclining on green cushions and beautiful fine carpets.",
             "description": [
                 "The word abqari in the original is",
@@ -1892,14 +1893,14 @@
             ]
         },
         {
-            "id": "[55:77]",
+            "verse-id": "[55:77]",
             "verse": "So which of the favors of your Lord would you deny?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[55:78]",
+            "verse-id": "[55:78]",
             "verse": "Blessed is the name of your Lord, Owner of Majesty and Honor.",
             "description": [
                 ""

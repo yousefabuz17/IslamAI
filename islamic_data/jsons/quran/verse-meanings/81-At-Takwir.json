@@ -1,9 +1,10 @@
 {
     "name": "At-Takwir",
+    "id": 81,
     "verse-count": 29,
     "verse-info": [
         {
-            "id": "[81:1]",
+            "verse-id": "[81:1]",
             "verse": "When the sun is wrapped up [in darkness]",
             "description": [
                 "This is a matchless metaphor for causing",
@@ -20,7 +21,7 @@
             ]
         },
         {
-            "id": "[81:2]",
+            "verse-id": "[81:2]",
             "verse": "And when the stars fall, dispersing,",
             "description": [
                 "That is, when the force which is",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "id": "[81:3]",
+            "verse-id": "[81:3]",
             "verse": "And when the mountains are removed",
             "description": [
                 "In other words, the earth also will",
@@ -48,7 +49,7 @@
             ]
         },
         {
-            "id": "[81:4]",
+            "verse-id": "[81:4]",
             "verse": "And when full-term she-camels are neglected",
             "description": [
                 "This was by far the best way",
@@ -69,7 +70,7 @@
             ]
         },
         {
-            "id": "[81:5]",
+            "verse-id": "[81:5]",
             "verse": "And when the wild beasts are gathered",
             "description": [
                 "When a general calamity befalls the world,",
@@ -80,7 +81,7 @@
             ]
         },
         {
-            "id": "[81:6]",
+            "verse-id": "[81:6]",
             "verse": "And when the seas are filled with flame",
             "description": [
                 "The word sujjirat as used in the",
@@ -106,7 +107,7 @@
             ]
         },
         {
-            "id": "[81:7]",
+            "verse-id": "[81:7]",
             "verse": "And when the souls are paired",
             "description": [
                 "From here begins mention of the second",
@@ -118,14 +119,14 @@
             ]
         },
         {
-            "id": "[81:8]",
+            "verse-id": "[81:8]",
             "verse": "And when the girl [who was] buried alive is asked",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[81:9]",
+            "verse-id": "[81:9]",
             "verse": "For what sin she was killed",
             "description": [
                 "The style of this verse reflects an",
@@ -345,14 +346,14 @@
             ]
         },
         {
-            "id": "[81:10]",
+            "verse-id": "[81:10]",
             "verse": "And when the pages are made public",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[81:11]",
+            "verse-id": "[81:11]",
             "verse": "And when the sky is stripped away",
             "description": [
                 "That is, everything which is hidden from",
@@ -367,14 +368,14 @@
             ]
         },
         {
-            "id": "[81:12]",
+            "verse-id": "[81:12]",
             "verse": "And when Hellfire is set ablaze",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[81:13]",
+            "verse-id": "[81:13]",
             "verse": "And when Paradise is brought near,",
             "description": [
                 "That is, in the Plain of Resurrection,",
@@ -393,14 +394,14 @@
             ]
         },
         {
-            "id": "[81:14]",
+            "verse-id": "[81:14]",
             "verse": "A soul will [then] know what it has brought [with it].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[81:15]",
+            "verse-id": "[81:15]",
             "verse": "So I swear by the retreating stars -",
             "description": [
                 "That is, \"You are not correct that",
@@ -411,21 +412,21 @@
             ]
         },
         {
-            "id": "[81:16]",
+            "verse-id": "[81:16]",
             "verse": "Those that run [their courses] and disappear -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[81:17]",
+            "verse-id": "[81:17]",
             "verse": "And by the night as it closes in",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[81:18]",
+            "verse-id": "[81:18]",
             "verse": "And by the dawn when it breathes",
             "description": [
                 "That for which the oath has been",
@@ -444,7 +445,7 @@
             ]
         },
         {
-            "id": "[81:19]",
+            "verse-id": "[81:19]",
             "verse": "[That] indeed, the Qur'an is a word [conveyed by] a noble messenger",
             "description": [
                 "\"A noble messenger\": the Angel who brought",
@@ -476,7 +477,7 @@
             ]
         },
         {
-            "id": "[81:20]",
+            "verse-id": "[81:20]",
             "verse": "[Who is] possessed of power and with the Owner of the Throne, secure [in position],",
             "description": [
                 "Surah An-Najm: 45, deals with the same",
@@ -504,7 +505,7 @@
             ]
         },
         {
-            "id": "[81:21]",
+            "verse-id": "[81:21]",
             "verse": "Obeyed there [in the heavens] and trustworthy.",
             "description": [
                 "That is, he is the chief of",
@@ -518,7 +519,7 @@
             ]
         },
         {
-            "id": "[81:22]",
+            "verse-id": "[81:22]",
             "verse": "And your companion is not [at all] mad.",
             "description": [
                 "\"Your Companion\": the Holy Messenger of Allah",
@@ -538,7 +539,7 @@
             ]
         },
         {
-            "id": "[81:23]",
+            "verse-id": "[81:23]",
             "verse": "And he has already seen Gabriel in the clear horizon.",
             "description": [
                 "In An-Najm: 7-9, this observation of the",
@@ -548,7 +549,7 @@
             ]
         },
         {
-            "id": "[81:24]",
+            "verse-id": "[81:24]",
             "verse": "And Muhammad is not a withholder of [knowledge of] the unseen.",
             "description": [
                 "That is, \"The Holy Messenger of Allah",
@@ -562,7 +563,7 @@
             ]
         },
         {
-            "id": "[81:25]",
+            "verse-id": "[81:25]",
             "verse": "And the Qur'an is not the word of a devil, expelled [from the heavens].",
             "description": [
                 "That is, \"You are wrong in thinking",
@@ -585,21 +586,21 @@
             ]
         },
         {
-            "id": "[81:26]",
+            "verse-id": "[81:26]",
             "verse": "So where are you going?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[81:27]",
+            "verse-id": "[81:27]",
             "verse": "It is not except a reminder to the worlds",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[81:28]",
+            "verse-id": "[81:28]",
             "verse": "For whoever wills among you to take a right course.",
             "description": [
                 "In other words, although this is an",
@@ -613,7 +614,7 @@
             ]
         },
         {
-            "id": "[81:29]",
+            "verse-id": "[81:29]",
             "verse": "And you do not will except that Allah wills - Lord of the worlds.",
             "description": [
                 "This theme has already occurred in Al-Muddaththir:",

@@ -1,9 +1,10 @@
 {
     "name": "Al-Qalam",
+    "id": 68,
     "verse-count": 52,
     "verse-info": [
         {
-            "id": "[68:1]",
+            "verse-id": "[68:1]",
             "verse": "Nun. By the pen and what they inscribe,",
             "description": [
                 "The great commentator Mujahid says that by",
@@ -15,7 +16,7 @@
             ]
         },
         {
-            "id": "[68:2]",
+            "verse-id": "[68:2]",
             "verse": "You are not, [O Muhammad], by the favor of your Lord, a madman.",
             "description": [
                 "That is for which an oath has",
@@ -65,7 +66,7 @@
             ]
         },
         {
-            "id": "[68:3]",
+            "verse-id": "[68:3]",
             "verse": "And indeed, for you is a reward uninterrupted.",
             "description": [
                 "That is, \"You will get an unlimited",
@@ -79,7 +80,7 @@
             ]
         },
         {
-            "id": "[68:4]",
+            "verse-id": "[68:4]",
             "verse": "And indeed, you are of a great moral character.",
             "description": [
                 "Here, this sentence gives two meanings: (1)",
@@ -178,35 +179,35 @@
             ]
         },
         {
-            "id": "[68:5]",
+            "verse-id": "[68:5]",
             "verse": "So you will see and they will see",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:6]",
+            "verse-id": "[68:6]",
             "verse": "Which of you is the afflicted [by a devil].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:7]",
+            "verse-id": "[68:7]",
             "verse": "Indeed, your Lord is most knowing of who has gone astray from His way, and He is most knowing of the [rightly] guided.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:8]",
+            "verse-id": "[68:8]",
             "verse": "Then do not obey the deniers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:9]",
+            "verse-id": "[68:9]",
             "verse": "They wish that you would soften [in your position], so they would soften [toward you].",
             "description": [
                 "That is, \"If you slackened a little",
@@ -219,7 +220,7 @@
             ]
         },
         {
-            "id": "[68:10]",
+            "verse-id": "[68:10]",
             "verse": "And do not obey every worthless habitual swearer",
             "description": [
                 "The word mahin is used for a",
@@ -236,14 +237,14 @@
             ]
         },
         {
-            "id": "[68:11]",
+            "verse-id": "[68:11]",
             "verse": "[And] scorner, going about with malicious gossip -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:12]",
+            "verse-id": "[68:12]",
             "verse": "A preventer of good, transgressing and sinful,",
             "description": [
                 "Khayr in Arabic is used both for",
@@ -266,7 +267,7 @@
             ]
         },
         {
-            "id": "[68:13]",
+            "verse-id": "[68:13]",
             "verse": "Cruel, moreover, and an illegitimate pretender.",
             "description": [
                 "The word zanim is used to describe",
@@ -294,7 +295,7 @@
             ]
         },
         {
-            "id": "[68:14]",
+            "verse-id": "[68:14]",
             "verse": "Because he is a possessor of wealth and children,",
             "description": [
                 "This sentence may be connected with the",
@@ -311,14 +312,14 @@
             ]
         },
         {
-            "id": "[68:15]",
+            "verse-id": "[68:15]",
             "verse": "When Our verses are recited to him, he says, \"Legends of the former peoples.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:16]",
+            "verse-id": "[68:16]",
             "verse": "We will brand him upon the snout.",
             "description": [
                 "Because he thought he was a man",
@@ -331,7 +332,7 @@
             ]
         },
         {
-            "id": "[68:17]",
+            "verse-id": "[68:17]",
             "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning",
             "description": [
                 "Here, one should also keep Al-Kahf: 32-44",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "id": "[68:18]",
+            "verse-id": "[68:18]",
             "verse": "Without making exception.",
             "description": [
                 "That is, \"They were so sure and",
@@ -353,28 +354,28 @@
             ]
         },
         {
-            "id": "[68:19]",
+            "verse-id": "[68:19]",
             "verse": "So there came upon the garden an affliction from your Lord while they were asleep.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:20]",
+            "verse-id": "[68:20]",
             "verse": "And it became as though reaped.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:21]",
+            "verse-id": "[68:21]",
             "verse": "And they called one another at morning,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:22]",
+            "verse-id": "[68:22]",
             "verse": "[Saying], \"Go early to your crop if you would cut the fruit.\"",
             "description": [
                 "The word tilth probably has been used",
@@ -384,21 +385,21 @@
             ]
         },
         {
-            "id": "[68:23]",
+            "verse-id": "[68:23]",
             "verse": "So they set out, while lowering their voices,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:24]",
+            "verse-id": "[68:24]",
             "verse": "[Saying], \"There will surely not enter it today upon you [any] poor person.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:25]",
+            "verse-id": "[68:25]",
             "verse": "And they went early in determination, [assuming themselves] able.",
             "description": [
                 "The word hard in Arabic is used",
@@ -408,14 +409,14 @@
             ]
         },
         {
-            "id": "[68:26]",
+            "verse-id": "[68:26]",
             "verse": "But when they saw it, they said, \"Indeed, we are lost;",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:27]",
+            "verse-id": "[68:27]",
             "verse": "Rather, we have been deprived.\"",
             "description": [
                 "That is, on seeing the garden they",
@@ -428,7 +429,7 @@
             ]
         },
         {
-            "id": "[68:28]",
+            "verse-id": "[68:28]",
             "verse": "The most moderate of them said, \"Did I not say to you, 'Why do you not exalt [Allah]?' \"",
             "description": [
                 "This means that when they were saying",
@@ -447,14 +448,14 @@
             ]
         },
         {
-            "id": "[68:29]",
+            "verse-id": "[68:29]",
             "verse": "They said, \"Exalted is our Lord! Indeed, we were wrongdoers.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:30]",
+            "verse-id": "[68:30]",
             "verse": "Then they approached one another, blaming each other.",
             "description": [
                 "That is, each reproached and blamed the",
@@ -464,28 +465,28 @@
             ]
         },
         {
-            "id": "[68:31]",
+            "verse-id": "[68:31]",
             "verse": "They said, \"O woe to us; indeed we were transgressors.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:32]",
+            "verse-id": "[68:32]",
             "verse": "Perhaps our Lord will substitute for us [one] better than it. Indeed, we are toward our Lord desirous.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:33]",
+            "verse-id": "[68:33]",
             "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:34]",
+            "verse-id": "[68:34]",
             "verse": "Indeed, for the righteous with their Lord are the Gardens of Pleasure.",
             "description": [
                 "This is. a rejoinder to the chiefs",
@@ -503,14 +504,14 @@
             ]
         },
         {
-            "id": "[68:35]",
+            "verse-id": "[68:35]",
             "verse": "Then will We treat the Muslims like the criminals?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:36]",
+            "verse-id": "[68:36]",
             "verse": "What is [the matter] with you? How do you judge?",
             "description": [
                 "That is, \"lt is against reason that",
@@ -534,7 +535,7 @@
             ]
         },
         {
-            "id": "[68:37]",
+            "verse-id": "[68:37]",
             "verse": "Or do you have a scripture in which you learn",
             "description": [
                 "That is, the Book sent down by",
@@ -542,21 +543,21 @@
             ]
         },
         {
-            "id": "[68:38]",
+            "verse-id": "[68:38]",
             "verse": "That indeed for you is whatever you choose?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:39]",
+            "verse-id": "[68:39]",
             "verse": "Or do you have oaths [binding] upon Us, extending until the Day of Resurrection, that indeed for you is whatever you judge?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:40]",
+            "verse-id": "[68:40]",
             "verse": "Ask them which of them, for that [claim], is responsible.",
             "description": [
                 "Za'im in Arabic is used for a",
@@ -570,7 +571,7 @@
             ]
         },
         {
-            "id": "[68:41]",
+            "verse-id": "[68:41]",
             "verse": "Or do they have partners? Then let them bring their partners, if they should be truthful.",
             "description": [
                 "That is, \"The judgement you are passing",
@@ -588,7 +589,7 @@
             ]
         },
         {
-            "id": "[68:42]",
+            "verse-id": "[68:42]",
             "verse": "The Day the shin will be uncovered and they are invited to prostration but the disbelievers will not be able,",
             "description": [
                 "Literally: \"The Day the shin shall be",
@@ -610,7 +611,7 @@
             ]
         },
         {
-            "id": "[68:43]",
+            "verse-id": "[68:43]",
             "verse": "Their eyes humbled, humiliation will cover them. And they used to be invited to prostration while they were sound.",
             "description": [
                 "It means: On the Resurrection Day it",
@@ -631,7 +632,7 @@
             ]
         },
         {
-            "id": "[68:44]",
+            "verse-id": "[68:44]",
             "verse": "So leave Me, [O Muhammad], with [the matter of] whoever denies the Qur'an. We will progressively lead them [to punishment] from where they do not know.",
             "description": [
                 "That is, \"Do not worry yourself as",
@@ -658,7 +659,7 @@
             ]
         },
         {
-            "id": "[68:45]",
+            "verse-id": "[68:45]",
             "verse": "And I will give them time. Indeed, My plan is firm.",
             "description": [
                 "The word kayd in the original means",
@@ -672,7 +673,7 @@
             ]
         },
         {
-            "id": "[68:46]",
+            "verse-id": "[68:46]",
             "verse": "Or do you ask of them a payment, so they are by debt burdened down?",
             "description": [
                 "The question apparently is being asked of",
@@ -694,7 +695,7 @@
             ]
         },
         {
-            "id": "[68:47]",
+            "verse-id": "[68:47]",
             "verse": "Or have they [knowledge of] the unseen, so they write [it] down?",
             "description": [
                 "This second question also appears to be",
@@ -711,7 +712,7 @@
             ]
         },
         {
-            "id": "[68:48]",
+            "verse-id": "[68:48]",
             "verse": "Then be patient for the decision of your Lord, [O Muhammad], and be not like the companion of the fish when he called out while he was distressed.",
             "description": [
                 "That is, \"The time when Allah will",
@@ -751,7 +752,7 @@
             ]
         },
         {
-            "id": "[68:49]",
+            "verse-id": "[68:49]",
             "verse": "If not that a favor from his Lord overtook him, he would have been thrown onto the naked shore while he was censured.",
             "description": [
                 "When this verse is read with As-Saaffat:",
@@ -770,14 +771,14 @@
             ]
         },
         {
-            "id": "[68:50]",
+            "verse-id": "[68:50]",
             "verse": "And his Lord chose him and made him of the righteous.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[68:51]",
+            "verse-id": "[68:51]",
             "verse": "And indeed, those who disbelieve would almost make you slip with their eyes when they hear the message, and they say, \"Indeed, he is mad.\"",
             "description": [
                 "\"Would trip you up\": \"Would eat you",
@@ -788,7 +789,7 @@
             ]
         },
         {
-            "id": "[68:52]",
+            "verse-id": "[68:52]",
             "verse": "But it is not except a reminder to the worlds.",
             "description": [
                 ""

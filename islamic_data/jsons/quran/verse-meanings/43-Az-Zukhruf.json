@@ -1,23 +1,24 @@
 {
     "name": "Az-Zukhruf",
+    "id": 43,
     "verse-count": 89,
     "verse-info": [
         {
-            "id": "[43:1]",
+            "verse-id": "[43:1]",
             "verse": "Ha, Meem.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:2]",
+            "verse-id": "[43:2]",
             "verse": "By the clear Book,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:3]",
+            "verse-id": "[43:3]",
             "verse": "Indeed, We have made it an Arabic Qur'an that you might understand.",
             "description": [
                 "The object of taking an oath by",
@@ -70,7 +71,7 @@
             ]
         },
         {
-            "id": "[43:4]",
+            "verse-id": "[43:4]",
             "verse": "And indeed it is, in the Mother of the Book with Us, exalted and full of wisdom.",
             "description": [
                 "\"Umm al-Kitab\": the \"Original Book\": the Book",
@@ -161,7 +162,7 @@
             ]
         },
         {
-            "id": "[43:5]",
+            "verse-id": "[43:5]",
             "verse": "Then should We turn the message away, disregarding you, because you are a transgressing people?",
             "description": [
                 "In this one sentence the whole history",
@@ -204,14 +205,14 @@
             ]
         },
         {
-            "id": "[43:6]",
+            "verse-id": "[43:6]",
             "verse": "And how many a prophet We sent among the former peoples,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:7]",
+            "verse-id": "[43:7]",
             "verse": "But there would not come to them a prophet except that they used to ridicule him.",
             "description": [
                 "That is, if such absurdity and senselessness",
@@ -222,7 +223,7 @@
             ]
         },
         {
-            "id": "[43:8]",
+            "verse-id": "[43:8]",
             "verse": "And We destroyed greater than them in [striking] power, and the example of the former peoples has preceded.",
             "description": [
                 "That is, the result of the senselessness",
@@ -242,14 +243,14 @@
             ]
         },
         {
-            "id": "[43:9]",
+            "verse-id": "[43:9]",
             "verse": "And if you should ask them, \"Who has created the heavens and the earth?\" they would surely say, \"They were created by the Exalted in Might, the Knowing.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:10]",
+            "verse-id": "[43:10]",
             "verse": "[The one] who has made for you the earth a bed and made for you upon it roads that you might be guided",
             "description": [
                 "At other places the earth has been",
@@ -333,7 +334,7 @@
             ]
         },
         {
-            "id": "[43:11]",
+            "verse-id": "[43:11]",
             "verse": "And who sends down rain from the sky in measured amounts, and We revive thereby a dead land - thus will you be brought forth -",
             "description": [
                 "That is, \"For each region He has",
@@ -383,7 +384,7 @@
             ]
         },
         {
-            "id": "[43:12]",
+            "verse-id": "[43:12]",
             "verse": "And who created the species, all of them, and has made for you of ships and animals those which you mount.",
             "description": [
                 "Pairs here does not imply only pairs",
@@ -421,7 +422,7 @@
             ]
         },
         {
-            "id": "[43:13]",
+            "verse-id": "[43:13]",
             "verse": "That you may settle yourselves upon their backs and then remember the favor of your Lord when you have settled upon them and say. \"Exalted is He who has subjected this to us, and we could not have [otherwise] subdued it.",
             "description": [
                 "That is, \"Only man from among all",
@@ -513,7 +514,7 @@
             ]
         },
         {
-            "id": "[43:14]",
+            "verse-id": "[43:14]",
             "verse": "And indeed we, to our Lord, will [surely] return.\"",
             "description": [
                 "That is, \"While embarking on every journey",
@@ -553,7 +554,7 @@
             ]
         },
         {
-            "id": "[43:15]",
+            "verse-id": "[43:15]",
             "verse": "But they have attributed to Him from His servants a portion. Indeed, man is clearly ungrateful.",
             "description": [
                 "\"To make part of Allah\" implies declaring",
@@ -578,14 +579,14 @@
             ]
         },
         {
-            "id": "[43:16]",
+            "verse-id": "[43:16]",
             "verse": "Or has He taken, out of what He has created, daughters and chosen you for [having] sons?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:17]",
+            "verse-id": "[43:17]",
             "verse": "And when one of them is given good tidings of that which he attributes to the Most Merciful in comparison, his face becomes dark, and he suppresses grief.",
             "description": [
                 "Here, the folly of the polytheists of",
@@ -625,7 +626,7 @@
             ]
         },
         {
-            "id": "[43:18]",
+            "verse-id": "[43:18]",
             "verse": "So is one brought up in ornaments while being during conflict unevident [attributed to Allah]?",
             "description": [
                 "In other words, 'You have assigned to",
@@ -712,7 +713,7 @@
             ]
         },
         {
-            "id": "[43:19]",
+            "verse-id": "[43:19]",
             "verse": "And they have made the angels, who are servants of the Most Merciful, females. Did they witness their creation? Their testimony will be recorded, and they will be questioned.",
             "description": [
                 "That is, who are fret from this",
@@ -724,7 +725,7 @@
             ]
         },
         {
-            "id": "[43:20]",
+            "verse-id": "[43:20]",
             "verse": "And they said, \"If the Most Merciful had willed, we would not have worshipped them.\" They have of that no knowledge. They are not but falsifying.",
             "description": [
                 "This was their reasoning from destiny to",
@@ -743,7 +744,7 @@
             ]
         },
         {
-            "id": "[43:21]",
+            "verse-id": "[43:21]",
             "verse": "Or have We given them a book before the Qur'an to which they are adhering?",
             "description": [
                 "It means this: \"These ignorant people think",
@@ -782,7 +783,7 @@
             ]
         },
         {
-            "id": "[43:22]",
+            "verse-id": "[43:22]",
             "verse": "Rather, they say, \"Indeed, we found our fathers upon a religion, and we are in their footsteps [rightly] guided.\"",
             "description": [
                 "That is, \"They have no authority of",
@@ -794,7 +795,7 @@
             ]
         },
         {
-            "id": "[43:23]",
+            "verse-id": "[43:23]",
             "verse": "And similarly, We did not send before you any warner into a city except that its affluent said, \"Indeed, we found our fathers upon a religion, and we are, in their footsteps, following.\"",
             "description": [
                 "Here, the point worth consideration is why",
@@ -836,21 +837,21 @@
             ]
         },
         {
-            "id": "[43:24]",
+            "verse-id": "[43:24]",
             "verse": "[Each warner] said, \"Even if I brought you better guidance than that [religion] upon which you found your fathers?\" They said, \"Indeed we, in that with which you were sent, are disbelievers.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:25]",
+            "verse-id": "[43:25]",
             "verse": "So we took retribution from them; then see how was the end of the deniers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:26]",
+            "verse-id": "[43:26]",
             "verse": "And [mention, O Muhammad], when Abraham said to his father and his people, \"Indeed, I am disassociated from that which you worship",
             "description": [
                 "For details, sec AI-Baqarah 124-133, AI-An'am 74-84,",
@@ -860,7 +861,7 @@
             ]
         },
         {
-            "id": "[43:27]",
+            "verse-id": "[43:27]",
             "verse": "Except for He who created me; and indeed, He will guide me.\"",
             "description": [
                 "In these words not only did the",
@@ -878,7 +879,7 @@
             ]
         },
         {
-            "id": "[43:28]",
+            "verse-id": "[43:28]",
             "verse": "And he made it a word remaining among his descendants that they might return [to it].",
             "description": [
                 "\"The same word\" : the word that",
@@ -930,7 +931,7 @@
             ]
         },
         {
-            "id": "[43:29]",
+            "verse-id": "[43:29]",
             "verse": "However, I gave enjoyment to these [people of Makkah] and their fathers until there came to them the truth and a clear Messenger.",
             "description": [
                 "Another meaning of the word \"rasulum-mubin can",
@@ -941,7 +942,7 @@
             ]
         },
         {
-            "id": "[43:30]",
+            "verse-id": "[43:30]",
             "verse": "But when the truth came to them, they said, \"This is magic, and indeed we are, concerning it, disbelievers.\"",
             "description": [
                 "For explanation, see Surah. Al-Anbiya' : 3",
@@ -950,7 +951,7 @@
             ]
         },
         {
-            "id": "[43:31]",
+            "verse-id": "[43:31]",
             "verse": "And they said, \"Why was this Qur'an not sent down upon a great man from [one of] the two cities?\"",
             "description": [
                 "\"The two cities\": Makkah and Ta`if. What",
@@ -999,7 +1000,7 @@
             ]
         },
         {
-            "id": "[43:32]",
+            "verse-id": "[43:32]",
             "verse": "Do they distribute the mercy of your Lord? It is We who have apportioned among them their livelihood in the life of this world and have raised some of them above others in degrees [of rank] that they may make use of one another for service. But the mercy of your Lord is better than whatever they accumulate.",
             "description": [
                 "This is the answer to their objection,",
@@ -1090,14 +1091,14 @@
             ]
         },
         {
-            "id": "[43:33]",
+            "verse-id": "[43:33]",
             "verse": "And if it were not that the people would become one community [of disbelievers], We would have made for those who disbelieve in the Most Merciful - for their houses - ceilings and stairways of silver upon which to mount",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:34]",
+            "verse-id": "[43:34]",
             "verse": "And for their houses - doors and couches [of silver] upon which to recline",
             "description": [
                 "That is, \"This silver and gold whose",
@@ -1121,14 +1122,14 @@
             ]
         },
         {
-            "id": "[43:35]",
+            "verse-id": "[43:35]",
             "verse": "And gold ornament. But all that is not but the enjoyment of worldly life. And the Hereafter with your Lord is for the righteous.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:36]",
+            "verse-id": "[43:36]",
             "verse": "And whoever is blinded from remembrance of the Most Merciful - We appoint for him a devil, and he is to him a companion.",
             "description": [
                 "\"Dhikr of the Merciful\" : His remembrance",
@@ -1137,21 +1138,21 @@
             ]
         },
         {
-            "id": "[43:37]",
+            "verse-id": "[43:37]",
             "verse": "And indeed, the devils avert them from the way [of guidance] while they think that they are [rightly] guided",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:38]",
+            "verse-id": "[43:38]",
             "verse": "Until, when he comes to Us [at Judgement], he says [to his companion], \"Oh, I wish there was between me and you the distance between the east and west - how wretched a companion.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:39]",
+            "verse-id": "[43:39]",
             "verse": "And never will it benefit you that Day, when you have wronged, that you are [all] sharing in the punishment.",
             "description": [
                 "That is, \"In this there is no",
@@ -1163,7 +1164,7 @@
             ]
         },
         {
-            "id": "[43:40]",
+            "verse-id": "[43:40]",
             "verse": "Then will you make the deaf hear, [O Muhammad], or guide the blind or he who is in clear error?",
             "description": [
                 "It means to say: \"Pay attention to",
@@ -1180,14 +1181,14 @@
             ]
         },
         {
-            "id": "[43:41]",
+            "verse-id": "[43:41]",
             "verse": "And whether [or not] We take you away [in death], indeed, We will take retribution upon them.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:42]",
+            "verse-id": "[43:42]",
             "verse": "Or whether [or not] We show you that which We have promised them, indeed, We are Perfect in Ability.",
             "description": [
                 "This thing can be understood fully only",
@@ -1214,7 +1215,7 @@
             ]
         },
         {
-            "id": "[43:43]",
+            "verse-id": "[43:43]",
             "verse": "So adhere to that which is revealed to you. Indeed, you are on a straight path.",
             "description": [
                 "That is, \"You should not worry as",
@@ -1232,7 +1233,7 @@
             ]
         },
         {
-            "id": "[43:44]",
+            "verse-id": "[43:44]",
             "verse": "And indeed, it is a remembrance for you and your people, and you [all] are going to be questioned.",
             "description": [
                 "That is, \"There can be no greater",
@@ -1255,7 +1256,7 @@
             ]
         },
         {
-            "id": "[43:45]",
+            "verse-id": "[43:45]",
             "verse": "And ask those We sent before you of Our messengers; have We made besides the Most Merciful deities to be worshipped?",
             "description": [
                 "\"Ask the Messengers\": Find out from the",
@@ -1279,7 +1280,7 @@
             ]
         },
         {
-            "id": "[43:46]",
+            "verse-id": "[43:46]",
             "verse": "And certainly did We send Moses with Our signs to Pharaoh and his establishment, and he said, \"Indeed, I am the messenger of the Lord of the worlds.\"",
             "description": [
                 "This story has been narrated here for",
@@ -1320,14 +1321,14 @@
             ]
         },
         {
-            "id": "[43:47]",
+            "verse-id": "[43:47]",
             "verse": "But when he brought them Our signs, at once they laughed at them.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:48]",
+            "verse-id": "[43:48]",
             "verse": "And We showed them not a sign except that it was greater than its sister, and We seized them with affliction that perhaps they might return [to faith].",
             "description": [
                 "This implies the Signs which Allah showed",
@@ -1416,14 +1417,14 @@
             ]
         },
         {
-            "id": "[43:49]",
+            "verse-id": "[43:49]",
             "verse": "And they said [to Moses], \"O magician, invoke for us your Lord by what He has promised you. Indeed, we will be guided.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:50]",
+            "verse-id": "[43:50]",
             "verse": "But when We removed from them the affliction, at once they broke their word.",
             "description": [
                 "The stubbornness of Pharaoh and the chiefs",
@@ -1534,7 +1535,7 @@
             ]
         },
         {
-            "id": "[43:51]",
+            "verse-id": "[43:51]",
             "verse": "And Pharaoh called out among his people; he said, \"O my people, does not the kingdom of Egypt belong to me, and these rivers flowing beneath me; then do you not see?",
             "description": [
                 "Pharaoh probably sent heralds to the cities",
@@ -1566,7 +1567,7 @@
             ]
         },
         {
-            "id": "[43:52]",
+            "verse-id": "[43:52]",
             "verse": "Or am I [not] better than this one who is insignificant and hardly makes himself clear?",
             "description": [
                 "\"Wretched person\" : the person who has",
@@ -1599,7 +1600,7 @@
             ]
         },
         {
-            "id": "[43:53]",
+            "verse-id": "[43:53]",
             "verse": "Then why have there not been placed upon him bracelets of gold or come with him the angels in conjunction?\"",
             "description": [
                 "In the ancient times when a person",
@@ -1626,7 +1627,7 @@
             ]
         },
         {
-            "id": "[43:54]",
+            "verse-id": "[43:54]",
             "verse": "So he bluffed his people, and they obeyed him. Indeed, they were [themselves] a people defiantly disobedient [of Allah].",
             "description": [
                 "A tremendous reality has been expressed in",
@@ -1666,14 +1667,14 @@
             ]
         },
         {
-            "id": "[43:55]",
+            "verse-id": "[43:55]",
             "verse": "And when they angered Us, We took retribution from them and drowned them all.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:56]",
+            "verse-id": "[43:56]",
             "verse": "And We made them a precedent and an example for the later peoples.",
             "description": [
                 "That is, \"They are a precedent for",
@@ -1684,14 +1685,14 @@
             ]
         },
         {
-            "id": "[43:57]",
+            "verse-id": "[43:57]",
             "verse": "And when the son of Mary was presented as an example, immediately your people laughed aloud.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:58]",
+            "verse-id": "[43:58]",
             "verse": "And they said, \"Are your gods better, or is he?\" They did not present the comparison except for [mere] argument. But, [in fact], they are a people prone to dispute.",
             "description": [
                 "In verse 45 above, it was said:",
@@ -1723,7 +1724,7 @@
             ]
         },
         {
-            "id": "[43:59]",
+            "verse-id": "[43:59]",
             "verse": "Jesus was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel.",
             "description": [
                 "\"Making an example of Our power\" implies",
@@ -1751,7 +1752,7 @@
             ]
         },
         {
-            "id": "[43:60]",
+            "verse-id": "[43:60]",
             "verse": "And if We willed, We could have made [instead] of you angels succeeding [one another] on the earth.",
             "description": [
                 "Another translation can be: \".............make some of",
@@ -1759,7 +1760,7 @@
             ]
         },
         {
-            "id": "[43:61]",
+            "verse-id": "[43:61]",
             "verse": "And indeed, Jesus will be [a sign for] knowledge of the Hour, so be not in doubt of it, and follow Me. This is a straight path.",
             "description": [
                 "Another translation of this sentence can be:",
@@ -1822,7 +1823,7 @@
             ]
         },
         {
-            "id": "[43:62]",
+            "verse-id": "[43:62]",
             "verse": "And never let Satan avert you. Indeed, he is to you a clear enemy.",
             "description": [
                 "\" ...... hinder you from this\" :",
@@ -1830,14 +1831,14 @@
             ]
         },
         {
-            "id": "[43:63]",
+            "verse-id": "[43:63]",
             "verse": "And when Jesus brought clear proofs, he said, \"I have come to you with wisdom and to make clear to you some of that over which you differ, so fear Allah and obey me.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:64]",
+            "verse-id": "[43:64]",
             "verse": "Indeed, Allah is my Lord and your Lord, so worship Him. This is a straight path.\"",
             "description": [
                 "That is, \"The Prophet Jesus himself had",
@@ -1853,7 +1854,7 @@
             ]
         },
         {
-            "id": "[43:65]",
+            "verse-id": "[43:65]",
             "verse": "But the denominations from among them differed [and separated], so woe to those who have wronged from the punishment of a painful Day.",
             "description": [
                 "That is, one group of the people",
@@ -1872,14 +1873,14 @@
             ]
         },
         {
-            "id": "[43:66]",
+            "verse-id": "[43:66]",
             "verse": "Are they waiting except for the Hour to come upon them suddenly while they perceive not?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:67]",
+            "verse-id": "[43:67]",
             "verse": "Close friends, that Day, will be enemies to each other, except for the righteous",
             "description": [
                 "In other words, only those friendships will",
@@ -1899,21 +1900,21 @@
             ]
         },
         {
-            "id": "[43:68]",
+            "verse-id": "[43:68]",
             "verse": "[To whom Allah will say], \"O My servants, no fear will there be concerning you this Day, nor will you grieve,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:69]",
+            "verse-id": "[43:69]",
             "verse": "[You] who believed in Our verses and were Muslims.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:70]",
+            "verse-id": "[43:70]",
             "verse": "Enter Paradise, you and your kinds, delighted.\"",
             "description": [
                 "The word azwaj as used in the",
@@ -1928,49 +1929,49 @@
             ]
         },
         {
-            "id": "[43:71]",
+            "verse-id": "[43:71]",
             "verse": "Circulated among them will be plates and vessels of gold. And therein is whatever the souls desire and [what] delights the eyes, and you will abide therein eternally.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:72]",
+            "verse-id": "[43:72]",
             "verse": "And that is Paradise which you are made to inherit for what you used to do.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:73]",
+            "verse-id": "[43:73]",
             "verse": "For you therein is much fruit from which you will eat.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:74]",
+            "verse-id": "[43:74]",
             "verse": "Indeed, the criminals will be in the punishment of Hell, abiding eternally.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:75]",
+            "verse-id": "[43:75]",
             "verse": "It will not be allowed to subside for them, and they, therein, are in despair.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:76]",
+            "verse-id": "[43:76]",
             "verse": "And We did not wrong them, but it was they who were the wrongdoers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:77]",
+            "verse-id": "[43:77]",
             "verse": "And they will call, \"O Malik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\"",
             "description": [
                 "\"Malik\" : a keeper of Hell as",
@@ -1978,7 +1979,7 @@
             ]
         },
         {
-            "id": "[43:78]",
+            "verse-id": "[43:78]",
             "verse": "We had certainly brought you the truth, but most of you, to the truth, were averse.",
             "description": [
                 "That is, \"We made the reality plain",
@@ -2001,7 +2002,7 @@
             ]
         },
         {
-            "id": "[43:79]",
+            "verse-id": "[43:79]",
             "verse": "Or have they devised [some] affair? But indeed, We are devising [a plan].",
             "description": [
                 "The allusion is to the plans that",
@@ -2012,14 +2013,14 @@
             ]
         },
         {
-            "id": "[43:80]",
+            "verse-id": "[43:80]",
             "verse": "Or do they think that We hear not their secrets and their private conversations? Yes, [We do], and Our messengers are with them recording.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:81]",
+            "verse-id": "[43:81]",
             "verse": "Say, [O Muhammad], \"If the Most Merciful had a son, then I would be the first of [his] worshippers.\"",
             "description": [
                 "It means: \"My rejection of somebody's being",
@@ -2038,21 +2039,21 @@
             ]
         },
         {
-            "id": "[43:82]",
+            "verse-id": "[43:82]",
             "verse": "Exalted is the Lord of the heavens and the earth, Lord of the Throne, above what they describe.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:83]",
+            "verse-id": "[43:83]",
             "verse": "So leave them to converse vainly and amuse themselves until they meet their Day which they are promised.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[43:84]",
+            "verse-id": "[43:84]",
             "verse": "And it is Allah who is [the only] deity in the heaven, and on the earth [the only] deity. And He is the Wise, the Knowing.",
             "description": [
                 "That is, \"The gods of the heavens",
@@ -2065,7 +2066,7 @@
             ]
         },
         {
-            "id": "[43:85]",
+            "verse-id": "[43:85]",
             "verse": "And blessed is He to whom belongs the dominion of the heavens and the earth and whatever is between them and with whom is knowledge of the Hour and to whom you will be returned.",
             "description": [
                 "That is, \"He is far above it",
@@ -2088,7 +2089,7 @@
             ]
         },
         {
-            "id": "[43:86]",
+            "verse-id": "[43:86]",
             "verse": "And those they invoke besides Him do not possess [power of] intercession; but only those who testify to the truth [can benefit], and they know.",
             "description": [
                 "This sentence has several meanings:",
@@ -2165,7 +2166,7 @@
             ]
         },
         {
-            "id": "[43:87]",
+            "verse-id": "[43:87]",
             "verse": "And if you asked them who created them, they would surely say, \"Allah.\" So how are they deluded?",
             "description": [
                 "This verse has two meanings: (1) \"If",
@@ -2177,7 +2178,7 @@
             ]
         },
         {
-            "id": "[43:88]",
+            "verse-id": "[43:88]",
             "verse": "And [Allah acknowledges] his saying, \"O my Lord, indeed these are a people who do not believe.\"",
             "description": [
                 "This is one of the most difficult",
@@ -2212,7 +2213,7 @@
             ]
         },
         {
-            "id": "[43:89]",
+            "verse-id": "[43:89]",
             "verse": "So turn aside from them and say, \"Peace.\" But they are going to know.",
             "description": [
                 "That is, \"You should neither curse them",

@@ -1,9 +1,10 @@
 {
     "name": "Al-Fatihah",
+    "id": 1,
     "verse-count": 7,
     "verse-info": [
         {
-            "id": "[1:1]",
+            "verse-id": "[1:1]",
             "verse": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
             "description": [
                 "One of the many practices taught by",
@@ -33,7 +34,7 @@
             ]
         },
         {
-            "id": "[1:2]",
+            "verse-id": "[1:2]",
             "verse": "[All] praise is [due] to Allah, Lord of the worlds -",
             "description": [
                 "As we have already explained, the character",
@@ -90,7 +91,7 @@
             ]
         },
         {
-            "id": "[1:3]",
+            "verse-id": "[1:3]",
             "verse": "The Entirely Merciful, the Especially Merciful,",
             "description": [
                 "Whenever we are deeply impressed by the",
@@ -113,7 +114,7 @@
             ]
         },
         {
-            "id": "[1:4]",
+            "verse-id": "[1:4]",
             "verse": "Sovereign of the Day of Recompense.",
             "description": [
                 "God will be the Lord of the",
@@ -143,7 +144,7 @@
             ]
         },
         {
-            "id": "[1:5]",
+            "verse-id": "[1:5]",
             "verse": "It is You we worship and You we ask for help.",
             "description": [
                 "The term ibadah is used in three",
@@ -178,7 +179,7 @@
             ]
         },
         {
-            "id": "[1:6]",
+            "verse-id": "[1:6]",
             "verse": "Guide us to the straight path -",
             "description": [
                 "We beseech God to guide us in",
@@ -203,7 +204,7 @@
             ]
         },
         {
-            "id": "[1:7]",
+            "verse-id": "[1:7]",
             "verse": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.",
             "description": [
                 "This defines the 'straight way' which we",

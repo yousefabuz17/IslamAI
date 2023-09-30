@@ -1,9 +1,10 @@
 {
     "name": "Al-Fil",
+    "id": 105,
     "verse-count": 5,
     "verse-info": [
         {
-            "id": "[105:1]",
+            "verse-id": "[105:1]",
             "verse": "Have you not considered, [O Muhammad], how your Lord dealt with the companions of the elephant?",
             "description": [
                 "Though the address apparently is directed to",
@@ -42,7 +43,7 @@
             ]
         },
         {
-            "id": "[105:2]",
+            "verse-id": "[105:2]",
             "verse": "Did He not make their plan into misguidance?",
             "description": [
                 "The word kayd is used for a",
@@ -81,7 +82,7 @@
             ]
         },
         {
-            "id": "[105:3]",
+            "verse-id": "[105:3]",
             "verse": "And He sent against them birds in flocks,",
             "description": [
                 "Ababil means many separate and scattered groups",
@@ -120,7 +121,7 @@
             ]
         },
         {
-            "id": "[105:4]",
+            "verse-id": "[105:4]",
             "verse": "Striking them with stones of hard clay,",
             "description": [
                 "Litrerally, bi hijarat-im-min sijjil means \"stones of",
@@ -207,7 +208,7 @@
             ]
         },
         {
-            "id": "[105:5]",
+            "verse-id": "[105:5]",
             "verse": "And He made them like eaten straw.",
             "description": [
                 "The word asfas used in the original",

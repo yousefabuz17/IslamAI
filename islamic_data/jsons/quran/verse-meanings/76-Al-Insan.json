@@ -1,9 +1,10 @@
 {
     "name": "Al-Insan",
+    "id": 76,
     "verse-count": 31,
     "verse-info": [
         {
-            "id": "[76:1]",
+            "verse-id": "[76:1]",
             "verse": "Has there [not] come upon man a period of time when he was not a thing [even] mentioned?",
             "description": [
                 "Most of the conunentators and translators have",
@@ -101,7 +102,7 @@
             ]
         },
         {
-            "id": "[76:2]",
+            "verse-id": "[76:2]",
             "verse": "Indeed, We created man from a sperm-drop mixture that We may try him; and We made him hearing and seeing.",
             "description": [
                 "\"From a mixed sperm-drop\": from the intermingling",
@@ -211,7 +212,7 @@
             ]
         },
         {
-            "id": "[76:3]",
+            "verse-id": "[76:3]",
             "verse": "Indeed, We guided him to the way, be he grateful or be he ungrateful.",
             "description": [
                 "That is, \"We did not just leave",
@@ -386,14 +387,14 @@
             ]
         },
         {
-            "id": "[76:4]",
+            "verse-id": "[76:4]",
             "verse": "Indeed, We have prepared for the disbelievers chains and shackles and a blaze.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[76:5]",
+            "verse-id": "[76:5]",
             "verse": "Indeed, the righteous will drink from a cup [of wine] whose mixture is of Kafur,",
             "description": [
                 "The word abrar as used in the",
@@ -405,7 +406,7 @@
             ]
         },
         {
-            "id": "[76:6]",
+            "verse-id": "[76:6]",
             "verse": "A spring of which the [righteous] servants of Allah will drink; they will make it gush forth in force [and abundance].",
             "description": [
                 "That is, it will not be camphor-mixed",
@@ -436,7 +437,7 @@
             ]
         },
         {
-            "id": "[76:7]",
+            "verse-id": "[76:7]",
             "verse": "They [are those who] fulfill [their] vows and fear a Day whose evil will be widespread.",
             "description": [
                 "One meaning of fulfilling the vow is",
@@ -875,7 +876,7 @@
             ]
         },
         {
-            "id": "[76:8]",
+            "verse-id": "[76:8]",
             "verse": "And they give food in spite of love for it to the needy, the orphan, and the captive,",
             "description": [
                 "Most of the commentators hold the view",
@@ -913,7 +914,7 @@
             ]
         },
         {
-            "id": "[76:9]",
+            "verse-id": "[76:9]",
             "verse": "[Saying], \"We feed you only for the countenance of Allah. We wish not from you reward or gratitude.",
             "description": [
                 "Although feeding a poor man is in",
@@ -945,14 +946,14 @@
             ]
         },
         {
-            "id": "[76:10]",
+            "verse-id": "[76:10]",
             "verse": "Indeed, We fear from our Lord a Day austere and distressful.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[76:11]",
+            "verse-id": "[76:11]",
             "verse": "So Allah will protect them from the evil of that Day and give them radiance and happiness",
             "description": [
                 "\"Freshness and joy\": freshness of the face",
@@ -976,7 +977,7 @@
             ]
         },
         {
-            "id": "[76:12]",
+            "verse-id": "[76:12]",
             "verse": "And will reward them for what they patiently endured [with] a garden [in Paradise] and silk [garments].",
             "description": [
                 "Here the word sabr (patience) has been",
@@ -1021,21 +1022,21 @@
             ]
         },
         {
-            "id": "[76:13]",
+            "verse-id": "[76:13]",
             "verse": "[They will be] reclining therein on adorned couches. They will not see therein any [burning] sun or [freezing] cold.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[76:14]",
+            "verse-id": "[76:14]",
             "verse": "And near above them are its shades, and its [fruit] to be picked will be lowered in compliance.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[76:15]",
+            "verse-id": "[76:15]",
             "verse": "And there will be circulated among them vessels of silver and cups having been [created] clear [as glass],",
             "description": [
                 "According to Az-Zukhruf: 71, vessels of gold",
@@ -1054,7 +1055,7 @@
             ]
         },
         {
-            "id": "[76:16]",
+            "verse-id": "[76:16]",
             "verse": "Clear glasses [made] from silver of which they have determined the measure.",
             "description": [
                 "\"In due measure\": filled accurately according to",
@@ -1073,14 +1074,14 @@
             ]
         },
         {
-            "id": "[76:17]",
+            "verse-id": "[76:17]",
             "verse": "And they will be given to drink a cup [of wine] whose mixture is of ginger",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[76:18]",
+            "verse-id": "[76:18]",
             "verse": "[From] a fountain within Paradise named Salsabeel.",
             "description": [
                 "This is to suit the taste of",
@@ -1101,7 +1102,7 @@
             ]
         },
         {
-            "id": "[76:19]",
+            "verse-id": "[76:19]",
             "verse": "There will circulate among them young boys made eternal. When you see them, you would think them [as beautiful as] scattered pearls.",
             "description": [
                 "For explanation, see E.N. 26 of As-Saaffat,",
@@ -1110,7 +1111,7 @@
             ]
         },
         {
-            "id": "[76:20]",
+            "verse-id": "[76:20]",
             "verse": "And when you look there [in Paradise], you will see pleasure and great dominion.",
             "description": [
                 "Even if a person might have lived",
@@ -1122,7 +1123,7 @@
             ]
         },
         {
-            "id": "[76:21]",
+            "verse-id": "[76:21]",
             "verse": "Upon the inhabitants will be green garments of fine silk and brocade. And they will be adorned with bracelets of silver, and their Lord will give them a purifying drink.",
             "description": [
                 "This same theme has been expressed in",
@@ -1192,7 +1193,7 @@
             ]
         },
         {
-            "id": "[76:22]",
+            "verse-id": "[76:22]",
             "verse": "[And it will be said], \"Indeed, this is for you a reward, and your effort has been appreciated.\"",
             "description": [
                 "In the original, kana sa yu kum",
@@ -1215,7 +1216,7 @@
             ]
         },
         {
-            "id": "[76:23]",
+            "verse-id": "[76:23]",
             "verse": "Indeed, it is We who have sent down to you, [O Muhammad], the Qur'an progressively.",
             "description": [
                 "Though the addressee here apparently is the",
@@ -1242,7 +1243,7 @@
             ]
         },
         {
-            "id": "[76:24]",
+            "verse-id": "[76:24]",
             "verse": "So be patient for the decision of your Lord and do not obey from among them a sinner or ungrateful [disbeliever].",
             "description": [
                 "\"Be patient\": \"Face patiently the hardships and",
@@ -1272,14 +1273,14 @@
             ]
         },
         {
-            "id": "[76:25]",
+            "verse-id": "[76:25]",
             "verse": "And mention the name of your Lord [in prayer] morning and evening",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[76:26]",
+            "verse-id": "[76:26]",
             "verse": "And during the night prostrate to Him and exalt Him a long [part of the] night.",
             "description": [
                 "The rule followed in the Qur'an is",
@@ -1318,7 +1319,7 @@
             ]
         },
         {
-            "id": "[76:27]",
+            "verse-id": "[76:27]",
             "verse": "Indeed, these [disbelievers] love the immediate and leave behind them a grave Day.",
             "description": [
                 "That is, \"The reason why the disbelieving",
@@ -1335,7 +1336,7 @@
             ]
         },
         {
-            "id": "[76:28]",
+            "verse-id": "[76:28]",
             "verse": "We have created them and strengthened their forms, and when We will, We can change their likenesses with [complete] alteration.",
             "description": [
                 "The sentence, \"Whenever it be Our will",
@@ -1361,14 +1362,14 @@
             ]
         },
         {
-            "id": "[76:29]",
+            "verse-id": "[76:29]",
             "verse": "Indeed, this is a reminder, so he who wills may take to his Lord a way.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[76:30]",
+            "verse-id": "[76:30]",
             "verse": "And you do not will except that Allah wills. Indeed, Allah is ever Knowing and Wise.",
             "description": [
                 "Three things have been said in these",
@@ -1507,7 +1508,7 @@
             ]
         },
         {
-            "id": "[76:31]",
+            "verse-id": "[76:31]",
             "verse": "He admits whom He wills into His mercy; but the wrongdoers - He has prepared for them a painful punishment.",
             "description": [
                 "In this verse \"wrong doers\" imply the",

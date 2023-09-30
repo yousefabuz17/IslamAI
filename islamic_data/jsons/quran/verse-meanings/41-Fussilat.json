@@ -1,30 +1,31 @@
 {
     "name": "Fussilat",
+    "id": 41,
     "verse-count": 54,
     "verse-info": [
         {
-            "id": "[41:1]",
+            "verse-id": "[41:1]",
             "verse": "Ha, Meem.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[41:2]",
+            "verse-id": "[41:2]",
             "verse": "[This is] a revelation from the Entirely Merciful, the Especially Merciful -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[41:3]",
+            "verse-id": "[41:3]",
             "verse": "A Book whose verses have been detailed, an Arabic Qur'an for a people who know,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[41:4]",
+            "verse-id": "[41:4]",
             "verse": "As a giver of good tidings and a warner; but most of them turn away, so they do not hear.",
             "description": [
                 "This is a brief introduction to the",
@@ -138,7 +139,7 @@
             ]
         },
         {
-            "id": "[41:5]",
+            "verse-id": "[41:5]",
             "verse": "And they say, \"Our hearts are within coverings from that to which you invite us, and in our ears is deafness, and between us and you is a partition, so work; indeed, we are working.\"",
             "description": [
                 "That is, \"It has no way open",
@@ -160,7 +161,7 @@
             ]
         },
         {
-            "id": "[41:6]",
+            "verse-id": "[41:6]",
             "verse": "Say, O [Muhammad], \"I am only a man like you to whom it has been revealed that your god is but one God; so take a straight course to Him and seek His forgiveness.\" And woe to those who associate others with Allah -",
             "description": [
                 "That is, \"It is not in my",
@@ -203,7 +204,7 @@
             ]
         },
         {
-            "id": "[41:7]",
+            "verse-id": "[41:7]",
             "verse": "Those who do not give zakah, and in the Hereafter they are disbelievers.",
             "description": [
                 "Here, the meaning of the word zakat",
@@ -228,7 +229,7 @@
             ]
         },
         {
-            "id": "[41:8]",
+            "verse-id": "[41:8]",
             "verse": "Indeed, those who believe and do righteous deeds - for them is a reward uninterrupted.",
             "description": [
                 "The words ajrun ghaira mamnun in the",
@@ -244,14 +245,14 @@
             ]
         },
         {
-            "id": "[41:9]",
+            "verse-id": "[41:9]",
             "verse": "Say, \"Do you indeed disbelieve in He who created the earth in two days and attribute to Him equals? That is the Lord of the worlds.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[41:10]",
+            "verse-id": "[41:10]",
             "verse": "And He placed on the earth firmly set mountains over its surface, and He blessed it and determined therein its [creatures'] sustenance in four days without distinction - for [the information] of those who ask.",
             "description": [
                 "\"Blessings of the earth\" imply those measureless",
@@ -446,7 +447,7 @@
             ]
         },
         {
-            "id": "[41:11]",
+            "verse-id": "[41:11]",
             "verse": "Then He directed Himself to the heaven while it was smoke and said to it and to the earth, \"Come [into being], willingly or by compulsion.\" They said, \"We have come willingly.\"",
             "description": [
                 "Three things need to be explained here:",
@@ -602,7 +603,7 @@
             ]
         },
         {
-            "id": "[41:12]",
+            "verse-id": "[41:12]",
             "verse": "And He completed them as seven heavens within two days and inspired in each heaven its command. And We adorned the nearest heaven with lamps and as protection. That is the determination of the Exalted in Might, the Knowing.",
             "description": [
                 "To understand these verses well, it would",
@@ -614,7 +615,7 @@
             ]
         },
         {
-            "id": "[41:13]",
+            "verse-id": "[41:13]",
             "verse": "But if they turn away, then say, \"I have warned you of a thunderbolt like the thunderbolt [that struck] 'Aad and Thamud.",
             "description": [
                 "That is, \"Ifthey do not believe that",
@@ -629,7 +630,7 @@
             ]
         },
         {
-            "id": "[41:14]",
+            "verse-id": "[41:14]",
             "verse": "[That occurred] when the messengers had come to them before them and after them, [saying], \"Worship not except Allah.\" They said, \"If our Lord had willed, He would have sent down the angels, so indeed we, in that with which you have been sent, are disbelievers.\"",
             "description": [
                 "This sentence can have several meanings: (1)",
@@ -668,14 +669,14 @@
             ]
         },
         {
-            "id": "[41:15]",
+            "verse-id": "[41:15]",
             "verse": "As for 'Aad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allah who created them was greater than them in strength? But they were rejecting Our signs.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[41:16]",
+            "verse-id": "[41:16]",
             "verse": "So We sent upon them a screaming wind during days of misfortune to make them taste the punishment of disgrace in the worldly life; but the punishment of the Hereafter is more disgracing, and they will not be helped.",
             "description": [
                 "\"III-omened days\" does not mean that the",
@@ -736,14 +737,14 @@
             ]
         },
         {
-            "id": "[41:17]",
+            "verse-id": "[41:17]",
             "verse": "And as for Thamud, We guided them, but they preferred blindness over guidance, so the thunderbolt of humiliating punishment seized them for what they used to earn.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[41:18]",
+            "verse-id": "[41:18]",
             "verse": "And We saved those who believed and used to fear Allah.",
             "description": [
                 "For the details of the story of",
@@ -753,7 +754,7 @@
             ]
         },
         {
-            "id": "[41:19]",
+            "verse-id": "[41:19]",
             "verse": "And [mention, O Muhammad], the Day when the enemies of Allah will be gathered to the Fire while they are [driven] assembled in rows,",
             "description": [
                 "What is meant to be said have",
@@ -790,7 +791,7 @@
             ]
         },
         {
-            "id": "[41:20]",
+            "verse-id": "[41:20]",
             "verse": "Until, when they reach it, their hearing and their eyes and their skins will testify against them of what they used to do.",
             "description": [
                 "The explanation of this given in the",
@@ -835,7 +836,7 @@
             ]
         },
         {
-            "id": "[41:21]",
+            "verse-id": "[41:21]",
             "verse": "And they will say to their skins, \"Why have you testified against us?\" They will say, \"We were made to speak by Allah, who has made everything speak; and He created you the first time, and to Him you are returned.",
             "description": [
                 "This shows that not only man's own",
@@ -854,14 +855,14 @@
             ]
         },
         {
-            "id": "[41:22]",
+            "verse-id": "[41:22]",
             "verse": "And you were not covering yourselves, lest your hearing testify against you or your sight or your skins, but you assumed that Allah does not know much of what you do.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[41:23]",
+            "verse-id": "[41:23]",
             "verse": "And that was your assumption which you assumed about your Lord. It has brought you to ruin, and you have become among the losers.\"",
             "description": [
                 "Hadrat Hasan Basri (may Allah bless him)",
@@ -883,7 +884,7 @@
             ]
         },
         {
-            "id": "[41:24]",
+            "verse-id": "[41:24]",
             "verse": "So [even] if they are patient, the Fire is a residence for them; and if they ask to appease [Allah], they will not be of those who are allowed to appease.",
             "description": [
                 "It can also mean this: \"If they",
@@ -898,7 +899,7 @@
             ]
         },
         {
-            "id": "[41:25]",
+            "verse-id": "[41:25]",
             "verse": "And We appointed for them companions who made attractive to them what was before them and what was behind them [of sin], and the word has come into effect upon them among nations which had passed on before them of jinn and men. Indeed, they [all] were losers.",
             "description": [
                 "This is the permanent and eternal way",
@@ -952,7 +953,7 @@
             ]
         },
         {
-            "id": "[41:26]",
+            "verse-id": "[41:26]",
             "verse": "And those who disbelieve say, \"Do not listen to this Qur'an and speak noisily during [the recitation of] it that perhaps you will overcome.\"",
             "description": [
                 "This was one of those plans of",
@@ -980,21 +981,21 @@
             ]
         },
         {
-            "id": "[41:27]",
+            "verse-id": "[41:27]",
             "verse": "But We will surely cause those who disbelieve to taste a severe punishment, and We will surely recompense them for the worst of what they had been doing.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[41:28]",
+            "verse-id": "[41:28]",
             "verse": "That is the recompense of the enemies of Allah - the Fire. For them therein is the home of eternity as recompense for what they, of Our verses, were rejecting.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[41:29]",
+            "verse-id": "[41:29]",
             "verse": "And those who disbelieved will [then] say, \"Our Lord, show us those who misled us of the jinn and men [so] we may put them under our feet that they will be among the lowest.\"",
             "description": [
                 "That is, \"In the world these people",
@@ -1010,7 +1011,7 @@
             ]
         },
         {
-            "id": "[41:30]",
+            "verse-id": "[41:30]",
             "verse": "Indeed, those who have said, \"Our Lord is Allah \" and then remained on a right course - the angels will descend upon them, [saying], \"Do not fear and do not grieve but receive good tidings of Paradise, which you were promised.",
             "description": [
                 "After warning the disbelievers of the consequences",
@@ -1147,21 +1148,21 @@
             ]
         },
         {
-            "id": "[41:31]",
+            "verse-id": "[41:31]",
             "verse": "We [angels] were your allies in worldly life and [are so] in the Hereafter. And you will have therein whatever your souls desire, and you will have therein whatever you request [or wish]",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[41:32]",
+            "verse-id": "[41:32]",
             "verse": "As accommodation from a [Lord who is] Forgiving and Merciful.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[41:33]",
+            "verse-id": "[41:33]",
             "verse": "And who is better in speech than one who invites to Allah and does righteousness and says, \"Indeed, I am of the Muslims.\"",
             "description": [
                 "After consoling and encouraging the believers, now",
@@ -1209,7 +1210,7 @@
             ]
         },
         {
-            "id": "[41:34]",
+            "verse-id": "[41:34]",
             "verse": "And not equal are the good deed and the bad. Repel [evil] by that [deed] which is better; and thereupon the one whom between you and him is enmity [will become] as though he was a devoted friend.",
             "description": [
                 "To understand the full significance of these",
@@ -1321,7 +1322,7 @@
             ]
         },
         {
-            "id": "[41:35]",
+            "verse-id": "[41:35]",
             "verse": "But none is granted it except those who are patient, and none is granted it except one having a great portion [of good].",
             "description": [
                 "Although a very efficacious recipe, it is",
@@ -1363,7 +1364,7 @@
             ]
         },
         {
-            "id": "[41:36]",
+            "verse-id": "[41:36]",
             "verse": "And if there comes to you from Satan an evil suggestion, then seek refuge in Allah. Indeed, He is the Hearing, the Knowing.",
             "description": [
                 "Satan feels grieved when he sees that",
@@ -1473,7 +1474,7 @@
             ]
         },
         {
-            "id": "[41:37]",
+            "verse-id": "[41:37]",
             "verse": "And of His signs are the night and day and the sun and moon. Do not prostrate to the sun or to the moon, but prostate to Allah, who created them, if it should be Him that you worship.",
             "description": [
                 "Now the discourse turns to the common",
@@ -1516,7 +1517,7 @@
             ]
         },
         {
-            "id": "[41:38]",
+            "verse-id": "[41:38]",
             "verse": "But if they are arrogant - then those who are near your Lord exalt Him by night and by day, and they do not become weary.",
             "description": [
                 "\"If they show arrogance\": If they think",
@@ -1557,7 +1558,7 @@
             ]
         },
         {
-            "id": "[41:39]",
+            "verse-id": "[41:39]",
             "verse": "And of His signs is that you see the earth stilled, but when We send down upon it rain, it quivers and grows. Indeed, He who has given it life is the Giver of Life to the dead. Indeed, He is over all things competent.",
             "description": [
                 "For explanation, see An--Nahl: 65, Ai-Hijr: 5-7,",
@@ -1565,7 +1566,7 @@
             ]
         },
         {
-            "id": "[41:40]",
+            "verse-id": "[41:40]",
             "verse": "Indeed, those who inject deviation into Our verses are not concealed from Us. So, is he who is cast into the Fire better or he who comes secure on the Day of Resurrection? Do whatever you will; indeed, He is Seeing of what you do.",
             "description": [
                 "After telling the common people in a",
@@ -1606,7 +1607,7 @@
             ]
         },
         {
-            "id": "[41:41]",
+            "verse-id": "[41:41]",
             "verse": "Indeed, those who disbelieve in the message after it has come to them... And indeed, it is a mighty Book.",
             "description": [
                 "\"A mighty Book\": An unchanging Book, which",
@@ -1624,7 +1625,7 @@
             ]
         },
         {
-            "id": "[41:42]",
+            "verse-id": "[41:42]",
             "verse": "Falsehood cannot approach it from before it or from behind it; [it is] a revelation from a [Lord who is] Wise and Praiseworthy.",
             "description": [
                 "\"Falsehood . . . . from before",
@@ -1660,7 +1661,7 @@
             ]
         },
         {
-            "id": "[41:43]",
+            "verse-id": "[41:43]",
             "verse": "Nothing is said to you, [O Muhammad], except what was already said to the messengers before you. Indeed, your Lord is a possessor of forgiveness and a possessor of painful penalty.",
             "description": [
                 "That is, \"It is all due to",
@@ -1672,7 +1673,7 @@
             ]
         },
         {
-            "id": "[41:44]",
+            "verse-id": "[41:44]",
             "verse": "And if We had made it a non-Arabic Qur'an, they would have said, \"Why are its verses not explained in detail [in our language]? Is it a foreign [recitation] and an Arab [messenger]?\" Say, \"It is, for those who believe, a guidance and cure.\" And those who do not believe - in their ears is deafness, and it is upon them blindness. Those are being called from a distant place.",
             "description": [
                 "This is the kind of the stubbornness",
@@ -1723,7 +1724,7 @@
             ]
         },
         {
-            "id": "[41:45]",
+            "verse-id": "[41:45]",
             "verse": "And We had already given Moses the Scripture, but it came under disagreement. And if not for a word that preceded from your Lord, it would have been concluded between them. And indeed they are, concerning the Qur'an, in disquieting doubt.",
             "description": [
                 "That is, some people had believed in",
@@ -1789,7 +1790,7 @@
             ]
         },
         {
-            "id": "[41:46]",
+            "verse-id": "[41:46]",
             "verse": "Whoever does righteousness - it is for his [own] soul; and whoever does evil [does so] against it. And your Lord is not ever unjust to [His] servants.",
             "description": [
                 "That is, \"Your Lord can never be",
@@ -1800,7 +1801,7 @@
             ]
         },
         {
-            "id": "[41:47]",
+            "verse-id": "[41:47]",
             "verse": "To him [alone] is attributed knowledge of the Hour. And fruits emerge not from their coverings nor does a female conceive or give birth except with His knowledge. And the Day He will call to them, \"Where are My 'partners'?\" they will say, \"We announce to You that there is [no longer] among us any witness [to that].\"",
             "description": [
                 "That is, \"None but Allah knows when",
@@ -1869,7 +1870,7 @@
             ]
         },
         {
-            "id": "[41:48]",
+            "verse-id": "[41:48]",
             "verse": "And lost from them will be those they were invoking before, and they will be certain that they have no place of escape.",
             "description": [
                 "That is, \"In their utter hopelessness they",
@@ -1884,7 +1885,7 @@
             ]
         },
         {
-            "id": "[41:49]",
+            "verse-id": "[41:49]",
             "verse": "Man is not weary of supplication for good [things], but if evil touches him, he is hopeless and despairing.",
             "description": [
                 "\"For good\": For prosperity, abundance of provisions,",
@@ -1904,7 +1905,7 @@
             ]
         },
         {
-            "id": "[41:50]",
+            "verse-id": "[41:50]",
             "verse": "And if We let him taste mercy from Us after an adversity which has touched him, he will surely say, \"This is [due] to me, and I do not think the Hour will occur; and [even] if I should be returned to my Lord, indeed, for me there will be with Him the best.\" But We will surely inform those who disbelieved about what they did, and We will surely make them taste a massive punishment.",
             "description": [
                 "That is 'I have got all this",
@@ -1914,7 +1915,7 @@
             ]
         },
         {
-            "id": "[41:51]",
+            "verse-id": "[41:51]",
             "verse": "And when We bestow favor upon man, he turns away and distances himself; but when evil touches him, then he is full of extensive supplication.",
             "description": [
                 "That is, \"He turns away from Our",
@@ -1928,7 +1929,7 @@
             ]
         },
         {
-            "id": "[41:52]",
+            "verse-id": "[41:52]",
             "verse": "Say, \"Have you considered: if the Qur'an is from Allah and you disbelieved in it, who would be more astray than one who is in extreme dissension?\"",
             "description": [
                 "It dces not mean that they should",
@@ -1972,7 +1973,7 @@
             ]
         },
         {
-            "id": "[41:53]",
+            "verse-id": "[41:53]",
             "verse": "We will show them Our signs in the horizons and within themselves until it becomes clear to them that it is the truth. But is it not sufficient concerning your Lord that He is, over all things, a Witness?",
             "description": [
                 "This verse has two meanings and both",
@@ -2124,7 +2125,7 @@
             ]
         },
         {
-            "id": "[41:54]",
+            "verse-id": "[41:54]",
             "verse": "Unquestionably, they are in doubt about the meeting with their Lord. Unquestionably He is, of all things, encompassing.",
             "description": [
                 "That is, \"The basic cause of their",

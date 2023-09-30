@@ -1,9 +1,10 @@
 {
     "name": "Al-Burooj",
+    "id": 85,
     "verse-count": 22,
     "verse-info": [
         {
-            "id": "[85:1]",
+            "verse-id": "[85:1]",
             "verse": "By the sky containing great stars",
             "description": [
                 "Literally: \"By the heaven having constellations.\" Some",
@@ -17,14 +18,14 @@
             ]
         },
         {
-            "id": "[85:2]",
+            "verse-id": "[85:2]",
             "verse": "And [by] the promised Day",
             "description": [
                 "That is, the Day of Resurrection."
             ]
         },
         {
-            "id": "[85:3]",
+            "verse-id": "[85:3]",
             "verse": "And [by] the witness and what is witnessed,",
             "description": [
                 "The conunentators have expressed many different views",
@@ -41,28 +42,28 @@
             ]
         },
         {
-            "id": "[85:4]",
+            "verse-id": "[85:4]",
             "verse": "Cursed were the companions of the trench",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[85:5]",
+            "verse-id": "[85:5]",
             "verse": "[Containing] the fire full of fuel,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[85:6]",
+            "verse-id": "[85:6]",
             "verse": "When they were sitting near it",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[85:7]",
+            "verse-id": "[85:7]",
             "verse": "And they, to what they were doing against the believers, were witnesses.",
             "description": [
                 "\"The people of the ditch\": those who",
@@ -328,14 +329,14 @@
             ]
         },
         {
-            "id": "[85:8]",
+            "verse-id": "[85:8]",
             "verse": "And they resented them not except because they believed in Allah, the Exalted in Might, the Praiseworthy,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[85:9]",
+            "verse-id": "[85:9]",
             "verse": "To whom belongs the dominion of the heavens and the earth. And Allah, over all things, is Witness.",
             "description": [
                 "In these verses those of Allah Almighty's",
@@ -347,7 +348,7 @@
             ]
         },
         {
-            "id": "[85:10]",
+            "verse-id": "[85:10]",
             "verse": "Indeed, those who have tortured the believing men and believing women and then have not repented will have the punishment of Hell, and they will have the punishment of the Burning Fire.",
             "description": [
                 "\"Punishment by burning\" has been mentioned separately",
@@ -361,42 +362,42 @@
             ]
         },
         {
-            "id": "[85:11]",
+            "verse-id": "[85:11]",
             "verse": "Indeed, those who have believed and done righteous deeds will have gardens beneath which rivers flow. That is the great attainment.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[85:12]",
+            "verse-id": "[85:12]",
             "verse": "Indeed, the vengeance of your Lord is severe.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[85:13]",
+            "verse-id": "[85:13]",
             "verse": "Indeed, it is He who originates [creation] and repeats.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[85:14]",
+            "verse-id": "[85:14]",
             "verse": "And He is the Forgiving, the Affectionate,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[85:15]",
+            "verse-id": "[85:15]",
             "verse": "Honorable Owner of the Throne,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[85:16]",
+            "verse-id": "[85:16]",
             "verse": "Effecter of what He intends.",
             "description": [
                 "\"He is All-Forgiving\": If a person repents",
@@ -424,14 +425,14 @@
             ]
         },
         {
-            "id": "[85:17]",
+            "verse-id": "[85:17]",
             "verse": "Has there reached you the story of the soldiers -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[85:18]",
+            "verse-id": "[85:18]",
             "verse": "[Those of] Pharaoh and Thamud?",
             "description": [
                 "The address is directed to the people",
@@ -446,28 +447,28 @@
             ]
         },
         {
-            "id": "[85:19]",
+            "verse-id": "[85:19]",
             "verse": "But they who disbelieve are in [persistent] denial,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[85:20]",
+            "verse-id": "[85:20]",
             "verse": "While Allah encompasses them from behind.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[85:21]",
+            "verse-id": "[85:21]",
             "verse": "But this is an honored Qur'an",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[85:22]",
+            "verse-id": "[85:22]",
             "verse": "[Inscribed] in a Preserved Slate.",
             "description": [
                 "That is, \"The writ of the Qur'an",

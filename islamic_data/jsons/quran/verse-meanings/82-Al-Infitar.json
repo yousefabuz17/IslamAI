@@ -1,23 +1,24 @@
 {
     "name": "Al-Infitar",
+    "id": 82,
     "verse-count": 19,
     "verse-info": [
         {
-            "id": "[82:1]",
+            "verse-id": "[82:1]",
             "verse": "When the sky breaks apart",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[82:2]",
+            "verse-id": "[82:2]",
             "verse": "And when the stars fall, scattering,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[82:3]",
+            "verse-id": "[82:3]",
             "verse": "And when the seas are erupted",
             "description": [
                 "In Surah At-Takwir it has been said:",
@@ -48,7 +49,7 @@
             ]
         },
         {
-            "id": "[82:4]",
+            "verse-id": "[82:4]",
             "verse": "And when the [contents of] graves are scattered,",
             "description": [
                 "In the first three verses, the first",
@@ -59,7 +60,7 @@
             ]
         },
         {
-            "id": "[82:5]",
+            "verse-id": "[82:5]",
             "verse": "A soul will [then] know what it has put forth and kept back.",
             "description": [
                 "The words ma qaddamat wa akhkharat can",
@@ -82,21 +83,21 @@
             ]
         },
         {
-            "id": "[82:6]",
+            "verse-id": "[82:6]",
             "verse": "O mankind, what has deceived you concerning your Lord, the Generous,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[82:7]",
+            "verse-id": "[82:7]",
             "verse": "Who created you, proportioned you, and balanced you?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[82:8]",
+            "verse-id": "[82:8]",
             "verse": "In whatever form He willed has He assembled you.",
             "description": [
                 "That is, \"In the first place, the",
@@ -122,7 +123,7 @@
             ]
         },
         {
-            "id": "[82:9]",
+            "verse-id": "[82:9]",
             "verse": "No! But you deny the Recompense.",
             "description": [
                 "That is, \"There is no reasonable ground",
@@ -183,21 +184,21 @@
             ]
         },
         {
-            "id": "[82:10]",
+            "verse-id": "[82:10]",
             "verse": "And indeed, [appointed] over you are keepers,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[82:11]",
+            "verse-id": "[82:11]",
             "verse": "Noble and recording;",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[82:12]",
+            "verse-id": "[82:12]",
             "verse": "They know whatever you do.",
             "description": [
                 "That is, \"whether you deny the meting",
@@ -259,49 +260,49 @@
             ]
         },
         {
-            "id": "[82:13]",
+            "verse-id": "[82:13]",
             "verse": "Indeed, the righteous will be in pleasure,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[82:14]",
+            "verse-id": "[82:14]",
             "verse": "And indeed, the wicked will be in Hellfire.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[82:15]",
+            "verse-id": "[82:15]",
             "verse": "They will [enter to] burn therein on the Day of Recompense,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[82:16]",
+            "verse-id": "[82:16]",
             "verse": "And never therefrom will they be absent.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[82:17]",
+            "verse-id": "[82:17]",
             "verse": "And what can make you know what is the Day of Recompense?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[82:18]",
+            "verse-id": "[82:18]",
             "verse": "Then, what can make you know what is the Day of Recompense?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[82:19]",
+            "verse-id": "[82:19]",
             "verse": "It is the Day when a soul will not possess for another soul [power to do] a thing; and the command, that Day, is [entirely] with Allah.",
             "description": [
                 "That is, no one there will have",

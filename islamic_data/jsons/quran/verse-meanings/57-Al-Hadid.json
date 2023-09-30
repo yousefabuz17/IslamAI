@@ -1,9 +1,10 @@
 {
     "name": "Al-Hadid",
+    "id": 57,
     "verse-count": 29,
     "verse-info": [
         {
-            "id": "[57:1]",
+            "verse-id": "[57:1]",
             "verse": "Whatever is in the heavens and earth exalts Allah, and He is the Exalted in Might, the Wise.",
             "description": [
                 "'That is, \"It has always been so",
@@ -150,14 +151,14 @@
             ]
         },
         {
-            "id": "[57:2]",
+            "verse-id": "[57:2]",
             "verse": "His is the dominion of the heavens and earth. He gives life and causes death, and He is over all things competent.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[57:3]",
+            "verse-id": "[57:3]",
             "verse": "He is the First and the Last, the Ascendant and the Intimate, and He is, of all things, Knowing.",
             "description": [
                 "That is, \"When there was nothing, He",
@@ -216,7 +217,7 @@
             ]
         },
         {
-            "id": "[57:4]",
+            "verse-id": "[57:4]",
             "verse": "It is He who created the heavens and earth in six days and then established Himself above the Throne. He knows what penetrates into the earth and what emerges from it and what descends from the heaven and what ascends therein; and He is with you wherever you are. And Allah, of what you do, is Seeing.",
             "description": [
                 "That is, He alone is the Creator",
@@ -275,21 +276,21 @@
             ]
         },
         {
-            "id": "[57:5]",
+            "verse-id": "[57:5]",
             "verse": "His is the dominion of the heavens and earth. And to Allah are returned [all] matters.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[57:6]",
+            "verse-id": "[57:6]",
             "verse": "He causes the night to enter the day and causes the day to enter the night, and he is Knowing of that within the breasts.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[57:7]",
+            "verse-id": "[57:7]",
             "verse": "Believe in Allah and His Messenger and spend out of that in which He has made you successors. For those who have believed among you and spent, there will be a great reward.",
             "description": [
                 "The addressees here are not the non-Muslims,",
@@ -425,7 +426,7 @@
             ]
         },
         {
-            "id": "[57:8]",
+            "verse-id": "[57:8]",
             "verse": "And why do you not believe in Allah while the Messenger invites you to believe in your Lord and He has taken your covenant, if you should [truly] be believers?",
             "description": [
                 "That is, \"You are adopting this unbelieving",
@@ -473,14 +474,14 @@
             ]
         },
         {
-            "id": "[57:9]",
+            "verse-id": "[57:9]",
             "verse": "It is He who sends down upon His Servant [Muhammad] verses of clear evidence that He may bring you out from darknesses into the light. And indeed, Allah is to you Kind and Merciful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[57:10]",
+            "verse-id": "[57:10]",
             "verse": "And why do you not spend in the cause of Allah while to Allah belongs the heritage of the heavens and the earth? Not equal among you are those who spent before the conquest [of Makkah] and fought [and those who did so after it]. Those are greater in degree than they who spent afterwards and fought. But to all Allah has promised the best [reward]. And Allah, with what you do, is Acquainted.",
             "description": [
                 "This has two meanings: (1) \"Your wealth",
@@ -594,7 +595,7 @@
             ]
         },
         {
-            "id": "[57:11]",
+            "verse-id": "[57:11]",
             "verse": "Who is it that would loan Allah a goodly loan so He will multiply it for him and he will have a noble reward?",
             "description": [
                 "How Generous and Beneficent is Allah that",
@@ -647,7 +648,7 @@
             ]
         },
         {
-            "id": "[57:12]",
+            "verse-id": "[57:12]",
             "verse": "On the Day you see the believing men and believing women, their light proceeding before them and on their right, [it will be said], \"Your good tidings today are [of] gardens beneath which rivers flow, wherein you will abide eternally.\" That is what is the great attainment.",
             "description": [
                 "This and the following verses show that",
@@ -711,7 +712,7 @@
             ]
         },
         {
-            "id": "[57:13]",
+            "verse-id": "[57:13]",
             "verse": "On the [same] Day the hypocrite men and hypocrite women will say to those who believed, \"Wait for us that we may acquire some of your light.\" It will be said, \"Go back behind you and seek light.\" And a wall will be placed between them with a door, its interior containing mercy, but on the outside of it is torment.",
             "description": [
                 "It means that when the believers will",
@@ -737,7 +738,7 @@
             ]
         },
         {
-            "id": "[57:14]",
+            "verse-id": "[57:14]",
             "verse": "The hypocrites will call to the believers, \"Were we not with you?\" They will say, \"Yes, but you afflicted yourselves and awaited [misfortune for us] and doubted, and wishful thinking deluded you until there came the command of Allah. And the Deceiver deceived you concerning Allah.",
             "description": [
                 "That is, \"Did we not live with",
@@ -807,7 +808,7 @@
             ]
         },
         {
-            "id": "[57:15]",
+            "verse-id": "[57:15]",
             "verse": "So today no ransom will be taken from you or from those who disbelieved. Your refuge is the Fire. It is most worthy of you, and wretched is the destination.",
             "description": [
                 "This clearly shows that in the Hereafter",
@@ -825,7 +826,7 @@
             ]
         },
         {
-            "id": "[57:16]",
+            "verse-id": "[57:16]",
             "verse": "Has the time not come for those who have believed that their hearts should become humbly submissive at the remembrance of Allah and what has come down of the truth? And let them not be like those who were given the Scripture before, and a long period passed over them, so their hearts hardened; and many of them are defiantly disobedient.",
             "description": [
                 "Here again, the word \"believers\" is general,",
@@ -888,7 +889,7 @@
             ]
         },
         {
-            "id": "[57:17]",
+            "verse-id": "[57:17]",
             "verse": "Know that Allah gives life to the earth after its lifelessness. We have made clear to you the signs; perhaps you will understand.",
             "description": [
                 "The point contained here should be well",
@@ -936,7 +937,7 @@
             ]
         },
         {
-            "id": "[57:18]",
+            "verse-id": "[57:18]",
             "verse": "Indeed, the men who practice charity and the women who practice charity and [they who] have loaned Allah a goodly loan - it will be multiplied for them, and they will have a noble reward.",
             "description": [
                 "Sadagah, as an Islamic term, is the",
@@ -957,7 +958,7 @@
             ]
         },
         {
-            "id": "[57:19]",
+            "verse-id": "[57:19]",
             "verse": "And those who have believed in Allah and His messengers - those are [in the ranks of] the supporters of truth and the martyrs, with their Lord. For them is their reward and their light. But those who have disbelieved and denied Our verses - those are the companions of Hellfire.",
             "description": [
                 "Here, the believers imply those people of",
@@ -1093,7 +1094,7 @@
             ]
         },
         {
-            "id": "[57:20]",
+            "verse-id": "[57:20]",
             "verse": "Know that the life of this world is but amusement and diversion and adornment and boasting to one another and competition in increase of wealth and children - like the example of a rain whose [resulting] plant growth pleases the tillers; then it dries and you see it turned yellow; then it becomes [scattered] debris. And in the Hereafter is severe punishment and forgiveness from Allah and approval. And what is the worldly life except the enjoyment of delusion.",
             "description": [
                 "To understand this theme fully one should",
@@ -1134,7 +1135,7 @@
             ]
         },
         {
-            "id": "[57:21]",
+            "verse-id": "[57:21]",
             "verse": "Race toward forgiveness from your Lord and a Garden whose width is like the width of the heavens and earth, prepared for those who believed in Allah and His messengers. That is the bounty of Allah which He gives to whom He wills, and Allah is the possessor of great bounty.",
             "description": [
                 "Musabagat (from which sabiqu of the original",
@@ -1189,7 +1190,7 @@
             ]
         },
         {
-            "id": "[57:22]",
+            "verse-id": "[57:22]",
             "verse": "No disaster strikes upon the earth or among yourselves except that it is in a register before We bring it into being - indeed that, for Allah, is easy -",
             "description": [
                 "\"A Book\": the Writ of destiny,",
@@ -1206,7 +1207,7 @@
             ]
         },
         {
-            "id": "[57:23]",
+            "verse-id": "[57:23]",
             "verse": "In order that you not despair over what has eluded you and not exult [in pride] over what He has given you. And Allah does not like everyone self-deluded and boastful -",
             "description": [
                 "In order to understand why this has",
@@ -1248,7 +1249,7 @@
             ]
         },
         {
-            "id": "[57:24]",
+            "verse-id": "[57:24]",
             "verse": "[Those] who are stingy and enjoin upon people stinginess. And whoever turns away - then indeed, Allah is the Free of need, the Praiseworthy.",
             "description": [
                 "The allusion is to the trait of",
@@ -1300,7 +1301,7 @@
             ]
         },
         {
-            "id": "[57:25]",
+            "verse-id": "[57:25]",
             "verse": "We have already sent Our messengers with clear evidences and sent down with them the Scripture and the balance that the people may maintain [their affairs] in justice. And We sent down iron, wherein is great military might and benefits for the people, and so that Allah may make evident those who support Him and His messengers unseen. Indeed, Allah is Powerful and Exalted in Might.",
             "description": [
                 "In this brief sentence the whole essence",
@@ -1436,7 +1437,7 @@
             ]
         },
         {
-            "id": "[57:26]",
+            "verse-id": "[57:26]",
             "verse": "And We have already sent Noah and Abraham and placed in their descendants prophethood and scripture; and among them is he who is guided, but many of them are defiantly disobedient.",
             "description": [
                 "Now it is being told what corruptions",
@@ -1455,7 +1456,7 @@
             ]
         },
         {
-            "id": "[57:27]",
+            "verse-id": "[57:27]",
             "verse": "Then We sent following their footsteps Our messengers and followed [them] with Jesus, the son of Mary, and gave him the Gospel. And We placed in the hearts of those who followed him compassion and mercy and monasticism, which they innovated; We did not prescribe it for them except [that they did so] seeking the approval of Allah. But they did not observe it with due observance. So We gave the ones who believed among them their reward, but many of them are defiantly disobedient.",
             "description": [
                 "The words in the Text are rafat",
@@ -2150,7 +2151,7 @@
             ]
         },
         {
-            "id": "[57:28]",
+            "verse-id": "[57:28]",
             "verse": "O you who have believed, fear Allah and believe in His Messenger; He will [then] give you a double portion of His mercy and make for you a light by which you will walk and forgive you; and Allah is Forgiving and Merciful.",
             "description": [
                 "The commentators differ in the explanation of",
@@ -2226,7 +2227,7 @@
             ]
         },
         {
-            "id": "[57:29]",
+            "verse-id": "[57:29]",
             "verse": "[This is] so that the People of the Scripture may know that they are not able [to obtain] anything from the bounty of Allah and that [all] bounty is in the hand of Allah; He gives it to whom He wills. And Allah is the possessor of great bounty.",
             "description": [
                 ""

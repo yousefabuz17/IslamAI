@@ -1,9 +1,10 @@
 {
     "name": "An-Nahl",
+    "id": 16,
     "verse-count": 128,
     "verse-info": [
         {
-            "id": "[16:1]",
+            "verse-id": "[16:1]",
             "verse": "The command of Allah is coming, so be not impatient for it. Exalted is He and high above what they associate with Him.",
             "description": [
                 "That is, \"The time for final `Judgment'",
@@ -67,7 +68,7 @@
             ]
         },
         {
-            "id": "[16:2]",
+            "verse-id": "[16:2]",
             "verse": "He sends down the angels, with the inspiration of His command, upon whom He wills of His servants, [telling them], \"Warn that there is no deity except Me; so fear Me.\"",
             "description": [
                 "This means \"the Spirit of Prophethood with",
@@ -124,7 +125,7 @@
             ]
         },
         {
-            "id": "[16:3]",
+            "verse-id": "[16:3]",
             "verse": "He created the heavens and earth in truth. High is He above what they associate with Him.",
             "description": [
                 "That is to say, \"The whole system",
@@ -150,7 +151,7 @@
             ]
         },
         {
-            "id": "[16:4]",
+            "verse-id": "[16:4]",
             "verse": "He created man from a sperm-drop; then at once, he is a clear adversary.",
             "description": [
                 "This has two meanings and both are",
@@ -181,28 +182,28 @@
             ]
         },
         {
-            "id": "[16:5]",
+            "verse-id": "[16:5]",
             "verse": "And the grazing livestock He has created for you; in them is warmth and [numerous] benefits, and from them you eat.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:6]",
+            "verse-id": "[16:6]",
             "verse": "And for you in them is [the enjoyment of] beauty when you bring them in [for the evening] and when you send them out [to pasture].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:7]",
+            "verse-id": "[16:7]",
             "verse": "And they carry your loads to a land you could not have reached except with difficulty to yourselves. Indeed, your Lord is Kind and Merciful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:8]",
+            "verse-id": "[16:8]",
             "verse": "And [He created] the horses, mules and donkeys for you to ride and [as] adornment. And He creates that which you do not know.",
             "description": [
                 "That is, \"There are many agencies which",
@@ -213,7 +214,7 @@
             ]
         },
         {
-            "id": "[16:9]",
+            "verse-id": "[16:9]",
             "verse": "And upon Allah is the direction of the [right] way, and among the various paths are those deviating. And if He willed, He could have guided you all.",
             "description": [
                 "This contains an argument for Prophethood along",
@@ -305,35 +306,35 @@
             ]
         },
         {
-            "id": "[16:10]",
+            "verse-id": "[16:10]",
             "verse": "It is He who sends down rain from the sky; from it is drink and from it is foliage in which you pasture [animals].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:11]",
+            "verse-id": "[16:11]",
             "verse": "He causes to grow for you thereby the crops, olives, palm trees, grapevines, and from all the fruits. Indeed in that is a sign for a people who give thought.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:12]",
+            "verse-id": "[16:12]",
             "verse": "And He has subjected for you the night and day and the sun and moon, and the stars are subjected by His command. Indeed in that are signs for a people who reason.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:13]",
+            "verse-id": "[16:13]",
             "verse": "And [He has subjected] whatever He multiplied for you on the earth of varying colors. Indeed in that is a sign for a people who remember.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:14]",
+            "verse-id": "[16:14]",
             "verse": "And it is He who subjected the sea for you to eat from it tender meat and to extract from it ornaments which you wear. And you see the ships plowing through it, and [He subjected it] that you may seek of His bounty; and perhaps you will be grateful.",
             "description": [
                 "That is, \"try to get your sustenance",
@@ -341,7 +342,7 @@
             ]
         },
         {
-            "id": "[16:15]",
+            "verse-id": "[16:15]",
             "verse": "And He has cast into the earth firmly set mountains, lest it shift with you, and [made] rivers and roads, that you may be guided,",
             "description": [
                 "This shows that the real function of",
@@ -361,7 +362,7 @@
             ]
         },
         {
-            "id": "[16:16]",
+            "verse-id": "[16:16]",
             "verse": "And landmarks. And by the stars they are [also] guided.",
             "description": [
                 "This is a Sign of Allah that",
@@ -471,7 +472,7 @@
             ]
         },
         {
-            "id": "[16:17]",
+            "verse-id": "[16:17]",
             "verse": "Then is He who creates like one who does not create? So will you not be reminded?",
             "description": [
                 "hat is, \"If you, people of Makkah,",
@@ -497,7 +498,7 @@
             ]
         },
         {
-            "id": "[16:18]",
+            "verse-id": "[16:18]",
             "verse": "And if you should count the favors of Allah, you could not enumerate them. Indeed, Allah is Forgiving and Merciful.",
             "description": [
                 "Here the connection of Allah's attributes, \"Forgiving",
@@ -530,7 +531,7 @@
             ]
         },
         {
-            "id": "[16:19]",
+            "verse-id": "[16:19]",
             "verse": "And Allah knows what you conceal and what you declare.",
             "description": [
                 "A grave misunderstanding might arise as to",
@@ -553,14 +554,14 @@
             ]
         },
         {
-            "id": "[16:20]",
+            "verse-id": "[16:20]",
             "verse": "And those they invoke other than Allah create nothing, and they [themselves] are created.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:21]",
+            "verse-id": "[16:21]",
             "verse": "They are, [in fact], dead, not alive, and they do not perceive when they will be resurrected.",
             "description": [
                 "The words employed here to refute man-made",
@@ -606,7 +607,7 @@
             ]
         },
         {
-            "id": "[16:22]",
+            "verse-id": "[16:22]",
             "verse": "Your god is one God. But those who do not believe in the Hereafter - their hearts are disapproving, and they are arrogant.",
             "description": [
                 "That is, \"Those who do not believe",
@@ -624,14 +625,14 @@
             ]
         },
         {
-            "id": "[16:23]",
+            "verse-id": "[16:23]",
             "verse": "Assuredly, Allah knows what they conceal and what they declare. Indeed, He does not like the arrogant.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:24]",
+            "verse-id": "[16:24]",
             "verse": "And when it is said to them, \"What has your Lord sent down?\" They say, \"Legends of the former peoples,\"",
             "description": [
                 "In the preceding verse (23) those puffed",
@@ -660,21 +661,21 @@
             ]
         },
         {
-            "id": "[16:25]",
+            "verse-id": "[16:25]",
             "verse": "That they may bear their own burdens in full on the Day of Resurrection and some of the burdens of those whom they misguide without knowledge. Unquestionably, evil is that which they bear.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:26]",
+            "verse-id": "[16:26]",
             "verse": "Those before them had already plotted, but Allah came at their building from the foundations, so the roof fell upon them from above them, and the punishment came to them from where they did not perceive.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:27]",
+            "verse-id": "[16:27]",
             "verse": "Then on the Day of Resurrection He will disgrace them and say, \"Where are My 'partners' for whom you used to oppose [the believers]?\" Those who were given knowledge will say, \"Indeed disgrace, this Day, and evil are upon the disbelievers\" -",
             "description": [
                 "There is a gap between this answer",
@@ -693,7 +694,7 @@
             ]
         },
         {
-            "id": "[16:28]",
+            "verse-id": "[16:28]",
             "verse": "The ones whom the angels take in death [while] wronging themselves, and [who] then offer submission, [saying], \"We were not doing any evil.\" But, yes! Indeed, Allah is Knowing of what you used to do.",
             "description": [
                 "This is Allah's addition to the previous",
@@ -708,7 +709,7 @@
             ]
         },
         {
-            "id": "[16:29]",
+            "verse-id": "[16:29]",
             "verse": "So enter the gates of Hell to abide eternally therein, and how wretched is the residence of the arrogant.",
             "description": [
                 "This verse (28) and verse 32, and",
@@ -809,7 +810,7 @@
             ]
         },
         {
-            "id": "[16:30]",
+            "verse-id": "[16:30]",
             "verse": "And it will be said to those who feared Allah, \"What did your Lord send down?\" They will say, \"[That which is] good.\" For those who do good in this world is good; and the home of the Hereafter is better. And how excellent is the home of the righteous -",
             "description": [
                 "In contrast to the disbelievers (v. 24),",
@@ -824,7 +825,7 @@
             ]
         },
         {
-            "id": "[16:31]",
+            "verse-id": "[16:31]",
             "verse": "Gardens of perpetual residence, which they will enter, beneath which rivers flow. They will have therein whatever they wish. Thus does Allah reward the righteous -",
             "description": [
                 "This is the best blessing of Paradise.",
@@ -843,14 +844,14 @@
             ]
         },
         {
-            "id": "[16:32]",
+            "verse-id": "[16:32]",
             "verse": "The ones whom the angels take in death, [being] good and pure; [the angels] will say, \"Peace be upon you. Enter Paradise for what you used to do.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:33]",
+            "verse-id": "[16:33]",
             "verse": "Do the disbelievers await [anything] except that the angels should come to them or there comes the command of your Lord? Thus did those do before them. And Allah wronged them not, but they had been wronging themselves.",
             "description": [
                 "This is to admonish the unbelievers to",
@@ -873,14 +874,14 @@
             ]
         },
         {
-            "id": "[16:34]",
+            "verse-id": "[16:34]",
             "verse": "So they were struck by the evil consequences of what they did and were enveloped by what they used to ridicule.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:35]",
+            "verse-id": "[16:35]",
             "verse": "And those who associate others with Allah say, \"If Allah had willed, we would not have worshipped anything other than Him, neither we nor our fathers, nor would we have forbidden anything through other than Him.\" Thus did those do before them. So is there upon the messengers except [the duty of] clear notification?",
             "description": [
                 "In order to understand the significance of",
@@ -919,7 +920,7 @@
             ]
         },
         {
-            "id": "[16:36]",
+            "verse-id": "[16:36]",
             "verse": "And We certainly sent into every nation a messenger, [saying], \"Worship Allah and avoid Taghut.\" And among them were those whom Allah guided, and among them were those upon whom error was [deservedly] decreed. So proceed through the earth and observe how was the end of the deniers.",
             "description": [
                 "That is, \"You are not justified in",
@@ -962,21 +963,21 @@
             ]
         },
         {
-            "id": "[16:37]",
+            "verse-id": "[16:37]",
             "verse": "[Even] if you should strive for their guidance, [O Muhammad], indeed, Allah does not guide those He sends astray, and they will have no helpers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:38]",
+            "verse-id": "[16:38]",
             "verse": "And they swear by Allah their strongest oaths [that] Allah will not resurrect one who dies. But yes - [it is] a true promise [binding] upon Him, but most of the people do not know.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:39]",
+            "verse-id": "[16:39]",
             "verse": "[It is] so He will make clear to them [the truth of] that wherein they differ and so those who have disbelieved may know that they were liars.",
             "description": [
                 "n v. 39 those two things have",
@@ -1037,7 +1038,7 @@
             ]
         },
         {
-            "id": "[16:40]",
+            "verse-id": "[16:40]",
             "verse": "Indeed, Our word to a thing when We intend it is but that We say to it, \"Be,\" and it is.",
             "description": [
                 "This is the answer to those who",
@@ -1060,7 +1061,7 @@
             ]
         },
         {
-            "id": "[16:41]",
+            "verse-id": "[16:41]",
             "verse": "And those who emigrated for [the cause of] Allah after they had been wronged - We will surely settle them in this world in a good place; but the reward of the Hereafter is greater, if only they could know.",
             "description": [
                 "This is to comfort the Muslim emigrants",
@@ -1081,14 +1082,14 @@
             ]
         },
         {
-            "id": "[16:42]",
+            "verse-id": "[16:42]",
             "verse": "[They are] those who endured patiently and upon their Lord relied.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:43]",
+            "verse-id": "[16:43]",
             "verse": "And We sent not before you except men to whom We revealed [Our message]. So ask the people of the message if you do not know.",
             "description": [
                 "This is the answer to the objection",
@@ -1111,7 +1112,7 @@
             ]
         },
         {
-            "id": "[16:44]",
+            "verse-id": "[16:44]",
             "verse": "[We sent them] with clear proofs and written ordinances. And We revealed to you the message that you may make clear to the people what was sent down to them and that they might give thought.",
             "description": [
                 "In this connection, it is worthwhile to",
@@ -1236,28 +1237,28 @@
             ]
         },
         {
-            "id": "[16:45]",
+            "verse-id": "[16:45]",
             "verse": "Then, do those who have planned evil deeds feel secure that Allah will not cause the earth to swallow them or that the punishment will not come upon them from where they do not perceive?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:46]",
+            "verse-id": "[16:46]",
             "verse": "Or that He would not seize them during their [usual] activity, and they could not cause failure?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:47]",
+            "verse-id": "[16:47]",
             "verse": "Or that He would not seize them gradually [in a state of dread]? But indeed, your Lord is Kind and Merciful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:48]",
+            "verse-id": "[16:48]",
             "verse": "Have they not considered what things Allah has created? Their shadows incline to the right and to the left, prostrating to Allah, while they are humble.",
             "description": [
                 "The argument is this: The fact that",
@@ -1274,7 +1275,7 @@
             ]
         },
         {
-            "id": "[16:49]",
+            "verse-id": "[16:49]",
             "verse": "And to Allah prostrates whatever is in the heavens and whatever is on the earth of creatures, and the angels [as well], and they are not arrogant.",
             "description": [
                 "That is, \"Not only all things on",
@@ -1291,14 +1292,14 @@
             ]
         },
         {
-            "id": "[16:50]",
+            "verse-id": "[16:50]",
             "verse": "They fear their Lord above them, and they do what they are commanded.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:51]",
+            "verse-id": "[16:51]",
             "verse": "And Allah has said, \"Do not take for yourselves two deities. He is but one God, so fear only Me.\"",
             "description": [
                 "Negation of two gods by itself negates",
@@ -1307,7 +1308,7 @@
             ]
         },
         {
-            "id": "[16:52]",
+            "verse-id": "[16:52]",
             "verse": "And to Him belongs whatever is in the heavens and the earth, and to Him is [due] worship constantly. Then is it other than Allah that you fear?",
             "description": [
                 "In other words it means that the",
@@ -1321,7 +1322,7 @@
             ]
         },
         {
-            "id": "[16:53]",
+            "verse-id": "[16:53]",
             "verse": "And whatever you have of favor - it is from Allah. Then when adversity touches you, to Him you cry for help.",
             "description": [
                 "That is, \"The fact, that you run",
@@ -1340,7 +1341,7 @@
             ]
         },
         {
-            "id": "[16:54]",
+            "verse-id": "[16:54]",
             "verse": "Then when He removes the adversity from you, at once a party of you associates others with their Lord",
             "description": [
                 "That is, \"At the time of showing",
@@ -1354,14 +1355,14 @@
             ]
         },
         {
-            "id": "[16:55]",
+            "verse-id": "[16:55]",
             "verse": "So they will deny what We have given them. Then enjoy yourselves, for you are going to know.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:56]",
+            "verse-id": "[16:56]",
             "verse": "And they assign to what they do not know a portion of that which We have provided them. By Allah, you will surely be questioned about what you used to invent.",
             "description": [
                 "They assign shares to those patrons about",
@@ -1377,7 +1378,7 @@
             ]
         },
         {
-            "id": "[16:57]",
+            "verse-id": "[16:57]",
             "verse": "And they attribute to Allah daughters - exalted is He - and for them is what they desire.",
             "description": [
                 "This refers to a tradition of the",
@@ -1388,14 +1389,14 @@
             ]
         },
         {
-            "id": "[16:58]",
+            "verse-id": "[16:58]",
             "verse": "And when one of them is informed of [the birth of] a female, his face becomes dark, and he suppresses grief.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:59]",
+            "verse-id": "[16:59]",
             "verse": "He hides himself from the people because of the ill of which he has been informed. Should he keep it in humiliation or bury it in the ground? Unquestionably, evil is what they decide.",
             "description": [
                 "This attitude of contempt towards daughters has",
@@ -1415,35 +1416,35 @@
             ]
         },
         {
-            "id": "[16:60]",
+            "verse-id": "[16:60]",
             "verse": "For those who do not believe in the Hereafter is the description of evil; and for Allah is the highest attribute. And He is Exalted in Might, the Wise.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:61]",
+            "verse-id": "[16:61]",
             "verse": "And if Allah were to impose blame on the people for their wrongdoing, He would not have left upon the earth any creature, but He defers them for a specified term. And when their term has come, they will not remain behind an hour, nor will they precede [it].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:62]",
+            "verse-id": "[16:62]",
             "verse": "And they attribute to Allah that which they dislike, and their tongues assert the lie that they will have the best [from Him]. Assuredly, they will have the Fire, and they will be [therein] neglected.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:63]",
+            "verse-id": "[16:63]",
             "verse": "By Allah, We did certainly send [messengers] to nations before you, but Satan made their deeds attractive to them. And he is the disbelievers' ally today [as well], and they will have a painful punishment.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:64]",
+            "verse-id": "[16:64]",
             "verse": "And We have not revealed to you the Book, [O Muhammad], except for you to make clear to them that wherein they have differed and as guidance and mercy for a people who believe.",
             "description": [
                 "That is, \"This Book has afforded them",
@@ -1463,7 +1464,7 @@
             ]
         },
         {
-            "id": "[16:65]",
+            "verse-id": "[16:65]",
             "verse": "And Allah has sent down rain from the sky and given life thereby to the earth after its lifelessness. Indeed in that is a sign for a people who listen.",
             "description": [
                 "a. That is, \" Had you listened",
@@ -1493,7 +1494,7 @@
             ]
         },
         {
-            "id": "[16:66]",
+            "verse-id": "[16:66]",
             "verse": "And indeed, for you in grazing livestock is a lesson. We give you drink from what is in their bellies - between excretion and blood - pure milk, palatable to drinkers.",
             "description": [
                 "\"....between filth and blood......\":This refers to the",
@@ -1510,7 +1511,7 @@
             ]
         },
         {
-            "id": "[16:67]",
+            "verse-id": "[16:67]",
             "verse": "And from the fruits of the palm trees and grapevines you take intoxicant and good provision. Indeed in that is a sign for a people who reason.",
             "description": [
                 "Incidentally it implies that the juice of",
@@ -1529,7 +1530,7 @@
             ]
         },
         {
-            "id": "[16:68]",
+            "verse-id": "[16:68]",
             "verse": "And your Lord inspired to the bee, \"Take for yourself among the mountains, houses, and among the trees and [in] that which they construct.",
             "description": [
                 "The lexical meaning of the Arabic word",
@@ -1582,7 +1583,7 @@
             ]
         },
         {
-            "id": "[16:69]",
+            "verse-id": "[16:69]",
             "verse": "Then eat from all the fruits and follow the ways of your Lord laid down [for you].\" There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought.",
             "description": [
                 "\" . . . . follow the",
@@ -1686,7 +1687,7 @@
             ]
         },
         {
-            "id": "[16:70]",
+            "verse-id": "[16:70]",
             "verse": "And Allah created you; then He will take you in death. And among you is he who is reversed to the most decrepit [old] age so that he will not know, after [having had] knowledge, a thing. Indeed, Allah is Knowing and Competent.",
             "description": [
                 "It is to emphasize this: Allah not",
@@ -1712,7 +1713,7 @@
             ]
         },
         {
-            "id": "[16:71]",
+            "verse-id": "[16:71]",
             "verse": "And Allah has favored some of you over others in provision. But those who were favored would not hand over their provision to those whom their right hands possess so they would be equal to them therein. Then is it the favor of Allah they reject?",
             "description": [
                 "It will be worthwhile to give deep",
@@ -1815,7 +1816,7 @@
             ]
         },
         {
-            "id": "[16:72]",
+            "verse-id": "[16:72]",
             "verse": "And Allah has made for you from yourselves mates and has made for you from your mates sons and grandchildren and has provided for you from the good things. Then in falsehood do they believe and in the favor of Allah they disbelieve?",
             "description": [
                 "\" .... they believe in falsehood ......\":",
@@ -1879,14 +1880,14 @@
             ]
         },
         {
-            "id": "[16:73]",
+            "verse-id": "[16:73]",
             "verse": "And they worship besides Allah that which does not possess for them [the power of] provision from the heavens and the earth at all, and [in fact], they are unable.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:74]",
+            "verse-id": "[16:74]",
             "verse": "So do not assert similarities to Allah. Indeed, Allah knows and you do not know.",
             "description": [
                 "\"Make no comparisons with Allah\" : You",
@@ -1901,7 +1902,7 @@
             ]
         },
         {
-            "id": "[16:75]",
+            "verse-id": "[16:75]",
             "verse": "Allah presents an example: a slave [who is] owned and unable to do a thing and he to whom We have provided from Us good provision, so he spends from it secretly and publicly. Can they be equal? Praise to Allah! But most of them do not know.",
             "description": [
                 "In the preceding verse, the mushriks were",
@@ -1959,7 +1960,7 @@
             ]
         },
         {
-            "id": "[16:76]",
+            "verse-id": "[16:76]",
             "verse": "And Allah presents an example of two men, one of them dumb and unable to do a thing, while he is a burden to his guardian. Wherever he directs him, he brings no good. Is he equal to one who commands justice, while he is on a straight path?",
             "description": [
                 "In the first similitude, distinction between AIIah",
@@ -1986,7 +1987,7 @@
             ]
         },
         {
-            "id": "[16:77]",
+            "verse-id": "[16:77]",
             "verse": "And to Allah belongs the unseen [aspects] of the heavens and the earth. And the command for the Hour is not but as a glance of the eye or even nearer. Indeed, Allah is over all things competent.",
             "description": [
                 "The subsequent sentence shows that this is",
@@ -2033,7 +2034,7 @@
             ]
         },
         {
-            "id": "[16:78]",
+            "verse-id": "[16:78]",
             "verse": "And Allah has extracted you from the wombs of your mothers not knowing a thing, and He made for you hearing and vision and intellect that perhaps you would be grateful.",
             "description": [
                 "This is to remind them that when",
@@ -2062,14 +2063,14 @@
             ]
         },
         {
-            "id": "[16:79]",
+            "verse-id": "[16:79]",
             "verse": "Do they not see the birds controlled in the atmosphere of the sky? None holds them up except Allah. Indeed in that are signs for a people who believe.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:80]",
+            "verse-id": "[16:80]",
             "verse": "And Allah has made for you from your homes a place of rest and made for you from the hides of the animals tents which you find light on your day of travel and your day of encampment; and from their wool, fur and hair is furnishing and enjoyment for a time.",
             "description": [
                 "Houses: tents of skin which are in",
@@ -2084,7 +2085,7 @@
             ]
         },
         {
-            "id": "[16:81]",
+            "verse-id": "[16:81]",
             "verse": "And Allah has made for you, from that which He has created, shadows and has made for you from the mountains, shelters and has made for you garments which protect you from the heat and garments which protect you from your [enemy in] battle. Thus does He complete His favor upon you that you might submit [to Him].",
             "description": [
                 "The Qur'an has not mentioned protection from",
@@ -2129,14 +2130,14 @@
             ]
         },
         {
-            "id": "[16:82]",
+            "verse-id": "[16:82]",
             "verse": "But if they turn away, [O Muhammad] - then only upon you is [responsibility for] clear notification.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:83]",
+            "verse-id": "[16:83]",
             "verse": "They recognize the favor of Allah; then they deny it. And most of them are disbelievers.",
             "description": [
                 "Here the denial of the blessings of",
@@ -2155,7 +2156,7 @@
             ]
         },
         {
-            "id": "[16:84]",
+            "verse-id": "[16:84]",
             "verse": "And [mention] the Day when We will resurrect from every nation a witness. Then it will not be permitted to the disbelievers [to apologize or make excuses], nor will they be asked to appease [Allah].",
             "description": [
                 "The witness will be the Prophet of",
@@ -2179,7 +2180,7 @@
             ]
         },
         {
-            "id": "[16:85]",
+            "verse-id": "[16:85]",
             "verse": "And when those who wronged see the punishment, it will not be lightened for them, nor will they be reprieved.",
             "description": [
                 "That is, \"They will not be given",
@@ -2204,7 +2205,7 @@
             ]
         },
         {
-            "id": "[16:86]",
+            "verse-id": "[16:86]",
             "verse": "And when those who associated others with Allah see their \"partners,\" they will say,\" Our Lord, these are our partners [to You] whom we used to invoke besides You.\" But they will throw at them the statement, \"Indeed, you are liars.\"",
             "description": [
                 "It does not mean that they would",
@@ -2228,7 +2229,7 @@
             ]
         },
         {
-            "id": "[16:87]",
+            "verse-id": "[16:87]",
             "verse": "And they will impart to Allah that Day [their] submission, and lost from them is what they used to invent.",
             "description": [
                 "That is, \"All those things on which",
@@ -2242,7 +2243,7 @@
             ]
         },
         {
-            "id": "[16:88]",
+            "verse-id": "[16:88]",
             "verse": "Those who disbelieved and averted [others] from the way of Allah - We will increase them in punishment over [their] punishment for what corruption they were causing.",
             "description": [
                 "Double torment: one for their own disbelief",
@@ -2251,7 +2252,7 @@
             ]
         },
         {
-            "id": "[16:89]",
+            "verse-id": "[16:89]",
             "verse": "And [mention] the Day when We will resurrect among every nation a witness over them from themselves. And We will bring you, [O Muhammad], as a witness over your nation. And We have sent down to you the Book as clarification for all things and as guidance and mercy and good tidings for the Muslims.",
             "description": [
                 "The Qur'an makes manifest everything on which",
@@ -2290,7 +2291,7 @@
             ]
         },
         {
-            "id": "[16:90]",
+            "verse-id": "[16:90]",
             "verse": "Indeed, Allah orders justice and good conduct and giving to relatives and forbids immorality and bad conduct and oppression. He admonishes you that perhaps you will be reminded.",
             "description": [
                 "In this brief sentence Allah has enjoined",
@@ -2416,14 +2417,14 @@
             ]
         },
         {
-            "id": "[16:91]",
+            "verse-id": "[16:91]",
             "verse": "And fulfill the covenant of Allah when you have taken it, [O believers], and do not break oaths after their confirmation while you have made Allah, over you, a witness. Indeed, Allah knows what you do.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:92]",
+            "verse-id": "[16:92]",
             "verse": "And do not be like she who untwisted her spun thread after it was strong [by] taking your oaths as [means of] deceit between you because one community is more plentiful [in number or wealth] than another community. Allah only tries you thereby. And He will surely make clear to you on the Day of Resurrection that over which you used to differ.",
             "description": [
                 "In this verse, Allah has enjoined three",
@@ -2507,7 +2508,7 @@
             ]
         },
         {
-            "id": "[16:93]",
+            "verse-id": "[16:93]",
             "verse": "And if Allah had willed, He could have made you [of] one religion, but He causes to stray whom He wills and guides whom He wills. And you will surely be questioned about what you used to do.",
             "description": [
                 "This further supports the previous warning. It",
@@ -2544,7 +2545,7 @@
             ]
         },
         {
-            "id": "[16:94]",
+            "verse-id": "[16:94]",
             "verse": "And do not take your oaths as [means of] deceit between you, lest a foot slip after it was [once] firm, and you would taste evil [in this world] for what [people] you diverted from the way of Allah, and you would have [in the Hereafter] a great punishment.",
             "description": [
                 "That is, \"Someone,who might have been convinced",
@@ -2558,7 +2559,7 @@
             ]
         },
         {
-            "id": "[16:95]",
+            "verse-id": "[16:95]",
             "verse": "And do not exchange the covenant of Allah for a small price. Indeed, what is with Allah is best for you, if only you could know.",
             "description": [
                 "That is, \"The Covenant that you may",
@@ -2576,7 +2577,7 @@
             ]
         },
         {
-            "id": "[16:96]",
+            "verse-id": "[16:96]",
             "verse": "Whatever you have will end, but what Allah has is lasting. And We will surely give those who were patient their reward according to the best of what they used to do.",
             "description": [
                 "Those who practise fortitude are the people",
@@ -2592,7 +2593,7 @@
             ]
         },
         {
-            "id": "[16:97]",
+            "verse-id": "[16:97]",
             "verse": "Whoever does righteousness, whether male or female, while he is a believer - We will surely cause him to live a good life, and We will surely give them their reward [in the Hereafter] according to the best of what they used to do.",
             "description": [
                 "This verse removes the wrong notions of",
@@ -2633,7 +2634,7 @@
             ]
         },
         {
-            "id": "[16:98]",
+            "verse-id": "[16:98]",
             "verse": "So when you recite the Qur'an, [first] seek refuge in Allah from Satan, the expelled [from His mercy].",
             "description": [
                 "This dces not mean that one should",
@@ -2686,21 +2687,21 @@
             ]
         },
         {
-            "id": "[16:99]",
+            "verse-id": "[16:99]",
             "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:100]",
+            "verse-id": "[16:100]",
             "verse": "His authority is only over those who take him as an ally and those who through him associate others with Allah.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:101]",
+            "verse-id": "[16:101]",
             "verse": "And when We substitute a verse in place of a verse - and Allah is most knowing of what He sends down - they say, \"You, [O Muhammad], are but an inventor [of lies].\" But most of them do not know.",
             "description": [
                 "This may also mean, \"To send down",
@@ -2746,7 +2747,7 @@
             ]
         },
         {
-            "id": "[16:102]",
+            "verse-id": "[16:102]",
             "verse": "Say, [O Muhammad], \"The Pure Spirit has brought it down from your Lord in truth to make firm those who believe and as guidance and good tidings to the Muslims.\"",
             "description": [
                 "The Holy Spirit': `fibril'. Instead of using",
@@ -2808,7 +2809,7 @@
             ]
         },
         {
-            "id": "[16:103]",
+            "verse-id": "[16:103]",
             "verse": "And We certainly know that they say, \"It is only a human being who teaches the Prophet.\" The tongue of the one they refer to is foreign, and this Qur'an is [in] a clear Arabic language.",
             "description": [
                 "In this connection, traditions mention the names",
@@ -2845,14 +2846,14 @@
             ]
         },
         {
-            "id": "[16:104]",
+            "verse-id": "[16:104]",
             "verse": "Indeed, those who do not believe in the verses of Allah - Allah will not guide them, and for them is a painful punishment.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:105]",
+            "verse-id": "[16:105]",
             "verse": "They only invent falsehood who do not believe in the verses of Allah, and it is those who are the liars.",
             "description": [
                 "This verse can also be rendered like",
@@ -2863,7 +2864,7 @@
             ]
         },
         {
-            "id": "[16:106]",
+            "verse-id": "[16:106]",
             "verse": "Whoever disbelieves in Allah after his belief... except for one who is forced [to renounce his religion] while his heart is secure in faith. But those who [willingly] open their breasts to disbelief, upon them is wrath from Allah, and for them is a great punishment;",
             "description": [
                 "This verse deals with the case of",
@@ -2937,21 +2938,21 @@
             ]
         },
         {
-            "id": "[16:107]",
+            "verse-id": "[16:107]",
             "verse": "That is because they preferred the worldly life over the Hereafter and that Allah does not guide the disbelieving people.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:108]",
+            "verse-id": "[16:108]",
             "verse": "Those are the ones over whose hearts and hearing and vision Allah has sealed, and it is those who are the heedless.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:109]",
+            "verse-id": "[16:109]",
             "verse": "Assuredly, it is they, in the Hereafter, who will be the losers.",
             "description": [
                 "These words apply to those people who",
@@ -2962,7 +2963,7 @@
             ]
         },
         {
-            "id": "[16:110]",
+            "verse-id": "[16:110]",
             "verse": "Then, indeed your Lord, to those who emigrated after they had been compelled [to renounce their religion] and thereafter fought [for the cause of Allah] and were patient - indeed, your Lord, after that, is Forgiving and Merciful",
             "description": [
                 "They were those Believers who migrated to",
@@ -2970,21 +2971,21 @@
             ]
         },
         {
-            "id": "[16:111]",
+            "verse-id": "[16:111]",
             "verse": "On the Day when every soul will come disputing for itself, and every soul will be fully compensated for what it did, and they will not be wronged.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:112]",
+            "verse-id": "[16:112]",
             "verse": "And Allah presents an example: a city which was safe and secure, its provision coming to it in abundance from every location, but it denied the favors of Allah. So Allah made it taste the envelopment of hunger and fear for what they had been doing.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:113]",
+            "verse-id": "[16:113]",
             "verse": "And there had certainly come to them a Messenger from among themselves, but they denied him; so punishment overtook them while they were wrongdoers.",
             "description": [
                 "That habitation has not been specified here",
@@ -3000,7 +3001,7 @@
             ]
         },
         {
-            "id": "[16:114]",
+            "verse-id": "[16:114]",
             "verse": "Then eat of what Allah has provided for you [which is] lawful and good. And be grateful for the favor of Allah, if it is [indeed] Him that you worship.",
             "description": [
                 "This shows that the above mentioned famine",
@@ -3018,7 +3019,7 @@
             ]
         },
         {
-            "id": "[16:115]",
+            "verse-id": "[16:115]",
             "verse": "He has only forbidden to you dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allah. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit] - then indeed, Allah is Forgiving and Merciful.",
             "description": [
                 "Please refer also to II: 173, V:",
@@ -3026,7 +3027,7 @@
             ]
         },
         {
-            "id": "[16:116]",
+            "verse-id": "[16:116]",
             "verse": "And do not say about what your tongues assert of untruth, \"This is lawful and this is unlawful,\" to invent falsehood about Allah. Indeed, those who invent falsehood about Allah will not succeed.",
             "description": [
                 "This verse clearly shows that none but",
@@ -3060,14 +3061,14 @@
             ]
         },
         {
-            "id": "[16:117]",
+            "verse-id": "[16:117]",
             "verse": "[It is but] a brief enjoyment, and they will have a painful punishment.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:118]",
+            "verse-id": "[16:118]",
             "verse": "And to those who are Jews We have prohibited that which We related to you before. And We did not wrong them [thereby], but they were wronging themselves.",
             "description": [
                 "In this paragraph (vv. 118-124), answers to",
@@ -3127,14 +3128,14 @@
             ]
         },
         {
-            "id": "[16:119]",
+            "verse-id": "[16:119]",
             "verse": "Then, indeed your Lord, to those who have done wrong out of ignorance and then repent after that and correct themselves - indeed, your Lord, thereafter, is Forgiving and Merciful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:120]",
+            "verse-id": "[16:120]",
             "verse": "Indeed, Abraham was a [comprehensive] leader, devoutly obedient to Allah, inclining toward truth, and he was not of those who associate others with Allah.",
             "description": [
                 "\"Abraham was a community in himself\" for",
@@ -3150,21 +3151,21 @@
             ]
         },
         {
-            "id": "[16:121]",
+            "verse-id": "[16:121]",
             "verse": "[He was] grateful for His favors. Allah chose him and guided him to a straight path.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:122]",
+            "verse-id": "[16:122]",
             "verse": "And We gave him good in this world, and indeed, in the Hereafter he will be among the righteous.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:123]",
+            "verse-id": "[16:123]",
             "verse": "Then We revealed to you, [O Muhammad], to follow the religion of Abraham, inclining toward truth; and he was not of those who associate with Allah.",
             "description": [
                 "This is the complete answer to the",
@@ -3204,7 +3205,7 @@
             ]
         },
         {
-            "id": "[16:124]",
+            "verse-id": "[16:124]",
             "verse": "The sabbath was only appointed for those who differed over it. And indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ.",
             "description": [
                 "This is the answer to their second",
@@ -3228,7 +3229,7 @@
             ]
         },
         {
-            "id": "[16:125]",
+            "verse-id": "[16:125]",
             "verse": "Invite to the way of your Lord with wisdom and good instruction, and argue with them in a way that is best. Indeed, your Lord is most knowing of who has strayed from His way, and He is most knowing of who is [rightly] guided.",
             "description": [
                 "This instruction is very important for those",
@@ -3295,21 +3296,21 @@
             ]
         },
         {
-            "id": "[16:126]",
+            "verse-id": "[16:126]",
             "verse": "And if you punish [an enemy, O believers], punish with an equivalent of that with which you were harmed. But if you are patient - it is better for those who are patient.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:127]",
+            "verse-id": "[16:127]",
             "verse": "And be patient, [O Muhammad], and your patience is not but through Allah. And do not grieve over them and do not be in distress over what they conspire.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[16:128]",
+            "verse-id": "[16:128]",
             "verse": "Indeed, Allah is with those who fear Him and those who are doers of good.",
             "description": [
                 "\"Allah is with those who fear Him\"",

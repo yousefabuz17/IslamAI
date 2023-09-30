@@ -1,9 +1,10 @@
 {
     "name": "Az-Zalzalah",
+    "id": 99,
     "verse-count": 8,
     "verse-info": [
         {
-            "id": "[99:1]",
+            "verse-id": "[99:1]",
             "verse": "When the earth is shaken with its [final] earthquake",
             "description": [
                 "Zalzalah means to shake violently over and",
@@ -36,7 +37,7 @@
             ]
         },
         {
-            "id": "[99:2]",
+            "verse-id": "[99:2]",
             "verse": "And the earth discharges its burdens",
             "description": [
                 "This same has been expressed in Surah",
@@ -80,7 +81,7 @@
             ]
         },
         {
-            "id": "[99:3]",
+            "verse-id": "[99:3]",
             "verse": "And man says, \"What is [wrong] with it?\" -",
             "description": [
                 "Man here may as well imply every",
@@ -115,7 +116,7 @@
             ]
         },
         {
-            "id": "[99:4]",
+            "verse-id": "[99:4]",
             "verse": "That Day, it will report its news",
             "description": [
                 "According to Hadrat Abu Hurairah, the Holy",
@@ -249,14 +250,14 @@
             ]
         },
         {
-            "id": "[99:5]",
+            "verse-id": "[99:5]",
             "verse": "Because your Lord has commanded it.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[99:6]",
+            "verse-id": "[99:6]",
             "verse": "That Day, the people will depart separated [into categories] to be shown [the result of] their deeds.",
             "description": [
                 "This can have two meanings: (1) That",
@@ -335,14 +336,14 @@
             ]
         },
         {
-            "id": "[99:7]",
+            "verse-id": "[99:7]",
             "verse": "So whoever does an atom's weight of good will see it,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[99:8]",
+            "verse-id": "[99:8]",
             "verse": "And whoever does an atom's weight of evil will see it.",
             "description": [
                 "A simple and straightforward meaning of this",

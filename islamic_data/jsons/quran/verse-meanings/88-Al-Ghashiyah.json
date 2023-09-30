@@ -1,9 +1,10 @@
 {
     "name": "Al-Ghashiyah",
+    "id": 88,
     "verse-count": 26,
     "verse-info": [
         {
-            "id": "[88:1]",
+            "verse-id": "[88:1]",
             "verse": "Has there reached you the report of the Overwhelming [event]?",
             "description": [
                 "\"The over-shadowing calamity\": the Resurrection which will",
@@ -17,7 +18,7 @@
             ]
         },
         {
-            "id": "[88:2]",
+            "verse-id": "[88:2]",
             "verse": "[Some] faces, that Day, will be humbled,",
             "description": [
                 "Some faces : some persons, so said",
@@ -29,28 +30,28 @@
             ]
         },
         {
-            "id": "[88:3]",
+            "verse-id": "[88:3]",
             "verse": "Working [hard] and exhausted.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[88:4]",
+            "verse-id": "[88:4]",
             "verse": "They will [enter to] burn in an intensely hot Fire.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[88:5]",
+            "verse-id": "[88:5]",
             "verse": "They will be given drink from a boiling spring.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[88:6]",
+            "verse-id": "[88:6]",
             "verse": "For them there will be no food except from a poisonous, thorny plant",
             "description": [
                 "At some places in the Qur'an it",
@@ -75,21 +76,21 @@
             ]
         },
         {
-            "id": "[88:7]",
+            "verse-id": "[88:7]",
             "verse": "Which neither nourishes nor avails against hunger.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[88:8]",
+            "verse-id": "[88:8]",
             "verse": "[Other] faces, that Day, will show pleasure.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[88:9]",
+            "verse-id": "[88:9]",
             "verse": "With their effort [they are] satisfied",
             "description": [
                 "That is. they will be overjoyed to",
@@ -108,14 +109,14 @@
             ]
         },
         {
-            "id": "[88:10]",
+            "verse-id": "[88:10]",
             "verse": "In an elevated garden,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[88:11]",
+            "verse-id": "[88:11]",
             "verse": "Wherein they will hear no unsuitable speech.",
             "description": [
                 "This thing has been mentioned at several",
@@ -127,21 +128,21 @@
             ]
         },
         {
-            "id": "[88:12]",
+            "verse-id": "[88:12]",
             "verse": "Within it is a flowing spring.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[88:13]",
+            "verse-id": "[88:13]",
             "verse": "Within it are couches raised high",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[88:14]",
+            "verse-id": "[88:14]",
             "verse": "And cups put in place",
             "description": [
                 "That is, filled goblets already supplied so",
@@ -150,42 +151,42 @@
             ]
         },
         {
-            "id": "[88:15]",
+            "verse-id": "[88:15]",
             "verse": "And cushions lined up",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[88:16]",
+            "verse-id": "[88:16]",
             "verse": "And carpets spread around.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[88:17]",
+            "verse-id": "[88:17]",
             "verse": "Then do they not look at the camels - how they are created?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[88:18]",
+            "verse-id": "[88:18]",
             "verse": "And at the sky - how it is raised?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[88:19]",
+            "verse-id": "[88:19]",
             "verse": "And at the mountains - how they are erected?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[88:20]",
+            "verse-id": "[88:20]",
             "verse": "And at the earth - how it is spread out?",
             "description": [
                 "That is, \"If they deny the possibility",
@@ -243,14 +244,14 @@
             ]
         },
         {
-            "id": "[88:21]",
+            "verse-id": "[88:21]",
             "verse": "So remind, [O Muhammad]; you are only a reminder.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[88:22]",
+            "verse-id": "[88:22]",
             "verse": "You are not over them a controller.",
             "description": [
                 "That is, \"If a person does not",
@@ -265,28 +266,28 @@
             ]
         },
         {
-            "id": "[88:23]",
+            "verse-id": "[88:23]",
             "verse": "However, he who turns away and disbelieves -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[88:24]",
+            "verse-id": "[88:24]",
             "verse": "Then Allah will punish him with the greatest punishment.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[88:25]",
+            "verse-id": "[88:25]",
             "verse": "Indeed, to Us is their return.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[88:26]",
+            "verse-id": "[88:26]",
             "verse": "Then indeed, upon Us is their account.",
             "description": [
                 ""

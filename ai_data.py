@@ -401,7 +401,7 @@ class QuranAPI(BaseAPI):
         all_surah_contents = await _extract_all()
         return all_surah_contents
 
-    async def _merge_all(self, file_name, folder_name='json/quran'):
+    async def _merge_all(self, file_name, folder_name=''):
         all_surah_files = DataLoader(folder_path=f'jsons/quran/{folder_name}')()
         all_surahs = OrderedDict(sorted({surah_name: surah_contents for surah_name, surah_contents in all_surah_files.items()}.items(),key=lambda item: int(item[0].split('-')[0])))
         self._exporter(all_surahs, file_name)
@@ -576,13 +576,6 @@ class QuranAPI(BaseAPI):
                     fixed[idx] = {}
                 fixed[idx] = surah_lst
             return fixed.get(surahID)
-
-        async def _get_verseID(*args):
-            endpoint = main_endpoint.format(*args)
-            verse = await self._extract_contents(url=url, endpoint=endpoint, slash=True, style='font-size: 13pt;color:green')
-            verse_contents = re.split(r'^(\(\d{1,3}\:\d{1,3}\))',re.sub(r'(\xa0\*\d{1,3})$', '', verse[0].text))[1:]
-            verseID = re.sub(r'[()]','',verse_contents[0]).strip()
-            return verseID
         
         @lru_cache(maxsize=1)
         async def _get_verse_count(surahID):
@@ -605,16 +598,17 @@ class QuranAPI(BaseAPI):
                 all_verse_info = []
 
                 for ayaID, verse in enumerate(surah_verses, start=1):
-                    verse_info = OrderedDict({'id': '', 'verse': '', 'description': ''})
+                    verse_info = OrderedDict({'verse-id': '', 'verse': '', 'description': ''})
                     verse_descr = await _get_descr(ayaID, surahID)
                     id_ = f'[{surahID}:{ayaID}]'
-                    verse_info['id'] = id_
+                    verse_info['verse-id'] = id_
                     verse_info['verse'] = verse
                     verse_info['description'] = verse_descr
                     all_verse_info.append(verse_info.copy())
 
                 all_surah_contents[surahID] = {
                     'name': surah_name,
+                    'id': surahID,
                     'verse-count': verse_count,
                     'verse-info': all_verse_info
                 }
@@ -622,9 +616,9 @@ class QuranAPI(BaseAPI):
                     surah = all_surah_contents[surahID]
                     json.dump(surah, file, indent=4)
             return all_surah_contents
-        all_surah_meanings = await _parse_all()
         if export:
-            return self._exporter(all_surah_meanings, 'all-surah-meanings')
+            return await self._merge_all('all-surah-meanings', 'verse-meanings')
+        all_surah_meanings = await _parse_all()
         return all_surah_meanings
 
 

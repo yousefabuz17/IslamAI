@@ -1,30 +1,31 @@
 {
     "name": "Al-Layl",
+    "id": 92,
     "verse-count": 21,
     "verse-info": [
         {
-            "id": "[92:1]",
+            "verse-id": "[92:1]",
             "verse": "By the night when it covers",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[92:2]",
+            "verse-id": "[92:2]",
             "verse": "And [by] the day when it appears",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[92:3]",
+            "verse-id": "[92:3]",
             "verse": "And [by] He who created the male and female,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[92:4]",
+            "verse-id": "[92:4]",
             "verse": "Indeed, your efforts are diverse.",
             "description": [
                 "This is that for which an oath",
@@ -45,14 +46,14 @@
             ]
         },
         {
-            "id": "[92:5]",
+            "verse-id": "[92:5]",
             "verse": "As for he who gives and fears Allah",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[92:6]",
+            "verse-id": "[92:6]",
             "verse": "And believes in the best [reward],",
             "description": [
                 "This is the first kind of endeavours,",
@@ -87,7 +88,7 @@
             ]
         },
         {
-            "id": "[92:7]",
+            "verse-id": "[92:7]",
             "verse": "We will ease him toward ease.",
             "description": [
                 "This is the result of the first",
@@ -198,14 +199,14 @@
             ]
         },
         {
-            "id": "[92:8]",
+            "verse-id": "[92:8]",
             "verse": "But as for he who withholds and considers himself free of need",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[92:9]",
+            "verse-id": "[92:9]",
             "verse": "And denies the best [reward],",
             "description": [
                 "This is the second kind of human",
@@ -240,7 +241,7 @@
             ]
         },
         {
-            "id": "[92:10]",
+            "verse-id": "[92:10]",
             "verse": "We will ease him toward difficulty.",
             "description": [
                 "This way has been called the hard",
@@ -320,7 +321,7 @@
             ]
         },
         {
-            "id": "[92:11]",
+            "verse-id": "[92:11]",
             "verse": "And what will his wealth avail him when he falls?",
             "description": [
                 "In other words it means that he",
@@ -335,7 +336,7 @@
             ]
         },
         {
-            "id": "[92:12]",
+            "verse-id": "[92:12]",
             "verse": "Indeed, [incumbent] upon Us is guidance.",
             "description": [
                 "That is, Allah as the Creator of",
@@ -358,7 +359,7 @@
             ]
         },
         {
-            "id": "[92:13]",
+            "verse-id": "[92:13]",
             "verse": "And indeed, to Us belongs the Hereafter and the first [life].",
             "description": [
                 "This statement has several meanings and all",
@@ -401,35 +402,35 @@
             ]
         },
         {
-            "id": "[92:14]",
+            "verse-id": "[92:14]",
             "verse": "So I have warned you of a Fire which is blazing.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[92:15]",
+            "verse-id": "[92:15]",
             "verse": "None will [enter to] burn therein except the most wretched one.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[92:16]",
+            "verse-id": "[92:16]",
             "verse": "Who had denied and turned away.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[92:17]",
+            "verse-id": "[92:17]",
             "verse": "But the righteous one will avoid it -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[92:18]",
+            "verse-id": "[92:18]",
             "verse": "[He] who gives [from] his wealth to purify himself",
             "description": [
                 "This dces not mean that no one",
@@ -462,14 +463,14 @@
             ]
         },
         {
-            "id": "[92:19]",
+            "verse-id": "[92:19]",
             "verse": "And not [giving] for anyone who has [done him] a favor to be rewarded",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[92:20]",
+            "verse-id": "[92:20]",
             "verse": "But only seeking the countenance of his Lord, Most High.",
             "description": [
                 "This is further explanation of the sincerity",
@@ -507,7 +508,7 @@
             ]
         },
         {
-            "id": "[92:21]",
+            "verse-id": "[92:21]",
             "verse": "And he is going to be satisfied.",
             "description": [
                 "This verse can have two meanings and",

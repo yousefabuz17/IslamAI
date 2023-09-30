@@ -1,16 +1,17 @@
 {
     "name": "Al-Araf",
+    "id": 7,
     "verse-count": 206,
     "verse-info": [
         {
-            "id": "[7:1]",
+            "verse-id": "[7:1]",
             "verse": "Alif, Lam, Meem, Sad.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:2]",
+            "verse-id": "[7:2]",
             "verse": "[This is] a Book revealed to you, [O Muhammad] - so let there not be in your breast distress therefrom - that you may warn thereby and as a reminder to the believers.",
             "description": [
                 "The word 'Book', in this context, signifies",
@@ -64,7 +65,7 @@
             ]
         },
         {
-            "id": "[7:3]",
+            "verse-id": "[7:3]",
             "verse": "Follow, [O mankind], what has been revealed to you from your Lord and do not follow other than Him any allies. Little do you remember.",
             "description": [
                 "The central theme of the whole surah,",
@@ -93,14 +94,14 @@
             ]
         },
         {
-            "id": "[7:4]",
+            "verse-id": "[7:4]",
             "verse": "And how many cities have We destroyed, and Our punishment came to them at night or while they were sleeping at noon.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:5]",
+            "verse-id": "[7:5]",
             "verse": "And their declaration when Our punishment came to them was only that they said, \"Indeed, we were wrongdoers!\"",
             "description": [
                 "People can learn a lesson from the",
@@ -138,7 +139,7 @@
             ]
         },
         {
-            "id": "[7:6]",
+            "verse-id": "[7:6]",
             "verse": "Then We will surely question those to whom [a message] was sent, and We will surely question the messengers.",
             "description": [
                 "The words 'call to account' refers to",
@@ -205,14 +206,14 @@
             ]
         },
         {
-            "id": "[7:7]",
+            "verse-id": "[7:7]",
             "verse": "Then We will surely relate [their deeds] to them with knowledge, and We were not [at all] absent.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:8]",
+            "verse-id": "[7:8]",
             "verse": "And the weighing [of deeds] that Day will be the truth. So those whose scales are heavy - it is they who will be the successful.",
             "description": [
                 "This means that when the Balance is",
@@ -248,7 +249,7 @@
             ]
         },
         {
-            "id": "[7:9]",
+            "verse-id": "[7:9]",
             "verse": "And those whose scales are light - they are the ones who will lose themselves for what injustice they were doing toward Our verses.",
             "description": [
                 "For a full appreciation of this point",
@@ -282,14 +283,14 @@
             ]
         },
         {
-            "id": "[7:10]",
+            "verse-id": "[7:10]",
             "verse": "And We have certainly established you upon the earth and made for you therein ways of livelihood. Little are you grateful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:11]",
+            "verse-id": "[7:11]",
             "verse": "And We have certainly created you, [O Mankind], and given you [human] form. Then We said to the angels, \"Prostrate to Adam\"; so they prostrated, except for Iblees. He was not of those who prostrated.",
             "description": [
                 "These verses should he read in conjunction",
@@ -420,14 +421,14 @@
             ]
         },
         {
-            "id": "[7:12]",
+            "verse-id": "[7:12]",
             "verse": "[Allah] said, \"What prevented you from prostrating when I commanded you?\" [Satan] said, \"I am better than him. You created me from fire and created him from clay.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:13]",
+            "verse-id": "[7:13]",
             "verse": "[Allah] said, \"Descend from Paradise, for it is not for you to be arrogant therein. So get out; indeed, you are of the debased.",
             "description": [
                 "Implicit in the Qur'anic expression (sagharin) is",
@@ -447,28 +448,28 @@
             ]
         },
         {
-            "id": "[7:14]",
+            "verse-id": "[7:14]",
             "verse": "[Satan] said, \"Reprieve me until the Day they are resurrected.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:15]",
+            "verse-id": "[7:15]",
             "verse": "[Allah] said, \"Indeed, you are of those reprieved.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:16]",
+            "verse-id": "[7:16]",
             "verse": "[Satan] said, \"Because You have put me in error, I will surely sit in wait for them on Your straight path.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:17]",
+            "verse-id": "[7:17]",
             "verse": "Then I will come to them from before them and from behind them and on their right and on their left, and You will not find most of them grateful [to You].\"",
             "description": [
                 "This was the challenge thrown down by",
@@ -538,42 +539,42 @@
             ]
         },
         {
-            "id": "[7:18]",
+            "verse-id": "[7:18]",
             "verse": "[Allah] said, \"Get out of Paradise, reproached and expelled. Whoever follows you among them - I will surely fill Hell with you, all together.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:19]",
+            "verse-id": "[7:19]",
             "verse": "And \"O Adam, dwell, you and your wife, in Paradise and eat from wherever you will but do not approach this tree, lest you be among the wrongdoers.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:20]",
+            "verse-id": "[7:20]",
             "verse": "But Satan whispered to them to make apparent to them that which was concealed from them of their private parts. He said, \"Your Lord did not forbid you this tree except that you become angels or become of the immortal.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:21]",
+            "verse-id": "[7:21]",
             "verse": "And he swore [by Allah] to them, \"Indeed, I am to you from among the sincere advisors.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:22]",
+            "verse-id": "[7:22]",
             "verse": "So he made them fall, through deception. And when they tasted of the tree, their private parts became apparent to them, and they began to fasten together over themselves from the leaves of Paradise. And their Lord called to them, \"Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:23]",
+            "verse-id": "[7:23]",
             "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\"",
             "description": [
                 "The narrative sheds light on the following",
@@ -754,7 +755,7 @@
             ]
         },
         {
-            "id": "[7:24]",
+            "verse-id": "[7:24]",
             "verse": "[Allah] said, \"Descend, being to one another enemies. And for you on the earth is a place of settlement and enjoyment for a time.\"",
             "description": [
                 "God's command that Adam and Eve 'go",
@@ -773,14 +774,14 @@
             ]
         },
         {
-            "id": "[7:25]",
+            "verse-id": "[7:25]",
             "verse": "He said, \"Therein you will live, and therein you will die, and from it you will be brought forth.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:26]",
+            "verse-id": "[7:26]",
             "verse": "O children of Adam, We have bestowed upon you clothing to conceal your private parts and as adornment. But the clothing of righteousness - that is best. That is from the signs of Allah that perhaps they will remember.",
             "description": [
                 "By referring to an important aspect of",
@@ -834,7 +835,7 @@
             ]
         },
         {
-            "id": "[7:27]",
+            "verse-id": "[7:27]",
             "verse": "O children of Adam, let not Satan tempt you as he removed your parents from Paradise, stripping them of their clothing to show them their private parts. Indeed, he sees you, he and his tribe, from where you do not see them. Indeed, We have made the devils allies to those who do not believe.",
             "description": [
                 "These verses bring into focus several important",
@@ -931,7 +932,7 @@
             ]
         },
         {
-            "id": "[7:28]",
+            "verse-id": "[7:28]",
             "verse": "And when they commit an immorality, they say, \"We found our fathers doing it, and Allah has ordered us to do it.\" Say, \"Indeed, Allah does not order immorality. Do you say about Allah that which you do not know?\"",
             "description": [
                 "This refers to the pre-islamic Arabian practice",
@@ -976,7 +977,7 @@
             ]
         },
         {
-            "id": "[7:29]",
+            "verse-id": "[7:29]",
             "verse": "Say, [O Muhammad], \"My Lord has ordered justice and that you maintain yourselves [in worship of Him] at every place [or time] of prostration, and invoke Him, sincere to Him in religion.\" Just as He originated you, you will return [to life] -",
             "description": [
                 "The verse seeks to suggest that God",
@@ -1020,14 +1021,14 @@
             ]
         },
         {
-            "id": "[7:30]",
+            "verse-id": "[7:30]",
             "verse": "A group [of you] He guided, and a group deserved [to be in] error. Indeed, they had taken the devils as allies instead of Allah while they thought that they were guided.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:31]",
+            "verse-id": "[7:31]",
             "verse": "O children of Adam, take your adornment at every masjid, and eat and drink, but be not excessive. Indeed, He likes not those who commit excess.",
             "description": [
                 "The word zina which occurs in this",
@@ -1067,7 +1068,7 @@
             ]
         },
         {
-            "id": "[7:32]",
+            "verse-id": "[7:32]",
             "verse": "Say, \"Who has forbidden the adornment of Allah which He has produced for His servants and the good [lawful] things of provision?\" Say, \"They are for those who believe during the worldly life [but] exclusively for them on the Day of Resurrection.\" Thus do We detail the verses for a people who know.",
             "description": [
                 "Since it is God Himself Who has",
@@ -1116,7 +1117,7 @@
             ]
         },
         {
-            "id": "[7:33]",
+            "verse-id": "[7:33]",
             "verse": "Say, \"My Lord has only forbidden immoralities - what is apparent of them and what is concealed - and sin, and oppression without right, and that you associate with Allah that for which He has not sent down authority, and that you say about Allah that which you do not know.\"",
             "description": [
                 "For an elaboration of hidden and overt",
@@ -1151,7 +1152,7 @@
             ]
         },
         {
-            "id": "[7:34]",
+            "verse-id": "[7:34]",
             "verse": "And for every nation is a [specified] term. So when their time has come, they will not remain behind an hour, nor will they precede [it].",
             "description": [
                 "The expression 'fixed term' used in the",
@@ -1172,14 +1173,14 @@
             ]
         },
         {
-            "id": "[7:35]",
+            "verse-id": "[7:35]",
             "verse": "O children of Adam, if there come to you messengers from among you relating to you My verses, then whoever fears Allah and reforms - there will be no fear concerning them, nor will they grieve.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:36]",
+            "verse-id": "[7:36]",
             "verse": "But the ones who deny Our verses and are arrogant toward them - those are the companions of the Fire; they will abide therein eternally.",
             "description": [
                 "Reference to the continuous unremitting punishment of",
@@ -1197,7 +1198,7 @@
             ]
         },
         {
-            "id": "[7:37]",
+            "verse-id": "[7:37]",
             "verse": "And who is more unjust than one who invents about Allah a lie or denies His verses? Those will attain their portion of the decree until when Our messengers come to them to take them in death, they will say, \"Where are those you used to invoke besides Allah?\" They will say, \"They have departed from us,\" and will bear witness against themselves that they were disbelievers.",
             "description": [
                 ", All men, whether good or bad,",
@@ -1208,7 +1209,7 @@
             ]
         },
         {
-            "id": "[7:38]",
+            "verse-id": "[7:38]",
             "verse": "[Allah] will say, \"Enter among nations which had passed on before you of jinn and mankind into the Fire.\" Every time a nation enters, it will curse its sister until, when they have all overtaken one another therein, the last of them will say about the first of them \"Our Lord, these had misled us, so give them a double punishment of the Fire. He will say, \"For each is double, but you do not know.\"",
             "description": [
                 "As it is, each group of people",
@@ -1416,7 +1417,7 @@
             ]
         },
         {
-            "id": "[7:39]",
+            "verse-id": "[7:39]",
             "verse": "And the first of them will say to the last of them, \"Then you had not any favor over us, so taste the punishment for what you used to earn.\"",
             "description": [
                 "In addition to the above verse, the",
@@ -1476,28 +1477,28 @@
             ]
         },
         {
-            "id": "[7:40]",
+            "verse-id": "[7:40]",
             "verse": "Indeed, those who deny Our verses and are arrogant toward them - the gates of Heaven will not be opened for them, nor will they enter Paradise until a camel enters into the eye of a needle. And thus do We recompense the criminals.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:41]",
+            "verse-id": "[7:41]",
             "verse": "They will have from Hell a bed and over them coverings [of fire]. And thus do We recompense the wrongdoers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:42]",
+            "verse-id": "[7:42]",
             "verse": "But those who believed and did righteous deeds - We charge no soul except [within] its capacity. Those are the companions of Paradise; they will abide therein eternally.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:43]",
+            "verse-id": "[7:43]",
             "verse": "And We will have removed whatever is within their breasts of resentment, [while] flowing beneath them are rivers. And they will say, \"Praise to Allah, who has guided us to this; and we would never have been guided if Allah had not guided us. Certainly the messengers of our Lord had come with the truth.\" And they will be called, \"This is Paradise, which you have been made to inherit for what you used to do.\"",
             "description": [
                 "If there develops any rancour or ill-will",
@@ -1583,21 +1584,21 @@
             ]
         },
         {
-            "id": "[7:44]",
+            "verse-id": "[7:44]",
             "verse": "And the companions of Paradise will call out to the companions of the Fire, \"We have already found what our Lord promised us to be true. Have you found what your Lord promised to be true?\" They will say, \"Yes.\" Then an announcer will announce among them, \"The curse of Allah shall be upon the wrongdoers.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:45]",
+            "verse-id": "[7:45]",
             "verse": "Who averted [people] from the way of Allah and sought to make it [seem] deviant while they were, concerning the Hereafter, disbelievers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:46]",
+            "verse-id": "[7:46]",
             "verse": "And between them will be a partition, and on [its] elevations are men who recognize all by their mark. And they call out to the companions of Paradise, \"Peace be upon you.\" They have not [yet] entered it, but they long intensely.",
             "description": [
                 "The people of A'raf (Heights) will be",
@@ -1609,35 +1610,35 @@
             ]
         },
         {
-            "id": "[7:47]",
+            "verse-id": "[7:47]",
             "verse": "And when their eyes are turned toward the companions of the Fire, they say, \"Our Lord, do not place us with the wrongdoing people.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:48]",
+            "verse-id": "[7:48]",
             "verse": "And the companions of the Elevations will call to men [within Hell] whom they recognize by their mark, saying, \"Of no avail to you was your gathering and [the fact] that you were arrogant.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:49]",
+            "verse-id": "[7:49]",
             "verse": "[Allah will say], \"Are these the ones whom you [inhabitants of Hell] swore that Allah would never offer them mercy? Enter Paradise, [O People of the Elevations]. No fear will there be concerning you, nor will you grieve.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:50]",
+            "verse-id": "[7:50]",
             "verse": "And the companions of the Fire will call to the companions of Paradise, \"Pour upon us some water or from whatever Allah has provided you.\" They will say, \"Indeed, Allah has forbidden them both to the disbelievers.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:51]",
+            "verse-id": "[7:51]",
             "verse": "Who took their religion as distraction and amusement and whom the worldly life deluded.\" So today We will forget them just as they forgot the meeting of this Day of theirs and for having rejected Our verses.",
             "description": [
                 "The trialogue between the People of Paradise,",
@@ -1669,7 +1670,7 @@
             ]
         },
         {
-            "id": "[7:52]",
+            "verse-id": "[7:52]",
             "verse": "And We had certainly brought them a Book which We detailed by knowledge - as guidance and mercy to a people who believe.",
             "description": [
                 "The Qur'an has spelled out in some",
@@ -1699,7 +1700,7 @@
             ]
         },
         {
-            "id": "[7:53]",
+            "verse-id": "[7:53]",
             "verse": "Do they await except its result? The Day its result comes those who had ignored it before will say, \"The messengers of our Lord had come with the truth, so are there [now] any intercessors to intercede for us or could we be sent back to do other than we used to do?\" They will have lost themselves, and lost from them is what they used to invent.",
             "description": [
                 "The position of the people in question",
@@ -1740,7 +1741,7 @@
             ]
         },
         {
-            "id": "[7:54]",
+            "verse-id": "[7:54]",
             "verse": "Indeed, your Lord is Allah, who created the heavens and earth in six days and then established Himself above the Throne. He covers the night with the day, [another night] chasing it rapidly; and [He created] the sun, the moon, and the stars, subjected by His command. Unquestionably, His is the creation and the command; blessed is Allah, Lord of the worlds.",
             "description": [
                 "The word 'day' in the above verse",
@@ -1895,14 +1896,14 @@
             ]
         },
         {
-            "id": "[7:55]",
+            "verse-id": "[7:55]",
             "verse": "Call upon your Lord in humility and privately; indeed, He does not like transgressors.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:56]",
+            "verse-id": "[7:56]",
             "verse": "And cause not corruption upon the earth after its reformation. And invoke Him in fear and aspiration. Indeed, the mercy of Allah is near to the doers of good.",
             "description": [
                 "The command not to make mischief in",
@@ -1977,14 +1978,14 @@
             ]
         },
         {
-            "id": "[7:57]",
+            "verse-id": "[7:57]",
             "verse": "And it is He who sends the winds as good tidings before His mercy until, when they have carried heavy rainclouds, We drive them to a dead land and We send down rain therein and bring forth thereby [some] of all the fruits. Thus will We bring forth the dead; perhaps you may be reminded.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:58]",
+            "verse-id": "[7:58]",
             "verse": "And the good land - its vegetation emerges by permission of its Lord; but that which is bad - nothing emerges except sparsely, with difficulty. Thus do We diversify the signs for a people who are grateful.",
             "description": [
                 "It is necessary to grasp the subtle",
@@ -2037,7 +2038,7 @@
             ]
         },
         {
-            "id": "[7:59]",
+            "verse-id": "[7:59]",
             "verse": "We had certainly sent Noah to his people, and he said, \"O my people, worship Allah; you have no deity other than Him. Indeed, I fear for you the punishment of a tremendous Day.",
             "description": [
                 "This historical narrative opens with an account",
@@ -2125,28 +2126,28 @@
             ]
         },
         {
-            "id": "[7:60]",
+            "verse-id": "[7:60]",
             "verse": "Said the eminent among his people, \"Indeed, we see you in clear error.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:61]",
+            "verse-id": "[7:61]",
             "verse": "[Noah] said, \"O my people, there is not error in me, but I am a messenger from the Lord of the worlds.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:62]",
+            "verse-id": "[7:62]",
             "verse": "I convey to you the messages of my Lord and advise you; and I know from Allah what you do not know.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:63]",
+            "verse-id": "[7:63]",
             "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you and that you may fear Allah so you might receive mercy.\"",
             "description": [
                 "There were striking similarities between Muhammad and",
@@ -2194,7 +2195,7 @@
             ]
         },
         {
-            "id": "[7:64]",
+            "verse-id": "[7:64]",
             "verse": "But they denied him, so We saved him and those who were with him in the ship. And We drowned those who denied Our signs. Indeed, they were a blind people.",
             "description": [
                 "An uninitiated reader of the Qur'an may,",
@@ -2336,7 +2337,7 @@
             ]
         },
         {
-            "id": "[7:65]",
+            "verse-id": "[7:65]",
             "verse": "And to the 'Aad [We sent] their brother Hud. He said, \"O my people, worship Allah; you have no deity other than Him. Then will you not fear Him?\"",
             "description": [
                 "'Ad, an ancient Arab people, were well-known",
@@ -2388,28 +2389,28 @@
             ]
         },
         {
-            "id": "[7:66]",
+            "verse-id": "[7:66]",
             "verse": "Said the eminent ones who disbelieved among his people, \"Indeed, we see you in foolishness, and indeed, we think you are of the liars.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:67]",
+            "verse-id": "[7:67]",
             "verse": "[Hud] said, \"O my people, there is not foolishness in me, but I am a messenger from the Lord of the worlds.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:68]",
+            "verse-id": "[7:68]",
             "verse": "I convey to you the messages of my Lord, and I am to you a trustworthy adviser.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:69]",
+            "verse-id": "[7:69]",
             "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allah that you might succeed.",
             "description": [
                 "The word ala' used in the above",
@@ -2423,7 +2424,7 @@
             ]
         },
         {
-            "id": "[7:70]",
+            "verse-id": "[7:70]",
             "verse": "They said, \"Have you come to us that we should worship Allah alone and leave what our fathers have worshipped? Then bring us what you promise us, if you should be of the truthful.\"",
             "description": [
                 "It is worth noting that the people",
@@ -2436,7 +2437,7 @@
             ]
         },
         {
-            "id": "[7:71]",
+            "verse-id": "[7:71]",
             "verse": "[Hud] said, \"Already have defilement and anger fallen upon you from your Lord. Do you dispute with me concerning [mere] names you have named them, you and your fathers, for which Allah has not sent down any authority? Then wait; indeed, I am with you among those who wait.\"",
             "description": [
                 "They looked to gods of rain and",
@@ -2470,7 +2471,7 @@
             ]
         },
         {
-            "id": "[7:72]",
+            "verse-id": "[7:72]",
             "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers.",
             "description": [
                 "The Qur'an informs us that God brought",
@@ -2510,7 +2511,7 @@
             ]
         },
         {
-            "id": "[7:73]",
+            "verse-id": "[7:73]",
             "verse": "And to the Thamud [We sent] their brother Salih. He said, \"O my people, worship Allah; you have no deity other than Him. There has come to you clear evidence from your Lord. This is the she-camel of Allah [sent] to you as a sign. So leave her to eat within Allah 's land and do not touch her with harm, lest there seize you a painful punishment.",
             "description": [
                 "The Thamud are another ancient Arab people,",
@@ -2633,7 +2634,7 @@
             ]
         },
         {
-            "id": "[7:74]",
+            "verse-id": "[7:74]",
             "verse": "And remember when He made you successors after the 'Aad and settled you in the land, [and] you take for yourselves palaces from its plains and carve from the mountains, homes. Then remember the favors of Allah and do not commit abuse on the earth, spreading corruption.\"",
             "description": [
                 "The Thamud were highly skilful in rock-carving,",
@@ -2660,21 +2661,21 @@
             ]
         },
         {
-            "id": "[7:75]",
+            "verse-id": "[7:75]",
             "verse": "Said the eminent ones who were arrogant among his people to those who were oppressed - to those who believed among them, \"Do you [actually] know that Salih is sent from his Lord?\" They said, \"Indeed we, in that with which he was sent, are believers.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:76]",
+            "verse-id": "[7:76]",
             "verse": "Said those who were arrogant, \"Indeed we, in that which you have believed, are disbelievers.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:77]",
+            "verse-id": "[7:77]",
             "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Salih, bring us what you promise us, if you should be of the messengers.\"",
             "description": [
                 "Although the she-camel was killed by an",
@@ -2694,7 +2695,7 @@
             ]
         },
         {
-            "id": "[7:78]",
+            "verse-id": "[7:78]",
             "verse": "So the earthquake seized them, and they became within their home [corpses] fallen prone.",
             "description": [
                 "Other Qur'anic expressions used for the calamity",
@@ -2705,14 +2706,14 @@
             ]
         },
         {
-            "id": "[7:79]",
+            "verse-id": "[7:79]",
             "verse": "And he turned away from them and said, \"O my people, I had certainly conveyed to you the message of my Lord and advised you, but you do not like advisors.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:80]",
+            "verse-id": "[7:80]",
             "verse": "And [We had sent] Lot when he said to his people, \"Do you commit such immorality as no one has preceded you with from among the worlds?",
             "description": [
                 "The land inhabited by the people of",
@@ -2782,7 +2783,7 @@
             ]
         },
         {
-            "id": "[7:81]",
+            "verse-id": "[7:81]",
             "verse": "Indeed, you approach men with desire, instead of women. Rather, you are a transgressing people.\"",
             "description": [
                 "The Qur'an refers elsewhere to the many",
@@ -2857,7 +2858,7 @@
             ]
         },
         {
-            "id": "[7:82]",
+            "verse-id": "[7:82]",
             "verse": "But the answer of his people was only that they said, \"Evict them from your city! Indeed, they are men who keep themselves pure.\"",
             "description": [
                 "It is evident from the present verse",
@@ -2889,7 +2890,7 @@
             ]
         },
         {
-            "id": "[7:83]",
+            "verse-id": "[7:83]",
             "verse": "So We saved him and his family, except for his wife; she was of those who remained [with the evildoers].",
             "description": [
                 "As the Qur'an mentions elsewhere, Lot's wife",
@@ -2904,7 +2905,7 @@
             ]
         },
         {
-            "id": "[7:84]",
+            "verse-id": "[7:84]",
             "verse": "And We rained upon them a rain [of stones]. Then see how was the end of the criminals.",
             "description": [
                 "The 'rainfall' in the verse does not",
@@ -3009,7 +3010,7 @@
             ]
         },
         {
-            "id": "[7:85]",
+            "verse-id": "[7:85]",
             "verse": "And to [the people of] Madyan [We sent] their brother Shu'ayb. He said, \"O my people, worship Allah; you have no deity other than Him. There has come to you clear evidence from your Lord. So fulfill the measure and weight and do not deprive people of their due and cause not corruption upon the earth after its reformation. That is better for you, if you should be believers.",
             "description": [
                 "The territory of Madyan (Midian) lay to",
@@ -3102,28 +3103,28 @@
             ]
         },
         {
-            "id": "[7:86]",
+            "verse-id": "[7:86]",
             "verse": "And do not sit on every path, threatening and averting from the way of Allah those who believe in Him, seeking to make it [seem] deviant. And remember when you were few and He increased you. And see how was the end of the corrupters.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:87]",
+            "verse-id": "[7:87]",
             "verse": "And if there should be a group among you who has believed in that with which I have been sent and a group that has not believed, then be patient until Allah judges between us. And He is the best of judges.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:88]",
+            "verse-id": "[7:88]",
             "verse": "Said the eminent ones who were arrogant among his people, \"We will surely evict you, O Shu'ayb, and those who have believed with you from our city, or you must return to our religion.\" He said, \"Even if we were unwilling?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:89]",
+            "verse-id": "[7:89]",
             "verse": "We would have invented against Allah a lie if we returned to your religion after Allah had saved us from it. And it is not for us to return to it except that Allah, our Lord, should will. Our Lord has encompassed all things in knowledge. Upon Allah we have relied. Our Lord, decide between us and our people in truth, and You are the best of those who give decision.\"",
             "description": [
                 "This phrase signifies substantively what is meant",
@@ -3146,7 +3147,7 @@
             ]
         },
         {
-            "id": "[7:90]",
+            "verse-id": "[7:90]",
             "verse": "Said the eminent ones who disbelieved among his people, \"If you should follow Shu'ayb, indeed, you would then be losers.\"",
             "description": [
                 "One should not pass cursorily over this",
@@ -3186,14 +3187,14 @@
             ]
         },
         {
-            "id": "[7:91]",
+            "verse-id": "[7:91]",
             "verse": "So the earthquake seized them, and they became within their home [corpses] fallen prone.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:92]",
+            "verse-id": "[7:92]",
             "verse": "Those who denied Shu'ayb - it was as though they had never resided there. Those who denied Shu'ayb - it was they who were the losers.",
             "description": [
                 "The destruction of the people of Midian",
@@ -3240,7 +3241,7 @@
             ]
         },
         {
-            "id": "[7:93]",
+            "verse-id": "[7:93]",
             "verse": "And he turned away from them and said, \"O my people, I had certainly conveyed to you the messages of my Lord and advised you, so how could I grieve for a disbelieving people?\"",
             "description": [
                 "The stories narrated here have a definite",
@@ -3273,14 +3274,14 @@
             ]
         },
         {
-            "id": "[7:94]",
+            "verse-id": "[7:94]",
             "verse": "And We sent to no city a prophet [who was denied] except that We seized its people with poverty and hardship that they might humble themselves [to Allah].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:95]",
+            "verse-id": "[7:95]",
             "verse": "Then We exchanged in place of the bad [condition], good, until they increased [and prospered] and said, \"Our fathers [also] were touched with hardship and ease.\" So We seized them suddenly while they did not perceive.",
             "description": [
                 "After narrating individually the stories of how",
@@ -3389,28 +3390,28 @@
             ]
         },
         {
-            "id": "[7:96]",
+            "verse-id": "[7:96]",
             "verse": "And if only the people of the cities had believed and feared Allah, We would have opened upon them blessings from the heaven and the earth; but they denied [the messengers], so We seized them for what they were earning.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:97]",
+            "verse-id": "[7:97]",
             "verse": "Then, did the people of the cities feel secure from Our punishment coming to them at night while they were asleep?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:98]",
+            "verse-id": "[7:98]",
             "verse": "Or did the people of the cities feel secure from Our punishment coming to them in the morning while they were at play?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:99]",
+            "verse-id": "[7:99]",
             "verse": "Then did they feel secure from the plan of Allah? But no one feels secure from the plan of Allah except the losing people.",
             "description": [
                 "The expression makr signifies a secret strategy",
@@ -3421,7 +3422,7 @@
             ]
         },
         {
-            "id": "[7:100]",
+            "verse-id": "[7:100]",
             "verse": "Has it not become clear to those who inherited the earth after its [previous] people that if We willed, We could afflict them for their sins? But We seal over their hearts so they do not hear.",
             "description": [
                 "Every nation which rises in place of",
@@ -3460,7 +3461,7 @@
             ]
         },
         {
-            "id": "[7:101]",
+            "verse-id": "[7:101]",
             "verse": "Those cities - We relate to you, [O Muhammad], some of their news. And certainly did their messengers come to them with clear proofs, but they were not to believe in that which they had denied before. Thus does Allah seal over the hearts of the disbelievers.",
             "description": [
                 "The purpose behind the 'sealing of hearts'",
@@ -3483,7 +3484,7 @@
             ]
         },
         {
-            "id": "[7:102]",
+            "verse-id": "[7:102]",
             "verse": "And We did not find for most of them any covenant; but indeed, We found most of them defiantly disobedient.",
             "description": [
                 "The statement that 'We did not find",
@@ -3506,7 +3507,7 @@
             ]
         },
         {
-            "id": "[7:103]",
+            "verse-id": "[7:103]",
             "verse": "Then We sent after them Moses with Our signs to Pharaoh and his establishment, but they were unjust toward them. So see how was the end of the corrupters.",
             "description": [
                 "The stories narrated in the Qur'an bring",
@@ -3582,7 +3583,7 @@
             ]
         },
         {
-            "id": "[7:104]",
+            "verse-id": "[7:104]",
             "verse": "And Moses said, \"O Pharaoh, I am a messenger from the Lord of the worlds",
             "description": [
                 "'Pharaoh' literally means 'the offspring of the",
@@ -3625,7 +3626,7 @@
             ]
         },
         {
-            "id": "[7:105]",
+            "verse-id": "[7:105]",
             "verse": "[Who is] obligated not to say about Allah except the truth. I have come to you with clear evidence from your Lord, so send with me the Children of Israel.\"",
             "description": [
                 "Moses was sent to Pharaoh to invite",
@@ -3639,21 +3640,21 @@
             ]
         },
         {
-            "id": "[7:106]",
+            "verse-id": "[7:106]",
             "verse": "[Pharaoh] said, \"If you have come with a sign, then bring it forth, if you should be of the truthful.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:107]",
+            "verse-id": "[7:107]",
             "verse": "So Moses threw his staff, and suddenly it was a serpent, manifest.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:108]",
+            "verse-id": "[7:108]",
             "verse": "And he drew out his hand; thereupon it was white [with radiance] for the observers.",
             "description": [
                 "Moses was granted these two miraculous signs",
@@ -3743,14 +3744,14 @@
             ]
         },
         {
-            "id": "[7:109]",
+            "verse-id": "[7:109]",
             "verse": "Said the eminent among the people of Pharaoh, \"Indeed, this is a learned magician",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:110]",
+            "verse-id": "[7:110]",
             "verse": "Who wants to expel you from your land [through magic], so what do you instruct?\"",
             "description": [
                 "The above account raises the question as",
@@ -3844,14 +3845,14 @@
             ]
         },
         {
-            "id": "[7:111]",
+            "verse-id": "[7:111]",
             "verse": "They said, \"Postpone [the matter of] him and his brother and send among the cities gatherers",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:112]",
+            "verse-id": "[7:112]",
             "verse": "Who will bring you every learned magician.\"",
             "description": [
                 "The plan of Pharaoh's courtiers clearly suggests",
@@ -3877,35 +3878,35 @@
             ]
         },
         {
-            "id": "[7:113]",
+            "verse-id": "[7:113]",
             "verse": "And the magicians came to Pharaoh. They said, \"Indeed for us is a reward if we are the predominant.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:114]",
+            "verse-id": "[7:114]",
             "verse": "He said, \"Yes, and, [moreover], you will be among those made near [to me].\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:115]",
+            "verse-id": "[7:115]",
             "verse": "They said, \"O Moses, either you throw [your staff], or we will be the ones to throw [first].\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:116]",
+            "verse-id": "[7:116]",
             "verse": "He said, \"Throw,\" and when they threw, they bewitched the eyes of the people and struck terror into them, and they presented a great [feat of] magic.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:117]",
+            "verse-id": "[7:117]",
             "verse": "And We inspired to Moses, \"Throw your staff,\" and at once it devoured what they were falsifying.",
             "description": [
                 "It would be a mistake to believe",
@@ -3926,35 +3927,35 @@
             ]
         },
         {
-            "id": "[7:118]",
+            "verse-id": "[7:118]",
             "verse": "So the truth was established, and abolished was what they were doing.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:119]",
+            "verse-id": "[7:119]",
             "verse": "And Pharaoh and his people were overcome right there and became debased.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:120]",
+            "verse-id": "[7:120]",
             "verse": "And the magicians fell down in prostration [to Allah].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:121]",
+            "verse-id": "[7:121]",
             "verse": "They said, \"We have believed in the Lord of the worlds,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:122]",
+            "verse-id": "[7:122]",
             "verse": "The Lord of Moses and Aaron.\"",
             "description": [
                 "Thus God turned the tables on Pharaoh",
@@ -3975,28 +3976,28 @@
             ]
         },
         {
-            "id": "[7:123]",
+            "verse-id": "[7:123]",
             "verse": "Said Pharaoh, \"You believed in him before I gave you permission. Indeed, this is a conspiracy which you conspired in the city to expel therefrom its people. But you are going to know.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:124]",
+            "verse-id": "[7:124]",
             "verse": "I will surely cut off your hands and your feet on opposite sides; then I will surely crucify you all.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:125]",
+            "verse-id": "[7:125]",
             "verse": "They said, \"Indeed, to our Lord we will return.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:126]",
+            "verse-id": "[7:126]",
             "verse": "And you do not resent us except because we believed in the signs of our Lord when they came to us. Our Lord, pour upon us patience and let us die as Muslims [in submission to You].\"",
             "description": [
                 "Faced with utter failure Pharaoh finally resorted",
@@ -4032,7 +4033,7 @@
             ]
         },
         {
-            "id": "[7:127]",
+            "verse-id": "[7:127]",
             "verse": "And the eminent among the people of Pharaoh said,\" Will you leave Moses and his people to cause corruption in the land and abandon you and your gods?\" [Pharaoh] said, \"We will kill their sons and keep their women alive; and indeed, we are subjugators over them.\"",
             "description": [
                 "There were two periods of persecution. The",
@@ -4056,35 +4057,35 @@
             ]
         },
         {
-            "id": "[7:128]",
+            "verse-id": "[7:128]",
             "verse": "Said Moses to his people, \"Seek help through Allah and be patient. Indeed, the earth belongs to Allah. He causes to inherit it whom He wills of His servants. And the [best] outcome is for the righteous.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:129]",
+            "verse-id": "[7:129]",
             "verse": "They said, \"We have been harmed before you came to us and after you have come to us.\" He said, \"Perhaps your Lord will destroy your enemy and grant you succession in the land and see how you will do.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:130]",
+            "verse-id": "[7:130]",
             "verse": "And We certainly seized the people of Pharaoh with years of famine and a deficiency in fruits that perhaps they would be reminded.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:131]",
+            "verse-id": "[7:131]",
             "verse": "But when good came to them, they said, \"This is ours [by right].\" And if a bad [condition] struck them, they saw an evil omen in Moses and those with him. Unquestionably, their fortune is with Allah, but most of them do not know.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:132]",
+            "verse-id": "[7:132]",
             "verse": "And they said, \"No matter what sign you bring us with which to bewitch us, we will not be believers in you.\"",
             "description": [
                 "Pharaoh's courtiers obstinately persisted in branding Moses'",
@@ -4106,7 +4107,7 @@
             ]
         },
         {
-            "id": "[7:133]",
+            "verse-id": "[7:133]",
             "verse": "So We sent upon them the flood and locusts and lice and frogs and blood as distinct signs, but they were arrogant and were a criminal people.",
             "description": [
                 "This probably refers to the torrential rain",
@@ -4128,28 +4129,28 @@
             ]
         },
         {
-            "id": "[7:134]",
+            "verse-id": "[7:134]",
             "verse": "And when the punishment descended upon them, they said, \"O Moses, invoke for us your Lord by what He has promised you. If you [can] remove the punishment from us, we will surely believe you, and we will send with you the Children of Israel.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:135]",
+            "verse-id": "[7:135]",
             "verse": "But when We removed the punishment from them until a term which they were to reach, then at once they broke their word.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:136]",
+            "verse-id": "[7:136]",
             "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:137]",
+            "verse-id": "[7:137]",
             "verse": "And We caused the people who had been oppressed to inherit the eastern regions of the land and the western ones, which We had blessed. And the good word of your Lord was fulfilled for the Children of Israel because of what they had patiently endured. And We destroyed [all] that Pharaoh and his people were producing and what they had been building.",
             "description": [
                 "The Israelites were made the inheritors of",
@@ -4166,7 +4167,7 @@
             ]
         },
         {
-            "id": "[7:138]",
+            "verse-id": "[7:138]",
             "verse": "And We took the Children of Israel across the sea; then they came upon a people intent in devotion to [some] idols of theirs. They said, \"O Moses, make for us a god just as they have gods.\" He said, \"Indeed, you are a people behaving ignorantly.",
             "description": [
                 "The point at which the Israelites probably",
@@ -4230,28 +4231,28 @@
             ]
         },
         {
-            "id": "[7:139]",
+            "verse-id": "[7:139]",
             "verse": "Indeed, those [worshippers] - destroyed is that in which they are [engaged], and worthless is whatever they were doing.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:140]",
+            "verse-id": "[7:140]",
             "verse": "He said, \"Is it other than Allah I should desire for you as a god while He has preferred you over the worlds?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:141]",
+            "verse-id": "[7:141]",
             "verse": "And [recall, O Children of Israel], when We saved you from the people of Pharaoh, [who were] afflicting you with the worst torment - killing your sons and keeping your women alive. And in that was a great trial from your Lord.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:142]",
+            "verse-id": "[7:142]",
             "verse": "And We made an appointment with Moses for thirty nights and perfected them by [the addition of] ten; so the term of his Lord was completed as forty nights. And Moses said to his brother Aaron, \"Take my place among my people, do right [by them], and do not follow the way of the corrupters.\"",
             "description": [
                 "After the exodus of the Israelites from",
@@ -4312,21 +4313,21 @@
             ]
         },
         {
-            "id": "[7:143]",
+            "verse-id": "[7:143]",
             "verse": "And when Moses arrived at Our appointed time and his Lord spoke to him, he said, \"My Lord, show me [Yourself] that I may look at You.\" [Allah] said, \"You will not see Me, but look at the mountain; if it should remain in place, then you will see Me.\" But when his Lord appeared to the mountain, He rendered it level, and Moses fell unconscious. And when he awoke, he said, \"Exalted are You! I have repented to You, and I am the first of the believers.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:144]",
+            "verse-id": "[7:144]",
             "verse": "[Allah] said, \"O Moses, I have chosen you over the people with My messages and My words [to you]. So take what I have given you and be among the grateful.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:145]",
+            "verse-id": "[7:145]",
             "verse": "And We wrote for him on the tablets [something] of all things - instruction and explanation for all things, [saying], \"Take them with determination and order your people to take the best of it. I will show you the home of the defiantly disobedient.\"",
             "description": [
                 "The Bible categorically mentions that the tablets",
@@ -4367,7 +4368,7 @@
             ]
         },
         {
-            "id": "[7:146]",
+            "verse-id": "[7:146]",
             "verse": "I will turn away from My signs those who are arrogant upon the earth without right; and if they should see every sign, they will not believe in it. And if they see the way of consciousness, they will not adopt it as a way; but if they see the way of error, they will adopt it as a way. That is because they have denied Our signs and they were heedless of them.",
             "description": [
                 "It is God's law that evil-doers do",
@@ -4391,7 +4392,7 @@
             ]
         },
         {
-            "id": "[7:147]",
+            "verse-id": "[7:147]",
             "verse": "Those who denied Our signs and the meeting of the Hereafter - their deeds have become worthless. Are they recompensed except for what they used to do?",
             "description": [
                 "That the acts of such persons are",
@@ -4423,7 +4424,7 @@
             ]
         },
         {
-            "id": "[7:148]",
+            "verse-id": "[7:148]",
             "verse": "And the people of Moses made, after [his departure], from their ornaments a calf - an image having a lowing sound. Did they not see that it could neither speak to them nor guide them to a way? They took it [for worship], and they were wrongdoers.",
             "description": [
                 "Here reference is made to the forty",
@@ -4466,14 +4467,14 @@
             ]
         },
         {
-            "id": "[7:149]",
+            "verse-id": "[7:149]",
             "verse": "And when regret overcame them and they saw that they had gone astray, they said, \"If our Lord does not have mercy upon us and forgive us, we will surely be among the losers.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:150]",
+            "verse-id": "[7:150]",
             "verse": "And when Moses returned to his people, angry and grieved, he said, \"How wretched is that by which you have replaced me after [my departure]. Were you impatient over the matter of your Lord?\" And he threw down the tablets and seized his brother by [the hair of] his head, pulling him toward him. [Aaron] said, \"O son of my mother, indeed the people oppressed me and were about to kill me, so let not the enemies rejoice over me and do not place me among the wrongdoing people.\"",
             "description": [
                 "The above Qur'anic verse absolves Aaron of",
@@ -4559,35 +4560,35 @@
             ]
         },
         {
-            "id": "[7:151]",
+            "verse-id": "[7:151]",
             "verse": "[Moses] said, \"My Lord, forgive me and my brother and admit us into Your mercy, for You are the most merciful of the merciful.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:152]",
+            "verse-id": "[7:152]",
             "verse": "Indeed, those who took the calf [for worship] will obtain anger from their Lord and humiliation in the life of this world, and thus do We recompense the inventors [of falsehood].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:153]",
+            "verse-id": "[7:153]",
             "verse": "But those who committed misdeeds and then repented after them and believed - indeed your Lord, thereafter, is Forgiving and Merciful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:154]",
+            "verse-id": "[7:154]",
             "verse": "And when the anger subsided in Moses, he took up the tablets; and in their inscription was guidance and mercy for those who are fearful of their Lord.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:155]",
+            "verse-id": "[7:155]",
             "verse": "And Moses chose from his people seventy men for Our appointment. And when the earthquake seized them, he said, \"My Lord, if You had willed, You could have destroyed them before and me [as well]. Would You destroy us for what the foolish among us have done? This is not but Your trial by which You send astray whom You will and guide whom You will. You are our Protector, so forgive us and have mercy upon us; and You are the best of forgivers.",
             "description": [
                 "Moses was summoned for the second time",
@@ -4625,7 +4626,7 @@
             ]
         },
         {
-            "id": "[7:156]",
+            "verse-id": "[7:156]",
             "verse": "And decree for us in this world [that which is] good and [also] in the Hereafter; indeed, we have turned back to You.\" [Allah] said, \"My punishment - I afflict with it whom I will, but My mercy encompasses all things.\" So I will decree it [especially] for those who fear Me and give zakah and those who believe in Our verses -",
             "description": [
                 "It is false to assume that the",
@@ -4640,7 +4641,7 @@
             ]
         },
         {
-            "id": "[7:157]",
+            "verse-id": "[7:157]",
             "verse": "Those who follow the Messenger, the unlettered prophet, whom they find written in what they have of the Torah and the Gospel, who enjoins upon them what is right and forbids them what is wrong and makes lawful for them the good things and prohibits for them the evil and relieves them of their burden and the shackles which were upon them. So they who have believed in him, honored him, supported him and followed the light which was sent down with him - it is those who will be the successful.",
             "description": [
                 "The preceding verse concludes God's response to",
@@ -4726,14 +4727,14 @@
             ]
         },
         {
-            "id": "[7:158]",
+            "verse-id": "[7:158]",
             "verse": "Say, [O Muhammad], \"O mankind, indeed I am the Messenger of Allah to you all, [from Him] to whom belongs the dominion of the heavens and the earth. There is no deity except Him; He gives life and causes death.\" So believe in Allah and His Messenger, the unlettered prophet, who believes in Allah and His words, and follow him that you may be guided.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:159]",
+            "verse-id": "[7:159]",
             "verse": "And among the people of Moses is a community which guides by truth and by it establishes justice.",
             "description": [
                 "This marks the resumption of the main",
@@ -4765,7 +4766,7 @@
             ]
         },
         {
-            "id": "[7:160]",
+            "verse-id": "[7:160]",
             "verse": "And We divided them into twelve descendant tribes [as distinct] nations. And We inspired to Moses when his people implored him for water, \"Strike with your staff the stone,\" and there gushed forth from it twelve springs. Every people knew its watering place. And We shaded them with clouds and sent down upon them manna and quails, [saying], \"Eat from the good things with which We have provided you.\" And they wronged Us not, but they were [only] wronging themselves.",
             "description": [
                 "This refers to the organization of the",
@@ -4849,7 +4850,7 @@
             ]
         },
         {
-            "id": "[7:161]",
+            "verse-id": "[7:161]",
             "verse": "And [mention, O Muhammad], when it was said to them, \"Dwell in this city and eat from it wherever you will and say, 'Relieve us of our burdens,' and enter the gate bowing humbly; We will [then] forgive you your sins. We will increase the doers of good [in goodness and reward].\"",
             "description": [
                 "This alludes to their constant defiance and",
@@ -4858,7 +4859,7 @@
             ]
         },
         {
-            "id": "[7:162]",
+            "verse-id": "[7:162]",
             "verse": "But those who wronged among them changed [the words] to a statement other than that which had been said to them. So We sent upon them a punishment from the sky for the wrong that they were doing.",
             "description": [
                 "For details see Towards Understanding the Qur'an,",
@@ -4867,7 +4868,7 @@
             ]
         },
         {
-            "id": "[7:163]",
+            "verse-id": "[7:163]",
             "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient.",
             "description": [
                 "Most scholars identify this place with Eilat,",
@@ -4943,14 +4944,14 @@
             ]
         },
         {
-            "id": "[7:164]",
+            "verse-id": "[7:164]",
             "verse": "And when a community among them said, \"Why do you advise [or warn] a people whom Allah is [about] to destroy or to punish with a severe punishment?\" they [the advisors] said, \"To be absolved before your Lord and perhaps they may fear Him.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:165]",
+            "verse-id": "[7:165]",
             "verse": "And when they forgot that by which they had been reminded, We saved those who had forbidden evil and seized those who wronged, with a wretched punishment, because they were defiantly disobeying.",
             "description": [
                 "This shows that the people in that",
@@ -5064,7 +5065,7 @@
             ]
         },
         {
-            "id": "[7:166]",
+            "verse-id": "[7:166]",
             "verse": "So when they were insolent about that which they had been forbidden, We said to them, \"Be apes, despised.\"",
             "description": [
                 "For details see Towards Understanding the Q",
@@ -5073,7 +5074,7 @@
             ]
         },
         {
-            "id": "[7:167]",
+            "verse-id": "[7:167]",
             "verse": "And [mention] when your Lord declared that He would surely [continue to] send upon them until the Day of Resurrection those who would afflict them with the worst torment. Indeed, your Lord is swift in penalty; but indeed, He is Forgiving and Merciful.",
             "description": [
                 "The Qur'anic expression 'ta'adhdhana' means almost the",
@@ -5096,14 +5097,14 @@
             ]
         },
         {
-            "id": "[7:168]",
+            "verse-id": "[7:168]",
             "verse": "And We divided them throughout the earth into nations. Of them some were righteous, and of them some were otherwise. And We tested them with good [times] and bad that perhaps they would return [to obedience].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:169]",
+            "verse-id": "[7:169]",
             "verse": "And there followed them successors who inherited the Scripture [while] taking the commodities of this lower life and saying, \"It will be forgiven for us.\" And if an offer like it comes to them, they will [again] take it. Was not the covenant of the Scripture taken from them that they would not say about Allah except the truth, and they studied what was in it? And the home of the Hereafter is better for those who fear Allah, so will you not use reason?",
             "description": [
                 "The Jews knowingly commit sins in the",
@@ -5158,14 +5159,14 @@
             ]
         },
         {
-            "id": "[7:170]",
+            "verse-id": "[7:170]",
             "verse": "But those who hold fast to the Book and establish prayer - indeed, We will not allow to be lost the reward of the reformers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:171]",
+            "verse-id": "[7:171]",
             "verse": "And [mention] when We raised the mountain above them as if it was a dark cloud and they were certain that it would fall upon them, [and Allah said], \"Take what We have given you with determination and remember what is in it that you might fear Allah.\"",
             "description": [
                 "The allusion here is to the event",
@@ -5210,7 +5211,7 @@
             ]
         },
         {
-            "id": "[7:172]",
+            "verse-id": "[7:172]",
             "verse": "And [mention] when your Lord took from the children of Adam - from their loins - their descendants and made them testify of themselves, [saying to them], \"Am I not your Lord?\" They said, \"Yes, we have testified.\" [This] - lest you should say on the day of Resurrection, \"Indeed, we were of this unaware.\"",
             "description": [
                 "The preceding discourse concluded with the note",
@@ -5318,7 +5319,7 @@
             ]
         },
         {
-            "id": "[7:173]",
+            "verse-id": "[7:173]",
             "verse": "Or [lest] you say, \"It was only that our fathers associated [others in worship] with Allah before, and we were but descendants after them. Then would You destroy us for what the falsifiers have done?\"",
             "description": [
                 "The verse describes the purpose of the",
@@ -5497,7 +5498,7 @@
             ]
         },
         {
-            "id": "[7:174]",
+            "verse-id": "[7:174]",
             "verse": "And thus do We [explain in] detail the verses, and perhaps they will return.",
             "description": [
                 "'Signs' here refer to the imprints made",
@@ -5510,7 +5511,7 @@
             ]
         },
         {
-            "id": "[7:175]",
+            "verse-id": "[7:175]",
             "verse": "And recite to them, [O Muhammad], the news of him to whom we gave [knowledge of] Our signs, but he detached himself from them; so Satan pursued him, and he became of the deviators.",
             "description": [
                 "The words of the text seem to",
@@ -5544,7 +5545,7 @@
             ]
         },
         {
-            "id": "[7:176]",
+            "verse-id": "[7:176]",
             "verse": "And if We had willed, we could have elevated him thereby, but he adhered [instead] to the earth and followed his own desire. So his example is like that of the dog: if you chase him, he pants, or if you leave him, he [still] pants. That is the example of the people who denied Our signs. So relate the stories that perhaps they will give thought.",
             "description": [
                 "Since the statement here embodies a very",
@@ -5622,21 +5623,21 @@
             ]
         },
         {
-            "id": "[7:177]",
+            "verse-id": "[7:177]",
             "verse": "How evil an example [is that of] the people who denied Our signs and used to wrong themselves.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:178]",
+            "verse-id": "[7:178]",
             "verse": "Whoever Allah guides - he is the [rightly] guided; and whoever He sends astray - it is those who are the losers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:179]",
+            "verse-id": "[7:179]",
             "verse": "And We have certainly created for Hell many of the jinn and mankind. They have hearts with which they do not understand, they have eyes with which they do not see, and they have ears with which they do not hear. Those are like livestock; rather, they are more astray. It is they who are the heedless.",
             "description": [
                 "This does not mean that God has",
@@ -5667,7 +5668,7 @@
             ]
         },
         {
-            "id": "[7:180]",
+            "verse-id": "[7:180]",
             "verse": "And to Allah belong the best names, so invoke Him by them. And leave [the company of] those who practice deviation concerning His names. They will be recompensed for what they have been doing.",
             "description": [
                 "Here the present discourse is nearing its",
@@ -5735,35 +5736,35 @@
             ]
         },
         {
-            "id": "[7:181]",
+            "verse-id": "[7:181]",
             "verse": "And among those We created is a community which guides by truth and thereby establishes justice.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:182]",
+            "verse-id": "[7:182]",
             "verse": "But those who deny Our signs - We will progressively lead them [to destruction] from where they do not know.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:183]",
+            "verse-id": "[7:183]",
             "verse": "And I will give them time. Indeed, my plan is firm.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:184]",
+            "verse-id": "[7:184]",
             "verse": "Then do they not give thought? There is in their companion [Muhammad] no madness. He is not but a clear warner.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:185]",
+            "verse-id": "[7:185]",
             "verse": "Do they not look into the realm of the heavens and the earth and everything that Allah has created and [think] that perhaps their appointed time has come near? So in what statement hereafter will they believe?",
             "description": [
                 "The word 'companion' here refers to the",
@@ -5814,21 +5815,21 @@
             ]
         },
         {
-            "id": "[7:186]",
+            "verse-id": "[7:186]",
             "verse": "Whoever Allah sends astray - there is no guide for him. And He leaves them in their transgression, wandering blindly.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:187]",
+            "verse-id": "[7:187]",
             "verse": "They ask you, [O Muhammad], about the Hour: when is its arrival? Say, \"Its knowledge is only with my Lord. None will reveal its time except Him. It lays heavily upon the heavens and the earth. It will not come upon you except unexpectedly.\" They ask you as if you are familiar with it. Say, \"Its knowledge is only with Allah, but most of the people do not know.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:188]",
+            "verse-id": "[7:188]",
             "verse": "Say, \"I hold not for myself [the power of] benefit or harm, except what Allah has willed. And if I knew the unseen, I could have acquired much wealth, and no harm would have touched me. I am not except a warner and a bringer of good tidings to a people who believe.\"",
             "description": [
                 "The time of the advent of the",
@@ -5851,14 +5852,14 @@
             ]
         },
         {
-            "id": "[7:189]",
+            "verse-id": "[7:189]",
             "verse": "It is He who created you from one soul and created from it its mate that he might dwell in security with her. And when he covers her, she carries a light burden and continues therein. And when it becomes heavy, they both invoke Allah, their Lord, \"If You should give us a good [child], we will surely be among the grateful.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:190]",
+            "verse-id": "[7:190]",
             "verse": "But when He gives them a good [child], they ascribe partners to Him concerning that which He has given them. Exalted is Allah above what they associate with Him.",
             "description": [
                 "The present and succeeding verses (190-8) seek",
@@ -5982,21 +5983,21 @@
             ]
         },
         {
-            "id": "[7:191]",
+            "verse-id": "[7:191]",
             "verse": "Do they associate with Him those who create nothing and they are [themselves] created?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:192]",
+            "verse-id": "[7:192]",
             "verse": "And the false deities are unable to [give] them help, nor can they help themselves.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:193]",
+            "verse-id": "[7:193]",
             "verse": "And if you [believers] invite them to guidance, they will not follow you. It is all the same for you whether you invite them or you are silent.",
             "description": [
                 "As to the false gods set up",
@@ -6009,14 +6010,14 @@
             ]
         },
         {
-            "id": "[7:194]",
+            "verse-id": "[7:194]",
             "verse": "Indeed, those you [polytheists] call upon besides Allah are servants like you. So call upon them and let them respond to you, if you should be truthful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:195]",
+            "verse-id": "[7:195]",
             "verse": "Do they have feet by which they walk? Or do they have hands by which they strike? Or do they have eyes by which they see? Or do they have ears by which they hear? Say, [O Muhammad], \"Call your 'partners' and then conspire against me and give me no respite.",
             "description": [
                 "Polytheistic religions seem to have three characteristics:",
@@ -6032,7 +6033,7 @@
             ]
         },
         {
-            "id": "[7:196]",
+            "verse-id": "[7:196]",
             "verse": "Indeed, my protector is Allah, who has sent down the Book; and He is an ally to the righteous.",
             "description": [
                 "This is in response to the threats",
@@ -6047,42 +6048,42 @@
             ]
         },
         {
-            "id": "[7:197]",
+            "verse-id": "[7:197]",
             "verse": "And those you call upon besides Him are unable to help you, nor can they help themselves.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:198]",
+            "verse-id": "[7:198]",
             "verse": "And if you invite them to guidance, they do not hear; and you see them looking at you while they do not see.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:199]",
+            "verse-id": "[7:199]",
             "verse": "Take what is given freely, enjoin what is good, and turn away from the ignorant.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:200]",
+            "verse-id": "[7:200]",
             "verse": "And if an evil suggestion comes to you from Satan, then seek refuge in Allah. Indeed, He is Hearing and Knowing.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:201]",
+            "verse-id": "[7:201]",
             "verse": "Indeed, those who fear Allah - when an impulse touches them from Satan, they remember [Him] and at once they have insight.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[7:202]",
+            "verse-id": "[7:202]",
             "verse": "But their brothers - the devils increase them in error; then they do not stop short.",
             "description": [
                 "Here some important directives are addressed to",
@@ -6263,7 +6264,7 @@
             ]
         },
         {
-            "id": "[7:203]",
+            "verse-id": "[7:203]",
             "verse": "And when you, [O Muhammad], do not bring them a sign, they say, \"Why have you not contrived it?\" Say, \"I only follow what is revealed to me from my Lord. This [Qur'an] is enlightenment from your Lord and guidance and mercy for a people who believe.\"",
             "description": [
                 "This question is a taunt rather than",
@@ -6291,7 +6292,7 @@
             ]
         },
         {
-            "id": "[7:204]",
+            "verse-id": "[7:204]",
             "verse": "So when the Qur'an is recited, then listen to it and pay attention that you may receive mercy.",
             "description": [
                 "The unbelievers are asked to shed their",
@@ -6344,7 +6345,7 @@
             ]
         },
         {
-            "id": "[7:205]",
+            "verse-id": "[7:205]",
             "verse": "And remember your Lord within yourself in humility and in fear without being apparent in speech - in the mornings and the evenings. And do not be among the heedless.",
             "description": [
                 "The command to remember the Lord signifies",
@@ -6377,7 +6378,7 @@
             ]
         },
         {
-            "id": "[7:206]",
+            "verse-id": "[7:206]",
             "verse": "Indeed, those who are near your Lord are not prevented by arrogance from His worship, and they exalt Him, and to Him they prostrate.",
             "description": [
                 "It is Satan who behaves arrogantly and",

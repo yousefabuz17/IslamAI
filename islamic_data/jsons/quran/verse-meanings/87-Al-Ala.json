@@ -1,9 +1,10 @@
 {
     "name": "Al-Ala",
+    "id": 87,
     "verse-count": 19,
     "verse-info": [
         {
-            "id": "[87:1]",
+            "verse-id": "[87:1]",
             "verse": "Exalt the name of your Lord, the Most High,",
             "description": [
                 "Literally: \"Purify the name of your Lord,",
@@ -77,7 +78,7 @@
             ]
         },
         {
-            "id": "[87:2]",
+            "verse-id": "[87:2]",
             "verse": "Who created and proportioned",
             "description": [
                 "That is, He created everything, from the",
@@ -101,7 +102,7 @@
             ]
         },
         {
-            "id": "[87:3]",
+            "verse-id": "[87:3]",
             "verse": "And who destined and [then] guided",
             "description": [
                 "\"Set a destiny\": determined beforehand what would",
@@ -207,7 +208,7 @@
             ]
         },
         {
-            "id": "[87:4]",
+            "verse-id": "[87:4]",
             "verse": "And who brings out the pasture",
             "description": [
                 "The word mar`a as used in the",
@@ -219,7 +220,7 @@
             ]
         },
         {
-            "id": "[87:5]",
+            "verse-id": "[87:5]",
             "verse": "And [then] makes it black stubble.",
             "description": [
                 "That is, \"He does not only bring",
@@ -241,7 +242,7 @@
             ]
         },
         {
-            "id": "[87:6]",
+            "verse-id": "[87:6]",
             "verse": "We will make you recite, [O Muhammad], and you will not forget,",
             "description": [
                 "Hakim has related from Hadrat Sa'd bin",
@@ -277,7 +278,7 @@
             ]
         },
         {
-            "id": "[87:7]",
+            "verse-id": "[87:7]",
             "verse": "Except what Allah should will. Indeed, He knows what is declared and what is hidden.",
             "description": [
                 "This sentence can have two meanings: first,",
@@ -321,14 +322,14 @@
             ]
         },
         {
-            "id": "[87:8]",
+            "verse-id": "[87:8]",
             "verse": "And We will ease you toward ease.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[87:9]",
+            "verse-id": "[87:9]",
             "verse": "So remind, if the reminder should benefit;",
             "description": [
                 "Generally, the conunentators take these as two",
@@ -378,7 +379,7 @@
             ]
         },
         {
-            "id": "[87:10]",
+            "verse-id": "[87:10]",
             "verse": "He who fears [Allah] will be reminded.",
             "description": [
                 "That is, only the one who has",
@@ -392,21 +393,21 @@
             ]
         },
         {
-            "id": "[87:11]",
+            "verse-id": "[87:11]",
             "verse": "But the wretched one will avoid it -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[87:12]",
+            "verse-id": "[87:12]",
             "verse": "[He] who will [enter and] burn in the greatest Fire,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[87:13]",
+            "verse-id": "[87:13]",
             "verse": "Neither dying therein nor living.",
             "description": [
                 "That is, \"He will neither die so",
@@ -438,7 +439,7 @@
             ]
         },
         {
-            "id": "[87:14]",
+            "verse-id": "[87:14]",
             "verse": "He has certainly succeeded who purifies himself",
             "description": [
                 "\"Who purified himself\": who affirmed the faith",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "id": "[87:15]",
+            "verse-id": "[87:15]",
             "verse": "And mentions the name of his Lord and prays.",
             "description": [
                 "To remember AIlah signifies His remembrance in",
@@ -482,7 +483,7 @@
             ]
         },
         {
-            "id": "[87:16]",
+            "verse-id": "[87:16]",
             "verse": "But you prefer the worldly life,",
             "description": [
                 "That is, \"O man, alI your thoughts",
@@ -494,7 +495,7 @@
             ]
         },
         {
-            "id": "[87:17]",
+            "verse-id": "[87:17]",
             "verse": "While the Hereafter is better and more enduring.",
             "description": [
                 "That is, the Hereafter is preferable to",
@@ -506,14 +507,14 @@
             ]
         },
         {
-            "id": "[87:18]",
+            "verse-id": "[87:18]",
             "verse": "Indeed, this is in the former scriptures,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[87:19]",
+            "verse-id": "[87:19]",
             "verse": "The scriptures of Abraham and Moses.",
             "description": [
                 "This is the second place in the",

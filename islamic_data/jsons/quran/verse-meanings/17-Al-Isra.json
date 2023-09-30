@@ -1,9 +1,10 @@
 {
     "name": "Al-Isra",
+    "id": 17,
     "verse-count": 111,
     "verse-info": [
         {
-            "id": "[17:1]",
+            "verse-id": "[17:1]",
             "verse": "Exalted is He who took His Servant by night from al-Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings We have blessed, to show him of Our signs. Indeed, He is the Hearing, the Seeing.",
             "description": [
                 "The event referred to in this verse",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "id": "[17:2]",
+            "verse-id": "[17:2]",
             "verse": "And We gave Moses the Scripture and made it a guidance for the Children of Israel that you not take other than Me as Disposer of affairs,",
             "description": [
                 "As this verse has no apparent connection",
@@ -234,7 +235,7 @@
             ]
         },
         {
-            "id": "[17:3]",
+            "verse-id": "[17:3]",
             "verse": "O descendants of those We carried [in the ship] with Noah. Indeed, he was a grateful servant.",
             "description": [
                 "That is, \"You are the descendants of",
@@ -247,7 +248,7 @@
             ]
         },
         {
-            "id": "[17:4]",
+            "verse-id": "[17:4]",
             "verse": "And We conveyed to the Children of Israel in the Scripture that, \"You will surely cause corruption on the earth twice, and you will surely reach [a degree of] great haughtiness.",
             "description": [
                 "The original Arabic word \"Al-kitab\"does not stand",
@@ -542,7 +543,7 @@
             ]
         },
         {
-            "id": "[17:5]",
+            "verse-id": "[17:5]",
             "verse": "So when the [time of] promise came for the first of them, We sent against you servants of Ours - those of great military might, and they probed [even] into the homes, and it was a promise fulfilled.",
             "description": [
                 "This refers to the terrible destruction that",
@@ -765,7 +766,7 @@
             ]
         },
         {
-            "id": "[17:6]",
+            "verse-id": "[17:6]",
             "verse": "Then We gave back to you a return victory over them. And We reinforced you with wealth and sons and made you more numerous in manpower",
             "description": [
                 "This refers to the lease of time",
@@ -916,7 +917,7 @@
             ]
         },
         {
-            "id": "[17:7]",
+            "verse-id": "[17:7]",
             "verse": "[And said], \"If you do good, you do good for yourselves; and if you do evil, [you do it] to yourselves.\" Then when the final promise came, [We sent your enemies] to sadden your faces and to enter the temple in Jerusalem, as they entered it the first time, and to destroy what they had taken over with [total] destruction.",
             "description": [
                 "The historical background of the second degeneration",
@@ -1047,7 +1048,7 @@
             ]
         },
         {
-            "id": "[17:8]",
+            "verse-id": "[17:8]",
             "verse": "[Then Allah said], \"It is expected, [if you repent], that your Lord will have mercy upon you. But if you return [to sin], We will return [to punishment]. And We have made Hell, for the disbelievers, a prison-bed.\"",
             "description": [
                 "Though this admonition has been given as",
@@ -1065,14 +1066,14 @@
             ]
         },
         {
-            "id": "[17:9]",
+            "verse-id": "[17:9]",
             "verse": "Indeed, this Qur'an guides to that which is most suitable and gives good tidings to the believers who do righteous deeds that they will have a great reward.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:10]",
+            "verse-id": "[17:10]",
             "verse": "And that those who do not believe in the Hereafter - We have prepared for them a painful punishment.",
             "description": [
                 "This means to warn those persons or",
@@ -1083,7 +1084,7 @@
             ]
         },
         {
-            "id": "[17:11]",
+            "verse-id": "[17:11]",
             "verse": "And man supplicates for evil as he supplicates for good, and man is ever hasty.",
             "description": [
                 "This is in answer to the foolish",
@@ -1114,7 +1115,7 @@
             ]
         },
         {
-            "id": "[17:12]",
+            "verse-id": "[17:12]",
             "verse": "And We have made the night and day two signs, and We erased the sign of the night and made the sign of the day visible that you may seek bounty from your Lord and may know the number of years and the account [of time]. And everything We have set out in detail.",
             "description": [
                 "Allah invites man to study the wisdom",
@@ -1150,7 +1151,7 @@
             ]
         },
         {
-            "id": "[17:13]",
+            "verse-id": "[17:13]",
             "verse": "And [for] every person We have imposed his fate upon his neck, and We will produce for him on the Day of Resurrection a record which he will encounter spread open.",
             "description": [
                 "\"We have fastened the augury of every",
@@ -1176,14 +1177,14 @@
             ]
         },
         {
-            "id": "[17:14]",
+            "verse-id": "[17:14]",
             "verse": "[It will be said], \"Read your record. Sufficient is yourself against you this Day as accountant.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:15]",
+            "verse-id": "[17:15]",
             "verse": "Whoever is guided is only guided for [the benefit of] his soul. And whoever errs only errs against it. And no bearer of burdens will bear the burden of another. And never would We punish until We sent a messenger.",
             "description": [
                 "This is to impress that if a",
@@ -1281,7 +1282,7 @@
             ]
         },
         {
-            "id": "[17:16]",
+            "verse-id": "[17:16]",
             "verse": "And when We intend to destroy a city, We command its affluent but they defiantly disobey therein; so the word comes into effect upon it, and We destroy it with [complete] destruction.",
             "description": [
                 "Here a definite form of Divine procedure",
@@ -1325,14 +1326,14 @@
             ]
         },
         {
-            "id": "[17:17]",
+            "verse-id": "[17:17]",
             "verse": "And how many have We destroyed from the generations after Noah. And sufficient is your Lord, concerning the sins of His servants, as Acquainted and Seeing.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:18]",
+            "verse-id": "[17:18]",
             "verse": "Whoever should desire the immediate - We hasten for him from it what We will to whom We intend. Then We have made for him Hell, which he will [enter to] burn, censured and banished.",
             "description": [
                 "The Arabic word Ajilah literally means something",
@@ -1357,7 +1358,7 @@
             ]
         },
         {
-            "id": "[17:19]",
+            "verse-id": "[17:19]",
             "verse": "But whoever desires the Hereafter and exerts the effort due to it while he is a believer - it is those whose effort is ever appreciated [by Allah].",
             "description": [
                 "\"His endeavours will be appreciated\": he will",
@@ -1366,7 +1367,7 @@
             ]
         },
         {
-            "id": "[17:20]",
+            "verse-id": "[17:20]",
             "verse": "To each [category] We extend - to these and to those - from the gift of your Lord. And never has the gift of your Lord been restricted.",
             "description": [
                 "Allah gives the provisions of this world",
@@ -1384,7 +1385,7 @@
             ]
         },
         {
-            "id": "[17:21]",
+            "verse-id": "[17:21]",
             "verse": "Look how We have favored [in provision] some of them over others. But the Hereafter is greater in degrees [of difference] and greater in distinction.",
             "description": [
                 "This is to show that the seekers",
@@ -1426,7 +1427,7 @@
             ]
         },
         {
-            "id": "[17:22]",
+            "verse-id": "[17:22]",
             "verse": "Do not make [as equal] with Allah another deity and [thereby] become censured and forsaken.",
             "description": [
                 "Or it can be rendered like this:",
@@ -1436,7 +1437,7 @@
             ]
         },
         {
-            "id": "[17:23]",
+            "verse-id": "[17:23]",
             "verse": "And your Lord has decreed that you not worship except Him, and to parents, good treatment. Whether one or both of them reach old age [while] with you, say not to them [so much as], \"uff,\" and do not repel them but speak to them a noble word.",
             "description": [
                 "In the succeeding verses, those main basic",
@@ -1473,14 +1474,14 @@
             ]
         },
         {
-            "id": "[17:24]",
+            "verse-id": "[17:24]",
             "verse": "And lower to them the wing of humility out of mercy and say, \"My Lord, have mercy upon them as they brought me up [when I was] small.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:25]",
+            "verse-id": "[17:25]",
             "verse": "Your Lord is most knowing of what is within yourselves. If you should be righteous [in intention] - then indeed He is ever, to the often returning [to Him], Forgiving.",
             "description": [
                 "This verse enjoins that after Allah's right,",
@@ -1510,21 +1511,21 @@
             ]
         },
         {
-            "id": "[17:26]",
+            "verse-id": "[17:26]",
             "verse": "And give the relative his right, and [also] the poor and the traveler, and do not spend wastefully.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:27]",
+            "verse-id": "[17:27]",
             "verse": "Indeed, the wasteful are brothers of the devils, and ever has Satan been to his Lord ungrateful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:28]",
+            "verse-id": "[17:28]",
             "verse": "And if you [must] turn away from the needy awaiting mercy from your Lord which you expect, then speak to them a gentle word.",
             "description": [
                 "These three articles (3-5) are meant to",
@@ -1574,7 +1575,7 @@
             ]
         },
         {
-            "id": "[17:29]",
+            "verse-id": "[17:29]",
             "verse": "And do not make your hand [as] chained to your neck or extend it completely and [thereby] become blamed and insolvent.",
             "description": [
                 "\"Do not tie your hand to your",
@@ -1632,7 +1633,7 @@
             ]
         },
         {
-            "id": "[17:30]",
+            "verse-id": "[17:30]",
             "verse": "Indeed, your Lord extends provision for whom He wills and restricts [it]. Indeed He is ever, concerning His servants, Acquainted and Seeing.",
             "description": [
                 "That is, \"Man cannot realize the wisdom",
@@ -1666,7 +1667,7 @@
             ]
         },
         {
-            "id": "[17:31]",
+            "verse-id": "[17:31]",
             "verse": "And do not kill your children for fear of poverty. We provide for them and for you. Indeed, their killing is ever a great sin.",
             "description": [
                 "This verse cuts at the very root",
@@ -1709,7 +1710,7 @@
             ]
         },
         {
-            "id": "[17:32]",
+            "verse-id": "[17:32]",
             "verse": "And do not approach unlawful sexual intercourse. Indeed, it is ever an immorality and is evil as a way.",
             "description": [
                 "\"Do not even go near fornication. \"",
@@ -1741,7 +1742,7 @@
             ]
         },
         {
-            "id": "[17:33]",
+            "verse-id": "[17:33]",
             "verse": "And do not kill the soul which Allah has forbidden, except by right. And whoever is killed unjustly - We have given his heir authority, but let him not exceed limits in [the matter of] taking life. Indeed, he has been supported [by the law].",
             "description": [
                 "\"Do not kill any soul\" includes not",
@@ -1813,7 +1814,7 @@
             ]
         },
         {
-            "id": "[17:34]",
+            "verse-id": "[17:34]",
             "verse": "And do not approach the property of an orphan, except in the way that is best, until he reaches maturity. And fulfill [every] commitment. Indeed, the commitment is ever [that about which one will be] questioned.",
             "description": [
                 "This too, was not merely a moral",
@@ -1840,7 +1841,7 @@
             ]
         },
         {
-            "id": "[17:35]",
+            "verse-id": "[17:35]",
             "verse": "And give full measure when you measure, and weigh with an even balance. That is the best [way] and best in result.",
             "description": [
                 "This instruction was not confined to individuals",
@@ -1867,7 +1868,7 @@
             ]
         },
         {
-            "id": "[17:36]",
+            "verse-id": "[17:36]",
             "verse": "And do not pursue that of which you have no knowledge. Indeed, the hearing, the sight and the heart - about all those [one] will be questioned.",
             "description": [
                 "The meanings of \"Do not follow that",
@@ -1903,7 +1904,7 @@
             ]
         },
         {
-            "id": "[17:37]",
+            "verse-id": "[17:37]",
             "verse": "And do not walk upon the earth exultantly. Indeed, you will never tear the earth [apart], and you will never reach the mountains in height.",
             "description": [
                 "This instruction warns against the ways of",
@@ -1929,7 +1930,7 @@
             ]
         },
         {
-            "id": "[17:38]",
+            "verse-id": "[17:38]",
             "verse": "All that - its evil is ever, in the sight of your Lord, detested.",
             "description": [
                 "That is, \"AIIah disapproves of the commission",
@@ -1939,7 +1940,7 @@
             ]
         },
         {
-            "id": "[17:39]",
+            "verse-id": "[17:39]",
             "verse": "That is from what your Lord has revealed to you, [O Muhammad], of wisdom. And, [O mankind], do not make [as equal] with Allah another deity, lest you be thrown into Hell, blamed and banished.",
             "description": [
                 "Though this has been addressed to the",
@@ -1949,7 +1950,7 @@
             ]
         },
         {
-            "id": "[17:40]",
+            "verse-id": "[17:40]",
             "verse": "Then, has your Lord chosen you for [having] sons and taken from among the angels daughters? Indeed, you say a grave saying.",
             "description": [
                 "Please refer to verses 57-59 and their",
@@ -1957,14 +1958,14 @@
             ]
         },
         {
-            "id": "[17:41]",
+            "verse-id": "[17:41]",
             "verse": "And We have certainly diversified [the contents] in this Qur'an that mankind may be reminded, but it does not increase the disbelievers except in aversion.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:42]",
+            "verse-id": "[17:42]",
             "verse": "Say, [O Muhammad], \"If there had been with Him [other] gods, as they say, then they [each] would have sought to the Owner of the Throne a way.\"",
             "description": [
                 "That is, \"They would have themselves tried",
@@ -2011,14 +2012,14 @@
             ]
         },
         {
-            "id": "[17:43]",
+            "verse-id": "[17:43]",
             "verse": "Exalted is He and high above what they say by great sublimity.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:44]",
+            "verse-id": "[17:44]",
             "verse": "The seven heavens and the earth and whatever is in them exalt Him. And there is not a thing except that it exalts [Allah] by His praise, but you do not understand their [way of] exalting. Indeed, He is ever Forbearing and Forgiving.",
             "description": [
                 "That is, \"The whole of the universe",
@@ -2058,14 +2059,14 @@
             ]
         },
         {
-            "id": "[17:45]",
+            "verse-id": "[17:45]",
             "verse": "And when you recite the Qur'an, We put between you and those who do not believe in the Hereafter a concealed partition.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:46]",
+            "verse-id": "[17:46]",
             "verse": "And We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And when you mention your Lord alone in the Qur'an, they turn back in aversion.",
             "description": [
                 "This refers to the Divine law according",
@@ -2166,7 +2167,7 @@
             ]
         },
         {
-            "id": "[17:47]",
+            "verse-id": "[17:47]",
             "verse": "We are most knowing of how they listen to it when they listen to you and [of] when they are in private conversation, when the wrongdoers say, \"You follow not but a man affected by magic.\"",
             "description": [
                 "This refers to those devices which they",
@@ -2184,7 +2185,7 @@
             ]
         },
         {
-            "id": "[17:48]",
+            "verse-id": "[17:48]",
             "verse": "Look how they strike for you comparisons; but they have strayed, so they cannot [find] a way.",
             "description": [
                 "This is to say that they expressed",
@@ -2212,21 +2213,21 @@
             ]
         },
         {
-            "id": "[17:49]",
+            "verse-id": "[17:49]",
             "verse": "And they say, \"When we are bones and crumbled particles, will we [truly] be resurrected as a new creation?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:50]",
+            "verse-id": "[17:50]",
             "verse": "Say, \"Be you stones or iron",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:51]",
+            "verse-id": "[17:51]",
             "verse": "Or [any] creation of that which is great within your breasts.\" And they will say, \"Who will restore us?\" Say, \"He who brought you forth the first time.\" Then they will nod their heads toward you and say, \"When is that?\" Say, \"Perhaps it will be soon -",
             "description": [
                 "\"They will shake their heads at you\"",
@@ -2235,7 +2236,7 @@
             ]
         },
         {
-            "id": "[17:52]",
+            "verse-id": "[17:52]",
             "verse": "On the Day He will call you and you will respond with praise of Him and think that you had not remained [in the world] except for a little.\"",
             "description": [
                 "That is, \"You will feel as if",
@@ -2265,7 +2266,7 @@
             ]
         },
         {
-            "id": "[17:53]",
+            "verse-id": "[17:53]",
             "verse": "And tell My servants to say that which is best. Indeed, Satan induces [dissension] among them. Indeed Satan is ever, to mankind, a clear enemy.",
             "description": [
                 "\"The believers.\"",
@@ -2292,7 +2293,7 @@
             ]
         },
         {
-            "id": "[17:54]",
+            "verse-id": "[17:54]",
             "verse": "Your Lord is most knowing of you. If He wills, He will have mercy upon you; or if He wills, He will punish you. And We have not sent you, [O Muhammad], over them as a manager.",
             "description": [
                 "This is to warn the believers to",
@@ -2330,7 +2331,7 @@
             ]
         },
         {
-            "id": "[17:55]",
+            "verse-id": "[17:55]",
             "verse": "And your Lord is most knowing of whoever is in the heavens and the earth. And We have made some of the prophets exceed others [in various ways], and to David We gave the book [of Psalms].",
             "description": [
                 "Though this has apparently been addressed to",
@@ -2402,7 +2403,7 @@
             ]
         },
         {
-            "id": "[17:56]",
+            "verse-id": "[17:56]",
             "verse": "Say, \"Invoke those you have claimed [as gods] besides Him, for they do not possess the [ability for] removal of adversity from you or [for its] transfer [to someone else].\"",
             "description": [
                 "This warning helps to elaborate the Doctrine",
@@ -2428,7 +2429,7 @@
             ]
         },
         {
-            "id": "[17:57]",
+            "verse-id": "[17:57]",
             "verse": "Those whom they invoke seek means of access to their Lord, [striving as to] which of them would be nearest, and they hope for His mercy and fear His punishment. Indeed, the punishment of your Lord is ever feared.",
             "description": [
                 "The words of the text are a",
@@ -2447,7 +2448,7 @@
             ]
         },
         {
-            "id": "[17:58]",
+            "verse-id": "[17:58]",
             "verse": "And there is no city but that We will destroy it before the Day of Resurrection or punish it with a severe punishment. That has ever been in the Register inscribed.",
             "description": [
                 "This is to remove the delusion of",
@@ -2459,7 +2460,7 @@
             ]
         },
         {
-            "id": "[17:59]",
+            "verse-id": "[17:59]",
             "verse": "And nothing has prevented Us from sending signs except that the former peoples denied them. And We gave Thamud the she-camel as a visible sign, but they wronged her. And We send not the signs except as a warning.",
             "description": [
                 "Here \"Signs\" mean those visible miracles which",
@@ -2490,7 +2491,7 @@
             ]
         },
         {
-            "id": "[17:60]",
+            "verse-id": "[17:60]",
             "verse": "And [remember, O Muhammad], when We told you, \"Indeed, your Lord has encompassed the people.\" And We did not make the sight which We showed you except as a trial for the people, as was the accursed tree [mentioned] in the Qur'an. And We threaten them, but it increases them not except in great transgression.",
             "description": [
                 "That is, \"At the very beginning of",
@@ -2553,7 +2554,7 @@
             ]
         },
         {
-            "id": "[17:61]",
+            "verse-id": "[17:61]",
             "verse": "And [mention] when We said to the angles, \"Prostrate to Adam,\" and they prostrated, except for Iblees. He said, \"Should I prostrate to one You created from clay?\"",
             "description": [
                 "That is, We showed you such things",
@@ -2590,7 +2591,7 @@
             ]
         },
         {
-            "id": "[17:62]",
+            "verse-id": "[17:62]",
             "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me until the Day of Resurrection, I will surely destroy his descendants, except for a few.\"",
             "description": [
                 "That is, \"I will uproot them from",
@@ -2602,14 +2603,14 @@
             ]
         },
         {
-            "id": "[17:63]",
+            "verse-id": "[17:63]",
             "verse": "[Allah] said, \"Go, for whoever of them follows you, indeed Hell will be the recompense of you - an ample recompense.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:64]",
+            "verse-id": "[17:64]",
             "verse": "And incite [to senselessness] whoever you can among them with your voice and assault them with your horses and foot soldiers and become a partner in their wealth and their children and promise them.\" But Satan does not promise them except delusion.",
             "description": [
                 "The literal meaning of the Arabic Text",
@@ -2652,7 +2653,7 @@
             ]
         },
         {
-            "id": "[17:65]",
+            "verse-id": "[17:65]",
             "verse": "Indeed, over My [believing] servants there is for you no authority. And sufficient is your Lord as Disposer of affairs.",
             "description": [
                 "It has two meanings: (1) \"You will",
@@ -2686,7 +2687,7 @@
             ]
         },
         {
-            "id": "[17:66]",
+            "verse-id": "[17:66]",
             "verse": "It is your Lord who drives the ship for you through the sea that you may seek of His bounty. Indeed, He is ever, to you, Merciful.",
             "description": [
                 "This passage (vv. 66-72) is closely connected",
@@ -2713,7 +2714,7 @@
             ]
         },
         {
-            "id": "[17:67]",
+            "verse-id": "[17:67]",
             "verse": "And when adversity touches you at sea, lost are [all] those you invoke except for Him. But when He delivers you to the land, you turn away [from Him]. And ever is man ungrateful.",
             "description": [
                 "That is, \"This is a proof of",
@@ -2729,21 +2730,21 @@
             ]
         },
         {
-            "id": "[17:68]",
+            "verse-id": "[17:68]",
             "verse": "Then do you feel secure that [instead] He will not cause a part of the land to swallow you or send against you a storm of stones? Then you would not find for yourselves an advocate.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:69]",
+            "verse-id": "[17:69]",
             "verse": "Or do you feel secure that He will not send you back into the sea another time and send upon you a hurricane of wind and drown you for what you denied? Then you would not find for yourselves against Us an avenger.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:70]",
+            "verse-id": "[17:70]",
             "verse": "And We have certainly honored the children of Adam and carried them on the land and sea and provided for them of the good things and preferred them over much of what We have created, with [definite] preference.",
             "description": [
                 "That is, \"It is an obvious fact",
@@ -2761,7 +2762,7 @@
             ]
         },
         {
-            "id": "[17:71]",
+            "verse-id": "[17:71]",
             "verse": "[Mention, O Muhammad], the Day We will call forth every people with their record [of deeds]. Then whoever is given his record in his right hand - those will read their records, and injustice will not be done to them, [even] as much as a thread [inside the date seed].",
             "description": [
                 "We learn from the Qur'an that on",
@@ -2778,14 +2779,14 @@
             ]
         },
         {
-            "id": "[17:72]",
+            "verse-id": "[17:72]",
             "verse": "And whoever is blind in this [life] will be blind in the Hereafter and more astray in way.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:73]",
+            "verse-id": "[17:73]",
             "verse": "And indeed, they were about to tempt you away from that which We revealed to you in order to [make] you invent about Us something else; and then they would have taken you as a friend.",
             "description": [
                 "In order to understand the significance of",
@@ -2810,14 +2811,14 @@
             ]
         },
         {
-            "id": "[17:74]",
+            "verse-id": "[17:74]",
             "verse": "And if We had not strengthened you, you would have almost inclined to them a little.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:75]",
+            "verse-id": "[17:75]",
             "verse": "Then [if you had], We would have made you taste double [punishment in] life and double [after] death. Then you would not find for yourself against Us a helper.",
             "description": [
                 "This review implies two things: (1) \"If",
@@ -2839,7 +2840,7 @@
             ]
         },
         {
-            "id": "[17:76]",
+            "verse-id": "[17:76]",
             "verse": "And indeed, they were about to drive you from the land to evict you therefrom. And then [when they do], they will not remain [there] after you, except for a little.",
             "description": [
                 "This was a clear prophecy which was",
@@ -2859,7 +2860,7 @@
             ]
         },
         {
-            "id": "[17:77]",
+            "verse-id": "[17:77]",
             "verse": "[That is Our] established way for those We had sent before you of Our messengers; and you will not find in Our way any alteration.",
             "description": [
                 "That is, \"This is how Allah has",
@@ -2873,7 +2874,7 @@
             ]
         },
         {
-            "id": "[17:78]",
+            "verse-id": "[17:78]",
             "verse": "Establish prayer at the decline of the sun [from its meridian] until the darkness of the night and [also] the Qur'an of dawn. Indeed, the recitation of dawn is ever witnessed.",
             "description": [
                 "The Muslims have been commanded to establish",
@@ -3062,7 +3063,7 @@
             ]
         },
         {
-            "id": "[17:79]",
+            "verse-id": "[17:79]",
             "verse": "And from [part of] the night, pray with it as additional [worship] for you; it is expected that your Lord will resurrect you to a praised station.",
             "description": [
                 "The literal meaning of \"Tahajjud\" is to",
@@ -3099,7 +3100,7 @@
             ]
         },
         {
-            "id": "[17:80]",
+            "verse-id": "[17:80]",
             "verse": "And say, \"My Lord, cause me to enter a sound entrance and to exit a sound exit and grant me from Yourself a supporting authority.\"",
             "description": [
                 "This prayer clearly shows that the time",
@@ -3148,7 +3149,7 @@
             ]
         },
         {
-            "id": "[17:81]",
+            "verse-id": "[17:81]",
             "verse": "And say, \"Truth has come, and falsehood has departed. Indeed is falsehood, [by nature], ever bound to depart.\"",
             "description": [
                 "At the time of this declaration, the",
@@ -3184,7 +3185,7 @@
             ]
         },
         {
-            "id": "[17:82]",
+            "verse-id": "[17:82]",
             "verse": "And We send down of the Qur'an that which is healing and mercy for the believers, but it does not increase the wrongdoers except in loss.",
             "description": [
                 "That is, \"Those people who make the",
@@ -3228,21 +3229,21 @@
             ]
         },
         {
-            "id": "[17:83]",
+            "verse-id": "[17:83]",
             "verse": "And when We bestow favor upon the disbeliever, he turns away and distances himself; and when evil touches him, he is ever despairing.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:84]",
+            "verse-id": "[17:84]",
             "verse": "Say, \"Each works according to his manner, but your Lord is most knowing of who is best guided in way.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:85]",
+            "verse-id": "[17:85]",
             "verse": "And they ask you, [O Muhammad], about the soul. Say, \"The soul is of the affair of my Lord. And mankind have not been given of knowledge except a little.\"",
             "description": [
                 "It is generally understood that the Arabic",
@@ -3309,14 +3310,14 @@
             ]
         },
         {
-            "id": "[17:86]",
+            "verse-id": "[17:86]",
             "verse": "And if We willed, We could surely do away with that which We revealed to you. Then you would not find for yourself concerning it an advocate against Us.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:87]",
+            "verse-id": "[17:87]",
             "verse": "Except [We have left it with you] as a mercy from your Lord. Indeed, His favor upon you has ever been great.",
             "description": [
                 "Though these words arc apparently addressed by",
@@ -3338,7 +3339,7 @@
             ]
         },
         {
-            "id": "[17:88]",
+            "verse-id": "[17:88]",
             "verse": "Say, \"If mankind and the jinn gathered in order to produce the like of this Qur'an, they could not produce the like of it, even if they were to each other assistants.\"",
             "description": [
                 "This challenge occurs at several other places",
@@ -3419,35 +3420,35 @@
             ]
         },
         {
-            "id": "[17:89]",
+            "verse-id": "[17:89]",
             "verse": "And We have certainly diversified for the people in this Qur'an from every [kind] of example, but most of the people refused [anything] except disbelief.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:90]",
+            "verse-id": "[17:90]",
             "verse": "And they say, \"We will not believe you until you break open for us from the ground a spring.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:91]",
+            "verse-id": "[17:91]",
             "verse": "Or [until] you have a garden of palm tress and grapes and make rivers gush forth within them in force [and abundance]",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:92]",
+            "verse-id": "[17:92]",
             "verse": "Or you make the heaven fall upon us in fragments as you have claimed or you bring Allah and the angels before [us]",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:93]",
+            "verse-id": "[17:93]",
             "verse": "Or you have a house of gold or you ascend into the sky. And [even then], we will not believe in your ascension until you bring down to us a book we may read.\" Say, \"Exalted is my Lord! Was I ever but a human messenger?\"",
             "description": [
                 "This is the second answer to the",
@@ -3508,7 +3509,7 @@
             ]
         },
         {
-            "id": "[17:94]",
+            "verse-id": "[17:94]",
             "verse": "And what prevented the people from believing when guidance came to them except that they said, \"Has Allah sent a human messenger?\"",
             "description": [
                 "It implies that this misunderstanding has always",
@@ -3532,7 +3533,7 @@
             ]
         },
         {
-            "id": "[17:95]",
+            "verse-id": "[17:95]",
             "verse": "Say, \"If there were upon the earth angels walking securely, We would have sent down to them from the heaven an angel [as a] messenger.\"",
             "description": [
                 "This is to say that Messenger dces",
@@ -3567,7 +3568,7 @@
             ]
         },
         {
-            "id": "[17:96]",
+            "verse-id": "[17:96]",
             "verse": "Say, \"Sufficient is Allah as Witness between me and you. Indeed he is ever, concerning His servants, Acquainted and Seeing.\"",
             "description": [
                 "That is, \"Allah is fully aware of",
@@ -3580,7 +3581,7 @@
             ]
         },
         {
-            "id": "[17:97]",
+            "verse-id": "[17:97]",
             "verse": "And whoever Allah guides - he is the [rightly] guided; and whoever He sends astray - you will never find for them protectors besides Him, and We will gather them on the Day of Resurrection [fallen] on their faces - blind, dumb and deaf. Their refuge is Hell; every time it subsides We increase them in blazing fire.",
             "description": [
                 "In this verse, the Qur'an has enunciated",
@@ -3612,21 +3613,21 @@
             ]
         },
         {
-            "id": "[17:98]",
+            "verse-id": "[17:98]",
             "verse": "That is their recompense because they disbelieved in Our verses and said, \"When we are bones and crumbled particles, will we [truly] be resurrected [in] a new creation?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:99]",
+            "verse-id": "[17:99]",
             "verse": "Do they not see that Allah, who created the heavens and earth, is [the one] Able to create the likes of them? And He has appointed for them a term, about which there is no doubt. But the wrongdoers refuse [anything] except disbelief.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:100]",
+            "verse-id": "[17:100]",
             "verse": "Say [to them], \"If you possessed the depositories of the mercy of my Lord, then you would withhold out of fear of spending.\" And ever has man been stingy.",
             "description": [
                 "This verse also suggests the same thing",
@@ -3648,7 +3649,7 @@
             ]
         },
         {
-            "id": "[17:101]",
+            "verse-id": "[17:101]",
             "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\"",
             "description": [
                 "It should be noted that this is",
@@ -3747,7 +3748,7 @@
             ]
         },
         {
-            "id": "[17:102]",
+            "verse-id": "[17:102]",
             "verse": "[Moses] said, \"You have already known that none has sent down these [signs] except the Lord of the heavens and the earth as evidence, and indeed I think, O Pharaoh, that you are destroyed.\"",
             "description": [
                 "Moses could say these words categorically that",
@@ -3778,14 +3779,14 @@
             ]
         },
         {
-            "id": "[17:103]",
+            "verse-id": "[17:103]",
             "verse": "So he intended to drive them from the land, but We drowned him and those with him all together.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:104]",
+            "verse-id": "[17:104]",
             "verse": "And We said after Pharaoh to the Children of Israel, \"Dwell in the land, and when there comes the promise of the Hereafter, We will bring you forth in [one] gathering.\"",
             "description": [
                 "This part of the story of Pharaoh",
@@ -3804,7 +3805,7 @@
             ]
         },
         {
-            "id": "[17:105]",
+            "verse-id": "[17:105]",
             "verse": "And with the truth We have sent the Qur'an down, and with the truth it has descended. And We have not sent you, [O Muhammad], except as a bringer of good tidings and a warner.",
             "description": [
                 "That is, \"It is not your responsibility",
@@ -3824,7 +3825,7 @@
             ]
         },
         {
-            "id": "[17:106]",
+            "verse-id": "[17:106]",
             "verse": "And [it is] a Qur'an which We have separated [by intervals] that you might recite it to the people over a prolonged period. And We have sent it down progressively.",
             "description": [
                 "This is an answer to this objection:",
@@ -3840,7 +3841,7 @@
             ]
         },
         {
-            "id": "[17:107]",
+            "verse-id": "[17:107]",
             "verse": "Say, \"Believe in it or do not believe. Indeed, those who were given knowledge before it - when it is recited to them, they fall upon their faces in prostration,",
             "description": [
                 "This refers to those people of the",
@@ -3850,14 +3851,14 @@
             ]
         },
         {
-            "id": "[17:108]",
+            "verse-id": "[17:108]",
             "verse": "And they say, \"Exalted is our Lord! Indeed, the promise of our Lord has been fulfilled.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[17:109]",
+            "verse-id": "[17:109]",
             "verse": "And they fall upon their faces weeping, and the Qur'an increases them in humble submission.",
             "description": [
                 "That is, \"When they listen to the",
@@ -3872,7 +3873,7 @@
             ]
         },
         {
-            "id": "[17:110]",
+            "verse-id": "[17:110]",
             "verse": "Say, \"Call upon Allah or call upon the Most Merciful. Whichever [name] you call - to Him belong the best names.\" And do not recite [too] loudly in your prayer or [too] quietly but seek between that an [intermediate] way.",
             "description": [
                 "This is the answer to another objection",
@@ -3903,7 +3904,7 @@
             ]
         },
         {
-            "id": "[17:111]",
+            "verse-id": "[17:111]",
             "verse": "And say, \"Praise to Allah, who has not taken a son and has had no partner in [His] dominion and has no [need of a] protector out of weakness; and glorify Him with [great] glorification.\"",
             "description": [
                 "A subtle sarcasm is implied in the",

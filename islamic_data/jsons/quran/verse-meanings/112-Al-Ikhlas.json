@@ -1,9 +1,10 @@
 {
     "name": "Al-Ikhlas",
+    "id": 112,
     "verse-count": 4,
     "verse-info": [
         {
-            "id": "[112:1]",
+            "verse-id": "[112:1]",
             "verse": "Say, \"He is Allah, [who is] One,",
             "description": [
                 "The first addressee of this Command is",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "id": "[112:2]",
+            "verse-id": "[112:2]",
             "verse": "Allah, the Eternal Refuge.",
             "description": [
                 "The word used in the original is",
@@ -384,7 +385,7 @@
             ]
         },
         {
-            "id": "[112:3]",
+            "verse-id": "[112:3]",
             "verse": "He neither begets nor is born,",
             "description": [
                 "The polytheists in every age have adopted",
@@ -558,7 +559,7 @@
             ]
         },
         {
-            "id": "[112:4]",
+            "verse-id": "[112:4]",
             "verse": "Nor is there to Him any equivalent.\"",
             "description": [
                 "The word kufu' as used in the",

@@ -1,16 +1,17 @@
 {
     "name": "Luqman",
+    "id": 31,
     "verse-count": 34,
     "verse-info": [
         {
-            "id": "[31:1]",
+            "verse-id": "[31:1]",
             "verse": "Alif, Lam, Meem.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[31:2]",
+            "verse-id": "[31:2]",
             "verse": "These are verses of the wise Book,",
             "description": [
                 "That is, \"verses of the Book which",
@@ -19,7 +20,7 @@
             ]
         },
         {
-            "id": "[31:3]",
+            "verse-id": "[31:3]",
             "verse": "As guidance and mercy for the doers of good",
             "description": [
                 "That is, \"These verses give guidance to",
@@ -40,7 +41,7 @@
             ]
         },
         {
-            "id": "[31:4]",
+            "verse-id": "[31:4]",
             "verse": "Who establish prayer and give zakah, and they, of the Hereafter, are certain [in faith].",
             "description": [
                 "It does not mean that \"the righteous",
@@ -88,7 +89,7 @@
             ]
         },
         {
-            "id": "[31:5]",
+            "verse-id": "[31:5]",
             "verse": "Those are on [right] guidance from their Lord, and it is those who are the successful.",
             "description": [
                 "At the time when these verses were",
@@ -121,7 +122,7 @@
             ]
         },
         {
-            "id": "[31:6]",
+            "verse-id": "[31:6]",
             "verse": "And of the people is he who buys the amusement of speech to mislead [others] from the way of Allah without knowledge and who takes it in ridicule. Those will have a humiliating punishment.",
             "description": [
                 "That is, \"On the one hand, there",
@@ -302,14 +303,14 @@
             ]
         },
         {
-            "id": "[31:7]",
+            "verse-id": "[31:7]",
             "verse": "And when our verses are recited to him, he turns away arrogantly as if he had not heard them, as if there was in his ears deafness. So give him tidings of a painful punishment.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[31:8]",
+            "verse-id": "[31:8]",
             "verse": "Indeed, those who believe and do righteous deeds - for them are the Gardens of Pleasure.",
             "description": [
                 "Instead of saying 'There are blessings of",
@@ -329,7 +330,7 @@
             ]
         },
         {
-            "id": "[31:9]",
+            "verse-id": "[31:9]",
             "verse": "Wherein they abide eternally; [it is] the promise of Allah [which is] truth. And He is the Exalted in Might, the Wise.",
             "description": [
                 "That is, \"Nothing can withhold Him from",
@@ -358,7 +359,7 @@
             ]
         },
         {
-            "id": "[31:10]",
+            "verse-id": "[31:10]",
             "verse": "He created the heavens without pillars that you see and has cast into the earth firmly set mountains, lest it should shift with you, and dispersed therein from every creature. And We sent down rain from the sky and made grow therein [plants] of every noble kind.",
             "description": [
                 "After the above introductory sentence, the discourse",
@@ -395,7 +396,7 @@
             ]
         },
         {
-            "id": "[31:11]",
+            "verse-id": "[31:11]",
             "verse": "This is the creation of Allah. So show Me what those other than Him have created. Rather, the wrongdoers are in clear error.",
             "description": [
                 "\"These others\" 'the beings whom you havc",
@@ -437,7 +438,7 @@
             ]
         },
         {
-            "id": "[31:12]",
+            "verse-id": "[31:12]",
             "verse": "And We had certainly given Luqman wisdom [and said], \"Be grateful to Allah.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allah is Free of need and Praiseworthy.",
             "description": [
                 "After presenting a rational argument to refute",
@@ -600,7 +601,7 @@
             ]
         },
         {
-            "id": "[31:13]",
+            "verse-id": "[31:13]",
             "verse": "And [mention, O Muhammad], when Luqman said to his son while he was instructing him, \"O my son, do not associate [anything] with Allah. Indeed, association [with him] is great injustice.\"",
             "description": [
                 "This particular admonition from the wisdom of",
@@ -669,7 +670,7 @@
             ]
         },
         {
-            "id": "[31:14]",
+            "verse-id": "[31:14]",
             "verse": "And We have enjoined upon man [care] for his parents. His mother carried him, [increasing her] in weakness upon weakness, and his weaning is in two years. Be grateful to Me and to your parents; to Me is the [final] destination.",
             "description": [
                 "The whole passage from lure to the",
@@ -719,7 +720,7 @@
             ]
         },
         {
-            "id": "[31:15]",
+            "verse-id": "[31:15]",
             "verse": "But if they endeavor to make you associate with Me that of which you have no knowledge, do not obey them but accompany them in [this] world with appropriate kindness and follow the way of those who turn back to Me [in repentance]. Then to Me will be your return, and I will inform you about what you used to do.",
             "description": [
                 "That is, \"About wham you have no",
@@ -733,7 +734,7 @@
             ]
         },
         {
-            "id": "[31:16]",
+            "verse-id": "[31:16]",
             "verse": "[And Luqman said], \"O my son, indeed if wrong should be the weight of a mustard seed and should be within a rock or [anywhere] in the heavens or in the earth, Allah will bring it forth. Indeed, Allah is Subtle and Acquainted.",
             "description": [
                 "The other admonitions of Luqman are being",
@@ -762,7 +763,7 @@
             ]
         },
         {
-            "id": "[31:17]",
+            "verse-id": "[31:17]",
             "verse": "O my son, establish prayer, enjoin what is right, forbid what is wrong, and be patient over what befalls you. Indeed, [all] that is of the matters [requiring] determination.",
             "description": [
                 "In this there is a subtle allusion",
@@ -779,7 +780,7 @@
             ]
         },
         {
-            "id": "[31:18]",
+            "verse-id": "[31:18]",
             "verse": "And do not turn your cheek [in contempt] toward people and do not walk through the earth exultantly. Indeed, Allah does not like everyone self-deluded and boastful.",
             "description": [
                 "Tusa'ir in the original is from se",
@@ -801,7 +802,7 @@
             ]
         },
         {
-            "id": "[31:19]",
+            "verse-id": "[31:19]",
             "verse": "And be moderate in your pace and lower your voice; indeed, the most disagreeable of sounds is the voice of donkeys.\"",
             "description": [
                 "According to some commentators it means this:",
@@ -916,7 +917,7 @@
             ]
         },
         {
-            "id": "[31:20]",
+            "verse-id": "[31:20]",
             "verse": "Do you not see that Allah has made subject to you whatever is in the heavens and whatever is in the earth and amply bestowed upon you His favors, [both] apparent and unapparent? But of the people is he who disputes about Allah without knowledge or guidance or an enlightening Book [from Him].",
             "description": [
                 "A thing can be subjected to somebody",
@@ -978,7 +979,7 @@
             ]
         },
         {
-            "id": "[31:21]",
+            "verse-id": "[31:21]",
             "verse": "And when it is said to them, \"Follow what Allah has revealed,\" they say, \"Rather, we will follow that upon which we found our fathers.\" Even if Satan was inviting them to the punishment of the Blaze?",
             "description": [
                 "That is, It is not at aII",
@@ -997,7 +998,7 @@
             ]
         },
         {
-            "id": "[31:22]",
+            "verse-id": "[31:22]",
             "verse": "And whoever submits his face to Allah while he is a doer of good - then he has grasped the most trustworthy handhold. And to Allah will be the outcome of [all] matters.",
             "description": [
                 "\"Whoever........Allah\": Who submits himself wholly to the",
@@ -1016,7 +1017,7 @@
             ]
         },
         {
-            "id": "[31:23]",
+            "verse-id": "[31:23]",
             "verse": "And whoever has disbelieved - let not his disbelief grieve you. To Us is their return, and We will inform them of what they did. Indeed, Allah is Knowing of that within the breasts.",
             "description": [
                 "This means to say, \"O Prophet, the",
@@ -1031,14 +1032,14 @@
             ]
         },
         {
-            "id": "[31:24]",
+            "verse-id": "[31:24]",
             "verse": "We grant them enjoyment for a little; then We will force them to a massive punishment.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[31:25]",
+            "verse-id": "[31:25]",
             "verse": "And if you asked them, \"Who created the heavens and earth?\" they would surely say, \"Allah.\" Say, \"[All] praise is [due] to Allah \"; but most of them do not know.",
             "description": [
                 "That is, \"Thank God that you at",
@@ -1089,7 +1090,7 @@
             ]
         },
         {
-            "id": "[31:26]",
+            "verse-id": "[31:26]",
             "verse": "To Allah belongs whatever is in the heavens and earth. Indeed, Allah is the Free of need, the Praiseworthy.",
             "description": [
                 "This has been explained in E. N.",
@@ -1097,7 +1098,7 @@
             ]
         },
         {
-            "id": "[31:27]",
+            "verse-id": "[31:27]",
             "verse": "And if whatever trees upon the earth were pens and the sea [was ink], replenished thereafter by seven [more] seas, the words of Allah would not be exhausted. Indeed, Allah is Exalted in Might and Wise.",
             "description": [
                 "\"Allah's Words\": Allah's creative works and the",
@@ -1142,7 +1143,7 @@
             ]
         },
         {
-            "id": "[31:28]",
+            "verse-id": "[31:28]",
             "verse": "Your creation and your resurrection will not be but as that of a single soul. Indeed, Allah is Hearing and Seeing.",
             "description": [
                 "That is, 'He is hearing every sound",
@@ -1171,7 +1172,7 @@
             ]
         },
         {
-            "id": "[31:29]",
+            "verse-id": "[31:29]",
             "verse": "Do you not see that Allah causes the night to enter the day and causes the day to enter the night and has subjected the sun and the moon, each running [its course] for a specified term, and that Allah, with whatever you do, is Acquainted?",
             "description": [
                 "That is, \"The appearance and alternation of",
@@ -1205,7 +1206,7 @@
             ]
         },
         {
-            "id": "[31:30]",
+            "verse-id": "[31:30]",
             "verse": "That is because Allah is the Truth, and that what they call upon other than Him is falsehood, and because Allah is the Most High, the Grand.",
             "description": [
                 "That is, the real Sovereign is Allah.",
@@ -1228,7 +1229,7 @@
             ]
         },
         {
-            "id": "[31:31]",
+            "verse-id": "[31:31]",
             "verse": "Do you not see that ships sail through the sea by the favor of Allah that He may show you of His signs? Indeed in that are signs for everyone patient and grateful.",
             "description": [
                 "That is, \"Such Signs as show that",
@@ -1278,7 +1279,7 @@
             ]
         },
         {
-            "id": "[31:32]",
+            "verse-id": "[31:32]",
             "verse": "And when waves come over them like canopies, they supplicate Allah, sincere to Him in religion. But when He delivers them to the land, there are [some] of them who are moderate [in faith]. And none rejects Our signs except everyone treacherous and ungrateful.",
             "description": [
                 "\"Iqtisad\" in the original may mean uprightness",
@@ -1355,7 +1356,7 @@
             ]
         },
         {
-            "id": "[31:33]",
+            "verse-id": "[31:33]",
             "verse": "O mankind, fear your Lord and fear a Day when no father will avail his son, nor will a son avail his father at all. Indeed, the promise of Allah is truth, so let not the worldly life delude you and be not deceived about Allah by the Deceiver.",
             "description": [
                 "That is, \"The relationship of a person",
@@ -1478,7 +1479,7 @@
             ]
         },
         {
-            "id": "[31:34]",
+            "verse-id": "[31:34]",
             "verse": "Indeed, Allah [alone] has knowledge of the Hour and sends down the rain and knows what is in the wombs. And no soul perceives what it will earn tomorrow, and no soul perceives in what land it will die. Indeed, Allah is Knowing and Acquainted.",
             "description": [
                 "This verse is, in fact an answer",

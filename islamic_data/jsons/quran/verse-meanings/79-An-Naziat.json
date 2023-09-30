@@ -1,37 +1,38 @@
 {
     "name": "An-Naziat",
+    "id": 79,
     "verse-count": 46,
     "verse-info": [
         {
-            "id": "[79:1]",
+            "verse-id": "[79:1]",
             "verse": "By those [angels] who extract with violence",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:2]",
+            "verse-id": "[79:2]",
             "verse": "And [by] those who remove with ease",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:3]",
+            "verse-id": "[79:3]",
             "verse": "And [by] those who glide [as if] swimming",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:4]",
+            "verse-id": "[79:4]",
             "verse": "And those who race each other in a race",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:5]",
+            "verse-id": "[79:5]",
             "verse": "And those who arrange [each] matter,",
             "description": [
                 "Here, the object for which an oath",
@@ -129,14 +130,14 @@
             ]
         },
         {
-            "id": "[79:6]",
+            "verse-id": "[79:6]",
             "verse": "On the Day the blast [of the Horn] will convulse [creation],",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:7]",
+            "verse-id": "[79:7]",
             "verse": "There will follow it the subsequent [one].",
             "description": [
                 "The first jolt implies the jolt which",
@@ -156,7 +157,7 @@
             ]
         },
         {
-            "id": "[79:8]",
+            "verse-id": "[79:8]",
             "verse": "Hearts, that Day, will tremble,",
             "description": [
                 "\"Some hearts\", because, according to the Qur'an,",
@@ -173,28 +174,28 @@
             ]
         },
         {
-            "id": "[79:9]",
+            "verse-id": "[79:9]",
             "verse": "Their eyes humbled.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:10]",
+            "verse-id": "[79:10]",
             "verse": "They are [presently] saying, \"Will we indeed be returned to [our] former state [of life]?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:11]",
+            "verse-id": "[79:11]",
             "verse": "Even if we should be decayed bones?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:12]",
+            "verse-id": "[79:12]",
             "verse": "They say, \"That, then, would be a losing return.\"",
             "description": [
                 "That is, when they were told that",
@@ -207,14 +208,14 @@
             ]
         },
         {
-            "id": "[79:13]",
+            "verse-id": "[79:13]",
             "verse": "Indeed, it will be but one shout,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:14]",
+            "verse-id": "[79:14]",
             "verse": "And suddenly they will be [alert] upon the earth's surface.",
             "description": [
                 "That is, \"They are mocking it as",
@@ -235,14 +236,14 @@
             ]
         },
         {
-            "id": "[79:15]",
+            "verse-id": "[79:15]",
             "verse": "Has there reached you the story of Moses? -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:16]",
+            "verse-id": "[79:16]",
             "verse": "When his Lord called to him in the sacred valley of Tuwa,",
             "description": [
                 "As the denial of the Resurrection and",
@@ -263,14 +264,14 @@
             ]
         },
         {
-            "id": "[79:17]",
+            "verse-id": "[79:17]",
             "verse": "\"Go to Pharaoh. Indeed, he has transgressed.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:18]",
+            "verse-id": "[79:18]",
             "verse": "And say to him, 'Would you [be willing to] purify yourself",
             "description": [
                 "According to general opinion among the commentators",
@@ -293,7 +294,7 @@
             ]
         },
         {
-            "id": "[79:19]",
+            "verse-id": "[79:19]",
             "verse": "And let me guide you to your Lord so you would fear [Him]?'\"",
             "description": [
                 "Here, one should understand a few things",
@@ -394,7 +395,7 @@
             ]
         },
         {
-            "id": "[79:20]",
+            "verse-id": "[79:20]",
             "verse": "And he showed him the greatest sign,",
             "description": [
                 "\"The great Sign\" : the turning of",
@@ -415,14 +416,14 @@
             ]
         },
         {
-            "id": "[79:21]",
+            "verse-id": "[79:21]",
             "verse": "But Pharaoh denied and disobeyed.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:22]",
+            "verse-id": "[79:22]",
             "verse": "Then he turned his back, striving.",
             "description": [
                 "According to the details given at other",
@@ -443,14 +444,14 @@
             ]
         },
         {
-            "id": "[79:23]",
+            "verse-id": "[79:23]",
             "verse": "And he gathered [his people] and called out",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:24]",
+            "verse-id": "[79:24]",
             "verse": "And said, \"I am your most exalted lord.\"",
             "description": [
                 "This proclamation of Pharaoh has been mentioned",
@@ -499,14 +500,14 @@
             ]
         },
         {
-            "id": "[79:25]",
+            "verse-id": "[79:25]",
             "verse": "So Allah seized him in exemplary punishment for the last and the first [transgression].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:26]",
+            "verse-id": "[79:26]",
             "verse": "Indeed in that is a warning for whoever would fear [Allah].",
             "description": [
                 "\"...who fears\": who fears the consequences of",
@@ -515,7 +516,7 @@
             ]
         },
         {
-            "id": "[79:27]",
+            "verse-id": "[79:27]",
             "verse": "Are you a more difficult creation or is the heaven? Allah constructed it.",
             "description": [
                 "Now arguments are being given for the",
@@ -556,14 +557,14 @@
             ]
         },
         {
-            "id": "[79:28]",
+            "verse-id": "[79:28]",
             "verse": "He raised its ceiling and proportioned it.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:29]",
+            "verse-id": "[79:29]",
             "verse": "And He darkened its night and extracted its brightness.",
             "description": [
                 "The night and the day have been",
@@ -579,7 +580,7 @@
             ]
         },
         {
-            "id": "[79:30]",
+            "verse-id": "[79:30]",
             "verse": "And after that He spread the earth.",
             "description": [
                 "\"After that He spread out the earth\"",
@@ -631,7 +632,7 @@
             ]
         },
         {
-            "id": "[79:31]",
+            "verse-id": "[79:31]",
             "verse": "He extracted from it its water and its pasture,",
             "description": [
                 "\"Pasture\" here dces not only imply pasture",
@@ -653,14 +654,14 @@
             ]
         },
         {
-            "id": "[79:32]",
+            "verse-id": "[79:32]",
             "verse": "And the mountains He set firmly",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:33]",
+            "verse-id": "[79:33]",
             "verse": "As provision for you and your grazing livestock.",
             "description": [
                 "In these verses arguments have been given",
@@ -738,7 +739,7 @@
             ]
         },
         {
-            "id": "[79:34]",
+            "verse-id": "[79:34]",
             "verse": "But when there comes the greatest Overwhelming Calamity -",
             "description": [
                 "This implies the Resurrection for which the",
@@ -752,7 +753,7 @@
             ]
         },
         {
-            "id": "[79:35]",
+            "verse-id": "[79:35]",
             "verse": "The Day when man will remember that for which he strove,",
             "description": [
                 "That is, \"When man will see that",
@@ -771,42 +772,42 @@
             ]
         },
         {
-            "id": "[79:36]",
+            "verse-id": "[79:36]",
             "verse": "And Hellfire will be exposed for [all] those who see -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:37]",
+            "verse-id": "[79:37]",
             "verse": "So as for he who transgressed",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:38]",
+            "verse-id": "[79:38]",
             "verse": "And preferred the life of the world,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:39]",
+            "verse-id": "[79:39]",
             "verse": "Then indeed, Hellfire will be [his] refuge.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:40]",
+            "verse-id": "[79:40]",
             "verse": "But as for he who feared the position of his Lord and prevented the soul from [unlawful] inclination,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:41]",
+            "verse-id": "[79:41]",
             "verse": "Then indeed, Paradise will be [his] refuge.",
             "description": [
                 "Here, in a few words, it has",
@@ -841,7 +842,7 @@
             ]
         },
         {
-            "id": "[79:42]",
+            "verse-id": "[79:42]",
             "verse": "They ask you, [O Muhammad], about the Hour: when is its arrival?",
             "description": [
                 "The disbelievers of Makkah asked this question",
@@ -854,21 +855,21 @@
             ]
         },
         {
-            "id": "[79:43]",
+            "verse-id": "[79:43]",
             "verse": "In what [position] are you that you should mention it?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:44]",
+            "verse-id": "[79:44]",
             "verse": "To your Lord is its finality.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[79:45]",
+            "verse-id": "[79:45]",
             "verse": "You are only a warner for those who fear it.",
             "description": [
                 "This also we have explained in E.N.",
@@ -883,7 +884,7 @@
             ]
         },
         {
-            "id": "[79:46]",
+            "verse-id": "[79:46]",
             "verse": "It will be, on the Day they see it, as though they had not remained [in the world] except for an afternoon or a morning thereof.",
             "description": [
                 "This theme has occurred at several places",

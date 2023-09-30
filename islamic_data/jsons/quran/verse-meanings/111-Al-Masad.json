@@ -1,9 +1,10 @@
 {
     "name": "Al-Masad",
+    "id": 111,
     "verse-count": 5,
     "verse-info": [
         {
-            "id": "[111:1]",
+            "verse-id": "[111:1]",
             "verse": "May the hands of Abu Lahab be ruined, and ruined is he.",
             "description": [
                 "His real name was 'Abd al-'Uzza, and",
@@ -81,7 +82,7 @@
             ]
         },
         {
-            "id": "[111:2]",
+            "verse-id": "[111:2]",
             "verse": "His wealth will not avail him or that which he gained.",
             "description": [
                 "Abu Lahab was a stingy, materialistic man.",
@@ -134,14 +135,14 @@
             ]
         },
         {
-            "id": "[111:3]",
+            "verse-id": "[111:3]",
             "verse": "He will [enter to] burn in a Fire of [blazing] flame",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[111:4]",
+            "verse-id": "[111:4]",
             "verse": "And his wife [as well] - the carrier of firewood.",
             "description": [
                 "Her name was Arwa' and her nickname",
@@ -208,7 +209,7 @@
             ]
         },
         {
-            "id": "[111:5]",
+            "verse-id": "[111:5]",
             "verse": "Around her neck is a rope of [twisted] fiber.",
             "description": [
                 "The word used for her neck is",

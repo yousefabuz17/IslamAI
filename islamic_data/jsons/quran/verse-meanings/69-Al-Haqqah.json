@@ -1,9 +1,10 @@
 {
     "name": "Al-Haqqah",
+    "id": 69,
     "verse-count": 52,
     "verse-info": [
         {
-            "id": "[69:1]",
+            "verse-id": "[69:1]",
             "verse": "The Inevitable Reality -",
             "description": [
                 "The word al-Haaqqah as used in the",
@@ -21,14 +22,14 @@
             ]
         },
         {
-            "id": "[69:2]",
+            "verse-id": "[69:2]",
             "verse": "What is the Inevitable Reality?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:3]",
+            "verse-id": "[69:3]",
             "verse": "And what can make you know what is the Inevitable Reality?",
             "description": [
                 "These two questions, one after the other,",
@@ -39,7 +40,7 @@
             ]
         },
         {
-            "id": "[69:4]",
+            "verse-id": "[69:4]",
             "verse": "Thamud and 'Aad denied the Striking Calamity.",
             "description": [
                 "As the disbelievers of Makkah denied Resurrection",
@@ -74,7 +75,7 @@
             ]
         },
         {
-            "id": "[69:5]",
+            "verse-id": "[69:5]",
             "verse": "So as for Thamud, they were destroyed by the overpowering [blast].",
             "description": [
                 "In Surah Al-A'raf: 78, it has been",
@@ -89,28 +90,28 @@
             ]
         },
         {
-            "id": "[69:6]",
+            "verse-id": "[69:6]",
             "verse": "And as for 'Aad, they were destroyed by a screaming, violent wind",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:7]",
+            "verse-id": "[69:7]",
             "verse": "Which Allah imposed upon them for seven nights and eight days in succession, so you would see the people therein fallen as if they were hollow trunks of palm trees.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:8]",
+            "verse-id": "[69:8]",
             "verse": "Then do you see of them any remains?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:9]",
+            "verse-id": "[69:9]",
             "verse": "And there came Pharaoh and those before him and the overturned cities with sin.",
             "description": [
                 "The reference is to the towns and",
@@ -121,14 +122,14 @@
             ]
         },
         {
-            "id": "[69:10]",
+            "verse-id": "[69:10]",
             "verse": "And they disobeyed the messenger of their Lord, so He seized them with a seizure exceeding [in severity].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:11]",
+            "verse-id": "[69:11]",
             "verse": "Indeed, when the water overflowed, We carried your ancestors in the sailing ship",
             "description": [
                 "The illusion is to the Deluge of",
@@ -149,7 +150,7 @@
             ]
         },
         {
-            "id": "[69:12]",
+            "verse-id": "[69:12]",
             "verse": "That We might make it for you a reminder and [that] a conscious ear would be conscious of it.",
             "description": [
                 "\"The retaining ears,..\": the ears which may",
@@ -164,7 +165,7 @@
             ]
         },
         {
-            "id": "[69:13]",
+            "verse-id": "[69:13]",
             "verse": "Then when the Horn is blown with one blast",
             "description": [
                 "While reading the following verses one should",
@@ -203,28 +204,28 @@
             ]
         },
         {
-            "id": "[69:14]",
+            "verse-id": "[69:14]",
             "verse": "And the earth and the mountains are lifted and leveled with one blow -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:15]",
+            "verse-id": "[69:15]",
             "verse": "Then on that Day, the Resurrection will occur,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:16]",
+            "verse-id": "[69:16]",
             "verse": "And the heaven will split [open], for that Day it is infirm.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:17]",
+            "verse-id": "[69:17]",
             "verse": "And the angels are at its edges. And there will bear the Throne of your Lord above them, that Day, eight [of them].",
             "description": [
                 "This is au ambiguous verse the meaning",
@@ -264,14 +265,14 @@
             ]
         },
         {
-            "id": "[69:18]",
+            "verse-id": "[69:18]",
             "verse": "That Day, you will be exhibited [for judgement]; not hidden among you is anything concealed.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:19]",
+            "verse-id": "[69:19]",
             "verse": "So as for he who is given his record in his right hand, he will say, \"Here, read my record!",
             "description": [
                 "The record's being given in the right",
@@ -318,7 +319,7 @@
             ]
         },
         {
-            "id": "[69:20]",
+            "verse-id": "[69:20]",
             "verse": "Indeed, I was certain that I would be meeting my account.\"",
             "description": [
                 "That is, \". He was fortunate because",
@@ -330,35 +331,35 @@
             ]
         },
         {
-            "id": "[69:21]",
+            "verse-id": "[69:21]",
             "verse": "So he will be in a pleasant life -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:22]",
+            "verse-id": "[69:22]",
             "verse": "In an elevated garden,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:23]",
+            "verse-id": "[69:23]",
             "verse": "Its [fruit] to be picked hanging near.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:24]",
+            "verse-id": "[69:24]",
             "verse": "[They will be told], \"Eat and drink in satisfaction for what you put forth in the days past.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:25]",
+            "verse-id": "[69:25]",
             "verse": "But as for he who is given his record in his left hand, he will say, \"Oh, I wish I had not been given my record",
             "description": [
                 "In Surah Al-Inshiqaq it has been said:",
@@ -381,7 +382,7 @@
             ]
         },
         {
-            "id": "[69:26]",
+            "verse-id": "[69:26]",
             "verse": "And had not known what is my account.",
             "description": [
                 "That is, \"I should not have been",
@@ -395,7 +396,7 @@
             ]
         },
         {
-            "id": "[69:27]",
+            "verse-id": "[69:27]",
             "verse": "I wish my death had been the decisive one.",
             "description": [
                 "That is, \"I should have become extinct",
@@ -405,14 +406,14 @@
             ]
         },
         {
-            "id": "[69:28]",
+            "verse-id": "[69:28]",
             "verse": "My wealth has not availed me.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:29]",
+            "verse-id": "[69:29]",
             "verse": "Gone from me is my authority.\"",
             "description": [
                 "The word sultan of the Text is",
@@ -434,35 +435,35 @@
             ]
         },
         {
-            "id": "[69:30]",
+            "verse-id": "[69:30]",
             "verse": "[Allah will say], \"Seize him and shackle him.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:31]",
+            "verse-id": "[69:31]",
             "verse": "Then into Hellfire drive him.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:32]",
+            "verse-id": "[69:32]",
             "verse": "Then into a chain whose length is seventy cubits insert him.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:33]",
+            "verse-id": "[69:33]",
             "verse": "Indeed, he did not used to believe in Allah, the Most Great,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:34]",
+            "verse-id": "[69:34]",
             "verse": "Nor did he encourage the feeding of the poor.",
             "description": [
                 "That is, not to speak of feeding",
@@ -472,28 +473,28 @@
             ]
         },
         {
-            "id": "[69:35]",
+            "verse-id": "[69:35]",
             "verse": "So there is not for him here this Day any devoted friend",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:36]",
+            "verse-id": "[69:36]",
             "verse": "Nor any food except from the discharge of wounds;",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:37]",
+            "verse-id": "[69:37]",
             "verse": "None will eat it except the sinners.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:38]",
+            "verse-id": "[69:38]",
             "verse": "So I swear by what you see",
             "description": [
                 "That is, the truth is not as",
@@ -501,14 +502,14 @@
             ]
         },
         {
-            "id": "[69:39]",
+            "verse-id": "[69:39]",
             "verse": "And what you do not see",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:40]",
+            "verse-id": "[69:40]",
             "verse": "[That] indeed, the Qur'an is the word of a noble Messenger.",
             "description": [
                 "Here, \"an honourable Messenger\" implies the Holy",
@@ -561,7 +562,7 @@
             ]
         },
         {
-            "id": "[69:41]",
+            "verse-id": "[69:41]",
             "verse": "And it is not the word of a poet; little do you believe.",
             "description": [
                 "One meaning of \"little it is that",
@@ -575,14 +576,14 @@
             ]
         },
         {
-            "id": "[69:42]",
+            "verse-id": "[69:42]",
             "verse": "Nor the word of a soothsayer; little do you remember.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:43]",
+            "verse-id": "[69:43]",
             "verse": "[It is] a revelation from the Lord of the worlds.",
             "description": [
                 "In short: \"I swear by whatever you",
@@ -699,28 +700,28 @@
             ]
         },
         {
-            "id": "[69:44]",
+            "verse-id": "[69:44]",
             "verse": "And if Muhammad had made up about Us some [false] sayings,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:45]",
+            "verse-id": "[69:45]",
             "verse": "We would have seized him by the right hand;",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:46]",
+            "verse-id": "[69:46]",
             "verse": "Then We would have cut from him the aorta.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:47]",
+            "verse-id": "[69:47]",
             "verse": "And there is no one of you who could prevent [Us] from him.",
             "description": [
                 "The object is to impress the point",
@@ -749,7 +750,7 @@
             ]
         },
         {
-            "id": "[69:48]",
+            "verse-id": "[69:48]",
             "verse": "And indeed, the Qur'an is a reminder for the righteous.",
             "description": [
                 "That is, the Qur'an is an admonition",
@@ -759,14 +760,14 @@
             ]
         },
         {
-            "id": "[69:49]",
+            "verse-id": "[69:49]",
             "verse": "And indeed, We know that among you are deniers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:50]",
+            "verse-id": "[69:50]",
             "verse": "And indeed, it will be [a cause of] regret upon the disbelievers.",
             "description": [
                 "That is, they will ultimately have to",
@@ -775,14 +776,14 @@
             ]
         },
         {
-            "id": "[69:51]",
+            "verse-id": "[69:51]",
             "verse": "And indeed, it is the truth of certainty.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[69:52]",
+            "verse-id": "[69:52]",
             "verse": "So exalt the name of your Lord, the Most Great.",
             "description": [
                 ""

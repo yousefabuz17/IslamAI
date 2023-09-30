@@ -1,23 +1,24 @@
 {
     "name": "Ta-Ha",
+    "id": 20,
     "verse-count": 135,
     "verse-info": [
         {
-            "id": "[20:1]",
+            "verse-id": "[20:1]",
             "verse": "Ta, Ha.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:2]",
+            "verse-id": "[20:2]",
             "verse": "We have not sent down to you the Qur'an that you be distressed",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:3]",
+            "verse-id": "[20:3]",
             "verse": "But only as a reminder for those who fear [Allah] -",
             "description": [
                 "This verse makes plain the meaning of",
@@ -37,14 +38,14 @@
             ]
         },
         {
-            "id": "[20:4]",
+            "verse-id": "[20:4]",
             "verse": "A revelation from He who created the earth and highest heavens,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:5]",
+            "verse-id": "[20:5]",
             "verse": "The Most Merciful [who is] above the Throne established.",
             "description": [
                 "That is, \"After creating the universe, He",
@@ -53,14 +54,14 @@
             ]
         },
         {
-            "id": "[20:6]",
+            "verse-id": "[20:6]",
             "verse": "To Him belongs what is in the heavens and what is on the earth and what is between them and what is under the soil.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:7]",
+            "verse-id": "[20:7]",
             "verse": "And if you speak aloud - then indeed, He knows the secret and what is [even] more hidden.",
             "description": [
                 "That 'is, \"You need not complain to",
@@ -74,7 +75,7 @@
             ]
         },
         {
-            "id": "[20:8]",
+            "verse-id": "[20:8]",
             "verse": "Allah - there is no deity except Him. To Him belong the best names.",
             "description": [
                 "That is, \"He possesses all the excellent",
@@ -82,14 +83,14 @@
             ]
         },
         {
-            "id": "[20:9]",
+            "verse-id": "[20:9]",
             "verse": "And has the story of Moses reached you? -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:10]",
+            "verse-id": "[20:10]",
             "verse": "When he saw a fire and said to his family, \"Stay here; indeed, I have perceived a fire; perhaps I can bring you a torch or find at the fire some guidance.\"",
             "description": [
                 "This happened when Prophet Moses was returning",
@@ -118,14 +119,14 @@
             ]
         },
         {
-            "id": "[20:11]",
+            "verse-id": "[20:11]",
             "verse": "And when he came to it, he was called, \"O Moses,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:12]",
+            "verse-id": "[20:12]",
             "verse": "Indeed, I am your Lord, so remove your sandals. Indeed, you are in the sacred valley of Tuwa.",
             "description": [
                 "Probably, it is because of this that",
@@ -164,14 +165,14 @@
             ]
         },
         {
-            "id": "[20:13]",
+            "verse-id": "[20:13]",
             "verse": "And I have chosen you, so listen to what is revealed [to you].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:14]",
+            "verse-id": "[20:14]",
             "verse": "Indeed, I am Allah. There is no deity except Me, so worship Me and establish prayer for My remembrance.",
             "description": [
                 "This is the real object of Salat.",
@@ -211,7 +212,7 @@
             ]
         },
         {
-            "id": "[20:15]",
+            "verse-id": "[20:15]",
             "verse": "Indeed, the Hour is coming - I almost conceal it - so that every soul may be recompensed according to that for which it strives.",
             "description": [
                 "After Tauhid the second thing that was",
@@ -237,14 +238,14 @@
             ]
         },
         {
-            "id": "[20:16]",
+            "verse-id": "[20:16]",
             "verse": "So do not let one avert you from it who does not believe in it and follows his desire, for you [then] would perish.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:17]",
+            "verse-id": "[20:17]",
             "verse": "And what is that in your right hand, O Moses?\"",
             "description": [
                 "This question was not asked for the",
@@ -259,7 +260,7 @@
             ]
         },
         {
-            "id": "[20:18]",
+            "verse-id": "[20:18]",
             "verse": "He said, \"It is my staff; I lean upon it, and I bring down leaves for my sheep and I have therein other uses.\"",
             "description": [
                 "Prophet Moses deliberately prolonged his answer and",
@@ -270,28 +271,28 @@
             ]
         },
         {
-            "id": "[20:19]",
+            "verse-id": "[20:19]",
             "verse": "[Allah] said, \"Throw it down, O Moses.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:20]",
+            "verse-id": "[20:20]",
             "verse": "So he threw it down, and thereupon it was a snake, moving swiftly.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:21]",
+            "verse-id": "[20:21]",
             "verse": "[Allah] said, \"Seize it and fear not; We will return it to its former condition.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:22]",
+            "verse-id": "[20:22]",
             "verse": "And draw in your hand to your side; it will come out white without disease - another sign,",
             "description": [
                 "That is, \"Your hand will shine brightly",
@@ -316,21 +317,21 @@
             ]
         },
         {
-            "id": "[20:23]",
+            "verse-id": "[20:23]",
             "verse": "That We may show you [some] of Our greater signs.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:24]",
+            "verse-id": "[20:24]",
             "verse": "Go to Pharaoh. Indeed, he has transgressed.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:25]",
+            "verse-id": "[20:25]",
             "verse": "[Moses] said, \"My Lord, expand for me my breast [with assurance]",
             "description": [
                 "That is, 'Fill my heart with the",
@@ -343,21 +344,21 @@
             ]
         },
         {
-            "id": "[20:26]",
+            "verse-id": "[20:26]",
             "verse": "And ease for me my task",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:27]",
+            "verse-id": "[20:27]",
             "verse": "And untie the knot from my tongue",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:28]",
+            "verse-id": "[20:28]",
             "verse": "That they may understand my speech.",
             "description": [
                 "Prophet Moses prayed to Allah for this",
@@ -410,7 +411,7 @@
             ]
         },
         {
-            "id": "[20:29]",
+            "verse-id": "[20:29]",
             "verse": "And appoint for me a minister from my family -",
             "description": [
                 "Prophet Aaron was three years older than",
@@ -418,56 +419,56 @@
             ]
         },
         {
-            "id": "[20:30]",
+            "verse-id": "[20:30]",
             "verse": "Aaron, my brother.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:31]",
+            "verse-id": "[20:31]",
             "verse": "Increase through him my strength",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:32]",
+            "verse-id": "[20:32]",
             "verse": "And let him share my task",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:33]",
+            "verse-id": "[20:33]",
             "verse": "That we may exalt You much",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:34]",
+            "verse-id": "[20:34]",
             "verse": "And remember You much.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:35]",
+            "verse-id": "[20:35]",
             "verse": "Indeed, You are of us ever Seeing.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:36]",
+            "verse-id": "[20:36]",
             "verse": "[Allah] said, \"You have been granted your request, O Moses.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:37]",
+            "verse-id": "[20:37]",
             "verse": "And We had already conferred favor upon you another time,",
             "description": [
                 "Allah recounts the favours He had shown",
@@ -482,49 +483,49 @@
             ]
         },
         {
-            "id": "[20:38]",
+            "verse-id": "[20:38]",
             "verse": "When We inspired to your mother what We inspired,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:39]",
+            "verse-id": "[20:39]",
             "verse": "[Saying], 'Cast him into the chest and cast it into the river, and the river will throw it onto the bank; there will take him an enemy to Me and an enemy to him.' And I bestowed upon you love from Me that you would be brought up under My eye.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:40]",
+            "verse-id": "[20:40]",
             "verse": "[And We favored you] when your sister went and said, 'Shall I direct you to someone who will be responsible for him?' So We restored you to your mother that she might be content and not grieve. And you killed someone, but We saved you from retaliation and tried you with a [severe] trial. And you remained [some] years among the people of Madyan. Then you came [here] at the decreed time, O Moses.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:41]",
+            "verse-id": "[20:41]",
             "verse": "And I produced you for Myself.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:42]",
+            "verse-id": "[20:42]",
             "verse": "Go, you and your brother, with My signs and do not slacken in My remembrance.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:43]",
+            "verse-id": "[20:43]",
             "verse": "Go, both of you, to Pharaoh. Indeed, he has transgressed.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:44]",
+            "verse-id": "[20:44]",
             "verse": "And speak to him with gentle speech that perhaps he may be reminded or fear [Allah].\"",
             "description": [
                 "The only two ways of bringing a",
@@ -540,28 +541,28 @@
             ]
         },
         {
-            "id": "[20:45]",
+            "verse-id": "[20:45]",
             "verse": "They said, \"Our Lord, indeed we are afraid that he will hasten [punishment] against us or that he will transgress.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:46]",
+            "verse-id": "[20:46]",
             "verse": "[Allah] said, \"Fear not. Indeed, I am with you both; I hear and I see.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:47]",
+            "verse-id": "[20:47]",
             "verse": "So go to him and say, 'Indeed, we are messengers of your Lord, so send with us the Children of Israel and do not torment them. We have come to you with a sign from your Lord. And peace will be upon he who follows the guidance.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:48]",
+            "verse-id": "[20:48]",
             "verse": "Indeed, it has been revealed to us that the punishment will be upon whoever denies and turns away.' \"",
             "description": [
                 "A comparative study of this incident as",
@@ -598,7 +599,7 @@
             ]
         },
         {
-            "id": "[20:49]",
+            "verse-id": "[20:49]",
             "verse": "[Pharaoh] said, \"So who is the Lord of you two, O Moses?\"",
             "description": [
                 "Here the details have been omitted. These",
@@ -646,7 +647,7 @@
             ]
         },
         {
-            "id": "[20:50]",
+            "verse-id": "[20:50]",
             "verse": "He said, \"Our Lord is He who gave each thing its form and then guided [it].\"",
             "description": [
                 "That is, \"We acknowledge Him alone as",
@@ -715,7 +716,7 @@
             ]
         },
         {
-            "id": "[20:51]",
+            "verse-id": "[20:51]",
             "verse": "[Pharaoh] said, \"Then what is the case of the former generations?\"",
             "description": [
                 "The question posed by Pharaoh was very",
@@ -744,7 +745,7 @@
             ]
         },
         {
-            "id": "[20:52]",
+            "verse-id": "[20:52]",
             "verse": "[Moses] said, \"The knowledge thereof is with my Lord in a record. My Lord neither errs nor forgets.\"",
             "description": [
                 "This answer is full of wisdom. If",
@@ -771,7 +772,7 @@
             ]
         },
         {
-            "id": "[20:53]",
+            "verse-id": "[20:53]",
             "verse": "[It is He] who has made for you the earth as a bed [spread out] and inserted therein for you roadways and sent down from the sky, rain and produced thereby categories of various plants.",
             "description": [
                 "It is quite obvious that vv, 53-55",
@@ -787,7 +788,7 @@
             ]
         },
         {
-            "id": "[20:54]",
+            "verse-id": "[20:54]",
             "verse": "Eat [therefrom] and pasture your livestock. Indeed, in that are signs for those of intelligence.",
             "description": [
                 "That is, \"Those, who use their common",
@@ -801,7 +802,7 @@
             ]
         },
         {
-            "id": "[20:55]",
+            "verse-id": "[20:55]",
             "verse": "From the earth We created you, and into it We will return you, and from it We will extract you another time.",
             "description": [
                 "That is, \"Every man has to pass",
@@ -814,7 +815,7 @@
             ]
         },
         {
-            "id": "[20:56]",
+            "verse-id": "[20:56]",
             "verse": "And We certainly showed Pharaoh Our signs - all of them - but he denied and refused.",
             "description": [
                 "\"Signs\" comprised those arguments which were based",
@@ -828,7 +829,7 @@
             ]
         },
         {
-            "id": "[20:57]",
+            "verse-id": "[20:57]",
             "verse": "He said, \"Have you come to us to drive us out of our land with your magic, O Moses?",
             "description": [
                 "Here by sorcery are meant the miracles",
@@ -878,14 +879,14 @@
             ]
         },
         {
-            "id": "[20:58]",
+            "verse-id": "[20:58]",
             "verse": "Then we will surely bring you magic like it, so make between us and you an appointment, which we will not fail to keep and neither will you, in a place assigned.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:59]",
+            "verse-id": "[20:59]",
             "verse": "[Moses] said, \"Your appointment is on the day of the festival when the people assemble at mid-morning.\"",
             "description": [
                 "The object of Pharaoh was this: \"Once",
@@ -907,7 +908,7 @@
             ]
         },
         {
-            "id": "[20:60]",
+            "verse-id": "[20:60]",
             "verse": "So Pharaoh went away, put together his plan, and then came [to Moses].",
             "description": [
                 "Pharaoh and his courtiers considered the coming",
@@ -959,7 +960,7 @@
             ]
         },
         {
-            "id": "[20:61]",
+            "verse-id": "[20:61]",
             "verse": "Moses said to the magicians summoned by Pharaoh, \"Woe to you! Do not invent a lie against Allah or He will exterminate you with a punishment; and he has failed who invents [such falsehood].\"",
             "description": [
                 "The \"adversaries\" whom Prophet Moses addressed were",
@@ -975,7 +976,7 @@
             ]
         },
         {
-            "id": "[20:62]",
+            "verse-id": "[20:62]",
             "verse": "So they disputed over their affair among themselves and concealed their private conversation.",
             "description": [
                 "This shows that those people felt in",
@@ -998,7 +999,7 @@
             ]
         },
         {
-            "id": "[20:63]",
+            "verse-id": "[20:63]",
             "verse": "They said, \"Indeed, these are two magicians who want to drive you out of your land with their magic and do away with your most exemplary way.",
             "description": [
                 "Those who were of this view must",
@@ -1027,7 +1028,7 @@
             ]
         },
         {
-            "id": "[20:64]",
+            "verse-id": "[20:64]",
             "verse": "So resolve upon your plan and then come [forward] in line. And he has succeeded today who overcomes.\"",
             "description": [
                 "They also urged them to present a",
@@ -1041,7 +1042,7 @@
             ]
         },
         {
-            "id": "[20:65]",
+            "verse-id": "[20:65]",
             "verse": "They said, \"O Moses, either you throw or we will be the first to throw.\"",
             "description": [
                 "That confidence was subsequently restored among Pharaoh's",
@@ -1052,7 +1053,7 @@
             ]
         },
         {
-            "id": "[20:66]",
+            "verse-id": "[20:66]",
             "verse": "He said, \"Rather, you throw.\" And suddenly their ropes and staffs seemed to him from their magic that they were moving [like snakes].",
             "description": [
                 "'In V11: 116, it was stated: \"When",
@@ -1069,7 +1070,7 @@
             ]
         },
         {
-            "id": "[20:67]",
+            "verse-id": "[20:67]",
             "verse": "And he sensed within himself apprehension, did Moses.",
             "description": [
                 "It appears that no sooner did Prophet",
@@ -1098,14 +1099,14 @@
             ]
         },
         {
-            "id": "[20:68]",
+            "verse-id": "[20:68]",
             "verse": "Allah said, \"Fear not. Indeed, it is you who are superior.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:69]",
+            "verse-id": "[20:69]",
             "verse": "And throw what is in your right hand; it will swallow up what they have crafted. What they have crafted is but the trick of a magician, and the magician will not succeed wherever he is.\"",
             "description": [
                 "This is capable of two interpretations: (1)",
@@ -1129,7 +1130,7 @@
             ]
         },
         {
-            "id": "[20:70]",
+            "verse-id": "[20:70]",
             "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\"",
             "description": [
                 "When they saw the power of the",
@@ -1180,7 +1181,7 @@
             ]
         },
         {
-            "id": "[20:71]",
+            "verse-id": "[20:71]",
             "verse": "[Pharaoh] said, \"You believed him before I gave you permission. Indeed, he is your leader who has taught you magic. So I will surely cut off your hands and your feet on opposite sides, and I will crucify you on the trunks of palm trees, and you will surely know which of us is more severe in [giving] punishment and more enduring.\"",
             "description": [
                 "In VII : 123, it has been",
@@ -1230,7 +1231,7 @@
             ]
         },
         {
-            "id": "[20:72]",
+            "verse-id": "[20:72]",
             "verse": "They said, \"Never will we prefer you over what has come to us of clear proofs and [over] He who created us. So decree whatever you are to decree. You can only decree for this worldly life.",
             "description": [
                 "'It may also be interpreted like this:",
@@ -1241,14 +1242,14 @@
             ]
         },
         {
-            "id": "[20:73]",
+            "verse-id": "[20:73]",
             "verse": "Indeed, we have believed in our Lord that He may forgive us our sins and what you compelled us [to do] of magic. And Allah is better and more enduring.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:74]",
+            "verse-id": "[20:74]",
             "verse": "Indeed, whoever comes to his Lord as a criminal - indeed, for him is Hell; he will neither die therein nor live.",
             "description": [
                 "This is a saying of Allah, which",
@@ -1265,21 +1266,21 @@
             ]
         },
         {
-            "id": "[20:75]",
+            "verse-id": "[20:75]",
             "verse": "But whoever comes to Him as a believer having done righteous deeds - for those will be the highest degrees [in position]:",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:76]",
+            "verse-id": "[20:76]",
             "verse": "Gardens of perpetual residence beneath which rivers flow, wherein they abide eternally. And that is the reward of one who purifies himself.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:77]",
+            "verse-id": "[20:77]",
             "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\"",
             "description": [
                 "Here the details of the events which",
@@ -1317,7 +1318,7 @@
             ]
         },
         {
-            "id": "[20:78]",
+            "verse-id": "[20:78]",
             "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them,",
             "description": [
                 "According to XXVI: 64-66, Pharaoh with his",
@@ -1336,7 +1337,7 @@
             ]
         },
         {
-            "id": "[20:79]",
+            "verse-id": "[20:79]",
             "verse": "And Pharaoh led his people astray and did not guide [them].",
             "description": [
                 "This was a subtle warning to the",
@@ -1463,7 +1464,7 @@
             ]
         },
         {
-            "id": "[20:80]",
+            "verse-id": "[20:80]",
             "verse": "O Children of Israel, We delivered you from your enemy, and We made an appointment with you at the right side of the mount, and We sent down to you manna and quails,",
             "description": [
                 "The part of the story relating to",
@@ -1527,14 +1528,14 @@
             ]
         },
         {
-            "id": "[20:81]",
+            "verse-id": "[20:81]",
             "verse": "[Saying], \"Eat from the good things with which We have provided you and do not transgress [or oppress others] therein, lest My anger should descend upon you. And he upon whom My anger descends has certainly fallen.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:82]",
+            "verse-id": "[20:82]",
             "verse": "But indeed, I am the Perpetual Forgiver of whoever repents and believes and does righteousness and then continues in guidance.",
             "description": [
                 "According to this verse (82), there are",
@@ -1555,7 +1556,7 @@
             ]
         },
         {
-            "id": "[20:83]",
+            "verse-id": "[20:83]",
             "verse": "[Allah] said, \"And what made you hasten from your people, O Moses?\"",
             "description": [
                 "From here the same account is resumed",
@@ -1580,14 +1581,14 @@
             ]
         },
         {
-            "id": "[20:84]",
+            "verse-id": "[20:84]",
             "verse": "He said, \"They are close upon my tracks, and I hastened to You, my Lord, that You be pleased.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:85]",
+            "verse-id": "[20:85]",
             "verse": "[Allah] said, \"But indeed, We have tried your people after you [departed], and the Samiri has led them astray.\"",
             "description": [
                 "It is obvious from the last letter",
@@ -1657,7 +1658,7 @@
             ]
         },
         {
-            "id": "[20:86]",
+            "verse-id": "[20:86]",
             "verse": "So Moses returned to his people, angry and grieved. He said, \"O my people, did your Lord not make you a good promise? Then, was the time [of its fulfillment] too long for you, or did you wish that wrath from your Lord descend upon you, so you broke your promise [of obedience] to me?\"",
             "description": [
                 "That is, \"Did not Allah fulfil the",
@@ -1699,7 +1700,7 @@
             ]
         },
         {
-            "id": "[20:87]",
+            "verse-id": "[20:87]",
             "verse": "They said, \"We did not break our promise to you by our will, but we were made to carry burdens from the ornaments of the people [of Pharaoh], so we threw them [into the fire], and thus did the Samiri throw.\"",
             "description": [
                 "This excuse was put forward by those",
@@ -1783,28 +1784,28 @@
             ]
         },
         {
-            "id": "[20:88]",
+            "verse-id": "[20:88]",
             "verse": "And he extracted for them [the statue of] a calf which had a lowing sound, and they said, \"This is your god and the god of Moses, but he forgot.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:89]",
+            "verse-id": "[20:89]",
             "verse": "Did they not see that it could not return to them any speech and that it did not possess for them any harm or benefit?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:90]",
+            "verse-id": "[20:90]",
             "verse": "And Aaron had already told them before [the return of Moses], \"O my people, you are only being tested by it, and indeed, your Lord is the Most Merciful, so follow me and obey my order.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:91]",
+            "verse-id": "[20:91]",
             "verse": "They said, \"We will never cease being devoted to the calf until Moses returns to us.\"",
             "description": [
                 "Here the Qur'an exonerates Prophet Aaron from",
@@ -1892,14 +1893,14 @@
             ]
         },
         {
-            "id": "[20:92]",
+            "verse-id": "[20:92]",
             "verse": "[Moses] said, \"O Aaron, what prevented you, when you saw them going astray,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:93]",
+            "verse-id": "[20:93]",
             "verse": "From following me? Then have you disobeyed my order?\"",
             "description": [
                 "The \"command\" refers to the instructions which",
@@ -1913,7 +1914,7 @@
             ]
         },
         {
-            "id": "[20:94]",
+            "verse-id": "[20:94]",
             "verse": "[Aaron] said, \"O son of my mother, do not seize [me] by my beard or by my head. Indeed, I feared that you would say, 'You caused division among the Children of Israel, and you did not observe [or await] my word.' \"",
             "description": [
                 "See VII: 150.",
@@ -1946,14 +1947,14 @@
             ]
         },
         {
-            "id": "[20:95]",
+            "verse-id": "[20:95]",
             "verse": "[Moses] said, \"And what is your case, O Samiri?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:96]",
+            "verse-id": "[20:96]",
             "verse": "He said, \"I saw what they did not see, so I took a handful [of dust] from the track of the messenger and threw it, and thus did my soul entice me.\"",
             "description": [
                 "here has been a good deal of",
@@ -2044,7 +2045,7 @@
             ]
         },
         {
-            "id": "[20:97]",
+            "verse-id": "[20:97]",
             "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it into the sea with a blast.",
             "description": [
                 "The words show that he was not",
@@ -2073,14 +2074,14 @@
             ]
         },
         {
-            "id": "[20:98]",
+            "verse-id": "[20:98]",
             "verse": "Your god is only Allah, except for whom there is no deity. He has encompassed all things in knowledge.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:99]",
+            "verse-id": "[20:99]",
             "verse": "Thus, [O Muhammad], We relate to you from the news of what has preceded. And We have certainly given you from Us the Qur'an.",
             "description": [
                 "Now that the story of Prophet Moses",
@@ -2096,14 +2097,14 @@
             ]
         },
         {
-            "id": "[20:100]",
+            "verse-id": "[20:100]",
             "verse": "Whoever turns away from it - then indeed, he will bear on the Day of Resurrection a burden,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:101]",
+            "verse-id": "[20:101]",
             "verse": "[Abiding] eternally therein, and evil it is for them on the Day of Resurrection as a load -",
             "description": [
                 "Here the people have been warned that",
@@ -2123,7 +2124,7 @@
             ]
         },
         {
-            "id": "[20:102]",
+            "verse-id": "[20:102]",
             "verse": "The Day the Horn will be blown. And We will gather the criminals, that Day, blue-eyed.",
             "description": [
                 "As regards the nature of the blowing",
@@ -2145,7 +2146,7 @@
             ]
         },
         {
-            "id": "[20:103]",
+            "verse-id": "[20:103]",
             "verse": "They will murmur among themselves, \"You remained not but ten [days in the world].\"",
             "description": [
                 "The original text tray also be interpreted",
@@ -2205,7 +2206,7 @@
             ]
         },
         {
-            "id": "[20:104]",
+            "verse-id": "[20:104]",
             "verse": "We are most knowing of what they say when the best of them in manner will say, \"You remained not but one day.\"",
             "description": [
                 "This is a parenthisis that has been",
@@ -2236,21 +2237,21 @@
             ]
         },
         {
-            "id": "[20:105]",
+            "verse-id": "[20:105]",
             "verse": "And they ask you about the mountains, so say, \"My Lord will blow them away with a blast.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:106]",
+            "verse-id": "[20:106]",
             "verse": "And He will leave the earth a level plain;",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:107]",
+            "verse-id": "[20:107]",
             "verse": "You will not see therein a depression or an elevation.\"",
             "description": [
                 "According to the Qur'an, the earth will",
@@ -2290,7 +2291,7 @@
             ]
         },
         {
-            "id": "[20:108]",
+            "verse-id": "[20:108]",
             "verse": "That Day, everyone will follow [the call of] the Caller [with] no deviation therefrom, and [all] voices will be stilled before the Most Merciful, so you will not hear except a whisper [of footsteps].",
             "description": [
                 "The original Arabic word (hams) is used",
@@ -2303,7 +2304,7 @@
             ]
         },
         {
-            "id": "[20:109]",
+            "verse-id": "[20:109]",
             "verse": "That Day, no intercession will benefit except [that of] one to whom the Most Merciful has given permission and has accepted his word.",
             "description": [
                 "This has another interpretation also: \"On that",
@@ -2335,7 +2336,7 @@
             ]
         },
         {
-            "id": "[20:110]",
+            "verse-id": "[20:110]",
             "verse": "Allah knows what is [presently] before them and what will be after them, but they do not encompass it in knowledge.",
             "description": [
                 "Here the reasons for the restrictions on",
@@ -2361,14 +2362,14 @@
             ]
         },
         {
-            "id": "[20:111]",
+            "verse-id": "[20:111]",
             "verse": "And [all] faces will be humbled before the Ever-Living, the Sustainer of existence. And he will have failed who carries injustice.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:112]",
+            "verse-id": "[20:112]",
             "verse": "But he who does of righteous deeds while he is a believer - he will neither fear injustice nor deprivation.",
             "description": [
                 "From this, it is clear that in",
@@ -2387,7 +2388,7 @@
             ]
         },
         {
-            "id": "[20:113]",
+            "verse-id": "[20:113]",
             "verse": "And thus We have sent it down as an Arabic Qur'an and have diversified therein the warnings that perhaps they will avoid [sin] or it would cause them remembrance.",
             "description": [
                 "\".... thus .. Qur'an\": This means that",
@@ -2405,7 +2406,7 @@
             ]
         },
         {
-            "id": "[20:114]",
+            "verse-id": "[20:114]",
             "verse": "So high [above all] is Allah, the Sovereign, the Truth. And, [O Muhammad], do not hasten with [recitation of] the Qur'an before its revelation is completed to you, and say, \"My Lord, increase me in knowledge.\"",
             "description": [
                 "Such sentences as this are usually found",
@@ -2461,7 +2462,7 @@
             ]
         },
         {
-            "id": "[20:115]",
+            "verse-id": "[20:115]",
             "verse": "And We had already taken a promise from Adam before, but he forgot; and We found not in him determination.",
             "description": [
                 "From here begins a new discourse, which",
@@ -2524,14 +2525,14 @@
             ]
         },
         {
-            "id": "[20:116]",
+            "verse-id": "[20:116]",
             "verse": "And [mention] when We said to the angels, \"Prostrate to Adam,\" and they prostrated, except Iblees; he refused.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:117]",
+            "verse-id": "[20:117]",
             "verse": "So We said, \"O Adam, indeed this is an enemy to you and to your wife. Then let him not remove you from Paradise so you would suffer.",
             "description": [
                 "Here the Command, which was given to",
@@ -2569,14 +2570,14 @@
             ]
         },
         {
-            "id": "[20:118]",
+            "verse-id": "[20:118]",
             "verse": "Indeed, it is [promised] for you not to be hungry therein or be unclothed.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:119]",
+            "verse-id": "[20:119]",
             "verse": "And indeed, you will not be thirsty therein or be hot from the sun.\"",
             "description": [
                 "This is the explanation of the \"distress\"",
@@ -2601,7 +2602,7 @@
             ]
         },
         {
-            "id": "[20:120]",
+            "verse-id": "[20:120]",
             "verse": "Then Satan whispered to him; he said, \"O Adam, shall I direct you to the tree of eternity and possession that will not deteriorate?\"",
             "description": [
                 "According to this verse. it was Adam",
@@ -2625,7 +2626,7 @@
             ]
         },
         {
-            "id": "[20:121]",
+            "verse-id": "[20:121]",
             "verse": "And Adam and his wife ate of it, and their private parts became apparent to them, and they began to fasten over themselves from the leaves of Paradise. And Adam disobeyed his Lord and erred.",
             "description": [
                 "No sooner did they disobey the \"Command\"",
@@ -2664,7 +2665,7 @@
             ]
         },
         {
-            "id": "[20:122]",
+            "verse-id": "[20:122]",
             "verse": "Then his Lord chose him and turned to him in forgiveness and guided [him].",
             "description": [
                 "\".........His Lord chose him\" because he did",
@@ -2687,7 +2688,7 @@
             ]
         },
         {
-            "id": "[20:123]",
+            "verse-id": "[20:123]",
             "verse": "[Allah] said, \"Descend from Paradise - all, [your descendants] being enemies to one another. And if there should come to you guidance from Me - then whoever follows My guidance will neither go astray [in the world] nor suffer [in the Hereafter].",
             "description": [
                 "That is, \"Allah not only pardoned him",
@@ -2696,7 +2697,7 @@
             ]
         },
         {
-            "id": "[20:124]",
+            "verse-id": "[20:124]",
             "verse": "And whoever turns away from My remembrance - indeed, he will have a depressed life, and We will gather him on the Day of Resurrection blind.\"",
             "description": [
                 "\"Wretched life in this world\" does not",
@@ -2890,14 +2891,14 @@
             ]
         },
         {
-            "id": "[20:125]",
+            "verse-id": "[20:125]",
             "verse": "He will say, \"My Lord, why have you raised me blind while I was [once] seeing?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:126]",
+            "verse-id": "[20:126]",
             "verse": "[Allah] will say, \"Thus did Our signs come to you, and you forgot them; and thus will you this Day be forgotten.\"",
             "description": [
                 "The Qur'an has described the different conditions",
@@ -2941,7 +2942,7 @@
             ]
         },
         {
-            "id": "[20:127]",
+            "verse-id": "[20:127]",
             "verse": "And thus do We recompense he who transgressed and did not believe in the signs of his Lord. And the punishment of the Hereafter is more severe and more enduring.",
             "description": [
                 "This refers to the \"wretched life\" which",
@@ -2951,7 +2952,7 @@
             ]
         },
         {
-            "id": "[20:128]",
+            "verse-id": "[20:128]",
             "verse": "Then, has it not become clear to them how many generations We destroyed before them as they walk among their dwellings? Indeed in that are signs for those of intelligence.",
             "description": [
                 "\"These people\" of Makkah.",
@@ -2962,14 +2963,14 @@
             ]
         },
         {
-            "id": "[20:129]",
+            "verse-id": "[20:129]",
             "verse": "And if not for a word that preceded from your Lord, punishment would have been an obligation [due immediately], and [if not for] a specified term [decreed].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:130]",
+            "verse-id": "[20:130]",
             "verse": "So be patient over what they say and exalt [Allah] with praise of your Lord before the rising of the sun and before its setting; and during periods of the night [exalt Him] and at the ends of the day, that you may be satisfied.",
             "description": [
                 "This is to comfort and console the",
@@ -3023,7 +3024,7 @@
             ]
         },
         {
-            "id": "[20:131]",
+            "verse-id": "[20:131]",
             "verse": "And do not extend your eyes toward that by which We have given enjoyment to [some] categories of them, [its being but] the splendor of worldly life by which We test them. And the provision of your Lord is better and more enduring.",
             "description": [
                 "It means: \"It does not behove you",
@@ -3039,7 +3040,7 @@
             ]
         },
         {
-            "id": "[20:132]",
+            "verse-id": "[20:132]",
             "verse": "And enjoin prayer upon your family [and people] and be steadfast therein. We ask you not for provision; We provide for you, and the [best] outcome is for [those of] righteousness.",
             "description": [
                 "That is, \"Teach your children also that",
@@ -3062,7 +3063,7 @@
             ]
         },
         {
-            "id": "[20:133]",
+            "verse-id": "[20:133]",
             "verse": "And they say, \"Why does he not bring us a sign from his Lord?\" Has there not come to them evidence of what was in the former scriptures?",
             "description": [
                 "This means that the Qur'an itself is",
@@ -3078,14 +3079,14 @@
             ]
         },
         {
-            "id": "[20:134]",
+            "verse-id": "[20:134]",
             "verse": "And if We had destroyed them with a punishment before him, they would have said, \"Our Lord, why did You not send to us a messenger so we could have followed Your verses before we were humiliated and disgraced?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[20:135]",
+            "verse-id": "[20:135]",
             "verse": "Say, \"Each [of us] is waiting; so wait. For you will know who are the companions of the sound path and who is guided.\"",
             "description": [
                 "That is, \"Ever since the Message of",

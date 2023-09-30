@@ -1,9 +1,10 @@
 {
     "name": "Al-Alaq",
+    "id": 96,
     "verse-count": 19,
     "verse-info": [
         {
-            "id": "[96:1]",
+            "verse-id": "[96:1]",
             "verse": "Recite in the name of your Lord who created -",
             "description": [
                 "As we have explained in the Introduction,",
@@ -36,7 +37,7 @@
             ]
         },
         {
-            "id": "[96:2]",
+            "verse-id": "[96:2]",
             "verse": "Created man from a clinging substance.",
             "description": [
                 "After making mention generally of the creation",
@@ -55,14 +56,14 @@
             ]
         },
         {
-            "id": "[96:3]",
+            "verse-id": "[96:3]",
             "verse": "Recite, and your Lord is the most Generous -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[96:4]",
+            "verse-id": "[96:4]",
             "verse": "Who taught by the pen -",
             "description": [
                 "That is, \"It is a great favour",
@@ -86,7 +87,7 @@
             ]
         },
         {
-            "id": "[96:5]",
+            "verse-id": "[96:5]",
             "verse": "Taught man that which he knew not.",
             "description": [
                 "That is, Man originally was absolutely illiterate.",
@@ -127,7 +128,7 @@
             ]
         },
         {
-            "id": "[96:6]",
+            "verse-id": "[96:6]",
             "verse": "No! [But] indeed, man transgresses",
             "description": [
                 "That is, man should never adopt an",
@@ -137,7 +138,7 @@
             ]
         },
         {
-            "id": "[96:7]",
+            "verse-id": "[96:7]",
             "verse": "Because he sees himself self-sufficient.",
             "description": [
                 "That is, when the man has attained",
@@ -149,7 +150,7 @@
             ]
         },
         {
-            "id": "[96:8]",
+            "verse-id": "[96:8]",
             "verse": "Indeed, to your Lord is the return.",
             "description": [
                 "That is, \"Whatever he might have attained",
@@ -162,14 +163,14 @@
             ]
         },
         {
-            "id": "[96:9]",
+            "verse-id": "[96:9]",
             "verse": "Have you seen the one who forbids",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[96:10]",
+            "verse-id": "[96:10]",
             "verse": "A servant when he prays?",
             "description": [
                 "\"A Servant\" : the Holy Messenger of",
@@ -204,28 +205,28 @@
             ]
         },
         {
-            "id": "[96:11]",
+            "verse-id": "[96:11]",
             "verse": "Have you seen if he is upon guidance",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[96:12]",
+            "verse-id": "[96:12]",
             "verse": "Or enjoins righteousness?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[96:13]",
+            "verse-id": "[96:13]",
             "verse": "Have you seen if he denies and turns away -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[96:14]",
+            "verse-id": "[96:14]",
             "verse": "Does he not know that Allah sees?",
             "description": [
                 "The audience here apparently is every just",
@@ -251,7 +252,7 @@
             ]
         },
         {
-            "id": "[96:15]",
+            "verse-id": "[96:15]",
             "verse": "No! If he does not desist, We will surely drag him by the forelock -",
             "description": [
                 "That is, the person who threatens that",
@@ -262,7 +263,7 @@
             ]
         },
         {
-            "id": "[96:16]",
+            "verse-id": "[96:16]",
             "verse": "A lying, sinning forelock.",
             "description": [
                 "\"The forelock\" here implies the person with",
@@ -270,7 +271,7 @@
             ]
         },
         {
-            "id": "[96:17]",
+            "verse-id": "[96:17]",
             "verse": "Then let him call his associates;",
             "description": [
                 "As we have explained in the Introduction,",
@@ -285,7 +286,7 @@
             ]
         },
         {
-            "id": "[96:18]",
+            "verse-id": "[96:18]",
             "verse": "We will call the angels of Hell.",
             "description": [
                 "According to the explanation given by Qatadah,",
@@ -302,7 +303,7 @@
             ]
         },
         {
-            "id": "[96:19]",
+            "verse-id": "[96:19]",
             "verse": "No! Do not obey him. But prostrate and draw near [to Allah].",
             "description": [
                 "\"Sajdah\" (prostration) here implies the Prayer, so",

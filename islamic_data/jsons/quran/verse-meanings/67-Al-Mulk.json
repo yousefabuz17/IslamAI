@@ -1,9 +1,10 @@
 {
     "name": "Al-Mulk",
+    "id": 67,
     "verse-count": 30,
     "verse-info": [
         {
-            "id": "[67:1]",
+            "verse-id": "[67:1]",
             "verse": "Blessed is He in whose hand is dominion, and He is over all things competent -",
             "description": [
                 "Tabaraka is a superlative from barkat. Barkat",
@@ -36,7 +37,7 @@
             ]
         },
         {
-            "id": "[67:2]",
+            "verse-id": "[67:2]",
             "verse": "[He] who created death and life to test you [as to] which of you is best in deed - and He is the Exalted in Might, the Forgiving -",
             "description": [
                 "That is, the object of giving life",
@@ -90,7 +91,7 @@
             ]
         },
         {
-            "id": "[67:3]",
+            "verse-id": "[67:3]",
             "verse": "[And] who created seven heavens in layers. You do not see in the creation of the Most Merciful any inconsistency. So return [your] vision [to the sky]; do you see any breaks?",
             "description": [
                 "For explanation, see E.N. 34 of AI-Baqarah,",
@@ -123,14 +124,14 @@
             ]
         },
         {
-            "id": "[67:4]",
+            "verse-id": "[67:4]",
             "verse": "Then return [your] vision twice again. [Your] vision will return to you humbled while it is fatigued.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[67:5]",
+            "verse-id": "[67:5]",
             "verse": "And We have certainly beautified the nearest heaven with stars and have made [from] them what is thrown at the devils and have prepared for them the punishment of the Blaze.",
             "description": [
                 "\"The nearest heaven\": the heaven the stars",
@@ -192,7 +193,7 @@
             ]
         },
         {
-            "id": "[67:6]",
+            "verse-id": "[67:6]",
             "verse": "And for those who disbelieved in their Lord is the punishment of Hell, and wretched is the destination.",
             "description": [
                 "That is, the fate of all those,whether",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "id": "[67:7]",
+            "verse-id": "[67:7]",
             "verse": "When they are thrown into it, they hear from it a [dreadful] inhaling while it boils up.",
             "description": [
                 "The word shahiq is used for producing",
@@ -230,7 +231,7 @@
             ]
         },
         {
-            "id": "[67:8]",
+            "verse-id": "[67:8]",
             "verse": "It almost bursts with rage. Every time a company is thrown into it, its keepers ask them, \"Did there not come to you a warner?\"",
             "description": [
                 "The real nature of this question will",
@@ -294,7 +295,7 @@
             ]
         },
         {
-            "id": "[67:9]",
+            "verse-id": "[67:9]",
             "verse": "They will say,\" Yes, a warner had come to us, but we denied and said, 'Allah has not sent down anything. You are not but in great error.'\"",
             "description": [
                 "That is, \"Not only you but the",
@@ -304,7 +305,7 @@
             ]
         },
         {
-            "id": "[67:10]",
+            "verse-id": "[67:10]",
             "verse": "And they will say, \"If only we had been listening or reasoning, we would not be among the companions of the Blaze.\"",
             "description": [
                 "\"Had we only listened or understood\": \"Had",
@@ -326,7 +327,7 @@
             ]
         },
         {
-            "id": "[67:11]",
+            "verse-id": "[67:11]",
             "verse": "And they will admit their sin, so [it is] alienation for the companions of the Blaze.",
             "description": [
                 "The word dhanb (sin) has been used",
@@ -338,7 +339,7 @@
             ]
         },
         {
-            "id": "[67:12]",
+            "verse-id": "[67:12]",
             "verse": "Indeed, those who fear their Lord unseen will have forgiveness and great reward.",
             "description": [
                 "This is the real basis of morality",
@@ -414,7 +415,7 @@
             ]
         },
         {
-            "id": "[67:13]",
+            "verse-id": "[67:13]",
             "verse": "And conceal your speech or publicize it; indeed, He is Knowing of that within the breasts.",
             "description": [
                 "The address is to all human beings,",
@@ -432,7 +433,7 @@
             ]
         },
         {
-            "id": "[67:14]",
+            "verse-id": "[67:14]",
             "verse": "Does He who created not know, while He is the Subtle, the Acquainted?",
             "description": [
                 "Another translation can be: \"Would He not",
@@ -462,7 +463,7 @@
             ]
         },
         {
-            "id": "[67:15]",
+            "verse-id": "[67:15]",
             "verse": "It is He who made the earth tame for you - so walk among its slopes and eat of His provision - and to Him is the resurrection.",
             "description": [
                 "That is, \"This earth has not become",
@@ -497,7 +498,7 @@
             ]
         },
         {
-            "id": "[67:16]",
+            "verse-id": "[67:16]",
             "verse": "Do you feel secure that He who [holds authority] in the heaven would not cause the earth to swallow you and suddenly it would sway?",
             "description": [
                 "This does trot mean that Allah lives",
@@ -554,7 +555,7 @@
             ]
         },
         {
-            "id": "[67:17]",
+            "verse-id": "[67:17]",
             "verse": "Or do you feel secure that He who [holds authority] in the heaven would not send against you a storm of stones? Then you would know how [severe] was My warning.",
             "description": [
                 "The object is to impress this: \"",
@@ -585,7 +586,7 @@
             ]
         },
         {
-            "id": "[67:18]",
+            "verse-id": "[67:18]",
             "verse": "And already had those before them denied, and how [terrible] was My reproach.",
             "description": [
                 "The allusion is to the communities who",
@@ -595,7 +596,7 @@
             ]
         },
         {
-            "id": "[67:19]",
+            "verse-id": "[67:19]",
             "verse": "Do they not see the birds above them with wings outspread and [sometimes] folded in? None holds them [aloft] except the Most Merciful. Indeed He is, of all things, Seeing.",
             "description": [
                 "That is, each bird that flies in",
@@ -624,7 +625,7 @@
             ]
         },
         {
-            "id": "[67:20]",
+            "verse-id": "[67:20]",
             "verse": "Or who is it that could be an army for you to aid you other than the Most Merciful? The disbelievers are not but in delusion.",
             "description": [
                 "Another translation can be: \"Who is there",
@@ -636,14 +637,14 @@
             ]
         },
         {
-            "id": "[67:21]",
+            "verse-id": "[67:21]",
             "verse": "Or who is it that could provide for you if He withheld His provision? But they have persisted in insolence and aversion.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[67:22]",
+            "verse-id": "[67:22]",
             "verse": "Then is one who walks fallen on his face better guided or one who walks erect on a straight path?",
             "description": [
                 "\"Walking prone on his face\": walking with",
@@ -653,7 +654,7 @@
             ]
         },
         {
-            "id": "[67:23]",
+            "verse-id": "[67:23]",
             "verse": "Say, \"It is He who has produced you and made for you hearing and vision and hearts; little are you grateful.\"",
             "description": [
                 "That is, \"Allah had made you men,",
@@ -697,7 +698,7 @@
             ]
         },
         {
-            "id": "[67:24]",
+            "verse-id": "[67:24]",
             "verse": "Say, \"It is He who has multiplied you throughout the earth, and to Him you will be gathered.\"",
             "description": [
                 "That is, \"After being resurrected from death,",
@@ -707,7 +708,7 @@
             ]
         },
         {
-            "id": "[67:25]",
+            "verse-id": "[67:25]",
             "verse": "And they say, \"When is this promise, if you should be truthful?\"",
             "description": [
                 "They did not ask this question in",
@@ -745,7 +746,7 @@
             ]
         },
         {
-            "id": "[67:26]",
+            "verse-id": "[67:26]",
             "verse": "Say, \"The knowledge is only with Allah, and I am only a clear warner.\"",
             "description": [
                 "That is, \"This I know that it",
@@ -770,7 +771,7 @@
             ]
         },
         {
-            "id": "[67:27]",
+            "verse-id": "[67:27]",
             "verse": "But when they see it approaching, the faces of those who disbelieve will be distressed, and it will be said, \"This is that for which you used to call.\"",
             "description": [
                 "That is, they will be in the",
@@ -780,7 +781,7 @@
             ]
         },
         {
-            "id": "[67:28]",
+            "verse-id": "[67:28]",
             "verse": "Say, [O Muhammad], \"Have you considered: whether Allah should cause my death and those with me or have mercy upon us, who can protect the disbelievers from a painful punishment?\"",
             "description": [
                 "When the Holy Prophet (upon whom be",
@@ -800,7 +801,7 @@
             ]
         },
         {
-            "id": "[67:29]",
+            "verse-id": "[67:29]",
             "verse": "Say, \"He is the Most Merciful; we have believed in Him, and upon Him we have relied. And you will [come to] know who it is that is in clear error.\"",
             "description": [
                 "That is, \"We have believed in God,",
@@ -813,7 +814,7 @@
             ]
         },
         {
-            "id": "[67:30]",
+            "verse-id": "[67:30]",
             "verse": "Say, \"Have you considered: if your water was to become sunken [into the earth], then who could bring you flowing water?\"",
             "description": [
                 "That is \"Has another besides Allah the",

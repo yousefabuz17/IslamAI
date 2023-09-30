@@ -1,23 +1,24 @@
 {
     "name": "Ad-Dukhaan",
+    "id": 44,
     "verse-count": 59,
     "verse-info": [
         {
-            "id": "[44:1]",
+            "verse-id": "[44:1]",
             "verse": "Ha, Meem.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:2]",
+            "verse-id": "[44:2]",
             "verse": "By the clear Book,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:3]",
+            "verse-id": "[44:3]",
             "verse": "Indeed, We sent it down during a blessed night. Indeed, We were to warn [mankind].",
             "description": [
                 "The meaning of taking an oath by",
@@ -63,7 +64,7 @@
             ]
         },
         {
-            "id": "[44:4]",
+            "verse-id": "[44:4]",
             "verse": "On that night is made distinct every precise matter -",
             "description": [
                 "The word amr-in-,hakim as used in the",
@@ -77,7 +78,7 @@
             ]
         },
         {
-            "id": "[44:5]",
+            "verse-id": "[44:5]",
             "verse": "[Every] matter [proceeding] from Us. Indeed, We were to send [a messenger]",
             "description": [
                 "In Surah AI-Qadr, this same thing has",
@@ -121,7 +122,7 @@
             ]
         },
         {
-            "id": "[44:6]",
+            "verse-id": "[44:6]",
             "verse": "As mercy from your Lord. Indeed, He is the Hearing, the Knowing.",
             "description": [
                 "That is, \"It was not only a",
@@ -159,7 +160,7 @@
             ]
         },
         {
-            "id": "[44:7]",
+            "verse-id": "[44:7]",
             "verse": "Lord of the heavens and the earth and that between them, if you would be certain.",
             "description": [
                 "The Arabs themselves admitted that Allah alone",
@@ -182,7 +183,7 @@
             ]
         },
         {
-            "id": "[44:8]",
+            "verse-id": "[44:8]",
             "verse": "There is no deity except Him; He gives life and causes death. [He is] your Lord and the Lord of your first forefathers.",
             "description": [
                 "The real God Who alone has the",
@@ -214,7 +215,7 @@
             ]
         },
         {
-            "id": "[44:9]",
+            "verse-id": "[44:9]",
             "verse": "But they are in doubt, amusing themselves.",
             "description": [
                 "In this brief sentence an allusion has",
@@ -269,28 +270,28 @@
             ]
         },
         {
-            "id": "[44:10]",
+            "verse-id": "[44:10]",
             "verse": "Then watch for the Day when the sky will bring a visible smoke.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:11]",
+            "verse-id": "[44:11]",
             "verse": "Covering the people; this is a painful torment.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:12]",
+            "verse-id": "[44:12]",
             "verse": "[They will say], \"Our Lord, remove from us the torment; indeed, we are believers.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:13]",
+            "verse-id": "[44:13]",
             "verse": "How will there be for them a reminder [at that time]? And there had come to them a clear Messenger.",
             "description": [
                 "Rasul-i-mubin has two meanings: (1) His being",
@@ -301,7 +302,7 @@
             ]
         },
         {
-            "id": "[44:14]",
+            "verse-id": "[44:14]",
             "verse": "Then they turned away from him and said, \"[He was] taught [and is] a madman.\"",
             "description": [
                 "What they meant was: \"This was a",
@@ -341,14 +342,14 @@
             ]
         },
         {
-            "id": "[44:15]",
+            "verse-id": "[44:15]",
             "verse": "Indeed, We will remove the torment for a little. Indeed, you [disbelievers] will return [to disbelief].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:16]",
+            "verse-id": "[44:16]",
             "verse": "The Day We will strike with the greatest assault, indeed, We will take retribution.",
             "description": [
                 "The commentators have seriously disputed the meaning",
@@ -515,7 +516,7 @@
             ]
         },
         {
-            "id": "[44:17]",
+            "verse-id": "[44:17]",
             "verse": "And We had already tried before them the people of Pharaoh, and there came to them a noble messenger,",
             "description": [
                 "The words rasul-un karim in the original",
@@ -525,7 +526,7 @@
             ]
         },
         {
-            "id": "[44:18]",
+            "verse-id": "[44:18]",
             "verse": "[Saying], \"Render to me the servants of Allah. Indeed, I am to you a trustworthy messenger,\"",
             "description": [
                 "One should note that the sayings of",
@@ -568,7 +569,7 @@
             ]
         },
         {
-            "id": "[44:19]",
+            "verse-id": "[44:19]",
             "verse": "And [saying], \"Be not haughty with Allah. Indeed, I have come to you with clear authority.",
             "description": [
                 "In other words, it means: \"Your rebellion",
@@ -593,14 +594,14 @@
             ]
         },
         {
-            "id": "[44:20]",
+            "verse-id": "[44:20]",
             "verse": "And indeed, I have sought refuge in my Lord and your Lord, lest you stone me.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:21]",
+            "verse-id": "[44:21]",
             "verse": "But if you do not believe me, then leave me alone.\"",
             "description": [
                 "This was said at the time when,",
@@ -637,7 +638,7 @@
             ]
         },
         {
-            "id": "[44:22]",
+            "verse-id": "[44:22]",
             "verse": "And [finally] he called to his Lord that these were a criminal people.",
             "description": [
                 "This is the final report that the",
@@ -651,7 +652,7 @@
             ]
         },
         {
-            "id": "[44:23]",
+            "verse-id": "[44:23]",
             "verse": "[Allah said], \"Then set out with My servants by night. Indeed, you are to be pursued.",
             "description": [
                 "\"With my servants\": with aII those people",
@@ -671,7 +672,7 @@
             ]
         },
         {
-            "id": "[44:24]",
+            "verse-id": "[44:24]",
             "verse": "And leave the sea in stillness. Indeed, they are an army to be drowned.\"",
             "description": [
                 "This command was given when the Prophet",
@@ -690,28 +691,28 @@
             ]
         },
         {
-            "id": "[44:25]",
+            "verse-id": "[44:25]",
             "verse": "How much they left behind of gardens and springs",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:26]",
+            "verse-id": "[44:26]",
             "verse": "And crops and noble sites",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:27]",
+            "verse-id": "[44:27]",
             "verse": "And comfort wherein they were amused.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:28]",
+            "verse-id": "[44:28]",
             "verse": "Thus. And We caused to inherit it another people.",
             "description": [
                 "Hadrat Hasan Basri says that \"others\" here",
@@ -730,7 +731,7 @@
             ]
         },
         {
-            "id": "[44:29]",
+            "verse-id": "[44:29]",
             "verse": "And the heaven and earth wept not for them, nor were they reprieved.",
             "description": [
                 "That is, \"When they were the rulers,",
@@ -759,14 +760,14 @@
             ]
         },
         {
-            "id": "[44:30]",
+            "verse-id": "[44:30]",
             "verse": "And We certainly saved the Children of Israel from the humiliating torment -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:31]",
+            "verse-id": "[44:31]",
             "verse": "From Pharaoh. Indeed, he was a haughty one among the transgressors.",
             "description": [
                 "That is, Pharaoh by himself was an",
@@ -787,7 +788,7 @@
             ]
         },
         {
-            "id": "[44:32]",
+            "verse-id": "[44:32]",
             "verse": "And We certainly chose them by knowledge over [all] the worlds.",
             "description": [
                 "That is, 'Allah was well aware both",
@@ -802,7 +803,7 @@
             ]
         },
         {
-            "id": "[44:33]",
+            "verse-id": "[44:33]",
             "verse": "And We gave them of signs that in which there was a clear trial.",
             "description": [
                 "For explanation, sec Al-Baqarah :49-74, An-Nisa: 153-160,",
@@ -811,14 +812,14 @@
             ]
         },
         {
-            "id": "[44:34]",
+            "verse-id": "[44:34]",
             "verse": "Indeed, these [disbelievers] are saying,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:35]",
+            "verse-id": "[44:35]",
             "verse": "\"There is not but our first death, and we will not be resurrected.",
             "description": [
                 "That is, \"When we die the first",
@@ -827,7 +828,7 @@
             ]
         },
         {
-            "id": "[44:36]",
+            "verse-id": "[44:36]",
             "verse": "Then bring [back] our forefathers, if you should be truthful.\"",
             "description": [
                 "This was their reasoning: We have never",
@@ -851,7 +852,7 @@
             ]
         },
         {
-            "id": "[44:37]",
+            "verse-id": "[44:37]",
             "verse": "Are they better or the people of Tubba' and those before them? We destroyed them, [for] indeed, they were criminals.",
             "description": [
                 "Tubba was the title of the kings",
@@ -891,14 +892,14 @@
             ]
         },
         {
-            "id": "[44:38]",
+            "verse-id": "[44:38]",
             "verse": "And We did not create the heavens and earth and that between them in play.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:39]",
+            "verse-id": "[44:39]",
             "verse": "We did not create them except in truth, but most of them do not know.",
             "description": [
                 "This is the second answer to their",
@@ -924,7 +925,7 @@
             ]
         },
         {
-            "id": "[44:40]",
+            "verse-id": "[44:40]",
             "verse": "Indeed, the Day of Judgement is the appointed time for them all -",
             "description": [
                 "This is the answer to their demand:",
@@ -957,7 +958,7 @@
             ]
         },
         {
-            "id": "[44:41]",
+            "verse-id": "[44:41]",
             "verse": "The Day when no relation will avail a relation at all, nor will they be helped -",
             "description": [
                 "The Arabic word \"maula \" is used",
@@ -967,7 +968,7 @@
             ]
         },
         {
-            "id": "[44:42]",
+            "verse-id": "[44:42]",
             "verse": "Except those [believers] on whom Allah has mercy. Indeed, He is the Exalted in Might, the Merciful.",
             "description": [
                 "These sentences portray the nature of the",
@@ -997,7 +998,7 @@
             ]
         },
         {
-            "id": "[44:43]",
+            "verse-id": "[44:43]",
             "verse": "Indeed, the tree of zaqqum",
             "description": [
                 "For the explanation of zaqqum, see E.N.",
@@ -1005,14 +1006,14 @@
             ]
         },
         {
-            "id": "[44:44]",
+            "verse-id": "[44:44]",
             "verse": "Is food for the sinful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:45]",
+            "verse-id": "[44:45]",
             "verse": "Like murky oil, it boils within bellies",
             "description": [
                 "The word al--muhl in the original has",
@@ -1026,42 +1027,42 @@
             ]
         },
         {
-            "id": "[44:46]",
+            "verse-id": "[44:46]",
             "verse": "Like the boiling of scalding water.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:47]",
+            "verse-id": "[44:47]",
             "verse": "[It will be commanded], \"Seize him and drag him into the midst of the Hellfire,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:48]",
+            "verse-id": "[44:48]",
             "verse": "Then pour over his head from the torment of scalding water.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:49]",
+            "verse-id": "[44:49]",
             "verse": "[It will be said], \"Taste! Indeed, you are the honored, the noble!",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:50]",
+            "verse-id": "[44:50]",
             "verse": "Indeed, this is what you used to dispute.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:51]",
+            "verse-id": "[44:51]",
             "verse": "Indeed, the righteous will be in a secure place;",
             "description": [
                 "\"A secure place\" : A place safe",
@@ -1080,14 +1081,14 @@
             ]
         },
         {
-            "id": "[44:52]",
+            "verse-id": "[44:52]",
             "verse": "Within gardens and springs,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:53]",
+            "verse-id": "[44:53]",
             "verse": "Wearing [garments of] fine silk and brocade, facing each other.",
             "description": [
                 "Sundus and istabraq in the original are",
@@ -1096,7 +1097,7 @@
             ]
         },
         {
-            "id": "[44:54]",
+            "verse-id": "[44:54]",
             "verse": "Thus. And We will marry them to fair women with large, [beautiful] eyes.",
             "description": [
                 "In the original, hur-un 'in : fair",
@@ -1105,7 +1106,7 @@
             ]
         },
         {
-            "id": "[44:55]",
+            "verse-id": "[44:55]",
             "verse": "They will call therein for every [kind of] fruit - safe and secure.",
             "description": [
                 "That is, they will order the attendants",
@@ -1129,7 +1130,7 @@
             ]
         },
         {
-            "id": "[44:56]",
+            "verse-id": "[44:56]",
             "verse": "They will not taste death therein except the first death, and He will have protected them from the punishment of Hellfire",
             "description": [
                 "Two things are worthy of notice in",
@@ -1180,21 +1181,21 @@
             ]
         },
         {
-            "id": "[44:57]",
+            "verse-id": "[44:57]",
             "verse": "As bounty from your Lord. That is what is the great attainment.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:58]",
+            "verse-id": "[44:58]",
             "verse": "And indeed, We have eased the Qur'an in your tongue that they might be reminded.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[44:59]",
+            "verse-id": "[44:59]",
             "verse": "So watch, [O Muhammad]; indeed, they are watching [for your end].",
             "description": [
                 "That is, \"If they do not accept",

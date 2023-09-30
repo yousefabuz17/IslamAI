@@ -1,9 +1,10 @@
 {
     "name": "Al-Mutaffifin",
+    "id": 83,
     "verse-count": 36,
     "verse-info": [
         {
-            "id": "[83:1]",
+            "verse-id": "[83:1]",
             "verse": "Woe to those who give less [than due],",
             "description": [
                 "In the original the word mutaffifin has",
@@ -22,14 +23,14 @@
             ]
         },
         {
-            "id": "[83:2]",
+            "verse-id": "[83:2]",
             "verse": "Who, when they take a measure from people, take in full.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:3]",
+            "verse-id": "[83:3]",
             "verse": "But if they give by measure or by weight to them, they cause loss.",
             "description": [
                 "At several places in the Qur'an giving",
@@ -55,14 +56,14 @@
             ]
         },
         {
-            "id": "[83:4]",
+            "verse-id": "[83:4]",
             "verse": "Do they not think that they will be resurrected",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:5]",
+            "verse-id": "[83:5]",
             "verse": "For a tremendous Day -",
             "description": [
                 "\"A Great Day\": the Day of Resurrection",
@@ -74,14 +75,14 @@
             ]
         },
         {
-            "id": "[83:6]",
+            "verse-id": "[83:6]",
             "verse": "The Day when mankind will stand before the Lord of the worlds?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:7]",
+            "verse-id": "[83:7]",
             "verse": "No! Indeed, the record of the wicked is in sijjeen.",
             "description": [
                 "That is, \"These people are wrong in",
@@ -99,42 +100,42 @@
             ]
         },
         {
-            "id": "[83:8]",
+            "verse-id": "[83:8]",
             "verse": "And what can make you know what is sijjeen?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:9]",
+            "verse-id": "[83:9]",
             "verse": "It is [their destination recorded in] a register inscribed.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:10]",
+            "verse-id": "[83:10]",
             "verse": "Woe, that Day, to the deniers,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:11]",
+            "verse-id": "[83:11]",
             "verse": "Who deny the Day of Recompense.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:12]",
+            "verse-id": "[83:12]",
             "verse": "And none deny it except every sinful transgressor.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:13]",
+            "verse-id": "[83:13]",
             "verse": "When Our verses are recited to him, he says, \"Legends of the former peoples.\"",
             "description": [
                 "\"Our Revelations\": those verses in which news",
@@ -143,7 +144,7 @@
             ]
         },
         {
-            "id": "[83:14]",
+            "verse-id": "[83:14]",
             "verse": "No! Rather, the stain has covered their hearts of that which they were earning.",
             "description": [
                 "That is, they have no good reason",
@@ -166,7 +167,7 @@
             ]
         },
         {
-            "id": "[83:15]",
+            "verse-id": "[83:15]",
             "verse": "No! Indeed, from their Lord, that Day, they will be partitioned.",
             "description": [
                 "That is, these people will remain deprived",
@@ -177,21 +178,21 @@
             ]
         },
         {
-            "id": "[83:16]",
+            "verse-id": "[83:16]",
             "verse": "Then indeed, they will [enter and] burn in Hellfire.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:17]",
+            "verse-id": "[83:17]",
             "verse": "Then it will be said [to them], \"This is what you used to deny.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:18]",
+            "verse-id": "[83:18]",
             "verse": "No! Indeed, the record of the righteous is in 'illiyyun.",
             "description": [
                 "That is, they are wrong in thinking",
@@ -200,49 +201,49 @@
             ]
         },
         {
-            "id": "[83:19]",
+            "verse-id": "[83:19]",
             "verse": "And what can make you know what is 'illiyyun?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:20]",
+            "verse-id": "[83:20]",
             "verse": "It is [their destination recorded in] a register inscribed",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:21]",
+            "verse-id": "[83:21]",
             "verse": "Which is witnessed by those brought near [to Allah].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:22]",
+            "verse-id": "[83:22]",
             "verse": "Indeed, the righteous will be in pleasure",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:23]",
+            "verse-id": "[83:23]",
             "verse": "On adorned couches, observing.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:24]",
+            "verse-id": "[83:24]",
             "verse": "You will recognize in their faces the radiance of pleasure.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:25]",
+            "verse-id": "[83:25]",
             "verse": "They will be given to drink [pure] wine [which was] sealed.",
             "description": [
                 "One meaning of the words khltamu-hu misk",
@@ -267,14 +268,14 @@
             ]
         },
         {
-            "id": "[83:26]",
+            "verse-id": "[83:26]",
             "verse": "The last of it is musk. So for this let the competitors compete.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:27]",
+            "verse-id": "[83:27]",
             "verse": "And its mixture is of Tasneem,",
             "description": [
                 "\"Tasnim \".: height. Thus, Tasnim will be",
@@ -283,28 +284,28 @@
             ]
         },
         {
-            "id": "[83:28]",
+            "verse-id": "[83:28]",
             "verse": "A spring from which those near [to Allah] drink.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:29]",
+            "verse-id": "[83:29]",
             "verse": "Indeed, those who committed crimes used to laugh at those who believed.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:30]",
+            "verse-id": "[83:30]",
             "verse": "And when they passed by them, they would exchange derisive glances.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:31]",
+            "verse-id": "[83:31]",
             "verse": "And when they returned to their people, they would return jesting.",
             "description": [
                 "That is, they returned home rejoicing, thinking",
@@ -315,7 +316,7 @@
             ]
         },
         {
-            "id": "[83:32]",
+            "verse-id": "[83:32]",
             "verse": "And when they saw them, they would say, \"Indeed, those are truly lost.\"",
             "description": [
                 "That is, they have lost their reason:",
@@ -336,7 +337,7 @@
             ]
         },
         {
-            "id": "[83:33]",
+            "verse-id": "[83:33]",
             "verse": "But they had not been sent as guardians over them.",
             "description": [
                 "In this brief sentence the mockers and",
@@ -354,21 +355,21 @@
             ]
         },
         {
-            "id": "[83:34]",
+            "verse-id": "[83:34]",
             "verse": "So Today those who believed are laughing at the disbelievers,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:35]",
+            "verse-id": "[83:35]",
             "verse": "On adorned couches, observing.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[83:36]",
+            "verse-id": "[83:36]",
             "verse": "Have the disbelievers [not] been rewarded [this Day] for what they used to do?",
             "description": [
                 "There is a subtle satire in this",

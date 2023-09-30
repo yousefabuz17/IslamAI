@@ -1,9 +1,10 @@
 {
     "name": "Ash-Sharh",
+    "id": 94,
     "verse-count": 8,
     "verse-info": [
         {
-            "id": "[94:1]",
+            "verse-id": "[94:1]",
             "verse": "Did We not expand for you, [O Muhammad], your breast?",
             "description": [
                 "To begin the discourse with this question,",
@@ -131,14 +132,14 @@
             ]
         },
         {
-            "id": "[94:2]",
+            "verse-id": "[94:2]",
             "verse": "And We removed from you your burden",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[94:3]",
+            "verse-id": "[94:3]",
             "verse": "Which had weighed upon your back",
             "description": [
                 "Some of the commentators have interpreted this",
@@ -214,7 +215,7 @@
             ]
         },
         {
-            "id": "[94:4]",
+            "verse-id": "[94:4]",
             "verse": "And raised high for you your repute.",
             "description": [
                 "This was said at a time when",
@@ -352,14 +353,14 @@
             ]
         },
         {
-            "id": "[94:5]",
+            "verse-id": "[94:5]",
             "verse": "For indeed, with hardship [will be] ease.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[94:6]",
+            "verse-id": "[94:6]",
             "verse": "Indeed, with hardship [will be] ease.",
             "description": [
                 "This has been repeated twice so as",
@@ -380,14 +381,14 @@
             ]
         },
         {
-            "id": "[94:7]",
+            "verse-id": "[94:7]",
             "verse": "So when you have finished [your duties], then stand up [for worship].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[94:8]",
+            "verse-id": "[94:8]",
             "verse": "And to your Lord direct [your] longing.",
             "description": [
                 "When you are free,\": When you are",

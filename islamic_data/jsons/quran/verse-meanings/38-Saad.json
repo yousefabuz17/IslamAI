@@ -1,9 +1,10 @@
 {
     "name": "Saad",
+    "id": 38,
     "verse-count": 88,
     "verse-info": [
         {
-            "id": "[38:1]",
+            "verse-id": "[38:1]",
             "verse": "Sad. By the Qur'an containing reminder...",
             "description": [
                 "Although like alI other enigmatic letters (mugatta'at)",
@@ -25,7 +26,7 @@
             ]
         },
         {
-            "id": "[38:2]",
+            "verse-id": "[38:2]",
             "verse": "But those who disbelieve are in pride and dissension.",
             "description": [
                 "If the interpretation given of suad by",
@@ -59,14 +60,14 @@
             ]
         },
         {
-            "id": "[38:3]",
+            "verse-id": "[38:3]",
             "verse": "How many a generation have We destroyed before them, and they [then] called out; but it was not a time for escape.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:4]",
+            "verse-id": "[38:4]",
             "verse": "And they wonder that there has come to them a warner from among themselves. And the disbelievers say, \"This is a magician and a liar.",
             "description": [
                 "That is, \"They are so foolish that",
@@ -113,14 +114,14 @@
             ]
         },
         {
-            "id": "[38:5]",
+            "verse-id": "[38:5]",
             "verse": "Has he made the gods [only] one God? Indeed, this is a curious thing.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:6]",
+            "verse-id": "[38:6]",
             "verse": "And the eminent among them went forth, [saying], \"Continue, and be patient over [the defense of] your gods. Indeed, this is a thing intended.",
             "description": [
                 "The allusion is to the chiefs who",
@@ -140,7 +141,7 @@
             ]
         },
         {
-            "id": "[38:7]",
+            "verse-id": "[38:7]",
             "verse": "We have not heard of this in the latest religion. This is not but a fabrication.",
             "description": [
                 "That is, \"There have been our own",
@@ -175,7 +176,7 @@
             ]
         },
         {
-            "id": "[38:8]",
+            "verse-id": "[38:8]",
             "verse": "Has the message been revealed to him out of [all of] us?\" Rather, they are in doubt about My message. Rather, they have not yet tasted My punishment.",
             "description": [
                 "In other words Allah says: \" Muhammad,",
@@ -194,14 +195,14 @@
             ]
         },
         {
-            "id": "[38:9]",
+            "verse-id": "[38:9]",
             "verse": "Or do they have the depositories of the mercy of your Lord, the Exalted in Might, the Bestower?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:10]",
+            "verse-id": "[38:10]",
             "verse": "Or is theirs the dominion of the heavens and the earth and what is between them? Then let them ascend through [any] ways of access.",
             "description": [
                 "This is an answer to this saying",
@@ -232,7 +233,7 @@
             ]
         },
         {
-            "id": "[38:11]",
+            "verse-id": "[38:11]",
             "verse": "[They are but] soldiers [who will be] defeated there among the companies [of disbelievers].",
             "description": [
                 "\"Here\" implies the city of Makkah. That",
@@ -247,7 +248,7 @@
             ]
         },
         {
-            "id": "[38:12]",
+            "verse-id": "[38:12]",
             "verse": "The people of Noah denied before them, and [the tribe of] 'Aad and Pharaoh, the owner of stakes,",
             "description": [
                 "The use of dhil-autad (of the stakes)",
@@ -266,21 +267,21 @@
             ]
         },
         {
-            "id": "[38:13]",
+            "verse-id": "[38:13]",
             "verse": "And [the tribe of] Thamud and the people of Lot and the companions of the thicket. Those are the companies.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:14]",
+            "verse-id": "[38:14]",
             "verse": "Each of them denied the messengers, so My penalty was justified.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:15]",
+            "verse-id": "[38:15]",
             "verse": "And these [disbelievers] await not but one blast [of the Horn]; for it there will be no delay.",
             "description": [
                 "That is, `Only a single blast of",
@@ -293,7 +294,7 @@
             ]
         },
         {
-            "id": "[38:16]",
+            "verse-id": "[38:16]",
             "verse": "And they say, \"Our Lord, hasten for us our share [of the punishment] before the Day of Account\"",
             "description": [
                 "That is, `Allah's torment will be so",
@@ -309,7 +310,7 @@
             ]
         },
         {
-            "id": "[38:17]",
+            "verse-id": "[38:17]",
             "verse": "Be patient over what they say and remember Our servant, David, the possessor of strength; indeed, he was one who repeatedly turned back [to Allah].",
             "description": [
                 "The allusion is to the absurd conversation",
@@ -369,14 +370,14 @@
             ]
         },
         {
-            "id": "[38:18]",
+            "verse-id": "[38:18]",
             "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allah] in the [late] afternoon and [after] sunrise.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:19]",
+            "verse-id": "[38:19]",
             "verse": "And the birds were assembled, all with him repeating [praises].",
             "description": [
                 "For explanation, see Surah Al-Anbiya' :79 and",
@@ -384,7 +385,7 @@
             ]
         },
         {
-            "id": "[38:20]",
+            "verse-id": "[38:20]",
             "verse": "And We strengthened his kingdom and gave him wisdom and discernment in speech.",
             "description": [
                 "That is, \"He was never ambiguous in",
@@ -400,7 +401,7 @@
             ]
         },
         {
-            "id": "[38:21]",
+            "verse-id": "[38:21]",
             "verse": "And has there come to you the news of the adversaries, when they climbed over the wall of [his] prayer chamber -",
             "description": [
                 "The object why the Prophet David has",
@@ -413,7 +414,7 @@
             ]
         },
         {
-            "id": "[38:22]",
+            "verse-id": "[38:22]",
             "verse": "When they entered upon David and he was alarmed by them? They said, \"Fear not. [We are] two adversaries, one of whom has wronged the other, so judge between us with truth and do not exceed [it] and guide us to the sound path.",
             "description": [
                 "He was alarmed because the two men",
@@ -424,7 +425,7 @@
             ]
         },
         {
-            "id": "[38:23]",
+            "verse-id": "[38:23]",
             "verse": "Indeed this, my brother, has ninety-nine ewes, and I have one ewe; so he said, 'Entrust her to me,' and he overpowered me in speech.\"",
             "description": [
                 "\"Brother\" dces not mean a real brother",
@@ -444,7 +445,7 @@
             ]
         },
         {
-            "id": "[38:24]",
+            "verse-id": "[38:24]",
             "verse": "[David] said, \"He has certainly wronged you in demanding your ewe [in addition] to his ewes. And indeed, many associates oppress one another, except for those who believe and do righteous deeds - and few are they.\" And David became certain that We had tried him, and he asked forgiveness of his Lord and fell down bowing [in prostration] and turned in repentance [to Allah].",
             "description": [
                 "Here, one should not doubt that the",
@@ -548,7 +549,7 @@
             ]
         },
         {
-            "id": "[38:25]",
+            "verse-id": "[38:25]",
             "verse": "So We forgave him that; and indeed, for him is nearness to Us and a good place of return.",
             "description": [
                 "This shows that the Prophet David had",
@@ -569,7 +570,7 @@
             ]
         },
         {
-            "id": "[38:26]",
+            "verse-id": "[38:26]",
             "verse": "[We said], \"O David, indeed We have made you a successor upon the earth, so judge between the people in truth and do not follow [your own] desire, as it will lead you astray from the way of Allah.\" Indeed, those who go astray from the way of Allah will have a severe punishment for having forgotten the Day of Account.",
             "description": [
                 "This is the warning that AIlah gave",
@@ -930,7 +931,7 @@
             ]
         },
         {
-            "id": "[38:27]",
+            "verse-id": "[38:27]",
             "verse": "And We did not create the heaven and the earth and that between them aimlessly. That is the assumption of those who disbelieve, so woe to those who disbelieve from the Fire.",
             "description": [
                 "That is, \"We have not created anything",
@@ -979,7 +980,7 @@
             ]
         },
         {
-            "id": "[38:28]",
+            "verse-id": "[38:28]",
             "verse": "Or should we treat those who believe and do righteous deeds like corrupters in the land? Or should We treat those who fear Allah like the wicked?",
             "description": [
                 "That is, \"Do you think it is",
@@ -1011,7 +1012,7 @@
             ]
         },
         {
-            "id": "[38:29]",
+            "verse-id": "[38:29]",
             "verse": "[This is] a blessed Book which We have revealed to you, [O Muhammad], that they might reflect upon its verses and that those of understanding would be reminded.",
             "description": [
                 "The Qur'an has been called a blessed",
@@ -1024,7 +1025,7 @@
             ]
         },
         {
-            "id": "[38:30]",
+            "verse-id": "[38:30]",
             "verse": "And to David We gave Solomon. An excellent servant, indeed he was one repeatedly turning back [to Allah].",
             "description": [
                 "The Prophet Solomon has been mentioned already",
@@ -1034,7 +1035,7 @@
             ]
         },
         {
-            "id": "[38:31]",
+            "verse-id": "[38:31]",
             "verse": "[Mention] when there were exhibited before him in the afternoon the poised [standing] racehorses.",
             "description": [
                 "The words as-sefinat-ul- jiyad in the original",
@@ -1044,7 +1045,7 @@
             ]
         },
         {
-            "id": "[38:32]",
+            "verse-id": "[38:32]",
             "verse": "And he said, \"Indeed, I gave preference to the love of good [things] over the remembrance of my Lord until the sun disappeared into the curtain [of darkness].\"",
             "description": [
                 "The Arabic word khair in the Text",
@@ -1056,7 +1057,7 @@
             ]
         },
         {
-            "id": "[38:33]",
+            "verse-id": "[38:33]",
             "verse": "[He said], \"Return them to me,\" and set about striking [their] legs and necks.",
             "description": [
                 "There is a difference of opinion among",
@@ -1273,14 +1274,14 @@
             ]
         },
         {
-            "id": "[38:34]",
+            "verse-id": "[38:34]",
             "verse": "And We certainly tried Solomon and placed on his throne a body; then he returned.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:35]",
+            "verse-id": "[38:35]",
             "verse": "He said, \"My Lord, forgive me and grant me a kingdom such as will not belong to anyone after me. Indeed, You are the Bestower.\"",
             "description": [
                 "In view of the contest, the real",
@@ -1559,7 +1560,7 @@
             ]
         },
         {
-            "id": "[38:36]",
+            "verse-id": "[38:36]",
             "verse": "So We subjected to him the wind blowing by his command, gently, wherever he directed,",
             "description": [
                 "For explanation, see Surah Al-Anbiya`: 81 and",
@@ -1580,14 +1581,14 @@
             ]
         },
         {
-            "id": "[38:37]",
+            "verse-id": "[38:37]",
             "verse": "And [also] the devils [of jinn] - every builder and diver",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:38]",
+            "verse-id": "[38:38]",
             "verse": "And others bound together in shackles.",
             "description": [
                 "For explanation, see Al-Anbiya': 82, An-Naml: 17,",
@@ -1607,7 +1608,7 @@
             ]
         },
         {
-            "id": "[38:39]",
+            "verse-id": "[38:39]",
             "verse": "[We said], \"This is Our gift, so grant or withhold without account.\"",
             "description": [
                 "This verse can have three meanings: (1)",
@@ -1629,7 +1630,7 @@
             ]
         },
         {
-            "id": "[38:40]",
+            "verse-id": "[38:40]",
             "verse": "And indeed, for him is nearness to Us and a good place of return.",
             "description": [
                 "Here, the object is to tell that",
@@ -1659,7 +1660,7 @@
             ]
         },
         {
-            "id": "[38:41]",
+            "verse-id": "[38:41]",
             "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\"",
             "description": [
                 "This is the fourth place in the",
@@ -1699,7 +1700,7 @@
             ]
         },
         {
-            "id": "[38:42]",
+            "verse-id": "[38:42]",
             "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for] a cool bath and drink.\"",
             "description": [
                 "That is, \"As soon as he stamped",
@@ -1715,7 +1716,7 @@
             ]
         },
         {
-            "id": "[38:43]",
+            "verse-id": "[38:43]",
             "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding.",
             "description": [
                 "Traditions show that during this illness everyone",
@@ -1742,7 +1743,7 @@
             ]
         },
         {
-            "id": "[38:44]",
+            "verse-id": "[38:44]",
             "verse": "[We said], \"And take in your hand a bunch [of grass] and strike with it and do not break your oath.\" Indeed, We found him patient, an excellent servant. Indeed, he was one repeatedly turning back [to Allah].",
             "description": [
                 "A careful study of these words shows",
@@ -1907,7 +1908,7 @@
             ]
         },
         {
-            "id": "[38:45]",
+            "verse-id": "[38:45]",
             "verse": "And remember Our servants, Abraham, Isaac and Jacob - those of strength and [religious] vision.",
             "description": [
                 "The actual words in the Text mean",
@@ -1939,7 +1940,7 @@
             ]
         },
         {
-            "id": "[38:46]",
+            "verse-id": "[38:46]",
             "verse": "Indeed, We chose them for an exclusive quality: remembrance of the home [of the Hereafter].",
             "description": [
                 "That is, \"The real cause for their",
@@ -1974,14 +1975,14 @@
             ]
         },
         {
-            "id": "[38:47]",
+            "verse-id": "[38:47]",
             "verse": "And indeed they are, to Us, among the chosen and outstanding.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:48]",
+            "verse-id": "[38:48]",
             "verse": "And remember Ishmael, Elisha and Dhul-Kifl, and all are among the outstanding.",
             "description": [
                 "The Prophet AI-Yas`a has been mentioned only",
@@ -2039,14 +2040,14 @@
             ]
         },
         {
-            "id": "[38:49]",
+            "verse-id": "[38:49]",
             "verse": "This is a reminder. And indeed, for the righteous is a good place of return",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:50]",
+            "verse-id": "[38:50]",
             "verse": "Gardens of perpetual residence, whose doors will be opened to them.",
             "description": [
                 "The words mufattahat-al-lahum-ul-abwab may have several meanings:",
@@ -2069,14 +2070,14 @@
             ]
         },
         {
-            "id": "[38:51]",
+            "verse-id": "[38:51]",
             "verse": "Reclining within them, they will call therein for abundant fruit and drink.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:52]",
+            "verse-id": "[38:52]",
             "verse": "And with them will be women limiting [their] glances and of equal age.",
             "description": [
                 "\"Wives of equal age\" may mean that",
@@ -2087,35 +2088,35 @@
             ]
         },
         {
-            "id": "[38:53]",
+            "verse-id": "[38:53]",
             "verse": "This is what you, [the righteous], are promised for the Day of Account.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:54]",
+            "verse-id": "[38:54]",
             "verse": "Indeed, this is Our provision; for it there is no depletion.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:55]",
+            "verse-id": "[38:55]",
             "verse": "This [is so]. But indeed, for the transgressors is an evil place of return -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:56]",
+            "verse-id": "[38:56]",
             "verse": "Hell, which they will [enter to] burn, and wretched is the resting place.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:57]",
+            "verse-id": "[38:57]",
             "verse": "This - so let them taste it - is scalding water and [foul] purulence.",
             "description": [
                 "Several meanings of the word ghassaq, as",
@@ -2133,35 +2134,35 @@
             ]
         },
         {
-            "id": "[38:58]",
+            "verse-id": "[38:58]",
             "verse": "And other [punishments] of its type [in various] kinds.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:59]",
+            "verse-id": "[38:59]",
             "verse": "[Its inhabitants will say], \"This is a company bursting in with you. No welcome for them. Indeed, they will burn in the Fire.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:60]",
+            "verse-id": "[38:60]",
             "verse": "They will say, \"Nor you! No welcome for you. You, [our leaders], brought this upon us, and wretched is the settlement.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:61]",
+            "verse-id": "[38:61]",
             "verse": "They will say, \"Our Lord, whoever brought this upon us - increase for him double punishment in the Fire.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:62]",
+            "verse-id": "[38:62]",
             "verse": "And they will say, \"Why do we not see men whom we used to count among the worst?",
             "description": [
                 "This implies the believers whom the disbelievers",
@@ -2178,21 +2179,21 @@
             ]
         },
         {
-            "id": "[38:63]",
+            "verse-id": "[38:63]",
             "verse": "Is it [because] we took them in ridicule, or has [our] vision turned away from them?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:64]",
+            "verse-id": "[38:64]",
             "verse": "Indeed, that is truth - the quarreling of the people of the Fire.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:65]",
+            "verse-id": "[38:65]",
             "verse": "Say, [O Muhammad], \"I am only a warner, and there is not any deity except Allah, the One, the Prevailing.",
             "description": [
                 "Now the discourse turns to the same",
@@ -2217,21 +2218,21 @@
             ]
         },
         {
-            "id": "[38:66]",
+            "verse-id": "[38:66]",
             "verse": "Lord of the heavens and the earth and whatever is between them, the Exalted in Might, the Perpetual Forgiver.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:67]",
+            "verse-id": "[38:67]",
             "verse": "Say, \"It is great news",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:68]",
+            "verse-id": "[38:68]",
             "verse": "From which you turn away.",
             "description": [
                 "This is the answer to what the",
@@ -2265,21 +2266,21 @@
             ]
         },
         {
-            "id": "[38:69]",
+            "verse-id": "[38:69]",
             "verse": "I had no knowledge of the exalted assembly [of angels] when they were disputing [the creation of Adam].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:70]",
+            "verse-id": "[38:70]",
             "verse": "It has not been revealed to me except that I am a clear warner.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:71]",
+            "verse-id": "[38:71]",
             "verse": "[So mention] when your Lord said to the angels, \"Indeed, I am going to create a human being from clay.",
             "description": [
                 "This is the explanation of the dispute",
@@ -2313,7 +2314,7 @@
             ]
         },
         {
-            "id": "[38:72]",
+            "verse-id": "[38:72]",
             "verse": "So when I have proportioned him and breathed into him of My [created] soul, then fall down to him in prostration.\"",
             "description": [
                 "For explanation, see Al-Hijr: 29-30, and E.N.",
@@ -2324,14 +2325,14 @@
             ]
         },
         {
-            "id": "[38:73]",
+            "verse-id": "[38:73]",
             "verse": "So the angels prostrated - all of them entirely.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:74]",
+            "verse-id": "[38:74]",
             "verse": "Except Iblees; he was arrogant and became among the disbelievers.",
             "description": [
                 "For explanation, see ALBaqarah: 34, AI-Kahf: 50",
@@ -2339,7 +2340,7 @@
             ]
         },
         {
-            "id": "[38:75]",
+            "verse-id": "[38:75]",
             "verse": "[Allah] said, \"O Iblees, what prevented you from prostrating to that which I created with My hands? Were you arrogant [then], or were you [already] among the haughty?\"",
             "description": [
                 "These words have been used to point",
@@ -2366,14 +2367,14 @@
             ]
         },
         {
-            "id": "[38:76]",
+            "verse-id": "[38:76]",
             "verse": "He said, \"I am better than him. You created me from fire and created him from clay.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:77]",
+            "verse-id": "[38:77]",
             "verse": "[Allah] said, \"Then get out of Paradise, for indeed, you are expelled.",
             "description": [
                 "\"From here\": from the place where Adam",
@@ -2393,7 +2394,7 @@
             ]
         },
         {
-            "id": "[38:78]",
+            "verse-id": "[38:78]",
             "verse": "And indeed, upon you is My curse until the Day of Recompense.\"",
             "description": [
                 "This dces not mean that there will",
@@ -2408,35 +2409,35 @@
             ]
         },
         {
-            "id": "[38:79]",
+            "verse-id": "[38:79]",
             "verse": "He said, \"My Lord, then reprieve me until the Day they are resurrected.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:80]",
+            "verse-id": "[38:80]",
             "verse": "[Allah] said, \"So indeed, you are of those reprieved",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:81]",
+            "verse-id": "[38:81]",
             "verse": "Until the Day of the time well-known.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:82]",
+            "verse-id": "[38:82]",
             "verse": "[Iblees] said, \"By your might, I will surely mislead them all",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:83]",
+            "verse-id": "[38:83]",
             "verse": "Except, among them, Your chosen servants.\"",
             "description": [
                 "This does not mean \"I will not",
@@ -2446,14 +2447,14 @@
             ]
         },
         {
-            "id": "[38:84]",
+            "verse-id": "[38:84]",
             "verse": "[Allah] said, \"The truth [is My oath], and the truth I say -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:85]",
+            "verse-id": "[38:85]",
             "verse": "[That] I will surely fill Hell with you and those of them that follow you all together.\"",
             "description": [
                 "\"With you\" is not only addressed to",
@@ -2511,7 +2512,7 @@
             ]
         },
         {
-            "id": "[38:86]",
+            "verse-id": "[38:86]",
             "verse": "Say, [O Muhammad], \"I do not ask you for the Qur'an any payment, and I am not of the pretentious",
             "description": [
                 "That is, \"I am a selfless person:",
@@ -2539,14 +2540,14 @@
             ]
         },
         {
-            "id": "[38:87]",
+            "verse-id": "[38:87]",
             "verse": "It is but a reminder to the worlds.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[38:88]",
+            "verse-id": "[38:88]",
             "verse": "And you will surely know [the truth of] its information after a time.\"",
             "description": [
                 "That is, \"Those of you who live",

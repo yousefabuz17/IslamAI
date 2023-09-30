@@ -1,9 +1,10 @@
 {
     "name": "Al-Kawthar",
+    "id": 108,
     "verse-count": 3,
     "verse-info": [
         {
-            "id": "[108:1]",
+            "verse-id": "[108:1]",
             "verse": "Indeed, We have granted you, [O Muhammad], al-Kawthar.",
             "description": [
                 "The full meaning of the word kauthar,",
@@ -346,7 +347,7 @@
             ]
         },
         {
-            "id": "[108:2]",
+            "verse-id": "[108:2]",
             "verse": "So pray to your Lord and sacrifice [to Him alone].",
             "description": [
                 "Different commentaries of it have been reported",
@@ -419,7 +420,7 @@
             ]
         },
         {
-            "id": "[108:3]",
+            "verse-id": "[108:3]",
             "verse": "Indeed, your enemy is the one cut off.",
             "description": [
                 "The word shani' as used, in the",

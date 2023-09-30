@@ -1,9 +1,10 @@
 {
     "name": "Al-Kafirun",
+    "id": 109,
     "verse-count": 6,
     "verse-info": [
         {
-            "id": "[109:1]",
+            "verse-id": "[109:1]",
             "verse": "Say, \"O disbelievers,",
             "description": [
                 "A few points in this verse are",
@@ -114,7 +115,7 @@
             ]
         },
         {
-            "id": "[109:2]",
+            "verse-id": "[109:2]",
             "verse": "I do not worship what you worship.",
             "description": [
                 "This includes aII those deities whom the",
@@ -177,7 +178,7 @@
             ]
         },
         {
-            "id": "[109:3]",
+            "verse-id": "[109:3]",
             "verse": "Nor are you worshippers of what I worship.",
             "description": [
                 "The words used are: ma a'budu. The",
@@ -338,14 +339,14 @@
             ]
         },
         {
-            "id": "[109:4]",
+            "verse-id": "[109:4]",
             "verse": "Nor will I be a worshipper of what you worship.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[109:5]",
+            "verse-id": "[109:5]",
             "verse": "Nor will you be worshippers of what I worship.",
             "description": [
                 "A section of the commentators is of",
@@ -439,7 +440,7 @@
             ]
         },
         {
-            "id": "[109:6]",
+            "verse-id": "[109:6]",
             "verse": "For you is your religion, and for me is my religion.\"",
             "description": [
                 "That is, \"My religion is entirely distinct",

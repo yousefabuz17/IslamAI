@@ -1,23 +1,24 @@
 {
     "name": "An-Naba",
+    "id": 78,
     "verse-count": 40,
     "verse-info": [
         {
-            "id": "[78:1]",
+            "verse-id": "[78:1]",
             "verse": "About what are they asking one another?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[78:2]",
+            "verse-id": "[78:2]",
             "verse": "About the great news -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[78:3]",
+            "verse-id": "[78:3]",
             "verse": "That over which they are in disagreement.",
             "description": [
                 "\"The Great News\": the news of the",
@@ -87,7 +88,7 @@
             ]
         },
         {
-            "id": "[78:4]",
+            "verse-id": "[78:4]",
             "verse": "No! They are going to know.",
             "description": [
                 "That is, whatever they say about the",
@@ -96,7 +97,7 @@
             ]
         },
         {
-            "id": "[78:5]",
+            "verse-id": "[78:5]",
             "verse": "Then, no! They are going to know.",
             "description": [
                 "That is, the time is not far",
@@ -111,7 +112,7 @@
             ]
         },
         {
-            "id": "[78:6]",
+            "verse-id": "[78:6]",
             "verse": "Have We not made the earth a resting place? (Have we not smoothed the Earth's surface?)",
             "description": [
                 "Enough light has been thrown at several",
@@ -128,7 +129,7 @@
             ]
         },
         {
-            "id": "[78:7]",
+            "verse-id": "[78:7]",
             "verse": "And the mountains as stakes?",
             "description": [
                 "For the wisdom of creating mountains on",
@@ -138,7 +139,7 @@
             ]
         },
         {
-            "id": "[78:8]",
+            "verse-id": "[78:8]",
             "verse": "And We created you in pairs",
             "description": [
                 "For explanation of the supreme wisdom that",
@@ -151,7 +152,7 @@
             ]
         },
         {
-            "id": "[78:9]",
+            "verse-id": "[78:9]",
             "verse": "And made your sleep [a means for] rest",
             "description": [
                 "The explanation of the wisdom for which",
@@ -165,14 +166,14 @@
             ]
         },
         {
-            "id": "[78:10]",
+            "verse-id": "[78:10]",
             "verse": "And made the night as clothing",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[78:11]",
+            "verse-id": "[78:11]",
             "verse": "And made the day for livelihood",
             "description": [
                 "That is, \"The night has been made",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "id": "[78:12]",
+            "verse-id": "[78:12]",
             "verse": "And constructed above you seven strong [heavens]",
             "description": [
                 "\"Strong\" in the sense that their boundaries",
@@ -224,7 +225,7 @@
             ]
         },
         {
-            "id": "[78:13]",
+            "verse-id": "[78:13]",
             "verse": "And made [therein] a burning lamp",
             "description": [
                 "\"A bright, blazing lamp\": the sun. The",
@@ -267,21 +268,21 @@
             ]
         },
         {
-            "id": "[78:14]",
+            "verse-id": "[78:14]",
             "verse": "And sent down, from the rain clouds, pouring water",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[78:15]",
+            "verse-id": "[78:15]",
             "verse": "That We may bring forth thereby grain and vegetation",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[78:16]",
+            "verse-id": "[78:16]",
             "verse": "And gardens of entwined growth.",
             "description": [
                 "For the details of the wonderful manifestations",
@@ -347,21 +348,21 @@
             ]
         },
         {
-            "id": "[78:17]",
+            "verse-id": "[78:17]",
             "verse": "Indeed, the Day of Judgement is an appointed time -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[78:18]",
+            "verse-id": "[78:18]",
             "verse": "The Day the Horn is blown and you will come forth in multitudes",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[78:19]",
+            "verse-id": "[78:19]",
             "verse": "And the heaven is opened and will become gateways",
             "description": [
                 "This implies the final sounding of the",
@@ -377,7 +378,7 @@
             ]
         },
         {
-            "id": "[78:20]",
+            "verse-id": "[78:20]",
             "verse": "And the mountains are removed and will be [but] a mirage.",
             "description": [
                 "One should bear in mind the fact",
@@ -416,7 +417,7 @@
             ]
         },
         {
-            "id": "[78:21]",
+            "verse-id": "[78:21]",
             "verse": "Indeed, Hell has been lying in wait",
             "description": [
                 "\"An ambush\": a place contrived to entrap",
@@ -431,14 +432,14 @@
             ]
         },
         {
-            "id": "[78:22]",
+            "verse-id": "[78:22]",
             "verse": "For the transgressors, a place of return,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[78:23]",
+            "verse-id": "[78:23]",
             "verse": "In which they will remain for ages [unending].",
             "description": [
                 "The word ahqab as used in the",
@@ -495,14 +496,14 @@
             ]
         },
         {
-            "id": "[78:24]",
+            "verse-id": "[78:24]",
             "verse": "They will not taste therein [any] coolness or drink",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[78:25]",
+            "verse-id": "[78:25]",
             "verse": "Except scalding water and [foul] purulence -",
             "description": [
                 "The word ghassaq as used in the",
@@ -516,21 +517,21 @@
             ]
         },
         {
-            "id": "[78:26]",
+            "verse-id": "[78:26]",
             "verse": "An appropriate recompense.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[78:27]",
+            "verse-id": "[78:27]",
             "verse": "Indeed, they were not expecting an account",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[78:28]",
+            "verse-id": "[78:28]",
             "verse": "And denied Our verses with [emphatic] denial.",
             "description": [
                 "This is the reason for which they",
@@ -546,7 +547,7 @@
             ]
         },
         {
-            "id": "[78:29]",
+            "verse-id": "[78:29]",
             "verse": "But all things We have enumerated in writing.",
             "description": [
                 "That is, \"We were continuously preparing a",
@@ -563,14 +564,14 @@
             ]
         },
         {
-            "id": "[78:30]",
+            "verse-id": "[78:30]",
             "verse": "\"So taste [the penalty], and never will We increase you except in torment.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[78:31]",
+            "verse-id": "[78:31]",
             "verse": "Indeed, for the righteous is attainment -",
             "description": [
                 "Here, the word \"righteous\" has been used",
@@ -584,14 +585,14 @@
             ]
         },
         {
-            "id": "[78:32]",
+            "verse-id": "[78:32]",
             "verse": "Gardens and grapevines",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[78:33]",
+            "verse-id": "[78:33]",
             "verse": "And full-breasted [companions] of equal age",
             "description": [
                 "TMs may mean that they will be",
@@ -603,14 +604,14 @@
             ]
         },
         {
-            "id": "[78:34]",
+            "verse-id": "[78:34]",
             "verse": "And a full cup.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[78:35]",
+            "verse-id": "[78:35]",
             "verse": "No ill speech will they hear therein or any falsehood -",
             "description": [
                 "At several places in the Qur'an this",
@@ -628,7 +629,7 @@
             ]
         },
         {
-            "id": "[78:36]",
+            "verse-id": "[78:36]",
             "verse": "[As] reward from your Lord, [a generous] gift [made due by] account,",
             "description": [
                 "\"A reward and sufficient gift\": that is,",
@@ -650,7 +651,7 @@
             ]
         },
         {
-            "id": "[78:37]",
+            "verse-id": "[78:37]",
             "verse": "[From] the Lord of the heavens and the earth and whatever is between them, the Most Merciful. They possess not from Him [authority for] speech.",
             "description": [
                 "That is, the Court of Allah Almighty",
@@ -663,7 +664,7 @@
             ]
         },
         {
-            "id": "[78:38]",
+            "verse-id": "[78:38]",
             "verse": "The Day that the Spirit and the angels will stand in rows, they will not speak except for one whom the Most Merciful permits, and he will say what is correct.",
             "description": [
                 "According to most commentators, \"the Spirit\" implies",
@@ -696,14 +697,14 @@
             ]
         },
         {
-            "id": "[78:39]",
+            "verse-id": "[78:39]",
             "verse": "That is the True Day; so he who wills may take to his Lord a [way of] return.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[78:40]",
+            "verse-id": "[78:40]",
             "verse": "Indeed, We have warned you of a near punishment on the Day when a man will observe what his hands have put forth and the disbeliever will say, \"Oh, I wish that I were dust!\"",
             "description": [
                 "Apparently, one might think that the people",

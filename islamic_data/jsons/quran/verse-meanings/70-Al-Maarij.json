@@ -1,9 +1,10 @@
 {
     "name": "Al-Maarij",
+    "id": 70,
     "verse-count": 44,
     "verse-info": [
         {
-            "id": "[70:1]",
+            "verse-id": "[70:1]",
             "verse": "A supplicant asked for a punishment bound to happen",
             "description": [
                 "Some commentators have taken the verb sa'ala",
@@ -33,14 +34,14 @@
             ]
         },
         {
-            "id": "[70:2]",
+            "verse-id": "[70:2]",
             "verse": "To the disbelievers; of it there is no preventer.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[70:3]",
+            "verse-id": "[70:3]",
             "verse": "[It is] from Allah, owner of the ways of ascent.",
             "description": [
                 "Ma'arij is plural of Mi'raj, which means",
@@ -56,7 +57,7 @@
             ]
         },
         {
-            "id": "[70:4]",
+            "verse-id": "[70:4]",
             "verse": "The angels and the Spirit will ascend to Him during a Day the extent of which is fifty thousand years.",
             "description": [
                 "\"The Spirit\": the Angel Gabriel (peace be",
@@ -155,7 +156,7 @@
             ]
         },
         {
-            "id": "[70:5]",
+            "verse-id": "[70:5]",
             "verse": "So be patient with gracious patience.",
             "description": [
                 "\"A goodly patience\": \"A kind of patience",
@@ -164,14 +165,14 @@
             ]
         },
         {
-            "id": "[70:6]",
+            "verse-id": "[70:6]",
             "verse": "Indeed, they see it [as] distant,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[70:7]",
+            "verse-id": "[70:7]",
             "verse": "But We see it [as] near.",
             "description": [
                 "This can have two meanings: (1) \"That",
@@ -185,7 +186,7 @@
             ]
         },
         {
-            "id": "[70:8]",
+            "verse-id": "[70:8]",
             "verse": "On the Day the sky will be like murky oil,",
             "description": [
                 "A section of the commentators regard this",
@@ -217,7 +218,7 @@
             ]
         },
         {
-            "id": "[70:9]",
+            "verse-id": "[70:9]",
             "verse": "And the mountains will be like wool,",
             "description": [
                 "As the colours of the mountains are",
@@ -228,14 +229,14 @@
             ]
         },
         {
-            "id": "[70:10]",
+            "verse-id": "[70:10]",
             "verse": "And no friend will ask [anything of] a friend,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[70:11]",
+            "verse-id": "[70:11]",
             "verse": "They will be shown each other. The criminal will wish that he could be ransomed from the punishment of that Day by his children",
             "description": [
                 "Not so that they will not see",
@@ -247,49 +248,49 @@
             ]
         },
         {
-            "id": "[70:12]",
+            "verse-id": "[70:12]",
             "verse": "And his wife and his brother",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[70:13]",
+            "verse-id": "[70:13]",
             "verse": "And his nearest kindred who shelter him",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[70:14]",
+            "verse-id": "[70:14]",
             "verse": "And whoever is on earth entirely [so] then it could save him.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[70:15]",
+            "verse-id": "[70:15]",
             "verse": "No! Indeed, it is the Flame [of Hell],",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[70:16]",
+            "verse-id": "[70:16]",
             "verse": "A remover of exteriors.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[70:17]",
+            "verse-id": "[70:17]",
             "verse": "It invites he who turned his back [on truth] and went away [from obedience]",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[70:18]",
+            "verse-id": "[70:18]",
             "verse": "And collected [wealth] and hoarded.",
             "description": [
                 "Here also, as in Al-Haaqqah: 33-34, two",
@@ -303,7 +304,7 @@
             ]
         },
         {
-            "id": "[70:19]",
+            "verse-id": "[70:19]",
             "verse": "Indeed, mankind was created anxious:",
             "description": [
                 "\"Man has been created impatient\": It is",
@@ -327,21 +328,21 @@
             ]
         },
         {
-            "id": "[70:20]",
+            "verse-id": "[70:20]",
             "verse": "When evil touches him, impatient,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[70:21]",
+            "verse-id": "[70:21]",
             "verse": "And when good touches him, withholding [of it],",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[70:22]",
+            "verse-id": "[70:22]",
             "verse": "Except the observers of prayer -",
             "description": [
                 "A person's performing the salat necessarily implies",
@@ -352,7 +353,7 @@
             ]
         },
         {
-            "id": "[70:23]",
+            "verse-id": "[70:23]",
             "verse": "Those who are constant in their prayer",
             "description": [
                 "That is, no laziness, or love of",
@@ -373,14 +374,14 @@
             ]
         },
         {
-            "id": "[70:24]",
+            "verse-id": "[70:24]",
             "verse": "And those within whose wealth is a known right",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[70:25]",
+            "verse-id": "[70:25]",
             "verse": "For the petitioner and the deprived -",
             "description": [
                 "In Surah Adh-Dhariyat: 19, it has been",
@@ -426,7 +427,7 @@
             ]
         },
         {
-            "id": "[70:26]",
+            "verse-id": "[70:26]",
             "verse": "And those who believe in the Day of Recompense",
             "description": [
                 "\"Who believe ... Day of Recompense\": who",
@@ -438,7 +439,7 @@
             ]
         },
         {
-            "id": "[70:27]",
+            "verse-id": "[70:27]",
             "verse": "And those who are fearful of the punishment of their Lord -",
             "description": [
                 "In other words, they are not like",
@@ -458,14 +459,14 @@
             ]
         },
         {
-            "id": "[70:28]",
+            "verse-id": "[70:28]",
             "verse": "Indeed, the punishment of their Lord is not that from which one is safe -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[70:29]",
+            "verse-id": "[70:29]",
             "verse": "And those who guard their private parts",
             "description": [
                 "\"Who guard their private parts\": who abstain",
@@ -477,7 +478,7 @@
             ]
         },
         {
-            "id": "[70:30]",
+            "verse-id": "[70:30]",
             "verse": "Except from their wives or those their right hands possess, for indeed, they are not to be blamed -",
             "description": [
                 "For explanation, see E.N. 7 of Al-Mu'minun.",
@@ -485,14 +486,14 @@
             ]
         },
         {
-            "id": "[70:31]",
+            "verse-id": "[70:31]",
             "verse": "But whoever seeks beyond that, then they are the transgressors -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[70:32]",
+            "verse-id": "[70:32]",
             "verse": "And those who are to their trusts and promises attentive",
             "description": [
                 "\"Trusts\" imply those trusts which Allah has",
@@ -516,7 +517,7 @@
             ]
         },
         {
-            "id": "[70:33]",
+            "verse-id": "[70:33]",
             "verse": "And those who are in their testimonies upright",
             "description": [
                 "That is, they neither conceal evidence nor",
@@ -525,7 +526,7 @@
             ]
         },
         {
-            "id": "[70:34]",
+            "verse-id": "[70:34]",
             "verse": "And those who [carefully] maintain their prayer:",
             "description": [
                 "This gives an idea of the importance",
@@ -555,21 +556,21 @@
             ]
         },
         {
-            "id": "[70:35]",
+            "verse-id": "[70:35]",
             "verse": "They will be in gardens, honored.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[70:36]",
+            "verse-id": "[70:36]",
             "verse": "So what is [the matter] with those who disbelieve, hastening [from] before you, [O Muhammad],",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[70:37]",
+            "verse-id": "[70:37]",
             "verse": "[To sit] on [your] right and [your] left in separate groups?",
             "description": [
                 "This refers to those disbelievers who would",
@@ -581,7 +582,7 @@
             ]
         },
         {
-            "id": "[70:38]",
+            "verse-id": "[70:38]",
             "verse": "Does every person among them aspire to enter a garden of pleasure?",
             "description": [
                 "It means that God's Paradise is only",
@@ -607,7 +608,7 @@
             ]
         },
         {
-            "id": "[70:39]",
+            "verse-id": "[70:39]",
             "verse": "No! Indeed, We have created them from that which they know.",
             "description": [
                 "Here, this sentence can have two meanings:",
@@ -645,7 +646,7 @@
             ]
         },
         {
-            "id": "[70:40]",
+            "verse-id": "[70:40]",
             "verse": "So I swear by the Lord of [all] risings and settings that indeed We are able",
             "description": [
                 "That is, the truth is not that",
@@ -676,7 +677,7 @@
             ]
         },
         {
-            "id": "[70:41]",
+            "verse-id": "[70:41]",
             "verse": "To replace them with better than them; and We are not to be outdone.",
             "description": [
                 "This is that for which Allah Almighty",
@@ -693,14 +694,14 @@
             ]
         },
         {
-            "id": "[70:42]",
+            "verse-id": "[70:42]",
             "verse": "So leave them to converse vainly and amuse themselves until they meet their Day which they are promised -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[70:43]",
+            "verse-id": "[70:43]",
             "verse": "The Day they will emerge from the graves rapidly as if they were, toward an erected idol, hastening.",
             "description": [
                 "There is a difference of opinion among",
@@ -719,7 +720,7 @@
             ]
         },
         {
-            "id": "[70:44]",
+            "verse-id": "[70:44]",
             "verse": "Their eyes humbled, humiliation will cover them. That is the Day which they had been promised.",
             "description": [
                 ""

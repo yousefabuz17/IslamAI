@@ -1,37 +1,38 @@
 {
     "name": "Al-Fajr",
+    "id": 89,
     "verse-count": 30,
     "verse-info": [
         {
-            "id": "[89:1]",
+            "verse-id": "[89:1]",
             "verse": "By the dawn",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[89:2]",
+            "verse-id": "[89:2]",
             "verse": "And [by] ten nights",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[89:3]",
+            "verse-id": "[89:3]",
             "verse": "And [by] the even [number] and the odd",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[89:4]",
+            "verse-id": "[89:4]",
             "verse": "And [by] the night when it passes,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[89:5]",
+            "verse-id": "[89:5]",
             "verse": "Is there [not] in [all] that an oath [sufficient] for one of perception?",
             "description": [
                 "Much difference of opinion has been expressed",
@@ -205,7 +206,7 @@
             ]
         },
         {
-            "id": "[89:6]",
+            "verse-id": "[89:6]",
             "verse": "Have you not considered how your Lord dealt with 'Aad -",
             "description": [
                 "After reasoning out the judgement from the",
@@ -272,7 +273,7 @@
             ]
         },
         {
-            "id": "[89:7]",
+            "verse-id": "[89:7]",
             "verse": "[With] Iram - who had lofty pillars,",
             "description": [
                 "`Ad Iram implies the ancient tribe of",
@@ -313,7 +314,7 @@
             ]
         },
         {
-            "id": "[89:8]",
+            "verse-id": "[89:8]",
             "verse": "The likes of whom had never been created in the land?",
             "description": [
                 "That is, they were a matchless people",
@@ -332,7 +333,7 @@
             ]
         },
         {
-            "id": "[89:9]",
+            "verse-id": "[89:9]",
             "verse": "And [with] Thamud, who carved out the rocks in the valley?",
             "description": [
                 "\"The valley\": Wad-il-Qura, where the Thamud carved",
@@ -346,7 +347,7 @@
             ]
         },
         {
-            "id": "[89:10]",
+            "verse-id": "[89:10]",
             "verse": "And [with] Pharaoh, owner of the stakes? -",
             "description": [
                 "The words dhul-autad (of the stakes) for",
@@ -372,28 +373,28 @@
             ]
         },
         {
-            "id": "[89:11]",
+            "verse-id": "[89:11]",
             "verse": "[All of] whom oppressed within the lands",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[89:12]",
+            "verse-id": "[89:12]",
             "verse": "And increased therein the corruption.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[89:13]",
+            "verse-id": "[89:13]",
             "verse": "So your Lord poured upon them a scourge of punishment.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[89:14]",
+            "verse-id": "[89:14]",
             "verse": "Indeed, your Lord is in observation.",
             "description": [
                 "The words \"ever lying in ambush\" have",
@@ -417,7 +418,7 @@
             ]
         },
         {
-            "id": "[89:15]",
+            "verse-id": "[89:15]",
             "verse": "And as for man, when his Lord tries him and [thus] is generous to him and favors him, he says, \"My Lord has honored me.\"",
             "description": [
                 "Now, criticizing the general moral state of",
@@ -434,7 +435,7 @@
             ]
         },
         {
-            "id": "[89:16]",
+            "verse-id": "[89:16]",
             "verse": "But when He tries him and restricts his provision, he says, \"My Lord has humiliated me.\"",
             "description": [
                 "This then is man's materialistic view of",
@@ -466,7 +467,7 @@
             ]
         },
         {
-            "id": "[89:17]",
+            "verse-id": "[89:17]",
             "verse": "No! But you do not honor the orphan",
             "description": [
                 "That is, this is not all the",
@@ -483,7 +484,7 @@
             ]
         },
         {
-            "id": "[89:18]",
+            "verse-id": "[89:18]",
             "verse": "And you do not encourage one another to feed the poor.",
             "description": [
                 "That is, \"Nobody in your society feels",
@@ -497,7 +498,7 @@
             ]
         },
         {
-            "id": "[89:19]",
+            "verse-id": "[89:19]",
             "verse": "And you consume inheritance, devouring [it] altogether,",
             "description": [
                 "In Arabia, the women and children were",
@@ -520,7 +521,7 @@
             ]
         },
         {
-            "id": "[89:20]",
+            "verse-id": "[89:20]",
             "verse": "And you love wealth with immense love.",
             "description": [
                 "That is, \"You have no regard for",
@@ -534,7 +535,7 @@
             ]
         },
         {
-            "id": "[89:21]",
+            "verse-id": "[89:21]",
             "verse": "No! When the earth has been leveled - pounded and crushed -",
             "description": [
                 "That is, \"You are wrong in thinking",
@@ -551,7 +552,7 @@
             ]
         },
         {
-            "id": "[89:22]",
+            "verse-id": "[89:22]",
             "verse": "And your Lord has come and the angels, rank upon rank,",
             "description": [
                 "Although literally the words jaa Rabbuka mean",
@@ -571,7 +572,7 @@
             ]
         },
         {
-            "id": "[89:23]",
+            "verse-id": "[89:23]",
             "verse": "And brought [within view], that Day, is Hell - that Day, man will remember, but what good to him will be the remembrance?",
             "description": [
                 "The words in the original can have",
@@ -593,28 +594,28 @@
             ]
         },
         {
-            "id": "[89:24]",
+            "verse-id": "[89:24]",
             "verse": "He will say, \"Oh, I wish I had sent ahead [some good] for my life.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[89:25]",
+            "verse-id": "[89:25]",
             "verse": "So on that Day, none will punish [as severely] as His punishment,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[89:26]",
+            "verse-id": "[89:26]",
             "verse": "And none will bind [as severely] as His binding [of the evildoers].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[89:27]",
+            "verse-id": "[89:27]",
             "verse": "[To the righteous it will be said], \"O reassured soul,",
             "description": [
                 "\"Peaceful .. satisfied soul\": the man who",
@@ -646,7 +647,7 @@
             ]
         },
         {
-            "id": "[89:28]",
+            "verse-id": "[89:28]",
             "verse": "Return to your Lord, well-pleased and pleasing [to Him],",
             "description": [
                 "This he will be told at the",
@@ -662,14 +663,14 @@
             ]
         },
         {
-            "id": "[89:29]",
+            "verse-id": "[89:29]",
             "verse": "And enter among My [righteous] servants",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[89:30]",
+            "verse-id": "[89:30]",
             "verse": "And enter My Paradise.\"",
             "description": [
                 ""

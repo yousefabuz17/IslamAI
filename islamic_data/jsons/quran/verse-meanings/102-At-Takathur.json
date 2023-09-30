@@ -1,9 +1,10 @@
 {
     "name": "At-Takathur",
+    "id": 102,
     "verse-count": 8,
     "verse-info": [
         {
-            "id": "[102:1]",
+            "verse-id": "[102:1]",
             "verse": "Competition in [worldly] increase diverts you",
             "description": [
                 "The words alhakum at-takathur of the original",
@@ -96,7 +97,7 @@
             ]
         },
         {
-            "id": "[102:2]",
+            "verse-id": "[102:2]",
             "verse": "Until you visit the graveyards.",
             "description": [
                 "That is, \"You expend your whole Iife",
@@ -106,7 +107,7 @@
             ]
         },
         {
-            "id": "[102:3]",
+            "verse-id": "[102:3]",
             "verse": "No! You are going to know.",
             "description": [
                 "That is, \"You are under the delusion",
@@ -133,35 +134,35 @@
             ]
         },
         {
-            "id": "[102:4]",
+            "verse-id": "[102:4]",
             "verse": "Then no! You are going to know.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[102:5]",
+            "verse-id": "[102:5]",
             "verse": "No! If you only knew with knowledge of certainty...",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[102:6]",
+            "verse-id": "[102:6]",
             "verse": "You will surely see the Hellfire.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[102:7]",
+            "verse-id": "[102:7]",
             "verse": "Then you will surely see it with the eye of certainty.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[102:8]",
+            "verse-id": "[102:8]",
             "verse": "Then you will surely be asked that Day about pleasure.",
             "description": [
                 "\"Then\" in this sentence dces not mean",

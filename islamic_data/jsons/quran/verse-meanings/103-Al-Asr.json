@@ -1,23 +1,24 @@
 {
     "name": "Al-Asr",
+    "id": 103,
     "verse-count": 3,
     "verse-info": [
         {
-            "id": "[103:1]",
+            "verse-id": "[103:1]",
             "verse": "By time,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[103:2]",
+            "verse-id": "[103:2]",
             "verse": "Indeed, mankind is in loss,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[103:3]",
+            "verse-id": "[103:3]",
             "verse": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
             "description": [
                 "In this Surah an oath has been",

@@ -1,23 +1,24 @@
 {
     "name": "Al-Qadr",
+    "id": 97,
     "verse-count": 5,
     "verse-info": [
         {
-            "id": "[97:1]",
+            "verse-id": "[97:1]",
             "verse": "Indeed, We sent the Qur'an down during the Night of Decree.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[97:2]",
+            "verse-id": "[97:2]",
             "verse": "And what can make you know what is the Night of Decree?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[97:3]",
+            "verse-id": "[97:3]",
             "verse": "The Night of Decree is better than a thousand months.",
             "description": [
                 "The commentators in general have understood this",
@@ -61,7 +62,7 @@
             ]
         },
         {
-            "id": "[97:4]",
+            "verse-id": "[97:4]",
             "verse": "The angels and the Spirit descend therein by permission of their Lord for every matter.",
             "description": [
                 "\"The Spirit\": Gabriel (peace be on him),",
@@ -76,7 +77,7 @@
             ]
         },
         {
-            "id": "[97:5]",
+            "verse-id": "[97:5]",
             "verse": "Peace it is until the emergence of dawn.",
             "description": [
                 "That is, the entire Night, from evening",

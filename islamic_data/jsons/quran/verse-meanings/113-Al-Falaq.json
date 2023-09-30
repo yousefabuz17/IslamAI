@@ -1,9 +1,10 @@
 {
     "name": "Al-Falaq",
+    "id": 113,
     "verse-count": 5,
     "verse-info": [
         {
-            "id": "[113:1]",
+            "verse-id": "[113:1]",
             "verse": "Say, \"I seek refuge in the Lord of daybreak",
             "description": [
                 "As qul (say) is a part of",
@@ -271,7 +272,7 @@
             ]
         },
         {
-            "id": "[113:2]",
+            "verse-id": "[113:2]",
             "verse": "From the evil of that which He created",
             "description": [
                 "In other words: \"I seek His refuge",
@@ -361,7 +362,7 @@
             ]
         },
         {
-            "id": "[113:3]",
+            "verse-id": "[113:3]",
             "verse": "And from the evil of darkness when it settles",
             "description": [
                 "After seeking Allah's refuge generally from the",
@@ -436,7 +437,7 @@
             ]
         },
         {
-            "id": "[113:4]",
+            "verse-id": "[113:4]",
             "verse": "And from the evil of the blowers in knots",
             "description": [
                 "The word ' uqad in naffathat frl-'eqad",
@@ -505,7 +506,7 @@
             ]
         },
         {
-            "id": "[113:5]",
+            "verse-id": "[113:5]",
             "verse": "And from the evil of an envier when he envies.\"",
             "description": [
                 "Hasad means that a person should feel",

@@ -1,9 +1,10 @@
 {
     "name": "At-Tin",
+    "id": 95,
     "verse-count": 8,
     "verse-info": [
         {
-            "id": "[95:1]",
+            "verse-id": "[95:1]",
             "verse": "By the fig and the olive",
             "description": [
                 "There has been much difference of opinion",
@@ -85,7 +86,7 @@
             ]
         },
         {
-            "id": "[95:2]",
+            "verse-id": "[95:2]",
             "verse": "And [by] Mount Sinai",
             "description": [
                 "The words in the original are Tur-",
@@ -101,14 +102,14 @@
             ]
         },
         {
-            "id": "[95:3]",
+            "verse-id": "[95:3]",
             "verse": "And [by] this secure city [Makkah],",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[95:4]",
+            "verse-id": "[95:4]",
             "verse": "We have certainly created man in the best of stature;",
             "description": [
                 "This is the truth for which the",
@@ -160,7 +161,7 @@
             ]
         },
         {
-            "id": "[95:5]",
+            "verse-id": "[95:5]",
             "verse": "Then We return him to the lowest of the low,",
             "description": [
                 "The commentators in general have given two",
@@ -255,7 +256,7 @@
             ]
         },
         {
-            "id": "[95:6]",
+            "verse-id": "[95:6]",
             "verse": "Except for those who believe and do righteous deeds, for they will have a reward uninterrupted.",
             "description": [
                 "The commentators who have taken asfala safilin",
@@ -299,7 +300,7 @@
             ]
         },
         {
-            "id": "[95:7]",
+            "verse-id": "[95:7]",
             "verse": "So what yet causes you to deny the Recompense?",
             "description": [
                 "Another translation of this verse can be:",
@@ -338,7 +339,7 @@
             ]
         },
         {
-            "id": "[95:8]",
+            "verse-id": "[95:8]",
             "verse": "Is not Allah the most just of judges?",
             "description": [
                 "That is, \"When you want and expect",

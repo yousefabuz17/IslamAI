@@ -1,9 +1,10 @@
 {
     "name": "Al-Maun",
+    "id": 107,
     "verse-count": 7,
     "verse-info": [
         {
-            "id": "[107:1]",
+            "verse-id": "[107:1]",
             "verse": "Have you seen the one who denies the Recompense?",
             "description": [
                 "The words \"have you seen\", apparently, are",
@@ -57,7 +58,7 @@
             ]
         },
         {
-            "id": "[107:2]",
+            "verse-id": "[107:2]",
             "verse": "For that is the one who drives away the orphan",
             "description": [
                 "The letter fa in the sentence fa-dhalika-alladhi",
@@ -158,7 +159,7 @@
             ]
         },
         {
-            "id": "[107:3]",
+            "verse-id": "[107:3]",
             "verse": "And does not encourage the feeding of the poor.",
             "description": [
                 "La yahuddu means that the person neither",
@@ -219,7 +220,7 @@
             ]
         },
         {
-            "id": "[107:4]",
+            "verse-id": "[107:4]",
             "verse": "So woe to those who pray",
             "description": [
                 "The fa in fa-wail-ul -lil-musallin signifies that",
@@ -241,7 +242,7 @@
             ]
         },
         {
-            "id": "[107:5]",
+            "verse-id": "[107:5]",
             "verse": "[But] who are heedless of their prayer -",
             "description": [
                 "The words used are an-salat-i him sahun",
@@ -370,7 +371,7 @@
             ]
         },
         {
-            "id": "[107:6]",
+            "verse-id": "[107:6]",
             "verse": "Those who make show [of their deeds]",
             "description": [
                 "This can be an independent sentence as",
@@ -408,7 +409,7 @@
             ]
         },
         {
-            "id": "[107:7]",
+            "verse-id": "[107:7]",
             "verse": "And withhold [simple] assistance.",
             "description": [
                 "The word used is ma'un. The view",

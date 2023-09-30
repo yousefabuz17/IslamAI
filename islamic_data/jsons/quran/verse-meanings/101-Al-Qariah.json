@@ -1,9 +1,10 @@
 {
     "name": "Al-Qariah",
+    "id": 101,
     "verse-count": 11,
     "verse-info": [
         {
-            "id": "[101:1]",
+            "verse-id": "[101:1]",
             "verse": "The Striking Calamity -",
             "description": [
                 "\"Qari'ah \" literally means the \"striking one\"",
@@ -31,28 +32,28 @@
             ]
         },
         {
-            "id": "[101:2]",
+            "verse-id": "[101:2]",
             "verse": "What is the Striking Calamity?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[101:3]",
+            "verse-id": "[101:3]",
             "verse": "And what can make you know what is the Striking Calamity?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[101:4]",
+            "verse-id": "[101:4]",
             "verse": "It is the Day when people will be like moths, dispersed,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[101:5]",
+            "verse-id": "[101:5]",
             "verse": "And the mountains will be like wool, fluffed up.",
             "description": [
                 "This will be the tirst stage of",
@@ -70,7 +71,7 @@
             ]
         },
         {
-            "id": "[101:6]",
+            "verse-id": "[101:6]",
             "verse": "Then as for one whose scales are heavy [with good deeds],",
             "description": [
                 "From here begins description of the second",
@@ -80,14 +81,14 @@
             ]
         },
         {
-            "id": "[101:7]",
+            "verse-id": "[101:7]",
             "verse": "He will be in a pleasant life.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[101:8]",
+            "verse-id": "[101:8]",
             "verse": "But as for one whose scales are light,",
             "description": [
                 "The word mawazin in the original can",
@@ -178,7 +179,7 @@
             ]
         },
         {
-            "id": "[101:9]",
+            "verse-id": "[101:9]",
             "verse": "His refuge will be an abyss.",
             "description": [
                 "The words in the original a\"re: ammu",
@@ -198,14 +199,14 @@
             ]
         },
         {
-            "id": "[101:10]",
+            "verse-id": "[101:10]",
             "verse": "And what can make you know what that is?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[101:11]",
+            "verse-id": "[101:11]",
             "verse": "It is a Fire, intensely hot.",
             "description": [
                 "That is, it will not merely be",

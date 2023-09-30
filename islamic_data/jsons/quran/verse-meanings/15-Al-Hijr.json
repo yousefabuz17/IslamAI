@@ -1,9 +1,10 @@
 {
     "name": "Al-Hijr",
+    "id": 15,
     "verse-count": 99,
     "verse-info": [
         {
-            "id": "[15:1]",
+            "verse-id": "[15:1]",
             "verse": "Alif, Lam, Ra. These are the verses of the Book and a clear Qur'an.",
             "description": [
                 "This verse is the brief introduction to",
@@ -15,21 +16,21 @@
             ]
         },
         {
-            "id": "[15:2]",
+            "verse-id": "[15:2]",
             "verse": "Perhaps those who disbelieve will wish that they had been Muslims.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:3]",
+            "verse-id": "[15:3]",
             "verse": "Let them eat and enjoy themselves and be diverted by [false] hope, for they are going to know.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:4]",
+            "verse-id": "[15:4]",
             "verse": "And We did not destroy any city but that for it was a known decree.",
             "description": [
                 "This is to refute the fallacious argument",
@@ -54,14 +55,14 @@
             ]
         },
         {
-            "id": "[15:5]",
+            "verse-id": "[15:5]",
             "verse": "No nation will precede its term, nor will they remain thereafter.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:6]",
+            "verse-id": "[15:6]",
             "verse": "And they say, \"O you upon whom the message has been sent down, indeed you are mad.",
             "description": [
                 "The word (Zikr) literally means \"to cause",
@@ -75,14 +76,14 @@
             ]
         },
         {
-            "id": "[15:7]",
+            "verse-id": "[15:7]",
             "verse": "Why do you not bring us the angels, if you should be among the truthful?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:8]",
+            "verse-id": "[15:8]",
             "verse": "We do not send down the angels except with truth; and the disbelievers would not then be reprieved.",
             "description": [
                 "This was a sarcastic remark that was",
@@ -126,7 +127,7 @@
             ]
         },
         {
-            "id": "[15:9]",
+            "verse-id": "[15:9]",
             "verse": "Indeed, it is We who sent down the Qur'an and indeed, We will be its guardian.",
             "description": [
                 "That is, \"You should note it well",
@@ -146,28 +147,28 @@
             ]
         },
         {
-            "id": "[15:10]",
+            "verse-id": "[15:10]",
             "verse": "And We had certainly sent [messengers] before you, [O Muhammad], among the sects of the former peoples.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:11]",
+            "verse-id": "[15:11]",
             "verse": "And no messenger would come to them except that they ridiculed him.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:12]",
+            "verse-id": "[15:12]",
             "verse": "Thus do We insert denial into the hearts of the criminals.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:13]",
+            "verse-id": "[15:13]",
             "verse": "They will not believe in it, while there has already occurred the precedent of the former peoples.",
             "description": [
                 "The majority of the translators and commentators",
@@ -195,21 +196,21 @@
             ]
         },
         {
-            "id": "[15:14]",
+            "verse-id": "[15:14]",
             "verse": "And [even] if We opened to them a gate from the heaven and they continued therein to ascend,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:15]",
+            "verse-id": "[15:15]",
             "verse": "They would say, \"Our eyes have only been dazzled. Rather, we are a people affected by magic.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:16]",
+            "verse-id": "[15:16]",
             "verse": "And We have placed within the heaven great stars and have beautified it for the observers.",
             "description": [
                 "In the preceding verses (14-15) it was",
@@ -264,7 +265,7 @@
             ]
         },
         {
-            "id": "[15:17]",
+            "verse-id": "[15:17]",
             "verse": "And We have protected it from every devil expelled [from the mercy of Allah]",
             "description": [
                 "That is, \"These spheres are so fortified",
@@ -286,7 +287,7 @@
             ]
         },
         {
-            "id": "[15:18]",
+            "verse-id": "[15:18]",
             "verse": "Except one who steals a hearing and is pursued by a clear burning flame.",
             "description": [
                 "This is the answer to the false",
@@ -351,7 +352,7 @@
             ]
         },
         {
-            "id": "[15:19]",
+            "verse-id": "[15:19]",
             "verse": "And the earth - We have spread it and cast therein firmly set mountains and caused to grow therein [something] of every well-balanced thing.",
             "description": [
                 "The growth of every kind of plant",
@@ -379,14 +380,14 @@
             ]
         },
         {
-            "id": "[15:20]",
+            "verse-id": "[15:20]",
             "verse": "And We have made for you therein means of living and [for] those for whom you are not providers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:21]",
+            "verse-id": "[15:21]",
             "verse": "And there is not a thing but that with Us are its depositories, and We do not send it down except according to a known measure.",
             "description": [
                 "This is to bring home the fact",
@@ -414,14 +415,14 @@
             ]
         },
         {
-            "id": "[15:22]",
+            "verse-id": "[15:22]",
             "verse": "And We have sent the fertilizing winds and sent down water from the sky and given you drink from it. And you are not its retainers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:23]",
+            "verse-id": "[15:23]",
             "verse": "And indeed, it is We who give life and cause death, and We are the Inheritor.",
             "description": [
                 "It is to impress this: \"your worldly",
@@ -434,14 +435,14 @@
             ]
         },
         {
-            "id": "[15:24]",
+            "verse-id": "[15:24]",
             "verse": "And We have already known the preceding [generations] among you, and We have already known the later [ones to come].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:25]",
+            "verse-id": "[15:25]",
             "verse": "And indeed, your Lord will gather them; indeed, He is Wise and Knowing.",
             "description": [
                 "\"He is All-Wise\", therefore His Wisdom demands",
@@ -465,7 +466,7 @@
             ]
         },
         {
-            "id": "[15:26]",
+            "verse-id": "[15:26]",
             "verse": "And We did certainly create man out of clay from an altered black mud.",
             "description": [
                 "The Arabic word \"salsal\" means the dried",
@@ -492,7 +493,7 @@
             ]
         },
         {
-            "id": "[15:27]",
+            "verse-id": "[15:27]",
             "verse": "And the jinn We created before from scorching fire.",
             "description": [
                 "As `samum' is not wind, `nar-i-samum\" will",
@@ -504,14 +505,14 @@
             ]
         },
         {
-            "id": "[15:28]",
+            "verse-id": "[15:28]",
             "verse": "And [mention, O Muhammad], when your Lord said to the angels, \"I will create a human being out of clay from an altered black mud.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:29]",
+            "verse-id": "[15:29]",
             "verse": "And when I have proportioned him and breathed into him of My [created] soul, then fall down to him in prostration.\"",
             "description": [
                 "\"....(when I have) breathed of My spirit",
@@ -553,14 +554,14 @@
             ]
         },
         {
-            "id": "[15:30]",
+            "verse-id": "[15:30]",
             "verse": "So the angels prostrated - all of them entirely,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:31]",
+            "verse-id": "[15:31]",
             "verse": "Except Iblees, he refused to be with those who prostrated.",
             "description": [
                 "Please compare this passage (vv. 30-43) with",
@@ -570,28 +571,28 @@
             ]
         },
         {
-            "id": "[15:32]",
+            "verse-id": "[15:32]",
             "verse": "[Allah] said, O Iblees, what is [the matter] with you that you are not with those who prostrate?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:33]",
+            "verse-id": "[15:33]",
             "verse": "He said, \"Never would I prostrate to a human whom You created out of clay from an altered black mud.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:34]",
+            "verse-id": "[15:34]",
             "verse": "[Allah] said, \"Then get out of it, for indeed, you are expelled.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:35]",
+            "verse-id": "[15:35]",
             "verse": "And indeed, upon you is the curse until the Day of Recompense.\"",
             "description": [
                 "That is, \"You shall remain accused up",
@@ -601,28 +602,28 @@
             ]
         },
         {
-            "id": "[15:36]",
+            "verse-id": "[15:36]",
             "verse": "He said, \"My Lord, then reprieve me until the Day they are resurrected.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:37]",
+            "verse-id": "[15:37]",
             "verse": "[Allah] said, \"So indeed, you are of those reprieved",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:38]",
+            "verse-id": "[15:38]",
             "verse": "Until the Day of the time well-known.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:39]",
+            "verse-id": "[15:39]",
             "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them on earth, and I will mislead them all",
             "description": [
                 "That is, \"Thou hast beguiled me by",
@@ -643,14 +644,14 @@
             ]
         },
         {
-            "id": "[15:40]",
+            "verse-id": "[15:40]",
             "verse": "Except, among them, Your chosen servants.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:41]",
+            "verse-id": "[15:41]",
             "verse": "[Allah] said, \"This is a path [of return] to Me [that is] straight.",
             "description": [
                 "This verse (41) may have another meaning:",
@@ -659,7 +660,7 @@
             ]
         },
         {
-            "id": "[15:42]",
+            "verse-id": "[15:42]",
             "verse": "Indeed, My servants - no authority will you have over them, except those who follow you of the deviators.",
             "description": [
                 "This verse (42) also may have another",
@@ -712,7 +713,7 @@
             ]
         },
         {
-            "id": "[15:43]",
+            "verse-id": "[15:43]",
             "verse": "And indeed, Hell is the promised place for them all.",
             "description": [
                 "In. order to comprehend the purpose for",
@@ -762,7 +763,7 @@
             ]
         },
         {
-            "id": "[15:44]",
+            "verse-id": "[15:44]",
             "verse": "It has seven gates; for every gate is of them a portion designated.\"",
             "description": [
                 "Sinners will be divided into different groups",
@@ -779,7 +780,7 @@
             ]
         },
         {
-            "id": "[15:45]",
+            "verse-id": "[15:45]",
             "verse": "Indeed, the righteous will be within gardens and springs.",
             "description": [
                 "The pious people are those who did",
@@ -788,14 +789,14 @@
             ]
         },
         {
-            "id": "[15:46]",
+            "verse-id": "[15:46]",
             "verse": "[Having been told], \"Enter it in peace, safe [and secure].\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:47]",
+            "verse-id": "[15:47]",
             "verse": "And We will remove whatever is in their breasts of resentment, [so they will be] brothers, on thrones facing each other.",
             "description": [
                 "That is, \"If any spite might have",
@@ -809,7 +810,7 @@
             ]
         },
         {
-            "id": "[15:48]",
+            "verse-id": "[15:48]",
             "verse": "No fatigue will touch them therein, nor from it will they [ever] be removed.",
             "description": [
                 "This verse is explained by the following",
@@ -831,21 +832,21 @@
             ]
         },
         {
-            "id": "[15:49]",
+            "verse-id": "[15:49]",
             "verse": "[O Muhammad], inform My servants that it is I who am the Forgiving, the Merciful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:50]",
+            "verse-id": "[15:50]",
             "verse": "And that it is My punishment which is the painful punishment.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:51]",
+            "verse-id": "[15:51]",
             "verse": "And inform them about the guests of Abraham,",
             "description": [
                 "The story of Prophets Abraham and Lot",
@@ -872,7 +873,7 @@
             ]
         },
         {
-            "id": "[15:52]",
+            "verse-id": "[15:52]",
             "verse": "When they entered upon him and said, \"Peace.\" [Abraham] said, \"Indeed, we are fearful of you.\"",
             "description": [
                 "Please compare this story of Prophet Abraham",
@@ -881,7 +882,7 @@
             ]
         },
         {
-            "id": "[15:53]",
+            "verse-id": "[15:53]",
             "verse": "[The angels] said, \"Fear not. Indeed, we give you good tidings of a learned boy.\"",
             "description": [
                 "\" ... a sagacious son\" : Prophet",
@@ -891,28 +892,28 @@
             ]
         },
         {
-            "id": "[15:54]",
+            "verse-id": "[15:54]",
             "verse": "He said, \"Have you given me good tidings although old age has come upon me? Then of what [wonder] do you inform?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:55]",
+            "verse-id": "[15:55]",
             "verse": "They said, \"We have given you good tidings in truth, so do not be of the despairing.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:56]",
+            "verse-id": "[15:56]",
             "verse": "He said, \"And who despairs of the mercy of his Lord except for those astray?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:57]",
+            "verse-id": "[15:57]",
             "verse": "[Abraham] said, \"Then what is your business [here], O messengers?\"",
             "description": [
                 "It appears from the question of Prophet",
@@ -922,7 +923,7 @@
             ]
         },
         {
-            "id": "[15:58]",
+            "verse-id": "[15:58]",
             "verse": "They said, \"Indeed, we have been sent to a people of criminals,",
             "description": [
                 "The fact that the angels did not",
@@ -937,21 +938,21 @@
             ]
         },
         {
-            "id": "[15:59]",
+            "verse-id": "[15:59]",
             "verse": "Except the family of Lot; indeed, we will save them all",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:60]",
+            "verse-id": "[15:60]",
             "verse": "Except his wife.\" Allah decreed that she is of those who remain behind.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:61]",
+            "verse-id": "[15:61]",
             "verse": "And when the messengers came to the family of Lot,",
             "description": [
                 "Please compare this with VII: 80-84 and",
@@ -959,7 +960,7 @@
             ]
         },
         {
-            "id": "[15:62]",
+            "verse-id": "[15:62]",
             "verse": "He said, \"Indeed, you are people unknown.\"",
             "description": [
                 "Here the story has been related in",
@@ -981,21 +982,21 @@
             ]
         },
         {
-            "id": "[15:63]",
+            "verse-id": "[15:63]",
             "verse": "They said, \"But we have come to you with that about which they were disputing,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:64]",
+            "verse-id": "[15:64]",
             "verse": "And we have come to you with truth, and indeed, we are truthful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:65]",
+            "verse-id": "[15:65]",
             "verse": "So set out with your family during a portion of the night and follow behind them and let not anyone among you look back and continue on to where you are commanded.\"",
             "description": [
                 "That is, \"You should walk behind your",
@@ -1019,14 +1020,14 @@
             ]
         },
         {
-            "id": "[15:66]",
+            "verse-id": "[15:66]",
             "verse": "And We conveyed to him [the decree] of that matter: that those [sinners] would be eliminated by early morning.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:67]",
+            "verse-id": "[15:67]",
             "verse": "And the people of the city came rejoicing.",
             "description": [
                 "This shows that those People had gone",
@@ -1120,28 +1121,28 @@
             ]
         },
         {
-            "id": "[15:68]",
+            "verse-id": "[15:68]",
             "verse": "[Lot] said, \"Indeed, these are my guests, so do not shame me.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:69]",
+            "verse-id": "[15:69]",
             "verse": "And fear Allah and do not disgrace me.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:70]",
+            "verse-id": "[15:70]",
             "verse": "They said, \"Have we not forbidden you from [protecting] people?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:71]",
+            "verse-id": "[15:71]",
             "verse": "[Lot] said, \"These are my daughters - if you would be doers [of lawful marriage].\"",
             "description": [
                 "In E.N. 87 of Surah Hud, it",
@@ -1195,21 +1196,21 @@
             ]
         },
         {
-            "id": "[15:72]",
+            "verse-id": "[15:72]",
             "verse": "By your life, [O Muhammad], indeed they were, in their intoxication, wandering blindly.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:73]",
+            "verse-id": "[15:73]",
             "verse": "So the shriek seized them at sunrise.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:74]",
+            "verse-id": "[15:74]",
             "verse": "And We made the highest part [of the city] its lowest and rained upon them stones of hard clay.",
             "description": [
                 "These \"stones of baked clay\" might have",
@@ -1220,14 +1221,14 @@
             ]
         },
         {
-            "id": "[15:75]",
+            "verse-id": "[15:75]",
             "verse": "Indeed in that are signs for those who discern.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:76]",
+            "verse-id": "[15:76]",
             "verse": "And indeed, those cities are [situated] on an established road.",
             "description": [
                 "That is, \"That smitten territory lies on",
@@ -1243,14 +1244,14 @@
             ]
         },
         {
-            "id": "[15:77]",
+            "verse-id": "[15:77]",
             "verse": "Indeed in that is a sign for the believers.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:78]",
+            "verse-id": "[15:78]",
             "verse": "And the companions of the thicket were [also] wrongdoers.",
             "description": [
                 "The people of Al-Aikah were the canmunity",
@@ -1262,7 +1263,7 @@
             ]
         },
         {
-            "id": "[15:79]",
+            "verse-id": "[15:79]",
             "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway.",
             "description": [
                 "Midian lay on the route from Hijaz",
@@ -1270,7 +1271,7 @@
             ]
         },
         {
-            "id": "[15:80]",
+            "verse-id": "[15:80]",
             "verse": "And certainly did the companions of Thamud deny the messengers.",
             "description": [
                 "AI-Hijr was the capital city of the",
@@ -1295,14 +1296,14 @@
             ]
         },
         {
-            "id": "[15:81]",
+            "verse-id": "[15:81]",
             "verse": "And We gave them Our signs, but from them they were turning away.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:82]",
+            "verse-id": "[15:82]",
             "verse": "And they used to carve from the mountains, houses, feeling secure.",
             "description": [
                 "That is, \"Their strong and secure buildings,",
@@ -1312,21 +1313,21 @@
             ]
         },
         {
-            "id": "[15:83]",
+            "verse-id": "[15:83]",
             "verse": "But the shriek seized them at early morning.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:84]",
+            "verse-id": "[15:84]",
             "verse": "So nothing availed them [from] what they used to earn.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:85]",
+            "verse-id": "[15:85]",
             "verse": "And We have not created the heavens and earth and that between them except in truth. And indeed, the Hour is coming; so forgive with gracious forgiveness.",
             "description": [
                 "This was to reassure the Holy Prophet",
@@ -1351,7 +1352,7 @@
             ]
         },
         {
-            "id": "[15:86]",
+            "verse-id": "[15:86]",
             "verse": "Indeed, your Lord - He is the Knowing Creator.",
             "description": [
                 "These attributes of Allah have been mentioned",
@@ -1371,7 +1372,7 @@
             ]
         },
         {
-            "id": "[15:87]",
+            "verse-id": "[15:87]",
             "verse": "And We have certainly given you, [O Muhammad], seven of the often repeated [verses] and the great Qur'an.",
             "description": [
                 "These seven verses which are recited over",
@@ -1436,7 +1437,7 @@
             ]
         },
         {
-            "id": "[15:88]",
+            "verse-id": "[15:88]",
             "verse": "Do not extend your eyes toward that by which We have given enjoyment to [certain] categories of the disbelievers, and do not grieve over them. And lower your wing to the believers",
             "description": [
                 "That is, \"Do not grieve that they",
@@ -1452,21 +1453,21 @@
             ]
         },
         {
-            "id": "[15:89]",
+            "verse-id": "[15:89]",
             "verse": "And say, \"Indeed, I am the clear warner\" -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:90]",
+            "verse-id": "[15:90]",
             "verse": "Just as We had revealed [scriptures] to the separators",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:91]",
+            "verse-id": "[15:91]",
             "verse": "Who have made the Qur'an into portions.",
             "description": [
                 "The schismatics were the Jews for they",
@@ -1501,56 +1502,56 @@
             ]
         },
         {
-            "id": "[15:92]",
+            "verse-id": "[15:92]",
             "verse": "So by your Lord, We will surely question them all",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:93]",
+            "verse-id": "[15:93]",
             "verse": "About what they used to do.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:94]",
+            "verse-id": "[15:94]",
             "verse": "Then declare what you are commanded and turn away from the polytheists.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:95]",
+            "verse-id": "[15:95]",
             "verse": "Indeed, We are sufficient for you against the mockers",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:96]",
+            "verse-id": "[15:96]",
             "verse": "Who make [equal] with Allah another deity. But they are going to know.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:97]",
+            "verse-id": "[15:97]",
             "verse": "And We already know that your breast is constrained by what they say.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:98]",
+            "verse-id": "[15:98]",
             "verse": "So exalt [Allah] with praise of your Lord and be of those who prostrate [to Him].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[15:99]",
+            "verse-id": "[15:99]",
             "verse": "And worship your Lord until there comes to you the certainty (death).",
             "description": [
                 "That is Salat and worship of your",

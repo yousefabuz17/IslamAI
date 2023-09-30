@@ -1,9 +1,10 @@
 {
     "name": "Al-Muddaththir",
+    "id": 74,
     "verse-count": 56,
     "verse-info": [
         {
-            "id": "[74:1]",
+            "verse-id": "[74:1]",
             "verse": "O you who covers himself [with a garment],",
             "description": [
                 "A study of the background of the",
@@ -31,7 +32,7 @@
             ]
         },
         {
-            "id": "[74:2]",
+            "verse-id": "[74:2]",
             "verse": "Arise and warn",
             "description": [
                 "A command of this very nature had",
@@ -55,7 +56,7 @@
             ]
         },
         {
-            "id": "[74:3]",
+            "verse-id": "[74:3]",
             "verse": "And your Lord glorify",
             "description": [
                 "This is the primary duty of a",
@@ -118,7 +119,7 @@
             ]
         },
         {
-            "id": "[74:4]",
+            "verse-id": "[74:4]",
             "verse": "And your clothing purify",
             "description": [
                 "These are very comprehensive words, which are",
@@ -218,7 +219,7 @@
             ]
         },
         {
-            "id": "[74:5]",
+            "verse-id": "[74:5]",
             "verse": "And uncleanliness avoid",
             "description": [
                 "\"Filth\" implies every kind of filth, whether",
@@ -234,7 +235,7 @@
             ]
         },
         {
-            "id": "[74:6]",
+            "verse-id": "[74:6]",
             "verse": "And do not confer favor to acquire more",
             "description": [
                 "The words wa Ia tamnun tastakthir in",
@@ -267,7 +268,7 @@
             ]
         },
         {
-            "id": "[74:7]",
+            "verse-id": "[74:7]",
             "verse": "But for your Lord be patient.",
             "description": [
                 "That is, \"The task that is being",
@@ -314,14 +315,14 @@
             ]
         },
         {
-            "id": "[74:8]",
+            "verse-id": "[74:8]",
             "verse": "And when the trumpet is blown,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:9]",
+            "verse-id": "[74:9]",
             "verse": "That Day will be a difficult day",
             "description": [
                 "As already explained in the introduction, this",
@@ -353,7 +354,7 @@
             ]
         },
         {
-            "id": "[74:10]",
+            "verse-id": "[74:10]",
             "verse": "For the disbelievers - not easy.",
             "description": [
                 "These words by themselves support the conclusion",
@@ -370,7 +371,7 @@
             ]
         },
         {
-            "id": "[74:11]",
+            "verse-id": "[74:11]",
             "verse": "Leave Me with the one I created alone",
             "description": [
                 "The address is directed to the Holy",
@@ -399,14 +400,14 @@
             ]
         },
         {
-            "id": "[74:12]",
+            "verse-id": "[74:12]",
             "verse": "And to whom I granted extensive wealth",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:13]",
+            "verse-id": "[74:13]",
             "verse": "And children present [with him]",
             "description": [
                 "Walid bin al-Mughirah had ten or twelve'",
@@ -428,14 +429,14 @@
             ]
         },
         {
-            "id": "[74:14]",
+            "verse-id": "[74:14]",
             "verse": "And spread [everything] before him, easing [his life].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:15]",
+            "verse-id": "[74:15]",
             "verse": "Then he desires that I should add more.",
             "description": [
                 "Its one meaning is that there is",
@@ -454,70 +455,70 @@
             ]
         },
         {
-            "id": "[74:16]",
+            "verse-id": "[74:16]",
             "verse": "No! Indeed, he has been toward Our verses obstinate.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:17]",
+            "verse-id": "[74:17]",
             "verse": "I will cover him with arduous torment.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:18]",
+            "verse-id": "[74:18]",
             "verse": "Indeed, he thought and deliberated.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:19]",
+            "verse-id": "[74:19]",
             "verse": "So may he be destroyed [for] how he deliberated.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:20]",
+            "verse-id": "[74:20]",
             "verse": "Then may he be destroyed [for] how he deliberated.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:21]",
+            "verse-id": "[74:21]",
             "verse": "Then he considered [again];",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:22]",
+            "verse-id": "[74:22]",
             "verse": "Then he frowned and scowled;",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:23]",
+            "verse-id": "[74:23]",
             "verse": "Then he turned back and was arrogant",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:24]",
+            "verse-id": "[74:24]",
             "verse": "And said, \"This is not but magic imitated [from others].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:25]",
+            "verse-id": "[74:25]",
             "verse": "This is not but the word of a human being.\"",
             "description": [
                 "The reference is to what happened in",
@@ -544,21 +545,21 @@
             ]
         },
         {
-            "id": "[74:26]",
+            "verse-id": "[74:26]",
             "verse": "I will drive him into Saqar.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:27]",
+            "verse-id": "[74:27]",
             "verse": "And what can make you know what is Saqar?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:28]",
+            "verse-id": "[74:28]",
             "verse": "It lets nothing remain and leaves nothing [unburned],",
             "description": [
                 "This can have two meanings: first, that",
@@ -576,7 +577,7 @@
             ]
         },
         {
-            "id": "[74:29]",
+            "verse-id": "[74:29]",
             "verse": "Blackening the skins.",
             "description": [
                 "After saying that it will leave nothing",
@@ -604,14 +605,14 @@
             ]
         },
         {
-            "id": "[74:30]",
+            "verse-id": "[74:30]",
             "verse": "Over it are nineteen [angels].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:31]",
+            "verse-id": "[74:31]",
             "verse": "And We have not made the keepers of the Fire except angels. And We have not made their number except as a trial for those who disbelieve - that those who were given the Scripture will be convinced and those who have believed will increase in faith and those who were given the Scripture and the believers will not doubt and that those in whose hearts is hypocrisy and the disbelievers will say, \"What does Allah intend by this as an example?\" Thus does Allah leave astray whom He wills and guides whom He wills. And none knows the soldiers of your Lord except Him. And mention of the Fire is not but a reminder to humanity.",
             "description": [
                 "The whole passage from here to \"none",
@@ -860,7 +861,7 @@
             ]
         },
         {
-            "id": "[74:32]",
+            "verse-id": "[74:32]",
             "verse": "No! By the moon",
             "description": [
                 "That is, it is not a hollow",
@@ -869,21 +870,21 @@
             ]
         },
         {
-            "id": "[74:33]",
+            "verse-id": "[74:33]",
             "verse": "And [by] the night when it departs",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:34]",
+            "verse-id": "[74:34]",
             "verse": "And [by] the morning when it brightens,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:35]",
+            "verse-id": "[74:35]",
             "verse": "Indeed, the Fire is of the greatest [afflictions]",
             "description": [
                 "That is, \"Just as the moon and",
@@ -912,14 +913,14 @@
             ]
         },
         {
-            "id": "[74:36]",
+            "verse-id": "[74:36]",
             "verse": "As a warning to humanity -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:37]",
+            "verse-id": "[74:37]",
             "verse": "To whoever wills among you to proceed or stay behind.",
             "description": [
                 "That is, the people have been warned",
@@ -930,7 +931,7 @@
             ]
         },
         {
-            "id": "[74:38]",
+            "verse-id": "[74:38]",
             "verse": "Every soul, for what it has earned, will be retained",
             "description": [
                 "For explanation, see E.N. 16 of Surah",
@@ -938,14 +939,14 @@
             ]
         },
         {
-            "id": "[74:39]",
+            "verse-id": "[74:39]",
             "verse": "Except the companions of the right,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:40]",
+            "verse-id": "[74:40]",
             "verse": "[Who will be] in gardens, questioning each other",
             "description": [
                 "In other words, the people of the",
@@ -959,7 +960,7 @@
             ]
         },
         {
-            "id": "[74:41]",
+            "verse-id": "[74:41]",
             "verse": "About the criminals,",
             "description": [
                 "At several places in the Qur'an above,",
@@ -976,14 +977,14 @@
             ]
         },
         {
-            "id": "[74:42]",
+            "verse-id": "[74:42]",
             "verse": "[And asking them], \"What put you into Saqar?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:43]",
+            "verse-id": "[74:43]",
             "verse": "They will say, \"We were not of those who prayed,",
             "description": [
                 "That is, \"We were not of those",
@@ -1005,7 +1006,7 @@
             ]
         },
         {
-            "id": "[74:44]",
+            "verse-id": "[74:44]",
             "verse": "Nor did we used to feed the poor.",
             "description": [
                 "This shows how grave a sin it",
@@ -1017,21 +1018,21 @@
             ]
         },
         {
-            "id": "[74:45]",
+            "verse-id": "[74:45]",
             "verse": "And we used to enter into vain discourse with those who engaged [in it],",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:46]",
+            "verse-id": "[74:46]",
             "verse": "And we used to deny the Day of Recompense",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:47]",
+            "verse-id": "[74:47]",
             "verse": "Until there came to us the certainty.\"",
             "description": [
                 "\"Till the inevitable overtoo us\" : till",
@@ -1041,7 +1042,7 @@
             ]
         },
         {
-            "id": "[74:48]",
+            "verse-id": "[74:48]",
             "verse": "So there will not benefit them the intercession of [any] intercessors.",
             "description": [
                 "That is, \"Even if an intercessor interceded",
@@ -1070,21 +1071,21 @@
             ]
         },
         {
-            "id": "[74:49]",
+            "verse-id": "[74:49]",
             "verse": "Then what is [the matter] with them that they are, from the reminder, turning away",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:50]",
+            "verse-id": "[74:50]",
             "verse": "As if they were alarmed donkeys",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:51]",
+            "verse-id": "[74:51]",
             "verse": "Fleeing from a lion?",
             "description": [
                 "This is an idiomatic expression in Arabic",
@@ -1095,7 +1096,7 @@
             ]
         },
         {
-            "id": "[74:52]",
+            "verse-id": "[74:52]",
             "verse": "Rather, every person among them desires that he would be given scriptures spread about.",
             "description": [
                 "That is, they desire that if Allah",
@@ -1121,7 +1122,7 @@
             ]
         },
         {
-            "id": "[74:53]",
+            "verse-id": "[74:53]",
             "verse": "No! But they do not fear the Hereafter.",
             "description": [
                 "That is, the real cause of their",
@@ -1176,7 +1177,7 @@
             ]
         },
         {
-            "id": "[74:54]",
+            "verse-id": "[74:54]",
             "verse": "No! Indeed, the Qur'an is a reminder",
             "description": [
                 "That is, no such demand of theirs",
@@ -1184,14 +1185,14 @@
             ]
         },
         {
-            "id": "[74:55]",
+            "verse-id": "[74:55]",
             "verse": "Then whoever wills will remember it.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[74:56]",
+            "verse-id": "[74:56]",
             "verse": "And they will not remember except that Allah wills. He is worthy of fear and adequate for [granting] forgiveness.",
             "description": [
                 "That is, a person's taking heed dces",

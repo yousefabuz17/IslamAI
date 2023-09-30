@@ -1,16 +1,17 @@
 {
     "name": "Adh-Dhariyat",
+    "id": 51,
     "verse-count": 60,
     "verse-info": [
         {
-            "id": "[51:1]",
+            "verse-id": "[51:1]",
             "verse": "By those [winds] scattering [dust] dispersing",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[51:2]",
+            "verse-id": "[51:2]",
             "verse": "And those [clouds] carrying a load [of water]",
             "description": [
                 "All the commentators are agreed that adh-dhariyat",
@@ -27,14 +28,14 @@
             ]
         },
         {
-            "id": "[51:3]",
+            "verse-id": "[51:3]",
             "verse": "And those [ships] sailing with ease",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[51:4]",
+            "verse-id": "[51:4]",
             "verse": "And those [angels] apportioning [each] matter,",
             "description": [
                 "The commentators have disputed the commentary of",
@@ -78,7 +79,7 @@
             ]
         },
         {
-            "id": "[51:5]",
+            "verse-id": "[51:5]",
             "verse": "Indeed, what you are promised is true.",
             "description": [
                 "The word used in the original is",
@@ -100,7 +101,7 @@
             ]
         },
         {
-            "id": "[51:6]",
+            "verse-id": "[51:6]",
             "verse": "And indeed, the recompense is to occur.",
             "description": [
                 "This is the thing for which the",
@@ -232,7 +233,7 @@
             ]
         },
         {
-            "id": "[51:7]",
+            "verse-id": "[51:7]",
             "verse": "By the heaven containing pathways,",
             "description": [
                 "The word hubuk in the original is",
@@ -253,7 +254,7 @@
             ]
         },
         {
-            "id": "[51:8]",
+            "verse-id": "[51:8]",
             "verse": "Indeed, you are in differing speech.",
             "description": [
                 "The oath has been sworn by the",
@@ -319,7 +320,7 @@
             ]
         },
         {
-            "id": "[51:9]",
+            "verse-id": "[51:9]",
             "verse": "Deluded away from the Qur'an is he who is deluded.",
             "description": [
                 "The pronoun of anhu in this sentence",
@@ -338,7 +339,7 @@
             ]
         },
         {
-            "id": "[51:10]",
+            "verse-id": "[51:10]",
             "verse": "Destroyed are the falsifiers",
             "description": [
                 "Here the Qur'an is warning man of",
@@ -404,7 +405,7 @@
             ]
         },
         {
-            "id": "[51:11]",
+            "verse-id": "[51:11]",
             "verse": "Who are within a flood [of confusion] and heedless.",
             "description": [
                 "That is, \"They do not know what",
@@ -466,14 +467,14 @@
             ]
         },
         {
-            "id": "[51:12]",
+            "verse-id": "[51:12]",
             "verse": "They ask, \"When is the Day of Recompense?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[51:13]",
+            "verse-id": "[51:13]",
             "verse": "[It is] the Day they will be tormented over the Fire",
             "description": [
                 "The disbelievers did not ask the question:",
@@ -522,7 +523,7 @@
             ]
         },
         {
-            "id": "[51:14]",
+            "verse-id": "[51:14]",
             "verse": "[And will be told], \"Taste your torment. This is that for which you were impatient.\"",
             "description": [
                 "The word fitnah gives two meanings here:",
@@ -556,7 +557,7 @@
             ]
         },
         {
-            "id": "[51:15]",
+            "verse-id": "[51:15]",
             "verse": "Indeed, the righteous will be among gardens and springs,",
             "description": [
                 "In this context the word muttaqi (the",
@@ -573,7 +574,7 @@
             ]
         },
         {
-            "id": "[51:16]",
+            "verse-id": "[51:16]",
             "verse": "Accepting what their Lord has given them. Indeed, they were before that doers of good.",
             "description": [
                 "Literally: \".. shall be receiving what their",
@@ -587,7 +588,7 @@
             ]
         },
         {
-            "id": "[51:17]",
+            "verse-id": "[51:17]",
             "verse": "They used to sleep but little of the night,",
             "description": [
                 "Some commentators have given this meaning of",
@@ -617,7 +618,7 @@
             ]
         },
         {
-            "id": "[51:18]",
+            "verse-id": "[51:18]",
             "verse": "And in the hours before dawn they would ask forgiveness,",
             "description": [
                 "That is \"They did not belong to",
@@ -644,7 +645,7 @@
             ]
         },
         {
-            "id": "[51:19]",
+            "verse-id": "[51:19]",
             "verse": "And from their properties was [given] the right of the [needy] petitioner and the deprived.",
             "description": [
                 "In other words, on the one hand,",
@@ -744,7 +745,7 @@
             ]
         },
         {
-            "id": "[51:20]",
+            "verse-id": "[51:20]",
             "verse": "And on the earth are signs for the certain [in faith]",
             "description": [
                 "The signs imply those proofs which testify",
@@ -807,7 +808,7 @@
             ]
         },
         {
-            "id": "[51:21]",
+            "verse-id": "[51:21]",
             "verse": "And in yourselves. Then will you not see?",
             "description": [
                 "That is, \"You may not look outside",
@@ -940,7 +941,7 @@
             ]
         },
         {
-            "id": "[51:22]",
+            "verse-id": "[51:22]",
             "verse": "And in the heaven is your provision and whatever you are promised.",
             "description": [
                 "By the heaven here is meant the",
@@ -962,14 +963,14 @@
             ]
         },
         {
-            "id": "[51:23]",
+            "verse-id": "[51:23]",
             "verse": "Then by the Lord of the heaven and earth, indeed, it is truth - just as [sure as] it is that you are speaking.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[51:24]",
+            "verse-id": "[51:24]",
             "verse": "Has there reached you the story of the honored guests of Abraham? -",
             "description": [
                 "Now, from here to the end of",
@@ -1030,7 +1031,7 @@
             ]
         },
         {
-            "id": "[51:25]",
+            "verse-id": "[51:25]",
             "verse": "When they entered upon him and said, \"[We greet you with] peace.\" He answered, \"[And upon you] peace, [you are] a people unknown.",
             "description": [
                 "In view of the context in which",
@@ -1050,7 +1051,7 @@
             ]
         },
         {
-            "id": "[51:26]",
+            "verse-id": "[51:26]",
             "verse": "Then he went to his family and came with a fat [roasted] calf",
             "description": [
                 "That is, \"He did not tell his",
@@ -1067,14 +1068,14 @@
             ]
         },
         {
-            "id": "[51:27]",
+            "verse-id": "[51:27]",
             "verse": "And placed it near them; he said, \"Will you not eat?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[51:28]",
+            "verse-id": "[51:28]",
             "verse": "And he felt from them apprehension. They said, \"Fear not,\" and gave him good tidings of a learned boy.",
             "description": [
                 "That is, \"When they did not stretch",
@@ -1103,7 +1104,7 @@
             ]
         },
         {
-            "id": "[51:29]",
+            "verse-id": "[51:29]",
             "verse": "And his wife approached with a cry [of alarm] and struck her face and said, \"[I am] a barren old woman!\"",
             "description": [
                 "That is, \"I am not only old",
@@ -1115,7 +1116,7 @@
             ]
         },
         {
-            "id": "[51:30]",
+            "verse-id": "[51:30]",
             "verse": "They said, \"Thus has said your Lord; indeed, He is the Wise, the Knowing.\"",
             "description": [
                 "The object of this story is to",
@@ -1143,7 +1144,7 @@
             ]
         },
         {
-            "id": "[51:31]",
+            "verse-id": "[51:31]",
             "verse": "[Abraham] said, \"Then what is your business [here], O messengers?\"",
             "description": [
                 "As the angels come in human guise",
@@ -1155,7 +1156,7 @@
             ]
         },
         {
-            "id": "[51:32]",
+            "verse-id": "[51:32]",
             "verse": "They said, \"Indeed, we have been sent to a people of criminals",
             "description": [
                 "That is, to the people of the",
@@ -1169,14 +1170,14 @@
             ]
         },
         {
-            "id": "[51:33]",
+            "verse-id": "[51:33]",
             "verse": "To send down upon them stones of clay,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[51:34]",
+            "verse-id": "[51:34]",
             "verse": "Marked in the presence of your Lord for the transgressors.\"",
             "description": [
                 "That is, \"Each stone has been marked",
@@ -1193,7 +1194,7 @@
             ]
         },
         {
-            "id": "[51:35]",
+            "verse-id": "[51:35]",
             "verse": "So We brought out whoever was in the cities of the believers.",
             "description": [
                 "As to what happened between them and",
@@ -1208,7 +1209,7 @@
             ]
         },
         {
-            "id": "[51:36]",
+            "verse-id": "[51:36]",
             "verse": "And We found not within them other than a [single] house of Muslims.",
             "description": [
                 "That is, \"Among the whole nation and",
@@ -1283,7 +1284,7 @@
             ]
         },
         {
-            "id": "[51:37]",
+            "verse-id": "[51:37]",
             "verse": "And We left therein a sign for those who fear the painful punishment.",
             "description": [
                 "One sign\": the Dead Sea, southern part",
@@ -1331,7 +1332,7 @@
             ]
         },
         {
-            "id": "[51:38]",
+            "verse-id": "[51:38]",
             "verse": "And in Moses [was a sign], when We sent him to Pharaoh with clear authority.",
             "description": [
                 "\"A clear authority': such miracles and clear",
@@ -1342,7 +1343,7 @@
             ]
         },
         {
-            "id": "[51:39]",
+            "verse-id": "[51:39]",
             "verse": "But he turned away with his supporters and said,\" A magician or a madman.\"",
             "description": [
                 "That is, they called him sometimes a",
@@ -1350,7 +1351,7 @@
             ]
         },
         {
-            "id": "[51:40]",
+            "verse-id": "[51:40]",
             "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy.",
             "description": [
                 "A whole history has been compressed into",
@@ -1388,14 +1389,14 @@
             ]
         },
         {
-            "id": "[51:41]",
+            "verse-id": "[51:41]",
             "verse": "And in 'Aad [was a sign], when We sent against them the barren wind.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[51:42]",
+            "verse-id": "[51:42]",
             "verse": "It left nothing of what it came upon but that it made it like disintegrated ruins.",
             "description": [
                 "The word used for this wind is",
@@ -1425,7 +1426,7 @@
             ]
         },
         {
-            "id": "[51:43]",
+            "verse-id": "[51:43]",
             "verse": "And in Thamud, when it was said to them, \"Enjoy yourselves for a time.\"",
             "description": [
                 "The commentators have disputed as to which",
@@ -1463,7 +1464,7 @@
             ]
         },
         {
-            "id": "[51:44]",
+            "verse-id": "[51:44]",
             "verse": "But they were insolent toward the command of their Lord, so the thunderbolt seized them while they were looking on.",
             "description": [
                 "Different words have been used for this",
@@ -1479,7 +1480,7 @@
             ]
         },
         {
-            "id": "[51:45]",
+            "verse-id": "[51:45]",
             "verse": "And they were unable to arise, nor could they defend themselves.",
             "description": [
                 "Intisar from which the word muntasirun in",
@@ -1490,14 +1491,14 @@
             ]
         },
         {
-            "id": "[51:46]",
+            "verse-id": "[51:46]",
             "verse": "And [We destroyed] the people of Noah before; indeed, they were a people defiantly disobedient.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[51:47]",
+            "verse-id": "[51:47]",
             "verse": "And the heaven We constructed with strength, and indeed, We are [its] expander.",
             "description": [
                 "After presenting historical arguments 'for the Hereafter,",
@@ -1526,7 +1527,7 @@
             ]
         },
         {
-            "id": "[51:48]",
+            "verse-id": "[51:48]",
             "verse": "And the earth We have spread out, and excellent is the preparer.",
             "description": [
                 ". For explanation, sec E.N. 18 above.",
@@ -1537,7 +1538,7 @@
             ]
         },
         {
-            "id": "[51:49]",
+            "verse-id": "[51:49]",
             "verse": "And of all things We created two mates; perhaps you will remember.",
             "description": [
                 "That is, \"Everything in the world has",
@@ -1608,14 +1609,14 @@
             ]
         },
         {
-            "id": "[51:50]",
+            "verse-id": "[51:50]",
             "verse": "So flee to Allah. Indeed, I am to you from Him a clear warner.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[51:51]",
+            "verse-id": "[51:51]",
             "verse": "And do not make [as equal] with Allah another deity. Indeed, I am to you from Him a clear warner.",
             "description": [
                 "Though these sentences are the Word of",
@@ -1653,7 +1654,7 @@
             ]
         },
         {
-            "id": "[51:52]",
+            "verse-id": "[51:52]",
             "verse": "Similarly, there came not to those before them any messenger except that they said, \"A magician or a madman.\"",
             "description": [
                 "That is, 'This has not happened for",
@@ -1688,7 +1689,7 @@
             ]
         },
         {
-            "id": "[51:53]",
+            "verse-id": "[51:53]",
             "verse": "Did they suggest it to them? Rather, they [themselves] are a transgressing people.",
             "description": [
                 "That is, 'The fact that the people",
@@ -1740,7 +1741,7 @@
             ]
         },
         {
-            "id": "[51:54]",
+            "verse-id": "[51:54]",
             "verse": "So leave them, [O Muhammad], for you are not to be blamed.",
             "description": [
                 "In this verse a method of the",
@@ -1772,7 +1773,7 @@
             ]
         },
         {
-            "id": "[51:55]",
+            "verse-id": "[51:55]",
             "verse": "And remind, for indeed, the reminder benefits the believers.",
             "description": [
                 "The Holy Prophet has not been addressed",
@@ -1805,7 +1806,7 @@
             ]
         },
         {
-            "id": "[51:56]",
+            "verse-id": "[51:56]",
             "verse": "And I did not create the jinn and mankind except to worship Me.",
             "description": [
                 "That is, \"I have not created them",
@@ -1900,7 +1901,7 @@
             ]
         },
         {
-            "id": "[51:57]",
+            "verse-id": "[51:57]",
             "verse": "I do not want from them any provision, nor do I want them to feed Me.",
             "description": [
                 "That is, \"I do not stand in",
@@ -1947,7 +1948,7 @@
             ]
         },
         {
-            "id": "[51:58]",
+            "verse-id": "[51:58]",
             "verse": "Indeed, it is Allah who is the [continual] Provider, the firm possessor of strength.",
             "description": [
                 "The word matin as used in the",
@@ -1956,7 +1957,7 @@
             ]
         },
         {
-            "id": "[51:59]",
+            "verse-id": "[51:59]",
             "verse": "And indeed, for those who have wronged is a portion [of punishment] like the portion of their predecessors, so let them not impatiently urge Me.",
             "description": [
                 "\"Those, . . . . . .",
@@ -1977,7 +1978,7 @@
             ]
         },
         {
-            "id": "[51:60]",
+            "verse-id": "[51:60]",
             "verse": "And woe to those who have disbelieved from their Day which they are promised.",
             "description": [
                 "It is derived from the very first",

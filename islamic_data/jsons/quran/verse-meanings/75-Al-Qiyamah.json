@@ -1,9 +1,10 @@
 {
     "name": "Al-Qiyamah",
+    "id": 75,
     "verse-count": 40,
     "verse-info": [
         {
-            "id": "[75:1]",
+            "verse-id": "[75:1]",
             "verse": "I swear by the Day of Resurrection",
             "description": [
                 "To begin the discourse with \"Nay\" by",
@@ -29,7 +30,7 @@
             ]
         },
         {
-            "id": "[75:2]",
+            "verse-id": "[75:2]",
             "verse": "And I swear by the reproaching soul [to the certainty of resurrection].",
             "description": [
                 "The Qur'an has mentioned three kinds of",
@@ -162,7 +163,7 @@
             ]
         },
         {
-            "id": "[75:3]",
+            "verse-id": "[75:3]",
             "verse": "Does man think that We will not assemble his bones?",
             "description": [
                 "The above two arguments, which have been",
@@ -229,7 +230,7 @@
             ]
         },
         {
-            "id": "[75:4]",
+            "verse-id": "[75:4]",
             "verse": "Yes. [We are] Able [even] to proportion his fingertips.",
             "description": [
                 "That is, \"Not to speak of building",
@@ -241,7 +242,7 @@
             ]
         },
         {
-            "id": "[75:5]",
+            "verse-id": "[75:5]",
             "verse": "But man desires to continue in sin.",
             "description": [
                 "In this brief sentence the real disease",
@@ -268,7 +269,7 @@
             ]
         },
         {
-            "id": "[75:6]",
+            "verse-id": "[75:6]",
             "verse": "He asks, \"When is the Day of Resurrection?\"",
             "description": [
                 "This question was not put as a",
@@ -281,7 +282,7 @@
             ]
         },
         {
-            "id": "[75:7]",
+            "verse-id": "[75:7]",
             "verse": "So when vision is dazzled",
             "description": [
                 "Literally, the words bariq al-basaru mean dazzling",
@@ -300,14 +301,14 @@
             ]
         },
         {
-            "id": "[75:8]",
+            "verse-id": "[75:8]",
             "verse": "And the moon darkens",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[75:9]",
+            "verse-id": "[75:9]",
             "verse": "And the sun and the moon are joined,",
             "description": [
                 "This is a brief description of the",
@@ -334,28 +335,28 @@
             ]
         },
         {
-            "id": "[75:10]",
+            "verse-id": "[75:10]",
             "verse": "Man will say on that Day, \"Where is the [place of] escape?\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[75:11]",
+            "verse-id": "[75:11]",
             "verse": "No! There is no refuge.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[75:12]",
+            "verse-id": "[75:12]",
             "verse": "To your Lord, that Day, is the [place of] permanence.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[75:13]",
+            "verse-id": "[75:13]",
             "verse": "Man will be informed that Day of what he sent ahead and kept back.",
             "description": [
                 "Bima qaddama wa akhkhara is a very",
@@ -384,14 +385,14 @@
             ]
         },
         {
-            "id": "[75:14]",
+            "verse-id": "[75:14]",
             "verse": "Rather, man, against himself, will be a witness,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[75:15]",
+            "verse-id": "[75:15]",
             "verse": "Even if he presents his excuses.",
             "description": [
                 "That is, the object of placing man's",
@@ -441,7 +442,7 @@
             ]
         },
         {
-            "id": "[75:16]",
+            "verse-id": "[75:16]",
             "verse": "Move not your tongue with it, [O Muhammad], to hasten with recitation of the Qur'an.",
             "description": [
                 "The whole passage from here to \"Again,",
@@ -520,14 +521,14 @@
             ]
         },
         {
-            "id": "[75:17]",
+            "verse-id": "[75:17]",
             "verse": "Indeed, upon Us is its collection [in your heart] and [to make possible] its recitation.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[75:18]",
+            "verse-id": "[75:18]",
             "verse": "So when We have recited it [through Gabriel], then follow its recitation.",
             "description": [
                 "Although it was Gabriel (peace be on",
@@ -540,7 +541,7 @@
             ]
         },
         {
-            "id": "[75:19]",
+            "verse-id": "[75:19]",
             "verse": "Then upon Us is its clarification [to you].",
             "description": [
                 "This gives the feeling, and some early",
@@ -758,7 +759,7 @@
             ]
         },
         {
-            "id": "[75:20]",
+            "verse-id": "[75:20]",
             "verse": "No! But you love the immediate",
             "description": [
                 "The theme is again resumed from where",
@@ -771,7 +772,7 @@
             ]
         },
         {
-            "id": "[75:21]",
+            "verse-id": "[75:21]",
             "verse": "And leave the Hereafter.",
             "description": [
                 "This is the second reason for denying",
@@ -820,7 +821,7 @@
             ]
         },
         {
-            "id": "[75:22]",
+            "verse-id": "[75:22]",
             "verse": "[Some] faces, that Day, will be radiant,",
             "description": [
                 "\"Some faces will be fresh\"; will be",
@@ -840,7 +841,7 @@
             ]
         },
         {
-            "id": "[75:23]",
+            "verse-id": "[75:23]",
             "verse": "Looking at their Lord.",
             "description": [
                 "Some commentators have understood this allegorically. They",
@@ -996,21 +997,21 @@
             ]
         },
         {
-            "id": "[75:24]",
+            "verse-id": "[75:24]",
             "verse": "And [some] faces, that Day, will be contorted,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[75:25]",
+            "verse-id": "[75:25]",
             "verse": "Expecting that there will be done to them [something] backbreaking.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[75:26]",
+            "verse-id": "[75:26]",
             "verse": "No! When the soul has reached the collar bones",
             "description": [
                 "The phrase \"by no means\" relates to",
@@ -1021,7 +1022,7 @@
             ]
         },
         {
-            "id": "[75:27]",
+            "verse-id": "[75:27]",
             "verse": "And it is said, \"Who will cure [him]?\"",
             "description": [
                 "The word raqin in the original may",
@@ -1050,14 +1051,14 @@
             ]
         },
         {
-            "id": "[75:28]",
+            "verse-id": "[75:28]",
             "verse": "And the dying one is certain that it is the [time of] separation",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[75:29]",
+            "verse-id": "[75:29]",
             "verse": "And the leg is wound about the leg,",
             "description": [
                 "Some commentators have taken the word saq",
@@ -1077,28 +1078,28 @@
             ]
         },
         {
-            "id": "[75:30]",
+            "verse-id": "[75:30]",
             "verse": "To your Lord, that Day, will be the procession.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[75:31]",
+            "verse-id": "[75:31]",
             "verse": "And the disbeliever had not believed, nor had he prayed.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[75:32]",
+            "verse-id": "[75:32]",
             "verse": "But [instead], he denied and turned away.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[75:33]",
+            "verse-id": "[75:33]",
             "verse": "And then he went to his people, swaggering [in pride].",
             "description": [
                 "It means that the one who was",
@@ -1132,14 +1133,14 @@
             ]
         },
         {
-            "id": "[75:34]",
+            "verse-id": "[75:34]",
             "verse": "Woe to you, and woe!",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[75:35]",
+            "verse-id": "[75:35]",
             "verse": "Then woe to you, and woe!",
             "description": [
                 "The commentators have given several meanings of",
@@ -1162,7 +1163,7 @@
             ]
         },
         {
-            "id": "[75:36]",
+            "verse-id": "[75:36]",
             "verse": "Does man think that he will be left neglected?",
             "description": [
                 "Now, in conclusion, the same theme is",
@@ -1249,28 +1250,28 @@
             ]
         },
         {
-            "id": "[75:37]",
+            "verse-id": "[75:37]",
             "verse": "Had he not been a sperm from semen emitted?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[75:38]",
+            "verse-id": "[75:38]",
             "verse": "Then he was a clinging clot, and [Allah] created [his form] and proportioned [him]",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[75:39]",
+            "verse-id": "[75:39]",
             "verse": "And made of him two mates, the male and the female.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[75:40]",
+            "verse-id": "[75:40]",
             "verse": "Is not that [Creator] Able to give life to the dead?",
             "description": [
                 "This is an argument for the possibility",

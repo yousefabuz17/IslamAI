@@ -1,9 +1,10 @@
 {
     "name": "Al-Qamar",
+    "id": 54,
     "verse-count": 55,
     "verse-info": [
         {
-            "id": "[54:1]",
+            "verse-id": "[54:1]",
             "verse": "The Hour has come near, and the moon has split [in two].",
             "description": [
                 "That is, \"The splitting of the Moon",
@@ -258,7 +259,7 @@
             ]
         },
         {
-            "id": "[54:2]",
+            "verse-id": "[54:2]",
             "verse": "And if they see a miracle, they turn away and say, \"Passing magic.\"",
             "description": [
                 "The words sihr-um mustamirr of the Text",
@@ -276,7 +277,7 @@
             ]
         },
         {
-            "id": "[54:3]",
+            "verse-id": "[54:3]",
             "verse": "And they denied and followed their inclinations. But for every matter is a [time of] settlement.",
             "description": [
                 "That is, \"They still persisted in the",
@@ -307,21 +308,21 @@
             ]
         },
         {
-            "id": "[54:4]",
+            "verse-id": "[54:4]",
             "verse": "And there has already come to them of information that in which there is deterrence -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:5]",
+            "verse-id": "[54:5]",
             "verse": "Extensive wisdom - but warning does not avail [them].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:6]",
+            "verse-id": "[54:6]",
             "verse": "So leave them, [O Muhammad]. The Day the Caller calls to something forbidding,",
             "description": [
                 "In other words, \"Leave them to themselves.",
@@ -351,7 +352,7 @@
             ]
         },
         {
-            "id": "[54:7]",
+            "verse-id": "[54:7]",
             "verse": "Their eyes humbled, they will emerge from the graves as if they were locusts spreading,",
             "description": [
                 "\"Graves\" do not signify only those pits",
@@ -379,14 +380,14 @@
             ]
         },
         {
-            "id": "[54:8]",
+            "verse-id": "[54:8]",
             "verse": "Racing ahead toward the Caller. The disbelievers will say, \"This is a difficult Day.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:9]",
+            "verse-id": "[54:9]",
             "verse": "The people of Noah denied before them, and they denied Our servant and said, \"A madman,\" and he was repelled.",
             "description": [
                 "That is, `They denied that the Hereafter",
@@ -410,21 +411,21 @@
             ]
         },
         {
-            "id": "[54:10]",
+            "verse-id": "[54:10]",
             "verse": "So he invoked his Lord, \"Indeed, I am overpowered, so help.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:11]",
+            "verse-id": "[54:11]",
             "verse": "Then We opened the gates of the heaven with rain pouring down",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:12]",
+            "verse-id": "[54:12]",
             "verse": "And caused the earth to burst with springs, and the waters met for a matter already predestined.",
             "description": [
                 "That is, the earth so burst forth",
@@ -435,7 +436,7 @@
             ]
         },
         {
-            "id": "[54:13]",
+            "verse-id": "[54:13]",
             "verse": "And We carried him on a [construction of] planks and nails,",
             "description": [
                 "This signifies the Ark which the Prophet",
@@ -445,7 +446,7 @@
             ]
         },
         {
-            "id": "[54:14]",
+            "verse-id": "[54:14]",
             "verse": "Sailing under Our observation as reward for he who had been denied.",
             "description": [
                 "Literally: \"This was a vengeance for the",
@@ -461,7 +462,7 @@
             ]
         },
         {
-            "id": "[54:15]",
+            "verse-id": "[54:15]",
             "verse": "And We left it as a sign, so is there any who will remember?",
             "description": [
                 "It may also mean: `We left this",
@@ -497,14 +498,14 @@
             ]
         },
         {
-            "id": "[54:16]",
+            "verse-id": "[54:16]",
             "verse": "And how [severe] were My punishment and warning.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:17]",
+            "verse-id": "[54:17]",
             "verse": "And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?",
             "description": [
                 ".Some people have misconstrued the words Yassarnal-Qur",
@@ -543,14 +544,14 @@
             ]
         },
         {
-            "id": "[54:18]",
+            "verse-id": "[54:18]",
             "verse": "'Aad denied; and how [severe] were My punishment and warning.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:19]",
+            "verse-id": "[54:19]",
             "verse": "Indeed, We sent upon them a screaming wind on a day of continuous misfortune,",
             "description": [
                 "That is, on a day the ill",
@@ -603,35 +604,35 @@
             ]
         },
         {
-            "id": "[54:20]",
+            "verse-id": "[54:20]",
             "verse": "Extracting the people as if they were trunks of palm trees uprooted.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:21]",
+            "verse-id": "[54:21]",
             "verse": "And how [severe] were My punishment and warning.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:22]",
+            "verse-id": "[54:22]",
             "verse": "And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:23]",
+            "verse-id": "[54:23]",
             "verse": "Thamud denied the warning",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:24]",
+            "verse-id": "[54:24]",
             "verse": "And said, \"Is it one human being among us that we should follow? Indeed, we would then be in error and madness.",
             "description": [
                 "In other words, there were three reasons",
@@ -672,7 +673,7 @@
             ]
         },
         {
-            "id": "[54:25]",
+            "verse-id": "[54:25]",
             "verse": "Has the message been sent down upon him from among us? Rather, he is an insolent liar.\"",
             "description": [
                 "The word ashir of the original means",
@@ -681,21 +682,21 @@
             ]
         },
         {
-            "id": "[54:26]",
+            "verse-id": "[54:26]",
             "verse": "They will know tomorrow who is the insolent liar.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:27]",
+            "verse-id": "[54:27]",
             "verse": "Indeed, We are sending the she-camel as trial for them, so watch them and be patient.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:28]",
+            "verse-id": "[54:28]",
             "verse": "And inform them that the water is shared between them, each [day of] drink attended [by turn].",
             "description": [
                 "This explains the verse: \"We are sending",
@@ -717,7 +718,7 @@
             ]
         },
         {
-            "id": "[54:29]",
+            "verse-id": "[54:29]",
             "verse": "But they called their companion, and he dared and hamstrung [her].",
             "description": [
                 "These words by themselves indicate that the",
@@ -746,14 +747,14 @@
             ]
         },
         {
-            "id": "[54:30]",
+            "verse-id": "[54:30]",
             "verse": "And how [severe] were My punishment and warning.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:31]",
+            "verse-id": "[54:31]",
             "verse": "Indeed, We sent upon them one blast from the sky, and they became like the dry twig fragments of an [animal] pen.",
             "description": [
                 "The crushed and rotten bodies of the",
@@ -764,42 +765,42 @@
             ]
         },
         {
-            "id": "[54:32]",
+            "verse-id": "[54:32]",
             "verse": "And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:33]",
+            "verse-id": "[54:33]",
             "verse": "The people of Lot denied the warning.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:34]",
+            "verse-id": "[54:34]",
             "verse": "Indeed, We sent upon them a storm of stones, except the family of Lot - We saved them before dawn",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:35]",
+            "verse-id": "[54:35]",
             "verse": "As favor from us. Thus do We reward he who is grateful.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:36]",
+            "verse-id": "[54:36]",
             "verse": "And he had already warned them of Our assault, but they disputed the warning.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:37]",
+            "verse-id": "[54:37]",
             "verse": "And they had demanded from him his guests, but We obliterated their eyes, [saying], \"Taste My punishment and warning.\"",
             "description": [
                 "The details of this story have been",
@@ -840,42 +841,42 @@
             ]
         },
         {
-            "id": "[54:38]",
+            "verse-id": "[54:38]",
             "verse": "And there came upon them by morning an abiding punishment.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:39]",
+            "verse-id": "[54:39]",
             "verse": "So taste My punishment and warning.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:40]",
+            "verse-id": "[54:40]",
             "verse": "And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:41]",
+            "verse-id": "[54:41]",
             "verse": "And there certainly came to the people of Pharaoh warning.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:42]",
+            "verse-id": "[54:42]",
             "verse": "They denied Our signs, all of them, so We seized them with a seizure of one Exalted in Might and Perfect in Ability.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:43]",
+            "verse-id": "[54:43]",
             "verse": "Are your disbelievers better than those [former ones], or have you immunity in the scripture?",
             "description": [
                 "The address here is directed to the",
@@ -889,14 +890,14 @@
             ]
         },
         {
-            "id": "[54:44]",
+            "verse-id": "[54:44]",
             "verse": "Or do they say, \"We are an assembly supporting [each other]\"?",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:45]",
+            "verse-id": "[54:45]",
             "verse": "[Their] assembly will be defeated, and they will turn their backs [in retreat].",
             "description": [
                 "This is a specific prophecy that was",
@@ -932,28 +933,28 @@
             ]
         },
         {
-            "id": "[54:46]",
+            "verse-id": "[54:46]",
             "verse": "But the Hour is their appointment [for due punishment], and the Hour is more disastrous and more bitter.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:47]",
+            "verse-id": "[54:47]",
             "verse": "Indeed, the criminals are in error and madness.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:48]",
+            "verse-id": "[54:48]",
             "verse": "The Day they are dragged into the Fire on their faces [it will be said], \"Taste the touch of Saqar.\"",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:49]",
+            "verse-id": "[54:49]",
             "verse": "Indeed, all things We created with predestination.",
             "description": [
                 "That is, 'Nothing in the world has",
@@ -979,7 +980,7 @@
             ]
         },
         {
-            "id": "[54:50]",
+            "verse-id": "[54:50]",
             "verse": "And Our command is but one, like a glance of the eye.",
             "description": [
                 "That is, 'We shall not have to",
@@ -992,7 +993,7 @@
             ]
         },
         {
-            "id": "[54:51]",
+            "verse-id": "[54:51]",
             "verse": "And We have already destroyed your kinds, so is there any who will remember?",
             "description": [
                 "That is, 'If you think that the",
@@ -1009,14 +1010,14 @@
             ]
         },
         {
-            "id": "[54:52]",
+            "verse-id": "[54:52]",
             "verse": "And everything they did is in written records.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:53]",
+            "verse-id": "[54:53]",
             "verse": "And every small and great [thing] is inscribed.",
             "description": [
                 "That is, 'These people should not be",
@@ -1030,14 +1031,14 @@
             ]
         },
         {
-            "id": "[54:54]",
+            "verse-id": "[54:54]",
             "verse": "Indeed, the righteous will be among gardens and rivers,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[54:55]",
+            "verse-id": "[54:55]",
             "verse": "In a seat of honor near a Sovereign, Perfect in Ability.",
             "description": [
                 ""

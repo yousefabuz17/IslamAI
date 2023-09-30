@@ -1,9 +1,10 @@
 {
     "name": "Ash-Shams",
+    "id": 91,
     "verse-count": 15,
     "verse-info": [
         {
-            "id": "[91:1]",
+            "verse-id": "[91:1]",
             "verse": "By the sun and its brightness",
             "description": [
                 "The word duha as used in the",
@@ -22,21 +23,21 @@
             ]
         },
         {
-            "id": "[91:2]",
+            "verse-id": "[91:2]",
             "verse": "And [by] the moon when it follows it",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[91:3]",
+            "verse-id": "[91:3]",
             "verse": "And [by] the day when it displays it",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[91:4]",
+            "verse-id": "[91:4]",
             "verse": "And [by] the night when it covers it",
             "description": [
                 "That is, when the night comes, the",
@@ -51,7 +52,7 @@
             ]
         },
         {
-            "id": "[91:5]",
+            "verse-id": "[91:5]",
             "verse": "And [by] the sky and He who constructed it",
             "description": [
                 "\"Who established it\": Who established it like",
@@ -90,14 +91,14 @@
             ]
         },
         {
-            "id": "[91:6]",
+            "verse-id": "[91:6]",
             "verse": "And [by] the earth and He who spread it",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[91:7]",
+            "verse-id": "[91:7]",
             "verse": "And [by] the soul and He who proportioned it",
             "description": [
                 "\"Balanced it\" : gave man such a",
@@ -156,7 +157,7 @@
             ]
         },
         {
-            "id": "[91:8]",
+            "verse-id": "[91:8]",
             "verse": "And inspired it [with discernment of] its wickedness and its righteousness,",
             "description": [
                 "The word ilham is derived from Jahm",
@@ -258,14 +259,14 @@
             ]
         },
         {
-            "id": "[91:9]",
+            "verse-id": "[91:9]",
             "verse": "He has succeeded who purifies it,",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[91:10]",
+            "verse-id": "[91:10]",
             "verse": "And he has failed who instills it [with corruption].",
             "description": [
                 "This is for which an oath has",
@@ -453,7 +454,7 @@
             ]
         },
         {
-            "id": "[91:11]",
+            "verse-id": "[91:11]",
             "verse": "Thamud denied [their prophet] by reason of their transgression,",
             "description": [
                 "The things stated in principle in the",
@@ -521,14 +522,14 @@
             ]
         },
         {
-            "id": "[91:12]",
+            "verse-id": "[91:12]",
             "verse": "When the most wretched of them was sent forth.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[91:13]",
+            "verse-id": "[91:13]",
             "verse": "And the messenger of Allah [Salih] said to them, \"[Do not harm] the she-camel of Allah or [prevent her from] her drink.\"",
             "description": [
                 "At other places in the Qur'an the",
@@ -552,7 +553,7 @@
             ]
         },
         {
-            "id": "[91:14]",
+            "verse-id": "[91:14]",
             "verse": "But they denied him and hamstrung her. So their Lord brought down upon them destruction for their sin and made it equal [upon all of them].",
             "description": [
                 "According to Surah Al-A`raf: 77, after they",
@@ -567,7 +568,7 @@
             ]
         },
         {
-            "id": "[91:15]",
+            "verse-id": "[91:15]",
             "verse": "And He does not fear the consequence thereof.",
             "description": [
                 "That is, Allah is not like the",

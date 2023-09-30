@@ -1,9 +1,10 @@
 {
     "name": "Qaf",
+    "id": 50,
     "verse-count": 45,
     "verse-info": [
         {
-            "id": "[50:1]",
+            "verse-id": "[50:1]",
             "verse": "Qaf. By the honored Qur'an...",
             "description": [
                 "The word \"majid\" is used for expressing",
@@ -43,7 +44,7 @@
             ]
         },
         {
-            "id": "[50:2]",
+            "verse-id": "[50:2]",
             "verse": "But they wonder that there has come to them a warner from among themselves, and the disbelievers say, \"This is an amazing thing.",
             "description": [
                 "This sentence is a unique example of",
@@ -102,7 +103,7 @@
             ]
         },
         {
-            "id": "[50:3]",
+            "verse-id": "[50:3]",
             "verse": "When we have died and have become dust, [we will return to life]? That is a distant return.\"",
             "description": [
                 "This was the second cause of their",
@@ -121,7 +122,7 @@
             ]
         },
         {
-            "id": "[50:4]",
+            "verse-id": "[50:4]",
             "verse": "We know what the earth diminishes of them, and with Us is a retaining record.",
             "description": [
                 "That is, \"If it cannot be comprehended",
@@ -163,7 +164,7 @@
             ]
         },
         {
-            "id": "[50:5]",
+            "verse-id": "[50:5]",
             "verse": "But they denied the truth when it came to them, so they are in a confused condition.",
             "description": [
                 "In this brief sentence also a vast",
@@ -201,7 +202,7 @@
             ]
         },
         {
-            "id": "[50:6]",
+            "verse-id": "[50:6]",
             "verse": "Have they not looked at the heaven above them - how We structured it and adorned it and [how] it has no rifts?",
             "description": [
                 "Question?",
@@ -303,7 +304,7 @@
             ]
         },
         {
-            "id": "[50:7]",
+            "verse-id": "[50:7]",
             "verse": "And the earth - We spread it out and cast therein firmly set mountains and made grow therein [something] of every beautiful kind,",
             "description": [
                 "For explanation, sec E.N.'s 12, 13, 14",
@@ -312,28 +313,28 @@
             ]
         },
         {
-            "id": "[50:8]",
+            "verse-id": "[50:8]",
             "verse": "Giving insight and a reminder for every servant who turns [to Allah].",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[50:9]",
+            "verse-id": "[50:9]",
             "verse": "And We have sent down blessed rain from the sky and made grow thereby gardens and grain from the harvest",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[50:10]",
+            "verse-id": "[50:10]",
             "verse": "And lofty palm trees having fruit arranged in layers -",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[50:11]",
+            "verse-id": "[50:11]",
             "verse": "As provision for the servants, and We have given life thereby to a dead land. Thus is the resurrection.",
             "description": [
                 "For explanation, set E.N.'s 73, 74, 81",
@@ -388,7 +389,7 @@
             ]
         },
         {
-            "id": "[50:12]",
+            "verse-id": "[50:12]",
             "verse": "The people of Noah denied before them, and the companions of the well and Thamud",
             "description": [
                 "Before this the people of Rass (Ashab",
@@ -422,7 +423,7 @@
             ]
         },
         {
-            "id": "[50:13]",
+            "verse-id": "[50:13]",
             "verse": "And 'Aad and Pharaoh and the brothers of Lot",
             "description": [
                 "Only the Pharaoh has been mentioned instead",
@@ -458,7 +459,7 @@
             ]
         },
         {
-            "id": "[50:14]",
+            "verse-id": "[50:14]",
             "verse": "And the companions of the thicket and the people of Tubba'. All denied the messengers, so My threat was justly fulfilled.",
             "description": [
                 "For explanation, see E.N. 37 of Surah",
@@ -517,7 +518,7 @@
             ]
         },
         {
-            "id": "[50:15]",
+            "verse-id": "[50:15]",
             "verse": "Did We fail in the first creation? But they are in confusion over a new creation.",
             "description": [
                 "This is a rational argument for the",
@@ -552,7 +553,7 @@
             ]
         },
         {
-            "id": "[50:16]",
+            "verse-id": "[50:16]",
             "verse": "And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein",
             "description": [
                 "After presenting the arguments for the Hereafter,",
@@ -587,14 +588,14 @@
             ]
         },
         {
-            "id": "[50:17]",
+            "verse-id": "[50:17]",
             "verse": "When the two receivers receive, seated on the right and on the left.",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[50:18]",
+            "verse-id": "[50:18]",
             "verse": "Man does not utter any word except that with him is an observer prepared [to record].",
             "description": [
                 "That is, \"On the one hand, We",
@@ -654,7 +655,7 @@
             ]
         },
         {
-            "id": "[50:19]",
+            "verse-id": "[50:19]",
             "verse": "And the intoxication of death will bring the truth; that is what you were trying to avoid.",
             "description": [
                 "\"To come with the truth\" implies that",
@@ -685,7 +686,7 @@
             ]
         },
         {
-            "id": "[50:20]",
+            "verse-id": "[50:20]",
             "verse": "And the Horn will be blown. That is the Day of [carrying out] the threat.",
             "description": [
                 "This implies that blowing of the Trumpet",
@@ -699,7 +700,7 @@
             ]
         },
         {
-            "id": "[50:21]",
+            "verse-id": "[50:21]",
             "verse": "And every soul will come, with it a driver and a witness.",
             "description": [
                 "Most probably this implies the same two",
@@ -717,7 +718,7 @@
             ]
         },
         {
-            "id": "[50:22]",
+            "verse-id": "[50:22]",
             "verse": "[It will be said], \"You were certainly in unmindfulness of this, and We have removed from you your cover, so your sight, this Day, is sharp.\"",
             "description": [
                 "That is, \"You can clearly see that",
@@ -726,7 +727,7 @@
             ]
         },
         {
-            "id": "[50:23]",
+            "verse-id": "[50:23]",
             "verse": "And his companion, [the angel], will say, \"This [record] is what is with me, prepared.\"",
             "description": [
                 "Some commentators say that \"the companion\" implies",
@@ -750,7 +751,7 @@
             ]
         },
         {
-            "id": "[50:24]",
+            "verse-id": "[50:24]",
             "verse": "[Allah will say], \"Throw into Hell every obstinate disbeliever,",
             "description": [
                 "As the context shows this command will",
@@ -766,7 +767,7 @@
             ]
         },
         {
-            "id": "[50:25]",
+            "verse-id": "[50:25]",
             "verse": "Preventer of good, aggressor, and doubter,",
             "description": [
                 "\"Khair\" in Arabic is used both for",
@@ -818,7 +819,7 @@
             ]
         },
         {
-            "id": "[50:26]",
+            "verse-id": "[50:26]",
             "verse": "Who made [as equal] with Allah another deity; then throw him into the severe punishment.\"",
             "description": [
                 "Allah, in these verses, has enumerated the",
@@ -840,7 +841,7 @@
             ]
         },
         {
-            "id": "[50:27]",
+            "verse-id": "[50:27]",
             "verse": "His [devil] companion will say, \"Our Lord, I did not make him transgress, but he [himself] was in extreme error.\"",
             "description": [
                 "Here by 'companion\" is meant the satan",
@@ -865,7 +866,7 @@
             ]
         },
         {
-            "id": "[50:28]",
+            "verse-id": "[50:28]",
             "verse": "[Allah] will say, \"Do not dispute before Me, while I had already presented to you the warning.",
             "description": [
                 "That is, \"I had warned both of",
@@ -882,7 +883,7 @@
             ]
         },
         {
-            "id": "[50:29]",
+            "verse-id": "[50:29]",
             "verse": "The word will not be changed with Me, and never will I be unjust to the servants.\"",
             "description": [
                 "That is, \"It is not My way",
@@ -916,7 +917,7 @@
             ]
         },
         {
-            "id": "[50:30]",
+            "verse-id": "[50:30]",
             "verse": "On the Day We will say to Hell, \"Have you been filled?\" and it will say, \"Are there some more,\"",
             "description": [
                 "This can have two meanings:(1) \"There is",
@@ -963,7 +964,7 @@
             ]
         },
         {
-            "id": "[50:31]",
+            "verse-id": "[50:31]",
             "verse": "And Paradise will be brought near to the righteous, not far,",
             "description": [
                 "That is, \"It is not My way",
@@ -977,7 +978,7 @@
             ]
         },
         {
-            "id": "[50:32]",
+            "verse-id": "[50:32]",
             "verse": "[It will be said], \"This is what you were promised - for every returner [to Allah] and keeper [of His covenant]",
             "description": [
                 "The word awwab is very extensive in",
@@ -1010,7 +1011,7 @@
             ]
         },
         {
-            "id": "[50:33]",
+            "verse-id": "[50:33]",
             "verse": "Who feared the Most Merciful unseen and came with a heart returning [in repentance].",
             "description": [
                 "That is, Although he could not see",
@@ -1075,7 +1076,7 @@
             ]
         },
         {
-            "id": "[50:34]",
+            "verse-id": "[50:34]",
             "verse": "Enter it in peace. This is the Day of Eternity.\"",
             "description": [
                 "If the word salam in udkhulu-ha bi-salam-in",
@@ -1102,7 +1103,7 @@
             ]
         },
         {
-            "id": "[50:35]",
+            "verse-id": "[50:35]",
             "verse": "They will have whatever they wish therein, and with Us is more.",
             "description": [
                 "That is, \"They will certainly get whatever",
@@ -1113,7 +1114,7 @@
             ]
         },
         {
-            "id": "[50:36]",
+            "verse-id": "[50:36]",
             "verse": "And how many a generation before them did We destroy who were greater than them in [striking] power and had explored throughout the lands. Is there any place of escape?",
             "description": [
                 "That is, \"They were not only powerful",
@@ -1132,7 +1133,7 @@
             ]
         },
         {
-            "id": "[50:37]",
+            "verse-id": "[50:37]",
             "verse": "Indeed in that is a reminder for whoever has a heart or who listens while he is present [in mind].",
             "description": [
                 "In ocher words, either one should have",
@@ -1146,7 +1147,7 @@
             ]
         },
         {
-            "id": "[50:38]",
+            "verse-id": "[50:38]",
             "verse": "And We did certainly create the heavens and earth and what is between them in six days, and there touched Us no weariness.",
             "description": [
                 "For explanation, see E.N.'s 11 to 15",
@@ -1155,7 +1156,7 @@
             ]
         },
         {
-            "id": "[50:39]",
+            "verse-id": "[50:39]",
             "verse": "So be patient, [O Muhammad], over what they say and exalt [Allah] with praise of your Lord before the rising of the sun and before its setting,",
             "description": [
                 "That is, \"The fact of the matter",
@@ -1192,7 +1193,7 @@
             ]
         },
         {
-            "id": "[50:40]",
+            "verse-id": "[50:40]",
             "verse": "And [in part] of the night exalt Him and after prostration.",
             "description": [
                 "This is the means by which man",
@@ -1303,7 +1304,7 @@
             ]
         },
         {
-            "id": "[50:41]",
+            "verse-id": "[50:41]",
             "verse": "And listen on the Day when the Caller will call out from a place that is near -",
             "description": [
                 "That is, \"Wherever a dead person would",
@@ -1328,7 +1329,7 @@
             ]
         },
         {
-            "id": "[50:42]",
+            "verse-id": "[50:42]",
             "verse": "The Day they will hear the blast [of the Horn] in truth. That is the Day of Emergence [from the graves].",
             "description": [
                 "The words yasm'aun-as-saihata bil haqq-i can have",
@@ -1354,14 +1355,14 @@
             ]
         },
         {
-            "id": "[50:43]",
+            "verse-id": "[50:43]",
             "verse": "Indeed, it is We who give life and cause death, and to Us is the destination",
             "description": [
                 ""
             ]
         },
         {
-            "id": "[50:44]",
+            "verse-id": "[50:44]",
             "verse": "On the Day the earth breaks away from them [and they emerge] rapidly; that is a gathering easy for Us.",
             "description": [
                 "This is the answer to the saying",
@@ -1402,7 +1403,7 @@
             ]
         },
         {
-            "id": "[50:45]",
+            "verse-id": "[50:45]",
             "verse": "We are most knowing of what they say, and you are not over them a tyrant. But remind by the Qur'an whoever fears My threat.",
             "description": [
                 "In this sentence there is consolation for",
