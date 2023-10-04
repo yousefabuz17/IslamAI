@@ -51,11 +51,6 @@ It signifies the first step towards building a robust and intelligent system for
 Notes:
     ~ It's worth noting that the inclusion of tqdm serves as a temporary debugging aid to track the process's progress.
     ~ tqdm slows the extraction process
-    ~ Did not leave any memorable comments/type hints for help. File is not much for showcasing.
-
-Execution Times:
-    ~5 minutes (All parsed at once, exlcuding `Processing Surahs`)
-    ~37 minutes (`Processing Surahs` only)
 '''
 
 class ConfigInfo:
@@ -161,7 +156,7 @@ class BaseAPI(metaclass=SingletonMeta):
             return response
         except (client_exceptions.ServerDisconnectedError,
                 client_exceptions.ClientConnectionError):
-            await asyncio.sleep(0.5)
+            await asyncio.sleep(0.1)
             return await self._request(**kwargs)
         except client_exceptions.ClientResponseError as error_:
             mask_ = lambda token: token[:4]+('*'*(len(token)-35))
@@ -202,7 +197,7 @@ class BaseAPI(metaclass=SingletonMeta):
     def _extractor(pdf, **kwargs):
         #^ PDF Files only
         '''
-        :pdf: PDF file name as str
+        :pdf: PDF file name as BufferReader
         :kwargs: maxpages, page_numbers -> range(start,end)
         '''
         default_values = (0, None)
@@ -226,12 +221,19 @@ class BaseAPI(metaclass=SingletonMeta):
         return json.load(open(path / folder / f'{name}.{type_}', mode=mode, encoding=encoding))
     
     @classmethod
-    def _exporter(cls, contents, name):
-        with open(cls.path / 'jsons' / f'{name}.json', mode='w', encoding='utf-8') as file:
-            json.dump(contents, file, indent=4, ensure_ascii=False)
+    def _exporter(cls, contents, name, path=''):
+        if not path:
+            path = cls.path / 'jsons' / f'{name}.json'
+            with open(path, mode='w', encoding='utf-8') as file:
+                json.dump(contents, file, indent=4, ensure_ascii=False)
+        else:
+            with open(cls.path / path / f'{name}.json', mode='w', encoding='utf-8') as file:
+                json.dump(contents, file, indent=4, ensure_ascii=False)
+        print(f'`{name}.json` was exported in {path}')
     
     @staticmethod
     def _get_indexes(page, pattern=None, found=False):
+        norm_indexes, grouped_indexes = ([], [])
         if pattern:
             norm_indexes = [(idx, i) for idx,i in enumerate(page) if re.search(pattern, i)]
             grouped_index = [(norm_indexes[i], norm_indexes[i + 1]) for i in range(0, len(norm_indexes)-1)]
@@ -257,9 +259,13 @@ class BaseAPI(metaclass=SingletonMeta):
         return grouped_index, norm_indexes
     
     async def _extract_contents(self, **kwargs):
-        default_values = ['']*5+[False, self.url] +['']*3
+        default_values = ['']*2+[False, self.url] +['']*3
         html_file, endpoint, slash, url, class_, tag_, style = tuple(kwargs.get(key, default_values[i]) for i,key in enumerate(('html_file', 'endpoint', 'slash', 'url', 'class_', 'tag_', 'style')))
-        main_page = await self._request(endpoint=endpoint, slash=slash, url=url) if not html_file else html_file
+        main_page = await self._request(url=url, endpoint=endpoint, slash=slash) if not html_file else html_file
+        # try:
+        #     soup = BeautifulSoup(main_page, 'html.parser')
+        # except TypeError:
+        #     soup = html_file
         soup = BeautifulSoup(main_page, 'html.parser')
         params = {}
         # for key, value in kwargs.items():
@@ -401,11 +407,11 @@ class QuranAPI(BaseAPI):
         all_surah_contents = await _extract_all()
         return all_surah_contents
 
-    async def _merge_all(self, file_name, folder_name=''):
+    async def _merge_all(self, file_name, folder_name='', sorted_=True):
         all_surah_files = DataLoader(folder_path=f'jsons/quran/{folder_name}')()
-        all_surahs = OrderedDict(sorted({surah_name: surah_contents for surah_name, surah_contents in all_surah_files.items()}.items(),key=lambda item: int(item[0].split('-')[0])))
+        all_surahs = OrderedDict(sorted({key: value for key, value in all_surah_files.items()}.items(),key=lambda item: int(item[0].split('-')[0] if sorted_ else item)))
         self._exporter(all_surahs, file_name)
-        print(f'All surahs for {folder_name} merged successfully.')
+        print(f'All files for `{folder_name}` merged successfully.')
     
     async def _surah_list(self):
         #** Same contents for all surah endpoints
@@ -473,7 +479,7 @@ class QuranAPI(BaseAPI):
                 fix_j = re.sub(r'(?:\[(.*?)\])', '', j[1])
                 org_verse = ' '.join(fixed_contents[start+1:end] + [fix_j])
                 verse = ''.join(org_verse)
-                #! Fix Here
+                #! Fix here for the remaining languages (source: altafsir)
 
                 final_verse = ('' if not verse
                                 else verse[:verse.find('*')] if re.search(r'\*', verse)
@@ -584,7 +590,7 @@ class QuranAPI(BaseAPI):
 
         @lru_cache(maxsize=1)
         def _get_surah_file():
-            return DataLoader.load_file('jsons', 'all-surahs-surahquran')
+            return DataLoader.load_file('jsons', 'all-surahs-surahquran', encoding='utf-8')
         
         async def _parse_all():
             surah_file = _get_surah_file()
@@ -654,9 +660,110 @@ class QuranAPI(BaseAPI):
         rapidapi_info, quranapi_contents = await asyncio.gather(
                         _get_rapid_info(),
                         _get_quranapi_info()
-        )
+                        )
         quranapi_contents.update(rapidapi_info)
         return quranapi_contents
+
+
+    async def extract_rabbana_duas(self, export=False):
+        async def _get_dua_contents():
+            url = self.url.myislam
+            endpoint = '40-rabbana-dua-best-quranic-dua'
+            full_page = await self._extract_contents(url=url, endpoint=endpoint, slash=True)
+            stripped_page = [i for i in ''.join([i.text for i in full_page]).split('\n') if i]
+            start, end = [idx for idx,i in enumerate(stripped_page) if re.match(r'(40 Rabbana Duas)|(Share:)',i)]
+            fixed_page = stripped_page[start:end-1]
+            return fixed_page
+
+        def _get_indexes(dua_page):
+            dua_page.pop(0) #** Removes title
+            dua_title_idx = [(idx, i) for idx,i in enumerate(dua_page) if re.match(r'^(Rabbana Dua #\d{1,2})',i)]
+            grouped_indexes = [(dua_title_idx[i], dua_title_idx[i+1]) for i in range(0, len(dua_title_idx)-1)]
+            grouped_indexes.append((grouped_indexes[-1][-1], (len(dua_page), grouped_indexes[-1][-1][-1])))
+            return grouped_indexes
+
+        async def _structure_page():
+            dua_page = await _get_dua_contents()
+            rabbana_indexes = _get_indexes(dua_page)
+            verseID_pattern = r'(\d{1,3}:\d{1,3})'
+            verse_pattern = r'\“(.*?)\”'
+            dua_contents = OrderedDict({
+                                'Rabbana Dua #1': {
+                                'verseID': re.search(verseID_pattern, dua_page[1]).group(),
+                                'verse-ar': dua_page[0],
+                                'verse-en': re.search(verse_pattern, dua_page[1]).group(),
+                                'transliteration': dua_page[1][:dua_page[1].find('“')],
+                                'Recommended use': dua_page[2].removeprefix('Recommended use:')
+                                }})
+            for i in rabbana_indexes:
+                start, end = i[0][0], i[1][0]
+                key = i[0][-1]
+                if key not in dua_contents:
+                    dua_contents[key] = {}
+                contents = dua_page[start:end]
+                #** 0: key(Rabbana Dua #\d /Removed), 1: ar_text, 2: verse, 3: Recommended use
+                dua_contents[key] = {
+                            'verseID': re.search(verseID_pattern, contents[2]).group(),
+                            'verse-ar': contents[1],
+                            'verse-en': re.search(verse_pattern,contents[2]).group(),
+                            'transliteration': contents[2][:contents[2].find('“')],
+                            'Recommended use': contents[-1].removeprefix('Recommended use:')}
+            return dua_contents
+
+        all_dua_contents = await _structure_page()
+        if export:
+            return self._exporter(all_dua_contents, '40-Rabbana-Duas', path='jsons/quran/duas')
+        return all_dua_contents
+
+    async def extract_all_duas(self, export=False):
+        main_url = self.url.islamic_finder
+        main_endpoint = 'duas'
+        html_contents = await self._extract_contents(url=main_url, endpoint=main_endpoint, slash=True, class_='nav-container stick-on-top')
+        all_dua_endpoints = [i['href'] for i in html_contents[0].find_all('a', href=True)][2:]
+        ramandan_endpoints, masnoon_endpoints = (all_dua_endpoints[:8], all_dua_endpoints[8:])
+        ramandan_endpoints.pop(2) #! `/breaking-fast` endpoint broken
+        
+        async def _parse_endpoints(key, endpoints):
+            dua_categories = OrderedDict({key: {}})
+            for idx, endpoint in enumerate(endpoints, start=1):
+                response = await self._extract_contents(url=main_url, endpoint=endpoint, slash=True)
+                ar_text = response.find_all(class_='large-12 columns arabic')
+                transliteration, translation, reference = [response.find_all(class_=i) for i in ('large-12 columns transliteration', 'large-12 columns translation', 'large-12 columns reference')]
+                dua_key = endpoint.split('/')[-2].replace('-',' ').title()
+                dua_contents = {}
+                match len(ar_text):
+                    case 1:
+                        dua_contents = {dua_key: {
+                                                'ar-text': ar_text[0].text[::-1].strip(),
+                                                'transliteration': transliteration[0].text,
+                                                'translation': translation[0].text,
+                                                'reference': reference[0].text}}
+                        dua_categories[key][idx] = dua_contents
+                    case _ if len(ar_text)>=2:
+                        ar_text = {idx: i.text[::-1].strip() for idx,i in enumerate(ar_text, start=1)}
+                        transliteration, translation, reference = ({idx: i.text for idx, i in enumerate(items, start=1)} for items in (transliteration, translation, reference))
+                        rest_duas = OrderedDict()
+                        for idx_, (ar,tr,tra,ref) in enumerate(zip(ar_text, transliteration, translation, reference), start=1):
+                            dua_contents = {
+                                            'ar-text': ar_text.get(idx_),
+                                            'transliteration': transliteration.get(idx_),
+                                            'translation': translation.get(idx_),
+                                            'reference': reference.get(idx_)}
+                            new_dua_key = f'{idx_}-{dua_key}'
+                            if new_dua_key not in rest_duas:
+                                rest_duas[new_dua_key] = {}
+                            rest_duas[new_dua_key] = dua_contents
+                        dua_categories[key][idx] = rest_duas
+            return dua_categories
+        ramadan_duas, masnoon_duas = await asyncio.gather(
+                                            _parse_endpoints('Ramadan-Duas', ramandan_endpoints),
+                                            _parse_endpoints('Dua-Categories', masnoon_endpoints))
+        ramadan_duas.update(masnoon_duas)
+        if export:
+            self._exporter(ramadan_duas, '142-Duas-with-ramadan', path='jsons/quran/duas')
+            return await self._merge_all('all-duas', 'duas')
+        return ramadan_duas
+
 
 class HadithAPI(BaseAPI):
     def __init__(self):
@@ -1680,10 +1787,6 @@ class ArabicAPI(BaseAPI):
         return pdf_file
 
 
-
-
-        # return htm_contents
-
 async def main():
     # tracemalloc.start()
 
@@ -1701,9 +1804,9 @@ async def main():
         tasks = [asyncio.create_task(task) for task in [
                     # d.extract_qibla_data(default),
                     # a.surahquran_extract_surahs(default),
-                    # a.altafsir_extract_surahs(default),\
-                    a.extract_surahs_info(default)
-                    # a._surah_base_info()
+                    # a.altafsir_extract_surahs(default),
+                    # a.extract_surahs_info(default),
+                    # a._surah_base_info(),
                     # b.get_all_hadiths(parser=default),
                     # c.extract_allah_contents(default),
                     # c.fun_fact(limit=18),
@@ -1716,7 +1819,8 @@ async def main():
                     # h.get_wudu(default),
                     # h.get_prayer(default),
                     # a.get_keyword(keyword='woman'),
-                    # i.arabic_alphabet(default)
+                    # i.arabic_alphabet(default),
+                    a.extract_all_duas(default)
                     ]]
         results = await asyncio.gather(*tasks)
         return results
@@ -1729,7 +1833,7 @@ async def main():
     #     print(traceback)
     results = await run_all(True)
     end = time()
-    # pprint(results)
+    pprint(results)
     timer = (end-start)
     minutes, seconds = divmod(timer, 60) 
     print(f"Execution Time: {minutes:.0f} minutes and {seconds:.5f} seconds")
