@@ -6,16 +6,16 @@ from collections import (OrderedDict, namedtuple)
 from concurrent.futures import ThreadPoolExecutor
 from configparser import ConfigParser
 from copy import deepcopy
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from functools import lru_cache
 from multiprocessing import cpu_count
 from pathlib import Path
 from pprint import pprint
 from random import choice
 from time import time
-from typing import Set
 from aiohttp import (ClientSession, TCPConnector, client_exceptions)
 # from ascii_graph import Pyasciigraph
+from time import sleep
 from bs4 import BeautifulSoup
 from docx import Document
 from geocoder import location
@@ -26,7 +26,7 @@ from tqdm import tqdm
 from unidecode import unidecode
 from string import ascii_lowercase
 from blueprints.data_loader import DataLoader
-# import tracemalloc
+import tracemalloc
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -34,6 +34,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import (TimeoutException, WebDriverException, NoSuchElementException, NoSuchFrameException)
 
+load, translate = DataLoader.load_file, DataLoader.translate
 
 
 '''
@@ -221,15 +222,18 @@ class BaseAPI(metaclass=SingletonMeta):
         return json.load(open(path / folder / f'{name}.{type_}', mode=mode, encoding=encoding))
     
     @classmethod
-    def _exporter(cls, contents, name, path=''):
+    def _exporter(cls, contents, file_name, path=''):
+        for _ in tqdm(range(len(contents)), desc=f'Processing `{file_name}`', unit='MB', colour='green'):
+            sleep(0.00001)
         if not path:
-            path = cls.path / 'jsons' / f'{name}.json'
+            path = cls.path / 'jsons' / f'{file_name}.json'
             with open(path, mode='w', encoding='utf-8') as file:
                 json.dump(contents, file, indent=4, ensure_ascii=False)
         else:
-            with open(cls.path / path / f'{name}.json', mode='w', encoding='utf-8') as file:
+            path = cls.path / path / f'{file_name}.json'
+            with open(path, mode='w', encoding='utf-8') as file:
                 json.dump(contents, file, indent=4, ensure_ascii=False)
-        print(f'`{name}.json` was exported in {path}')
+        print(f'`{file_name}.json` was exported in {path}')
     
     @staticmethod
     def _get_indexes(page, pattern=None, found=False):
@@ -327,6 +331,19 @@ class BaseAPI(metaclass=SingletonMeta):
                 print(f'Element `{tag_name}` not found. Trying again.')
                 return await BaseAPI._get_element(*args)
         return element
+
+    @staticmethod
+    def add_line_breaks(text, words_per_line=7):
+        words = re.findall(r'\S+\s*', text)
+        # Adds multiple spaces every 7 words for better readability
+        words_with_spaces = []
+        for i, word in enumerate(words):
+            words_with_spaces.append(word)
+            if (i + 1) % words_per_line == 0:
+                words_with_spaces.append('   ')  # Add two spaces for splitting
+
+        description = ''.join(words_with_spaces).split('   ')
+        return description
 
 class QuranAPI(BaseAPI):
     def __init__(self):
@@ -551,17 +568,8 @@ class QuranAPI(BaseAPI):
             endpoint = main_endpoint.format(*args)
             descr = await self._extract_contents(url=url, endpoint=endpoint, slash=True, style='font-size: 12pt;')
             fix_descr = [re.sub(r'^(\*\d{1,3}\)\.?)','',i.text).rstrip('  \xa0').lstrip() for i in descr][-1]
-            words = re.findall(r'\S+\s*', fix_descr)
-
-            # Adds multiple spaces every 7 words for better readability
-            words_with_spaces = []
-            for i, word in enumerate(words):
-                words_with_spaces.append(word)
-                if (i + 1) % 7 == 0:
-                    words_with_spaces.append('  ')  # Add two spaces for splitting
-
-            description = ''.join(words_with_spaces).split('  ')
-            return description
+            words_with_spaces = self.add_line_breaks(fix_descr, 7)
+            return words_with_spaces
 
         @lru_cache(maxsize=1)
         async def _get_surah_dict():
@@ -590,7 +598,7 @@ class QuranAPI(BaseAPI):
 
         @lru_cache(maxsize=1)
         def _get_surah_file():
-            return DataLoader.load_file('jsons', 'all-surahs-surahquran', encoding='utf-8')
+            return load('jsons', 'all-surahs-surahquran', encoding='utf-8')
         
         async def _parse_all():
             surah_file = _get_surah_file()
@@ -764,7 +772,6 @@ class QuranAPI(BaseAPI):
             return await self._merge_all('all-duas', 'duas')
         return ramadan_duas
 
-
 class HadithAPI(BaseAPI):
     def __init__(self):
         super().__init__()
@@ -828,35 +835,58 @@ class IslamFacts(BaseAPI):
         file3.close()
         return fun_facts
     
-    async def fun_fact(self, **kwargs):
+    async def extract_islam_facts(self, export=False, **kwargs):
         def _randomizer(dict_):
             #?>Modify for more flexibily to show a random content for each method
-            new_dict = tuple(dict_.keys())
+            new_dict = list(nested('Facts', dict_)[0].values())
             rand_fact = choice(new_dict)
             return rand_fact
         
-        async def _extract_facts():
+        async def _extract_gen_facts():
+            url = self.url.islam_facts
+            endpoint = 'random/facts/religion/islam'
             if len(self.facts) == 0:
                 #!> FunFact generator website only allows ~18 free SAME random facts
                 while len(self.facts) <= 18:
-                    for _ in tqdm(range(limit), leave=False, desc='Processing Fun Facts', colour='green', unit='MB'):
-                        soup = await self._extract_contents(endpoint='', slash=False, 
-                                                            url=self.url.islam_facts, tag_='h2')
+                    for _ in range(limit):
+                        soup = await self._extract_contents(endpoint=endpoint, slash=True, 
+                                                            url=url, tag_='h2')
                         fun_fact = soup[0].text
                         formatted = re.sub(r'\((Religion > Islam )\)', '', fun_fact).strip()
                         self.facts.add(formatted)
-            fun_facts = dict.fromkeys(self.facts)
-            with open(self.path / 'jsons' / 'islam-facts.json', mode='w', encoding='utf-8') as file1:
-                json.dump(fun_facts, file1, indent=4, ensure_ascii=False)
+            set_facts = list(dict.fromkeys(self.facts, {}).keys())
+            fun_facts = OrderedDict({'Source': 'https://fungenerators.com',
+                        'Facts': OrderedDict({f'Fact-{idx}': fact for idx,fact in enumerate(set_facts, start=1)})})
             return fun_facts
+
+        async def _extract_alislam_facts():
+            url = self.url.al_islam
+            endpoint = 'articles/25-interesting-facts-you-should-know-about-islam/'
+            async def _get_soup():
+                soup = await self._extract_contents(url=url,endpoint=endpoint,slash=True, tag_='p')
+                fixed_soup = [re.sub(r'(Fact\s{1}\#\d{1,3}:\s{1})','',i) for i in [i.text for i in soup] if i]
+                return fixed_soup
+
+            async def _structure_contents():
+                contents = await _get_soup()
+                all_facts = OrderedDict({'Source': url,
+                            'Introduction': contents.pop(0),
+                            'Facts':OrderedDict({f'Fact-{idx}': self.add_line_breaks(fact, 11) for idx,fact in enumerate(contents, start=1)})})
+                return all_facts
+            alislam_facts = await _structure_contents()
+            return alislam_facts
         
         limit = kwargs.get('limit', 2)
-        if not Path(self.path / 'jsons' / 'islam_facts.json').is_file():
-            fun_facts = await _extract_facts()
-            rand_fact = _randomizer(fun_facts)
+        if export or not Path(self.path / 'jsons' / 'islamic-facts.json').is_file():
+            gen_fun_facts, alislam_facts = await asyncio.gather(
+                                                        _extract_gen_facts(),
+                                                        _extract_alislam_facts())
+            all_facts = DataLoader.add(gen_fun_facts, alislam_facts, key1=1, key2=2)
+            self._exporter(all_facts, 'islamic-facts')
+            rand_fact = _randomizer(all_facts)
             return rand_fact
         else:
-            facts_file = json.load(open(self.path / 'jsons' / 'islam_facts.json', mode='r', encoding='utf-8'))
+            facts_file = DataLoader.load_file(path='jsons', file_name='islamic-facts')
             self.facts = facts_file
             rand_fact = _randomizer(facts_file)
             return rand_fact
@@ -932,7 +962,7 @@ class IslamFacts(BaseAPI):
             return self._exporter(merged_contents, 'list_allah_names')
         return merged_contents
     
-    async def islamic_terms(self, export=False):
+    async def extract_islamic_terms(self, export=False):
         async def _get_soup(query):
             url = self.url.alim
             soup = await self._extract_contents(endpoint=f'islamic-terms-dictionary/{query}', url=url, slash=True)
@@ -969,6 +999,111 @@ class IslamFacts(BaseAPI):
         if export:
             return self._exporter(full_dictionary, 'islamic-terms')
         return full_dictionary
+    
+    async def extract_islam_pillars(self, export=False):
+        pdf_file = load(path='pdfs', file_name='5-Pillars-of-Islam', ext='pdf')
+
+        def _get_intro():
+            '''Summary, Verse, Description'''
+            first_page = self._extractor(pdf_file, page_numbers=range(0,1))
+            start, middle, third, end = [idx for idx,i in enumerate(first_page) if re.search(r'((^Summary:)|(\“Righteousness)|((Qur\'an 2:177, trans. Abdel Haleem)))|(world\, including in America)',i)]
+            summary = ''.join(first_page[start:middle]).removeprefix('Summary: ')
+            verse = [i.strip() for i in first_page[middle:third+1]]
+            description = first_page[third+1:end+1]
+            return summary, verse, description
+
+        def _clean_pdf():
+            file = self._extractor(pdf_file)
+            copyright = 'Copyright ©2021'
+            contact = 'contact the Pluralism Project'
+            cleaned_pdf = [i for i in file if not re.search(fr'{copyright}|{contact}',i)]
+            return cleaned_pdf
+
+        def _get_pillars():
+            cleaned_pdf = _clean_pdf()
+            pillars = r'(Shahadah: )|(Salat: )|(Zakat: )|(Sawm: )|(Hajj: )'
+            pillars_idx = [(idx, i) for idx,i in enumerate(cleaned_pdf) if re.match(pillars, i)]
+            pillar_contents = []
+            pillars_idx_grouped = [(pillars_idx[i], pillars_idx[i+1]) for i in range(0, len(pillars_idx)-1)]
+            pillars_idx_grouped.append((pillars_idx_grouped[-1][-1], (len(cleaned_pdf), '')))
+            for items in pillars_idx_grouped:
+                start,end = items[0][0], items[1][0]
+                pillar_contents.append(cleaned_pdf[start:end])
+            all_pillars = OrderedDict()
+            pillar_contents[-1] = pillar_contents[-1][:-1]
+            fixed_contents = [''.join(i) for i in pillar_contents]
+            for idx,i in enumerate(fixed_contents, start=1):
+                pillar_name = re.match(pillars, i).group().replace(': ','')
+                contents = re.sub(pillars, '', i)
+                key = f'{idx}-{pillar_name}'
+                if key not in all_pillars:
+                    all_pillars[key] = {}
+                readable_contents = self.add_line_breaks(contents, words_per_line=11)
+                all_pillars[key] = readable_contents
+            return all_pillars
+
+        def _structure_pillars():
+            summary, verse, description = _get_intro()
+            summary = self.add_line_breaks(summary, 11)
+            all_pillars = _get_pillars()
+            structured_pillars = OrderedDict({
+                                    'Summary': summary,
+                                    'Verse': verse,
+                                    'Description': description,
+                                    '5-Pillars': all_pillars
+                                             })
+            return structured_pillars
+
+        all_pillar_contents = _structure_pillars()
+        if export:
+            return self._exporter(all_pillar_contents, 'islamic-pillars-harvard', 'jsons/pillars')
+        return all_pillar_contents
+
+    async def extract_all_kalimas(self, export=False):
+        url = self.url.muslim_quran
+        endpoint = 'kalmas'
+        soup = await self._extract_contents(url=url, endpoint=endpoint, slash=True)
+        ar_text, en_text = [[i.text for i in soup.find_all(class_=i)] for i in ('arabic-text kalma-arabic noorehudaFont arabic-line-height text-right font_36', 'mt-3')]
+        meaning = [i for i in [i.text for i in soup.find_all(class_='col-md-12 pt-4 px-0')] if i]
+        names = [i.text for i in soup.find_all(class_='mt-1')]
+        descr = [i for i in ''.join([i.text for i in soup.find_all(class_='font_14 override_styles')]).split(('\n'))[:-3] if i and not re.match(r'(\r)|(\xa0)',i)]
+        title_ = descr.pop(0)
+        title = title_[:title_.find(' Here')]
+        all_contents = OrderedDict({'title': self.add_line_breaks(title, 12),
+                                   'kalimas': {}})
+        kalimas_content = {}
+        for idx, (ar, en, trans, name, desc) in enumerate(zip(ar_text, en_text, meaning, names, descr), start=1):
+            if idx not in kalimas_content:
+                kalimas_content[idx] = {}
+            kalimas_content[idx] = OrderedDict({'description': desc,
+                                               'ar-text': self.add_line_breaks(ar, 12),
+                                               'en-text': self.add_line_breaks(en, 12),
+                                               'transliteration': self.add_line_breaks(trans, 11)})
+        all_contents['kalimas'] = kalimas_content
+        if export:
+            return self._exporter(all_contents, 'all-kalimas')
+        return all_contents
+
+    async def extract_funeral_guidance(self, export=False):
+        pdf_file = load(path='pdfs', file_name='funeral-guidance', ext='pdf')
+        pdf_contents = self._extractor(pdf_file)
+        first_page = self._extractor(pdf_file, maxpages=1)
+
+        def _get_front_cover():
+            title = first_page.pop(0).strip()
+            summary = ''.join(first_page[:first_page.index('Introduction  ')]).strip()
+            end_intro_idx = [idx for idx,i in enumerate(first_page) if re.search(r'(funeral service)', i)][-1]
+            intro_descr = ''.join(first_page[first_page.index('Introduction  '):end_intro_idx+1]).removeprefix('Introduction  ').rstrip(':  ')
+            return title, summary, intro_descr
+
+        def _get_toc_contents():
+            end_intro_idx = [idx for idx,i in enumerate(first_page) if re.search(r'(funeral service)', i)][-1]
+            toc_contents = [i for i in first_page[end_intro_idx+1:][:5]]
+            toc_indexes = [(idx, i) for idx, i in enumerate(pdf_contents) if i in toc_contents]
+            return pdf_contents
+        
+        return _get_toc_contents()
+
         
 
     @classmethod
@@ -1283,13 +1418,12 @@ class ProphetStories(BaseAPI):
                             for j, k in name.items()}
 
         if export:
-            with open(self.path / 'jsons' / 'prophet_stories.json', mode='w', encoding='utf-8') as file:
-                json.dump(all_contents, file, indent=4, ensure_ascii=False)
-            return all_contents
+            return self._exporter(all_contents, 'prophet_stories')
         return all_contents
 
 class ProphetMuhammad(BaseAPI):
     def __init__(self):
+        self.url = self.config
         self.name = 'The Life of the Prophet Muhammad (Peace and blessings of Allah be upon him)'
         self.title = 'The-Life-of-The-Prophet-Muhammad'
     
@@ -1442,6 +1576,41 @@ class ProphetMuhammad(BaseAPI):
             return self._exporter(full_book, 'life_of_prophet_muhammad')
         return full_book
 
+    async def extract_muhammads_names(self, export=False):
+        url = self.url.urdu_point
+        endpoint = 'islam/99names_Allah.php'
+        soup = await self._extract_contents(url=url, endpoint=endpoint, slash=True)
+        
+        def _get_title():
+            title_soup = soup.find_all(class_='phead')
+            title = title_soup[0].text
+            return title
+
+        def _get_table():
+            table_soup = soup.find_all(class_='resp_table')
+            fixed_table = [i for i in ''.join([i.text for i in table_soup]).split('\n') if i and not re.match(r'^\d', i)][4:]
+            grouped_table = [fixed_table[i:i+3] for i in range(0, len(fixed_table)-1, 3)]
+            return grouped_table
+
+        def _structured_table():
+            title, table = _get_title(), _get_table()
+            full_table = OrderedDict({'Source': url,
+                                    f'{title}': {}})
+            table_contents = {}
+            for idx, (ar_name, trans, meaning) in enumerate(table, start=1):
+                if idx not in table_contents:
+                    table_contents[idx] = {}
+                table_contents[idx] = OrderedDict({'Name': ar_name,
+                                                    'Transliteration': trans,
+                                                    'Meaning': meaning})
+            full_table[f'{title}'] = table_contents
+            return full_table
+
+        all_names = _structured_table()
+        if export:
+            return self._exporter(all_names, 'list_of_prophet_muhammed_names')
+        return all_names
+
 class IslamicStudies(BaseAPI):
     def __init__(self):
         super().__init__()
@@ -1583,14 +1752,14 @@ class IslamicStudies(BaseAPI):
                     key = content[0][1].title()
                     indexes = (content[0][0], content[1][0])
                     contents = _get_contents(html, *indexes)
-                    updated_toc[idx] = {key: contents}
+                    updated_toc[idx] = {key: self.add_line_breaks(contents, 10)}
                     last_indexes = (content[1][0], content[1][1])
                     last_idx.append(last_indexes)
                     if idx==4:
                         key = last_idx[-1][1].title().strip()
                         indexes = (last_idx[-1][0], len(html))
                         contents = _get_contents(html, *indexes)
-                        updated_toc[5] = {key: contents}
+                        updated_toc[5] = {key: self.add_line_breaks(contents, 10)}
                 return updated_toc
             
             all_contents = OrderedDict({
@@ -1600,14 +1769,63 @@ class IslamicStudies(BaseAPI):
                                         'Credits': toc_contents[title]['Credits']
                                             }
                                         })
-            
-            if export:
-                with open(self.path / 'jsons' / 'road_to_peace_salvation.json', mode='w', encoding='utf-8') as file:
-                    json.dump(all_contents, file, indent=4, ensure_ascii=False)
-                return all_contents
             return all_contents
+        full_contents = await _structured_contents()
+        if export:
+            return self._exporter(full_contents, 'road_to_peace_salvation')
+        return full_contents
+
+    async def extract_life_and_death(self, export=False):
+        pdf_file = load(path='pdfs', file_name='life-and-death', ext='pdf')
+        pdf_contents = [i for i in self._extractor(pdf_file) if i and not re.match(r'(\d{1,2})', i)]
+
+        def _get_title():
+            contents = self._extractor(pdf_file, maxpages=1)[:3]
+            title = contents.pop(0)
+            author = contents.pop(-1)
+            return title, author
         
-        return await _structured_contents()
+        def _get_toc():
+            toc_contents = self._extractor(pdf_file, page_numbers=range(2,4))[3:-1]
+            cleaned_contents = [re.sub(r'(\_+\s{1}\d{1,2})','',i).rstrip() for i in toc_contents]
+            return cleaned_contents
+
+        def _group_toc():
+            toc = _get_toc()
+            toc_indexes = [(idx, i) for idx, i in enumerate(pdf_contents) if i in toc][3:]
+            toc_grouped = [(toc_indexes[i], toc_indexes[i+1]) for i in range(len(toc_indexes)-1)]
+            toc_grouped.append((toc_grouped[-1][-1], (len(pdf_contents), toc_grouped[-1][-1][-1])))
+            return toc_grouped
+        
+        def _parse_chaps():
+            full_toc = _group_toc()
+            parsed_chaps = OrderedDict()
+            chap_num = None
+            for idx, items in enumerate(full_toc, start=1):
+                start, end = items[0][0], items[1][0]
+                first_chap, second_chap = items[0][-1], items[1][-1]
+
+                if re.search(r'^(Chapter)', first_chap):
+                    chap_num = first_chap
+                    parsed_chaps[chap_num] = OrderedDict()
+                if chap_num is not None:
+                    chap_contents = pdf_contents[start+1:end]
+                    cleaned_contents = [i for i in chap_contents if not re.match(r'(\s+?\d{1,2})|(\-{0,3}\s+?)|(\‘Every )', i)]
+                    parsed_chaps[chap_num][first_chap] = cleaned_contents
+            return parsed_chaps
+
+        def _combined():
+            front_cover, chapters = _get_title(), _parse_chaps()
+            title, author = front_cover[0], front_cover[-1]
+            full_book = OrderedDict({'Title': title,
+                                    'Author': author,
+                                    'Chapters': chapters})
+            return full_book
+        
+        parsed_pdf = _combined()
+        if export:
+            return self._exporter(parsed_pdf, 'life-and-death')
+        return parsed_pdf
 
 class IslamPrayer(BaseAPI):
     def __init__(self):
@@ -1790,9 +2008,9 @@ class ArabicAPI(BaseAPI):
 async def main():
     # tracemalloc.start()
 
-    a = QuranAPI()
+    # a = QuranAPI()
     # b = HadithAPI()
-    # c = IslamFacts()
+    c = IslamFacts()
     # d = PrayerAPI()
     # e = ProphetStories()
     # f = ProphetMuhammad()
@@ -1809,18 +2027,23 @@ async def main():
                     # a._surah_base_info(),
                     # b.get_all_hadiths(parser=default),
                     # c.extract_allah_contents(default),
-                    # c.fun_fact(limit=18),
+                    # c.extract_islam_facts(default, limit=18),
+                    c.extract_funeral_guidance(default),
+                    # c.extract_all_kalimas(default),
+                    # c.extract_islam_pillars(default)
                     # e.extract_all_prophets(default),
                     # f.proph_muhammads_life(default),
+                    # f.extract_muhammads_names(default)
                     # g.islamic_timeline(default),
                     # g.get_islam_laws(default),
                     # g.road_peace_html(default),
+                    # g.extract_life_and_death(default)
                     # c.islamic_terms(default),
                     # h.get_wudu(default),
                     # h.get_prayer(default),
                     # a.get_keyword(keyword='woman'),
                     # i.arabic_alphabet(default),
-                    a.extract_all_duas(default)
+                    # a.extract_all_duas(default),
                     ]]
         results = await asyncio.gather(*tasks)
         return results
@@ -1831,7 +2054,7 @@ async def main():
     # except Exception as e:
     #     traceback = tracemalloc.get_object_traceback(e)
     #     print(traceback)
-    results = await run_all(True)
+    results = await run_all(False)
     end = time()
     pprint(results)
     timer = (end-start)
@@ -1843,6 +2066,15 @@ if __name__ == '__main__':
         asyncio.run(main())
     except KeyboardInterrupt:
         print('Terminated')
+
+
+
+
+
+
+
+
+
 
 
 

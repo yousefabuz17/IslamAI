@@ -3,6 +3,10 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from multiprocessing import cpu_count
 from pathlib import Path
 from collections import OrderedDict
+from functools import lru_cache
+
+import os
+os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
 
 class DataLoader:
     def __init__(self, folder_path='jsons', file_ext='json'):
@@ -14,10 +18,12 @@ class DataLoader:
     def add(*args: dict, **kwargs):
         '''
             args: dict of all files loaded from DataLoader to be added with.
-            kwargs: folder<int: 1>
+            kwargs: key<int: 1>
+            Ex:
+                DataLoader.add(*args, key1='')
         '''
         all_data = [i for i in args]
-        all_folder_names = tuple(kwargs.get(f'folder{idx}') for idx,_ in enumerate(kwargs.items(), start=1))
+        all_folder_names = tuple(kwargs.get(f'key{idx}') for idx,_ in enumerate(kwargs.items(), start=1))
         all_added_files = OrderedDict({folder_name: folder_files for folder_name, folder_files in zip(all_folder_names, all_data)})
         return all_added_files
 
@@ -52,7 +58,7 @@ class DataLoader:
 
     @staticmethod
     def load_file(path='', file_name='', ext='json', **kwargs):
-        default_values = ('r', 'utf-8')
+        default_values = ('r', None)
         mode, encoding = tuple(kwargs.get(key, default_values[i]) for i,key in enumerate(('mode','encoding')))
         '''
         path='', file_name='', mode='r', encoding='utf-8', ext='json'
@@ -71,6 +77,28 @@ class DataLoader:
     @property
     def get_files(self):
         return self.data_files
+
+    @classmethod
+    @lru_cache(maxsize=1)
+    def _translate_text(cls, *args):
+        import tensorflow as tf
+        from transformers import MarianConfig, MarianMTModel, MarianTokenizer, pipeline
+        import gensim
+        from gensim.models import Word2Vec
+        from nltk.tokenize import word_tokenize
+
+        text, src_lang, tgt_lang = args
+        model_name = f'Helsinki-NLP/opus-mt-{src_lang}-{tgt_lang}'
+        config = MarianConfig.from_pretrained(model_name, revision="main")
+        model = MarianMTModel.from_pretrained(model_name, config=config)
+        tokenizer = MarianTokenizer.from_pretrained(model_name, config=config)
+        translation = pipeline("translation", model=model, tokenizer=tokenizer)
+        translated_text = translation(text, max_length=512, return_text=True)[0]
+        return translated_text.get('translation_text')
+
+    @classmethod
+    def translate(cls, *args):
+        return cls._translate_text(*args)
 
 def main():
     return DataLoader(folder_path='jsons', file_ext='json')()
