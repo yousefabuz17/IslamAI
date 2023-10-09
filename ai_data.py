@@ -140,8 +140,8 @@ class BaseAPI(metaclass=SingletonMeta):
                 }
     
     async def _request(self, **kwargs):
-        default_values = (self.url, '', None, False, False)
-        url, endpoint, headers, slash, rapidapi = tuple(kwargs.get(key, default_values[i]) for i, key in enumerate(('url', 'endpoint', 'headers', 'slash', 'rapidapi')))
+        default_values = (self.url, '', None, False, 0, False)
+        url, endpoint, headers, slash, timeout, rapidapi = tuple(kwargs.get(key, default_values[i]) for i, key in enumerate(('url', 'endpoint', 'headers', 'slash', 'timeout', 'rapidapi')))
         slash = '/' if slash else ''
         full_endpoint = f'{url}{slash+str(endpoint)}'
         response = ''
@@ -149,7 +149,7 @@ class BaseAPI(metaclass=SingletonMeta):
             async with ClientSession(connector=TCPConnector(ssl=False, enable_cleanup_closed=True,
                                                             force_close=True, ttl_dns_cache=300),
                                                             raise_for_status=True) as session:
-                async with session.get(full_endpoint, headers=headers) as response:
+                async with session.get(full_endpoint, headers=headers, timeout=timeout) as response:
                     response = await response.json()
                     return response
         except (client_exceptions.ContentTypeError):
@@ -263,9 +263,9 @@ class BaseAPI(metaclass=SingletonMeta):
         return grouped_index, norm_indexes
     
     async def _extract_contents(self, **kwargs):
-        default_values = ['']*2+[False, self.url] +['']*3
-        html_file, endpoint, slash, url, class_, tag_, style = tuple(kwargs.get(key, default_values[i]) for i,key in enumerate(('html_file', 'endpoint', 'slash', 'url', 'class_', 'tag_', 'style')))
-        main_page = await self._request(url=url, endpoint=endpoint, slash=slash) if not html_file else html_file
+        default_values = ['']*2+[False, self.url, 0] +['']*3
+        html_file, endpoint, slash, url, timeout, class_, tag_, style = tuple(kwargs.get(key, default_values[i]) for i,key in enumerate(('html_file', 'endpoint', 'slash', 'url', 'timeout', 'class_', 'tag_', 'style')))
+        main_page = await self._request(url=url, endpoint=endpoint, slash=slash, timeout=timeout) if not html_file else html_file
         # try:
         #     soup = BeautifulSoup(main_page, 'html.parser')
         # except TypeError:
@@ -772,49 +772,194 @@ class QuranAPI(BaseAPI):
             return await self._merge_all('all-duas', 'duas')
         return ramadan_duas
 
+    async def islamhouse_extract_surahs(self, export=False):
+        #** Main Page is all languages
+        main_url = self.url.islam_house
+        mainpg_endpoint = 'quran/'
+
+        async def _get_all_langs():
+            #** Returns list[tuple[language, translator, lang_endpoint]]
+            lang_soup = await self._extract_contents(url=main_url, endpoint=mainpg_endpoint, slash=True, tag_='a')
+            lang_contents_ = [['/'.join(i.get('href').split('/')[-2:]), i.text] for i in lang_soup if re.search(r'\.html$', i.get('href'))]
+            lang_contents = [(j, i, ' '.join(i.split('/')[0].split('_')).title()) for i,j in lang_contents_]
+            return lang_contents
+
+        async def _parse_langs(surahID):
+            pass
+
+        async def _surah_parser():
+            pass
+
+
+        return await _get_all_langs()
+
+
 class HadithAPI(BaseAPI):
     def __init__(self):
         super().__init__()
         self.url = self.config
-    
-    async def get_all_hadiths(self, **kwargs):
-        '''Fetch all hadiths or specify `author`: str'''
-        async def _get_hadiths(**kwargs):
-            return await _extract_urls(**kwargs)
+
+    async def extract_all_hadiths(self, export=False):
+        main_url = self.url.urdu_point
+        _get_endpoint = 'islam/hadees-{}/'
+        mainpg_endpoint = _get_endpoint.format('books')
+
+        def _group_names(names):
+            pairs = []
+            current_pair = None
+            for name in names:
+                if name.isascii():
+                    if current_pair:
+                        pairs.append(tuple(current_pair))
+                    current_pair = [name]
+                else:
+                    if current_pair:
+                        current_pair.append(name)
+            if current_pair:
+                pairs.append(tuple(current_pair))
+            return pairs
         
-        async def _extract_urls(**kwargs):
-            async def _parser(contents):
-                for book, link in tqdm(contents.items(), total=len(contents), desc='Processing Hadiths', colour='green', unit='MB'):
-                    with open(self.path / 'jsons' / 'hadiths' / f'book_{book}.json', mode='w', encoding='utf-8') as file2:
-                        hadith_json = await self._request(endpoint='', slash=False, url=link)
-                        json.dump(hadith_json, file2, indent=4)
-                return file2
-            default_values = (False, 'English')
-            parser, lang = (kwargs.get(key, default_values[i]) for i,key in enumerate(('parser', 'lang')))
-            json_file = await self._request(endpoint='', slash=False, url=self.url.hadith_url)
-            contents_ = [(nested('book', j, wild=True), nested('link', j, wild=True)) for i in json_file.values() for j in i['collection'] if j.get('language') == lang]
-            contents = {key[0][0]: key[1][0] for key in contents_}
-            path = Path(deepcopy(self.path))
-            file = open(path / 'jsons' / 'hadith_api_links.json', mode='w', encoding='utf-8')
-            json.dump(contents, file, indent=4)
-            file.close()
-            if parser:
-                json_file = json.load(open(path / 'jsons' / 'hadith_api_links.json', encoding='utf-8'))
-                await _parser(json_file)
-                return contents
-            else:
-                return contents
+        async def _get_main_page():
+            '''main_page contents ->
+            intro, hadith books (Names in English/Arabic), hadith_endpoints, hadith_num_endpoints'''
+            main_page = await self._extract_contents(url=main_url, endpoint=mainpg_endpoint.rstrip('/')+'.html', slash=True)
+            def _get_mp_intro():
+                '''Main Page Introduction'''
+                attrs = {'class': ['shad_box', 'shad_box cnt_box']}
+                top_intro = ''.join([i.text for i in main_page.find(class_=attrs.get('class')[0])]).split('\n')[2:-1]
+                _ = [top_intro.pop(0) for _ in range(2)]
+                bottom_intro = ''.join([i.text for i in main_page.find_all(class_=attrs.get('class')[1])]).split('\n')[:-1]
+                full_intro = top_intro + bottom_intro
+                return full_intro
+
+            def _get_book_endpoints():
+                attrs = {'class': ['hbook_wrap', 'hbook']}
+                book_section = main_page.find_all(class_=attrs.get('class')[0])
+                ungrouped_names = [i for i in ''.join([i.text for i in book_section]).split('\n') if i.strip()]
+                grouped_names = _group_names(ungrouped_names)
+                hadith_endpoints_ = ['/'+i.get('href').split('/')[-1] for i in main_page.find_all(class_=attrs.get('class')[1])]
+                hadith_endpoints = {idx: i for idx, i in enumerate(hadith_endpoints_, start=1)}
+                return grouped_names, hadith_endpoints
+            main_page = _get_mp_intro(), _get_book_endpoints()
+            return main_page
+
+        async def _get_book_mp(hadithID: str):
+            '''hadithID: str -> hadith_name (e.g /sahih-bukhari.html)
+            Hadith Main Page
+            Returns:
+            list(
+                
+                1: hadith_info
+                2: book_name -> arabic
+                3: book_name -> english
+                4: hadith_num_endpoints -> ['sahih-bukhari/hadees-no-1.html',
+                                            'sahih-bukhari/hadees-no-3.html',
+                                            'sahih-bukhari/hadees-no-8.html']
+                )
+
+            '''
+            hadith_endpoint = mainpg_endpoint+hadithID
+            hadith_page = await self._extract_contents(url=main_url, endpoint=hadith_endpoint, slash=True)
+            
+            def _get_book_info():
+                hadith_info_ = [i for i in ''.join([i.text for i in hadith_page.find_all(class_='surah_detail_info mb10 mt10 fl')]).split('\n') if i]
+                needed_info = hadith_info_[2:]
+                group_info = iter(needed_info)
+                fixed_info = list(zip(group_info, group_info))
+                info_dict = {title: value for title, value in fixed_info}
+                return OrderedDict({**info_dict})
+
+            def _get_book_chaps():
+                #** Returns list[tuple[chap_name_en, chap_name_ar], chap_endpoint]
+                chap_endpoints_ = [f'{_get_endpoint.format("chapters")}'+'/'.join(i.get('href').split('/')[-2:]) for i in hadith_page.find_all('a') if re.search(r'(chapter-no-\d{1,4})', i.get('href'))]
+                chap_endpoints = list(OrderedDict(dict.fromkeys(chap_endpoints_, '')).keys())
+                table_contents = [i for i in ''.join([i.text for i in hadith_page.find_all('tr')]).split('\n') if i]
+                cleaned_table = [i for i in table_contents if i.strip() and not re.match(r'(\d)|(--)',i)][3:]
+                iter_table = iter(cleaned_table)
+                grouped = [[i,j,k] for i,j,k in list(zip(iter_table, iter_table, chap_endpoints))]
+                return grouped
+
+            async def _get_book_num_hrefs(chap_endpoint):
+                response = await self._extract_contents(url=main_url, endpoint=chap_endpoint, slash=True)
+                hadith_num_links = ['/'.join(i.get('href').split('/')[-2:]) for i in response.find_all(class_='fr full hadith_item')]
+                return hadith_num_links
+
+            async def _append_all():
+                book_chaps = _get_book_chaps()
+                all_hadith_books = []
+                for idx, (ar, en, h_endpoint) in enumerate(book_chaps, start=1):
+                    num_hrefs = await _get_book_num_hrefs(h_endpoint)
+                    all_hadith_books.append([ar, en, num_hrefs])
+                return _get_book_info(), all_hadith_books
+
+            all_mainpg_contents = await _append_all()
+            return all_mainpg_contents
+
+        async def _hadith_parser(hadithNO, book_name=''):
+            async def _parse(endpoint):
+                try: return await self._extract_contents(url=main_url, endpoint=endpoint, slash=True, timeout=30)
+                except client_exceptions.InvalidURL: ...
+
+            full_book, parse_mp = await _get_book_mp(hadithNO)
+            chap_contents = OrderedDict()
+            for idx, (ar, en, endpoints) in tqdm(enumerate(parse_mp, start=1), total=len(parse_mp), desc=f'Processing {book_name}', colour='green', unit='MB', leave=True):
+                chapter_key = f'Chapter-{idx}'
+                if chapter_key not in chap_contents:
+                    chap_contents[chapter_key] = OrderedDict()
+                for idx_, endpoint in tqdm(enumerate(endpoints, start=1), total=len(endpoints), desc=f'Processing {en}', colour='green', unit='MB', leave=True):
+                    hadith_endpoint = f'{_get_endpoint.format("detail")}{endpoint}'
+                    hadith_num_mp = await _parse(hadith_endpoint)
+                    hadith_contents = ''
+                    if not hadith_num_mp:
+                        #** Broken endpoints
+                        continue
+                    hadith_contents = [i for i in (hadith_num_mp.find(class_=i) for _, i in enumerate(('urdu fs20 lh46 ar rtl', 'fs18 bsbb ltr pad5 all_b aj lh30 mb10', 'quranic fs32 lh52 rtl ar', 'surah_detail_info mb10 mt10 fl')))]
+                    urdu_trans, en_trans, ar_trans, chap_info_ = ['' if not i else i.text for i in hadith_contents]
+                    if chap_info_:
+                        chap_info = ''.join(chap_info_).split('\n')
+                    chap_name, hadith_num = [chap_info[chap_info.index(i)+1] for i in ('Chapter Name', 'Hadith No')]
+                    hadith_num = int(hadith_num)
+                    if chap_name not in chap_contents[chapter_key]:
+                        chap_contents[chapter_key][chap_name] = OrderedDict()
+                    if idx_ not in chap_contents[chapter_key][chap_name]:
+                        chap_contents[chapter_key][chap_name][idx_] = OrderedDict()
+                    chap_contents[chapter_key][chap_name][idx_] = OrderedDict({
+                                                                  'chapter-en': en,
+                                                                  'chapter-ar': ar,
+                                                                  'hadith-no.': hadith_num,
+                                                                  'urdu-translation': urdu_trans,
+                                                                  'english-translation': en_trans,
+                                                                  'arabic-translation': ar_trans})
+            all_hadith_num_contents = {'Chapters': chap_contents}
+            full_book.update(all_hadith_num_contents)
+            return full_book
+
+        async def _parse_books():
+            mainpg_intro, book_info = await _get_main_page()
+            book_names, dict_endpoints = book_info
+            all_book_contents = OrderedDict({'source': main_url,
+                                            'introduction': mainpg_intro,
+                                            'books': {}})
+            for idx, books in tqdm(enumerate(book_names, start=1), desc='Processing Hadiths', total=len(book_names), colour='green', unit='MB'):
+                en_name, ar_name = books[0], books[1]
+                book_endpoint = dict_endpoints.get(idx)
+                starting_info = OrderedDict({'book_en': en_name,
+                                            'book_ar': ar_name})
+                book_chap_contents = await _hadith_parser(book_endpoint, en_name)
+                starting_info.update(book_chap_contents)
+                if idx not in all_book_contents['books']:
+                    all_book_contents['books'][idx] = OrderedDict()
+                all_book_contents['books'][idx] = {en_name: starting_info}
+                name = en_name.split()
+                exporter_name = 'book_{}'.format(name[-1].lower() if len(name)>=2 and not re.match(r'^I', name[1]) else ''.join(name[1:]))
+                self._exporter(starting_info, exporter_name, 'jsons/hadiths')
+            all_book_contents.update(starting_info)
+            return all_book_contents
         
-        contents = await _get_hadiths(parser=True)
-        book_authors = contents.keys()
-        default_values = ['', False]
-        author, _  = [kwargs.get(key, default_values[i]) for i, key in enumerate(('author', ''))]
-        if author:
-            author = self.best_match(author, values_=book_authors)[0]
-            book_json = json.loads((self.path / 'jsons' / 'hadiths' / f'book_{author}.json').read_text(encoding='utf-8'))
-            return book_json
-        else:
-            return contents
+        all_parsed_books = await _parse_books()
+        if export:
+            return self._exporter(all_parsed_books, 'all-hadiths')
+        return all_parsed_books
 
 class IslamFacts(BaseAPI):
     facts = set()
@@ -826,7 +971,7 @@ class IslamFacts(BaseAPI):
     
     @classmethod
     def _update_facts(cls, facts: set):
-        file2 = cls._load_file(path=cls.path, name='islam_facts', mode='r', folder='jsons', type_='json')
+        file2 = cls._load_file(path=cls.path, name='islamic-facts', mode='r', folder='jsons', type_='json')
         fun_facts = dict.fromkeys(file2)
         fun_facts.update(facts)
         cls.facts.update(facts)
@@ -2009,8 +2154,8 @@ async def main():
     # tracemalloc.start()
 
     # a = QuranAPI()
-    # b = HadithAPI()
-    c = IslamFacts()
+    b = HadithAPI()
+    # c = IslamFacts()
     # d = PrayerAPI()
     # e = ProphetStories()
     # f = ProphetMuhammad()
@@ -2023,12 +2168,14 @@ async def main():
                     # d.extract_qibla_data(default),
                     # a.surahquran_extract_surahs(default),
                     # a.altafsir_extract_surahs(default),
+                    # a.islamhouse_extract_surahs(default)
                     # a.extract_surahs_info(default),
                     # a._surah_base_info(),
-                    # b.get_all_hadiths(parser=default),
+                    # b.get_all_hadith_books(parser=default),
+                    b.extract_all_hadiths(default)
                     # c.extract_allah_contents(default),
                     # c.extract_islam_facts(default, limit=18),
-                    c.extract_funeral_guidance(default),
+                    # c.extract_funeral_guidance(default),
                     # c.extract_all_kalimas(default),
                     # c.extract_islam_pillars(default)
                     # e.extract_all_prophets(default),
@@ -2056,7 +2203,7 @@ async def main():
     #     print(traceback)
     results = await run_all(False)
     end = time()
-    pprint(results)
+    # pprint(results)
     timer = (end-start)
     minutes, seconds = divmod(timer, 60) 
     print(f"Execution Time: {minutes:.0f} minutes and {seconds:.5f} seconds")
