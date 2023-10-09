@@ -98,7 +98,7 @@ pamqp==3.2.1
 pandas==2.0.3
 partd==1.4.0
 pdfminer.six==20221105
-Pillow==10.0.0
+Pillow==10.0.1
 pluggy==1.2.0
 portalocker==2.7.0
 prompt-toolkit==3.0.28
