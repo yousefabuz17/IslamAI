@@ -1,0 +1,259 @@
+{
+    "Arabic Numerical System": {
+        "Source": "https://omniglot.com",
+        "Table": {
+            "1": {
+                "Numeral (English)": "0",
+                "Numeral (Arabic)": "٠",
+                "Pronunciation (English)": "ṣifr",
+                "Pronunciation (Arabic)": "صفر"
+            },
+            "2": {
+                "Numeral (English)": "1",
+                "Numeral (Arabic)": "١",
+                "Pronunciation (English)": "wāḥid",
+                "Pronunciation (Arabic)": "واحد"
+            },
+            "3": {
+                "Numeral (English)": "2",
+                "Numeral (Arabic)": "٢",
+                "Pronunciation (English)": "iṯnān",
+                "Pronunciation (Arabic)": "إثنان"
+            },
+            "4": {
+                "Numeral (English)": "3",
+                "Numeral (Arabic)": "٣",
+                "Pronunciation (English)": "ṯālaṯa",
+                "Pronunciation (Arabic)": "ثلاثة"
+            },
+            "5": {
+                "Numeral (English)": "4",
+                "Numeral (Arabic)": "٤",
+                "Pronunciation (English)": "ārba’a",
+                "Pronunciation (Arabic)": "أربعة"
+            },
+            "6": {
+                "Numeral (English)": "5",
+                "Numeral (Arabic)": "٥",
+                "Pronunciation (English)": "ḫamsa",
+                "Pronunciation (Arabic)": "خمسة"
+            },
+            "7": {
+                "Numeral (English)": "6",
+                "Numeral (Arabic)": "٦",
+                "Pronunciation (English)": "sitta",
+                "Pronunciation (Arabic)": "ستة"
+            },
+            "8": {
+                "Numeral (English)": "7",
+                "Numeral (Arabic)": "٧",
+                "Pronunciation (English)": "sab’a",
+                "Pronunciation (Arabic)": "سبعة"
+            },
+            "9": {
+                "Numeral (English)": "8",
+                "Numeral (Arabic)": "٨",
+                "Pronunciation (English)": "ṯamāniya",
+                "Pronunciation (Arabic)": "ثمانية"
+            },
+            "10": {
+                "Numeral (English)": "9",
+                "Numeral (Arabic)": "٩",
+                "Pronunciation (English)": "tis’a",
+                "Pronunciation (Arabic)": "تسعة"
+            },
+            "11": {
+                "Numeral (English)": "10",
+                "Numeral (Arabic)": "١٠",
+                "Pronunciation (English)": "‘ashra",
+                "Pronunciation (Arabic)": "عشرة"
+            },
+            "12": {
+                "Numeral (English)": "11",
+                "Numeral (Arabic)": "١١",
+                "Pronunciation (English)": "aḥada ‘ashar",
+                "Pronunciation (Arabic)": "إحدى"
+            },
+            "13": {
+                "Numeral (English)": "12",
+                "Numeral (Arabic)": "١٢",
+                "Pronunciation (English)": "iṯnā ‘ashar",
+                "Pronunciation (Arabic)": "إثنا"
+            },
+            "14": {
+                "Numeral (English)": "13",
+                "Numeral (Arabic)": "١٣",
+                "Pronunciation (English)": "ṯālatha ‘ashar",
+                "Pronunciation (Arabic)": "ثلاثة"
+            },
+            "15": {
+                "Numeral (English)": "14",
+                "Numeral (Arabic)": "١٤",
+                "Pronunciation (English)": "arba’a ‘ashar",
+                "Pronunciation (Arabic)": "أربعة"
+            },
+            "16": {
+                "Numeral (English)": "15",
+                "Numeral (Arabic)": "١٥",
+                "Pronunciation (English)": "ḫamsa ‘ashar",
+                "Pronunciation (Arabic)": "خمسة"
+            },
+            "17": {
+                "Numeral (English)": "16",
+                "Numeral (Arabic)": "١٦",
+                "Pronunciation (English)": "sitta ‘ashar",
+                "Pronunciation (Arabic)": "ستة"
+            },
+            "18": {
+                "Numeral (English)": "17",
+                "Numeral (Arabic)": "١٧",
+                "Pronunciation (English)": "sab’a ‘ashar",
+                "Pronunciation (Arabic)": "سبعة"
+            },
+            "19": {
+                "Numeral (English)": "18",
+                "Numeral (Arabic)": "١٨",
+                "Pronunciation (English)": "ṯamāniya ‘ashar",
+                "Pronunciation (Arabic)": "ثمانية"
+            },
+            "20": {
+                "Numeral (English)": "19",
+                "Numeral (Arabic)": "١٩",
+                "Pronunciation (English)": "tis’a ‘ashar",
+                "Pronunciation (Arabic)": "تسعة"
+            },
+            "21": {
+                "Numeral (English)": "20",
+                "Numeral (Arabic)": "٢٠",
+                "Pronunciation (English)": "‘ishrun",
+                "Pronunciation (Arabic)": "عشرون"
+            },
+            "22": {
+                "Numeral (English)": "21",
+                "Numeral (Arabic)": "٢١",
+                "Pronunciation (English)": "wāḫed wa-’ishrun",
+                "Pronunciation (Arabic)": "واحد"
+            },
+            "23": {
+                "Numeral (English)": "22",
+                "Numeral (Arabic)": "٢٢",
+                "Pronunciation (English)": "iṯnāne wa-’ishrun",
+                "Pronunciation (Arabic)": "إثنان"
+            },
+            "24": {
+                "Numeral (English)": "23",
+                "Numeral (Arabic)": "٢٣",
+                "Pronunciation (English)": "ṯālaṯa wa-’ishrun",
+                "Pronunciation (Arabic)": "ثلاثة"
+            },
+            "25": {
+                "Numeral (English)": "24",
+                "Numeral (Arabic)": "٢٤",
+                "Pronunciation (English)": "arba’a wa-’ishrun",
+                "Pronunciation (Arabic)": "أربعة"
+            },
+            "26": {
+                "Numeral (English)": "25",
+                "Numeral (Arabic)": "٢٥",
+                "Pronunciation (English)": "ḫamsa wa-’ishrun",
+                "Pronunciation (Arabic)": "خمسة"
+            },
+            "27": {
+                "Numeral (English)": "26",
+                "Numeral (Arabic)": "٢٦",
+                "Pronunciation (English)": "sitta wa-’ishrun",
+                "Pronunciation (Arabic)": "ستة"
+            },
+            "28": {
+                "Numeral (English)": "27",
+                "Numeral (Arabic)": "٢٧",
+                "Pronunciation (English)": "sab’a wa-’ishrun",
+                "Pronunciation (Arabic)": "سبعة"
+            },
+            "29": {
+                "Numeral (English)": "28",
+                "Numeral (Arabic)": "٢٨",
+                "Pronunciation (English)": "ṯamāniya wa-’ishrun",
+                "Pronunciation (Arabic)": "ثمانية"
+            },
+            "30": {
+                "Numeral (English)": "29",
+                "Numeral (Arabic)": "٢٩",
+                "Pronunciation (English)": "tis’a wa-’ishrun",
+                "Pronunciation (Arabic)": "تسعة"
+            },
+            "31": {
+                "Numeral (English)": "30",
+                "Numeral (Arabic)": "٣٠",
+                "Pronunciation (English)": "ṯālaṯun",
+                "Pronunciation (Arabic)": "ثلاثون"
+            },
+            "32": {
+                "Numeral (English)": "40",
+                "Numeral (Arabic)": "٤٠",
+                "Pronunciation (English)": "arba’un",
+                "Pronunciation (Arabic)": "أربعون"
+            },
+            "33": {
+                "Numeral (English)": "50",
+                "Numeral (Arabic)": "٥٠",
+                "Pronunciation (English)": "ḫamsun",
+                "Pronunciation (Arabic)": "خمسون"
+            },
+            "34": {
+                "Numeral (English)": "60",
+                "Numeral (Arabic)": "٦٠",
+                "Pronunciation (English)": "sittun",
+                "Pronunciation (Arabic)": "ستون"
+            },
+            "35": {
+                "Numeral (English)": "70",
+                "Numeral (Arabic)": "٧٠",
+                "Pronunciation (English)": "sab’un",
+                "Pronunciation (Arabic)": "سبعون"
+            },
+            "36": {
+                "Numeral (English)": "80",
+                "Numeral (Arabic)": "٨٠",
+                "Pronunciation (English)": "ṯamānun",
+                "Pronunciation (Arabic)": "ثمانون"
+            },
+            "37": {
+                "Numeral (English)": "90",
+                "Numeral (Arabic)": "٩٠",
+                "Pronunciation (English)": "tis’un",
+                "Pronunciation (Arabic)": "تسعون"
+            },
+            "38": {
+                "Numeral (English)": "100",
+                "Numeral (Arabic)": "١٠٠",
+                "Pronunciation (English)": "mi'a",
+                "Pronunciation (Arabic)": "مائة"
+            },
+            "39": {
+                "Numeral (English)": "1,000",
+                "Numeral (Arabic)": "١٠٠٠",
+                "Pronunciation (English)": "alf",
+                "Pronunciation (Arabic)": "ألف"
+            },
+            "40": {
+                "Numeral (English)": "2,000",
+                "Numeral (Arabic)": "٢٠٠٠",
+                "Pronunciation (English)": "alfain",
+                "Pronunciation (Arabic)": "ألفين"
+            },
+            "41": {
+                "Numeral (English)": "100,000",
+                "Numeral (Arabic)": "١٠٠٠٠٠",
+                "Pronunciation (English)": "mi'at alf",
+                "Pronunciation (Arabic)": "مائة"
+            },
+            "42": {
+                "Numeral (English)": "1 million",
+                "Numeral (Arabic)": "١٠٠٠٠٠٠",
+                "Pronunciation (English)": "million",
+                "Pronunciation (Arabic)": "مليون"
+            }
+        }
+    }
+}

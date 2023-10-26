@@ -1,6 +1,16 @@
 {
     "1": {
         "Prophet Ayyub": {
+            "Intro": [
+                "The story of Prophet Ayyub (Job) is",
+                " one of adversity where his faith is",
+                " constantly being tested. Yet his love for",
+                " Allah only grows. He remains true to",
+                " himself and never questions or doubts Allah’s",
+                " will for a second. We can learn",
+                " to be more patient and trusting from",
+                " Prophet Ayyub."
+            ],
             "Full Story": {
                 "Family Tree Of Prophet Ayyub": [
                     "Prophet Ayyub (Job) was a descendant of Prophet Ibrahim. Ayyub’s mother was the daughter of Prophet Lut and his wife was a direct descendant of Prophet Yusuf. Ayyub lived in Rome with his dear wife Rahma and fourteen children.",
@@ -40,12 +50,20 @@
                     "And [mention] Job, when he called to his Lord, “Indeed, adversity has touched me, and you are the Most Merciful of the merciful.”So We responded to him and removed what afflicted him of adversity. And We gave him [back] his family and the like thereof with them as mercy from Us and a reminder for the worshippers [of Allah]. (Surah Anbiya Ayat 83-84)",
                     "And remember Our servant Job, when he called to his Lord, “Indeed, Satan has touched me with hardship and torment.”[So he was told], “Strike [the ground] with your foot; this is a [spring for] a cool bath and drink.”And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding.[We said], “And take in your hand a bunch [of grass] and strike with it and do not break your oath.” Indeed, We found him patient, an excellent servant. Indeed, he was one repeatedly turning back [to Allah]. And remember Our servants, Abraham, Isaac and Jacob – those of strength and [religious] vision.Indeed, We chose them for an exclusive quality: remembrance of the home [of the Hereafter]. (Surah Sad 41-46)"
                 ]
-            },
-            "Intro": "The story of Prophet Ayyub (Job) is one of adversity where his faith is constantly being tested. Yet his love for Allah only grows. He remains true to himself and never questions or doubts Allah’s will for a second. We can learn to be more patient and trusting from Prophet Ayyub."
+            }
         }
     },
     "2": {
         "Prophet Yunus": {
+            "Intro": [
+                "The story of Prophet Yunus (Jonah) was",
+                " a difficult one. His commitment to Allah",
+                " was questioned and he had to face",
+                " the consequence of this. However, his story",
+                " shows Allah’s mercy as if you are",
+                " sincere in repentance then Allah will shower",
+                " his Mercy."
+            ],
             "Full Story": {
                 "The Story of Prophet Yunus": [
                     "Yunus Ibn Matta (referred to Jonah in English) was a Messenger of Allah sent to Nineveh, a city in northern Iraq with a population of over a hundred thousand. Prophet Yunus was seemingly an ordinary man who was born and raised amongst the fellow citizens of Nineveh.",
@@ -67,12 +85,22 @@
                     "When Yunus was completely recovered, he travelled back to Nineveh to complete his mission. Upon arriving at his hometown, Yunus was stunned—the entire population of Nineveh had accepted Islam and were awaiting his arrival. Together with his people, Yunus prostrated to his Lord and thanked him for all His blessings.",
                     "Yunus was the only Prophet whose entire community accepted Islam. Allah stated in the Holy Quran regarding the people of Yunus Ibn Matta: “Was there any town community that believed after seeing the punishment, and its Faith at that moment, saved it from the punishment? (the answer is none)—except the people of Yunus; when they believed, We removed from them the torment of disgrace in the life of the present world, and permitted them to enjoy for a while.” [Surah Yunus Ayat 98]"
                 ]
-            },
-            "Intro": "The story of Prophet Yunus (Jonah) was a difficult one. His commitment to Allah was questioned and he had to face the consequence of this. However, his story shows Allah’s mercy as if you are sincere in repentance then Allah will shower his Mercy."
+            }
         }
     },
     "3": {
         "Prophet Lut": {
+            "Intro": [
+                "The people of Sodom were prosperous and",
+                " thriving. In such success people often diverge",
+                " to the wrong path away from Allah.",
+                " They got involved in many sinful activities,",
+                " one of which being homosexuality. Allah then",
+                " sent Prophet Lut to help the city",
+                " of Sodom. The story of Sodom is",
+                " also mentioned in the Jewish and Christian",
+                " faith."
+            ],
             "Full Story": {
                 "The Story Of Prophet Lut in Islam": [
                     "The Story of Prophet Lut (PBUH)- The Corrupt City",
@@ -122,12 +150,17 @@
                     "Tahrim (66:10)",
                     "Allah presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so those prophets did not avail them from Allah at all, and it was said, “Enter the Fire with those who enter.” (Ayat 10)"
                 ]
-            },
-            "Intro": "The people of Sodom were prosperous and thriving. In such success people often diverge to the wrong path away from Allah. They got involved in many sinful activities, one of which being homosexuality. Allah then sent Prophet Lut to help the city of Sodom. The story of Sodom is also mentioned in the Jewish and Christian faith."
+            }
         }
     },
     "4": {
         "Prophet Idris": {
+            "Intro": [
+                "Prophet Idris (Enoch) was the second Prophet",
+                " in Islam after Adam. He was the",
+                " first person to Jihad and fought against",
+                " corruption of Qabil (Cain)."
+            ],
             "Full Story": {
                 "Story of Prophet Idris In Islam": [
                     "Who Is Prophet Idris?",
@@ -157,12 +190,18 @@
                     "“None can show better gratitude for Allah’s favors than he who shares them with others.”",
                     "“Do not envy people for what they have, as they will only enjoy it for a short while.”“He who indulges in excess will not benefit from it.”“The real joy of life is to have wisdom.”"
                 ]
-            },
-            "Intro": "Prophet Idris (Enoch) was the second Prophet in Islam after Adam. He was the first person to Jihad and fought against corruption of Qabil (Cain)."
+            }
         }
     },
     "5": {
         "Prophet Dhul-Kifl": {
+            "Intro": [
+                "Dhul-Kifl is a less known prophet and",
+                " his story is a bit of a",
+                " mystery. There are two mentions in the",
+                " Qur’an about him that are a testament",
+                " to his moral character."
+            ],
             "Full Story": {
                 "Prophet Dhul Kifl": [
                     "The Story of Dhul-Kifl (also referred to as Zul-Kifl) is a bit of a mystery.",
@@ -222,12 +261,18 @@
                     "He admitted that he was Iblis and remarked, “You have thwarted all my plans and frustrated all my efforts to entice you in my design. My intention was to make you angry somehow, so that one of your claims before Yasa could be proven false.”",
                     "It was because of this episode the man was given the title Dhul-Kifl, a title meaning “possessor of, or giving, a double requital or portion”."
                 ]
-            },
-            "Intro": "Dhul-Kifl is a less known prophet and his story is a bit of a mystery. There are two mentions in the Qur’an about him that are a testament to his moral character."
+            }
         }
     },
     "6": {
         "Prophet Nuh": {
+            "Intro": [
+                "Prophet Nuh (Noah) is a story about",
+                " disbelievers. Prophet Noah was sent down to",
+                " prevent the Muslims that were following Prophet",
+                " Idris from going astray after his passing.",
+                ""
+            ],
             "Full Story": {
                 "Prophet Nuh": [
                     "Full Story of Prophet Nuh (Noah) In Islam",
@@ -300,12 +345,17 @@
                     "Qamar (54:11)",
                     "Nuh (71:25)"
                 ]
-            },
-            "Intro": "Prophet Nuh (Noah) is a story about disbelievers. Prophet Noah was sent down to prevent the Muslims that were following Prophet Idris from going astray after his passing."
+            }
         }
     },
     "7": {
         "Prophet Al-Yasa": {
+            "Intro": [
+                "Prophet Al-Yasa (Elisha) was a Prophet in",
+                " Judiasm, Christianity and in Islam. He was",
+                " the successor to Elijah. Allah refers to",
+                " him twice in the Qur’an."
+            ],
             "Full Story": {
                 "Story of Al-Yasa (Elisha)": [
                     "Story of Al-Yasa (Elisha)",
@@ -331,12 +381,26 @@
                     "He really loved and was committed to guiding his people on the right path. He was righteous and consistently showed humility, passion and did the right thing. This is something we can all strive for and practice.Allah says in Surah Baqarah,",
                     "“”Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in God, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakah (obligatory charity); [those who] fulfill their promise when they promise; and [those who] are patient in poverty and ailment and during battle. Those are the ones who have been true, and it is those who are the righteous.” (Quran 2:177)”"
                 ]
-            },
-            "Intro": "Prophet Al-Yasa (Elisha) was a Prophet in Judiasm, Christianity and in Islam. He was the successor to Elijah. Allah refers to him twice in the Qur’an."
+            }
         }
     },
     "8": {
         "Prophet Yusuf": {
+            "Intro": [
+                "Prophet Yusuf (Joseph) had a dream that",
+                " he was destined for greatness. Yet his",
+                " life was filled with had adversity and",
+                " difficulty. It seemed everything would not go",
+                " his way, he was betrayed by his",
+                " brothers, sold as slave, and unjustly imprisoned.",
+                " Yusuf could have chosen to be bitter",
+                " and question his fate by asking Allah,",
+                " what happened to my dreamdestined for greatness?",
+                " He could have easily complained “why do",
+                " these things keep happening to me” as",
+                " many of us would. But he knew",
+                " better…"
+            ],
             "Full Story": {
                 "The Story of Prophet Yusuf (PBUH)": [
                     "Yusuf (Joseph) was the beloved son of Prophet Yaqub (Jacob), who also had 11 other sons. Binyamin, who was youngest, was from the same mother as Yusuf, while the rest were older half-brothers.",
@@ -365,12 +429,22 @@
                     "Lesson: Prophet Yusuf from his dream knew he was destined for greatness but it seemed at every turn of his life he was met with difficulties and adversity. He was betrayed by his brothers, sold as slave, and unjustly imprisoned. Yusuf could have chosen to be bitter and question Allah by saying, “I thought you had ordained for me greatness”. He could have easily complained and ask “why do these things keep happening to me”. But he knew better, he knew Allah had a plan for him and he had to just keep faith. Yusuf knew by just focusing on being the best he could, treating people right and with respect, doing more than what was requested that Allah would take care of him.",
                     "“There was certainly in their stories a lesson for those of understanding. Never was the Qur’an a narration invented, but a confirmation of what was before it and a detailed explanation of all things and guidance and mercy for a people who believe.” Surah Yusuf Ayah 111"
                 ]
-            },
-            "Intro": "Prophet Yusuf (Joseph) had a dream that he was destined for greatness. Yet his life was filled with had adversity and difficulty. It seemed everything would not go his way, he was betrayed by his brothers, sold as slave, and unjustly imprisoned. Yusuf could have chosen to be bitter and question his fate by asking Allah, what happened to my dreamdestined for greatness? He could have easily complained “why do these things keep happening to me” as many of us would. But he knew better…"
+            }
         }
     },
     "9": {
         "Prophet Saleh": {
+            "Intro": [
+                "Prophet Saleh was a respected and wise",
+                " man sent to help guide the nation",
+                " of Thamud. At the time, the city",
+                " grew very prosperous and began the love",
+                " for short term materialistic pleasures. The Prophet",
+                " sought to make sure the people knew",
+                " the consequence of their actions. Read full",
+                " story to find out what happened to",
+                " the people of Thamud."
+            ],
             "Full Story": {
                 "Story Of Prophet Saleh": [
                     "Story Of Prophet Salih In Islam",
@@ -394,12 +468,21 @@
                     "The disbelievers of Thamud had no ally that day. They had incurred the wrath of Allah which caused them to be destroyed before they realised what was happening.",
                     "Meanwhile, Prophet Saleh and the believers were saved by Allah’s grace. He returned to Al Hijr one day to witness the destruction of his people and said with a heavy heart, “O my people, I had certainly conveyed to you the message of my Lord and advised you, but you do not like advisors.” Prophet Saleh then migrated to Palestine, where he lived until his death."
                 ]
-            },
-            "Intro": "Prophet Saleh was a respected and wise man sent to help guide the nation of Thamud. At the time, the city grew very prosperous and began the love for short term materialistic pleasures. The Prophet sought to make sure the people knew the consequence of their actions. Read full story to find out what happened to the people of Thamud."
+            }
         }
     },
     "10": {
         "Prophet Sulaiman": {
+            "Intro": [
+                "Prophet Sulaiman (Solomon) was the youngest son",
+                " of Dawud (david) and the third king",
+                " of the people of Israel. Allah bestowed",
+                " many gifts to Sulaiman including the ability",
+                " to speak with animals and rule over",
+                " Jinn. He ruled justly and is often",
+                " regarded as one of the greatest rulers.",
+                ""
+            ],
             "Full Story": {
                 "The Story of Prophet Sulaiman (PBUH)": [
                     "Sulaiman was the son of Prophet Dawud (David). Dawud was the wise King of Israel and a noble Prophet of Allah (SWT). Sulaiman learnt from his father’s vast knowledge and judgement and often joined his father during hearings. He was an observer and learned from him and occasionally contributed to the discussion.",
@@ -430,12 +513,20 @@
                     "“And when We decreed for Solomon death, nothing indicated to the jinn his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment.” (34:14)",
                     ""
                 ]
-            },
-            "Intro": "Prophet Sulaiman (Solomon) was the youngest son of Dawud (david) and the third king of the people of Israel. Allah bestowed many gifts to Sulaiman including the ability to speak with animals and rule over Jinn. He ruled justly and is often regarded as one of the greatest rulers."
+            }
         }
     },
     "11": {
         "Prophet Adam": {
+            "Intro": [
+                "The story of the first man, Prophet",
+                " Adam (as). His life is filled with",
+                " many lessons we can learn from. It",
+                " covers topics such as creation, temptation, and",
+                " pride, as well as touching on our",
+                " purpose here on earth and the love",
+                " and mercy of Allah سُبْحَٰنَهُۥ وَتَعَٰلَىٰ."
+            ],
             "Full Story": {
                 "Story Of Prophet Adam (As) In Islam": [
                     "In the heavens, Allah (SWT) informed His angels that He had decided to place a vicegerent on earth who would reside there from generation to generation. The Angels were not too pleased with Allah’s (SWT) announcement as they were aware that the jinns who existed on earth previously had corrupted the land and caused ample bloodshed.",
@@ -529,8 +620,7 @@
                     "Prior to Adam’s (PBUH) death, he reassured his offspring that Allah (SWT) would not abandon them and continue to watch over and guide them. He also informed them that Allah (SWT) would continue to send down Prophets as a guide for mankind. ",
                     "Following the death of Adam (PBUH), his son Seth (PBUH) succeeded him. He too was made a Prophet and was tasked with the duty of guiding people to the path of Allah (SWT)."
                 ]
-            },
-            "Intro": "The story of the first man, Prophet Adam (as). His life is filled with many lessons we can learn from. It covers topics such as creation, temptation, and pride, as well as touching on our purpose here on earth and the love and mercy of Allah سُبْحَٰنَهُۥ وَتَعَٰلَىٰ."
+            }
         }
     }
 }

@@ -1,7 +1,42 @@
 {
     "The Road to Peace and Salvation (Salamati ka Rasta) By Abul A'la Maududi": {
-        "Intro": "There are major issues which vex every thinking man and woman at some time in life. One of these matters is the existence of God. Another is the anguished question: why, if there is a God and He is merciful, is there so much suffering in the world, and why is peace so elusive? This last question is particularly pertinent in this last decade of a century which seems to have nothing but war and bloodshed. Mawlana Mawdudi, like many scholars before him, tackles these questions head-on. But his approach is down-to-earth, and seeks to explain his answers to these questions by using everyday examples which are easily understood. Having pointed towards the answers to these important questions, Mawdudi throws some questions back at us, which each and every one has to answer: Now that we know of the Maker and His plan, what are we going to do about it? Huda Khattab May 1994. Huda Khattab was born in Lancashire (England), and raised as a Protestant Christian. Although a devoted and regular church-attender in her teens, she found that many of her questions were not answered by Christianity. After studying Christianity and other religions, she embraced Islam in 1983, whilst still at University. She received her BA (Hons) in Arabic from the School of Oriental and African Studies (London University) in 1986. She has translated several books from Arabic to English, and is the author of “Stories from the Muslim World” (Macdonald 1987) and “The Muslim Woman’s Handbook” (Ta-Ha 1993).",
-        "table_of_contents": {
+        "Credits": "By Abul A'la Maududi",
+        "Introduction": [
+            "There are major issues which vex every thinking man and",
+            " woman at some time in life. One of these matters",
+            " is the existence of God. Another is the anguished question:",
+            " why, if there is a God and He is merciful,",
+            " is there so much suffering in the world, and why",
+            " is peace so elusive? This last question is particularly pertinent",
+            " in this last decade of a century which seems to",
+            " have nothing but war and bloodshed. Mawlana Mawdudi, like many",
+            " scholars before him, tackles these questions head-on. But his approach",
+            " is down-to-earth, and seeks to explain his answers to these",
+            " questions by using everyday examples which are easily understood. Having",
+            " pointed towards the answers to these important questions, Mawdudi throws",
+            " some questions back at us, which each and every one",
+            " has to answer: Now that we know of the Maker",
+            " and His plan, what are we going to do about",
+            " it? Huda Khattab May 1994. Huda Khattab was born in",
+            " Lancashire (England), and raised as a Protestant Christian. Although a",
+            " devoted and regular church-attender in her teens, she found that",
+            " many of her questions were not answered by Christianity. After",
+            " studying Christianity and other religions, she embraced Islam in 1983,",
+            " whilst still at University. She received her BA (Hons) in",
+            " Arabic from the School of Oriental and African Studies (London",
+            " University) in 1986. She has translated several books from Arabic",
+            " to English, and is the author of “Stories from the",
+            " Muslim World” (Macdonald 1987) and “The Muslim Woman’s Handbook” (Ta-Ha",
+            " 1993)."
+        ],
+        "Table of Contents": {
+            "1": "On The Existence Of The Divine Being",
+            "2": "The Unity Of God",
+            "3": "The Real Cause Of Man’S Distress",
+            "4": "Why Is There So Much Injustice In The World?",
+            "5": "How Can We Establish Peace?"
+        },
+        "Chapters": {
             "1": {
                 "On The Existence Of The Divine Being": [
                     "If someone were to tell you that in the centre",
@@ -701,7 +736,6 @@
                     " disaster...?"
                 ]
             }
-        },
-        "Credits": "By Abul A'la Maududi"
+        }
     }
 }
