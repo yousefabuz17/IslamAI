@@ -15,7 +15,7 @@ from random import choice
 from time import time
 from aiohttp import (ClientSession, TCPConnector, client_exceptions)
 from bs4 import BeautifulSoup
-from docx import Document
+# from docx import Document
 from geocoder import location
 from nested_lookup import nested_lookup as nested
 from pdfminer.high_level import extract_pages
@@ -181,16 +181,13 @@ class BaseAPI(metaclass=SingletonMeta):
         :pdf: PDF file name as BufferReader
         :kwargs: maxpages, page_numbers -> range(start,end)
         '''
-        default_values = (0, None)
-        maxpages, page_numbers = tuple(kwargs.get(key, default_values[i]) for i, key in enumerate(('maxpages', 'page_numbers')))
+        maxpages, page_numbers = tuple(kwargs.get(key, None) for _, key in enumerate(('maxpages', 'page_numbers')))
         if kwargs:
             pdf_file = extract_pages(pdf, maxpages=maxpages, page_numbers=page_numbers)
-            clean_pdf = ''.join([j.get_text() for i in pdf_file for j in i if hasattr(j, 'get_text')]).split('\n')
-            return clean_pdf
         else:
             pdf_file = extract_pages(pdf)
-            clean_pdf = ''.join([j.get_text() for i in pdf_file for j in i if hasattr(j, 'get_text')]).split('\n')
-            return clean_pdf
+        clean_pdf = ''.join([j.get_text() for i in pdf_file for j in i if hasattr(j, 'get_text')]).split('\n')
+        return clean_pdf
     
     def _get_page(self, file, start=None, end=None):
         return self._extractor(file, maxpages=start) if not end else self._extractor(file, page_numbers=range(start,end))
@@ -207,46 +204,16 @@ class BaseAPI(metaclass=SingletonMeta):
         print(f'\033[1;32m`{file_name}`\033[0m was exported in \033[1;32m {s_path}\033[0m')
     
     async def _extract_contents(self, **kwargs):
-        default_values = ['']*2+[False, self.url] +['']*3
-        html_file, endpoint, slash, url, class_, tag_, style = tuple(kwargs.get(key, default_values[i]) for i,key in enumerate(('html_file', 'endpoint', 'slash', 'url', 'class_', 'tag_', 'style')))
+        default_values = [self.url, False] + ['']*2
+        url, slash, endpoint, html_file = (kwargs.get(key, default_values[i]) for i,key in enumerate(('url', 'slash', 'endpoint', 'html_file')))
         main_page = await self._request(url=url, endpoint=endpoint, slash=slash) if not html_file else html_file
-        # try:
-        #     soup = BeautifulSoup(main_page, 'html.parser')
-        # except TypeError:
-        #     soup = html_file
         soup = BeautifulSoup(main_page, 'html.parser')
         params = {}
-        # for key, value in kwargs.items():
-        #     if key not in ['html_file', 'endpoint', 'slash', 'url']:
-        #         params[key] = value
-        #         if key=='tag_':
-        #             params['name'] = value
-        #         # else:
-        #         #     params['attrs'] = {key: value}
-        # # params.update(kwargs)
-        # # if params:
-        # contents = soup.find_all(**params)
-        # return contents
-        # return soup
-        if (class_) and (not tag_):
-            params['class_'] = class_
-            contents = soup.find_all(**params)
-            return contents
-        elif (tag_):
-            params['tag_'] = tag_
-            contents = soup.find_all(tag_)
-            return contents
-        elif (tag_ and class_):
-            params['class_'] = class_
-            contents = soup.find_all(tag_, **params)
-            return contents
-        elif (tag_ and style):
-            params['style'] = class_
-            contents = soup.find_all(tag_, **params)
-            return contents
-        elif (style):
-            params['style'] = style
-            contents = soup.find_all(**params)
+        for key, value in kwargs.items():
+            if key not in locals():
+                params['attrs'] = {key: value}
+        if params:
+            contents = soup.find_all(**params['attrs'])
             return contents
         return soup
 
@@ -1169,7 +1136,7 @@ class PrayerAPI(BaseAPI):
             place = kwargs.get('place', 'Saudia Arabia')
             coords_qib = _get_coords()
             endpoint = f'qibla/:{coords_qib.lat}/:{coords_qib.long}'
-            url = self.url.aladhan
+            url = self.url.qibla_dir
             response = await self._request(endpoint=endpoint, slash=True, url=url)
             qibla_dir = response['data'].get('direction') if response['status']=='OK' else 68.92406695044804
             coords_qib = coords_qib._replace(qibla=qibla_dir)
@@ -1691,7 +1658,7 @@ class IslamicStudies(BaseAPI):
         
         @lru_cache(maxsize=1)
         async def _get_docx():
-            return Document(self.path / 'docxs' / 'islam-laws.docx')
+            return Document(self.path / 'docxs' / 'islam-laws.docx') # type: ignore
         
         def _table_extractor(table_index=0, columns=False):
             if table_index < len(docx.tables):
@@ -1865,151 +1832,146 @@ class IslamicStudies(BaseAPI):
 
 class IslamPrayer(BaseAPI):
     def __init__(self):
-        self.file = load(path=self.path / 'pdfs', file_name='salah-guide', ext='pdf')
+        self.url = self.config
     
-    # async def extract_wudu_guide(self, export=False):
-    #     def _cleaner(page_contents):
-    #         return [i for i in page_contents if re.search(r'\w+', i) and not re.match(r'(?:\d{1,2})|(?:How to Perform Wudu\’ \(Step-by-Step\))', i)]
+    async def extract_wudu_guide(self, export=False):
+        pdf = load(path='pdfs', file_name='salah-guide', ext='pdf')
+        url = self.url
+        space = self.add_line_breaks
         
-    #     async def _wudu_foundations():
-    #         page = self._get_page(wudu_guide, 10, 11)[:-1]
-    #         title_contents = page.pop(0)
-    #         indexes = self._get_indexes(page, found=True)[0]
-    #         foundation = {title_contents: {}}
-    #         for idx, (i,j) in enumerate(indexes, start=1):
-    #             start, end = i[0], j[0] if j[0] != len(page) else len(page)
-    #             key = i[1].title()
-    #             contents = _get_contents(page, start, end)
-    #             foundation[title_contents][key] = list(contents.split('  '))
-    #             if idx==3:
-    #                 structured_dict = {}
-    #                 current_key = None
-    #                 contents = list(contents.split()[:-1])[:-2]
-    #                 for item in contents:
-    #                     if re.match(r'(?:\d{1})\.', item):
-    #                         current_key = item.strip('.')
-    #                         structured_dict[current_key] = ''
-    #                     elif current_key is not None:
-    #                         structured_dict[current_key] += f'{item} '
-    #                 foundation[title_contents][key] = structured_dict
-    #         return foundation
-        
-    #     async def _title_contents():
-    #         page_ = self._get_page(wudu_guide, 11, 12)
-    #         page = _cleaner(page_)
-    #         wudu_title_contents = [page.pop(0).rstrip() for _ in range(3)][::2]
-    #         return wudu_title_contents
-        
-    #     def _get_contents(*args):
-    #         contents, start, end = args
-    #         old_contents = ' '.join(contents[start+1:end]).rstrip()
-    #         return old_contents
-        
-    #     def _format_page(page, g_index):
-    #         '''g_index: grouped_indexes'''
-    #         steps = {}
-    #         for i, j in g_index:
-    #             start, end = i[0], j[0] if j[0] != len(page) else len(page)
-    #             step_name = i[1]
-    #             contents = _get_contents(page, start, end)
-    #             steps[step_name] = contents
-    #         return steps
-        
-    #     async def _wudu_contents():
-    #         pages_ = [self._get_page(wudu_guide, *i) for _,i in enumerate(((11,14), (14, 15)))]
-    #         pages = [_cleaner(i) for i in pages_]
-    #         first_six, nine_ten = pages
-    #         step_sev = first_six.index('Step 7 - Head')
-            
-    #         def _sev_eight():
-    #             sev = first_six[step_sev:len(first_six)]
-    #             sev_key, eight_key = [sev.pop(0) for _ in range(2)]
-    #             sev_cont, eight_cont = sev[:4], sev[4:]
-    #             sev_eight = {
-    #                         sev_key: sev_cont,
-    #                         eight_key: eight_cont
-    #                         }
-    #             updated_both = {idx: {key:value} for idx, (key,value) in enumerate(sev_eight.items(), start=7)}
-    #             return updated_both
-            
-            # def _fix_ten():
-            #     label = 'Step 10 - Closing Du’a/Invocation'
-            #     ten = both_fixed[-1].get(label)
-            #     ten_idx = ten.find(label)
-            #     ten_cont = ten[ten_idx+len(label)+1:]
-            #     both_fixed[-1][label] = ten_cont
-            #     both_fixed[-1] = {idx: {key:list(value.split('  '))} for idx,(key,value) in enumerate(both_fixed[-1].items(), start=9)}
-            #     return both_fixed[-1]
-            
-            # updated_six = first_six[3:step_sev]
-            # merged_pages = updated_six + nine_ten
-            # sev_eight = _sev_eight()
-            # both_indexes = [self._get_indexes(i, r'Step \d{1,2}')[0] for _,i in enumerate((updated_six, nine_ten))]
-            # both_fixed = [_format_page(merged_pages, i) for i in both_indexes]
-            # both_fixed[-1] = _fix_ten()
-            # both_fixed[0] = {idx: {key: list(value.split('  '))} for idx,(key,value) in enumerate(both_fixed[0].items(), start=1)}
-            # both_fixed[0].update(sev_eight)
-            # both_fixed[0].update(both_fixed[-1])
-            # wudu_contents = OrderedDict(both_fixed[0])
-            # return wudu_contents
-        
-        # async def _wudu_rules():
-        #     page = self._get_page(wudu_guide, 15, 16)[:-3]
-        #     title = ''.join([page.pop(0) for _ in range(2)])
-        #     page[page.index('MUSLIM')] = 'NOTE'
-        #     rules = page[:12]
-            
-        #     def _fix_rules():
-        #         tip1 = page[12:17]
-        #         tip2 = page[17:21]
-        #         proph_message = page[21:page.index('NOTE')]
-        #         merged_rules = [tip1, tip2, proph_message]
-        #         rule_contents = {contents[0] if re.match(r'(?:Wudu Tip - \w+)', contents[0]) \
-        #                         else ''.join(contents[:2]): \
-        #                         contents[1:] if re.search(r'(?:Wudu Tip - \w+)', contents[0]) \
-        #                         else ''.join(contents[2:]) for contents in merged_rules}
-        #         return rule_contents
-                
-        #     rule_contents = _fix_rules()
-        #     note = page[page.index('NOTE'):]
-        #     structured = OrderedDict({
-        #                 title: {
-        #                     'Rules':rules,
-        #                     note[0]: note[1:],
-        #                     'Tips': rule_contents
-        #                     }})
-        #     return structured
-        
-        
-        # wudu_guide = self.file
-        # title_contents, wudu_contents, foundation, rules = await asyncio.gather(
-        #                                                         _title_contents(),
-        #                                                         _wudu_contents(),
-        #                                                         _wudu_foundations(),
-        #                                                         _wudu_rules()
-        #                                                         )
-        
-        # def _merge_all():
-        #     title, desc = title_contents
-        #     all_merged = {
-        #         'Wudu-Guide': {
-        #                     'Introduction': {**foundation},
-        #                     'Mandatory-Rules': {**rules},
-        #                     title: {desc: {**wudu_contents}}
-        #                     }
-        #                 }
-        #     return all_merged
-        
-        # all_contents = _merge_all()
-        # if export:
-        #     return self._exporter(all_contents, 'wudu-guide')
-        # return all_contents
-
-    async def get_prayer(self, export=False):
         def _get_contents(*args):
             contents, start, end = args
-            old_contents = contents[start+1:end]
-            return old_contents
+            fixed_contents = [i for i in contents[start+1:end] if i]
+            return fixed_contents
+        
+        def _get_toc(contents, toc):
+            toc_grouped = [(i, toc[idx+1]) for idx, i in enumerate(toc) if idx<=len(toc)-2]
+            insort(toc_grouped,((toc_grouped[-1][-1]), (len(contents), '')), hi=len(toc_grouped))
+            return toc_grouped
+        
+        async def _get_wudu_verses():
+            main_page = await self._extract_contents(url=url.duas, class_='panel-body')
+            contents = ''.join([i.text for i in main_page]).split('\n')[1:-2]
+            
+            def _get_verses(*args):
+                verse_langs = namedtuple('verses', ['ar', 'la', 'en'], defaults=[None]*3)
+                fixed_contents = _get_contents(*args)
+                _contents = deepcopy(fixed_contents)
+                if len(fixed_contents)==3:
+                    return verse_langs(*fixed_contents)
+                else:
+                    last_bit = _contents.pop(-1)
+                    return verse_langs(*[' '.join(_contents), last_bit])
+            
+            toc = [(idx, i) for idx,i in enumerate(contents) if re.match(r'^(While|Upon)', i)]
+            toc_grouped = _get_toc(contents, toc)
+            wudu_verses = OrderedDict()
+            for idx, i in enumerate(toc_grouped):
+                range_ = i[0][0], i[1][0]
+                toc_key = i[0][1]
+                wudu_verse = _get_verses(contents, *range_)
+                _dict = OrderedDict(
+                        {'verse-ar': space(str(wudu_verse.ar), 11),
+                        'verse-la': space(str(wudu_verse.la), 11),
+                        'verse-en': space(str(wudu_verse.en), 11)})
+                if not wudu_verse.en:
+                    _ = [_dict.pop(key) for _,key in enumerate(('verse-la', 'verse-en'))]
+                    _dict.update({'info': space(wudu_verse.la, 11)})
+                wudu_verses[idx] = {toc_key: _dict}
+            return wudu_verses
+
+        async def _get_wudu_guide():
+            async def _wudu_foundation():
+                await asyncio.sleep(5)
+                fn_page = self._get_page(pdf, start=10, end=11)[:-3]
+                fn_title = fn_page.pop(0)
+                toc_titles = [(idx, i) for idx,i in enumerate(fn_page) if i.isupper()]
+                toc_grouped = _get_toc(fn_page, toc_titles)
+                fn_dict = {fn_title: OrderedDict()}
+                for i in toc_grouped:
+                    range_ = i[0][0], i[1][0]
+                    toc_key = i[0][1].title()
+                    toc_contents = _get_contents(fn_page, *range_)
+                    fn_dict[fn_title].update({toc_key: toc_contents})
+                full_foundation = {'Introduction': fn_dict}
+                return full_foundation
+            
+            async def _get_wudu_keys():
+                wudu_keys = namedtuple('wudu_keys', ['title', 'order_key', 'step_keys'])
+                main_pg = self._get_page(pdf, start=11, end=15)
+                title, order_key = [main_pg.pop(i).strip() for i in [0, 1]]
+                step_keys = [i for i in main_pg if re.match(r'^Step', i)]
+                return wudu_keys(*[title, order_key, step_keys])
+            
+            async def _get_rules():
+                async def _get_note():
+                    await asyncio.sleep(2)
+                    main_page = [i.text for i in (await self._extract_contents(url=url.raleigh, endpoint='wudu', name='table'))]
+                    main_pg = ''.join(main_page).split('\n')
+                    wudu_note = [i.replace('\xa0','').removeprefix('Note:') for i in main_pg if re.match(r'^Note:', i)]
+                    return wudu_note
+                
+                async def _structure_rules():
+                    await asyncio.sleep(2)
+                    rules_pg = self._get_page(pdf, start=15, end=16)[:-3]
+                    rules_toc = [(idx, ''.join(rules_pg[idx:idx+2]) if idx in [0, 23] else i) for idx, i in enumerate(rules_pg) if re.match(r'(^Actions|^Wudu Tip|^The Prophet)', i) or i.isupper()]
+                    toc_grouped = _get_toc(rules_pg, rules_toc)
+                    rules_dict = OrderedDict()
+                    for i in toc_grouped:
+                        range_ = i[0][0], i[1][0]
+                        s_lice = slice(1, None) if range_[0] in [0, 23] else slice(None)
+                        toc_key = 'Notes' if i[0][1].isupper() else i[0][1].replace(':','')
+                        toc_contents = _get_contents(rules_pg, *range_)[s_lice]
+                        rules_dict[toc_key] = toc_contents
+                    _rules_dict = deepcopy(rules_dict)
+                    rules_dict.update({'Tips': {tip: rules_dict.pop(tip) for tip in _rules_dict if re.match(r'^Wudu', tip)},
+                                        'Notes': {idx: self.add_line_breaks(note, 11) for idx, note in enumerate([''.join(rules_dict['Notes'])] + (await _get_note()), start=1)}})
+                    updated_rules = {'Mandatory Rules': rules_dict}
+                    return updated_rules
+                wudu_rules = await _structure_rules()
+                return wudu_rules
+            
+            async def _get_wudu_steps():
+                await asyncio.sleep(2)
+                main_page = await self._extract_contents(url=url.raleigh, endpoint='wudu', name='tr')
+                _ = main_page.pop(1)
+                main_contents = ''.join([i.text.replace('\xa0',' ') for i in main_page][1:-4]).split('\n')
+                fixed_contents = [re.sub(r'(\d{1}\. )|(\s+)', ' ', i).strip() for i in main_contents if i.strip()]
+                one_to_nine = fixed_contents[:-5]
+                ten = [' '.join(fixed_contents[-5:])]
+                updated_steps = one_to_nine + ten
+                return updated_steps
+            
+            async def _structure_all():
+                wudu_foundation, wudu_rules, wudu_steps, wudu_verses, wudu_keys  = await asyncio.gather(*[
+                                                            _wudu_foundation(),
+                                                            _get_rules(),
+                                                            _get_wudu_steps(),
+                                                            _get_wudu_verses(),
+                                                            _get_wudu_keys()
+                                                        ])
+                full_wudu = OrderedDict({'Wudu-Guide': {**wudu_foundation,
+                                                        **wudu_rules,
+                                                        wudu_keys.title: {wudu_keys.order_key: {wudu_keys.step_keys[idx]: 
+                                                                    OrderedDict({'Procedure': space(wudu_steps[idx], 11),
+                                                                                **wudu_verses.get(idx)}) for idx in range(len(wudu_keys.step_keys))}}}})
+                return full_wudu
+
+            full_wudu = await _structure_all()
+            return full_wudu
+        wudu_guide = await _get_wudu_guide()
+        if export:
+            return self._exporter(wudu_guide, file_name='wudu-guide', path='jsons/salah')
+        return wudu_guide
+        
+    
+    
+
+    # async def get_prayer(self, export=False):
+    #     def _get_contents(*args):
+    #         contents, start, end = args
+    #         old_contents = contents[start+1:end]
+    #         return old_contents
         
         # async def _prayer_rules():
         #     prereqs = self._get_page(prayer_guide, 16, 17)[:-3]
@@ -2023,12 +1985,12 @@ class IslamPrayer(BaseAPI):
         #         prayer_contents[title][idx] = {key:contents}
         #     return prereqs
         
-        async def _prayer_steps():
-            first_rakah = self._get_page(prayer_guide, 17, 24)
-            return first_rakah
+        # async def _prayer_steps():
+        #     first_rakah = self._get_page(prayer_guide, 17, 24)
+        #     return first_rakah
         
-        prayer_guide = self.file
-        return await _prayer_steps()
+        # prayer_guide = self.file
+        # return await _prayer_steps()
 
 class ArabicAPI(BaseAPI):
     def __init__(self):
@@ -2054,68 +2016,72 @@ class ArabicAPI(BaseAPI):
             return self._exporter(numeric_table, file_name='arabic_numbers', path='jsons/arabic')
         return numeric_table
 
+    async def extract_arabic_alphabet(self, export=False):
+        async def hello():
+            return
+        return [i for i in locals() if asyncio.iscoroutine(i)]
+
 class IslamPillars(BaseAPI):
     def __init__(self):
         super().__init__()
     
     async def extract_islam_pillars(self, export=False):
-        async def _get_pdf_pillars():
-            pdf_file = load(path='pdfs', file_name='5-Pillars-of-Islam', ext='pdf')
+        pdf_file = load(path='pdfs', file_name='5-Pillars-of-Islam', ext='pdf')
 
-            def _get_intro():
-                '''Summary, Verse, Description'''
-                first_page = self._extractor(pdf_file, page_numbers=range(0,1))
-                start, middle, third, end = [idx for idx,i in enumerate(first_page) if re.search(r'((^Summary:)|(\“Righteousness)|((Qur\'an 2:177, trans. Abdel Haleem)))|(world\, including in America)',i)]
-                summary = ''.join(first_page[start:middle]).removeprefix('Summary: ')
-                verse = [i.strip() for i in first_page[middle:third+1]]
-                description = first_page[third+1:end+1]
-                return summary, verse, description
+        def _get_intro():
+            '''Summary, Verse, Description'''
+            first_page = self._extractor(pdf_file, page_numbers=range(0,1))
+            start, middle, third, end = [idx for idx,i in enumerate(first_page) if re.search(r'((^Summary:)|(\“Righteousness)|((Qur\'an 2:177, trans. Abdel Haleem)))|(world\, including in America)',i)]
+            summary = ''.join(first_page[start:middle]).removeprefix('Summary: ')
+            verse = [i.strip() for i in first_page[middle:third+1]]
+            description = first_page[third+1:end+1]
+            return summary, verse, description
 
-            def _clean_pdf():
-                file = self._extractor(pdf_file)
-                copyright = 'Copyright ©2021'
-                contact = 'contact the Pluralism Project'
-                cleaned_pdf = [i for i in file if not re.search(fr'{copyright}|{contact}',i)]
-                return cleaned_pdf
+        def _clean_pdf():
+            file = self._extractor(pdf_file)
+            copyright = 'Copyright ©2021'
+            contact = 'contact the Pluralism Project'
+            cleaned_pdf = [i for i in file if not re.search(fr'{copyright}|{contact}',i)]
+            return cleaned_pdf
 
-            def _get_pillars():
-                cleaned_pdf = _clean_pdf()
-                pillars = r'(Shahadah: )|(Salat: )|(Zakat: )|(Sawm: )|(Hajj: )'
-                pillars_idx = [(idx, i) for idx,i in enumerate(cleaned_pdf) if re.match(pillars, i)]
-                pillar_contents = []
-                pillars_idx_grouped = [(pillars_idx[i], pillars_idx[i+1]) for i in range(0, len(pillars_idx)-1)]
-                pillars_idx_grouped.append((pillars_idx_grouped[-1][-1], (len(cleaned_pdf), '')))
-                for items in pillars_idx_grouped:
-                    start,end = items[0][0], items[1][0]
-                    pillar_contents.append(cleaned_pdf[start:end])
-                all_pillars = OrderedDict()
-                pillar_contents[-1] = pillar_contents[-1][:-1]
-                fixed_contents = [''.join(i) for i in pillar_contents]
-                for idx,i in enumerate(fixed_contents, start=1):
-                    pillar_name = re.match(pillars, i).group().replace(': ','')
-                    contents = re.sub(pillars, '', i)
-                    key = f'{idx}-{pillar_name}'
-                    if key not in all_pillars:
-                        all_pillars[key] = {}
-                    readable_contents = self.add_line_breaks(contents, words_per_line=11)
-                    all_pillars[key] = readable_contents
-                return all_pillars
+        def _get_pillars():
+            cleaned_pdf = _clean_pdf()
+            pillars = r'(Shahadah: )|(Salat: )|(Zakat: )|(Sawm: )|(Hajj: )'
+            pillars_idx = [(idx, i) for idx,i in enumerate(cleaned_pdf) if re.match(pillars, i)]
+            pillar_contents = []
+            pillars_idx_grouped = [(pillars_idx[i], pillars_idx[i+1]) for i in range(0, len(pillars_idx)-1)]
+            pillars_idx_grouped.append((pillars_idx_grouped[-1][-1], (len(cleaned_pdf), '')))
+            for items in pillars_idx_grouped:
+                start,end = items[0][0], items[1][0]
+                pillar_contents.append(cleaned_pdf[start:end])
+            all_pillars = OrderedDict()
+            pillar_contents[-1] = pillar_contents[-1][:-1]
+            fixed_contents = [''.join(i) for i in pillar_contents]
+            for idx,i in enumerate(fixed_contents, start=1):
+                pillar_name = re.match(pillars, i).group().replace(': ','')
+                contents = re.sub(pillars, '', i)
+                key = f'{idx}-{pillar_name}'
+                if key not in all_pillars:
+                    all_pillars[key] = {}
+                readable_contents = self.add_line_breaks(contents, words_per_line=11)
+                all_pillars[key] = readable_contents
+            return all_pillars
 
-            def _structure_pillars():
-                summary, verse, description = _get_intro()
-                summary = self.add_line_breaks(summary, 11)
-                all_pillars = _get_pillars()
-                structured_pillars = OrderedDict({
-                                        'Summary': summary,
-                                        'Verse': verse,
-                                        'Description': description,
-                                        '5-Pillars': all_pillars})
-                return structured_pillars
+        def _structure_pillars():
+            summary, verse, description = _get_intro()
+            summary = self.add_line_breaks(summary, 11)
+            all_pillars = _get_pillars()
+            structured_pillars = OrderedDict({
+                                    'Summary': summary,
+                                    'Verse': verse,
+                                    'Description': description,
+                                    '5-Pillars': all_pillars})
+            return structured_pillars
 
-            all_pillar_contents = _structure_pillars()
-            if export:
-                return self._exporter(all_pillar_contents, 'pillars-of-islam', 'jsons/pillars')
-            return all_pillar_contents
+        all_pillar_contents = _structure_pillars()
+        if export:
+            return self._exporter(all_pillar_contents, 'pillars-of-islam', 'jsons/pillars')
+        return all_pillar_contents
         
     async def extract_pillars_of_faith(self, export=False):
         url = self.url.madra
@@ -2183,7 +2149,7 @@ async def main():
     # e = ProphetStories()
     # f = ProphetMuhammad()
     # g = IslamicStudies()
-    # h = IslamPrayer()
+    h = IslamPrayer()
     # i = ArabicAPI()
     # j = IslamPillars()
     
@@ -2209,10 +2175,11 @@ async def main():
                     # g.road_peace_html(default),
                     # g.extract_life_and_death(default),
                     # c.extract_islamic_terms(default),
-                    # h.extract_wudu_guide(default),
+                    h.extract_wudu_guide(default),
                     # h.get_prayer(default),
                     # a.get_quran_keyword(keyword='allah'),
                     # i.extract_arabic_numbers(default),
+                    # i.extract_arabic_alphabet(default)
                     # a.extract_all_duas(default),
                     ]]
         results = await asyncio.gather(*tasks)
@@ -2224,7 +2191,7 @@ async def main():
     # except Exception as e:
     #     traceback = tracemalloc.get_object_traceback(e)
     #     print(traceback)
-    results = await run_all(False)
+    results = await run_all(True)
     end = time()
     pprint(results)
     timer = (end-start)

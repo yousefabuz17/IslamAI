@@ -1,0 +1,43 @@
+Numeral (English),Numeral (Arabic),Pronunciation (English),Pronunciation (Arabic)
+0,٠,ṣifr,صفر
+1,١,wāḥid,واحد
+2,٢,iṯnān,إثنان
+3,٣,ṯālaṯa,ثلاثة
+4,٤,ārba’a,أربعة
+5,٥,ḫamsa,خمسة
+6,٦,sitta,ستة
+7,٧,sab’a,سبعة
+8,٨,ṯamāniya,ثمانية
+9,٩,tis’a,تسعة
+10,١٠,‘ashra,عشرة
+11,١١,aḥada ‘ashar,إحدى
+12,١٢,iṯnā ‘ashar,إثنا
+13,١٣,ṯālatha ‘ashar,ثلاثة
+14,١٤,arba’a ‘ashar,أربعة
+15,١٥,ḫamsa ‘ashar,خمسة
+16,١٦,sitta ‘ashar,ستة
+17,١٧,sab’a ‘ashar,سبعة
+18,١٨,ṯamāniya ‘ashar,ثمانية
+19,١٩,tis’a ‘ashar,تسعة
+20,٢٠,‘ishrun,عشرون
+21,٢١,wāḫed wa-’ishrun,واحد
+22,٢٢,iṯnāne wa-’ishrun,إثنان
+23,٢٣,ṯālaṯa wa-’ishrun,ثلاثة
+24,٢٤,arba’a wa-’ishrun,أربعة
+25,٢٥,ḫamsa wa-’ishrun,خمسة
+26,٢٦,sitta wa-’ishrun,ستة
+27,٢٧,sab’a wa-’ishrun,سبعة
+28,٢٨,ṯamāniya wa-’ishrun,ثمانية
+29,٢٩,tis’a wa-’ishrun,تسعة
+30,٣٠,ṯālaṯun,ثلاثون
+40,٤٠,arba’un,أربعون
+50,٥٠,ḫamsun,خمسون
+60,٦٠,sittun,ستون
+70,٧٠,sab’un,سبعون
+80,٨٠,ṯamānun,ثمانون
+90,٩٠,tis’un,تسعون
+100,١٠٠,mi'a,مائة
+"1,000",١٠٠٠,alf,ألف
+"2,000",٢٠٠٠,alfain,ألفين
+"100,000",١٠٠٠٠٠,mi'at alf,مائة
+1 million,١٠٠٠٠٠٠,million,مليون
