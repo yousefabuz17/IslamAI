@@ -1,20 +1,38 @@
 import re
+import ssl
 import json
 import asyncio
 import pandas as pd
 from pathlib import Path
-from functools import lru_cache
+from nltk import download
 from dataclasses import dataclass
+from itertools import chain
 from collections import OrderedDict
 from multiprocessing import cpu_count
 from nested_lookup import nested_lookup as nested
+from functools import (lru_cache, cached_property)
 from concurrent.futures import (ThreadPoolExecutor, as_completed)
 from typing import (Any, AnyStr, Dict, Generator, IO, ItemsView, KeysView,
                     List, Optional, Tuple, Union, ValuesView)
+from pprint import pprint
 
+#^ Primary path for accessing project-related data.
+MAIN_DIR = Path(__file__).parents[1].absolute() / 'islamic_data'
 
 @dataclass
 class ArgMapper[T: Dict]:
+    '''
+        [MAPPING IS NOT SUPPORTED FOR DIRECTORIES]
+        
+        ~Argument MUST ONLY be a 2 key-value paired iterable
+        1. To obtain contents of files, use the name of the file as the attribute name.
+        2. If no files are shown, iterate through `get_files` property for all files (PosixPaths)
+            2a. Make sure parent directory only contains files w/o file extensions
+            2b. If no files are shown then check directory path and make sure .
+        3. If instance from DataLoader contains directories, then ArgMapper will not function properly.
+            3a. WILL RAISE AN ERROR
+        4. If caching is involved (overrides contents which leads into errors)
+    '''
     def __init__(self, dict_: T) -> None:
         '''
         Initialize an ArgMapper instance.
@@ -23,60 +41,62 @@ class ArgMapper[T: Dict]:
             dict_ (T): A Key-Value pair dictionary or 2-Pair Iterable to be mapped to attributes of the ArgMapper instance.
         '''
         self.dict_: T = dict_
-        self._gen_files: Generator[Tuple, None, Any] = self._gen_files()
+        self.__index = 0
+        self._check_arg()
         self._set_attrs()
     
     def _set_attrs(self):
         try:
             for key, value in self.dict_.items():
-                setattr(self, str(key), value)
-        except (AttributeError, ValueError):
-            return self.__repr__()
+                setattr(self, key, value)
+        except (AttributeError, ValueError, TypeError):
+            return self._check_arg(True)
+    
+    def __iter__(self):
+        return self
+    
+    def __next__(self):
+        if self.__index >= len(self.dict_):
+            raise StopIteration
+        item = getattr(self, sorted(self.keys())[self.__index])
+        self.__index += 1
+        return item 
     
     def __len__(self) -> int:
         return len(self.dict_)
     
-    def __str__(self) -> Union[str, Exception]:
-        return f'{[i for i,_j in self.get_files]}'
+    def __str__(self) -> str:
+        return f'{list(self.keys(True))}'
 
-    def __repr__(self) -> Union[str, Exception]:
-        return f'''
-        \033[1;31;41m[MAPPING IS NOT SUPPORTED FOR DIRECTORIES]\033[0m
-        Argument MUST ONLY be a 2 key-value paired iterable
-        1. To Obtain contents of files, use the name of the file as the attribute name.
-        2. If no files are shown, iterate through `get_files` property for all files (PosixPaths)
-            2a. Make sure parent directory only contains files w/o file extensions
-            2b. If no files are shown then check directory path and make sure .
-        3. If instance from DataLoader contains directories, then ArgMapper will not funciton properly.
-            3a. \033[1;31m[WILL RAISE AN ERROR]\033[0m
-        4. If caching is involved (overrides contents which leads into errors)\n
-        [ATTRIBUTES ({self.__class__.__name__} instance)]
-        {dir(self)}
-        '''
+    def __repr__(self) -> str:
+        return f'{dir(self)}'
     
     @property
     def get_files(self) -> Generator[Tuple, None, None]:
         return self.items()
     
-    def _gen_files(self):
+    def _check_arg(self, __raise=False):
+        '''This simply validates the arugment passed'''
         __message = f'ArgMapper constructor expects a dictionary or iterable as its argument. Argument may not be valid:\n`{self.dict_}`'
+        if __raise:
+            raise TypeError(__message)
         try:
             if not isinstance(self.dict_, Dict):
-                raise AttributeError(__message)
-            _gen = [i for i, _j in self.get_files]
-            if len(_gen)!=0:
+                raise TypeError(__message)
+            _gen = (i for i, _j in self.get_files)
+            if len(list(_gen))!=0:
                 return _gen
         except (AttributeError, ValueError, TypeError):
             raise AttributeError(__message)
     
-    def get(self, key: AnyStr, default: Optional[Any]=None) -> Union[Dict, AttributeError]:
+    def get(self, __key: AnyStr, __default: Optional[Any]=None) -> Union[Dict, AttributeError]:
         try:
-            return getattr(self, key)
+            return getattr(self, str(__key))
         except AttributeError:
-            return default
+            return __default
     
-    def keys(self) -> KeysView:
-        return self.dict_.keys()
+    def keys(self, __sort=False) -> KeysView:
+        return self.dict_.keys() if not __sort else sorted(self.dict_.keys())
     
     def values(self) -> ValuesView:
         return self.dict_.values()
@@ -84,44 +104,48 @@ class ArgMapper[T: Dict]:
     def items(self) -> ItemsView:
         return self.dict_.items()
     
-    def __getitem__(self, key: AnyStr) -> Union[Dict, AttributeError]:
-        return self.get(key)
+    def __getitem__(self, __key: AnyStr) -> Union[Dict, AttributeError]:
+        return self.get(__key)
     
-    def __getattr__(self, key: AnyStr) -> Union[Dict, AttributeError]:
+    def __getattr__(self, __key: AnyStr) -> Union[Dict, AttributeError]:
         try:
-            if str(key) in self.dict_:
-                self.dict_[key]
+            if str(__key) in self.dict_:
+                self.dict_[__key]
         except TypeError: ...
     
     @property
     def reset(self) -> Dict:
         '''Resets ArgMapper back to Dictionary instance'''
-        return {k:v for k,v in self.get_files}
+        return self.dict_
 
 class DataLoader[T: Union[IO[str], str]]:
     def __init__(self, folder_path: T='jsons', file_ext: Optional[AnyStr]='json', ext_path: T='') -> Union[Dict, ArgMapper]:
         '''
-        Initializes a data loader for Islamic data processing.
+        This class is designed to load data for Islamic data processing purposes.
+        It allows you to specify the `folder_path` where the data is stored.
+        If the data is stored in an external directory, you can provide the `ext_path`.
 
-        This class is designed to load data for Islamic data processing purposes. It allows you to specify the `folder_path` where the data is stored. If the data is stored in an external directory, you can provide the `ext_path`.
-
-        Parameters:
+        The DataLoader class serves as a fundamental component for efficiently loading all structured and clean data
+        for this project.
+        
+        ### Parameters:
             - folder_path (T): A path to the directory containing the data. Use 'jsons' for Islamic data or a custom path for external data.
             - file_ext (str): The file extension of the data files (default is 'json').
             - ext_path (str): An optional path for external data directories.
 
-        Returns:
-            - Union[OrderedDict, ArgMapper]: The loaded data in the form of an OrderedDict or ArgMapper, depending on the use case.
+        ### Returns:
+            - Union[Dict, ArgMapper]: The loaded data in the instance of [Dict, ArgMapper], depending on the use case.
 
-        Important Notes:
+        ### Important Notes:
             1) Use `folder_path` for Islamic data processing purposes (e.g., 'jsons/quran/altafsir').
                 a) To load external data, specify the `ext_path` attribute.
-            2) Mapping (`ArgMapper instance`) will only work if directory contains no sub-directories and only files
+            2) Mapping with an ArgMapper instance will function correctly when the directory exclusively contains read-write files and does not include subdirectories.
+                a) The presence of subdirectories may lead to issues in the mapping process and/or reading the files.
         '''
         self.folder_path: T = folder_path
         self.ext_path: T= ext_path
         self.file_ext = file_ext
-        self.path = MAIN_DIR / folder_path if not self.ext_path else Path(self.ext_path)
+        self.path: T = MAIN_DIR / folder_path if not self.ext_path else Path(self.ext_path)
         self._data_files: Generator[Path, None, Union[IO[str], AnyStr]] = self._get_all_files()
 
     def __len__(self) -> int:
@@ -154,33 +178,33 @@ class DataLoader[T: Union[IO[str], str]]:
         {dir(self) + self.file_names}
         '''
     
-    def get(self, key: AnyStr, default: Optional[Any]=None) -> Union[Dict, Optional[Any]]:
-        if key in self.get_files:
-            return self.get_files[key]
-        return default
+    def get(self, __key: AnyStr, __default: Optional[Any]=None) -> Union[Dict, Optional[Any]]:
+        if __key in self.get_files:
+            return self.get_files[__key]
+        return __default
     
-    def __getattr__(self, key: AnyStr) -> Union[Dict, AttributeError]:
-        return self.get(key, AttributeError(f'`{key}` is not an attribute'))
+    def __getattr__(self, __key: AnyStr) -> Union[Dict, AttributeError]:
+        return self.get(__key, AttributeError(f'`{__key}` is not an attribute'))
     
     @staticmethod
     def add(*args: Dict, mapper: bool=False, **kwargs: IO[str]) -> Union[Dict, ArgMapper]:
         '''
-        Args:
-        *args (dict): Multiple dictionaries to be added to the data loader. The order of dictionaries should correspond to their respective keys in the **kwargs.
-        mapper (bool, optional): If True, the added dictionaries will be converted into an ArgMapper instance (default is False).
+        ### Args:
+        :param *args Dict: Multiple dictionaries to be added to the data loader. The order of dictionaries should correspond to their respective keys in the **kwargs.
+        :param mapper Optional[bool]: If True, the added dictionaries will be converted into an ArgMapper instance (default is False).
 
-        Keyword Args:
+        ### Keyword Args:
             **kwargs: Specify the key names for each added dictionary. These keys are used as attributes for retrieval.
 
-        Returns:
-            Union[Dict, ArgMapper]: The added dictionaries with keys, or an ArgMapper instance if `mapper` is True.
+        ### Returns:
+            >>> Union[Dict, ArgMapper]: The added dictionaries with keys, or an ArgMapper instance if `mapper` is True.
 
-        Example:
+        ### Example:
             To add dictionaries and specify key names for retrieval:
 
                 ~ files = DataLoader.add(dict1, dict2, key1='file1', key2='file2')
 
-        Important Notes:
+        ### Important Notes:
             - If `mapper` is True, the method returns an ArgMapper instance.
             - If len(args) != len(kwargs)
                 ~ kwargs = range(1, len(args)+1) by default (Will override any given kwargs)
@@ -192,6 +216,7 @@ class DataLoader[T: Union[IO[str], str]]:
             return ArgMapper(all_added_files)
         return all_added_files
 
+    @lru_cache(maxsize=None)
     def load_data(self, file_path: Union[IO[str], str]) -> Tuple[str, IO[str]]:
         def json_map() -> IO[str]:
             try:
@@ -215,12 +240,10 @@ class DataLoader[T: Union[IO[str], str]]:
     def __call__(self, mapper: bool=False) -> Union[Dict, ArgMapper]:
         #** Using OrderedDict to maintain files in chronological order as they appear in the directory.
         all_files: Dict= OrderedDict()
-        all_file_paths = []
         with ThreadPoolExecutor(max_workers=cpu_count() // 2) as executor:
             future_to_file = {executor.submit(self.load_data, file_path): file_path for file_path in self._data_files}
             for future in as_completed(future_to_file):
                 file_path = future_to_file[future]
-                all_file_paths.append(file_path)
                 try:
                     file_name, data = future.result()
                     all_files[file_name] = data
@@ -229,9 +252,9 @@ class DataLoader[T: Union[IO[str], str]]:
         if mapper:
             return ArgMapper(all_files)
         return all_files
-
+    
     @staticmethod
-    def load_file(path: Union[IO[str], str]='', file_name: AnyStr='', ext: AnyStr='json', **kwargs) -> Union[IO[str], Dict]:
+    def load_file(path: T='', file_name: AnyStr='', ext: AnyStr='json', **kwargs) -> Union[IO[str], Dict]:
         default_values = ('r', None)
         mode, encoding = tuple(kwargs.get(key, default_values[i]) for i,key in enumerate(('mode','encoding')))
         '''
@@ -252,43 +275,36 @@ class DataLoader[T: Union[IO[str], str]]:
         return self(mapper=True)
 
 class CSVProcessor[T: ArgMapper[pd.DataFrame]]:
+    '''The CSVProcessor class is designed for handling and processing CSV data within the context of this project.'''
+    
     _dataframes = None
     
     def __init__(self) -> None:
         '''
-        Initializes a CSV data processing class for this project.
+        ### Args:
+            None
+        
+        - This class is designed for processing CSV data specific to this project.
+        - It relies on global variables to access and manipulate data.
 
-        This class is designed for processing CSV data specific to this project.
-        It relies on the global `JSONS` variable to access and manipulate data.
-        Ensure that `JSONS` is properly configured before using this class.
-
-        Note: This class does not return any specific data in its constructor, but it provides methods to retrieve the CSV data.
+        ### Note:
+            >>> This class does not return any specific data in its constructor, but it provides methods to retrieve the CSV data.
+        
+        E.g
+        To utilize this class, simply create an instance like this:
+        - processor = CSVProcessor()
+        - dataframes = processor.dataframes
         '''
         self._path = MAIN_DIR / 'csvs'
     
     def __str__(self) -> str:
         return f'{dir(self)}'
     
-    def __repr__(self, __string='') -> str:
-        return f'[{self.__class__.__name__ if not __string else f'NO {__string}'} ATTRIBUTE]\n{self._get_methods()}'
-    
-    def keys(self) -> str:
-        return self.__repr__('KEYS')
-    
-    def values(self) -> str:
-        return self.__repr__('VALUES')
-    
-    def items(self) -> str:
-        return self.__repr__('ITEMS')
-    
-    @staticmethod
-    def flatten(lst: List) -> Generator[List, None, AnyStr]:
-        for i in lst:
-            if isinstance(i, list):
-                yield from i
+    def __repr__(self) -> str:
+        return f'{self._get_methods()}'
     
     async def process_surahs_info(self) -> pd.DataFrame:
-        surah_quran = JSONS.jsons['all-surahs-surahquran']
+        surah_quran = JSONS['all-surahs-surahquran'] #type: ignore
         surahs_info = OrderedDict({re.sub(r'(^\d{1,3}\-)|\'','',key): {k: v for k, v in values.items() if k not in ['verses', 'quran-source']} for key, values in surah_quran.items()})
         df = []
         for surah_name, surah_info in surahs_info.items():
@@ -303,7 +319,7 @@ class CSVProcessor[T: ArgMapper[pd.DataFrame]]:
         return pd.DataFrame(df)
 
     async def process_surahquran(self) -> pd.DataFrame:
-        surah_quran, verse_meanings = tuple(JSONS.jsons.get(i) for _,i in enumerate(('all-surahs-surahquran', 'all-surah-meanings')))
+        surah_quran, verse_meanings = tuple(JSONS.get(i) for _,i in enumerate(('all-surahs-surahquran', 'all-surah-meanings'))) #type: ignore
         verseID_meanings = OrderedDict({j['verse-id']: None if not j['description'][0] else ' '.join(j['description']) for i in nested('verse-info', verse_meanings) for j in i})
         all_surah_names = [re.sub(r'(^\d{1,3}\-)|\'','',i) for i in surah_quran.keys()]
         all_lang_verses = OrderedDict({all_surah_names[idx]: {**info['verses']} for idx, (_, info) in enumerate(surah_quran.items())})
@@ -322,22 +338,22 @@ class CSVProcessor[T: ArgMapper[pd.DataFrame]]:
         return pd.DataFrame(df)
     
     async def process_allahs_names(self) -> pd.DataFrame:
-        allahs_names = JSONS.jsons.list_allah_names
-        _ = allahs_names.pop('All Names')
+        allahs_names = JSONS.list_allah_names #type: ignore
+        allahs_names.pop('All Names')
         df = []
         for nameID, name_info in allahs_names.items():
             info_data = name_info['Information']
             all_names_info = OrderedDict({
                                     'ID': nameID,
                                     'Name': name_info.pop('Name'),
-                                    'transliteration_eng': info_data.pop('transliteration_eng'),
-                                    'transliteration_ar': info_data.pop('transliteration_ar')[::-1],
-                                   **{k: v.replace('\n','').strip() for k,v in info_data.items()}})
+                                    'Transliteration_eng': info_data.pop('transliteration_eng'),
+                                    'Transliteration_ar': info_data.pop('transliteration_ar')[::-1],
+                                   **{k.title(): v.replace('\n','').strip() for k,v in info_data.items()}})
             df.append(all_names_info)
         return pd.DataFrame(df)
     
     async def process_islamic_laws(self) -> pd.DataFrame:
-        islamic_laws = JSONS.jsons['islamic-laws']
+        islamic_laws = JSONS['islamic-laws'] #type: ignore
         df = []
         for _, laws in islamic_laws.items():
             cat, laws = laws[0], laws[1]
@@ -348,7 +364,7 @@ class CSVProcessor[T: ArgMapper[pd.DataFrame]]:
         return pd.DataFrame(df)
     
     async def process_islamic_terms(self) -> pd.DataFrame:
-        islamic_terms = JSONS.jsons['islamic-terms']
+        islamic_terms = JSONS['islamic-terms'] #type: ignore
         df = []
         for i in islamic_terms:
             for letter, letter_info in i.items():
@@ -365,13 +381,13 @@ class CSVProcessor[T: ArgMapper[pd.DataFrame]]:
         return pd.DataFrame(df)
     
     async def process_proph_muhammeds_names(self) -> pd.DataFrame:
-        muhammads_names = JSONS.jsons.list_of_prophet_muhammed_names
+        muhammads_names = JSONS.list_of_prophet_muhammed_names #type: ignore
         muhammads_names.pop('Source')
-        all_names = [OrderedDict(**j) for _, i in muhammads_names.items() for j in list(i.values())]
-        return pd.DataFrame(all_names, index=list(range(1, 100)))
+        all_names = [OrderedDict(**j) for _, i in muhammads_names.items() for j in i.values()]
+        return pd.DataFrame(all_names, index=list(range(1, len(all_names)+1)))
     
     async def process_islamic_facts(self) -> pd.DataFrame:
-        islamic_facts = JSONS.jsons['islamic-facts']
+        islamic_facts = JSONS['islamic-facts'] #type: ignore
         intro_fact = nested('Introduction', islamic_facts)
         facts = [list(i.values()) for i in nested('Facts', islamic_facts)]
         fixed_facts = [i if isinstance(i, str) else ''.join(i) for i in self.flatten(facts)]
@@ -379,7 +395,7 @@ class CSVProcessor[T: ArgMapper[pd.DataFrame]]:
         return pd.DataFrame({'Facts': all_facts})
     
     async def process_islamic_timeline(self) -> pd.DataFrame:
-        islamic_timeline = JSONS.jsons['islamic-timeline']
+        islamic_timeline = JSONS['islamic-timeline'] #type: ignore
         islamic_timeline.pop('Credits')
         centuries = [re.search(r'(?:\d{3,4})',i).group() for i in self.flatten(islamic_timeline.values())]
         centuries_info = [i.split('-')[-1].strip() for i in self.flatten(islamic_timeline.values())]
@@ -388,35 +404,39 @@ class CSVProcessor[T: ArgMapper[pd.DataFrame]]:
         return pd.DataFrame(full_timeline)
     
     async def process_rabbana_duas(self) -> pd.DataFrame:
-        duas = JSONS.jsons['all-duas']
+        duas = JSONS['all-duas'] #type: ignore
         rabbana_key = list(duas.keys())[0]
         rabbana_duas = [i[1] for i in duas[rabbana_key].items()]
         return pd.DataFrame(rabbana_duas, index=list(range(1, len(rabbana_duas)+1)))
     
     def process_dua_categories(self) -> pd.DataFrame:
         #! Finish
-        dua_categories = JSONS.jsons['all-duas']
+        dua_categories = JSONS['all-duas'] #type: ignore
         dua_key = list(dua_categories.keys())[1]
         dua_cats = [i[1] for i in dua_categories[dua_key].items()]
         return dua_cats
     
     async def process_qibla(self) -> pd.DataFrame:
-        qibla_content = JSONS.jsons.qibla_data
+        qibla_content = JSONS.qibla_data #type: ignore
         return pd.DataFrame([{**i} for _,i in qibla_content.items()])
     
     async def process_quran_stats(self) -> pd.DataFrame:
-        stats = [{i:j for i,j in JSONS.jsons.quran_stats.items()}]
+        stats = [{i:j for i,j in JSONS.quran_stats.items()}] #type: ignore
         return pd.DataFrame(stats)
     
     async def process_arabic_numbers(self) -> pd.DataFrame:
-        table = JSONS.arabic.arabic_numbers
+        table = ARABIC.arabic_numbers #type: ignore
         df = [j for _,j in nested('Table', table)[0].items()]
         return pd.DataFrame(df)
     
     async def execute_all(self) -> T:
-        '''Main constructor to execute all pd.Dataframes as ArgMapper instance'''
+        '''Main constructor to execute all methods for DataFrames (ArgMapper instance)'''
         method_names = self._get_methods
-        all_dataframes = await asyncio.gather(*[getattr(self, csv_method)() for csv_method in method_names(removeprefix=False)])
+        async with asyncio.TaskGroup() as tg:
+            df_tasks = [tg.create_task(task) for task in \
+                        [getattr(self, csv_method)() for csv_method in method_names(removeprefix=False)]]
+        
+        all_dataframes = await asyncio.gather(*df_tasks)
         all_df_methods = ArgMapper({method: df for method,df in zip(method_names(), all_dataframes)})
         return all_df_methods
     
@@ -424,73 +444,137 @@ class CSVProcessor[T: ArgMapper[pd.DataFrame]]:
         '''Removes prefix names for all asynchronous DataFrame methods'''
         return [i if not removeprefix else i.removeprefix('process_') for i in dir(CSVProcessor) if re.match(r'^process', i) and asyncio.iscoroutinefunction(getattr(self, i))]
     
-    @classmethod
-    def dataframes(cls, export: bool=False) -> T:
+    @cached_property
+    def dataframes(self) -> T:
         '''
         Returns ArgMapper: An instance containing dataframes.
         
-        Use attribute names to retrieve DataFrame objects (instances of pd.DataFrame).
+        >>> Use attribute names to retrieve DataFrame objects (instances of pd.DataFrame).
         '''
-        if cls._dataframes is None:
-            cls._dataframes = asyncio.run(cls().execute_all())
-        if export:
-            df_methods = cls()._get_methods()
-            (getattr(cls._dataframes, df).to_csv(f'{cls()._path / df}.csv', index=False) for df in df_methods)
-            print(f'\033[1;32m Successfully converted {len(cls._dataframes)} JSON files to CSV format.\033[0m')
-        return cls._dataframes
+        if CSVProcessor._dataframes is None:
+            CSVProcessor._dataframes = asyncio.run(self.execute_all())
+        return CSVProcessor._dataframes
+    
+    @property
+    def export(self) -> str:
+        ''' >>> Exports all DataFrames to CSV files'''
+        df_methods = self._get_methods()
+        (getattr(self.dataframes, df).to_csv(f'{self._path / df}.csv', index=False) for df in df_methods)
+        print(f'\033[1;32mSuccessfully converted {len(self.dataframes)} JSON files to CSV format.\033[0m')
+
+class NLTKLoader:
+    _stopwords = None
+    _nltk = None
+    '''
+    ### Note:
+        >>> The NLTKLoader class is designed to provide a convenient way for accessing
+            a unified set of NLTK stopwords from all languages to be used for Tensforflow text filtering.
+    '''
+    def __init__(self, __ext_path=None) -> None:
+        '''
+        ### Args:
+        - __ext_path: A dummy argument mainly used for caching purposes.
+            It represents the path to the NLTK stopwords data directory, but its value does not
+            affect the functionality of the class. The class caches the stopwords, so this
+            argument is provided for caching purposes.
+        '''
+        if __ext_path is None:
+            __ext_path = Path.home() / 'nltk_data/corpora/stopwords'
+        self.ext_path = __ext_path
+    
+    @cached_property
+    def _filter_stopwords(self) -> List[str]:
+        '''Filters all NLTK stopwords (for all languages) into a single frozenset
+        
+        The STOPWORDS property filters and combines NLTK stopwords from multiple languages into
+        a single set then converted back into a list for Tensorflow purposes. It ensures efficient and consistent access to common stop words for
+        natural language processing and text analysis.
+
+        Note:
+            >>> This property utilizes the NLTK library and its data, and it may perform an initial
+            download of the stopwords data if not already present in the specified or default path.
+        '''
+        stopwords = [[word for word in words if word] \
+                    for lang, words in self.nltk.items() \
+                    if re.match(r'[a-z].*[a-z]$', lang)]
+        cleaned_stopwords = OrderedDict.fromkeys(*[map(str.lower, chain.from_iterable(stopwords))])
+        return list(cleaned_stopwords)
+    
+    @cached_property
+    def stopwords(self) -> List[str]:
+        if NLTKLoader._stopwords is None:
+            nltk_stopwords = self._filter_stopwords
+        NLTKLoader._stopwords = nltk_stopwords
+        return NLTKLoader._stopwords
+
+    @lru_cache(maxsize=None)
+    def _nltk_files(self) -> ArgMapper:
+        ssl._create_default_https_context = ssl._create_unverified_context
+        download('stopwords', quiet=True, force=True, raise_on_error=True)
+        return DataLoader(ext_path=self.ext_path).mapper
+    
+    @cached_property
+    def nltk(self) -> ArgMapper[Dict]:
+        if NLTKLoader._nltk is None:
+            nltk_files = self._nltk_files()
+        NLTKLoader._nltk = nltk_files
+        return NLTKLoader._nltk
 
 @lru_cache(maxsize=None)
-def loader(key: Optional[AnyStr]=None, mapper=False) -> Union[ArgMapper, Dict, ArgMapper]:
+def loader(*keys: Optional[AnyStr], mapper: bool=False) -> List[Union[ArgMapper, Dict, Exception]]:
     '''
     key -> folder name: Optional[str] = None (Loads all JSON files)
     This function is mainly for this projects data rather for external use.
     Otherwise use DataLoader (dl) ext_path argument if needed.
-    (E.g dl(ext_path=f'{Path.home()}/nltk_data/corpora/stopwords)(mapper: bool=False))
+    (E.g dl(ext_path=Path.home() / 'nltk_data/corpora/stopwords')(mapper: bool=False))
     
     Returns ArgMapper instance of folder for given key name.
     
     E.g
-    all_hadiths = loader(key='hadiths')
+    all_hadiths = loader('hadiths')
     all_hadiths.<file_name> or use regular dictionary `get` methods including brackets
     
-    To return all folders at once (loop through all valid paths):
+    To return all folders at once (iterate through all valid paths):
     E.g
-    {folder: loader(key=folder) for _,folder in enumerate(<all_folder_paths>)}
+    {folder: loader(folder) for _,folder in enumerate(<all_folder_paths>)}
     '''
     _JSONS = Path('jsons')
     _EXCLUDE = re.compile(r'(?!quran)', flags=re.IGNORECASE)
-    FOLDERS = ['', *[i.name for i in Path(MAIN_DIR / _JSONS).glob('*') if i.is_dir() and _EXCLUDE.match(i.name)]]
+    _FOLDERS = ['', *[i.name for i in (MAIN_DIR / _JSONS).glob('*') if i.is_dir() and _EXCLUDE.match(i.name)]]
     
-    def _error():
-        raise KeyError(f'`{key}` not found (Check attribute name)')
+    _error = lambda __key, __color=False: f'`{__key}` not found' if not __color \
+                                        else f'\033[1;31m`{__key}` is invalid. No available contents.\033[0m'
     
-    _folders: Dict[ArgMapper] = {'jsons' if not folder else folder: DataLoader(folder_path=_JSONS / folder).mapper
-                                for folder in FOLDERS}
-    _arg: Dict[ArgMapper] = {key: _folders.get(key, _error)}
-    if not key:
+    _folders: Dict[ArgMapper] = {_JSONS.as_posix() if not folder else folder: DataLoader(folder_path=_JSONS / folder).mapper
+                                for folder in _FOLDERS}
+    _arg: Dict[ArgMapper] = {_error(key) if key not in _folders else key: _folders.get(key, _error(key, True)) for key in keys}
+    if not keys:
         #** Loads all folders by default if no key is provided (ArgMapper instance)
-        return ArgMapper(_folders)
-    elif key:
+        if mapper:
+            return ArgMapper({i: _folders[i] for i in _folders.keys()})
+        return _folders #** Dict[ArgMapper] instance
+    elif keys:
         if mapper: return ArgMapper(_arg)
-        else: return _arg
+        else: return _arg #** Dict[ArgMapper] instance
     else: return _error
 
-#^ JSON data path for islamic project
-MAIN_DIR = Path(__file__).parent.parent.absolute() / 'islamic_data'
-#** All instances of ArgMapper
-#^ All NLTK Stopwords -> List[str]
-STOPWORDS = DataLoader(ext_path=f'{Path.home()}/nltk_data/corpora/stopwords').mapper
-#^ All structured JSON files (JSONs + folders) -> ArgMapper[Dict] (Global variable for CSVProcessor)
-JSONS = loader()
-#^ All structured CSV files -> pd.DataFrame
-CSVS = CSVProcessor.dataframes()
+#^ Filtered NLTK stopwords
+STOPWORDS: List[str] = NLTKLoader().stopwords
+#^ All structured JSON files (JSONs + folders[JSONs])
+'''d
+- Automatically includes future folders in the global scope.
+- Global variables utilized for CSVProcessor.
+- Objects are designated as constants, hence represented in uppercase.
+'''
+globals().update({__folder.upper(): __contents for __folder, __contents in loader(mapper=True).items()})
 
+#^ All structured JSON files converted to DataFrames (CSVs)
+CSVS: ArgMapper[pd.DataFrame] = CSVProcessor().dataframes
 
 if __name__ == '__main__':
-    from pprint import pprint
-    # print(STOPWORDS)
+    pprint(STOPWORDS)
     # print(JSONS)
-    pprint(CSVS)
+    # print(CSVS)
     pass
 
 
